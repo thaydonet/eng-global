@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-unit-8-sports-games",
+      "name": "Unit 8: Sports and Games",
+      "slug": "unit-8-sports-and-games",
+      "chapter": "Unit 8: Sports and Games",
+      "chapter_id": "A6",
+      "lesson_id": 8,
+      "description": "Learn about sports and games, past simple tense, and imperatives.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-8",
+          "name": "Sports Vocabulary",
+          "slug": "sports-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 8: Sports and Games",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Sport</td><td class='px-4 py-2'>(n) /spɔːt/</td><td class='px-4 py-2'>Thể thao</td><td class='px-4 py-2'>Football is my favourite sport.</td></tr><tr><td class='px-4 py-2 font-bold'>Game</td><td class='px-4 py-2'>(n) /ɡeɪm/</td><td class='px-4 py-2'>Trò chơi, trận đấu</td><td class='px-4 py-2'>We played a game yesterday.</td></tr><tr><td class='px-4 py-2 font-bold'>Football</td><td class='px-4 py-2'>(n) /ˈfʊtbɔːl/</td><td class='px-4 py-2'>Bóng đá</td><td class='px-4 py-2'>I play football every weekend.</td></tr><tr><td class='px-4 py-2 font-bold'>Basketball</td><td class='px-4 py-2'>(n) /ˈbɑːskɪtbɔːl/</td><td class='px-4 py-2'>Bóng rổ</td><td class='px-4 py-2'>He is good at basketball.</td></tr><tr><td class='px-4 py-2 font-bold'>Volleyball</td><td class='px-4 py-2'>(n) /ˈvɒlibɔːl/</td><td class='px-4 py-2'>Bóng chuyền</td><td class='px-4 py-2'>We play volleyball at school.</td></tr><tr><td class='px-4 py-2 font-bold'>Badminton</td><td class='px-4 py-2'>(n) /ˈbædmɪntən/</td><td class='px-4 py-2'>Cầu lông</td><td class='px-4 py-2'>Badminton is popular in Vietnam.</td></tr><tr><td class='px-4 py-2 font-bold'>Tennis</td><td class='px-4 py-2'>(n) /ˈtenɪs/</td><td class='px-4 py-2'>Quần vợt</td><td class='px-4 py-2'>She plays tennis well.</td></tr><tr><td class='px-4 py-2 font-bold'>Swimming</td><td class='px-4 py-2'>(n) /ˈswɪmɪŋ/</td><td class='px-4 py-2'>Bơi lội</td><td class='px-4 py-2'>Swimming is good for health.</td></tr><tr><td class='px-4 py-2 font-bold'>Cycling</td><td class='px-4 py-2'>(n) /ˈsaɪklɪŋ/</td><td class='px-4 py-2'>Đạp xe</td><td class='px-4 py-2'>I go cycling on Sundays.</td></tr><tr><td class='px-4 py-2 font-bold'>Running</td><td class='px-4 py-2'>(n) /ˈrʌnɪŋ/</td><td class='px-4 py-2'>Chạy bộ</td><td class='px-4 py-2'>Running is my hobby.</td></tr><tr><td class='px-4 py-2 font-bold'>Play</td><td class='px-4 py-2'>(v) /pleɪ/</td><td class='px-4 py-2'>Chơi</td><td class='px-4 py-2'>I play football every day.</td></tr><tr><td class='px-4 py-2 font-bold'>Win</td><td class='px-4 py-2'>(v) /wɪn/</td><td class='px-4 py-2'>Thắng, chiến thắng</td><td class='px-4 py-2'>Our team won the match.</td></tr><tr><td class='px-4 py-2 font-bold'>Lose</td><td class='px-4 py-2'>(v) /luːz/</td><td class='px-4 py-2'>Thua, thất bại</td><td class='px-4 py-2'>They lost the game yesterday.</td></tr><tr><td class='px-4 py-2 font-bold'>Score</td><td class='px-4 py-2'>(v/n) /skɔː(r)/</td><td class='px-4 py-2'>Ghi bàn, tỷ số</td><td class='px-4 py-2'>He scored two goals.</td></tr><tr><td class='px-4 py-2 font-bold'>Competition</td><td class='px-4 py-2'>(n) /ˌkɒmpəˈtɪʃn/</td><td class='px-4 py-2'>Cuộc thi, thi đấu</td><td class='px-4 py-2'>We joined the competition.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Sports (Các môn thể thao):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Team sports (Thể thao đồng đội):</strong></li><li>football, basketball, volleyball, baseball, rugby</li><li><strong>Individual sports (Thể thao cá nhân):</strong></li><li>badminton, tennis, table tennis, swimming, cycling, running, skiing, skating</li></ul><p><strong>Sports equipment (Dụng cụ thể thao):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>ball:</strong> bóng</li><li><strong>racket:</strong> vợt</li><li><strong>bat:</strong> gậy đánh bóng</li><li><strong>net:</strong> lưới</li><li><strong>goal:</strong> khung thành</li><li><strong>bicycle:</strong> xe đạp</li><li><strong>skateboard:</strong> ván trượt</li><li><strong>skis:</strong> ván trượt tuyết</li></ul><p><strong>Sports verbs (Động từ thể thao):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>play:</strong> chơi (+ ball sports: football, basketball, tennis...)</li><li><strong>go:</strong> đi (+ -ing sports: swimming, cycling, skiing...)</li><li><strong>do:</strong> tập (+ martial arts: judo, karate, aerobics...)</li><li><strong>win:</strong> thắng</li><li><strong>lose:</strong> thua</li><li><strong>score:</strong> ghi bàn</li><li><strong>kick:</strong> đá</li><li><strong>throw:</strong> ném</li><li><strong>catch:</strong> bắt</li><li><strong>hit:</strong> đánh</li></ul><p><strong>Sports places (Địa điểm thể thao):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>stadium:</strong> sân vận động</li><li><strong>gym:</strong> phòng tập thể dục</li><li><strong>swimming pool:</strong> bể bơi</li><li><strong>sports centre:</strong> trung tâm thể thao</li><li><strong>playground:</strong> sân chơi</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /e/ and /æ/</h3><p><strong>1. Sound /e/:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Miệng mở vừa, lưỡi ở giữa</li><li><strong>Examples:</strong></li><li>tennis /ˈtenɪs/</li><li>chess /tʃes/</li><li>exercise /ˈeksəsaɪz/</li><li>get /ɡet/</li></ul><p><strong>2. Sound /æ/:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Miệng mở rộng hơn</li><li><strong>Examples:</strong></li><li>badminton /ˈbædmɪntən/</li><li>match /mætʃ/</li><li>racket /ˈrækɪt/</li><li>active /ˈæktɪv/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Past Simple Tense (Thì quá khứ đơn)</h3><p><strong>1. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Diễn tả hành động đã xảy ra và kết thúc trong quá khứ</li><li>Thường có thời gian xác định trong quá khứ</li></ul><p><strong>2. Cấu trúc:</strong></p><p><strong>a) Với động từ thường:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + V2/ed</li><li>Ex: I <strong>played</strong> football yesterday.</li><li>Ex: She <strong>went</strong> swimming last week.</li><li><strong>Phủ định:</strong> S + didn't + V (nguyên mẫu)</li><li>Ex: I <strong>didn't play</strong> football yesterday.</li><li>Ex: She <strong>didn't go</strong> swimming last week.</li><li><strong>Nghi vấn:</strong> Did + S + V (nguyên mẫu)?</li><li>Ex: <strong>Did</strong> you <strong>play</strong> football yesterday?</li><li>Ex: <strong>Did</strong> she <strong>go</strong> swimming last week?</li></ul><p><strong>b) Với động từ 'to be':</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + was/were</li><li>I/He/She/It + was</li><li>You/We/They + were</li><li>Ex: I <strong>was</strong> at the stadium yesterday.</li><li><strong>Phủ định:</strong> S + wasn't/weren't</li><li>Ex: I <strong>wasn't</strong> at the stadium yesterday.</li><li><strong>Nghi vấn:</strong> Was/Were + S?</li><li>Ex: <strong>Were</strong> you at the stadium yesterday?</li></ul><p><strong>3. Cách thêm -ed:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Thêm 'ed':</strong> hầu hết các động từ</li><li>play → played, watch → watched</li><li><strong>Thêm 'd':</strong> động từ kết thúc bằng 'e'</li><li>like → liked, love → loved</li><li><strong>Gấp đôi phụ âm + ed:</strong> động từ 1 âm tiết, kết thúc bằng 1 phụ âm, trước là 1 nguyên âm</li><li>stop → stopped, plan → planned</li><li><strong>Đổi 'y' thành 'ied':</strong> động từ kết thúc bằng phụ âm + y</li><li>study → studied, try → tried</li></ul><p><strong>4. Động từ bất quy tắc (Irregular verbs):</strong></p><ul class='list-disc pl-5 space-y-2'><li>go → went, win → won, lose → lost</li><li>have → had, do → did, make → made</li><li>see → saw, come → came, take → took</li></ul><p><strong>5. Dấu hiệu nhận biết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>yesterday (hôm qua)</li><li>last week/month/year (tuần/tháng/năm trước)</li><li>ago (cách đây)</li><li>in + năm trong quá khứ (in 2020)</li></ul><h3>B. Imperatives (Câu mệnh lệnh)</h3><p><strong>1. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dùng để ra lệnh, yêu cầu, hướng dẫn</li><li>Dùng để đưa ra lời khuyên</li></ul><p><strong>2. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> V (nguyên mẫu)</li><li>Ex: <strong>Play</strong> football!</li><li>Ex: <strong>Run</strong> faster!</li><li><strong>Phủ định:</strong> Don't + V (nguyên mẫu)</li><li>Ex: <strong>Don't play</strong> in the street!</li><li>Ex: <strong>Don't run</strong> in the classroom!</li><li><strong>Lịch sự hơn:</strong> Please + V / V + please</li><li>Ex: <strong>Please sit</strong> down.</li><li>Ex: <strong>Close</strong> the door, <strong>please</strong>.</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> At the gym - Ở phòng tập</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về thể thao</li><li>Giới thiệu các môn thể thao</li><li>Nói về trận đấu trong quá khứ</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Sports and games</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về thể thao</li><li>Học động từ đi với thể thao (play/go/do)</li></ul><p><strong>B. Pronunciation: /e/ and /æ/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /e/ và /æ/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Past Simple and Imperatives</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học thì quá khứ đơn</li><li>Học câu mệnh lệnh</li><li>Luyện tập kể về quá khứ</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about sports</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What sport do you play?</li><li>Did you watch the match?</li><li>Who won?</li><li>Play harder! / Don't give up!</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Sports and games</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về thể thao</li><li>Tìm thông tin về trận đấu</li></ul><p><strong>Speaking: Discussing sports</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về môn thể thao yêu thích</li><li>Kể về trận đấu đã xem</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: A sports event</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về sự kiện thể thao</li><li>Ghi chú thông tin</li></ul><p><strong>Writing: About a sports event</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết về sự kiện thể thao</li><li>Sử dụng Past Simple</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Sports, games, equipment</li><li><strong>Pronunciation:</strong> /e/ and /æ/</li><li><strong>Grammar:</strong> Past Simple, Imperatives</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> My favourite sport</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn môn thể thao yêu thích</li><li>Tìm thông tin và hình ảnh</li><li>Viết mô tả (5-7 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Chia động từ ở thì quá khứ đơn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Động từ có quy tắc: thêm -ed</li><li>Động từ bất quy tắc: học thuộc (go→went, win→won...)</li><li>Lưu ý cách thêm -ed: play→played, stop→stopped, study→studied</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (play) football yesterday.",
+                "solution": "I <strong>played</strong> football yesterday.",
+                "explanation": "Động từ 'play' có quy tắc, thêm 'ed' → played."
+              },
+              {
+                "question": "She ______ (go) swimming last week.",
+                "solution": "She <strong>went</strong> swimming last week.",
+                "explanation": "Động từ 'go' bất quy tắc → went."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Câu phủ định và nghi vấn ở quá khứ đơn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phủ định: S + didn't + V (nguyên mẫu)</li><li>Nghi vấn: Did + S + V (nguyên mẫu)?</li><li>Lưu ý: động từ chính về nguyên mẫu</li></ul>",
+            "examples": [
+              {
+                "question": "I played football. (Chuyển sang phủ định)",
+                "solution": "I <strong>didn't play</strong> football.",
+                "explanation": "Phủ định: didn't + V (nguyên mẫu)."
+              },
+              {
+                "question": "She went swimming. (Đặt câu hỏi)",
+                "solution": "<strong>Did</strong> she <strong>go</strong> swimming?",
+                "explanation": "Câu hỏi: Did + S + V (nguyên mẫu)?"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Sử dụng câu mệnh lệnh",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khẳng định: V (nguyên mẫu)</li><li>Phủ định: Don't + V (nguyên mẫu)</li><li>Lịch sự: Please + V hoặc V + please</li></ul>",
+            "examples": [
+              {
+                "question": "Give an imperative: (run / faster)",
+                "solution": "<strong>Run</strong> faster!",
+                "explanation": "Câu mệnh lệnh khẳng định: V (nguyên mẫu)."
+              },
+              {
+                "question": "Give a negative imperative: (play / in the street)",
+                "solution": "<strong>Don't play</strong> in the street!",
+                "explanation": "Câu mệnh lệnh phủ định: Don't + V."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Động từ đi với thể thao",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Play + ball sports: football, basketball, tennis...</li><li>Go + -ing sports: swimming, cycling, skiing...</li><li>Do + martial arts: judo, karate, aerobics...</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (play/go/do) football.",
+                "solution": "I <strong>play</strong> football.",
+                "explanation": "Football là ball sport → dùng 'play'."
+              },
+              {
+                "question": "She ______ (play/go/do) swimming.",
+                "solution": "She <strong>goes</strong> swimming.",
+                "explanation": "Swimming là -ing sport → dùng 'go'."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I ______ football yesterday.",
+            "options": ["play", "played", "plays", "playing"],
+            "correct": 1,
+            "explanation": "Có 'yesterday' → Past Simple. Play + ed → played."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "She ______ swimming last week.",
+            "options": ["go", "goes", "went", "going"],
+            "correct": 2,
+            "explanation": "Có 'last week' → Past Simple. Go (bất quy tắc) → went."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I ______ play football yesterday.",
+            "options": ["don't", "doesn't", "didn't", "not"],
+            "correct": 2,
+            "explanation": "Phủ định ở quá khứ đơn: didn't + V (nguyên mẫu)."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "______ you watch the match?",
+            "options": ["Do", "Does", "Did", "Are"],
+            "correct": 2,
+            "explanation": "Câu hỏi ở quá khứ đơn: Did + S + V?"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "______ faster!",
+            "options": ["Run", "Runs", "Running", "To run"],
+            "correct": 0,
+            "explanation": "Câu mệnh lệnh: V (nguyên mẫu)."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ play in the street!",
+            "options": ["Not", "Don't", "Doesn't", "Didn't"],
+            "correct": 1,
+            "explanation": "Câu mệnh lệnh phủ định: Don't + V."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "I ______ football every day.",
+            "options": ["play", "go", "do", "make"],
+            "correct": 0,
+            "explanation": "Football là ball sport → dùng 'play'."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "She ______ swimming on Sundays.",
+            "options": ["plays", "goes", "does", "makes"],
+            "correct": 1,
+            "explanation": "Swimming là -ing sport → dùng 'go'."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "Our team ______ the match yesterday.",
+            "options": ["win", "wins", "won", "winning"],
+            "correct": 2,
+            "explanation": "Có 'yesterday' → Past Simple. Win (bất quy tắc) → won."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______ sit down, please.",
+            "options": ["Please", "You", "Do", "Are"],
+            "correct": 0,
+            "explanation": "Câu mệnh lệnh lịch sự: Please + V."
+          }
+        ]
+      }
+    }
+  ]
+}

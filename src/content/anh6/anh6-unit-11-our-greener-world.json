@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-unit-11-our-greener-world",
+      "name": "Unit 11: Our Greener World",
+      "slug": "unit-11-our-greener-world",
+      "chapter": "Unit 11: Our Greener World",
+      "chapter_id": "A6",
+      "lesson_id": 11,
+      "description": "Learn about environmental protection, conditional sentences type 1, and the 3Rs.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-11",
+          "name": "Environment Vocabulary",
+          "slug": "environment-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 11: Our Greener World",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Environment</td><td class='px-4 py-2'>(n) /ɪnˈvaɪrənmənt/</td><td class='px-4 py-2'>Môi trường</td><td class='px-4 py-2'>We must protect the environment.</td></tr><tr><td class='px-4 py-2 font-bold'>Pollution</td><td class='px-4 py-2'>(n) /pəˈluːʃn/</td><td class='px-4 py-2'>Sự ô nhiễm</td><td class='px-4 py-2'>Air pollution is a big problem.</td></tr><tr><td class='px-4 py-2 font-bold'>Recycle</td><td class='px-4 py-2'>(v) /ˌriːˈsaɪkl/</td><td class='px-4 py-2'>Tái chế</td><td class='px-4 py-2'>We should recycle plastic bottles.</td></tr><tr><td class='px-4 py-2 font-bold'>Reuse</td><td class='px-4 py-2'>(v) /ˌriːˈjuːz/</td><td class='px-4 py-2'>Tái sử dụng</td><td class='px-4 py-2'>You can reuse old bags.</td></tr><tr><td class='px-4 py-2 font-bold'>Reduce</td><td class='px-4 py-2'>(v) /rɪˈdjuːs/</td><td class='px-4 py-2'>Giảm thiểu</td><td class='px-4 py-2'>We should reduce waste.</td></tr><tr><td class='px-4 py-2 font-bold'>Rubbish</td><td class='px-4 py-2'>(n) /ˈrʌbɪʃ/</td><td class='px-4 py-2'>Rác</td><td class='px-4 py-2'>Don't throw rubbish on the street.</td></tr><tr><td class='px-4 py-2 font-bold'>Plastic bag</td><td class='px-4 py-2'>(n) /ˈplæstɪk bæɡ/</td><td class='px-4 py-2'>Túi nhựa</td><td class='px-4 py-2'>Plastic bags pollute the environment.</td></tr><tr><td class='px-4 py-2 font-bold'>Glass</td><td class='px-4 py-2'>(n) /ɡlɑːs/</td><td class='px-4 py-2'>Thủy tinh</td><td class='px-4 py-2'>We can recycle glass bottles.</td></tr><tr><td class='px-4 py-2 font-bold'>Paper</td><td class='px-4 py-2'>(n) /ˈpeɪpə(r)/</td><td class='px-4 py-2'>Giấy</td><td class='px-4 py-2'>Save paper to protect trees.</td></tr><tr><td class='px-4 py-2 font-bold'>Can</td><td class='px-4 py-2'>(n) /kæn/</td><td class='px-4 py-2'>Lon, hộp</td><td class='px-4 py-2'>Recycle aluminium cans.</td></tr><tr><td class='px-4 py-2 font-bold'>Plant</td><td class='px-4 py-2'>(v) /plɑːnt/</td><td class='px-4 py-2'>Trồng</td><td class='px-4 py-2'>We should plant more trees.</td></tr><tr><td class='px-4 py-2 font-bold'>Save</td><td class='px-4 py-2'>(v) /seɪv/</td><td class='px-4 py-2'>Tiết kiệm</td><td class='px-4 py-2'>Save water and electricity.</td></tr><tr><td class='px-4 py-2 font-bold'>Protect</td><td class='px-4 py-2'>(v) /prəˈtekt/</td><td class='px-4 py-2'>Bảo vệ</td><td class='px-4 py-2'>Protect the environment.</td></tr><tr><td class='px-4 py-2 font-bold'>Pollute</td><td class='px-4 py-2'>(v) /pəˈluːt/</td><td class='px-4 py-2'>Gây ô nhiễm</td><td class='px-4 py-2'>Don't pollute the air.</td></tr><tr><td class='px-4 py-2 font-bold'>Reusable</td><td class='px-4 py-2'>(adj) /ˌriːˈjuːzəbl/</td><td class='px-4 py-2'>Có thể tái sử dụng</td><td class='px-4 py-2'>Use reusable bags.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>The 3Rs (Ba chữ R):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Reduce:</strong> giảm thiểu (giảm lượng rác thải)</li><li><strong>Reuse:</strong> tái sử dụng (dùng lại đồ cũ)</li><li><strong>Recycle:</strong> tái chế (chế biến lại thành sản phẩm mới)</li></ul><p><strong>Environmental problems (Vấn đề môi trường):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>pollution:</strong> ô nhiễm</li><li><strong>air pollution:</strong> ô nhiễm không khí</li><li><strong>water pollution:</strong> ô nhiễm nước</li><li><strong>soil pollution:</strong> ô nhiễm đất</li><li><strong>noise pollution:</strong> ô nhiễm tiếng ồn</li><li><strong>global warming:</strong> nóng lên toàn cầu</li><li><strong>deforestation:</strong> phá rừng</li></ul><p><strong>Materials (Vật liệu):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>plastic:</strong> nhựa</li><li><strong>glass:</strong> thủy tinh</li><li><strong>paper:</strong> giấy</li><li><strong>metal:</strong> kim loại</li><li><strong>aluminium:</strong> nhôm</li><li><strong>cardboard:</strong> bìa cứng</li></ul><p><strong>Actions to protect the environment:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>recycle:</strong> tái chế</li><li><strong>reuse:</strong> tái sử dụng</li><li><strong>reduce:</strong> giảm thiểu</li><li><strong>save:</strong> tiết kiệm</li><li><strong>protect:</strong> bảo vệ</li><li><strong>plant trees:</strong> trồng cây</li><li><strong>turn off lights:</strong> tắt đèn</li><li><strong>use public transport:</strong> dùng phương tiện công cộng</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /ɑː/ and /æ/</h3><p><strong>1. Sound /ɑː/ (âm dài):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Mở miệng rộng, âm dài</li><li><strong>Examples:</strong></li><li>car /kɑː(r)/</li><li>glass /ɡlɑːs/</li><li>plastic /ˈplɑːstɪk/</li><li>can't /kɑːnt/</li></ul><p><strong>2. Sound /æ/ (âm ngắn):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Mở miệng vừa, âm ngắn</li><li><strong>Examples:</strong></li><li>bag /bæɡ/</li><li>can /kæn/</li><li>plastic /ˈplæstɪk/ (British)</li><li>man /mæn/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Conditional sentences type 1 (Câu điều kiện loại 1)</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>If + S + V (hiện tại đơn), S + will + V (nguyên mẫu)</strong></li><li>Ex: <strong>If</strong> we <strong>recycle</strong> more, we <strong>will help</strong> the Earth.</li><li>Có thể đảo mệnh đề:</li><li>Ex: We <strong>will help</strong> the Earth <strong>if</strong> we <strong>recycle</strong> more.</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Diễn tả điều kiện có thể xảy ra ở hiện tại hoặc tương lai</li><li>Mệnh đề If (điều kiện) chia thì hiện tại đơn</li><li>Mệnh đề chính (kết quả) dùng will + V</li></ul><p><strong>3. Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>If</strong> you <strong>throw</strong> rubbish in the river, it <strong>will be</strong> polluted.</li><li><strong>If</strong> we <strong>plant</strong> more trees, the air <strong>will be</strong> cleaner.</li><li><strong>If</strong> people <strong>use</strong> public transport, there <strong>will be</strong> less pollution.</li></ul><h3>B. Articles: a, an, the</h3><p><strong>1. Mạo từ không xác định (a, an):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>a:</strong> dùng trước danh từ số ít, bắt đầu bằng phụ âm</li><li>Ex: <strong>a</strong> bag, <strong>a</strong> bottle</li><li><strong>an:</strong> dùng trước danh từ số ít, bắt đầu bằng nguyên âm (a, e, i, o, u)</li><li>Ex: <strong>an</strong> apple, <strong>an</strong> orange</li></ul><p><strong>2. Mạo từ xác định (the):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dùng khi danh từ đã được xác định</li><li>Ex: <strong>The</strong> book on the table is mine.</li><li>Dùng với danh từ duy nhất</li><li>Ex: <strong>the</strong> Sun, <strong>the</strong> Moon, <strong>the</strong> Earth</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> What can we do for a greener world? - Chúng ta có thể làm gì cho một thế giới xanh hơn?</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về bảo vệ môi trường</li><li>Giới thiệu khái niệm 3Rs</li><li>Nói về các hành động bảo vệ môi trường</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: The 3Rs and environmental protection</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về 3Rs (Reduce, Reuse, Recycle)</li><li>Học từ vựng về bảo vệ môi trường</li></ul><p><strong>B. Pronunciation: /ɑː/ and /æ/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /ɑː/ và /æ/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Conditional sentences type 1 and Articles</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách dùng câu điều kiện loại 1</li><li>Học cách sử dụng mạo từ a, an, the</li><li>Luyện tập đặt câu điều kiện</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about environmental protection</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What can we do to...?</li><li>We should...</li><li>If we..., we will...</li><li>It's important to...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Tips for a greener world</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về các mẹo bảo vệ môi trường</li><li>Tìm thông tin chi tiết</li></ul><p><strong>Speaking: Discussing environmental problems</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về vấn đề môi trường</li><li>Đưa ra giải pháp</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: About the 3Rs</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về 3Rs</li><li>Ghi chú thông tin quan trọng</li></ul><p><strong>Writing: A paragraph about environmental protection</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đoạn văn về bảo vệ môi trường</li><li>Sử dụng câu điều kiện loại 1</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> The 3Rs, environmental protection</li><li><strong>Pronunciation:</strong> /ɑː/ and /æ/</li><li><strong>Grammar:</strong> Conditional sentences type 1, Articles</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> Make a green poster</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một vấn đề môi trường</li><li>Thiết kế poster với hình ảnh và khẩu hiệu</li><li>Đưa ra giải pháp (5-7 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Câu điều kiện loại 1",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Cấu trúc: If + S + V (hiện tại đơn), S + will + V</li><li>Mệnh đề If chia thì hiện tại đơn</li><li>Mệnh đề chính dùng will + V</li></ul>",
+            "examples": [
+              {
+                "question": "If we ______ (recycle) more, we ______ (help) the Earth.",
+                "solution": "If we <strong>recycle</strong> more, we <strong>will help</strong> the Earth.",
+                "explanation": "Mệnh đề If dùng hiện tại đơn 'recycle', mệnh đề chính dùng 'will help'."
+              },
+              {
+                "question": "If you ______ (throw) rubbish in the river, it ______ (be) polluted.",
+                "solution": "If you <strong>throw</strong> rubbish in the river, it <strong>will be</strong> polluted.",
+                "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, will + V."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Sử dụng mạo từ a, an, the",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>a: trước danh từ số ít, bắt đầu bằng phụ âm</li><li>an: trước danh từ số ít, bắt đầu bằng nguyên âm</li><li>the: danh từ đã xác định hoặc duy nhất</li></ul>",
+            "examples": [
+              {
+                "question": "I have ______ apple.",
+                "solution": "I have <strong>an</strong> apple.",
+                "explanation": "Apple bắt đầu bằng nguyên âm → dùng 'an'."
+              },
+              {
+                "question": "______ Sun is very hot.",
+                "solution": "<strong>The</strong> Sun is very hot.",
+                "explanation": "Sun là danh từ duy nhất → dùng 'the'."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Phân biệt Reduce, Reuse, Recycle",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Reduce: giảm thiểu (giảm lượng rác)</li><li>Reuse: tái sử dụng (dùng lại)</li><li>Recycle: tái chế (chế biến lại)</li></ul>",
+            "examples": [
+              {
+                "question": "We should ______ plastic bottles to make new products.",
+                "solution": "We should <strong>recycle</strong> plastic bottles.",
+                "explanation": "Chế biến lại thành sản phẩm mới → recycle."
+              },
+              {
+                "question": "We should ______ old bags instead of buying new ones.",
+                "solution": "We should <strong>reuse</strong> old bags.",
+                "explanation": "Dùng lại đồ cũ → reuse."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Đảo mệnh đề trong câu điều kiện",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Có thể đảo mệnh đề If và mệnh đề chính</li><li>Nếu If đứng đầu → có dấu phẩy</li><li>Nếu If đứng giữa → không có dấu phẩy</li></ul>",
+            "examples": [
+              {
+                "question": "We will help the Earth if we recycle more. (Viết lại bắt đầu bằng If)",
+                "solution": "<strong>If we recycle more, we will help the Earth.</strong>",
+                "explanation": "Đảo mệnh đề, If đứng đầu → thêm dấu phẩy."
+              },
+              {
+                "question": "If we plant more trees, the air will be cleaner. (Viết lại không bắt đầu bằng If)",
+                "solution": "<strong>The air will be cleaner if we plant more trees.</strong>",
+                "explanation": "Đảo mệnh đề, If đứng giữa → không có dấu phẩy."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "If we ______ more, we will help the Earth.",
+            "options": ["recycle", "will recycle", "recycled", "recycling"],
+            "correct": 0,
+            "explanation": "Mệnh đề If dùng hiện tại đơn → 'recycle'."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "If you throw rubbish in the river, it ______ polluted.",
+            "options": ["is", "will be", "was", "be"],
+            "correct": 1,
+            "explanation": "Mệnh đề chính dùng will + V → 'will be'."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I have ______ apple.",
+            "options": ["a", "an", "the", "x"],
+            "correct": 1,
+            "explanation": "Apple bắt đầu bằng nguyên âm → dùng 'an'."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "______ Earth is our home.",
+            "options": ["A", "An", "The", "x"],
+            "correct": 2,
+            "explanation": "Earth là danh từ duy nhất → dùng 'the'."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "We should ______ plastic bottles.",
+            "options": ["recycle", "recycling", "recycled", "to recycle"],
+            "correct": 0,
+            "explanation": "Should + V nguyên mẫu → 'recycle'."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "If we plant more trees, the air ______ cleaner.",
+            "options": ["is", "will be", "was", "be"],
+            "correct": 1,
+            "explanation": "Câu điều kiện loại 1 → mệnh đề chính dùng 'will be'."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "We should ______ old bags instead of buying new ones.",
+            "options": ["reduce", "reuse", "recycle", "throw"],
+            "correct": 1,
+            "explanation": "Dùng lại đồ cũ → 'reuse'."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "I have ______ book.",
+            "options": ["a", "an", "the", "x"],
+            "correct": 0,
+            "explanation": "Book bắt đầu bằng phụ âm → dùng 'a'."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "If people use public transport, there ______ less pollution.",
+            "options": ["is", "will be", "was", "are"],
+            "correct": 1,
+            "explanation": "Câu điều kiện loại 1 → 'will be'."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "We should ______ waste to protect the environment.",
+            "options": ["reduce", "reuse", "recycle", "all are correct"],
+            "correct": 0,
+            "explanation": "Giảm thiểu rác thải → 'reduce'."
+          }
+        ]
+      }
+    }
+  ]
+}

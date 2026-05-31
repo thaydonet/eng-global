@@ -1,0 +1,409 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-review-3",
+      "name": "Review 3 (Units 7 - 8)",
+      "slug": "review-3-units-7-8",
+      "chapter": "Review 3 (Units 7 - 8)",
+      "chapter_id": "A11",
+      "lesson_id": 10,
+      "description": "Ôn tập từ vựng và ngữ pháp từ Unit 7 và 8 (Tiếng Anh 11 - Global Success).",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=2673&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-3-mixed",
+          "name": "Mixed Review",
+          "slug": "mixed-review",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 3: Units 7-8",
+          "sections": [
+            {
+              "heading": "I. Language - Ôn tập ngôn ngữ",
+              "content": "<h3>A. Pronunciation (Phát âm)</h3><p><strong>Unit 7:</strong> Intonation in Yes/No questions and Wh-questions</p><ul class='list-disc pl-5 space-y-2'><li><strong>Yes/No questions:</strong> Rising intonation (↗)</li><li>Ex: Are you going to university? ↗</li><li><strong>Wh-questions:</strong> Falling intonation (↘)</li><li>Ex: What do you want to study? ↘</li></ul><p><strong>Unit 8:</strong> Intonation in invitations, suggestions, and polite requests</p><ul class='list-disc pl-5 space-y-2'><li><strong>Fall-rise intonation (⤻):</strong> thân thiện, lịch sự</li><li>Ex: Would you like a cup of tea? ⤻</li><li>Ex: Why don't you answer your phone? ⤻</li><li>Ex: Could you please help me? ⤻</li></ul><h3>B. Vocabulary (Từ vựng)</h3><p><strong>Unit 7: Education Options for School-Leavers</strong></p><ul class='list-disc pl-5 space-y-2'><li>Education: school-leaver, vocational, apprenticeship, academic, qualification</li><li>Degrees: degree, diploma, certificate, bachelor's, master's</li><li>Skills: hands-on, practical, pursue, enrol, tuition</li></ul><p><strong>Unit 8: Becoming Independent</strong></p><ul class='list-disc pl-5 space-y-2'><li>Independence: independent, confidence, responsibility, self-motivated, self-study</li><li>Skills: manage, trust, life skill, decision-making, time-management</li><li>Qualities: reliable, motivated, perseverance, self-reliant</li></ul><h3>C. Grammar (Ngữ pháp)</h3><p><strong>Unit 7: Perfect Gerunds and Perfect Participle Clauses</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Perfect Gerund:</strong> Having + V3/ed (as subject or object)</li><li>Ex: <strong>Having studied</strong> hard helped me pass. (subject)</li><li>Ex: She admitted <strong>having made</strong> a mistake. (object)</li><li><strong>Perfect Participle Clause:</strong> Having + V3/ed, S + V</li><li>Ex: <strong>Having finished</strong> school, he took a gap year.</li><li>Dùng để nhấn mạnh hành động đã hoàn thành trước hành động khác</li></ul><p><strong>Unit 8: Cleft Sentences with It is/was... that/who...</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> It + is/was + thành phần nhấn mạnh + that/who + phần còn lại</li><li>Ex: <strong>It is John who</strong> helps me. (nhấn mạnh người)</li><li>Ex: <strong>It was yesterday that</strong> I met him. (nhấn mạnh thời gian)</li><li>Ex: <strong>It is the book that</strong> I need. (nhấn mạnh vật)</li><li>Dùng 'who' cho người, 'that' cho vật/sự việc/thời gian/nơi chốn</li></ul>"
+            },
+            {
+              "heading": "II. Skills - Ôn tập kỹ năng",
+              "content": "<h3>A. Reading (Đọc hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc lướt để nắm ý chính (skimming)</li><li>Đọc kỹ để tìm thông tin chi tiết (scanning)</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li><li>Hiểu ý chính và ý phụ của đoạn văn</li><li>Xác định thông tin đúng/sai</li><li>Suy luận và rút ra kết luận</li></ul><p><strong>Chủ đề đã đọc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Education options: university vs. vocational training</li><li>Independence skills for teenagers</li><li>Decision-making and time-management</li></ul><h3>B. Speaking (Nói)</h3><p><strong>Chủ đề đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Discussing education and career plans</li><li>Talking about life skills and independence</li><li>Giving instructions for basic tasks</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I'm planning to... / I'm considering + V-ing...</li><li>Having thought about it, I've decided to...</li><li>First of all, ... / Secondly, ... / Finally, ...</li><li>It is... who/that...</li><li>Would you like...? / Why don't you...?</li></ul><h3>C. Listening (Nghe hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe để nắm ý chính</li><li>Nghe để tìm thông tin cụ thể</li><li>Điền thông tin còn thiếu (gap-filling)</li><li>Trả lời câu hỏi chi tiết</li><li>Ghi chú các ý quan trọng (note-taking)</li><li>Hiểu thái độ và ý kiến của người nói</li></ul><p><strong>Chủ đề đã nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Interviews about apprenticeship programs</li><li>Talks about independent learners</li><li>Discussions about education choices</li></ul><h3>D. Writing (Viết)</h3><p><strong>Dạng bài đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Writing about education plans after high school</li><li>Writing articles about pros and cons of self-study</li><li>Writing instructions for life skills</li></ul><p><strong>Kỹ năng viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tổ chức bài viết: Introduction - Body - Conclusion</li><li>Sử dụng từ nối: First/Firstly, Second/Secondly, Moreover, On the other hand, In conclusion</li><li>Sử dụng perfect gerunds và participle clauses</li><li>Sử dụng cleft sentences để nhấn mạnh</li><li>Viết câu đa dạng và mạch lạc</li></ul><p><strong>Cấu trúc bài viết mẫu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Introduction:</strong> Giới thiệu chủ đề (1-2 câu)</li><li><strong>Body:</strong> Trình bày ý chính (2-3 đoạn với supporting details)</li><li><strong>Conclusion:</strong> Kết luận và nhấn mạnh ý chính (1-2 câu)</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Mixed Exercise",
+            "method": "<p>Review all grammar points and vocabulary from Units 7-8.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "After finishing high school, students face important decisions about their future. Two main options are university education and vocational training. Both paths can lead to successful careers, but they suit different types of learners.\n\nUniversity education offers broad academic knowledge and critical thinking skills. Having completed a university degree, graduates often have access to professional careers with higher salaries. However, university programs typically take three to four years and can be expensive. It is the theoretical foundation that university provides, preparing students for careers in fields like medicine, law, engineering, and business.\n\nVocational training, on the other hand, focuses on practical skills for specific jobs. Students learn hands-on techniques and gain real work experience. Having done vocational training, graduates can enter the workforce quickly and start earning money sooner. It is the practical approach that makes vocational training attractive to students who prefer learning by doing. Courses are usually shorter and less expensive than university programs.\n\nThe best choice depends on individual goals and learning preferences. It is important for students to consider their strengths, interests, and career aspirations before making a decision. Some students thrive in academic environments, while others excel in practical, hands-on settings.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "University is always better than vocational training",
+                  "Both university and vocational training have their advantages",
+                  "Vocational training is only for poor students",
+                  "All students should go to university"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về ưu điểm của cả hai lựa chọn: đại học và đào tạo nghề."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, what is an advantage of university education?",
+                "options": [
+                  "It's cheaper than vocational training",
+                  "It takes less time",
+                  "Graduates have access to professional careers",
+                  "It only teaches practical skills"
+                ],
+                "correct": 2,
+                "explanation": "Sinh viên tốt nghiệp đại học có cơ hội tiếp cận các nghề nghiệp chuyên môn."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'hands-on' in paragraph 3 is closest in meaning to ______.",
+                "options": [
+                  "theoretical",
+                  "practical",
+                  "expensive",
+                  "academic"
+                ],
+                "correct": 1,
+                "explanation": "Hands-on = practical (thực hành, thực tế)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What is an advantage of vocational training?",
+                "options": [
+                  "It takes longer than university",
+                  "Graduates can start working sooner",
+                  "It's more expensive",
+                  "It only teaches theory"
+                ],
+                "correct": 1,
+                "explanation": "Sinh viên tốt nghiệp đào tạo nghề có thể bắt đầu làm việc sớm hơn."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, how should students choose their education path?",
+                "options": [
+                  "Always choose the cheaper option",
+                  "Based on their parents' wishes",
+                  "Based on their strengths, interests, and career goals",
+                  "Choose whatever their friends choose"
+                ],
+                "correct": 2,
+                "explanation": "Học sinh nên chọn dựa trên điểm mạnh, sở thích và mục tiêu nghề nghiệp của mình."
+              }
+            ]
+          },
+          {
+            "id": "reading2",
+            "type": "reading",
+            "passage": "Becoming independent is a crucial part of growing up. Teenagers need to develop various life skills to prepare for adulthood and earn their parents' trust. Three essential skills are particularly important: basic life skills, decision-making skills, and time-management skills.\n\nFirst, learning basic life skills helps teenagers become self-reliant. It was my mother who taught me how to cook, clean, and do laundry when I was young. Having mastered these skills, I can now take care of myself without depending on my parents. These abilities not only make teenagers more independent but also show parents that they are responsible.\n\nSecond, good decision-making skills are crucial. Teenagers face many choices daily, from small decisions to important ones like choosing a career path. It is the ability to make wise decisions that truly defines independence. To improve this skill, teenagers should identify problems clearly, think of multiple solutions, review pros and cons, and choose the best option.\n\nFinally, time-management skills help teenagers balance studies, hobbies, and responsibilities. Having learned to manage my time effectively, I can accomplish more and feel less stressed. Making to-do lists, using time-management apps, and scheduling breaks are all helpful strategies. It is through consistent practice that teenagers can develop strong time-management abilities.",
+            "questions": [
+              {
+                "id": "reading2-q1",
+                "question": "What is the passage mainly about?",
+                "options": [
+                  "Why teenagers should not be independent",
+                  "Three essential skills for teenage independence",
+                  "Only cooking skills matter",
+                  "Parents should do everything for their children"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về ba kỹ năng thiết yếu để thanh thiếu niên trở nên độc lập."
+              },
+              {
+                "id": "reading2-q2",
+                "question": "According to the passage, basic life skills include ______.",
+                "options": [
+                  "only studying",
+                  "cooking, cleaning, and doing laundry",
+                  "only playing sports",
+                  "watching TV"
+                ],
+                "correct": 1,
+                "explanation": "Kỹ năng sống cơ bản bao gồm nấu ăn, dọn dẹp và giặt giũ."
+              },
+              {
+                "id": "reading2-q3",
+                "question": "The word 'self-reliant' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "dependent",
+                  "independent",
+                  "lazy",
+                  "careless"
+                ],
+                "correct": 1,
+                "explanation": "Self-reliant = independent (tự lực, độc lập)."
+              },
+              {
+                "id": "reading2-q4",
+                "question": "What should teenagers do to improve decision-making skills?",
+                "options": [
+                  "Always ask parents",
+                  "Make quick decisions without thinking",
+                  "Identify problems, think of solutions, review pros and cons",
+                  "Never make any decisions"
+                ],
+                "correct": 2,
+                "explanation": "Để cải thiện kỹ năng ra quyết định, thanh thiếu niên nên xác định vấn đề, nghĩ ra giải pháp, xem xét ưu nhược điểm."
+              },
+              {
+                "id": "reading2-q5",
+                "question": "According to the passage, what helps teenagers balance studies and hobbies?",
+                "options": [
+                  "Cooking skills",
+                  "Decision-making skills",
+                  "Time-management skills",
+                  "Communication skills"
+                ],
+                "correct": 2,
+                "explanation": "Kỹ năng quản lý thời gian giúp thanh thiếu niên cân bằng học tập và sở thích."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ completed the vocational course, she found a job immediately.",
+            "options": ["Have", "Having", "Has", "Had"],
+            "correct": 1,
+            "explanation": "Perfect participle clause: Having + V3/ed để rút gọn mệnh đề."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "It ______ my teacher who helped me choose my career path.",
+            "options": ["is", "was", "are", "were"],
+            "correct": 1,
+            "explanation": "Dùng 'was' vì hành động giúp đỡ xảy ra trong quá khứ."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "She admitted ______ not studied hard enough for the exam.",
+            "options": ["have", "to have", "having", "had"],
+            "correct": 2,
+            "explanation": "Sau 'admit' dùng perfect gerund (having + V3/ed)."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "______ training focuses on practical skills for specific jobs.",
+            "options": ["Academic", "Vocational", "Theoretical", "General"],
+            "correct": 1,
+            "explanation": "Vocational training: đào tạo nghề."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "It is ______ who is responsible for managing the project.",
+            "options": ["John", "John that", "John who", "both A and C"],
+            "correct": 3,
+            "explanation": "Khi nhấn mạnh người, có thể dùng 'who' hoặc không cần 'that/who'."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "Teenagers need to develop ______ to become independent.",
+            "options": ["life skills", "life skill", "lives skills", "skill life"],
+            "correct": 0,
+            "explanation": "Life skills (số nhiều): các kỹ năng sống."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ finished school, he decided to take a gap year.",
+            "options": ["Have", "Having", "Has", "Had"],
+            "correct": 1,
+            "explanation": "Perfect participle clause: Having finished = After he had finished."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "You need certain ______ to apply for this university program.",
+            "options": ["qualify", "qualifications", "qualified", "qualifying"],
+            "correct": 1,
+            "explanation": "Qualifications (n): bằng cấp, trình độ."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "It was ______ that I learned to manage my time effectively.",
+            "options": ["in high school", "yesterday", "last year", "all are correct"],
+            "correct": 3,
+            "explanation": "Tất cả đều đúng vì có thể nhấn mạnh các trạng ngữ thời gian khác nhau."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "She is very ______ and doesn't need help from others.",
+            "options": ["dependent", "independence", "independent", "depend"],
+            "correct": 2,
+            "explanation": "Independent (adj): độc lập."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "______ studied science subjects helped me choose my degree.",
+            "options": ["Have", "Having", "Has", "Had"],
+            "correct": 1,
+            "explanation": "Perfect gerund làm chủ ngữ: Having + V3/ed + V(singular)."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "It is ______ doing part-time jobs that teenagers can earn money.",
+            "options": ["by", "with", "in", "at"],
+            "correct": 0,
+            "explanation": "By + V-ing: bằng cách làm gì."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "He is a ______ student who studies without being told.",
+            "options": ["self-motivated", "self-motivate", "self-motivation", "motivate"],
+            "correct": 0,
+            "explanation": "Self-motivated (adj): tự thúc đẩy."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "An ______ program allows you to learn while working.",
+            "options": ["apprentice", "apprenticeship", "apprenticed", "apprenticing"],
+            "correct": 1,
+            "explanation": "Apprenticeship (n): chương trình học nghề."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "You need to take ______ for your own decisions.",
+            "options": ["responsible", "responsibility", "responsibly", "respond"],
+            "correct": 1,
+            "explanation": "Take responsibility: chịu trách nhiệm (cần danh từ)."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Perfect gerunds are used to emphasize actions completed before another action.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Perfect gerunds (having + V3/ed) nhấn mạnh hành động đã hoàn thành trước hành động khác."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "Cleft sentences are used to emphasize a specific part of a sentence.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Câu chẻ được dùng để nhấn mạnh một phần cụ thể trong câu."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Vocational training focuses on theoretical knowledge rather than practical skills.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Đào tạo nghề tập trung vào kỹ năng thực hành, không phải kiến thức lý thuyết."
+          },
+          {
+            "id": "msq4",
+            "type": "msq",
+            "question_text": "We use 'who' when emphasizing things or events in cleft sentences.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Dùng 'who' khi nhấn mạnh người. Dùng 'that' khi nhấn mạnh vật hoặc sự việc."
+          },
+          {
+            "id": "msq5",
+            "type": "msq",
+            "question_text": "Learning life skills helps teenagers become more independent.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Học các kỹ năng sống giúp thanh thiếu niên trở nên độc lập hơn."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "Complete: ______ finished the course, she got a certificate. (Having)",
+            "correct": "Having",
+            "explanation": "Perfect participle clause: Having finished = After she had finished."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "What do we call a student who has just finished high school? (two words with hyphen)",
+            "correct": "school-leaver",
+            "explanation": "School-leaver: học sinh tốt nghiệp trung học."
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question_text": "What do we call the ability to do things without help from others? (one word)",
+            "correct": "independence",
+            "explanation": "Independence: sự độc lập."
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question_text": "Complete: It ______ John who helps me every day. (is/was)",
+            "correct": "is",
+            "explanation": "Dùng 'is' vì hành động đang diễn ra ở hiện tại (helps)."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) about your education plans after high school.",
+            "sample_answer": "After leaving high school, I plan to pursue vocational training in information technology. Having thought carefully about my options, I've decided that vocational training suits my learning style better than university. I prefer hands-on learning and want to gain practical skills that I can use immediately in the workplace. It is the practical approach of vocational training that attracts me most. The program I'm considering takes only two years to complete, which means I can start working and earning money sooner than university graduates. Having completed the course, I will have both a certificate and real work experience through internships. My goal is to become a skilled IT technician and eventually start my own computer repair business. I believe this path will help me achieve independence and career success faster than traditional university education.",
+            "explanation": "Bài viết mẫu về kế hoạch giáo dục với cấu trúc: Introduction (kế hoạch), Body (lý do chọn đào tạo nghề, ưu điểm, mục tiêu), Conclusion. Sử dụng perfect gerunds (Having thought, Having completed) và cleft sentences (It is... that)."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) about the most important life skill teenagers should learn.",
+            "sample_answer": "In my opinion, time-management is the most important life skill teenagers should learn to become independent. Having observed many of my peers struggle with balancing studies and activities, I believe this skill is crucial for success. It is good time-management that allows teenagers to accomplish more while feeling less stressed. First, teenagers who manage their time well can complete homework efficiently and still have time for hobbies and friends. Second, this skill helps them meet deadlines and avoid last-minute panic. Third, having learned to prioritize tasks, teenagers develop a sense of responsibility and self-discipline. To improve time-management, teenagers should make to-do lists, use planning apps, and avoid procrastination. It was learning to manage my time effectively that helped me improve my grades significantly. In conclusion, time-management is a fundamental skill that benefits teenagers not only in school but throughout their entire lives.",
+            "explanation": "Bài viết mẫu về kỹ năng sống quan trọng nhất với cấu trúc rõ ràng: Introduction (quan điểm), Body (3 lý do, cách cải thiện, kinh nghiệm cá nhân), Conclusion. Sử dụng perfect gerunds, perfect participle clauses và cleft sentences."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) comparing university education and vocational training.",
+            "sample_answer": "University education and vocational training are two different paths that can both lead to successful careers. Having researched both options, I can see clear differences between them. It is the focus on theoretical knowledge that characterizes university education. Students spend three to four years studying academic subjects in depth and developing critical thinking skills. Having completed a university degree, graduates often have access to professional careers with higher salaries. On the other hand, vocational training emphasizes practical skills for specific jobs. It is the hands-on approach that makes vocational training attractive to many students. Courses are shorter and less expensive, allowing graduates to enter the workforce quickly. Having done vocational training, students gain real work experience and can start earning money sooner. The best choice depends on individual learning preferences and career goals. Both paths are valuable and deserve equal respect in society.",
+            "explanation": "Bài viết mẫu so sánh hai lựa chọn giáo dục với cấu trúc: Introduction, Body (đặc điểm đại học, đặc điểm đào tạo nghề), Conclusion. Sử dụng perfect gerunds, perfect participle clauses và cleft sentences để nhấn mạnh."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) about how you earned your parents' trust.",
+            "sample_answer": "Earning my parents' trust has been a gradual process that required consistent effort and responsibility. It was through small actions that I gradually proved my reliability. First, I started by completing household chores without being asked. Having learned to cook and do laundry, I showed my parents that I could take care of myself. Second, I managed my study time effectively and maintained good grades. It is my academic performance that convinced them I was responsible. Third, I always kept my promises and came home on time. Having demonstrated reliability over many months, my parents began giving me more freedom. They now trust me to make my own decisions about my schedule and activities. It was earning their trust that made me feel truly independent. This experience taught me that independence comes with responsibility, and trust must be earned through consistent actions, not just words.",
+            "explanation": "Bài viết mẫu về cách giành được sự tin tưởng của cha mẹ với cấu trúc: Introduction, Body (3 hành động cụ thể, kết quả), Conclusion (bài học). Sử dụng cleft sentences và perfect gerunds/participle clauses."
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) about the advantages and disadvantages of taking a gap year after high school.",
+            "sample_answer": "Taking a gap year after high school has both advantages and disadvantages that students should consider carefully. On the positive side, it is the opportunity for personal growth that makes gap years valuable. Having taken time off from formal education, students can travel, work, or volunteer, gaining real-world experience and maturity. They often return to their studies with clearer goals and stronger motivation. It was during my cousin's gap year that she discovered her passion for environmental conservation. However, there are also disadvantages. Some students find it difficult to return to academic study after a year away. Having gotten used to earning money, they may lose interest in education. Additionally, taking a gap year means graduating later than peers, which could affect career progression. In conclusion, a gap year can be beneficial if students use the time productively, but it requires careful planning and self-discipline to ensure it doesn't become a wasted year.",
+            "explanation": "Bài viết mẫu về ưu và nhược điểm của gap year với cấu trúc cân bằng: Introduction, Advantages (cơ hội phát triển, kinh nghiệm, ví dụ), Disadvantages (khó quay lại học, tốt nghiệp muộn), Conclusion. Sử dụng perfect gerunds, perfect participle clauses và cleft sentences."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "subject": "Tiếng Anh 10",
+  "subject_id": 40,
+  "lessons": [
+    {
+      "id": "anh10-unit-9-protecting-environment",
+      "name": "Unit 9: Protecting the Environment",
+      "slug": "unit-9-protecting-the-environment",
+      "chapter": "Unit 9: Protecting the Environment",
+      "chapter_id": "A10",
+      "lesson_id": 9,
+      "description": "Học về các vấn đề môi trường, bảo tồn thiên nhiên và câu gián tiếp.",
+      "duration_minutes": 300,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?q=80&w=2670&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh10-unit-9-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về các vấn đề môi trường và tầm quan trọng của việc bảo vệ môi trường",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh10-unit-9-p1-getting-started.json"
+        },
+        {
+          "id": "anh10-unit-9-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về bảo vệ môi trường và bảo tồn thiên nhiên",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh10-unit-9-p2-vocabulary.json"
+        },
+        {
+          "id": "anh10-unit-9-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Câu gián tiếp (câu trần thuật, câu hỏi, câu mệnh lệnh)",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh10-unit-9-p3-grammar.json"
+        },
+        {
+          "id": "anh10-unit-9-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về trách nhiệm bảo vệ môi trường",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh10-unit-9-p4-reading.json"
+        },
+        {
+          "id": "anh10-unit-9-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về các vấn đề môi trường và giải pháp",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh10-unit-9-p5-speaking.json"
+        },
+        {
+          "id": "anh10-unit-9-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về biến đổi khí hậu và bảo tồn",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh10-unit-9-p6-listening.json"
+        },
+        {
+          "id": "anh10-unit-9-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về vấn đề môi trường và giải pháp",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh10-unit-9-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-9",
+          "name": "Conservation Vocabulary",
+          "slug": "conservation-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 9: Protecting the Environment",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Pollution</td><td class='px-4 py-2'>(n) /pəˈluːʃn/</td><td class='px-4 py-2'>Sự ô nhiễm</td><td class='px-4 py-2'>Air pollution is a serious problem.</td></tr><tr><td class='px-4 py-2 font-bold'>Endangered species</td><td class='px-4 py-2'>(n) /ɪnˈdeɪndʒəd ˈspiːʃiːz/</td><td class='px-4 py-2'>Loài có nguy cơ tuyệt chủng</td><td class='px-4 py-2'>Tigers are endangered species.</td></tr><tr><td class='px-4 py-2 font-bold'>Habitat</td><td class='px-4 py-2'>(n) /ˈhæbɪtæt/</td><td class='px-4 py-2'>Môi trường sống</td><td class='px-4 py-2'>Protect the natural habitat.</td></tr><tr><td class='px-4 py-2 font-bold'>Preserve</td><td class='px-4 py-2'>(v) /prɪˈzɜːv/</td><td class='px-4 py-2'>Bảo tồn</td><td class='px-4 py-2'>We must preserve the forests.</td></tr><tr><td class='px-4 py-2 font-bold'>Ecosystem</td><td class='px-4 py-2'>(n) /ˈiːkəʊsɪstəm/</td><td class='px-4 py-2'>Hệ sinh thái</td><td class='px-4 py-2'>The ecosystem is fragile.</td></tr><tr><td class='px-4 py-2 font-bold'>Global warming</td><td class='px-4 py-2'>(n) /ˌɡləʊbl ˈwɔːmɪŋ/</td><td class='px-4 py-2'>Sự nóng lên toàn cầu</td><td class='px-4 py-2'>Global warming causes climate change.</td></tr><tr><td class='px-4 py-2 font-bold'>Awareness</td><td class='px-4 py-2'>(n) /əˈweənəs/</td><td class='px-4 py-2'>Nhận thức</td><td class='px-4 py-2'>Raise environmental awareness.</td></tr><tr><td class='px-4 py-2 font-bold'>Deforestation</td><td class='px-4 py-2'>(n) /ˌdiːˌfɒrɪˈsteɪʃn/</td><td class='px-4 py-2'>Sự phá rừng</td><td class='px-4 py-2'>Deforestation destroys habitats.</td></tr><tr><td class='px-4 py-2 font-bold'>Biodiversity</td><td class='px-4 py-2'>(n) /ˌbaɪəʊdaɪˈvɜːsəti/</td><td class='px-4 py-2'>Đa dạng sinh học</td><td class='px-4 py-2'>Protect biodiversity in nature.</td></tr><tr><td class='px-4 py-2 font-bold'>Sustainability</td><td class='px-4 py-2'>(n) /səˌsteɪnəˈbɪləti/</td><td class='px-4 py-2'>Sự bền vững</td><td class='px-4 py-2'>Focus on sustainability.</td></tr><tr><td class='px-4 py-2 font-bold'>Conservation</td><td class='px-4 py-2'>(n) /ˌkɒnsəˈveɪʃn/</td><td class='px-4 py-2'>Sự bảo tồn</td><td class='px-4 py-2'>Wildlife conservation is important.</td></tr><tr><td class='px-4 py-2 font-bold'>Emission</td><td class='px-4 py-2'>(n) /ɪˈmɪʃn/</td><td class='px-4 py-2'>Khí thải</td><td class='px-4 py-2'>Reduce carbon emissions.</td></tr><tr><td class='px-4 py-2 font-bold'>Renewable</td><td class='px-4 py-2'>(adj) /rɪˈnjuːəbl/</td><td class='px-4 py-2'>Có thể tái tạo</td><td class='px-4 py-2'>Use renewable energy sources.</td></tr><tr><td class='px-4 py-2 font-bold'>Recycle</td><td class='px-4 py-2'>(v) /ˌriːˈsaɪkl/</td><td class='px-4 py-2'>Tái chế</td><td class='px-4 py-2'>Recycle plastic bottles.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Environmental issues (Vấn đề môi trường):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>air pollution:</strong> ô nhiễm không khí</li><li><strong>water pollution:</strong> ô nhiễm nước</li><li><strong>soil pollution:</strong> ô nhiễm đất</li><li><strong>plastic waste:</strong> rác thải nhựa</li><li><strong>greenhouse gases:</strong> khí nhà kính</li><li><strong>climate change:</strong> biến đổi khí hậu</li><li><strong>sea level rise:</strong> mực nước biển dâng</li></ul><p><strong>Collocations về bảo vệ môi trường:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>protect the environment:</strong> bảo vệ môi trường</li><li><strong>reduce carbon footprint:</strong> giảm lượng khí thải carbon</li><li><strong>save energy:</strong> tiết kiệm năng lượng</li><li><strong>preserve natural resources:</strong> bảo tồn tài nguyên thiên nhiên</li><li><strong>raise awareness:</strong> nâng cao nhận thức</li><li><strong>take action:</strong> hành động</li><li><strong>adopt sustainable practices:</strong> áp dụng các phương pháp bền vững</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm: Trọng âm của từ có 3 âm tiết trở lên",
+              "content": "<h3>Quy tắc trọng âm cho từ dài:</h3><p><strong>1. Từ tận cùng bằng -tion, -sion</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nhấn trọng âm vào âm tiết ngay trước đuôi</li><li><strong>pollu'tion</strong> /pəˈluːʃn/</li><li><strong>conser'vation</strong> /ˌkɒnsəˈveɪʃn/</li><li><strong>deforesta'tion</strong> /ˌdiːˌfɒrɪˈsteɪʃn/</li></ul><p><strong>2. Từ tận cùng bằng -ity</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nhấn trọng âm vào âm tiết ngay trước đuôi</li><li><strong>sustaina'bility</strong> /səˌsteɪnəˈbɪləti/</li><li><strong>biodiver'sity</strong> /ˌbaɪəʊdaɪˈvɜːsəti/</li></ul><p><strong>3. Từ tận cùng bằng -ment, -ness</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nhấn trọng âm vào âm tiết gốc</li><li><strong>en'vironment</strong> /ɪnˈvaɪrənmənt/</li><li><strong>'awareness</strong> /əˈweənəs/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp: Câu gián tiếp (Reported Speech)",
+              "content": "<h3>A. Câu trần thuật (Statements)</h3><p><strong>Công thức:</strong> S + said (that) / told + O + (that) + S + V (lùi thì)</p><p><strong>Lùi thì trong câu gián tiếp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Present Simple → Past Simple<br>Ex: He said, \"I like nature.\" → He said (that) he liked nature.</li><li>Present Continuous → Past Continuous<br>Ex: She said, \"I am studying.\" → She said (that) she was studying.</li><li>Present Perfect → Past Perfect<br>Ex: They said, \"We have finished.\" → They said (that) they had finished.</li><li>Past Simple → Past Perfect<br>Ex: He said, \"I went there.\" → He said (that) he had gone there.</li><li>Will → Would<br>Ex: She said, \"I will help.\" → She said (that) she would help.</li><li>Can → Could<br>Ex: He said, \"I can swim.\" → He said (that) he could swim.</li></ul><h3>B. Thay đổi đại từ và tính từ sở hữu</h3><ul class='list-disc pl-5 space-y-2'><li>I → he/she</li><li>We → they</li><li>You → I/we (tùy ngữ cảnh)</li><li>My → his/her</li><li>Our → their</li></ul><h3>C. Thay đổi trạng từ chỉ thời gian và nơi chốn</h3><ul class='list-disc pl-5 space-y-2'><li>now → then</li><li>today → that day</li><li>yesterday → the day before / the previous day</li><li>tomorrow → the next day / the following day</li><li>last week → the week before / the previous week</li><li>next week → the following week</li><li>ago → before</li><li>this → that</li><li>these → those</li><li>here → there</li></ul><h3>D. Câu hỏi gián tiếp (Reported Questions)</h3><p><strong>Yes/No questions:</strong> S + asked + (O) + if/whether + S + V (lùi thì)</p><p>Ex: He asked, \"Do you like it?\" → He asked if/whether I liked it.</p><p><strong>Wh-questions:</strong> S + asked + (O) + Wh-word + S + V (lùi thì)</p><p>Ex: She asked, \"Where do you live?\" → She asked where I lived.</p><h3>E. Câu mệnh lệnh gián tiếp (Reported Commands)</h3><p><strong>Công thức:</strong> S + told/asked + O + (not) to V</p><ul class='list-disc pl-5 space-y-2'><li>Ex: He said, \"Close the door.\" → He told me to close the door.</li><li>Ex: She said, \"Don't be late.\" → She told me not to be late.</li></ul>"
+            },
+            {
+              "heading": "5. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Giới thiệu về các vấn đề môi trường và tầm quan trọng của việc bảo vệ môi trường.</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về ô nhiễm môi trường</li><li>Thảo luận về các mối đe dọa đối với môi trường</li><li>Từ vựng về bảo vệ môi trường</li><li>Chia sẻ ý kiến về trách nhiệm bảo vệ môi trường</li></ul>"
+            },
+            {
+              "heading": "6. II. Language",
+              "content": "<p><strong>A. Pronunciation: Stress in three-syllable words and longer</strong></p><p>Luyện phát âm trọng âm của từ có 3 âm tiết trở lên liên quan đến môi trường</p><p><strong>B. Vocabulary:</strong> Environmental protection</p><ul class='list-disc pl-5 space-y-2'><li>Words related to pollution and conservation</li><li>Environmental issues and solutions</li><li>Climate change vocabulary</li><li>Sustainable development terms</li></ul><p><strong>C. Grammar:</strong> Reported Speech</p>"
+            },
+            {
+              "heading": "7. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Environmental protection - Our responsibility</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu văn bản về các vấn đề môi trường</li><li>Tìm thông tin chi tiết về ô nhiễm và biến đổi khí hậu</li><li>Hiểu các giải pháp bảo vệ môi trường</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li></ul><p><strong>Nội dung:</strong> Bài đọc giới thiệu về tình trạng ô nhiễm môi trường, sự nóng lên toàn cầu, phá rừng và các giải pháp bảo vệ môi trường như tái chế, sử dụng năng lượng tái tạo và nâng cao nhận thức cộng đồng.</p>"
+            },
+            {
+              "heading": "8. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Talking about environmental problems and solutions</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả các vấn đề môi trường</li><li>Nói về nguyên nhân và hậu quả của ô nhiễm</li><li>Đề xuất giải pháp bảo vệ môi trường</li><li>Thảo luận về trách nhiệm cá nhân và cộng đồng</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The main environmental problem is...</li><li>This is caused by...</li><li>We should/must...</li><li>One solution is to...</li><li>If we don't act now, ...</li><li>Everyone can contribute by...</li></ul>"
+            },
+            {
+              "heading": "9. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> A talk about climate change and conservation</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu thông tin về biến đổi khí hậu</li><li>Điền thông tin còn thiếu về các vấn đề môi trường</li><li>Trả lời câu hỏi chi tiết về bảo tồn thiên nhiên</li><li>Ghi chú các ý quan trọng về giải pháp môi trường</li></ul>"
+            },
+            {
+              "heading": "10. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing about environmental problems and solutions</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đoạn văn về vấn đề môi trường</li><li>Sử dụng Reported Speech để trích dẫn ý kiến</li><li>Trình bày nguyên nhân, hậu quả và giải pháp</li><li>Sử dụng từ nối để liên kết ý</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Introduction: Giới thiệu vấn đề môi trường</li><li>Body: Mô tả nguyên nhân, hậu quả và đề xuất giải pháp</li><li>Conclusion: Kết luận và kêu gọi hành động</li></ul><p><strong>Useful linking words:</strong> Firstly, Secondly, Moreover, However, Therefore, In conclusion</p>"
+            },
+            {
+              "heading": "11. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Discussing environmental responsibility</p><p><strong>Culture:</strong> Environmental protection around the world</p><ul class='list-disc pl-5 space-y-2'><li>So sánh các chính sách môi trường ở Việt Nam và các nước khác</li><li>Tìm hiểu về các tổ chức bảo vệ môi trường quốc tế</li><li>Thảo luận về văn hóa sống xanh</li><li>Các phong trào bảo vệ môi trường nổi tiếng</li></ul><p><strong>CLIL (Science):</strong> Climate change and its effects</p><ul class='list-disc pl-5 space-y-2'><li>Hiểu về hiệu ứng nhà kính</li><li>Tác động của biến đổi khí hậu</li><li>Vai trò của rừng trong hấp thụ CO2</li></ul>"
+            },
+            {
+              "heading": "12. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vocabulary: Environmental protection, pollution, conservation</li><li>Pronunciation: Stress in three-syllable words and longer</li><li>Grammar: Reported Speech (statements, questions, commands)</li><li>Skills: Reading, Speaking, Listening, Writing</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng sử dụng từ vựng và ngữ pháp đã học, khả năng nói và viết về vấn đề môi trường</p>"
+            },
+            {
+              "heading": "13. Project",
+              "content": "<p><strong>Đề tài:</strong> Environmental Protection Campaign</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một vấn đề môi trường cụ thể (ô nhiễm không khí, rác thải nhựa, phá rừng...)</li><li>Nghiên cứu nguyên nhân và hậu quả</li><li>Đề xuất các giải pháp thiết thực</li><li>Tạo poster hoặc video tuyên truyền</li><li>Trình bày chiến dịch và kêu gọi mọi người tham gia bảo vệ môi trường</li></ul><p><strong>Yêu cầu:</strong> Sử dụng Reported Speech để trích dẫn ý kiến chuyên gia, số liệu thống kê về vấn đề môi trường</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Reported Speech",
+            "method": "<p>Change the direct speech sentences into reported speech.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Environmental protection has become one of the most important issues facing humanity today. Scientists warn that global warming is causing serious changes to our climate. Rising temperatures are melting ice caps, raising sea levels, and threatening many species with extinction.\n\nDeforestation is another major problem. Every year, millions of hectares of forests are destroyed to make room for agriculture and urban development. This loss of habitat endangers countless species and reduces biodiversity. Forests also play a crucial role in absorbing carbon dioxide, so their destruction contributes to climate change.\n\nMany environmental organizations are working to raise awareness about these issues. They said that everyone must take action to protect the environment. Simple actions like reducing plastic waste, saving energy, and supporting conservation projects can make a difference. Governments and businesses also need to adopt sustainable practices to preserve our planet for future generations.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Environmental problems are not serious",
+                  "Environmental protection is a critical issue",
+                  "Only scientists should care about the environment",
+                  "Climate change is not real"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về tầm quan trọng của việc bảo vệ môi trường."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, what is global warming causing?",
+                "options": [
+                  "More forests to grow",
+                  "Ice caps to melt and sea levels to rise",
+                  "Temperatures to decrease",
+                  "More species to appear"
+                ],
+                "correct": 1,
+                "explanation": "Sự nóng lên toàn cầu làm băng tan và mực nước biển dâng."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'crucial' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "unimportant",
+                  "unnecessary",
+                  "essential",
+                  "optional"
+                ],
+                "correct": 2,
+                "explanation": "Crucial = essential (thiết yếu, quan trọng)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "Why is deforestation a problem?",
+                "options": [
+                  "It creates more space for cities",
+                  "It endangers species and contributes to climate change",
+                  "It helps the economy grow",
+                  "It has no negative effects"
+                ],
+                "correct": 1,
+                "explanation": "Phá rừng gây nguy hiểm cho các loài và góp phần vào biến đổi khí hậu."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "What do environmental organizations say people must do?",
+                "options": [
+                  "Ignore environmental problems",
+                  "Wait for governments to act",
+                  "Take action to protect the environment",
+                  "Use more plastic"
+                ],
+                "correct": 2,
+                "explanation": "Các tổ chức môi trường nói mọi người phải hành động để bảo vệ môi trường."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "The loss of natural ______ is the main threat to many wild animals.",
+            "options": ["habitat", "pollution", "ecosystem", "awareness"],
+            "correct": 0,
+            "explanation": "Natural habitat: môi trường sống tự nhiên."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "He said that he ______ more trees in his garden.",
+            "options": ["will plant", "would plant", "plants", "planted"],
+            "correct": 1,
+            "explanation": "Câu gián tiếp lùi thì 'will' thành 'would'."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "We need to raise people's ______ about environmental protection.",
+            "options": ["aware", "awareness", "awarely", "awarenesses"],
+            "correct": 1,
+            "explanation": "Raise awareness: nâng cao nhận thức."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "She told me that she ______ the beach the day before.",
+            "options": ["cleans", "cleaned", "had cleaned", "is cleaning"],
+            "correct": 2,
+            "explanation": "Câu gián tiếp lùi thì quá khứ đơn thành quá khứ hoàn thành (the day before)."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "Many ______ species are in danger of extinction.",
+            "options": ["danger", "endangered", "dangerous", "endangering"],
+            "correct": 1,
+            "explanation": "Endangered species: loài có nguy cơ tuyệt chủng."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "They said that they ______ for a green lifestyle.",
+            "options": ["strive", "are striving", "were striving", "have striven"],
+            "correct": 2,
+            "explanation": "Câu gián tiếp lùi thì hiện tại tiếp diễn thành quá khứ tiếp diễn."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "The ______ of the environment is everyone's responsibility.",
+            "options": ["protect", "protection", "protective", "protector"],
+            "correct": 1,
+            "explanation": "The protection of the environment: sự bảo vệ môi trường."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "My teacher said that global warming ______ a serious problem.",
+            "options": ["is", "was", "has been", "would be"],
+            "correct": 1,
+            "explanation": "Câu gián tiếp lùi thì hiện tại đơn thành quá khứ đơn."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "Plastic ______ is a major cause of ocean pollution.",
+            "options": ["waste", "resource", "material", "device"],
+            "correct": 0,
+            "explanation": "Plastic waste: rác thải nhựa."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "The scientist explained that the climate ______ rapidly.",
+            "options": ["changes", "is changing", "was changing", "change"],
+            "correct": 2,
+            "explanation": "Câu gián tiếp lùi thì."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "In reported speech, 'will' changes to 'would'.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Trong câu gián tiếp, 'will' lùi thành 'would'."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "Deforestation helps protect biodiversity.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Phá rừng làm giảm đa dạng sinh học, không bảo vệ nó."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Global warming is causing ice caps to melt and sea levels to rise.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Sự nóng lên toàn cầu làm băng tan và mực nước biển dâng."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call the natural home of an animal or plant? (one word)",
+            "correct": "habitat",
+            "explanation": "Habitat: môi trường sống - nơi sinh sống tự nhiên của động vật hoặc thực vật."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: She said that she ______ tired. (was)",
+            "correct": "was",
+            "explanation": "Reported speech: 'am/is' lùi thành 'was' trong câu gián tiếp."
+          }
+        ]
+      }
+    }
+  ]
+}

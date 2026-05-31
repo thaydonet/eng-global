@@ -1,0 +1,65 @@
+---
+// Back to Top button component
+---
+
+<button
+  id="back-to-top"
+  class="fixed bottom-6 right-6 z-50 p-4 bg-gradient-to-br from-primary-500 to-secondary-500 dark:from-primary-600 dark:to-secondary-600 text-white rounded-full shadow-lg hover:shadow-xl transition-all duration-300 opacity-0 invisible hover:scale-110 active:scale-95"
+  aria-label="Quay lên đầu trang"
+  title="Quay lên đầu trang"
+>
+  <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18"/>
+  </svg>
+</button>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const backToTopButton = document.getElementById('back-to-top');
+
+    if (!backToTopButton) return;
+
+    // Show/hide button based on scroll position
+    const toggleButton = () => {
+      if (window.scrollY > 300) {
+        backToTopButton.classList.remove('opacity-0', 'invisible');
+        backToTopButton.classList.add('opacity-100', 'visible');
+      } else {
+        backToTopButton.classList.add('opacity-0', 'invisible');
+        backToTopButton.classList.remove('opacity-100', 'visible');
+      }
+    };
+
+    // Scroll to top when clicked
+    const scrollToTop = () => {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    };
+
+    // Event listeners
+    window.addEventListener('scroll', toggleButton);
+    backToTopButton.addEventListener('click', scrollToTop);
+
+    // Initial check
+    toggleButton();
+  });
+</script>
+
+<style>
+  #back-to-top {
+    animation: fade-in 0.3s ease-out;
+  }
+
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>

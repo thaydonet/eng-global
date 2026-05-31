@@ -1,0 +1,366 @@
+{
+  "id": "anh10-unit-6-p2",
+  "name": "Part 2: Language - Vocabulary (Gender & Society)",
+  "content": {
+    "theory": {
+      "title": "Vocabulary: Life Stories and Achievements",
+      "sections": [
+        {
+          "heading": "1. Tóm tắt lý thuyết",
+          "content": "<div class='bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 p-6 rounded-xl'><h3 class='text-xl font-bold mb-4 text-blue-900 dark:text-blue-300'>📚 Từ vựng về cuộc đời và thành tựu</h3><p class='mb-4'>Trong bài này, chúng ta học các từ vựng quan trọng để mô tả cuộc đời, thành tựu và phẩm chất của những người đáng ngưỡng mộ.</p><div class='grid md:grid-cols-2 gap-4'><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold text-green-700 dark:text-green-400 mb-2'>✓ Nhóm từ về thành tựu:</h4><ul class='list-disc pl-5 space-y-1'><li>achievement (n) - thành tựu</li><li>accomplishment (n) - thành tích</li><li>contribution (n) - đóng góp</li><li>legacy (n) - di sản</li><li>pioneer (n) - người tiên phong</li></ul></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold text-purple-700 dark:text-purple-400 mb-2'>✓ Nhóm từ về phẩm chất:</h4><ul class='list-disc pl-5 space-y-1'><li>determined (adj) - quyết tâm</li><li>courageous (adj) - dũng cảm</li><li>influential (adj) - có ảnh hưởng</li><li>devoted (adj) - tận tụy</li><li>visionary (adj) - có tầm nhìn xa</li></ul></div></div></div>"
+        },
+        {
+          "heading": "2. Bảng từ vựng chi tiết",
+          "content": "<div class='overflow-x-auto'><table class='min-w-full border-collapse border-2 border-blue-300 dark:border-blue-700'><thead class='bg-gradient-to-r from-blue-100 to-indigo-100 dark:from-blue-900/40 dark:to-indigo-900/40'><tr><th class='border border-blue-300 dark:border-blue-700 px-4 py-3 text-left font-bold'>Word</th><th class='border border-blue-300 dark:border-blue-700 px-4 py-3 text-left font-bold'>Type & Pronunciation</th><th class='border border-blue-300 dark:border-blue-700 px-4 py-3 text-left font-bold'>Vietnamese</th><th class='border border-blue-300 dark:border-blue-700 px-4 py-3 text-left font-bold'>Example</th></tr></thead><tbody><tr class='hover:bg-blue-50 dark:hover:bg-blue-900/10'><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'><strong>achievement</strong></td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>(n) /əˈtʃiːvmənt/</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>thành tựu</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>Her scientific achievements changed the world.</td></tr><tr class='hover:bg-blue-50 dark:hover:bg-blue-900/10'><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'><strong>biography</strong></td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>(n) /baɪˈɒɡrəfi/</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>tiểu sử</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>I'm reading a biography of Steve Jobs.</td></tr><tr class='hover:bg-blue-50 dark:hover:bg-blue-900/10'><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'><strong>contribution</strong></td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>(n) /ˌkɒntrɪˈbjuːʃn/</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>sự đóng góp</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>His contributions to medicine saved many lives.</td></tr><tr class='hover:bg-blue-50 dark:hover:bg-blue-900/10'><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'><strong>determined</strong></td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>(adj) /dɪˈtɜːmɪnd/</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>quyết tâm</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>She was determined to succeed.</td></tr><tr class='hover:bg-blue-50 dark:hover:bg-blue-900/10'><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'><strong>influential</strong></td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>(adj) /ˌɪnfluˈenʃl/</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>có ảnh hưởng</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>He was an influential leader.</td></tr><tr class='hover:bg-blue-50 dark:hover:bg-blue-900/10'><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'><strong>legacy</strong></td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>(n) /ˈleɡəsi/</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>di sản</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>Her legacy continues to inspire people.</td></tr><tr class='hover:bg-blue-50 dark:hover:bg-blue-900/10'><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'><strong>pioneer</strong></td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>(n) /ˌpaɪəˈnɪə(r)/</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>người tiên phong</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>She was a pioneer in computer science.</td></tr><tr class='hover:bg-blue-50 dark:hover:bg-blue-900/10'><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'><strong>struggle</strong></td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>(n/v) /ˈstrʌɡl/</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>đấu tranh, vật lộn</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>He struggled against poverty.</td></tr><tr class='hover:bg-blue-50 dark:hover:bg-blue-900/10'><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'><strong>visionary</strong></td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>(adj/n) /ˈvɪʒənri/</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>có tầm nhìn xa</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>Steve Jobs was a visionary leader.</td></tr><tr class='hover:bg-blue-50 dark:hover:bg-blue-900/10'><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'><strong>devoted</strong></td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>(adj) /dɪˈvəʊtɪd/</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>tận tụy, hết lòng</td><td class='border border-blue-300 dark:border-blue-700 px-4 py-2'>She was devoted to helping the poor.</td></tr></tbody></table></div>"
+        },
+        {
+          "heading": "3. Năm ví dụ minh họa",
+          "content": "<div class='space-y-4'><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg border-l-4 border-green-500'><p class='font-bold text-green-800 dark:text-green-300 mb-2'>Example 1: Achievement</p><p class='text-lg mb-2'>\"Marie Curie's greatest <span class='text-green-600 font-bold'>achievement</span> was winning two Nobel Prizes in different scientific fields.\"</p><p class='text-sm text-gray-600 dark:text-gray-400'>→ Thành tựu lớn nhất của Marie Curie là giành hai giải Nobel trong hai lĩnh vực khoa học khác nhau.</p></div><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg border-l-4 border-blue-500'><p class='font-bold text-blue-800 dark:text-blue-300 mb-2'>Example 2: Pioneer</p><p class='text-lg mb-2'>\"Nelson Mandela was a <span class='text-blue-600 font-bold'>pioneer</span> in the fight against apartheid in South Africa.\"</p><p class='text-sm text-gray-600 dark:text-gray-400'>→ Nelson Mandela là người tiên phong trong cuộc đấu tranh chống phân biệt chủng tộc ở Nam Phi.</p></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg border-l-4 border-purple-500'><p class='font-bold text-purple-800 dark:text-purple-300 mb-2'>Example 3: Devoted</p><p class='text-lg mb-2'>\"Mother Teresa was <span class='text-purple-600 font-bold'>devoted</span> to caring for the sick and poor throughout her life.\"</p><p class='text-sm text-gray-600 dark:text-gray-400'>→ Mẹ Teresa tận tụy chăm sóc người bệnh và người nghèo suốt cuộc đời bà.</p></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg border-l-4 border-orange-500'><p class='font-bold text-orange-800 dark:text-orange-300 mb-2'>Example 4: Legacy</p><p class='text-lg mb-2'>\"Martin Luther King Jr.'s <span class='text-orange-600 font-bold'>legacy</span> of peace and equality continues to inspire millions today.\"</p><p class='text-sm text-gray-600 dark:text-gray-400'>→ Di sản về hòa bình và bình đẳng của Martin Luther King Jr. tiếp tục truyền cảm hứng cho hàng triệu người ngày nay.</p></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg border-l-4 border-pink-500'><p class='font-bold text-pink-800 dark:text-pink-300 mb-2'>Example 5: Visionary</p><p class='text-lg mb-2'>\"Steve Jobs was a <span class='text-pink-600 font-bold'>visionary</span> leader who revolutionized the technology industry.\"</p><p class='text-sm text-gray-600 dark:text-gray-400'>→ Steve Jobs là nhà lãnh đạo có tầm nhìn xa đã cách mạng hóa ngành công nghệ.</p></div></div>"
+        },
+        {
+          "heading": "4. Các dạng bài tập",
+          "content": "<div class='bg-yellow-50 dark:bg-yellow-900/20 p-6 rounded-xl'><h4 class='font-bold text-xl mb-4 text-yellow-900 dark:text-yellow-300'>📝 Dạng bài tập thường gặp</h4><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='font-bold text-blue-700 dark:text-blue-400 mb-2'>Dạng 1: Word Formation (Tạo từ)</p><p class='mb-2'>Ví dụ: She showed great _____ (DETERMINE) in achieving her goals.</p><p class='text-green-600 dark:text-green-400'>→ Answer: determination</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='font-bold text-blue-700 dark:text-blue-400 mb-2'>Dạng 2: Gap-filling (Điền từ vào chỗ trống)</p><p class='mb-2'>Ví dụ: His _____ to science earned him international recognition. (achievement / legacy / struggle)</p><p class='text-green-600 dark:text-green-400'>→ Answer: contribution</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='font-bold text-blue-700 dark:text-blue-400 mb-2'>Dạng 3: Synonym/Antonym (Từ đồng nghĩa/trái nghĩa)</p><p class='mb-2'>Ví dụ: Find a synonym for \"influential\": powerful / weak / ordinary / simple</p><p class='text-green-600 dark:text-green-400'>→ Answer: powerful</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='font-bold text-blue-700 dark:text-blue-400 mb-2'>Dạng 4: Collocation (Kết hợp từ)</p><p class='mb-2'>Ví dụ: make / do / achieve / get + an achievement</p><p class='text-green-600 dark:text-green-400'>→ Answer: achieve an achievement</p></div></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p2-ex1",
+        "type": "mcq",
+        "question": "Choose the correct word: 'Her scientific _____ changed the world of medicine.'",
+        "options": [
+          "achieve",
+          "achievement",
+          "achieving",
+          "achieved"
+        ],
+        "correct": 1,
+        "explanation": "'Achievement' (danh từ) là từ đúng, nghĩa là thành tựu."
+      },
+      {
+        "id": "p2-ex2",
+        "type": "mcq",
+        "question": "What does 'pioneer' mean?",
+        "options": [
+          "A person who follows others",
+          "A person who is first to do something",
+          "A person who gives up easily",
+          "A person who avoids challenges"
+        ],
+        "correct": 1,
+        "explanation": "'Pioneer' nghĩa là người tiên phong, người đầu tiên làm điều gì đó."
+      },
+      {
+        "id": "p2-ex3",
+        "type": "mcq",
+        "question": "Choose the synonym of 'devoted': 'She was _____ to her work.'",
+        "options": [
+          "lazy",
+          "dedicated",
+          "careless",
+          "indifferent"
+        ],
+        "correct": 1,
+        "explanation": "'Dedicated' là từ đồng nghĩa với 'devoted', nghĩa là tận tụy, hết lòng."
+      },
+      {
+        "id": "p2-ex4",
+        "type": "mcq",
+        "question": "Complete: 'His _____ continues to inspire future generations.'",
+        "options": [
+          "leg",
+          "legacy",
+          "legal",
+          "legend"
+        ],
+        "correct": 1,
+        "explanation": "'Legacy' nghĩa là di sản, những gì để lại cho thế hệ sau."
+      },
+      {
+        "id": "p2-ex5",
+        "type": "mcq",
+        "question": "Which word means 'having great influence'?",
+        "options": [
+          "influential",
+          "influence",
+          "influencing",
+          "influenced"
+        ],
+        "correct": 0,
+        "explanation": "'Influential' (tính từ) nghĩa là có ảnh hưởng lớn."
+      },
+      {
+        "id": "p2-ex6",
+        "type": "mcq",
+        "question": "Choose the correct form: 'She was _____ to succeed despite many obstacles.'",
+        "options": [
+          "determine",
+          "determined",
+          "determination",
+          "determining"
+        ],
+        "correct": 1,
+        "explanation": "'Determined' (tính từ) nghĩa là quyết tâm."
+      },
+      {
+        "id": "p2-ex7",
+        "type": "mcq",
+        "question": "What is a 'biography'?",
+        "options": [
+          "A story about animals",
+          "A story about someone's life",
+          "A science book",
+          "A history book"
+        ],
+        "correct": 1,
+        "explanation": "'Biography' là tiểu sử, câu chuyện về cuộc đời của ai đó."
+      },
+      {
+        "id": "p2-ex8",
+        "type": "mcq",
+        "question": "Choose the correct word: 'Steve Jobs was a _____ leader in technology.'",
+        "options": [
+          "vision",
+          "visionary",
+          "visible",
+          "visit"
+        ],
+        "correct": 1,
+        "explanation": "'Visionary' (tính từ/danh từ) nghĩa là có tầm nhìn xa."
+      },
+      {
+        "id": "p2-ex9",
+        "type": "mcq",
+        "question": "Complete: 'He made significant _____ to the field of physics.'",
+        "options": [
+          "contribute",
+          "contribution",
+          "contributions",
+          "contributing"
+        ],
+        "correct": 2,
+        "explanation": "'Contributions' (danh từ số nhiều) nghĩa là những đóng góp."
+      },
+      {
+        "id": "p2-ex10",
+        "type": "mcq",
+        "question": "What does 'struggle' mean?",
+        "options": [
+          "To give up",
+          "To fight hard to achieve something",
+          "To relax",
+          "To avoid problems"
+        ],
+        "correct": 1,
+        "explanation": "'Struggle' nghĩa là đấu tranh, vật lộn để đạt được điều gì đó."
+      },
+      {
+        "id": "p2-ex11",
+        "type": "msq",
+        "question_text": "Read the statements and decide if they are True or False:",
+        "options": [
+          "'Achievement' means something successfully completed.",
+          "'Pioneer' refers to someone who follows others.",
+          "'Legacy' is something left behind for future generations.",
+          "'Devoted' means not caring about something."
+        ],
+        "correct": [
+          0,
+          2
+        ],
+        "explanation": "a) True - Achievement là thành tựu đạt được. b) False - Pioneer là người tiên phong, không phải người đi theo. c) True - Legacy là di sản để lại. d) False - Devoted nghĩa là tận tụy, hết lòng."
+      },
+      {
+        "id": "p2-ex12",
+        "type": "msq",
+        "question_text": "Decide if these word pairs are synonyms (True) or not synonyms (False):",
+        "options": [
+          "determined - lazy",
+          "influential - powerful",
+          "remarkable - ordinary",
+          "courageous - brave"
+        ],
+        "correct": [
+          1,
+          3
+        ],
+        "explanation": "a) False - Determined (quyết tâm) ≠ lazy (lười biếng). b) True - Influential và powerful đều có nghĩa là có ảnh hưởng/quyền lực. c) False - Remarkable (xuất sắc) ≠ ordinary (bình thường). d) True - Courageous và brave đều nghĩa là dũng cảm."
+      },
+      {
+        "id": "p2-ex13",
+        "type": "msq",
+        "question_text": "Read about Marie Curie and decide if the statements are True or False:\n\n'Marie Curie was a pioneering scientist who made remarkable achievements in physics and chemistry. Despite facing discrimination, she remained determined and devoted to her research. Her legacy continues to inspire scientists worldwide.'",
+        "options": [
+          "Marie Curie was a pioneer in science.",
+          "She gave up when facing discrimination.",
+          "She worked in only one scientific field.",
+          "Her work still inspires people today."
+        ],
+        "correct": [
+          0,
+          3
+        ],
+        "explanation": "a) True - Bài viết nói bà là 'pioneering scientist'. b) False - Bà 'remained determined' (vẫn quyết tâm). c) False - Bà làm việc trong 'physics and chemistry' (hai lĩnh vực). d) True - 'Her legacy continues to inspire' (di sản của bà tiếp tục truyền cảm hứng)."
+      },
+      {
+        "id": "p2-ex14",
+        "type": "reading",
+        "passage": "Nelson Mandela (1918-2013) was one of the most influential leaders of the 20th century. Born in South Africa, he devoted his life to fighting against apartheid, a system of racial discrimination. Despite being imprisoned for 27 years, Mandela remained determined to achieve equality for all South Africans. After his release in 1990, he became the first Black president of South Africa in 1994. His remarkable achievements earned him the Nobel Peace Prize in 1993. Mandela's legacy of forgiveness, reconciliation, and human rights continues to inspire millions of people around the world. He is remembered as a visionary leader who changed his nation and the world.",
+        "questions": [
+          {
+            "question": "What was Mandela's main struggle?",
+            "options": [
+              "Fighting poverty",
+              "Fighting apartheid",
+              "Fighting disease",
+              "Fighting illiteracy"
+            ],
+            "correct": 1,
+            "explanation": "Mandela đấu tranh chống apartheid - hệ thống phân biệt chủng tộc."
+          },
+          {
+            "question": "How long was Mandela imprisoned?",
+            "options": [
+              "17 years",
+              "20 years",
+              "27 years",
+              "30 years"
+            ],
+            "correct": 2,
+            "explanation": "Mandela bị tù 27 năm như đề cập trong bài."
+          },
+          {
+            "question": "When did Mandela become president?",
+            "options": [
+              "1990",
+              "1993",
+              "1994",
+              "2013"
+            ],
+            "correct": 2,
+            "explanation": "Mandela trở thành tổng thống năm 1994."
+          },
+          {
+            "question": "What prize did Mandela receive?",
+            "options": [
+              "Nobel Prize in Literature",
+              "Nobel Peace Prize",
+              "Nobel Prize in Physics",
+              "Nobel Prize in Medicine"
+            ],
+            "correct": 1,
+            "explanation": "Mandela nhận giải Nobel Hòa bình năm 1993."
+          },
+          {
+            "question": "What is Mandela remembered for?",
+            "options": [
+              "His wealth",
+              "His military power",
+              "His vision and leadership",
+              "His scientific discoveries"
+            ],
+            "correct": 2,
+            "explanation": "Mandela được nhớ đến như một nhà lãnh đạo có tầm nhìn xa."
+          }
+        ]
+      },
+      {
+        "id": "p2-ex15",
+        "type": "reading",
+        "passage": "Malala Yousafzai is a Pakistani activist and the youngest Nobel Prize laureate. Born in 1997, she became an advocate for girls' education at a young age. In 2012, at age 15, she survived an assassination attempt by the Taliban because of her activism. This tragic event made her even more determined to fight for education rights. Despite the danger, Malala continued her courageous work and co-founded the Malala Fund to support girls' education worldwide. In 2014, at age 17, she received the Nobel Peace Prize, becoming the youngest person ever to win this prestigious award. Today, Malala's influential voice continues to inspire young people globally to stand up for their rights. Her remarkable story shows that one person, regardless of age, can make a significant contribution to society.",
+        "questions": [
+          {
+            "question": "What does Malala fight for?",
+            "options": [
+              "Women's voting rights",
+              "Girls' education",
+              "Environmental protection",
+              "Animal rights"
+            ],
+            "correct": 1,
+            "explanation": "Malala đấu tranh cho quyền giáo dục của trẻ em gái."
+          },
+          {
+            "question": "What happened to Malala in 2012?",
+            "options": [
+              "She won a prize",
+              "She started school",
+              "She survived an attack",
+              "She wrote a book"
+            ],
+            "correct": 2,
+            "explanation": "Năm 2012, Malala sống sót sau vụ ám sát của Taliban."
+          },
+          {
+            "question": "How old was Malala when she won the Nobel Prize?",
+            "options": [
+              "15",
+              "16",
+              "17",
+              "18"
+            ],
+            "correct": 2,
+            "explanation": "Malala giành giải Nobel năm 17 tuổi."
+          },
+          {
+            "question": "What organization did Malala co-found?",
+            "options": [
+              "The Education Fund",
+              "The Malala Fund",
+              "The Peace Fund",
+              "The Youth Fund"
+            ],
+            "correct": 1,
+            "explanation": "Malala đồng sáng lập Quỹ Malala (The Malala Fund)."
+          },
+          {
+            "question": "What quality best describes Malala?",
+            "options": [
+              "Fearful",
+              "Courageous",
+              "Indifferent",
+              "Lazy"
+            ],
+            "correct": 1,
+            "explanation": "Malala thể hiện lòng dũng cảm (courageous) trong công việc của mình."
+          }
+        ]
+      },
+      {
+        "id": "p2-ex16",
+        "type": "sa",
+        "question_text": "Complete: Marie Curie's _____ (ACHIEVE) in science were groundbreaking.",
+        "correct": "achievements",
+        "explanation": "'Achievements' (danh từ số nhiều) - thành tựu. Câu hoàn chỉnh: 'Marie Curie's achievements in science were groundbreaking.'"
+      },
+      {
+        "id": "p2-ex17",
+        "type": "sa",
+        "question_text": "Fill in: She was _____ to overcome all obstacles. (determined/lazy)",
+        "correct": "determined",
+        "explanation": "'Determined' (quyết tâm) là từ đúng. Câu hoàn chỉnh: 'She was determined to overcome all obstacles.'"
+      },
+      {
+        "id": "p2-ex18",
+        "type": "sa",
+        "question_text": "Complete the collocation: make a _____ (contribution/contribute)",
+        "correct": "contribution",
+        "explanation": "'Make a contribution' là collocation đúng. 'Contribution' là danh từ."
+      },
+      {
+        "id": "p2-ex19",
+        "type": "sa",
+        "question_text": "Complete: She _____ (overcame/overcome) many challenges in her life.",
+        "correct": "overcame",
+        "explanation": "'Overcame' (quá khứ đơn) là dạng đúng. Câu hoàn chỉnh: 'She overcame many challenges in her life.'"
+      },
+      {
+        "id": "p2-ex20",
+        "type": "essay",
+        "question": "Write a paragraph (100-120 words) about a person you admire. Use at least 5 vocabulary words from this lesson (achievement, pioneer, devoted, legacy, influential, determined, visionary, contribution, remarkable, struggle). Describe:\n- Who the person is\n- What they did/do\n- Why you admire them\n- What impact they have had",
+        "answer_guide": "Sample answer:\n\nI deeply admire Malala Yousafzai, a remarkable young activist from Pakistan. Despite facing life-threatening struggles, she remained determined to fight for girls' education rights. Malala is a pioneer in youth activism and has made significant contributions to education worldwide through the Malala Fund. Her courageous work earned her the Nobel Peace Prize at just 17 years old, making her the youngest Nobel laureate ever. What makes her truly influential is not just her achievements, but her unwavering devotion to helping others access education. Malala's legacy continues to inspire millions of young people to stand up for their rights and never give up on their dreams, no matter how difficult the circumstances.",
+        "explanation": "Bài viết cần: giới thiệu người được ngưỡng mộ, mô tả thành tựu/đóng góp của họ, giải thích lý do ngưỡng mộ, và nêu ảnh hưởng của họ. Sử dụng ít nhất 5 từ vựng đã học."
+      }
+    ]
+  }
+}

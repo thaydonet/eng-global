@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 7",
+  "subject_id": 44,
+  "lessons": [
+    {
+      "id": "anh7-unit-11-travelling-in-the-future",
+      "name": "Unit 11: Travelling in the Future",
+      "slug": "unit-11-travelling-in-the-future",
+      "chapter": "Unit 11: Travelling in the Future",
+      "chapter_id": "A7",
+      "lesson_id": 11,
+      "description": "Learn about future travel with simple future tense and possessive pronouns.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1464037866556-6812c9d1c72e?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-11",
+          "name": "Future Travel Vocabulary",
+          "slug": "future-travel-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 11: Travelling in the Future",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Travel</td><td class='px-4 py-2'>(v) /ˈtrævl/</td><td class='px-4 py-2'>Du lịch</td><td class='px-4 py-2'>We will travel by plane.</td></tr><tr><td class='px-4 py-2 font-bold'>Transport</td><td class='px-4 py-2'>(n) /ˈtrænspɔːt/</td><td class='px-4 py-2'>Phương tiện</td><td class='px-4 py-2'>Future transport is fast.</td></tr><tr><td class='px-4 py-2 font-bold'>Vehicle</td><td class='px-4 py-2'>(n) /ˈviːəkl/</td><td class='px-4 py-2'>Xe cộ</td><td class='px-4 py-2'>Flying vehicles are cool.</td></tr><tr><td class='px-4 py-2 font-bold'>Driverless</td><td class='px-4 py-2'>(adj) /ˈdraɪvələs/</td><td class='px-4 py-2'>Không người lái</td><td class='px-4 py-2'>Driverless cars are safe.</td></tr><tr><td class='px-4 py-2 font-bold'>Autopilot</td><td class='px-4 py-2'>(n) /ˈɔːtəʊpaɪlət/</td><td class='px-4 py-2'>Lái tự động</td><td class='px-4 py-2'>It has autopilot.</td></tr><tr><td class='px-4 py-2 font-bold'>Fly</td><td class='px-4 py-2'>(v) /flaɪ/</td><td class='px-4 py-2'>Bay</td><td class='px-4 py-2'>Cars will fly.</td></tr><tr><td class='px-4 py-2 font-bold'>Hover</td><td class='px-4 py-2'>(v) /ˈhɒvə(r)/</td><td class='px-4 py-2'>Lơ lửng</td><td class='px-4 py-2'>It can hover.</td></tr><tr><td class='px-4 py-2 font-bold'>Jet pack</td><td class='px-4 py-2'>(n) /ˈdʒet pæk/</td><td class='px-4 py-2'>Ba lô phản lực</td><td class='px-4 py-2'>I want a jet pack.</td></tr><tr><td class='px-4 py-2 font-bold'>Teleport</td><td class='px-4 py-2'>(v) /ˈtelɪpɔːt/</td><td class='px-4 py-2'>Dịch chuyển tức thời</td><td class='px-4 py-2'>We can teleport.</td></tr><tr><td class='px-4 py-2 font-bold'>Spaceship</td><td class='px-4 py-2'>(n) /ˈspeɪsʃɪp/</td><td class='px-4 py-2'>Tàu vũ trụ</td><td class='px-4 py-2'>Spaceships are amazing.</td></tr><tr><td class='px-4 py-2 font-bold'>Eco-friendly</td><td class='px-4 py-2'>(adj) /ˌiːkəʊ ˈfrendli/</td><td class='px-4 py-2'>Thân thiện môi trường</td><td class='px-4 py-2'>It's eco-friendly.</td></tr><tr><td class='px-4 py-2 font-bold'>High-speed</td><td class='px-4 py-2'>(adj) /haɪ spiːd/</td><td class='px-4 py-2'>Tốc độ cao</td><td class='px-4 py-2'>High-speed trains are fast.</td></tr><tr><td class='px-4 py-2 font-bold'>Comfortable</td><td class='px-4 py-2'>(adj) /ˈkʌmftəbl/</td><td class='px-4 py-2'>Thoải mái</td><td class='px-4 py-2'>It's very comfortable.</td></tr><tr><td class='px-4 py-2 font-bold'>Convenient</td><td class='px-4 py-2'>(adj) /kənˈviːniənt/</td><td class='px-4 py-2'>Tiện lợi</td><td class='px-4 py-2'>It's convenient.</td></tr><tr><td class='px-4 py-2 font-bold'>Modern</td><td class='px-4 py-2'>(adj) /ˈmɒdn/</td><td class='px-4 py-2'>Hiện đại</td><td class='px-4 py-2'>Modern transport is great.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Future means of transport (Phương tiện tương lai):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>flying car:</strong> ô tô bay</li><li><strong>driverless car:</strong> xe không người lái</li><li><strong>jet pack:</strong> ba lô phản lực</li><li><strong>teleporter:</strong> máy dịch chuyển tức thời</li><li><strong>spaceship:</strong> tàu vũ trụ</li><li><strong>high-speed train:</strong> tàu cao tốc</li><li><strong>solar-powered vehicle:</strong> xe chạy bằng năng lượng mặt trời</li></ul><p><strong>Features of future transport:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>eco-friendly:</strong> thân thiện môi trường</li><li><strong>fast:</strong> nhanh</li><li><strong>comfortable:</strong> thoải mái</li><li><strong>convenient:</strong> tiện lợi</li><li><strong>safe:</strong> an toàn</li><li><strong>modern:</strong> hiện đại</li></ul><p><strong>Actions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>fly:</strong> bay</li><li><strong>hover:</strong> lơ lửng</li><li><strong>teleport:</strong> dịch chuyển tức thời</li><li><strong>travel:</strong> du lịch</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Rising and falling intonation</h3><p><strong>1. Rising intonation (Giọng lên ↗):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu hỏi Yes/No</li><li>Ex: Will you travel by flying car? ↗</li></ul><p><strong>2. Falling intonation (Giọng xuống ↘):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu hỏi Wh-</li><li>Ex: Where will you go? ↘</li><li>Câu khẳng định</li><li>Ex: I will travel by spaceship. ↘</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Simple Future Tense (Thì tương lai đơn)</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + will + V (bare infinitive)</li><li>Ex: I <strong>will travel</strong> by flying car.</li><li><strong>Phủ định:</strong> S + will not (won't) + V</li><li>Ex: She <strong>won't use</strong> a car.</li><li><strong>Nghi vấn:</strong> Will + S + V...?</li><li>Ex: <strong>Will</strong> you <strong>travel</strong> by spaceship?</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dự đoán tương lai</li><li>Ex: Cars <strong>will fly</strong> in the future.</li><li>Quyết định tức thời</li><li>Ex: I <strong>will buy</strong> a jet pack.</li><li>Lời hứa</li><li>Ex: I <strong>will help</strong> you.</li></ul><p><strong>3. Dấu hiệu nhận biết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>tomorrow, next week/month/year</li><li>in the future, soon, someday</li></ul><h3>B. Possessive Pronouns (Đại từ sở hữu)</h3><p><strong>1. Bảng đại từ sở hữu:</strong></p><div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2'>Subject</th><th class='px-4 py-2'>Possessive Adjective</th><th class='px-4 py-2'>Possessive Pronoun</th></tr></thead><tbody><tr><td class='px-4 py-2'>I</td><td class='px-4 py-2'>my</td><td class='px-4 py-2'>mine</td></tr><tr><td class='px-4 py-2'>You</td><td class='px-4 py-2'>your</td><td class='px-4 py-2'>yours</td></tr><tr><td class='px-4 py-2'>He</td><td class='px-4 py-2'>his</td><td class='px-4 py-2'>his</td></tr><tr><td class='px-4 py-2'>She</td><td class='px-4 py-2'>her</td><td class='px-4 py-2'>hers</td></tr><tr><td class='px-4 py-2'>It</td><td class='px-4 py-2'>its</td><td class='px-4 py-2'>-</td></tr><tr><td class='px-4 py-2'>We</td><td class='px-4 py-2'>our</td><td class='px-4 py-2'>ours</td></tr><tr><td class='px-4 py-2'>They</td><td class='px-4 py-2'>their</td><td class='px-4 py-2'>theirs</td></tr></tbody></table></div><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Possessive adjective + noun:</strong></li><li>Ex: This is <strong>my</strong> car.</li><li><strong>Possessive pronoun (thay thế noun):</strong></li><li>Ex: This car is <strong>mine</strong>.</li><li>Ex: Your car is fast, but <strong>mine</strong> is faster.</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Travelling in the future - Du lịch trong tương lai</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về phương tiện tương lai</li><li>Giới thiệu các phương tiện hiện đại</li><li>Nói về dự định du lịch</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Future means of transport</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về phương tiện tương lai</li><li>Học tính từ mô tả phương tiện</li></ul><p><strong>B. Pronunciation: Rising and falling intonation</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học ngữ điệu câu hỏi và câu khẳng định</li><li>Luyện phát âm</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Simple future & Possessive pronouns</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học thì tương lai đơn</li><li>Học đại từ sở hữu</li><li>Luyện tập nói về tương lai</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about future transport</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What will it be like?</li><li>How will people travel?</li><li>It will be...</li><li>I think...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Future transport</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về phương tiện tương lai</li><li>Tìm thông tin chi tiết</li></ul><p><strong>Speaking: Discussing future travel</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về phương tiện yêu thích</li><li>Dự đoán tương lai</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: About future transport</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về phương tiện tương lai</li><li>Ghi chú thông tin</li></ul><p><strong>Writing: About a future vehicle</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết về phương tiện tương lai</li><li>Sử dụng will</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Future transport</li><li><strong>Pronunciation:</strong> Intonation</li><li><strong>Grammar:</strong> Will, possessive pronouns</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> A future means of transport</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Thiết kế phương tiện tương lai</li><li>Vẽ hoặc tìm hình ảnh</li><li>Viết mô tả (7-10 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Simple Future Tense",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + will + V (bare infinitive)</li><li>S + won't + V</li><li>Will + S + V...?</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (travel) by flying car.",
+                "solution": "I <strong>will travel</strong> by flying car.",
+                "explanation": "Dự đoán tương lai → will + V."
+              },
+              {
+                "question": "She ______ (not/use) a car.",
+                "solution": "She <strong>won't use</strong> a car.",
+                "explanation": "Phủ định → won't + V."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Possessive Pronouns",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Possessive adjective + noun: my car</li><li>Possessive pronoun (thay noun): mine</li><li>mine, yours, his, hers, ours, theirs</li></ul>",
+            "examples": [
+              {
+                "question": "This is my car. That car is ______. (you)",
+                "solution": "That car is <strong>yours</strong>.",
+                "explanation": "Đại từ sở hữu thay thế 'your car' → yours."
+              },
+              {
+                "question": "Her car is fast, but ______ is faster. (I)",
+                "solution": "Her car is fast, but <strong>mine</strong> is faster.",
+                "explanation": "Đại từ sở hữu thay thế 'my car' → mine."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Future Transport Vocabulary",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về phương tiện tương lai</li><li>Học tính từ mô tả: eco-friendly, fast, comfortable</li></ul>",
+            "examples": [
+              {
+                "question": "A car without a driver is a ______ car.",
+                "solution": "A car without a driver is a <strong>driverless</strong> car.",
+                "explanation": "Xe không người lái → driverless."
+              },
+              {
+                "question": "Solar cars are ______.",
+                "solution": "Solar cars are <strong>eco-friendly</strong>.",
+                "explanation": "Thân thiện môi trường → eco-friendly."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Questions about Future",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Will + S + V...?</li><li>Wh-word + will + S + V...?</li></ul>",
+            "examples": [
+              {
+                "question": "______ you travel by spaceship?",
+                "solution": "<strong>Will</strong> you travel by spaceship?",
+                "explanation": "Câu hỏi Yes/No tương lai → Will."
+              },
+              {
+                "question": "______ will people travel in the future?",
+                "solution": "<strong>How</strong> will people travel in the future?",
+                "explanation": "Hỏi về cách thức → How."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I ______ by flying car.",
+            "options": ["travel", "will travel", "travelled", "am travelling"],
+            "correct": 1,
+            "explanation": "Tương lai → will + V."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "This is my car. That car is ______.",
+            "options": ["my", "mine", "I", "me"],
+            "correct": 1,
+            "explanation": "Đại từ sở hữu → mine."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "A car without a driver is ______.",
+            "options": ["flying", "driverless", "modern", "fast"],
+            "correct": 1,
+            "explanation": "Xe không người lái → driverless."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "______ you travel by spaceship?",
+            "options": ["Do", "Does", "Will", "Are"],
+            "correct": 2,
+            "explanation": "Câu hỏi tương lai → Will."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She ______ use a car.",
+            "options": ["will", "won't", "don't", "doesn't"],
+            "correct": 1,
+            "explanation": "Phủ định tương lai → won't."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "Solar cars are ______.",
+            "options": ["dirty", "expensive", "eco-friendly", "slow"],
+            "correct": 2,
+            "explanation": "Thân thiện môi trường → eco-friendly."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "Your car is fast, but ______ is faster.",
+            "options": ["my", "mine", "I", "me"],
+            "correct": 1,
+            "explanation": "Đại từ sở hữu → mine."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "______ will people travel in the future?",
+            "options": ["What", "When", "Where", "How"],
+            "correct": 3,
+            "explanation": "Hỏi về cách thức → How."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "Cars ______ fly in the future.",
+            "options": ["will", "won't", "do", "does"],
+            "correct": 0,
+            "explanation": "Dự đoán tương lai → will."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "A ______ can help you fly.",
+            "options": ["car", "bike", "jet pack", "train"],
+            "correct": 2,
+            "explanation": "Ba lô phản lực → jet pack."
+          }
+        ]
+      }
+    }
+  ]
+}

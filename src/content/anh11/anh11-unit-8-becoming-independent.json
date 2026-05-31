@@ -1,0 +1,354 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-unit-8",
+      "name": "Unit 8: Becoming Independent",
+      "slug": "unit-8-becoming-independent",
+      "chapter": "Unit 8: Becoming Independent",
+      "chapter_id": "A11",
+      "lesson_id": 8,
+      "description": "Học về các kỹ năng độc lập cho thanh thiếu niên và câu chẻ với It is/was... that/who...",
+      "duration_minutes": 300,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2671&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh11-unit-8-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về các kỹ năng cần thiết để trở nên độc lập",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh11-unit-8-p1-getting-started.json"
+        },
+        {
+          "id": "anh11-unit-8-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về độc lập và kỹ năng sống",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh11-unit-8-p2-vocabulary.json"
+        },
+        {
+          "id": "anh11-unit-8-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Câu chẻ với It is/was... that/who... (Cleft Sentences)",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh11-unit-8-p3-grammar.json"
+        },
+        {
+          "id": "anh11-unit-8-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về cách trở nên độc lập",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh11-unit-8-p4-reading.json"
+        },
+        {
+          "id": "anh11-unit-8-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về các kỹ năng sống cơ bản",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh11-unit-8-p5-speaking.json"
+        },
+        {
+          "id": "anh11-unit-8-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về người học độc lập",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh11-unit-8-p6-listening.json"
+        },
+        {
+          "id": "anh11-unit-8-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết bài phân tích ưu và nhược điểm của tự học",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh11-unit-8-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-8",
+          "name": "Independence Vocabulary",
+          "slug": "independence-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 8: Becoming Independent",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Independent</td><td class='px-4 py-2'>(adj) /ˌɪndɪˈpendənt/</td><td class='px-4 py-2'>Độc lập, tự lập</td><td class='px-4 py-2'>She is very independent.</td></tr><tr><td class='px-4 py-2 font-bold'>Confidence</td><td class='px-4 py-2'>(n) /ˈkɒnfɪdəns/</td><td class='px-4 py-2'>Sự tự tin</td><td class='px-4 py-2'>Build your confidence.</td></tr><tr><td class='px-4 py-2 font-bold'>Responsibility</td><td class='px-4 py-2'>(n) /rɪˌspɒnsəˈbɪləti/</td><td class='px-4 py-2'>Trách nhiệm</td><td class='px-4 py-2'>Take responsibility for your actions.</td></tr><tr><td class='px-4 py-2 font-bold'>Self-motivated</td><td class='px-4 py-2'>(adj) /ˌself ˈməʊtɪveɪtɪd/</td><td class='px-4 py-2'>Tự thúc đẩy</td><td class='px-4 py-2'>He is a self-motivated student.</td></tr><tr><td class='px-4 py-2 font-bold'>Self-study</td><td class='px-4 py-2'>(n) /ˌself ˈstʌdi/</td><td class='px-4 py-2'>Tự học</td><td class='px-4 py-2'>Self-study requires discipline.</td></tr><tr><td class='px-4 py-2 font-bold'>Manage</td><td class='px-4 py-2'>(v) /ˈmænɪdʒ/</td><td class='px-4 py-2'>Quản lý</td><td class='px-4 py-2'>Learn to manage your time.</td></tr><tr><td class='px-4 py-2 font-bold'>Trust</td><td class='px-4 py-2'>(n, v) /trʌst/</td><td class='px-4 py-2'>Sự tin tưởng, tin tưởng</td><td class='px-4 py-2'>Earn your parents' trust.</td></tr><tr><td class='px-4 py-2 font-bold'>Life skill</td><td class='px-4 py-2'>(n) /laɪf skɪl/</td><td class='px-4 py-2'>Kỹ năng sống</td><td class='px-4 py-2'>Learn basic life skills.</td></tr><tr><td class='px-4 py-2 font-bold'>Decision-making</td><td class='px-4 py-2'>(n) /dɪˈsɪʒn ˌmeɪkɪŋ/</td><td class='px-4 py-2'>Ra quyết định</td><td class='px-4 py-2'>Improve decision-making skills.</td></tr><tr><td class='px-4 py-2 font-bold'>Time-management</td><td class='px-4 py-2'>(n) /taɪm ˈmænɪdʒmənt/</td><td class='px-4 py-2'>Quản lý thời gian</td><td class='px-4 py-2'>Good time-management is important.</td></tr><tr><td class='px-4 py-2 font-bold'>Money-management</td><td class='px-4 py-2'>(n) /ˈmʌni ˈmænɪdʒmənt/</td><td class='px-4 py-2'>Quản lý tiền bạc</td><td class='px-4 py-2'>Learn money-management early.</td></tr><tr><td class='px-4 py-2 font-bold'>Reliable</td><td class='px-4 py-2'>(adj) /rɪˈlaɪəbl/</td><td class='px-4 py-2'>Đáng tin cậy</td><td class='px-4 py-2'>She is a reliable person.</td></tr><tr><td class='px-4 py-2 font-bold'>Motivated</td><td class='px-4 py-2'>(adj) /ˈməʊtɪveɪtɪd/</td><td class='px-4 py-2'>Có động lực</td><td class='px-4 py-2'>Stay motivated to learn.</td></tr><tr><td class='px-4 py-2 font-bold'>Perseverance</td><td class='px-4 py-2'>(n) /ˌpɜːsɪˈvɪərəns/</td><td class='px-4 py-2'>Sự kiên trì</td><td class='px-4 py-2'>Success requires perseverance.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Life skills (Kỹ năng sống):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>time-management:</strong> quản lý thời gian</li><li><strong>money-management:</strong> quản lý tiền bạc</li><li><strong>decision-making:</strong> ra quyết định</li><li><strong>problem-solving:</strong> giải quyết vấn đề</li><li><strong>communication skills:</strong> kỹ năng giao tiếp</li><li><strong>cooking and cleaning:</strong> nấu ăn và dọn dẹp</li></ul><p><strong>Independence qualities (Phẩm chất độc lập):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>self-motivated:</strong> tự thúc đẩy</li><li><strong>self-reliant:</strong> tự lực</li><li><strong>responsible:</strong> có trách nhiệm</li><li><strong>confident:</strong> tự tin</li><li><strong>reliable:</strong> đáng tin cậy</li></ul><p><strong>Collocations về độc lập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>earn trust:</strong> giành được sự tin tưởng</li><li><strong>take responsibility:</strong> chịu trách nhiệm</li><li><strong>make decisions:</strong> đưa ra quyết định</li><li><strong>set goals:</strong> đặt mục tiêu</li><li><strong>develop skills:</strong> phát triển kỹ năng</li><li><strong>become independent:</strong> trở nên độc lập</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm: Ngữ điệu trong lời mời, gợi ý và yêu cầu lịch sự",
+              "content": "<h3>Intonation in invitations, suggestions, and polite requests</h3><p><strong>Fall-rise intonation (⤻) - Ngữ điệu giảm rồi tăng nhẹ</strong></p><p>Sử dụng trong:</p><p><strong>1. Invitations (Lời mời)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Would you like a cup of tea? ⤻</li><li>Would you like to join our cooking course? ⤻</li></ul><p><strong>2. Suggestions (Gợi ý)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Why don't you answer your phone? ⤻</li><li>Shall we now talk about other learning methods? ⤻</li><li>Why don't we use public transport to go to school? ⤻</li></ul><p><strong>3. Polite requests (Yêu cầu lịch sự)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Would you like me to help you install the software? ⤻</li><li>Can you show me the money-management app? ⤻</li><li>Could you please pay attention when I'm talking to you? ⤻</li></ul><p><strong>Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ngữ điệu giảm rồi tăng nhẹ (⤻) tạo cảm giác thân thiện, lịch sự</li><li>Giọng xuống ở giữa câu, sau đó tăng nhẹ ở cuối</li><li>Khác với câu hỏi Yes/No thông thường (chỉ tăng giọng ↗)</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp: Câu chẻ với It is/was... that/who...",
+              "content": "<h3>A. Câu chẻ (Cleft Sentences)</h3><p><strong>Định nghĩa:</strong> Câu chẻ là cấu trúc ngữ pháp dùng để nhấn mạnh một thành phần cụ thể trong câu.</p><p><strong>Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>It + is/was + thành phần nhấn mạnh + that/who + phần còn lại</strong></li></ul><h3>B. Các loại câu chẻ</h3><p><strong>1. Nhấn mạnh chủ ngữ (Subject)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu gốc: <strong>John</strong> is saving his pocket money to buy a new phone.</li><li>Câu chẻ: <strong>It is John who/that</strong> is saving his pocket money to buy a new phone.</li><li>(Chính John là người đang tiết kiệm tiền để mua điện thoại mới.)</li></ul><p><strong>2. Nhấn mạnh tân ngữ (Object)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu gốc: He bought <strong>gifts for his friends</strong> with his pocket money.</li><li>Câu chẻ: <strong>It was gifts for his friends that</strong> he bought with his pocket money.</li><li>(Chính quà cho bạn bè là thứ anh ấy mua bằng tiền tiêu vặt.)</li></ul><p><strong>3. Nhấn mạnh trạng ngữ thời gian (Time adverbial)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu gốc: John earned more pocket money <strong>last weekend</strong>.</li><li>Câu chẻ: <strong>It was last weekend that</strong> John earned more pocket money.</li><li>(Chính cuối tuần trước là lúc John kiếm được nhiều tiền tiêu vặt hơn.)</li></ul><p><strong>4. Nhấn mạnh trạng ngữ cách thức (Manner adverbial)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu gốc: Teenagers can earn pocket money <strong>by doing part-time jobs</strong>.</li><li>Câu chẻ: <strong>It is by doing part-time jobs that</strong> teenagers can earn pocket money.</li><li>(Chính bằng cách làm việc bán thời gian là cách thanh thiếu niên có thể kiếm tiền tiêu vặt.)</li></ul><h3>C. Phân biệt that và who</h3><div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Trường hợp</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Dùng</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Ví dụ</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2'>Nhấn mạnh người</td><td class='px-4 py-2'>who hoặc that</td><td class='px-4 py-2'>It is John who/that helps me.</td></tr><tr><td class='px-4 py-2'>Nhấn mạnh vật/sự việc</td><td class='px-4 py-2'>that</td><td class='px-4 py-2'>It was the book that I bought.</td></tr><tr><td class='px-4 py-2'>Nhấn mạnh thời gian/nơi chốn</td><td class='px-4 py-2'>that</td><td class='px-4 py-2'>It was yesterday that I met him.</td></tr></tbody></table></div><h3>D. Thì của động từ</h3><ul class='list-disc pl-5 space-y-2'><li>Dùng <strong>is</strong> khi câu gốc ở thì hiện tại</li><li>Ex: It <strong>is</strong> John who helps me every day.</li><li>Dùng <strong>was</strong> khi câu gốc ở thì quá khứ</li><li>Ex: It <strong>was</strong> John who helped me yesterday.</li></ul><h3>E. Lưu ý quan trọng</h3><ul class='list-disc pl-5 space-y-2'><li>Câu chẻ giúp nhấn mạnh thông tin quan trọng</li><li>Thường dùng trong văn nói và viết trang trọng</li><li>Không thể nhấn mạnh động từ chính bằng cấu trúc này</li><li>Động từ sau that/who phải chia theo chủ ngữ ban đầu</li><li>Ex: It is <strong>my parents who still think</strong> I don't have the skills. (think chia theo my parents)</li></ul>"
+            },
+            {
+              "heading": "5. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Earning Your Parents' Trust - Giành được sự tin tưởng của cha mẹ</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về các kỹ năng cần thiết để trở nên độc lập</li><li>Thảo luận về cách giành được sự tin tưởng của cha mẹ</li><li>Các kỹ năng sống cơ bản: quản lý tiền bạc, nấu ăn, dọn dẹp, quản lý thời gian</li><li>Chia sẻ kinh nghiệm về việc trở nên độc lập</li></ul><p><strong>Kỹ năng được đề cập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Money-management:</strong> Quản lý tiền bạc</li><li><strong>Cooking, cleaning, and doing laundry:</strong> Nấu ăn, dọn dẹp và giặt giũ</li><li><strong>Time-management:</strong> Quản lý thời gian</li></ul>"
+            },
+            {
+              "heading": "6. II. Language",
+              "content": "<p><strong>A. Pronunciation: Intonation in invitations, suggestions, and polite requests</strong></p><p>Luyện phát âm ngữ điệu trong lời mời, gợi ý và yêu cầu lịch sự</p><p><strong>B. Vocabulary:</strong> Teens and independence</p><ul class='list-disc pl-5 space-y-2'><li>Words related to independence</li><li>Life skills and responsibilities</li><li>Self-motivation and confidence</li><li>Trust and reliability</li></ul><p><strong>C. Grammar:</strong> Cleft sentences with It is/was... that/who...</p><ul class='list-disc pl-5 space-y-2'><li>Emphasizing subject, object, adverbials</li><li>Using that vs. who</li><li>Tense agreement in cleft sentences</li></ul>"
+            },
+            {
+              "heading": "7. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> How to Become Independent - Làm thế nào để trở nên độc lập</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu bài viết về các kỹ năng độc lập</li><li>Tìm thông tin chi tiết về từng kỹ năng</li><li>Hiểu cách phát triển kỹ năng sống</li><li>Áp dụng kiến thức vào thực tế</li></ul><p><strong>Nội dung:</strong> Bài đọc giới thiệu ba kỹ năng quan trọng:</p><ul class='list-disc pl-5 space-y-2'><li><strong>Basic life skills:</strong> Nấu ăn, dọn dẹp, giặt giũ, đi lại</li><li><strong>Decision-making skills:</strong> Xác định vấn đề, tìm giải pháp, đánh giá ưu nhược điểm, chọn phương án tốt nhất</li><li><strong>Time-management skills:</strong> Lập danh sách công việc, sử dụng công cụ quản lý thời gian, làm từng việc một, sắp xếp thời gian nghỉ ngơi</li></ul>"
+            },
+            {
+              "heading": "8. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Learning Basic Life Skills - Học các kỹ năng sống cơ bản</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đưa ra hướng dẫn từng bước</li><li>Giải thích cách làm việc nhà</li><li>Nói về kỹ năng sống đã học</li><li>Chia sẻ kinh nghiệm thực tế</li></ul><p><strong>Useful expressions for giving instructions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>First of all, ...</li><li>Secondly, ... / Then, ...</li><li>After that, ...</li><li>Finally, ...</li><li>Make sure you...</li><li>Don't forget to...</li><li>Remember that...</li></ul><p><strong>Chủ đề thực hành:</strong></p><ul class='list-disc pl-5 space-y-2'><li>How to do laundry (Cách giặt quần áo)</li><li>How to cook rice in a rice cooker (Cách nấu cơm bằng nồi cơm điện)</li></ul>"
+            },
+            {
+              "heading": "9. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> Becoming Independent Learners - Trở thành người học độc lập</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu về đặc điểm của người học độc lập</li><li>Điền thông tin còn thiếu</li><li>Trả lời câu hỏi về kỹ năng tự học</li><li>Ghi chú các ý quan trọng</li></ul><p><strong>Nội dung:</strong> Bài nghe về 4 đặc điểm của người học độc lập:</p><ul class='list-disc pl-5 space-y-2'><li><strong>Motivation:</strong> Có động lực học tập mạnh mẽ</li><li><strong>Responsibility:</strong> Chịu trách nhiệm cho việc học của mình</li><li><strong>Planning:</strong> Lập kế hoạch học tập chi tiết</li><li><strong>Curiosity:</strong> Không ngại đặt câu hỏi khó</li></ul>"
+            },
+            {
+              "heading": "10. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing an article about pros and cons of self-study</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết bài báo phân tích ưu và nhược điểm</li><li>Sử dụng cấu trúc rõ ràng: Introduction - Body - Conclusion</li><li>Trình bày quan điểm cân bằng</li><li>Sử dụng từ nối phù hợp</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Title:</strong> Pros and cons of self-study</li><li><strong>Introduction:</strong> Giới thiệu chủ đề tự học</li><li><strong>Body Paragraph 1 (Pros):</strong> Ưu điểm (freedom, responsibility, confidence)</li><li><strong>Body Paragraph 2 (Cons):</strong> Nhược điểm (time-consuming, lack of interaction, limited practical skills)</li><li><strong>Conclusion:</strong> Kết luận cân bằng</li></ul><p><strong>Useful language:</strong></p><ul class='list-disc pl-5 space-y-2'><li>First (of all), ... / Secondly, ... / Finally, ...</li><li>On the other hand, ...</li><li>In addition, ... / For example, ...</li><li>In conclusion, ...</li></ul>"
+            },
+            {
+              "heading": "11. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Expressing best wishes and responding</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Expressing wishes:</strong></li><li>Have a great time!</li><li>Best wishes!</li><li>Good luck!</li><li>Get well soon!</li><li>I hope you do really well!</li><li>I wish you every success!</li></ul><ul class='list-disc pl-5 space-y-2'><li><strong>Responding:</strong></li><li>Thanks so much!</li><li>Thank you for your wishes.</li><li>That really means a lot to me.</li><li>Same to you!</li></ul><p><strong>Culture:</strong> Teen Independence in the US</p><ul class='list-disc pl-5 space-y-2'><li><strong>School:</strong> American teens work hard and choose their own subjects</li><li><strong>Extracurricular activities:</strong> Join sports teams and clubs</li><li><strong>Part-time jobs:</strong> Work at fast-food restaurants, shops to earn money</li><li><strong>Volunteer work:</strong> Help at local hospitals, libraries, community centers</li><li><strong>Money management:</strong> Learn to manage their own money early</li></ul><p><strong>Thảo luận:</strong></p><ul class='list-disc pl-5 space-y-2'><li>So sánh thanh thiếu niên Mỹ và Việt Nam</li><li>Điểm giống và khác nhau về cách trở nên độc lập</li><li>Vai trò của gia đình trong việc giáo dục con cái</li></ul>"
+            },
+            {
+              "heading": "12. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Pronunciation:</strong> Intonation in invitations, suggestions, and polite requests (fall-rise ⤻)</li><li><strong>Vocabulary:</strong> Independent, confidence, responsibility, self-motivated, self-study, manage, trust, life skill, decision-making, time-management, money-management, reliable, motivated, perseverance</li><li><strong>Grammar:</strong> Cleft sentences with It is/was... that/who...</li><li><strong>Skills:</strong> Reading about independence skills, Speaking about life skills, Listening to independent learners, Writing about self-study</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng:</p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng từ vựng về độc lập và kỹ năng sống</li><li>Phát âm ngữ điệu trong lời mời và yêu cầu lịch sự</li><li>Sử dụng câu chẻ để nhấn mạnh thông tin</li><li>Thảo luận về kỹ năng trở nên độc lập</li></ul>"
+            },
+            {
+              "heading": "13. Project",
+              "content": "<p><strong>Đề tài:</strong> A Life Skills Workshop - Hội thảo kỹ năng sống</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một kỹ năng sống mà thanh thiếu niên cần phát triển</li><li>Thảo luận về tầm quan trọng của kỹ năng đó</li><li>Lập danh sách các bước và hoạt động để phát triển kỹ năng</li><li>Trình bày kế hoạch của nhóm trước lớp</li></ul><p><strong>Câu hỏi gợi ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What is the life skill?</li><li>How important is it for teens to become independent?</li><li>What are the main steps of the skill development?</li><li>What other activities will be helpful for its development?</li></ul><p><strong>Ví dụ kỹ năng có thể chọn:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Communication skills (Kỹ năng giao tiếp)</li><li>Problem-solving skills (Kỹ năng giải quyết vấn đề)</li><li>Financial literacy (Hiểu biết tài chính)</li><li>Cooking skills (Kỹ năng nấu ăn)</li><li>Digital literacy (Hiểu biết công nghệ số)</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Cleft Sentences",
+            "method": "<p>Rewrite sentences using cleft sentences to emphasize specific parts.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Becoming independent is an important part of growing up. Teenagers need to develop various life skills to prepare for adulthood and earn their parents' trust. Three essential skills are particularly important: basic life skills, decision-making skills, and time-management skills.\n\nFirst, learning basic life skills helps teenagers become more self-reliant. These include cooking simple meals, doing laundry, cleaning the house, and getting around independently. It was my mother who taught me how to cook when I was 14. Now I can prepare meals for my family when my parents are busy. Mastering these skills not only makes teenagers more independent but also shows parents that they are responsible.\n\nSecond, good decision-making skills are crucial for independence. Teenagers face many choices every day, from small decisions like what to wear to important ones like choosing a career path. It is the ability to make wise decisions that helps teenagers become truly independent. To improve this skill, teenagers should identify problems clearly, think of multiple solutions, review the pros and cons of each option, and then choose the best one.\n\nFinally, time-management skills help teenagers balance their studies, hobbies, and responsibilities. It was learning to manage my time effectively that helped me improve my grades and still have time for friends. Making a to-do list, using time-management apps, and scheduling time to relax are all helpful strategies. With good time-management, teenagers can accomplish more and feel less stressed.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Parents should teach their children everything",
+                  "Three essential skills help teenagers become independent",
+                  "Teenagers don't need to learn life skills",
+                  "Time-management is the only important skill"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về ba kỹ năng thiết yếu giúp thanh thiếu niên trở nên độc lập."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, basic life skills include ______.",
+                "options": [
+                  "only cooking",
+                  "cooking, laundry, cleaning, and getting around",
+                  "only studying",
+                  "playing sports"
+                ],
+                "correct": 1,
+                "explanation": "Kỹ năng sống cơ bản bao gồm nấu ăn, giặt giũ, dọn dẹp và đi lại độc lập."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'self-reliant' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "dependent on others",
+                  "independent and able to do things alone",
+                  "lazy",
+                  "irresponsible"
+                ],
+                "correct": 1,
+                "explanation": "Self-reliant = independent and able to do things alone (tự lực, độc lập)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What should teenagers do to improve decision-making skills?",
+                "options": [
+                  "Always ask parents for help",
+                  "Make quick decisions without thinking",
+                  "Identify problems, think of solutions, review pros and cons",
+                  "Avoid making any decisions"
+                ],
+                "correct": 2,
+                "explanation": "Để cải thiện kỹ năng ra quyết định, thanh thiếu niên nên xác định vấn đề, nghĩ ra giải pháp, xem xét ưu nhược điểm."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, what helps teenagers balance studies and hobbies?",
+                "options": [
+                  "Cooking skills",
+                  "Decision-making skills",
+                  "Time-management skills",
+                  "Communication skills"
+                ],
+                "correct": 2,
+                "explanation": "Kỹ năng quản lý thời gian giúp thanh thiếu niên cân bằng học tập và sở thích."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "It ______ my mum who taught me how to cook.",
+            "options": ["is", "was", "are", "were"],
+            "correct": 1,
+            "explanation": "Dùng 'was' vì hành động dạy nấu ăn xảy ra trong quá khứ."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "Teenagers need to learn basic ______ to become independent.",
+            "options": ["life skills", "life skill", "lives skills", "lives skill"],
+            "correct": 0,
+            "explanation": "Life skills (số nhiều): các kỹ năng sống."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "It is ______ who helps me with my homework every day.",
+            "options": ["my sister", "my sister that", "my sister who", "both A and C"],
+            "correct": 3,
+            "explanation": "Khi nhấn mạnh người, có thể dùng 'who' hoặc không cần 'that/who' nếu đứng cuối câu."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "She is very ______ and doesn't need help from others.",
+            "options": ["dependent", "independence", "independent", "depend"],
+            "correct": 2,
+            "explanation": "Independent (adj): độc lập."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "It was ______ that I learned to manage my time effectively.",
+            "options": ["yesterday", "last year", "in high school", "all are correct"],
+            "correct": 3,
+            "explanation": "Tất cả đều đúng vì có thể nhấn mạnh các trạng ngữ thời gian khác nhau."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "You need to take ______ for your own actions.",
+            "options": ["responsible", "responsibility", "responsibly", "respond"],
+            "correct": 1,
+            "explanation": "Take responsibility: chịu trách nhiệm (cần danh từ)."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "It is ______ doing chores that teenagers can earn their parents' trust.",
+            "options": ["by", "with", "in", "at"],
+            "correct": 0,
+            "explanation": "By + V-ing: bằng cách làm gì."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "He is a ______ student who studies hard without being told.",
+            "options": ["self-motivated", "self-motivate", "self-motivation", "motivate"],
+            "correct": 0,
+            "explanation": "Self-motivated (adj): tự thúc đẩy."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "It was ______ the app that taught me how to manage money.",
+            "options": ["it", "this", "that", "no word needed"],
+            "correct": 3,
+            "explanation": "Không cần thêm từ. Cấu trúc: It was + danh từ + that..."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Good ______ skills help you balance work and study.",
+            "options": ["time-manage", "time-management", "time-managing", "manage-time"],
+            "correct": 1,
+            "explanation": "Time-management (n): quản lý thời gian."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Cleft sentences are used to emphasize a specific part of a sentence.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Câu chẻ được dùng để nhấn mạnh một phần cụ thể trong câu."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "We use 'who' when emphasizing things or events in cleft sentences.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Dùng 'who' khi nhấn mạnh người. Dùng 'that' khi nhấn mạnh vật hoặc sự việc."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Learning life skills helps teenagers become more independent.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Học các kỹ năng sống giúp thanh thiếu niên trở nên độc lập hơn."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call the ability to do things without help from others? (one word)",
+            "correct": "independence",
+            "explanation": "Independence: sự độc lập - khả năng làm việc mà không cần sự giúp đỡ từ người khác."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: It ______ John who is saving money to buy a phone. (is/was)",
+            "correct": "is",
+            "explanation": "Dùng 'is' vì hành động đang diễn ra ở hiện tại (is saving)."
+          }
+        ]
+      }
+    }
+  ]
+}

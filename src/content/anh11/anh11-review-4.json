@@ -1,0 +1,415 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-review-4",
+      "name": "Review 4 (Units 9 - 10)",
+      "slug": "review-4-units-9-10",
+      "chapter": "Review 4 (Units 9 - 10)",
+      "chapter_id": "A11",
+      "lesson_id": 11,
+      "description": "Ôn tập từ vựng và ngữ pháp từ Unit 9 và 10 (Tiếng Anh 11 - Global Success).",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-4-mixed",
+          "name": "Mixed Review",
+          "slug": "mixed-review",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 4: Units 9-10",
+          "sections": [
+            {
+              "heading": "I. Language - Ôn tập ngôn ngữ",
+              "content": "<h3>A. Pronunciation (Phát âm)</h3><p><strong>Unit 9:</strong> Intonation in complex sentences</p><ul class='list-disc pl-5 space-y-2'><li><strong>Subordinate clause first:</strong> Rising intonation (↗), then falling (↘)</li><li>Ex: Although poverty is serious ↗, we can solve it. ↘</li><li>Ex: Because bullying affects students ↗, schools must act. ↘</li><li><strong>Main clause first:</strong> Rising (↗), then falling (↘)</li><li>Ex: We must tackle this ↗ because it affects people. ↘</li></ul><p><strong>Unit 10:</strong> Stress in compound nouns</p><ul class='list-disc pl-5 space-y-2'><li><strong>Compound nouns:</strong> Stress on first word</li><li>Ex: <strong>RAIN</strong>forest, <strong>WILD</strong>life, <strong>GREEN</strong>house</li><li>Ex: <strong>SUN</strong>light, <strong>SEA</strong>food, <strong>WATER</strong>fall</li><li><strong>Compare:</strong> <strong>GREEN</strong>house (nhà kính) vs. green <strong>HOUSE</strong> (ngôi nhà màu xanh)</li></ul><h3>B. Vocabulary (Từ vựng)</h3><p><strong>Unit 9: Social Issues</strong></p><ul class='list-disc pl-5 space-y-2'><li>Problems: poverty, bullying, peer pressure, discrimination, inequality, unemployment</li><li>People: homeless, victim, volunteer</li><li>Actions: awareness, campaign, charity, support, tackle</li><li>Adjectives: vulnerable, serious, effective</li></ul><p><strong>Unit 10: The Ecosystem</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nature: ecosystem, biodiversity, habitat, species, wildlife</li><li>Problems: endangered, extinction, deforestation, pollution</li><li>Actions: conservation, preserve, sustainable, protect, balance</li><li>Compound nouns: rainforest, greenhouse, sunlight, waterfall, seafood</li></ul><h3>C. Grammar (Ngữ pháp)</h3><p><strong>Unit 9: Linking Words and Phrases</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Addition:</strong> moreover, in addition, furthermore, besides</li><li>Ex: Poverty is serious. <strong>Moreover</strong>, it affects education.</li><li><strong>Contrast:</strong> however, although, despite, on the other hand</li><li>Ex: <strong>Although</strong> it's difficult, we can solve it.</li><li><strong>Cause-Effect:</strong> because, therefore, as a result, consequently</li><li>Ex: He studied hard. <strong>Therefore</strong>, he passed.</li><li><strong>Purpose:</strong> to, in order to, so that</li><li>Ex: We raise awareness <strong>to</strong> help people.</li><li><strong>Example:</strong> for example, for instance, such as</li><li><strong>Conclusion:</strong> in conclusion, to sum up, finally</li></ul><p><strong>Unit 10: Compound Nouns</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Noun + Noun:</strong> rainforest, wildlife, sunlight, waterfall</li><li><strong>Adjective + Noun:</strong> greenhouse, highway, blackboard</li><li><strong>Verb + Noun:</strong> breakfast, playground, swimsuit</li><li><strong>Noun + V-ing:</strong> birdwatching, sunbathing</li><li><strong>V-ing + Noun:</strong> living room, swimming pool, dining table</li><li><strong>Plural:</strong> Add -s to main word (rainforests, greenhouses)</li></ul>"
+            }
+,
+            {
+              "heading": "II. Skills - Ôn tập kỹ năng",
+              "content": "<h3>A. Reading (Đọc hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc lướt để nắm ý chính (skimming)</li><li>Đọc kỹ để tìm thông tin chi tiết (scanning)</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li><li>Hiểu ý chính và ý phụ của đoạn văn</li><li>Xác định thông tin đúng/sai</li><li>Suy luận và rút ra kết luận</li></ul><p><strong>Chủ đề đã đọc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Social issues: bullying, poverty, peer pressure</li><li>Ecosystems and biodiversity</li><li>Environmental protection and conservation</li><li>Rainforests and their importance</li></ul><h3>B. Speaking (Nói)</h3><p><strong>Chủ đề đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Discussing social issues and solutions</li><li>Talking about ecosystems and environmental protection</li><li>Expressing concern and making suggestions</li><li>Describing environmental problems</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I think/believe that... / In my opinion, ...</li><li>One of the main problems is...</li><li>This affects/threatens...</li><li>To solve this, we should...</li><li>Moreover/Furthermore/In addition, ...</li><li>However/On the other hand, ...</li><li>For example/For instance, ...</li><li>I'm worried/concerned about...</li><li>It's important/essential to...</li></ul><h3>C. Listening (Nghe hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe để nắm ý chính</li><li>Nghe để tìm thông tin cụ thể</li><li>Điền thông tin còn thiếu (gap-filling)</li><li>Trả lời câu hỏi chi tiết</li><li>Ghi chú các ý quan trọng (note-taking)</li><li>Hiểu thái độ và ý kiến của người nói</li></ul><p><strong>Chủ đề đã nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Talks about addressing social issues</li><li>Discussions about conservation programs</li><li>Interviews about environmental protection</li><li>Presentations about ecosystems</li></ul><h3>D. Writing (Viết)</h3><p><strong>Dạng bài đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Writing articles about social issues</li><li>Writing reports about ecosystems</li><li>Using linking words for coherence</li><li>Describing problems and solutions</li></ul><p><strong>Kỹ năng viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tổ chức bài viết: Introduction - Body - Conclusion</li><li>Sử dụng từ nối để tạo mạch lạc</li><li>Sử dụng danh từ ghép chính xác</li><li>Trình bày nguyên nhân, tác động và giải pháp</li><li>Viết câu đa dạng và logic</li></ul><p><strong>Cấu trúc bài viết mẫu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Title:</strong> Tiêu đề thu hút</li><li><strong>Introduction:</strong> Giới thiệu chủ đề (1-2 câu)</li><li><strong>Body Paragraph 1:</strong> Nguyên nhân/Đặc điểm</li><li><strong>Body Paragraph 2:</strong> Tác động/Tầm quan trọng</li><li><strong>Body Paragraph 3:</strong> Giải pháp</li><li><strong>Conclusion:</strong> Kết luận (1-2 câu)</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Mixed Exercise",
+            "method": "<p>Review all grammar points and vocabulary from Units 9-10.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Social issues and environmental problems are closely connected. Poverty, one of the most serious social issues, often leads to environmental degradation. When people struggle to meet basic needs, they may exploit natural resources unsustainably. For example, poor communities might cut down rainforests for farmland or fuel, threatening biodiversity and wildlife habitats.\n\nMoreover, environmental problems disproportionately affect vulnerable populations. Climate change and pollution impact poor communities more severely because they have fewer resources to adapt. In addition, children in poverty-stricken areas often lack access to clean water and healthy environments, affecting their health and education.\n\nHowever, addressing these interconnected issues requires comprehensive solutions. To tackle poverty, governments must provide education and job opportunities. Furthermore, conservation programs should involve local communities, ensuring that environmental protection also improves people's livelihoods. Sustainable development is essential - it meets present needs without compromising future generations.\n\nIn conclusion, we cannot solve social issues without protecting ecosystems, and vice versa. Therefore, integrated approaches that address both human welfare and environmental conservation are crucial for creating a better world.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Poverty and environmental problems are unrelated",
+                  "Social issues and environmental problems are interconnected",
+                  "Only rich people cause environmental problems",
+                  "Environmental protection is not important"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về mối liên hệ giữa vấn đề xã hội và môi trường."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, why might poor communities cut down rainforests?",
+                "options": [
+                  "For fun",
+                  "To meet basic needs like farmland or fuel",
+                  "Because they hate trees",
+                  "To sell expensive wood"
+                ],
+                "correct": 1,
+                "explanation": "Cộng đồng nghèo có thể chặt phá rừng để có đất trồng trọt hoặc nhiên liệu."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'vulnerable' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "strong and powerful",
+                  "easily harmed or affected",
+                  "wealthy",
+                  "independent"
+                ],
+                "correct": 1,
+                "explanation": "Vulnerable = easily harmed or affected (dễ bị tổn thương)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What does the passage suggest about solving these problems?",
+                "options": [
+                  "Focus only on poverty",
+                  "Focus only on environment",
+                  "Use integrated approaches addressing both issues",
+                  "Do nothing"
+                ],
+                "correct": 2,
+                "explanation": "Cần có cách tiếp cận tích hợp giải quyết cả hai vấn đề."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "What is sustainable development according to the passage?",
+                "options": [
+                  "Using all resources now",
+                  "Meeting present needs without harming future generations",
+                  "Ignoring environmental problems",
+                  "Only helping rich people"
+                ],
+                "correct": 1,
+                "explanation": "Phát triển bền vững là đáp ứng nhu cầu hiện tại mà không làm tổn hại thế hệ tương lai."
+              }
+            ]
+          }
+,
+          {
+            "id": "reading2",
+            "type": "reading",
+            "passage": "Ecosystems are complex networks where living organisms interact with their physical environment. The rainforest ecosystem, for instance, is home to incredible biodiversity. Despite covering only 6% of Earth's surface, rainforests contain more than half of the world's plant and animal species. These forests play a crucial role in regulating climate, producing oxygen, and absorbing carbon dioxide.\n\nHowever, deforestation threatens this vital ecosystem. Every year, millions of hectares are destroyed for agriculture and logging. As a result, countless species face extinction, and indigenous communities lose their homes. Wildlife such as orangutans, jaguars, and tropical birds are becoming endangered.\n\nTo preserve these ecosystems, conservation efforts are essential. Governments must establish protected areas and enforce environmental laws. In addition, sustainable practices like eco-tourism and responsible forestry can provide economic benefits while protecting nature. Moreover, raising awareness about biodiversity's importance encourages people to support conservation.\n\nIn conclusion, protecting ecosystems is not just about saving animals and plants - it's about ensuring a healthy planet for all. Therefore, everyone must take responsibility for environmental conservation.",
+            "questions": [
+              {
+                "id": "reading2-q1",
+                "question": "What percentage of Earth's surface do rainforests cover?",
+                "options": [
+                  "About 50%",
+                  "About 6%",
+                  "About 20%",
+                  "About 10%"
+                ],
+                "correct": 1,
+                "explanation": "Rừng mưa nhiệt đới chiếm khoảng 6% bề mặt Trái Đất."
+              },
+              {
+                "id": "reading2-q2",
+                "question": "What is the main threat to rainforest ecosystems?",
+                "options": [
+                  "Too much rain",
+                  "Deforestation",
+                  "Too many tourists",
+                  "Cold weather"
+                ],
+                "correct": 1,
+                "explanation": "Phá rừng là mối đe dọa chính đối với hệ sinh thái rừng mưa."
+              },
+              {
+                "id": "reading2-q3",
+                "question": "The word 'crucial' in paragraph 1 is closest in meaning to ______.",
+                "options": [
+                  "unimportant",
+                  "very important",
+                  "small",
+                  "easy"
+                ],
+                "correct": 1,
+                "explanation": "Crucial = very important (rất quan trọng)."
+              },
+              {
+                "id": "reading2-q4",
+                "question": "According to the passage, what can provide economic benefits while protecting nature?",
+                "options": [
+                  "Cutting down all trees",
+                  "Eco-tourism and responsible forestry",
+                  "Building more factories",
+                  "Ignoring conservation"
+                ],
+                "correct": 1,
+                "explanation": "Du lịch sinh thái và lâm nghiệp có trách nhiệm có thể mang lại lợi ích kinh tế đồng thời bảo vệ thiên nhiên."
+              },
+              {
+                "id": "reading2-q5",
+                "question": "What is the main message of the passage?",
+                "options": [
+                  "Rainforests are not important",
+                  "Everyone should take responsibility for conservation",
+                  "Only governments should protect ecosystems",
+                  "Deforestation is good"
+                ],
+                "correct": 1,
+                "explanation": "Thông điệp chính là mọi người phải chịu trách nhiệm bảo tồn môi trường."
+              }
+            ]
+          }
+,
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "Poverty is serious. ______, it affects children's education.",
+            "options": ["However", "Moreover", "Although", "Despite"],
+            "correct": 1,
+            "explanation": "Moreover: hơn nữa (dùng để bổ sung thông tin)."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "A ______ is a tropical forest with heavy rainfall.",
+            "options": ["rain forest", "rainforest", "forest rain", "rain-forest"],
+            "correct": 1,
+            "explanation": "Rainforest (viết liền) là danh từ ghép chỉ rừng mưa nhiệt đới."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "______ bullying is common, we can prevent it.",
+            "options": ["Because", "Although", "Therefore", "Moreover"],
+            "correct": 1,
+            "explanation": "Although: mặc dù (dùng để chỉ sự đối lập)."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "Many species are ______ because of habitat loss.",
+            "options": ["danger", "dangerous", "endangered", "endanger"],
+            "correct": 2,
+            "explanation": "Endangered (adj): có nguy cơ tuyệt chủng."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "We raise awareness ______ help people understand the problem.",
+            "options": ["to", "for", "so", "because"],
+            "correct": 0,
+            "explanation": "To + V: để làm gì (chỉ mục đích)."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ refers to all animals living in natural conditions.",
+            "options": ["Wild life", "Wildlife", "Life wild", "Wild-life"],
+            "correct": 1,
+            "explanation": "Wildlife (viết liền) là danh từ ghép chỉ động vật hoang dã."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "He studied hard. ______, he passed the exam.",
+            "options": ["However", "Although", "Therefore", "Despite"],
+            "correct": 2,
+            "explanation": "Therefore: do đó (dùng để chỉ kết quả)."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "______ is destroying millions of hectares of forest.",
+            "options": ["Forest", "Deforestation", "Reforestation", "Forestation"],
+            "correct": 1,
+            "explanation": "Deforestation (n): sự phá rừng."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "______ the difficulties, volunteers continue helping.",
+            "options": ["Although", "Despite", "However", "Because"],
+            "correct": 1,
+            "explanation": "Despite + noun: mặc dù."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "We need to protect ______ for future generations.",
+            "options": ["biodiversity", "bio-diversity", "bio diversity", "diversitybio"],
+            "correct": 0,
+            "explanation": "Biodiversity (viết liền) là danh từ ghép chỉ đa dạng sinh học."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "Many social issues affect teens, ______ bullying and peer pressure.",
+            "options": ["however", "for example", "therefore", "although"],
+            "correct": 1,
+            "explanation": "For example: ví dụ (dùng để đưa ra ví dụ)."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "A ______ is a building made of glass where plants are grown.",
+            "options": ["green house", "greenhouse", "house green", "green-house"],
+            "correct": 1,
+            "explanation": "Greenhouse (viết liền) là danh từ ghép chỉ nhà kính."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "Schools must take action ______ bullying affects many students.",
+            "options": ["although", "however", "because", "moreover"],
+            "correct": 2,
+            "explanation": "Because: bởi vì (chỉ nguyên nhân)."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "The ______ provides light and energy for plants.",
+            "options": ["sun light", "sunlight", "light sun", "sun-light"],
+            "correct": 1,
+            "explanation": "Sunlight (viết liền) là danh từ ghép chỉ ánh sáng mặt trời."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "______, we must work together to solve these problems.",
+            "options": ["However", "In conclusion", "Moreover", "For example"],
+            "correct": 1,
+            "explanation": "In conclusion: kết luận (dùng để kết thúc bài viết)."
+          }
+,
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Linking words help make writing more coherent and easier to understand.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Từ nối giúp bài viết mạch lạc và dễ hiểu hơn."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "Compound nouns always have stress on the first word.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Danh từ ghép thường có trọng âm ở từ đầu tiên."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "We can use 'although' and 'but' together in the same sentence.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Không dùng 'although' và 'but' cùng nhau trong một câu."
+          },
+          {
+            "id": "msq4",
+            "type": "msq",
+            "question_text": "Rainforests cover more than 50% of Earth's surface.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Rừng mưa nhiệt đới chỉ chiếm khoảng 6% bề mặt Trái Đất."
+          },
+          {
+            "id": "msq5",
+            "type": "msq",
+            "question_text": "Deforestation is a major threat to biodiversity.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Phá rừng là mối đe dọa lớn đối với đa dạng sinh học."
+          }
+,
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call the pressure from friends to do something? (two words)",
+            "correct": "peer pressure",
+            "explanation": "Peer pressure: áp lực bạn bè."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "What do we call the variety of life in an ecosystem? (one word)",
+            "correct": "biodiversity",
+            "explanation": "Biodiversity: đa dạng sinh học."
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question_text": "Complete: Poverty is serious. ______, it affects education. (Moreover/However)",
+            "correct": "Moreover",
+            "explanation": "Moreover: hơn nữa (dùng để bổ sung thông tin)."
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question_text": "Complete the compound noun: rain + forest = ______",
+            "correct": "rainforest",
+            "explanation": "Rainforest: rừng mưa nhiệt đới (danh từ ghép viết liền)."
+          }
+,
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question_text": "Write a short paragraph (80-100 words) about a social issue in your community and suggest solutions. Use linking words.",
+            "sample_answer": "Bullying is a serious social issue in many schools in my community. This problem affects students' mental health and academic performance. Moreover, victims often feel isolated and afraid to go to school. To tackle this issue, schools should implement anti-bullying programs and create safe reporting systems. In addition, teachers need training to recognize and address bullying effectively. Furthermore, parents must teach their children about respect and empathy. In conclusion, solving bullying requires cooperation between schools, families, and the community.",
+            "explanation": "Bài viết sử dụng từ nối (Moreover, In addition, Furthermore, In conclusion) để tạo mạch lạc, trình bày vấn đề, tác động và giải pháp rõ ràng."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question_text": "Write a short paragraph (80-100 words) describing an ecosystem and why it's important to protect it. Use compound nouns.",
+            "sample_answer": "The rainforest ecosystem is one of Earth's most valuable natural treasures. It is home to incredible wildlife, including countless species of birds, mammals, and insects. The rainforest plays a crucial role in producing oxygen and absorbing carbon dioxide, helping regulate our climate. Moreover, it provides habitat for endangered species and supports indigenous communities. However, deforestation threatens this fragile ecosystem. Therefore, we must establish protected areas and promote sustainable development. Conservation efforts are essential to preserve biodiversity and maintain ecological balance for future generations.",
+            "explanation": "Bài viết sử dụng danh từ ghép (rainforest, wildlife, oxygen, carbon dioxide) và từ nối để mô tả hệ sinh thái và tầm quan trọng của việc bảo vệ."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question_text": "Write a short paragraph (80-100 words) explaining how social issues and environmental problems are connected.",
+            "sample_answer": "Social issues and environmental problems are closely interconnected. For example, poverty often leads to environmental degradation because poor communities may exploit natural resources unsustainably to survive. Moreover, environmental problems like pollution and climate change disproportionately affect vulnerable populations who lack resources to adapt. In addition, deforestation destroys wildlife habitats while also displacing indigenous communities. Therefore, we cannot solve one problem without addressing the other. Sustainable development is essential - it must meet present needs while protecting ecosystems. In conclusion, integrated approaches addressing both human welfare and environmental conservation are crucial.",
+            "explanation": "Bài viết giải thích mối liên hệ giữa vấn đề xã hội và môi trường, sử dụng từ nối và ví dụ cụ thể."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question_text": "Write a short paragraph (80-100 words) about what individuals can do to help solve social and environmental problems.",
+            "sample_answer": "Individuals play an important role in solving social and environmental problems. First, we can raise awareness by sharing information about issues like bullying, poverty, and deforestation on social media. Moreover, we should support conservation programs and charities that help vulnerable communities. In addition, making sustainable choices in daily life - such as reducing plastic use and conserving energy - protects ecosystems. Furthermore, volunteering for community projects allows us to make direct positive impacts. Finally, we must educate ourselves and others about these interconnected challenges. In conclusion, every small action contributes to creating a better world.",
+            "explanation": "Bài viết trình bày các hành động cá nhân có thể làm, sử dụng từ nối để liệt kê và tổ chức ý."
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question_text": "Write a short paragraph (80-100 words) about the importance of biodiversity and how to preserve it.",
+            "sample_answer": "Biodiversity is essential for healthy ecosystems and human survival. It ensures ecological balance, provides food and medicine, and supports climate regulation. However, many species face extinction due to habitat loss, pollution, and climate change. To preserve biodiversity, governments must establish protected areas and enforce environmental laws. Moreover, sustainable practices like eco-tourism and responsible forestry can provide economic benefits while protecting wildlife. In addition, individuals should support conservation organizations and make environmentally-friendly choices. Furthermore, education about biodiversity's importance encourages people to take action. In conclusion, protecting biodiversity is protecting our future.",
+            "explanation": "Bài viết giải thích tầm quan trọng của đa dạng sinh học và cách bảo tồn, sử dụng cấu trúc rõ ràng với từ nối."
+          }
+        ]
+      }
+    }
+  ]
+}

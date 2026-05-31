@@ -1,0 +1,194 @@
+---
+// Search and Filter component for lessons
+---
+
+<div class="mb-8 space-y-4">
+  <!-- Search Bar -->
+  <div class="relative">
+    <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+      <svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+      </svg>
+    </div>
+    <input
+      type="text"
+      id="lesson-search"
+      placeholder="Tìm kiếm bài học..."
+      class="w-full pl-12 pr-4 py-4 bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 dark:focus:ring-primary-400 focus:border-transparent text-gray-900 dark:text-gray-100 placeholder-gray-400 dark:placeholder-gray-500 transition-all duration-200"
+    />
+  </div>
+
+  <!-- Filters -->
+  <div class="flex flex-wrap gap-3">
+    <!-- Difficulty Filter -->
+    <select
+      id="difficulty-filter"
+      class="px-4 py-2.5 bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 focus:outline-none focus:ring-2 focus:ring-primary-500 dark:focus:ring-primary-400 focus:border-transparent transition-all duration-200 cursor-pointer"
+    >
+      <option value="">Tất cả độ khó</option>
+      <option value="easy">🟢 Dễ</option>
+      <option value="medium">🟡 Trung bình</option>
+      <option value="hard">🔴 Khó</option>
+    </select>
+
+    <!-- Chapter Filter -->
+    <select
+      id="chapter-filter"
+      class="px-4 py-2.5 bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 focus:outline-none focus:ring-2 focus:ring-primary-500 dark:focus:ring-primary-400 focus:border-transparent transition-all duration-200 cursor-pointer"
+    >
+      <option value="">Tất cả chương</option>
+    </select>
+
+    <!-- Progress Filter -->
+    <select
+      id="progress-filter"
+      class="px-4 py-2.5 bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 rounded-lg text-sm font-medium text-gray-700 dark:text-gray-300 focus:outline-none focus:ring-2 focus:ring-primary-500 dark:focus:ring-primary-400 focus:border-transparent transition-all duration-200 cursor-pointer"
+    >
+      <option value="">Tất cả trạng thái</option>
+      <option value="completed">✓ Đã hoàn thành</option>
+      <option value="not-completed">○ Chưa hoàn thành</option>
+    </select>
+
+    <!-- Clear Filters Button -->
+    <button
+      id="clear-filters"
+      class="px-4 py-2.5 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg text-sm font-medium hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors duration-200 flex items-center"
+    >
+      <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+      </svg>
+      Xóa bộ lọc
+    </button>
+  </div>
+
+  <!-- Results Info -->
+  <div id="search-results-info" class="text-sm text-gray-600 dark:text-gray-400 hidden">
+    Tìm thấy <span id="results-count" class="font-semibold text-primary-600 dark:text-primary-400">0</span> kết quả
+  </div>
+</div>
+
+<script>
+  const STORAGE_KEY = 'lms_lesson_progress';
+
+  function initSearch() {
+    const searchInput = document.getElementById('lesson-search') as HTMLInputElement;
+    const difficultyFilter = document.getElementById('difficulty-filter') as HTMLSelectElement;
+    const chapterFilter = document.getElementById('chapter-filter') as HTMLSelectElement;
+    const progressFilter = document.getElementById('progress-filter') as HTMLSelectElement;
+    const clearButton = document.getElementById('clear-filters');
+    const resultsInfo = document.getElementById('search-results-info');
+    const resultsCount = document.getElementById('results-count');
+
+    // Get all lesson cards
+    const lessonCards = document.querySelectorAll('a.block.group');
+
+    // Populate chapter filter
+    const chapters = new Set<string>();
+    lessonCards.forEach(card => {
+      const chapterBadge = card.querySelector('span.inline-block.px-3.py-1.rounded-lg');
+      if (chapterBadge?.textContent) {
+        chapters.add(chapterBadge.textContent.trim());
+      }
+    });
+
+    chapters.forEach(chapter => {
+      const option = document.createElement('option');
+      option.value = chapter;
+      option.textContent = chapter;
+      chapterFilter?.appendChild(option);
+    });
+
+    // Get progress data
+    function getProgress() {
+      const stored = localStorage.getItem(STORAGE_KEY);
+      return stored ? JSON.parse(stored) : {};
+    }
+
+    // Filter function
+    function filterLessons() {
+      const searchTerm = searchInput?.value.toLowerCase() || '';
+      const difficulty = difficultyFilter?.value || '';
+      const chapter = chapterFilter?.value || '';
+      const progressStatus = progressFilter?.value || '';
+      const progress = getProgress();
+
+      let visibleCount = 0;
+
+      lessonCards.forEach(card => {
+        const lessonId = card.querySelector('.lesson-progress-indicator')?.getAttribute('data-lesson-id');
+        const title = card.querySelector('h3')?.textContent?.toLowerCase() || '';
+        const description = card.querySelector('p.text-gray-600')?.textContent?.toLowerCase() || '';
+        const lessonDifficulty = card.querySelector('span.px-3.py-1.rounded-full')?.textContent?.toLowerCase() || '';
+        const lessonChapter = card.querySelector('span.inline-block.px-3.py-1.rounded-lg')?.textContent?.trim() || '';
+
+        // Check filters
+        const matchesSearch = !searchTerm || title.includes(searchTerm) || description.includes(searchTerm);
+        const matchesDifficulty = !difficulty || lessonDifficulty.includes(difficulty);
+        const matchesChapter = !chapter || lessonChapter === chapter;
+
+        let matchesProgress = true;
+        if (progressStatus && lessonId) {
+          const isCompleted = progress[lessonId]?.completed || false;
+          matchesProgress = progressStatus === 'completed' ? isCompleted : !isCompleted;
+        }
+
+        const shouldShow = matchesSearch && matchesDifficulty && matchesChapter && matchesProgress;
+
+        if (shouldShow) {
+          card.classList.remove('hidden');
+          visibleCount++;
+        } else {
+          card.classList.add('hidden');
+        }
+      });
+
+      // Update results info
+      if (searchTerm || difficulty || chapter || progressStatus) {
+        resultsInfo?.classList.remove('hidden');
+        if (resultsCount) resultsCount.textContent = visibleCount.toString();
+      } else {
+        resultsInfo?.classList.add('hidden');
+      }
+
+      // Show/hide empty state
+      const tabContent = document.querySelector('.tab-content:not(.hidden)');
+      const emptyState = tabContent?.querySelector('.text-center.py-16');
+      if (emptyState) {
+        if (visibleCount === 0) {
+          emptyState.classList.remove('hidden');
+          emptyState.querySelector('h3')!.textContent = 'Không tìm thấy kết quả';
+          emptyState.querySelector('p')!.textContent = 'Thử điều chỉnh bộ lọc hoặc từ khóa tìm kiếm';
+        } else {
+          emptyState.classList.add('hidden');
+        }
+      }
+    }
+
+    // Clear filters
+    function clearFilters() {
+      if (searchInput) searchInput.value = '';
+      if (difficultyFilter) difficultyFilter.value = '';
+      if (chapterFilter) chapterFilter.value = '';
+      if (progressFilter) progressFilter.value = '';
+      filterLessons();
+    }
+
+    // Event listeners
+    searchInput?.addEventListener('input', filterLessons);
+    difficultyFilter?.addEventListener('change', filterLessons);
+    chapterFilter?.addEventListener('change', filterLessons);
+    progressFilter?.addEventListener('change', filterLessons);
+    clearButton?.addEventListener('click', clearFilters);
+
+    // Listen for tab changes to re-filter
+    const tabButtons = document.querySelectorAll('.tab-button');
+    tabButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        setTimeout(filterLessons, 100);
+      });
+    });
+  }
+
+  // Initialize on page load
+  document.addEventListener('DOMContentLoaded', initSearch);
+</script>

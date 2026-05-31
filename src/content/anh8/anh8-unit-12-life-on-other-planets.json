@@ -1,0 +1,305 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-unit-12-life-on-other-planets",
+      "name": "Unit 12: Life on Other Planets",
+      "slug": "unit-12-life-on-other-planets",
+      "chapter": "Unit 12: Life on Other Planets",
+      "chapter_id": "A8",
+      "lesson_id": 12,
+      "description": "Learn about life on other planets with reported speech (questions).",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?q=80&w=2574&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-12",
+          "name": "Space and Planets Vocabulary",
+          "slug": "space-planets-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 12: Life on Other Planets",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Space:</strong> planet, star, moon, galaxy, universe, solar system, asteroid, comet, meteor</p><p><strong>Space exploration:</strong> astronaut, spaceship, rocket, space station, satellite, telescope, UFO, alien</p><p><strong>Planets:</strong> Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune</p>"
+            },
+            {
+              "heading": "2-12. Các phần còn lại",
+              "content": "<p>Luyện tập từ vựng, Ngữ âm, Ngữ pháp, Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>Reported Speech - Questions (Câu tường thuật - Câu hỏi)</h3><p><strong>A. Yes/No Questions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + asked (+ O) + if/whether + S + V (lùi thì)</li><li>Ex: \"Do you like space?\" → He asked me <strong>if/whether</strong> I <strong>liked</strong> space.</li><li>Ex: \"Are you an astronaut?\" → She asked him <strong>if/whether</strong> he <strong>was</strong> an astronaut.</li></ul><p><strong>B. Wh-questions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + asked (+ O) + Wh-word + S + V (lùi thì)</li><li>Ex: \"Where do you live?\" → He asked me <strong>where</strong> I <strong>lived</strong>.</li><li>Ex: \"What are you doing?\" → She asked him <strong>what</strong> he <strong>was doing</strong>.</li></ul><p><strong>C. Lưu ý quan trọng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Không đảo trợ động từ</strong> trong câu tường thuật</li><li>Direct: \"Where <strong>do you</strong> live?\"</li><li>Reported: He asked where <strong>I lived</strong>. (không phải \"where did I live\")</li><li><strong>Lùi thì</strong> như câu trần thuật</li><li>Do/Does → V (past simple)</li><li>Did → had + V3</li><li>Will → would</li><li>Can → could</li></ul><p><strong>D. Thay đổi đại từ và trạng từ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>you → I/he/she (tùy ngữ cảnh)</li><li>your → my/his/her</li><li>here → there</li><li>now → then</li><li>today → that day</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Yes/No Questions",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + asked (+ O) + if/whether + S + V (lùi thì)</li><li>Không đảo trợ động từ</li><li>Lùi thì</li></ul>",
+            "examples": [
+              {
+                "question": "\"Do you like space?\" → He asked me ______.",
+                "solution": "He asked me <strong>if/whether I liked</strong> space.",
+                "explanation": "Do you like → if/whether I liked (lùi thì, không đảo)"
+              },
+              {
+                "question": "\"Are you an astronaut?\" → She asked him ______.",
+                "solution": "She asked him <strong>if/whether he was</strong> an astronaut.",
+                "explanation": "Are you → if/whether he was"
+              },
+              {
+                "question": "\"Can you see the stars?\" → He asked me ______.",
+                "solution": "He asked me <strong>if/whether I could see</strong> the stars.",
+                "explanation": "Can you → if/whether I could (can → could)"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Wh-questions",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + asked (+ O) + Wh-word + S + V (lùi thì)</li><li>Giữ nguyên từ để hỏi</li><li>Không đảo trợ động từ</li></ul>",
+            "examples": [
+              {
+                "question": "\"Where do you live?\" → He asked me ______.",
+                "solution": "He asked me <strong>where I lived</strong>.",
+                "explanation": "Where do you live → where I lived (không đảo)"
+              },
+              {
+                "question": "\"What are you doing?\" → She asked him ______.",
+                "solution": "She asked him <strong>what he was doing</strong>.",
+                "explanation": "What are you doing → what he was doing"
+              },
+              {
+                "question": "\"When will you go?\" → He asked me ______.",
+                "solution": "He asked me <strong>when I would go</strong>.",
+                "explanation": "When will you → when I would (will → would)"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Lùi thì với Did",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Did + V → had + V3</li><li>Áp dụng cho cả Yes/No và Wh-questions</li></ul>",
+            "examples": [
+              {
+                "question": "\"Did you see the UFO?\" → He asked me ______.",
+                "solution": "He asked me <strong>if/whether I had seen</strong> the UFO.",
+                "explanation": "Did you see → if/whether I had seen"
+              },
+              {
+                "question": "\"Where did you go?\" → She asked him ______.",
+                "solution": "She asked him <strong>where he had gone</strong>.",
+                "explanation": "Where did you go → where he had gone"
+              },
+              {
+                "question": "\"What did you find?\" → He asked me ______.",
+                "solution": "He asked me <strong>what I had found</strong>.",
+                "explanation": "What did you find → what I had found"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Thay đổi đại từ và trạng từ",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>you → I/he/she</li><li>your → my/his/her</li><li>here → there</li><li>now → then</li></ul>",
+            "examples": [
+              {
+                "question": "\"Are you here now?\" → He asked me ______.",
+                "solution": "He asked me <strong>if/whether I was there then</strong>.",
+                "explanation": "you → I; here → there; now → then"
+              },
+              {
+                "question": "\"Where is your spaceship?\" → She asked him ______.",
+                "solution": "She asked him <strong>where his spaceship was</strong>.",
+                "explanation": "your → his; is your → his was (đảo lại thứ tự)"
+              },
+              {
+                "question": "\"What are you doing here?\" → He asked me ______.",
+                "solution": "He asked me <strong>what I was doing there</strong>.",
+                "explanation": "you → I; here → there"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "\"Do you like space?\" → He asked me ______ I liked space.",
+            "options": ["that", "if", "what", "where"],
+            "correct": 1,
+            "explanation": "Yes/No question → if/whether"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "\"Where do you live?\" → He asked me where I ______.",
+            "options": ["live", "lived", "living", "lives"],
+            "correct": 1,
+            "explanation": "do you live → I lived (lùi thì)"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "\"Are you an astronaut?\" → She asked him ______ he was an astronaut.",
+            "options": ["that", "if", "what", "who"],
+            "correct": 1,
+            "explanation": "Yes/No question → if/whether"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "\"What are you doing?\" → She asked him what he ______.",
+            "options": ["is doing", "was doing", "does", "did"],
+            "correct": 1,
+            "explanation": "are you doing → he was doing"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "\"Can you see the stars?\" → He asked me ______ I could see the stars.",
+            "options": ["that", "if", "what", "where"],
+            "correct": 1,
+            "explanation": "Can you → if/whether I could"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "\"When will you go?\" → He asked me when I ______ go.",
+            "options": ["will", "would", "can", "could"],
+            "correct": 1,
+            "explanation": "will you → I would (will → would)"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "\"Did you see the UFO?\" → He asked me if I ______ the UFO.",
+            "options": ["see", "saw", "had seen", "have seen"],
+            "correct": 2,
+            "explanation": "Did you see → I had seen"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "\"Where did you go?\" → She asked him where he ______.",
+            "options": ["go", "went", "had gone", "have gone"],
+            "correct": 2,
+            "explanation": "did you go → he had gone"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "\"Are you here now?\" → He asked me if I was ______ ______.",
+            "options": ["here now", "there then", "here then", "there now"],
+            "correct": 1,
+            "explanation": "here → there; now → then"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "\"Where is your spaceship?\" → She asked him where ______ spaceship was.",
+            "options": ["your", "his", "my", "her"],
+            "correct": 1,
+            "explanation": "your → his (he)"
+          },
+          {
+            "id": "msq1",
+            "type": "multiple-select",
+            "question": "Which are correct reported questions? (Select all that apply)",
+            "options": ["He asked if I liked space.", "She asked where did I live.", "He asked what I was doing.", "She asked if could I help."],
+            "correct": [0, 2],
+            "explanation": "Đúng: if I liked, what I was doing. Sai: where did I live (không đảo), if could I (sai thứ tự)"
+          },
+          {
+            "id": "msq2",
+            "type": "multiple-select",
+            "question": "Which words can introduce Yes/No reported questions? (Select all that apply)",
+            "options": ["if", "whether", "that", "what"],
+            "correct": [0, 1],
+            "explanation": "Yes/No questions dùng if hoặc whether. 'that' cho statements, 'what' cho Wh-questions."
+          },
+          {
+            "id": "msq3",
+            "type": "multiple-select",
+            "question": "Which transformations are correct? (Select all that apply)",
+            "options": ["\"Can you help?\" → if I could help", "\"Where do you live?\" → where I lived", "\"Did you go?\" → if I had gone", "\"Are you here?\" → if I am here"],
+            "correct": [0, 1, 2],
+            "explanation": "Đúng: could help, I lived, had gone. Sai: if I am here (phải là 'was there')"
+          },
+          {
+            "id": "sa1",
+            "type": "short-answer",
+            "question": "Transform: \"Do you like space?\" → He asked me ______.",
+            "answer": "if/whether I liked space / if I liked space / whether I liked space",
+            "explanation": "Do you like → if/whether I liked"
+          },
+          {
+            "id": "sa2",
+            "type": "short-answer",
+            "question": "Transform: \"Where do you live?\" → He asked me ______.",
+            "answer": "where I lived",
+            "explanation": "Where do you live → where I lived (không đảo)"
+          },
+          {
+            "id": "sa3",
+            "type": "short-answer",
+            "question": "Transform: \"Did you see the UFO?\" → He asked me ______.",
+            "answer": "if/whether I had seen the UFO / if I had seen the UFO / whether I had seen the UFO",
+            "explanation": "Did you see → if/whether I had seen"
+          },
+          {
+            "id": "sa4",
+            "type": "short-answer",
+            "question": "Transform: \"Are you here now?\" → He asked me ______.",
+            "answer": "if/whether I was there then / if I was there then / whether I was there then",
+            "explanation": "Are you here now → if/whether I was there then"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Transform to reported questions: \"Do you believe in aliens?\" + \"Where do they live?\" (He asked me...)",
+            "sample_answer": "He asked me if/whether I believed in aliens. He asked me where they lived.",
+            "explanation": "Yes/No → if/whether; Wh-question → where + S + V (lùi thì)"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform to reported questions: \"Can you see the stars?\" + \"What are you looking at?\" (She asked him...)",
+            "sample_answer": "She asked him if/whether he could see the stars. She asked him what he was looking at.",
+            "explanation": "Can you → if/whether he could; What are you → what he was"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Rearrange: asked / He / me / if / liked / I / space / . / asked / She / where / lived / I / .",
+            "sample_answer": "He asked me if I liked space. She asked where I lived.",
+            "explanation": "Sắp xếp: asked + if/whether + S + V; asked + Wh-word + S + V"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Transform: \"Did you visit Mars?\" + \"How did you get there?\" (He asked me...)",
+            "sample_answer": "He asked me if/whether I had visited Mars. He asked me how I had got/gotten there.",
+            "explanation": "Did you visit → if/whether I had visited; How did you get → how I had got (here → there)"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Transform and combine: \"Are you an astronaut?\" + \"Where is your spaceship?\" + \"When will you leave?\" (She asked him... Use reported questions)",
+            "sample_answer": "She asked him if/whether he was an astronaut, where his spaceship was, and when he would leave.",
+            "explanation": "Kết hợp 3 câu hỏi: if/whether he was, where his was (đảo), when he would (will → would)"
+          }
+        ]
+      }
+    }
+  ]
+}

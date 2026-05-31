@@ -1,0 +1,217 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-7-p3",
+  "name": "Part 3: Language - Grammar",
+  "slug": "p3-grammar",
+  "description": "Mệnh đề trạng ngữ chỉ cách thức và kết quả",
+  "duration_minutes": 60,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Grammar: Adverbial Clauses of Manner and Result",
+      "sections": [
+        {
+          "heading": "A. Mệnh đề trạng ngữ chỉ cách thức (Adverbial Clauses of Manner)",
+          "content": "<p><strong>Định nghĩa:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mệnh đề trạng ngữ chỉ cách thức diễn tả cách thức một hành động được thực hiện</li><li>Trả lời câu hỏi: How? (Như thế nào?)</li></ul><p><strong>1. AS IF / AS THOUGH (như thể, như là):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + V + as if/as though + S + V</li><li>Dùng để diễn tả một tình huống không có thật hoặc không chắc chắn</li><li><strong>Với hiện tại:</strong> as if + Past Simple (trái với hiện tại)</li><li>Ex: He talks <strong>as if</strong> he <strong>knew</strong> everything. (Anh ấy nói như thể anh ấy biết mọi thứ - nhưng thực tế không biết)</li><li>Ex: She acts <strong>as though</strong> she <strong>were</strong> the boss. (Cô ấy hành động như thể cô ấy là sếp - nhưng không phải)</li><li>Ex: They share news <strong>as if</strong> it <strong>were</strong> verified fact. (Họ chia sẻ tin như thể nó là sự thật đã xác minh)</li><li><strong>Với quá khứ:</strong> as if + Past Perfect (trái với quá khứ)</li><li>Ex: He looked <strong>as if</strong> he <strong>had seen</strong> a ghost. (Anh ấy trông như thể đã thấy ma)</li><li>Ex: She spoke <strong>as though</strong> she <strong>had been</strong> there. (Cô ấy nói như thể đã ở đó)</li></ul><p><strong>2. AS / THE WAY (theo cách, như):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + V + as/the way + S + V</li><li>Dùng để diễn tả cách thức thực tế</li><li>Ex: Do it <strong>as</strong> I <strong>showed</strong> you. (Làm như tôi đã chỉ cho bạn)</li><li>Ex: Report the news <strong>the way</strong> it <strong>happened</strong>. (Đưa tin theo cách nó đã xảy ra)</li><li>Ex: She writes <strong>as</strong> her teacher <strong>taught</strong> her. (Cô ấy viết như giáo viên đã dạy)</li></ul>"
+        },
+        {
+          "heading": "B. Mệnh đề trạng ngữ chỉ kết quả (Adverbial Clauses of Result)",
+          "content": "<p><strong>Định nghĩa:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mệnh đề trạng ngữ chỉ kết quả diễn tả kết quả của một hành động hoặc tình huống</li><li>Trả lời câu hỏi: What was the result? (Kết quả là gì?)</li></ul><p><strong>1. SO...THAT (quá...đến nỗi):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + V + so + adj/adv + that + S + V</li><li>Dùng với tính từ hoặc trạng từ</li><li>Ex: The news spread <strong>so quickly that</strong> millions saw it. (Tin lan nhanh đến nỗi hàng triệu người thấy)</li><li>Ex: AI is <strong>so powerful that</strong> it changes society. (AI mạnh đến nỗi nó thay đổi xã hội)</li><li>Ex: The video was <strong>so popular that</strong> it went viral. (Video phổ biến đến nỗi nó lan truyền)</li><li>Ex: She speaks <strong>so clearly that</strong> everyone understands. (Cô ấy nói rõ đến nỗi mọi người hiểu)</li></ul><p><strong>2. SUCH...THAT (một...đến nỗi):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + V + such + (a/an) + adj + noun + that + S + V</li><li>Dùng với danh từ</li><li>Ex: It was <strong>such interesting news that</strong> everyone shared it. (Đó là tin thú vị đến nỗi mọi người chia sẻ)</li><li>Ex: Social media has <strong>such a strong influence that</strong> it shapes opinions. (Mạng xã hội có ảnh hưởng mạnh đến nỗi nó định hình ý kiến)</li><li>Ex: He is <strong>such a good journalist that</strong> he won awards. (Anh ấy là nhà báo giỏi đến nỗi anh ấy đoạt giải)</li><li>Ex: It was <strong>such a viral video that</strong> millions watched it. (Đó là video lan truyền đến nỗi hàng triệu người xem)</li></ul>"
+        },
+        {
+          "heading": "C. So sánh SO...THAT và SUCH...THAT",
+          "content": "<table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2'>SO...THAT</th><th class='px-4 py-2'>SUCH...THAT</th></tr></thead><tbody><tr><td class='px-4 py-2'>so + adj/adv + that</td><td class='px-4 py-2'>such + (a/an) + adj + noun + that</td></tr><tr><td class='px-4 py-2'>The news is so important that...</td><td class='px-4 py-2'>It is such important news that...</td></tr><tr><td class='px-4 py-2'>She speaks so fast that...</td><td class='px-4 py-2'>She is such a fast speaker that...</td></tr><tr><td class='px-4 py-2'>It spread so quickly that...</td><td class='px-4 py-2'>It was such a quick spread that...</td></tr></tbody></table><p><strong>Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>so + many/much/few/little + noun + that:</strong> Trường hợp đặc biệt</li><li>Ex: There is <strong>so much</strong> fake news <strong>that</strong> we must verify.</li><li>Ex: He has <strong>so many</strong> followers <strong>that</strong> he influences millions.</li></ul>"
+        },
+        {
+          "heading": "D. Rút gọn mệnh đề kết quả",
+          "content": "<p><strong>Có thể rút gọn 'that' clause thành 'to infinitive':</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: The news was so shocking that it made everyone talk.</li><li>→ The news was shocking enough to make everyone talk.</li><li>Ex: The video was so viral that it reached millions.</li><li>→ The video was viral enough to reach millions.</li></ul>"
+        },
+        {
+          "heading": "E. Lưu ý quan trọng",
+          "content": "<ul class='list-disc pl-5 space-y-2'><li><strong>As if/as though:</strong> Diễn tả tình huống không có thật (dùng thì lùi)</li><li>He acts as if he <strong>were</strong> famous. (không phải 'is')</li><li><strong>As/the way:</strong> Diễn tả cách thức thực tế</li><li>Do it as I <strong>told</strong> you.</li><li><strong>So + adj/adv:</strong> không có danh từ theo sau</li><li>so quickly, so important, so powerful</li><li><strong>Such + noun:</strong> có danh từ theo sau</li><li>such a problem, such news, such influence</li><li><strong>So many/much/few/little:</strong> Trường hợp đặc biệt với danh từ</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "grammar-ex1",
+        "type": "mcq",
+        "question": "Choose the correct form: 'He talks _____ he knew everything.'",
+        "options": ["as if", "so that", "such that", "because"],
+        "correct": 0,
+        "explanation": "'As if' dùng để diễn tả cách thức không có thật."
+      },
+      {
+        "id": "grammar-ex2",
+        "type": "mcq",
+        "question": "Complete: 'The news spread _____ quickly _____ millions saw it.'",
+        "options": ["such / that", "so / that", "as / that", "too / that"],
+        "correct": 1,
+        "explanation": "So + adv + that - mệnh đề kết quả."
+      },
+      {
+        "id": "grammar-ex3",
+        "type": "mcq",
+        "question": "Choose the correct form: 'It was _____ interesting news _____ everyone shared it.'",
+        "options": ["so / that", "such / that", "as / that", "too / that"],
+        "correct": 1,
+        "explanation": "Such + adj + noun + that - mệnh đề kết quả."
+      },
+      {
+        "id": "grammar-ex4",
+        "type": "mcq",
+        "question": "Complete: 'She acts _____ she _____ the boss.'",
+        "options": ["as if / is", "as if / were", "so / that", "such / that"],
+        "correct": 1,
+        "explanation": "As if + Past Simple (were) - diễn tả tình huống không có thật."
+      },
+      {
+        "id": "grammar-ex5",
+        "type": "mcq",
+        "question": "Choose the correct form: 'Do it _____ I showed you.'",
+        "options": ["as if", "as", "so that", "such that"],
+        "correct": 1,
+        "explanation": "'As' dùng để diễn tả cách thức thực tế."
+      },
+      {
+        "id": "grammar-ex6",
+        "type": "mcq",
+        "question": "Complete: 'AI is _____ powerful _____ it changes society.'",
+        "options": ["such / that", "so / that", "as / that", "too / that"],
+        "correct": 1,
+        "explanation": "So + adj + that - mệnh đề kết quả."
+      },
+      {
+        "id": "grammar-ex7",
+        "type": "mcq",
+        "question": "Choose the correct form: 'He is _____ good journalist _____ he won awards.'",
+        "options": ["so / that", "such a / that", "as / that", "too / that"],
+        "correct": 1,
+        "explanation": "Such + a + adj + noun + that - mệnh đề kết quả."
+      },
+      {
+        "id": "grammar-ex8",
+        "type": "mcq",
+        "question": "Complete: 'They share news _____ it _____ verified.'",
+        "options": ["as if / is", "as if / were", "so / that", "such / that"],
+        "correct": 1,
+        "explanation": "As if + Past Simple (were) - tình huống không có thật."
+      },
+      {
+        "id": "grammar-ex9",
+        "type": "mcq",
+        "question": "Choose the correct form: 'Report the news _____ it happened.'",
+        "options": ["as if", "the way", "so that", "such that"],
+        "correct": 1,
+        "explanation": "'The way' dùng để diễn tả cách thức thực tế."
+      },
+      {
+        "id": "grammar-ex10",
+        "type": "mcq",
+        "question": "Complete: 'The video was _____ popular _____ it went viral.'",
+        "options": ["such / that", "so / that", "as / that", "too / that"],
+        "correct": 1,
+        "explanation": "So + adj + that - mệnh đề kết quả."
+      },
+      {
+        "id": "grammar-ex11",
+        "type": "mcq",
+        "question": "Which is correct?",
+        "options": [
+          "He has so many followers that he influences millions.",
+          "He has such many followers that he influences millions.",
+          "He has as many followers that he influences millions.",
+          "He has too many followers that he influences millions."
+        ],
+        "correct": 0,
+        "explanation": "So many + noun + that - trường hợp đặc biệt."
+      },
+      {
+        "id": "grammar-ex12",
+        "type": "mcq",
+        "question": "Complete: 'She speaks _____ clearly _____ everyone understands.'",
+        "options": ["such / that", "so / that", "as / that", "too / that"],
+        "correct": 1,
+        "explanation": "So + adv + that - mệnh đề kết quả."
+      },
+      {
+        "id": "grammar-ex13",
+        "type": "mcq",
+        "question": "Choose the correct form: 'He looked _____ he _____ a ghost.'",
+        "options": ["as if / saw", "as if / had seen", "so / that", "such / that"],
+        "correct": 1,
+        "explanation": "As if + Past Perfect - diễn tả tình huống không có thật trong quá khứ."
+      },
+      {
+        "id": "grammar-ex14",
+        "type": "mcq",
+        "question": "Complete: 'It was _____ viral video _____ millions watched it.'",
+        "options": ["so / that", "such a / that", "as / that", "too / that"],
+        "correct": 1,
+        "explanation": "Such + a + adj + noun + that - mệnh đề kết quả."
+      },
+      {
+        "id": "grammar-ex15",
+        "type": "mcq",
+        "question": "Which sentence is correct?",
+        "options": [
+          "The news is so important that everyone watches.",
+          "The news is such important that everyone watches.",
+          "The news is as important that everyone watches.",
+          "The news is too important that everyone watches."
+        ],
+        "correct": 0,
+        "explanation": "So + adj + that - mệnh đề kết quả."
+      },
+      {
+        "id": "grammar-ex16",
+        "type": "msq",
+        "question_text": "Decide if these sentences are correct (True/False):",
+        "options": [
+          "He talks as if he knew everything.",
+          "The news spread so quickly that millions saw it.",
+          "It was such interesting news that everyone shared it.",
+          "She acts as if she is the boss."
+        ],
+        "correct": [0, 1, 2],
+        "explanation": "a) True - as if + Past Simple. b) True - so + adv + that. c) True - such + adj + noun + that. d) False - phải là 'were' không phải 'is'."
+      },
+      {
+        "id": "grammar-ex17",
+        "type": "msq",
+        "question_text": "Mark True if the grammar is correct:",
+        "options": [
+          "Do it as I showed you.",
+          "AI is so powerful that it changes society.",
+          "He has such many followers.",
+          "Report the news the way it happened."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - as + clause. b) True - so + adj + that. c) False - phải là 'so many'. d) True - the way + clause."
+      },
+      {
+        "id": "grammar-ex18",
+        "type": "sa",
+        "question_text": "Complete: He talks _____ if he knew everything. (as/so)",
+        "correct": "as",
+        "explanation": "'As if' dùng để diễn tả cách thức không có thật."
+      },
+      {
+        "id": "grammar-ex19",
+        "type": "sa",
+        "question_text": "Complete: The news spread _____ quickly that millions saw it. (so/such)",
+        "correct": "so",
+        "explanation": "So + adv + that - mệnh đề kết quả."
+      },
+      {
+        "id": "grammar-ex20",
+        "type": "sa",
+        "question_text": "Complete: It was _____ interesting news that everyone shared it. (so/such)",
+        "correct": "such",
+        "explanation": "Such + adj + noun + that - mệnh đề kết quả."
+      }
+    ]
+  }
+}

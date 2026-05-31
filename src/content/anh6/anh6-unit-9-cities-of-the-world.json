@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-unit-9-cities-world",
+      "name": "Unit 9: Cities of the World",
+      "slug": "unit-9-cities-of-the-world",
+      "chapter": "Unit 9: Cities of the World",
+      "chapter_id": "A6",
+      "lesson_id": 9,
+      "description": "Learn about famous cities, possessive adjectives and pronouns.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1514565131-fce0801e5785?q=80&w=2656&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-9",
+          "name": "Cities Vocabulary",
+          "slug": "cities-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 9: Cities of the World",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>City</td><td class='px-4 py-2'>(n) /ˈsɪti/</td><td class='px-4 py-2'>Thành phố</td><td class='px-4 py-2'>London is a big city.</td></tr><tr><td class='px-4 py-2 font-bold'>Capital</td><td class='px-4 py-2'>(n) /ˈkæpɪtl/</td><td class='px-4 py-2'>Thủ đô</td><td class='px-4 py-2'>Ha Noi is the capital of Vietnam.</td></tr><tr><td class='px-4 py-2 font-bold'>Country</td><td class='px-4 py-2'>(n) /ˈkʌntri/</td><td class='px-4 py-2'>Đất nước</td><td class='px-4 py-2'>France is a beautiful country.</td></tr><tr><td class='px-4 py-2 font-bold'>Continent</td><td class='px-4 py-2'>(n) /ˈkɒntɪnənt/</td><td class='px-4 py-2'>Châu lục</td><td class='px-4 py-2'>Asia is the largest continent.</td></tr><tr><td class='px-4 py-2 font-bold'>Tower</td><td class='px-4 py-2'>(n) /ˈtaʊə(r)/</td><td class='px-4 py-2'>Tháp</td><td class='px-4 py-2'>The Eiffel Tower is in Paris.</td></tr><tr><td class='px-4 py-2 font-bold'>Bridge</td><td class='px-4 py-2'>(n) /brɪdʒ/</td><td class='px-4 py-2'>Cầu</td><td class='px-4 py-2'>Tower Bridge is famous.</td></tr><tr><td class='px-4 py-2 font-bold'>Palace</td><td class='px-4 py-2'>(n) /ˈpæləs/</td><td class='px-4 py-2'>Cung điện</td><td class='px-4 py-2'>Buckingham Palace is in London.</td></tr><tr><td class='px-4 py-2 font-bold'>Statue</td><td class='px-4 py-2'>(n) /ˈstætʃuː/</td><td class='px-4 py-2'>Tượng</td><td class='px-4 py-2'>The Statue of Liberty is in New York.</td></tr><tr><td class='px-4 py-2 font-bold'>Building</td><td class='px-4 py-2'>(n) /ˈbɪldɪŋ/</td><td class='px-4 py-2'>Tòa nhà</td><td class='px-4 py-2'>This is a tall building.</td></tr><tr><td class='px-4 py-2 font-bold'>Landmark</td><td class='px-4 py-2'>(n) /ˈlændmɑːk/</td><td class='px-4 py-2'>Địa danh nổi tiếng</td><td class='px-4 py-2'>Big Ben is a famous landmark.</td></tr><tr><td class='px-4 py-2 font-bold'>Visit</td><td class='px-4 py-2'>(v) /ˈvɪzɪt/</td><td class='px-4 py-2'>Thăm, tham quan</td><td class='px-4 py-2'>I want to visit Paris.</td></tr><tr><td class='px-4 py-2 font-bold'>Travel</td><td class='px-4 py-2'>(v) /ˈtrævl/</td><td class='px-4 py-2'>Du lịch</td><td class='px-4 py-2'>We travel to many countries.</td></tr><tr><td class='px-4 py-2 font-bold'>Famous</td><td class='px-4 py-2'>(adj) /ˈfeɪməs/</td><td class='px-4 py-2'>Nổi tiếng</td><td class='px-4 py-2'>Paris is famous for the Eiffel Tower.</td></tr><tr><td class='px-4 py-2 font-bold'>Exciting</td><td class='px-4 py-2'>(adj) /ɪkˈsaɪtɪŋ/</td><td class='px-4 py-2'>Thú vị, hấp dẫn</td><td class='px-4 py-2'>New York is an exciting city.</td></tr><tr><td class='px-4 py-2 font-bold'>Crowded</td><td class='px-4 py-2'>(adj) /ˈkraʊdɪd/</td><td class='px-4 py-2'>Đông đúc</td><td class='px-4 py-2'>Tokyo is very crowded.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Famous cities and their countries:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>London</strong> - England (United Kingdom)</li><li><strong>Paris</strong> - France</li><li><strong>New York</strong> - The United States (USA)</li><li><strong>Tokyo</strong> - Japan</li><li><strong>Sydney</strong> - Australia</li><li><strong>Rome</strong> - Italy</li><li><strong>Bangkok</strong> - Thailand</li><li><strong>Singapore</strong> - Singapore</li></ul><p><strong>Famous landmarks:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Big Ben</strong> - London</li><li><strong>Eiffel Tower</strong> - Paris</li><li><strong>Statue of Liberty</strong> - New York</li><li><strong>Sydney Opera House</strong> - Sydney</li><li><strong>Colosseum</strong> - Rome</li><li><strong>Tower Bridge</strong> - London</li><li><strong>Buckingham Palace</strong> - London</li></ul><p><strong>Adjectives to describe cities:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>big/large:</strong> lớn</li><li><strong>small:</strong> nhỏ</li><li><strong>modern:</strong> hiện đại</li><li><strong>old/ancient:</strong> cổ kính</li><li><strong>beautiful:</strong> đẹp</li><li><strong>exciting:</strong> thú vị</li><li><strong>crowded:</strong> đông đúc</li><li><strong>busy:</strong> bận rộn</li><li><strong>peaceful:</strong> yên bình</li><li><strong>famous:</strong> nổi tiếng</li></ul><p><strong>Things to do in cities:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>visit landmarks:</strong> thăm địa danh</li><li><strong>go sightseeing:</strong> đi tham quan</li><li><strong>take photos:</strong> chụp ảnh</li><li><strong>try local food:</strong> thử món ăn địa phương</li><li><strong>go shopping:</strong> đi mua sắm</li><li><strong>visit museums:</strong> thăm bảo tàng</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /əʊ/ and /aʊ/</h3><p><strong>1. Sound /əʊ/ (diphthong):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Bắt đầu từ /ə/ chuyển sang /ʊ/</li><li><strong>Examples:</strong></li><li>Rome /rəʊm/</li><li>Tokyo /ˈtəʊkiəʊ/</li><li>old /əʊld/</li><li>cold /kəʊld/</li></ul><p><strong>2. Sound /aʊ/ (diphthong):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Bắt đầu từ /a/ chuyển sang /ʊ/</li><li><strong>Examples:</strong></li><li>tower /ˈtaʊə(r)/</li><li>crowded /ˈkraʊdɪd/</li><li>house /haʊs/</li><li>town /taʊn/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Possessive Adjectives (Tính từ sở hữu)</h3><p><strong>1. Các tính từ sở hữu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>my:</strong> của tôi</li><li><strong>your:</strong> của bạn</li><li><strong>his:</strong> của anh ấy</li><li><strong>her:</strong> của cô ấy</li><li><strong>its:</strong> của nó</li><li><strong>our:</strong> của chúng tôi</li><li><strong>their:</strong> của họ</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đứng trước danh từ</li><li>Chỉ sự sở hữu</li><li>Ex: This is <strong>my</strong> city.</li><li>Ex: <strong>Her</strong> country is beautiful.</li><li>Ex: <strong>Their</strong> capital is Paris.</li></ul><p><strong>3. Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Không có dạng số nhiều</li><li>Luôn đi với danh từ</li><li>Its (sở hữu) ≠ It's (it is)</li></ul><h3>B. Possessive Pronouns (Đại từ sở hữu)</h3><p><strong>1. Các đại từ sở hữu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>mine:</strong> của tôi</li><li><strong>yours:</strong> của bạn</li><li><strong>his:</strong> của anh ấy</li><li><strong>hers:</strong> của cô ấy</li><li><strong>ours:</strong> của chúng tôi</li><li><strong>theirs:</strong> của họ</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đứng một mình, thay thế cho tính từ sở hữu + danh từ</li><li>Ex: This city is <strong>mine</strong>. (= my city)</li><li>Ex: That book is <strong>yours</strong>. (= your book)</li><li>Ex: The red car is <strong>hers</strong>. (= her car)</li></ul><p><strong>3. So sánh Possessive Adjectives và Possessive Pronouns:</strong></p><div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2'>Subject</th><th class='px-4 py-2'>Possessive Adjective</th><th class='px-4 py-2'>Possessive Pronoun</th></tr></thead><tbody><tr><td class='px-4 py-2'>I</td><td class='px-4 py-2'>my</td><td class='px-4 py-2'>mine</td></tr><tr><td class='px-4 py-2'>you</td><td class='px-4 py-2'>your</td><td class='px-4 py-2'>yours</td></tr><tr><td class='px-4 py-2'>he</td><td class='px-4 py-2'>his</td><td class='px-4 py-2'>his</td></tr><tr><td class='px-4 py-2'>she</td><td class='px-4 py-2'>her</td><td class='px-4 py-2'>hers</td></tr><tr><td class='px-4 py-2'>it</td><td class='px-4 py-2'>its</td><td class='px-4 py-2'>-</td></tr><tr><td class='px-4 py-2'>we</td><td class='px-4 py-2'>our</td><td class='px-4 py-2'>ours</td></tr><tr><td class='px-4 py-2'>they</td><td class='px-4 py-2'>their</td><td class='px-4 py-2'>theirs</td></tr></tbody></table></div><p><strong>Examples:</strong></p><ul class='list-disc pl-5 space-y-2'><li>This is <strong>my</strong> book. = This book is <strong>mine</strong>.</li><li>That is <strong>your</strong> city. = That city is <strong>yours</strong>.</li><li>This is <strong>her</strong> country. = This country is <strong>hers</strong>.</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> A holiday in London - Kỳ nghỉ ở London</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về chuyến du lịch</li><li>Giới thiệu về thành phố nổi tiếng</li><li>Nói về địa danh</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Cities and landmarks</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về thành phố</li><li>Học từ vựng về địa danh nổi tiếng</li></ul><p><strong>B. Pronunciation: /əʊ/ and /aʊ/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /əʊ/ và /aʊ/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Possessive adjectives and pronouns</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học tính từ sở hữu</li><li>Học đại từ sở hữu</li><li>Phân biệt hai loại</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about cities</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What's your favourite city?</li><li>Have you been to...?</li><li>What's it famous for?</li><li>My city is... / Mine is...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Famous cities</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về thành phố nổi tiếng</li><li>Tìm thông tin về địa danh</li></ul><p><strong>Speaking: Describing cities</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả thành phố</li><li>So sánh các thành phố</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: A travel guide</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hướng dẫn du lịch</li><li>Ghi chú thông tin về thành phố</li></ul><p><strong>Writing: A postcard from a city</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết bưu thiếp từ thành phố</li><li>Sử dụng possessive adjectives/pronouns</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Cities, landmarks, countries</li><li><strong>Pronunciation:</strong> /əʊ/ and /aʊ/</li><li><strong>Grammar:</strong> Possessive adjectives and pronouns</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> My dream city</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn thành phố mơ ước</li><li>Tìm thông tin và hình ảnh</li><li>Viết mô tả (5-7 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Sử dụng tính từ sở hữu",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tính từ sở hữu đứng trước danh từ</li><li>my, your, his, her, its, our, their + noun</li></ul>",
+            "examples": [
+              {
+                "question": "This is ______ (I) city.",
+                "solution": "This is <strong>my</strong> city.",
+                "explanation": "I → my (tính từ sở hữu đứng trước danh từ 'city')."
+              },
+              {
+                "question": "______ (She) country is beautiful.",
+                "solution": "<strong>Her</strong> country is beautiful.",
+                "explanation": "She → her (tính từ sở hữu đứng trước danh từ 'country')."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Sử dụng đại từ sở hữu",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đại từ sở hữu đứng một mình, thay thế tính từ sở hữu + danh từ</li><li>mine, yours, his, hers, ours, theirs</li></ul>",
+            "examples": [
+              {
+                "question": "This city is ______ (I).",
+                "solution": "This city is <strong>mine</strong>.",
+                "explanation": "I → mine (đại từ sở hữu đứng một mình = my city)."
+              },
+              {
+                "question": "That book is ______ (you).",
+                "solution": "That book is <strong>yours</strong>.",
+                "explanation": "You → yours (đại từ sở hữu = your book)."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Phân biệt tính từ và đại từ sở hữu",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nếu sau chỗ trống có danh từ → dùng tính từ sở hữu</li><li>Nếu sau chỗ trống không có danh từ → dùng đại từ sở hữu</li></ul>",
+            "examples": [
+              {
+                "question": "This is ______ (my/mine) book.",
+                "solution": "This is <strong>my</strong> book.",
+                "explanation": "Sau chỗ trống có danh từ 'book' → dùng tính từ sở hữu 'my'."
+              },
+              {
+                "question": "This book is ______ (my/mine).",
+                "solution": "This book is <strong>mine</strong>.",
+                "explanation": "Sau chỗ trống không có danh từ → dùng đại từ sở hữu 'mine'."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Viết lại câu với possessive pronouns",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chuyển: possessive adjective + noun → possessive pronoun</li><li>my book → mine, your city → yours, her country → hers</li></ul>",
+            "examples": [
+              {
+                "question": "Rewrite: This is my city.",
+                "solution": "This city is <strong>mine</strong>.",
+                "explanation": "My city → mine (đại từ sở hữu thay thế tính từ sở hữu + danh từ)."
+              },
+              {
+                "question": "Rewrite: That is your book.",
+                "solution": "That book is <strong>yours</strong>.",
+                "explanation": "Your book → yours."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "This is ______ city.",
+            "options": ["I", "my", "mine", "me"],
+            "correct": 1,
+            "explanation": "Tính từ sở hữu đứng trước danh từ → my."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "This city is ______.",
+            "options": ["I", "my", "mine", "me"],
+            "correct": 2,
+            "explanation": "Đại từ sở hữu đứng một mình → mine."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "______ country is beautiful.",
+            "options": ["She", "Her", "Hers", "She's"],
+            "correct": 1,
+            "explanation": "Tính từ sở hữu đứng trước danh từ → Her."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "That book is ______.",
+            "options": ["you", "your", "yours", "you're"],
+            "correct": 2,
+            "explanation": "Đại từ sở hữu đứng một mình → yours."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "______ capital is Paris.",
+            "options": ["They", "Their", "Theirs", "Them"],
+            "correct": 1,
+            "explanation": "Tính từ sở hữu đứng trước danh từ → Their."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "The red car is ______.",
+            "options": ["he", "his", "him", "he's"],
+            "correct": 1,
+            "explanation": "Đại từ sở hữu đứng một mình → his (his vừa là tính từ vừa là đại từ sở hữu)."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "This is ______ favourite city.",
+            "options": ["we", "our", "ours", "us"],
+            "correct": 1,
+            "explanation": "Tính từ sở hữu đứng trước danh từ → our."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "That house is ______.",
+            "options": ["we", "our", "ours", "us"],
+            "correct": 2,
+            "explanation": "Đại từ sở hữu đứng một mình → ours."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "London is famous ______ Big Ben.",
+            "options": ["for", "with", "of", "at"],
+            "correct": 0,
+            "explanation": "Famous for: nổi tiếng về..."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Ha Noi is the capital ______ Vietnam.",
+            "options": ["in", "on", "of", "at"],
+            "correct": 2,
+            "explanation": "The capital of: thủ đô của..."
+          }
+        ]
+      }
+    }
+  ]
+}

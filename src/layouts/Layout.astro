@@ -1,0 +1,369 @@
+---
+import DarkModeToggle from '@/components/DarkModeToggle.astro';
+import BackToTop from '@/components/BackToTop.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Học Tiếng Anh - Global Success - Nền tảng học tập thông minh từ lớp 6 đến lớp 12' } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="vi" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- RSS Feeds -->
+    <link rel="alternate" type="application/rss+xml" title="Học Tiếng Anh - Tất cả" href="/rss.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Học Tiếng Anh - Bài học" href="/rss/lessons.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Học Tiếng Anh - Đề thi" href="/de-thi" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Lexend:wght@300;400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+    <slot name="head" />
+
+    <!-- Init dark mode before render to prevent flash -->
+    <script is:inline>
+      (function() {
+        const dark = localStorage.getItem('lms_dark_mode');
+        const sys = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (dark === 'true' || (dark === null && sys)) {
+          document.documentElement.classList.add('dark');
+        }
+      })();
+    </script>
+  </head>
+  <body class="bg-[#f8faff] dark:bg-[#0d0f1a] min-h-screen transition-colors duration-300 font-sans antialiased">
+
+    <!-- Navigation -->
+    <nav id="main-nav" class="fixed top-0 left-0 right-0 z-50 transition-all duration-500">
+      <!-- Solid gradient background -->
+      <div class="absolute inset-0 bg-gradient-to-r from-indigo-600 via-blue-600 to-cyan-500 dark:from-indigo-900 dark:via-blue-900 dark:to-cyan-900 shadow-sm"></div>
+
+      <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between items-center h-[72px]">
+          <!-- Logo -->
+          <a href="/" class="flex items-center space-x-3 group flex-shrink-0" id="nav-logo">
+            <div class="w-10 h-10 relative">
+              <div class="absolute inset-0 bg-white/20 rounded-xl rotate-6 group-hover:rotate-12 transition-transform duration-300"></div>
+              <div class="absolute inset-0 bg-white/30 backdrop-blur-sm rounded-xl flex items-center justify-center border border-white/40">
+                <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
+                </svg>
+              </div>
+            </div>
+            <div>
+              <span class="text-lg font-display font-bold text-white drop-shadow-md leading-tight block">
+                Học Tiếng Anh
+              </span>
+              <span class="text-[10px] text-white/80 font-medium tracking-widest uppercase -mt-0.5 block">Global Success</span>
+            </div>
+          </a>
+
+          <!-- Desktop Nav Grade Links -->
+          <div class="hidden lg:flex items-center gap-1">
+            <a href="/lessons/tieng-anh-12" class="nav-grade-link" data-grade="12">Lớp 12</a>
+            <a href="/lessons/tieng-anh-11" class="nav-grade-link" data-grade="11">Lớp 11</a>
+            <a href="/lessons/tieng-anh-10" class="nav-grade-link" data-grade="10">Lớp 10</a>
+            <a href="/lessons/tieng-anh-9" class="nav-grade-link" data-grade="9">Lớp 9</a>
+            <a href="/lessons/tieng-anh-8" class="nav-grade-link" data-grade="8">Lớp 8</a>
+            <a href="/lessons/tieng-anh-7" class="nav-grade-link" data-grade="7">Lớp 7</a>
+            <a href="/lessons/tieng-anh-6" class="nav-grade-link" data-grade="6">Lớp 6</a>
+          </div>
+
+          <!-- Right Actions -->
+          <div class="flex items-center gap-2">
+            <!-- Search button desktop -->
+            <a href="/lessons" class="hidden md:flex items-center gap-2 px-4 py-2 rounded-xl bg-white/15 hover:bg-white/25 border border-white/20 text-white text-sm font-medium transition-all duration-200 backdrop-blur-sm">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+              <span class="hidden lg:inline">Tìm bài học</span>
+            </a>
+
+            <!-- Đề thi -->
+            <a href="/de-thi" class="hidden md:flex items-center gap-1.5 px-3 py-2 rounded-xl bg-white/10 hover:bg-white/20 text-white/90 hover:text-white text-sm font-medium transition-all duration-200">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+              </svg>
+              Đề thi
+            </a>
+
+            <!-- Auth block -->
+            <div class="hidden md:flex items-center ml-1">
+              <!-- Logged out state -->
+              <a href="/dang-nhap" id="nav-login-btn" class="px-4 py-2 bg-gradient-to-r from-yellow-400 to-yellow-500 hover:from-yellow-300 hover:to-yellow-400 text-yellow-900 text-sm font-bold rounded-xl shadow-lg shadow-yellow-500/20 transition-all hover:scale-105 hidden">
+                Đăng nhập
+              </a>
+              
+              <!-- Logged in state -->
+              <div id="nav-user-menu" class="relative group hidden">
+                <button class="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-white/10 hover:bg-white/20 border border-white/20 text-white transition-all cursor-pointer">
+                  <div class="w-6 h-6 rounded-full bg-indigo-500 flex items-center justify-center text-xs font-bold" id="nav-user-avatar">?</div>
+                  <span class="text-sm font-medium max-w-[100px] truncate" id="nav-user-name">User</span>
+                </button>
+                <!-- Dropdown -->
+                <div class="absolute right-0 top-full mt-2 w-48 bg-white dark:bg-gray-800 rounded-xl shadow-xl border border-gray-100 dark:border-gray-700 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform origin-top-right scale-95 group-hover:scale-100 z-50">
+                  <div class="p-2 space-y-1">
+                    <a href="/de-thi/tao-de" class="block px-3 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg">Tạo đề thi</a>
+                    <div class="h-px bg-gray-100 dark:bg-gray-700 my-1"></div>
+                    <button id="nav-logout-btn" class="w-full text-left px-3 py-2 text-sm text-red-600 dark:text-red-400 hover:bg-red-50 dark:hover:bg-red-900/30 rounded-lg">Đăng xuất</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Mobile menu button -->
+            <button id="mobile-menu-button" class="lg:hidden p-2 rounded-xl text-white hover:bg-white/20 transition-colors" aria-label="Open menu">
+              <svg id="menu-icon-open" class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+              </svg>
+              <svg id="menu-icon-close" class="h-5 w-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Mobile Menu Slide-down -->
+      <div id="mobile-menu" class="hidden lg:hidden relative">
+        <div class="bg-gradient-to-b from-blue-700/98 to-indigo-800/98 backdrop-blur-xl border-t border-white/10">
+          <div class="max-w-7xl mx-auto px-4 py-4">
+            <div class="grid grid-cols-4 gap-2 mb-4">
+              <a href="/lessons/tieng-anh-12" class="mobile-grade-card">
+                <span class="text-2xl font-black text-white">12</span>
+                <span class="text-xs text-white/70 mt-0.5">Lớp 12</span>
+              </a>
+              <a href="/lessons/tieng-anh-11" class="mobile-grade-card">
+                <span class="text-2xl font-black text-white">11</span>
+                <span class="text-xs text-white/70 mt-0.5">Lớp 11</span>
+              </a>
+              <a href="/lessons/tieng-anh-10" class="mobile-grade-card">
+                <span class="text-2xl font-black text-white">10</span>
+                <span class="text-xs text-white/70 mt-0.5">Lớp 10</span>
+              </a>
+              <a href="/lessons/tieng-anh-9" class="mobile-grade-card">
+                <span class="text-2xl font-black text-white">9</span>
+                <span class="text-xs text-white/70 mt-0.5">Lớp 9</span>
+              </a>
+              <a href="/lessons/tieng-anh-8" class="mobile-grade-card">
+                <span class="text-2xl font-black text-white">8</span>
+                <span class="text-xs text-white/70 mt-0.5">Lớp 8</span>
+              </a>
+              <a href="/lessons/tieng-anh-7" class="mobile-grade-card">
+                <span class="text-2xl font-black text-white">7</span>
+                <span class="text-xs text-white/70 mt-0.5">Lớp 7</span>
+              </a>
+              <a href="/lessons/tieng-anh-6" class="mobile-grade-card">
+                <span class="text-2xl font-black text-white">6</span>
+                <span class="text-xs text-white/70 mt-0.5">Lớp 6</span>
+              </a>
+              <a href="/de-thi" class="mobile-grade-card">
+                <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                </svg>
+                <span class="text-xs text-white/70 mt-0.5">Đề thi</span>
+              </a>
+            </div>
+            <a href="/lessons" class="flex items-center justify-center gap-2 w-full py-3 bg-white/10 hover:bg-white/20 border border-white/20 rounded-xl text-white font-medium text-sm transition-all">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+              Tìm kiếm bài học
+            </a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="min-h-[calc(100vh-20rem)]">
+      <slot />
+    </main>
+
+    <!-- Footer -->
+    <footer class="relative overflow-hidden bg-[#0b0f24] text-white mt-24">
+      <!-- Decorative background -->
+      <div class="absolute inset-0 opacity-30">
+        <div class="absolute top-0 left-1/4 w-96 h-96 bg-blue-600 rounded-full blur-[120px]"></div>
+        <div class="absolute bottom-0 right-1/4 w-80 h-80 bg-indigo-600 rounded-full blur-[100px]"></div>
+      </div>
+
+      <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-8">
+        <!-- Top Footer Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mb-12">
+          <!-- Brand Column -->
+          <div class="lg:col-span-2">
+            <div class="flex items-center space-x-3 mb-5">
+              <div class="w-11 h-11 bg-gradient-to-br from-blue-500 to-indigo-500 rounded-xl flex items-center justify-center shadow-lg shadow-blue-500/30">
+                <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
+                </svg>
+              </div>
+              <div>
+                <span class="text-xl font-display font-bold text-white block">Học Tiếng Anh</span>
+                <span class="text-xs text-blue-400 font-medium tracking-widest uppercase">Global Success</span>
+              </div>
+            </div>
+            <p class="text-gray-400 text-sm leading-relaxed max-w-sm mb-6">
+              Nền tảng học Tiếng Anh thông minh — Chương trình <strong class="text-white">Global Success</strong> từ lớp 6 đến lớp 12. Giúp học sinh nắm vững kiến thức, chuẩn bị tốt cho các kỳ thi quan trọng.
+            </p>
+            <!-- Stats -->
+            <div class="flex gap-6">
+              <div>
+                <p class="text-2xl font-bold text-white">7</p>
+                <p class="text-xs text-gray-500">Khối lớp</p>
+              </div>
+              <div class="w-px bg-gray-700"></div>
+              <div>
+                <p class="text-2xl font-bold text-white">100+</p>
+                <p class="text-xs text-gray-500">Bài học</p>
+              </div>
+              <div class="w-px bg-gray-700"></div>
+              <div>
+                <p class="text-2xl font-bold text-white">Miễn phí</p>
+                <p class="text-xs text-gray-500">Hoàn toàn</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Bài học -->
+          <div>
+            <h3 class="font-semibold text-white mb-5 text-sm uppercase tracking-wider">Bài học</h3>
+            <ul class="space-y-2.5 text-sm">
+              <li><a href="/lessons/tieng-anh-12" class="footer-link">Tiếng Anh Lớp 12</a></li>
+              <li><a href="/lessons/tieng-anh-11" class="footer-link">Tiếng Anh Lớp 11</a></li>
+              <li><a href="/lessons/tieng-anh-10" class="footer-link">Tiếng Anh Lớp 10</a></li>
+              <li><a href="/lessons/tieng-anh-9" class="footer-link">Tiếng Anh Lớp 9</a></li>
+              <li><a href="/lessons/tieng-anh-8" class="footer-link">Tiếng Anh Lớp 8</a></li>
+              <li><a href="/lessons/tieng-anh-7" class="footer-link">Tiếng Anh Lớp 7</a></li>
+              <li><a href="/lessons/tieng-anh-6" class="footer-link">Tiếng Anh Lớp 6</a></li>
+            </ul>
+          </div>
+
+          <!-- About -->
+          <div>
+            <h3 class="font-semibold text-white mb-5 text-sm uppercase tracking-wider">Về chúng tôi</h3>
+            <ul class="space-y-2.5 text-sm">
+              <li><a href="/gioi-thieu" class="footer-link">Giới thiệu</a></li>
+              <li><a href="/huong-dan" class="footer-link">Hướng dẫn học tập</a></li>
+              <li><a href="/de-thi" class="footer-link">Đề thi Tiếng Anh</a></li>
+              <li><a href="/lien-he" class="footer-link">Liên hệ</a></li>
+              <li><a href="/quy-dinh" class="footer-link">Quy định sử dụng</a></li>
+              <li><a href="/bao-mat" class="footer-link">Chính sách bảo mật</a></li>
+              <li>
+                <a href="https://booktoan.com" target="_blank" rel="noopener noreferrer" class="footer-link inline-flex items-center gap-1">
+                  Học Toán
+                  <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+                  </svg>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Divider -->
+        <div class="border-t border-white/10 pt-8">
+          <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
+            <p class="text-center sm:text-left text-gray-500 text-sm">
+              © 2026 <span class="text-gray-400">Học Tiếng Anh - Global Success</span> — v2.0
+            </p>
+            <div class="flex items-center gap-3">
+              <span class="text-xs text-gray-600">Chế độ:</span>
+              <DarkModeToggle />
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Back to Top -->
+    <BackToTop />
+
+    <!-- Nav scroll behavior + Mobile menu script -->
+    <script>
+      // --- Mobile menu ---
+      const mobileBtn = document.getElementById('mobile-menu-button');
+      const mobileMenu = document.getElementById('mobile-menu');
+      const iconOpen = document.getElementById('menu-icon-open');
+      const iconClose = document.getElementById('menu-icon-close');
+
+      mobileBtn?.addEventListener('click', () => {
+        const isHidden = mobileMenu?.classList.contains('hidden');
+        mobileMenu?.classList.toggle('hidden');
+        iconOpen?.classList.toggle('hidden', !isHidden);
+        iconClose?.classList.toggle('hidden', isHidden);
+      });
+    </script>
+
+    <script define:vars={{
+      supabaseUrl: import.meta.env.PUBLIC_SUPABASE_URL,
+      supabaseKey: import.meta.env.PUBLIC_SUPABASE_ANON_KEY
+    }}>
+      document.addEventListener('DOMContentLoaded', async () => {
+        if (!supabaseUrl || !supabaseKey) return;
+        
+        try {
+          const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm');
+          const sb = createClient(supabaseUrl, supabaseKey);
+          
+          const loginBtn = document.getElementById('nav-login-btn');
+          const userMenu = document.getElementById('nav-user-menu');
+          const userName = document.getElementById('nav-user-name');
+          const userAvatar = document.getElementById('nav-user-avatar');
+          const logoutBtn = document.getElementById('nav-logout-btn');
+
+          const { data: { session } } = await sb.auth.getSession();
+          
+          if (session) {
+            const name = session.user.user_metadata?.full_name || session.user.email?.split('@')[0] || 'User';
+            if (userName) userName.textContent = name;
+            if (userAvatar) userAvatar.textContent = name.charAt(0).toUpperCase();
+            if (userMenu) userMenu.classList.remove('hidden');
+          } else {
+            if (loginBtn) loginBtn.classList.remove('hidden');
+          }
+
+          logoutBtn?.addEventListener('click', async () => {
+            await sb.auth.signOut();
+            window.location.reload();
+          });
+        } catch (e) {
+          console.error('Failed to init auth in nav', e);
+          const loginBtn = document.getElementById('nav-login-btn');
+          if (loginBtn) loginBtn.classList.remove('hidden');
+        }
+      });
+    </script>
+
+    <style>
+      .nav-grade-link {
+        @apply px-3 py-2 text-sm font-semibold text-white/95 hover:text-white hover:bg-white/20 rounded-lg transition-all duration-200 relative;
+      }
+
+
+      .mobile-grade-card {
+        @apply flex flex-col items-center justify-center p-3 bg-white/10 hover:bg-white/20 rounded-xl border border-white/10 transition-all duration-200 gap-0.5;
+      }
+
+      .footer-link {
+        @apply text-gray-400 hover:text-white transition-colors duration-200 flex items-center gap-1;
+      }
+      .footer-link:hover {
+        @apply translate-x-0.5;
+        transition: color 0.2s, transform 0.2s;
+      }
+    </style>
+  </body>
+</html>

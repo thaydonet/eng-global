@@ -1,0 +1,442 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-review-1",
+      "name": "Review 1 (Units 1 - 3)",
+      "slug": "review-1-units-1-2-3",
+      "chapter": "Review 1",
+      "chapter_id": "A6",
+      "lesson_id": 4,
+      "description": "Consolidation of vocabulary and grammar from Units 1, 2, and 3.",
+      "duration_minutes": 60,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=2622&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-1-mixed",
+          "name": "Mixed Review",
+          "slug": "mixed-review",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 1: Units 1-3",
+          "sections": [
+            {
+              "heading": "I. Language - Ôn tập ngôn ngữ",
+              "content": "<h3>A. Pronunciation (Phát âm)</h3><p><strong>Unit 1:</strong> Sounds /ɑː/ and /ʌ/</p><ul class='list-disc pl-5 space-y-2'><li><strong>/ɑː/:</strong> class, smart, art, start, father</li><li><strong>/ʌ/:</strong> subject, study, lunch, come, some</li></ul><p><strong>Unit 2:</strong> Ending sounds /s/ and /z/</p><ul class='list-disc pl-5 space-y-2'><li><strong>/s/:</strong> lamps, cats, books, roofs (sau /p/, /t/, /k/, /f/, /θ/)</li><li><strong>/z/:</strong> rooms, beds, chairs, windows (sau nguyên âm và phụ âm hữu thanh)</li></ul><p><strong>Unit 3:</strong> Sounds /b/ and /p/</p><ul class='list-disc pl-5 space-y-2'><li><strong>/b/:</strong> book, big, brown, brother (âm hữu thanh)</li><li><strong>/p/:</strong> pen, play, picture, patient (âm vô thanh)</li></ul><h3>B. Vocabulary (Từ vựng)</h3><p><strong>Unit 1: My New School</strong></p><ul class='list-disc pl-5 space-y-2'><li>School subjects: English, Maths, Science, History, Geography, Music, Art, P.E., I.T.</li><li>School places: classroom, library, playground, gym, computer room, music room, canteen</li><li>School things: book, notebook, pen, pencil, ruler, eraser, schoolbag</li><li>School activities: study, learn, read, write, do homework, play sports</li></ul><p><strong>Unit 2: My House</strong></p><ul class='list-disc pl-5 space-y-2'><li>Rooms: living room, bedroom, bathroom, kitchen, dining room, study room</li><li>Furniture: bed, wardrobe, desk, chair, table, sofa, bookshelf, cupboard</li><li>Appliances: TV, fridge, cooker, washing machine, air conditioner, lamp, clock</li><li>Prepositions: in, on, under, behind, in front of, next to, between, opposite</li></ul><p><strong>Unit 3: My Friends</strong></p><ul class='list-disc pl-5 space-y-2'><li>Appearance: tall, short, slim, fat, long/short hair, black/brown/blonde hair, blue/brown eyes</li><li>Personality: kind, friendly, funny, clever, hard-working, creative, confident, active, shy</li><li>Body parts: hair, eye, face, nose, mouth, ear, hand, arm, leg</li><li>Activities: play, study, read, listen to music, watch TV, ride a bike</li></ul><h3>C. Grammar (Ngữ pháp)</h3><p><strong>Unit 1: Present Simple Tense</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + V(s/es)</li><li>Ex: I go to school every day. / She studies English.</li><li><strong>Phủ định:</strong> S + do/does + not + V</li><li>Ex: I don't like Maths. / He doesn't play football.</li><li><strong>Nghi vấn:</strong> Do/Does + S + V?</li><li>Ex: Do you like English? / Does she go to school by bus?</li><li><strong>Adverbs of frequency:</strong> always, usually, often, sometimes, rarely, never</li><li>Ex: I always go to school on time. / She is never late.</li></ul><p><strong>Unit 2: There is / There are</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> There is + a/an + N (số ít) / There are + N (số nhiều)</li><li>Ex: There is a bed in my room. / There are two chairs in the kitchen.</li><li><strong>Phủ định:</strong> There isn't + a/an + N / There aren't + any + N</li><li>Ex: There isn't a TV in my bedroom. / There aren't any pictures on the wall.</li><li><strong>Nghi vấn:</strong> Is there + a/an + N? / Are there + any + N?</li><li>Ex: Is there a lamp on the desk? / Are there any chairs in the room?</li><li><strong>Prepositions of place:</strong> in, on, under, behind, in front of, next to, between</li><li><strong>Possessive case:</strong> N + 's (Tom's room, my sister's bedroom, children's toys)</li></ul><p><strong>Unit 3: Present Continuous Tense</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + am/is/are + V-ing</li><li>Ex: I am studying now. / She is playing football. / They are watching TV.</li><li><strong>Phủ định:</strong> S + am/is/are + not + V-ing</li><li>Ex: I am not studying now. / He isn't playing football.</li><li><strong>Nghi vấn:</strong> Am/Is/Are + S + V-ing?</li><li>Ex: Are you studying now? / Is she playing football?</li><li><strong>Cách thêm -ing:</strong> play→playing, write→writing, run→running</li><li><strong>So sánh Present Simple vs Present Continuous:</strong></li><li>Present Simple: thói quen (every day, always, usually)</li><li>Present Continuous: đang xảy ra (now, at the moment, Look!, Listen!)</li></ul>"
+            },
+            {
+              "heading": "II. Skills - Ôn tập kỹ năng",
+              "content": "<h3>A. Reading (Đọc hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc lướt để nắm ý chính (skimming)</li><li>Đọc kỹ để tìm thông tin chi tiết (scanning)</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li><li>Hiểu ý chính của đoạn văn</li><li>Xác định thông tin đúng/sai</li><li>Trả lời câu hỏi về bài đọc</li></ul><p><strong>Chủ đề đã đọc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>School life and activities</li><li>Houses and rooms</li><li>Friends and their characteristics</li></ul><h3>B. Speaking (Nói)</h3><p><strong>Chủ đề đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Talking about school (subjects, activities, timetable)</li><li>Describing houses and rooms</li><li>Describing people (appearance and personality)</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What's your school like? - My school is big/small/modern.</li><li>What subjects do you study? - I study English, Maths, Science...</li><li>Where is...? - It's in/on/under/next to...</li><li>There is/are... in my house/room.</li><li>What does he/she look like? - He/She has... / He/She is...</li><li>What is he/she doing? - He/She is V-ing...</li></ul><h3>C. Listening (Nghe hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe để nắm ý chính</li><li>Nghe để tìm thông tin cụ thể</li><li>Điền thông tin còn thiếu (gap-filling)</li><li>Trả lời câu hỏi chi tiết</li><li>Hiểu mô tả về người, địa điểm, hoạt động</li></ul><p><strong>Chủ đề đã nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Conversations about school</li><li>Descriptions of houses and rooms</li><li>Descriptions of friends and family</li></ul><h3>D. Writing (Viết)</h3><p><strong>Dạng bài đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Writing emails about school</li><li>Writing descriptions of houses/rooms</li><li>Writing about friends</li></ul><p><strong>Kỹ năng viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tổ chức bài viết: Introduction - Body - Conclusion</li><li>Sử dụng Present Simple để mô tả thói quen</li><li>Sử dụng There is/There are để mô tả nơi chốn</li><li>Sử dụng Present Continuous để mô tả hành động đang xảy ra</li><li>Sử dụng tính từ để mô tả người và vật</li><li>Viết câu đơn giản và rõ ràng</li></ul><p><strong>Cấu trúc bài viết mẫu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Introduction:</strong> Giới thiệu chủ đề (1-2 câu)</li><li><strong>Body:</strong> Trình bày chi tiết (3-5 câu)</li><li><strong>Conclusion:</strong> Kết luận (1 câu)</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Mixed Exercise",
+            "method": "<p>Review all grammar points and vocabulary from Units 1-3.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "My name is Tom and I am a student at Green School. I go to school every day from Monday to Friday. My school is big and modern. There are 30 classrooms, a large library, a computer room, and a beautiful playground.\n\nI study many subjects at school. My favourite subject is English because it is interesting and useful. I also like P.E. because I love playing sports. I don't like Maths very much because it is difficult for me.\n\nI have many friends at school. My best friend is Peter. He is tall and has short black hair. He is very friendly and funny. We always play football together at break time. After school, we usually do our homework together in the library.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Tom's house",
+                  "Tom's school and friends",
+                  "Tom's family",
+                  "Tom's hobbies"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về trường học và bạn bè của Tom."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "How many days does Tom go to school?",
+                "options": [
+                  "Four days",
+                  "Five days",
+                  "Six days",
+                  "Seven days"
+                ],
+                "correct": 1,
+                "explanation": "Tom đi học từ thứ Hai đến thứ Sáu (5 ngày)."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "What is Tom's favourite subject?",
+                "options": [
+                  "Maths",
+                  "P.E.",
+                  "English",
+                  "Science"
+                ],
+                "correct": 2,
+                "explanation": "Môn học yêu thích của Tom là tiếng Anh."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What does Peter look like?",
+                "options": [
+                  "He is short with long hair",
+                  "He is tall with short black hair",
+                  "He is tall with long blonde hair",
+                  "He is short with brown hair"
+                ],
+                "correct": 1,
+                "explanation": "Peter cao và có tóc đen ngắn."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "What do Tom and Peter do after school?",
+                "options": [
+                  "They play games",
+                  "They watch TV",
+                  "They do homework together",
+                  "They go home"
+                ],
+                "correct": 2,
+                "explanation": "Sau giờ học, họ thường làm bài tập cùng nhau ở thư viện."
+              }
+            ]
+          },
+          {
+            "id": "reading2",
+            "type": "reading",
+            "passage": "I live in a small house with my family. There are five rooms in my house: a living room, two bedrooms, a kitchen, and a bathroom. My house also has a small garden in front.\n\nThe living room is my favourite room. There is a big sofa, a TV, and a bookshelf in the living room. My family watches TV together every evening. Next to the living room is the kitchen. There is a fridge, a cooker, and a dining table in the kitchen. We have meals together there.\n\nMy bedroom is upstairs. There is a bed, a desk, a chair, and a wardrobe in my bedroom. I do my homework at the desk every day. There are many books on the bookshelf. I love reading books before I go to bed.",
+            "questions": [
+              {
+                "id": "reading2-q1",
+                "question": "How many rooms are there in the house?",
+                "options": [
+                  "Four rooms",
+                  "Five rooms",
+                  "Six rooms",
+                  "Seven rooms"
+                ],
+                "correct": 1,
+                "explanation": "Có 5 phòng trong nhà."
+              },
+              {
+                "id": "reading2-q2",
+                "question": "What is the writer's favourite room?",
+                "options": [
+                  "The bedroom",
+                  "The kitchen",
+                  "The living room",
+                  "The bathroom"
+                ],
+                "correct": 2,
+                "explanation": "Phòng yêu thích của tác giả là phòng khách."
+              },
+              {
+                "id": "reading2-q3",
+                "question": "Where is the kitchen?",
+                "options": [
+                  "Upstairs",
+                  "In the garden",
+                  "Next to the living room",
+                  "Behind the house"
+                ],
+                "correct": 2,
+                "explanation": "Nhà bếp ở bên cạnh phòng khách."
+              },
+              {
+                "id": "reading2-q4",
+                "question": "What does the writer do at the desk?",
+                "options": [
+                  "Watch TV",
+                  "Read books",
+                  "Do homework",
+                  "Play games"
+                ],
+                "correct": 2,
+                "explanation": "Tác giả làm bài tập ở bàn học mỗi ngày."
+              },
+              {
+                "id": "reading2-q5",
+                "question": "When does the writer read books?",
+                "options": [
+                  "In the morning",
+                  "At break time",
+                  "Before going to bed",
+                  "After lunch"
+                ],
+                "correct": 2,
+                "explanation": "Tác giả đọc sách trước khi đi ngủ."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I ______ to school every day.",
+            "options": ["go", "goes", "going", "to go"],
+            "correct": 0,
+            "explanation": "Chủ ngữ 'I' dùng động từ nguyên mẫu 'go' trong thì hiện tại đơn."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "She ______ English and Maths.",
+            "options": ["study", "studies", "studying", "to study"],
+            "correct": 1,
+            "explanation": "Chủ ngữ 'She' (ngôi thứ 3 số ít) thêm 'es' vào động từ 'study' → studies."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "There ______ a sofa in the living room.",
+            "options": ["is", "are", "am", "be"],
+            "correct": 0,
+            "explanation": "Danh từ 'a sofa' là số ít nên dùng 'There is'."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "There ______ two bathrooms in my house.",
+            "options": ["is", "are", "am", "be"],
+            "correct": 1,
+            "explanation": "Danh từ 'two bathrooms' là số nhiều nên dùng 'There are'."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She ______ a book now.",
+            "options": ["read", "reads", "is reading", "are reading"],
+            "correct": 2,
+            "explanation": "Có 'now' → Present Continuous. Chủ ngữ 'She' dùng 'is reading'."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "They ______ football at the moment.",
+            "options": ["play", "plays", "is playing", "are playing"],
+            "correct": 3,
+            "explanation": "Có 'at the moment' → Present Continuous. Chủ ngữ 'They' dùng 'are playing'."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ you like your new school?",
+            "options": ["Do", "Does", "Are", "Is"],
+            "correct": 0,
+            "explanation": "Câu hỏi với 'you' dùng 'Do' trong thì hiện tại đơn."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "The book is ______ the table.",
+            "options": ["in", "on", "at", "of"],
+            "correct": 1,
+            "explanation": "Sách ở trên bề mặt bàn nên dùng 'on'."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "This is ______ bedroom.",
+            "options": ["my sister", "my sister's", "my sisters", "my sisters'"],
+            "correct": 1,
+            "explanation": "Sở hữu cách: thêm 's vào sau 'my sister' → my sister's."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "She ______ long hair.",
+            "options": ["have", "has", "is", "are"],
+            "correct": 1,
+            "explanation": "Mô tả ngoại hình dùng 'has'. Chủ ngữ 'She' dùng 'has'."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "My friend ______ very friendly.",
+            "options": ["am", "is", "are", "be"],
+            "correct": 1,
+            "explanation": "Mô tả tính cách dùng 'is'. 'My friend' (số ít) dùng 'is'."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "We ______ have lessons on Sunday.",
+            "options": ["doesn't", "don't", "isn't", "aren't"],
+            "correct": 1,
+            "explanation": "Chủ ngữ 'We' dùng 'don't' (do not) trong câu phủ định."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "______ she ______ her homework every evening?",
+            "options": ["Do / do", "Does / does", "Does / do", "Do / does"],
+            "correct": 2,
+            "explanation": "Câu hỏi với 'she' dùng 'Does', động từ chính giữ nguyên 'do'."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "I ______ excited about my new school.",
+            "options": ["am", "is", "are", "be"],
+            "correct": 0,
+            "explanation": "Chủ ngữ 'I' dùng 'am' với động từ 'to be'."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "Look! The dog ______ in the garden.",
+            "options": ["run", "runs", "is running", "are running"],
+            "correct": 2,
+            "explanation": "Có 'Look!' → Present Continuous. 'The dog' (số ít) dùng 'is running'."
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "The cat is ______ the chair.",
+            "options": ["on", "under", "in", "at"],
+            "correct": 1,
+            "explanation": "Con mèo ở dưới ghế nên dùng 'under'."
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "______ there a TV in your room?",
+            "options": ["Is", "Are", "Am", "Be"],
+            "correct": 0,
+            "explanation": "Câu hỏi với danh từ số ít 'a TV' dùng 'Is there'."
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "They ______ wear uniforms to school.",
+            "options": ["always", "are always", "always are", "be always"],
+            "correct": 0,
+            "explanation": "Trạng từ 'always' đứng trước động từ thường 'wear'."
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "______ you ______ your homework now?",
+            "options": ["Do / do", "Are / doing", "Is / doing", "Do / doing"],
+            "correct": 1,
+            "explanation": "Có 'now' → Present Continuous. Câu hỏi với 'you' dùng 'Are you doing'."
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "My house is ______ the park.",
+            "options": ["opposite", "between", "under", "on"],
+            "correct": 0,
+            "explanation": "Nhà đối diện công viên dùng 'opposite'."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Present Simple is used for habits and routines.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Thì hiện tại đơn dùng để diễn tả thói quen và hoạt động thường xuyên."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "We use 'There is' with plural nouns.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. 'There is' dùng với danh từ số ít, 'There are' dùng với danh từ số nhiều."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Present Continuous is used for actions happening now.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Thì hiện tại tiếp diễn dùng để diễn tả hành động đang xảy ra."
+          },
+          {
+            "id": "msq4",
+            "type": "msq",
+            "question_text": "Adverbs of frequency come after the main verb.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Trạng từ chỉ tần suất đứng trước động từ thường, sau động từ 'to be'."
+          },
+          {
+            "id": "msq5",
+            "type": "msq",
+            "question_text": "The possessive case is formed by adding 's to singular nouns.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Sở hữu cách được tạo bằng cách thêm 's vào sau danh từ số ít."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call the place where we study at school? (one word)",
+            "correct": "classroom",
+            "explanation": "Classroom: lớp học, nơi chúng ta học ở trường."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: There ______ a bed in my room. (is/are)",
+            "correct": "is",
+            "explanation": "'A bed' là danh từ số ít nên dùng 'is'."
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question_text": "What is the opposite of 'tall'? (one word)",
+            "correct": "short",
+            "explanation": "Short: thấp, ngược lại với tall (cao)."
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question_text": "Complete: She ______ (play) football now. (Present Continuous)",
+            "correct": "is playing",
+            "explanation": "Present Continuous: She + is + playing."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question_text": "Write a short paragraph (50-70 words) about your school. Use Present Simple tense and adverbs of frequency.",
+            "sample_answer": "My name is Anna and I go to Sunshine School. My school is big and beautiful. There are 25 classrooms, a large library, and a modern computer room. I study many subjects at school. My favourite subject is English because it is interesting. I usually have English lessons on Monday and Wednesday. I always do my homework after school. I often play badminton with my friends at break time. I love my school very much.",
+            "explanation": "Bài viết sử dụng: Present Simple (go, is, are, study, have, do, play, love), Adverbs of frequency (usually, always, often), There is/are (There are 25 classrooms)."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question_text": "Write a short paragraph (50-70 words) about your house. Use There is/There are and prepositions of place.",
+            "sample_answer": "I live in a small house with my family. There are four rooms in my house: a living room, two bedrooms, and a kitchen. There is also a small garden behind the house. In the living room, there is a big sofa and a TV. The TV is on the wall. My bedroom is upstairs. There is a bed, a desk, and a wardrobe in my bedroom. My desk is next to the window. I love my house because it is comfortable and cozy.",
+            "explanation": "Bài viết sử dụng: There is/There are (There are four rooms, There is a big sofa), Prepositions of place (behind the house, on the wall, next to the window, in my bedroom)."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question_text": "Write a short paragraph (50-70 words) about your best friend. Use adjectives to describe appearance and personality.",
+            "sample_answer": "My best friend is Lucy. She is 12 years old. She is tall and slim. She has long black hair and brown eyes. She has a round face and a small nose. Lucy is very kind and friendly. She is also clever and hard-working. She always helps me with my homework. We often play together at break time. Right now, she is reading a book in the library. I am very happy to have a friend like Lucy.",
+            "explanation": "Bài viết sử dụng: Adjectives for appearance (tall, slim, long black hair, brown eyes, round face, small nose), Adjectives for personality (kind, friendly, clever, hard-working), Present Simple (is, has, helps, play), Present Continuous (is reading), Adverbs of frequency (always, often)."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question_text": "Write a short paragraph (50-70 words) about what you are doing now and what you usually do. Use both Present Simple and Present Continuous.",
+            "sample_answer": "Right now, I am sitting at my desk and doing my English homework. My brother is watching TV in the living room. My mother is cooking dinner in the kitchen. I usually do my homework after school every day. I often study English and Maths in the evening. My brother usually plays games after dinner. My mother always cooks delicious meals for our family. We are a happy family and we love spending time together.",
+            "explanation": "Bài viết kết hợp: Present Continuous (am sitting, am doing, is watching, is cooking) - hành động đang xảy ra, Present Simple (do, study, plays, cooks, are, love) - thói quen và sự thật, Adverbs of frequency (usually, often, always)."
+          }
+        ]
+      }
+    }
+  ]
+}

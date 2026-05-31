@@ -1,0 +1,351 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-unit-5",
+      "name": "Unit 5: Global Warming",
+      "slug": "unit-5-global-warming",
+      "chapter": "Unit 5: Global Warming",
+      "chapter_id": "A11",
+      "lesson_id": 5,
+      "description": "Học về nóng lên toàn cầu, biến đổi khí hậu, và mệnh đề hiện tại phân từ và quá khứ phân từ.",
+      "duration_minutes": 300,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1569163139394-de4798aa62b6?q=80&w=2670&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh11-unit-5-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về nóng lên toàn cầu và biến đổi khí hậu",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh11-unit-5-p1-getting-started.json"
+        },
+        {
+          "id": "anh11-unit-5-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về nóng lên toàn cầu và bảo vệ môi trường",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh11-unit-5-p2-vocabulary.json"
+        },
+        {
+          "id": "anh11-unit-5-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Mệnh đề hiện tại phân từ và quá khứ phân từ (Present and Past Participle Clauses)",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh11-unit-5-p3-grammar.json"
+        },
+        {
+          "id": "anh11-unit-5-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về nguyên nhân, hậu quả và giải pháp cho nóng lên toàn cầu",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh11-unit-5-p4-reading.json"
+        },
+        {
+          "id": "anh11-unit-5-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về nóng lên toàn cầu và hành động chống biến đổi khí hậu",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh11-unit-5-p5-speaking.json"
+        },
+        {
+          "id": "anh11-unit-5-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về tác động của nóng lên toàn cầu",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh11-unit-5-p6-listening.json"
+        },
+        {
+          "id": "anh11-unit-5-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về nguyên nhân và hậu quả của nóng lên toàn cầu",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh11-unit-5-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-5",
+          "name": "Global Warming Vocabulary",
+          "slug": "global-warming-vocabulary",
+          "difficulty": "hard"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 5: Global Warming",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Global warming</td><td class='px-4 py-2'>(n) /ˌɡləʊbl ˈwɔːmɪŋ/</td><td class='px-4 py-2'>Sự nóng lên toàn cầu</td><td class='px-4 py-2'>Global warming is a serious threat.</td></tr><tr><td class='px-4 py-2 font-bold'>Climate change</td><td class='px-4 py-2'>(n) /ˈklaɪmət tʃeɪndʒ/</td><td class='px-4 py-2'>Biến đổi khí hậu</td><td class='px-4 py-2'>Climate change affects everyone.</td></tr><tr><td class='px-4 py-2 font-bold'>Greenhouse gas</td><td class='px-4 py-2'>(n) /ˈɡriːnhaʊs ɡæs/</td><td class='px-4 py-2'>Khí nhà kính</td><td class='px-4 py-2'>Reduce greenhouse gas emissions.</td></tr><tr><td class='px-4 py-2 font-bold'>Carbon footprint</td><td class='px-4 py-2'>(n) /ˈkɑːbən ˈfʊtprɪnt/</td><td class='px-4 py-2'>Lượng khí thải carbon</td><td class='px-4 py-2'>Reduce your carbon footprint.</td></tr><tr><td class='px-4 py-2 font-bold'>Fossil fuel</td><td class='px-4 py-2'>(n) /ˈfɒsl fjuːəl/</td><td class='px-4 py-2'>Nhiên liệu hóa thạch</td><td class='px-4 py-2'>Stop burning fossil fuels.</td></tr><tr><td class='px-4 py-2 font-bold'>Emission</td><td class='px-4 py-2'>(n) /ɪˈmɪʃn/</td><td class='px-4 py-2'>Khí thải</td><td class='px-4 py-2'>Cut carbon emissions.</td></tr><tr><td class='px-4 py-2 font-bold'>Sea level</td><td class='px-4 py-2'>(n) /ˈsiː levl/</td><td class='px-4 py-2'>Mực nước biển</td><td class='px-4 py-2'>Sea levels are rising.</td></tr><tr><td class='px-4 py-2 font-bold'>Melt</td><td class='px-4 py-2'>(v) /melt/</td><td class='px-4 py-2'>Tan chảy</td><td class='px-4 py-2'>Ice caps are melting rapidly.</td></tr><tr><td class='px-4 py-2 font-bold'>Extreme weather</td><td class='px-4 py-2'>(n) /ɪkˈstriːm ˈweðə(r)/</td><td class='px-4 py-2'>Thời tiết cực đoan</td><td class='px-4 py-2'>Extreme weather events increase.</td></tr><tr><td class='px-4 py-2 font-bold'>Deforestation</td><td class='px-4 py-2'>(n) /ˌdiːˌfɒrɪˈsteɪʃn/</td><td class='px-4 py-2'>Sự phá rừng</td><td class='px-4 py-2'>Stop deforestation now.</td></tr><tr><td class='px-4 py-2 font-bold'>Renewable energy</td><td class='px-4 py-2'>(n) /rɪˌnjuːəbl ˈenədʒi/</td><td class='px-4 py-2'>Năng lượng tái tạo</td><td class='px-4 py-2'>Use renewable energy sources.</td></tr><tr><td class='px-4 py-2 font-bold'>Catastrophic</td><td class='px-4 py-2'>(adj) /ˌkætəˈstrɒfɪk/</td><td class='px-4 py-2'>Thảm khốc</td><td class='px-4 py-2'>Catastrophic consequences await us.</td></tr><tr><td class='px-4 py-2 font-bold'>Absorb</td><td class='px-4 py-2'>(v) /əbˈzɔːb/</td><td class='px-4 py-2'>Hấp thụ</td><td class='px-4 py-2'>Trees absorb carbon dioxide.</td></tr><tr><td class='px-4 py-2 font-bold'>Atmosphere</td><td class='px-4 py-2'>(n) /ˈætməsfɪə(r)/</td><td class='px-4 py-2'>Khí quyển</td><td class='px-4 py-2'>Protect the atmosphere.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Causes of global warming (Nguyên nhân nóng lên toàn cầu):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>burning fossil fuels:</strong> đốt nhiên liệu hóa thạch</li><li><strong>deforestation:</strong> phá rừng</li><li><strong>industrial activities:</strong> hoạt động công nghiệp</li><li><strong>vehicle emissions:</strong> khí thải từ phương tiện</li><li><strong>livestock farming:</strong> chăn nuôi gia súc</li><li><strong>waste disposal:</strong> xử lý chất thải</li></ul><p><strong>Effects of global warming (Hậu quả nóng lên toàn cầu):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>rising temperatures:</strong> nhiệt độ tăng</li><li><strong>melting ice caps:</strong> băng tan</li><li><strong>rising sea levels:</strong> mực nước biển dâng</li><li><strong>extreme weather:</strong> thời tiết cực đoan</li><li><strong>species extinction:</strong> loài tuyệt chủng</li><li><strong>food shortages:</strong> thiếu lương thực</li></ul><p><strong>Collocations về biến đổi khí hậu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>combat climate change:</strong> chống biến đổi khí hậu</li><li><strong>reduce emissions:</strong> giảm khí thải</li><li><strong>adopt green practices:</strong> áp dụng thực hành xanh</li><li><strong>raise awareness:</strong> nâng cao nhận thức</li><li><strong>take urgent action:</strong> hành động khẩn cấp</li><li><strong>protect the environment:</strong> bảo vệ môi trường</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ pháp: Mệnh đề hiện tại phân từ và quá khứ phân từ",
+              "content": "<h3>A. Present Participle Clauses (Mệnh đề hiện tại phân từ)</h3><p><strong>Định nghĩa:</strong> Mệnh đề hiện tại phân từ bắt đầu bằng V-ing, dùng để rút gọn mệnh đề quan hệ hoặc mệnh đề trạng ngữ.</p><p><strong>1. Rút gọn mệnh đề quan hệ chủ động (Active)</strong></p><p>Khi mệnh đề quan hệ ở dạng chủ động, ta có thể bỏ đại từ quan hệ và dùng V-ing:</p><ul class='list-disc pl-5 space-y-2'><li>The gases <strong>which/that cause</strong> global warming are called greenhouse gases.<br>→ The gases <strong>causing</strong> global warming are called greenhouse gases.<br>(Các loại khí gây ra nóng lên toàn cầu được gọi là khí nhà kính.)</li><li>People <strong>who live</strong> in coastal areas face flooding risks.<br>→ People <strong>living</strong> in coastal areas face flooding risks.<br>(Người sống ở vùng ven biển đối mặt với nguy cơ lũ lụt.)</li><li>The ice caps <strong>which are melting</strong> rapidly cause sea levels to rise.<br>→ The ice caps <strong>melting</strong> rapidly cause sea levels to rise.<br>(Các tảng băng đang tan nhanh làm mực nước biển dâng.)</li></ul><p><strong>2. Rút gọn mệnh đề trạng ngữ (Adverbial clauses)</strong></p><p><strong>a) Chỉ thời gian (Time):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>When/While/After</strong> + S + V → V-ing...</li><li>When we burn fossil fuels, we release CO2.<br>→ <strong>Burning</strong> fossil fuels, we release CO2.<br>(Khi đốt nhiên liệu hóa thạch, chúng ta thải ra CO2.)</li><li>After they cut down trees, they destroy habitats.<br>→ <strong>Cutting down</strong> trees, they destroy habitats.<br>(Sau khi chặt cây, họ phá hủy môi trường sống.)</li></ul><p><strong>b) Chỉ nguyên nhân (Cause/Reason):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Because/Since/As</strong> + S + V → V-ing...</li><li>Because I am worried about climate change, I use less plastic.<br>→ <strong>Being worried</strong> about climate change, I use less plastic.<br>(Vì lo lắng về biến đổi khí hậu, tôi dùng ít nhựa hơn.)</li><li>Since we don't have enough information, we can't make a decision.<br>→ <strong>Not having</strong> enough information, we can't make a decision.<br>(Vì không có đủ thông tin, chúng ta không thể quyết định.)</li></ul><p><strong>c) Chỉ kết quả (Result):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Temperatures rise, <strong>causing</strong> ice to melt.<br>(Nhiệt độ tăng, gây ra băng tan.)</li><li>Forests are destroyed, <strong>leading to</strong> species extinction.<br>(Rừng bị phá hủy, dẫn đến loài tuyệt chủng.)</li></ul><h3>B. Past Participle Clauses (Mệnh đề quá khứ phân từ)</h3><p><strong>Định nghĩa:</strong> Mệnh đề quá khứ phân từ bắt đầu bằng V3/ed, dùng để rút gọn mệnh đề quan hệ hoặc mệnh đề trạng ngữ ở dạng bị động.</p><p><strong>1. Rút gọn mệnh đề quan hệ bị động (Passive)</strong></p><p>Khi mệnh đề quan hệ ở dạng bị động, ta có thể bỏ đại từ quan hệ và 'be', giữ lại V3/ed:</p><ul class='list-disc pl-5 space-y-2'><li>The gases <strong>which are released</strong> by factories pollute the air.<br>→ The gases <strong>released</strong> by factories pollute the air.<br>(Các loại khí được thải ra từ nhà máy gây ô nhiễm không khí.)</li><li>The report <strong>which was published</strong> last year shows alarming data.<br>→ The report <strong>published</strong> last year shows alarming data.<br>(Báo cáo được công bố năm ngoái cho thấy dữ liệu đáng báo động.)</li><li>Countries <strong>which are affected</strong> by climate change need support.<br>→ Countries <strong>affected</strong> by climate change need support.<br>(Các nước bị ảnh hưởng bởi biến đổi khí hậu cần hỗ trợ.)</li></ul><p><strong>2. Rút gọn mệnh đề trạng ngữ bị động</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>When/If</strong> + S + be + V3/ed → V3/ed...</li><li>When it is heated, ice melts.<br>→ <strong>Heated</strong>, ice melts.<br>(Khi được đun nóng, băng tan.)</li><li>If we are given more time, we can find better solutions.<br>→ <strong>Given</strong> more time, we can find better solutions.<br>(Nếu được cho thêm thời gian, chúng ta có thể tìm giải pháp tốt hơn.)</li></ul><h3>C. Phân biệt Present Participle và Past Participle</h3><table class='min-w-full divide-y divide-gray-200 mt-4'><thead><tr><th class='px-4 py-2 text-left'>Present Participle (V-ing)</th><th class='px-4 py-2 text-left'>Past Participle (V3/ed)</th></tr></thead><tbody><tr><td class='px-4 py-2'>Chủ động (Active)</td><td class='px-4 py-2'>Bị động (Passive)</td></tr><tr><td class='px-4 py-2'>The gases <strong>causing</strong> pollution...</td><td class='px-4 py-2'>The gases <strong>released</strong> by factories...</td></tr><tr><td class='px-4 py-2'>People <strong>living</strong> in cities...</td><td class='px-4 py-2'>People <strong>affected</strong> by floods...</td></tr><tr><td class='px-4 py-2'><strong>Burning</strong> coal releases CO2.</td><td class='px-4 py-2'><strong>Heated</strong>, water evaporates.</td></tr></tbody></table><p class='mt-4'><strong>Lưu ý quan trọng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chủ ngữ của mệnh đề rút gọn phải GIỐNG chủ ngữ của mệnh đề chính</li><li>Nếu chủ động → dùng V-ing</li><li>Nếu bị động → dùng V3/ed</li><li>Phủ định: <strong>Not</strong> + V-ing / V3/ed</li></ul><p><strong>Ví dụ so sánh:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Knowing</strong> the risks, we must act now. (Chủ động - chúng ta biết)<br><strong>Known</strong> for its beauty, the island attracts tourists. (Bị động - hòn đảo được biết đến)</li><li><strong>Understanding</strong> the problem, she proposed a solution. (Chủ động)<br><strong>Understood</strong> correctly, the theory is simple. (Bị động)</li></ul>"
+            },
+            {
+              "heading": "4. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Giới thiệu về nóng lên toàn cầu và biến đổi khí hậu.</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về hiện tượng nóng lên toàn cầu</li><li>Thảo luận về nguyên nhân và hậu quả</li><li>Từ vựng về khí hậu và môi trường</li><li>Chia sẻ về hành động bảo vệ môi trường</li></ul>"
+            },
+            {
+              "heading": "5. II. Language",
+              "content": "<p><strong>A. Pronunciation: Intonation in Yes-No questions and Wh-questions</strong></p><p>Luyện phát âm ngữ điệu trong câu hỏi Yes-No và câu hỏi Wh-</p><p><strong>B. Vocabulary:</strong> Global warming and climate change</p><ul class='list-disc pl-5 space-y-2'><li>Words related to global warming</li><li>Climate change vocabulary</li><li>Environmental protection terms</li><li>Renewable energy and sustainability</li></ul><p><strong>C. Grammar:</strong> Present participle and past participle clauses</p>"
+            },
+            {
+              "heading": "6. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Global warming: Causes, effects, and solutions</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu văn bản về nóng lên toàn cầu</li><li>Tìm thông tin chi tiết về nguyên nhân và hậu quả</li><li>Hiểu các giải pháp chống biến đổi khí hậu</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li></ul><p><strong>Nội dung:</strong> Bài đọc giới thiệu về hiện tượng nóng lên toàn cầu, các nguyên nhân chính (đốt nhiên liệu hóa thạch, phá rừng), hậu quả nghiêm trọng (băng tan, mực nước biển dâng, thời tiết cực đoan), và các giải pháp cần thiết (năng lượng tái tạo, giảm khí thải, trồng cây).</p>"
+            },
+            {
+              "heading": "7. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Talking about global warming and climate action</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả nguyên nhân và hậu quả của nóng lên toàn cầu</li><li>Nói về các giải pháp chống biến đổi khí hậu</li><li>Thảo luận về trách nhiệm cá nhân và tập thể</li><li>Đưa ra ý kiến về hành động khẩn cấp</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Burning fossil fuels causes/leads to...</li><li>The gases released by... pollute...</li><li>Countries affected by climate change...</li><li>We must take urgent action...</li><li>Reducing emissions is essential...</li><li>If we don't act now, ...</li></ul>"
+            },
+            {
+              "heading": "8. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> A lecture about the impact of global warming</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu thông tin về tác động của nóng lên toàn cầu</li><li>Điền thông tin còn thiếu về nguyên nhân và hậu quả</li><li>Trả lời câu hỏi chi tiết về giải pháp</li><li>Ghi chú các ý quan trọng về hành động khí hậu</li></ul>"
+            },
+            {
+              "heading": "9. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing about the causes and effects of global warming</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đoạn văn về nóng lên toàn cầu</li><li>Sử dụng present participle và past participle clauses</li><li>Trình bày nguyên nhân, hậu quả và giải pháp</li><li>Sử dụng từ nối để liên kết ý</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Introduction: Giới thiệu về nóng lên toàn cầu</li><li>Body: Nguyên nhân (burning fossil fuels, causing...), Hậu quả (ice caps melting, leading to...), Giải pháp</li><li>Conclusion: Kết luận về tầm quan trọng của hành động</li></ul><p><strong>Useful structures:</strong> Burning..., we release...; The gases released...; Countries affected...; Leading to...; Caused by...</p>"
+            },
+            {
+              "heading": "10. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Discussing environmental responsibility and climate action</p><p><strong>Culture:</strong> Global efforts to combat climate change</p><ul class='list-disc pl-5 space-y-2'><li>So sánh nỗ lực chống biến đổi khí hậu ở các quốc gia</li><li>Tìm hiểu về các hiệp định quốc tế (Paris Agreement)</li><li>Thảo luận về vai trò của cá nhân và chính phủ</li><li>Các phong trào môi trường toàn cầu</li></ul><p><strong>CLIL (Environmental Science):</strong> Understanding the greenhouse effect</p><ul class='list-disc pl-5 space-y-2'><li>Hiệu ứng nhà kính và cơ chế hoạt động</li><li>Vai trò của CO2 và các khí nhà kính khác</li><li>Tác động của hoạt động con người đến khí hậu</li></ul>"
+            },
+            {
+              "heading": "11. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vocabulary: Global warming, climate change, emissions, renewable energy</li><li>Pronunciation: Intonation in questions</li><li>Grammar: Present participle and past participle clauses</li><li>Skills: Reading, Speaking, Listening, Writing</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng sử dụng từ vựng và ngữ pháp đã học, khả năng nói và viết về nóng lên toàn cầu và biến đổi khí hậu</p>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> Climate Action Campaign</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghiên cứu về tác động của biến đổi khí hậu ở địa phương</li><li>Xác định các nguyên nhân chính gây ra khí thải</li><li>Đề xuất các hành động cụ thể để giảm carbon footprint</li><li>Tạo chiến dịch tuyên truyền (poster, video, social media)</li><li>Tổ chức hoạt động nâng cao nhận thức trong trường</li><li>Trình bày kết quả và kêu gọi hành động</li></ul><p><strong>Yêu cầu:</strong> Sử dụng participle clauses trong bài thuyết trình (The gases released..., Countries affected..., Burning fossil fuels...)</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Participle Clauses",
+            "method": "<p>Reduce relative clauses or adverbial clauses using present or past participles.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Global warming is one of the most serious environmental challenges facing humanity today. It refers to the long-term increase in Earth's average temperature caused by human activities. The main cause is the burning of fossil fuels such as coal, oil, and gas, which releases large amounts of carbon dioxide and other greenhouse gases into the atmosphere. These gases trap heat from the sun, causing temperatures to rise.\n\nThe effects of global warming are already visible around the world. Ice caps and glaciers are melting rapidly, leading to rising sea levels. Coastal cities and low-lying islands face the risk of flooding. Extreme weather events, including hurricanes, droughts, and heat waves, are becoming more frequent and severe. Many plant and animal species are struggling to adapt to the changing climate, and some face extinction.\n\nTo combat global warming, urgent action is needed at all levels. Governments must reduce greenhouse gas emissions by switching to renewable energy sources like solar and wind power. Individuals can help by reducing their carbon footprint through simple actions such as using public transport, saving energy at home, and eating less meat. Scientists warn that if we don't act now, the consequences will be catastrophic for future generations.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Global warming is not a serious problem",
+                  "Global warming is caused by human activities and requires urgent action",
+                  "Only governments can solve global warming",
+                  "Global warming only affects polar regions"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về nóng lên toàn cầu do hoạt động con người gây ra và cần hành động khẩn cấp."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, what is the main cause of global warming?",
+                "options": [
+                  "Natural climate cycles",
+                  "Volcanic eruptions",
+                  "Burning fossil fuels",
+                  "Solar radiation"
+                ],
+                "correct": 2,
+                "explanation": "Nguyên nhân chính là đốt nhiên liệu hóa thạch."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'catastrophic' in paragraph 3 is closest in meaning to ______.",
+                "options": [
+                  "beneficial",
+                  "disastrous",
+                  "minor",
+                  "positive"
+                ],
+                "correct": 1,
+                "explanation": "Catastrophic = disastrous (thảm khốc, tai họa)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What is one effect of melting ice caps mentioned in the passage?",
+                "options": [
+                  "Colder temperatures",
+                  "Rising sea levels",
+                  "More ice formation",
+                  "Decreased rainfall"
+                ],
+                "correct": 1,
+                "explanation": "Băng tan dẫn đến mực nước biển dâng."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, what can individuals do to help?",
+                "options": [
+                  "Nothing, only governments can help",
+                  "Use more fossil fuels",
+                  "Reduce their carbon footprint through simple actions",
+                  "Move to colder regions"
+                ],
+                "correct": 2,
+                "explanation": "Cá nhân có thể giúp bằng cách giảm lượng khí thải carbon qua các hành động đơn giản."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "The gases ______ by factories cause air pollution.",
+            "options": ["release", "releasing", "released", "to release"],
+            "correct": 2,
+            "explanation": "Dùng past participle (released) để rút gọn mệnh đề quan hệ bị động."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "______ fossil fuels, we release greenhouse gases.",
+            "options": ["Burn", "Burning", "Burned", "To burn"],
+            "correct": 1,
+            "explanation": "Dùng present participle (Burning) để rút gọn mệnh đề trạng ngữ chủ động."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "______ is the increase in Earth's average temperature.",
+            "options": ["Global warm", "Global warming", "Globally warm", "Globe warming"],
+            "correct": 1,
+            "explanation": "Global warming: sự nóng lên toàn cầu."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "Countries ______ by climate change need international support.",
+            "options": ["affect", "affecting", "affected", "to affect"],
+            "correct": 2,
+            "explanation": "Dùng past participle (affected) để rút gọn mệnh đề quan hệ bị động."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "We need to reduce our carbon ______.",
+            "options": ["foot", "footprint", "print", "step"],
+            "correct": 1,
+            "explanation": "Carbon footprint: lượng khí thải carbon."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "Ice caps are ______ rapidly due to global warming.",
+            "options": ["melt", "melting", "melted", "to melt"],
+            "correct": 1,
+            "explanation": "Dùng present participle (melting) trong mệnh đề quan hệ chủ động hoặc present continuous."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ about the environment, she uses less plastic.",
+            "options": ["Worry", "Worrying", "Worried", "To worry"],
+            "correct": 2,
+            "explanation": "Dùng past participle (Worried) vì 'she' bị lo lắng (bị động về mặt cảm xúc)."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "We should use ______ energy sources like solar and wind power.",
+            "options": ["renew", "renewable", "renewal", "renewing"],
+            "correct": 1,
+            "explanation": "Renewable energy: năng lượng tái tạo (cần tính từ)."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "The report ______ last year shows alarming data.",
+            "options": ["publish", "publishing", "published", "to publish"],
+            "correct": 2,
+            "explanation": "Dùng past participle (published) để rút gọn mệnh đề quan hệ bị động."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______ temperatures cause ice to melt.",
+            "options": ["Rise", "Rising", "Risen", "To rise"],
+            "correct": 1,
+            "explanation": "Dùng present participle (Rising) để rút gọn mệnh đề quan hệ chủ động."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Present participle clauses are used for active meanings.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Mệnh đề hiện tại phân từ (V-ing) dùng cho nghĩa chủ động."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "Past participle clauses are used for passive meanings.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Mệnh đề quá khứ phân từ (V3/ed) dùng cho nghĩa bị động."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Burning fossil fuels is the main cause of global warming.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Đốt nhiên liệu hóa thạch là nguyên nhân chính gây nóng lên toàn cầu."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call gases that trap heat in the atmosphere? (two words)",
+            "correct": "greenhouse gases",
+            "explanation": "Greenhouse gases: khí nhà kính - các loại khí giữ nhiệt trong khí quyển."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: The gases ______ by cars pollute the air. (released)",
+            "correct": "released",
+            "explanation": "Dùng past participle (released) để rút gọn mệnh đề quan hệ bị động."
+          }
+        ]
+      }
+    }
+  ]
+}

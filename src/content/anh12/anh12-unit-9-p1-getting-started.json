@@ -1,0 +1,214 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-9-p1",
+  "name": "Part 1: Getting Started",
+  "slug": "p1-getting-started",
+  "description": "Giới thiệu chủ đề về con đường sự nghiệp",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Getting Started: Career Paths",
+      "sections": [
+        {
+          "heading": "1. Tóm tắt lý thuyết",
+          "content": "<div class='bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-blue-900 dark:text-blue-300'>💼 Con đường sự nghiệp - Career Paths</h3><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-blue-700 dark:text-blue-400 mb-3'>Khái niệm chính:</h4><ul class='list-disc pl-6 space-y-2'><li><strong>Career Path:</strong> Con đường sự nghiệp - lộ trình phát triển nghề nghiệp của một người</li><li><strong>Career Planning:</strong> Lập kế hoạch nghề nghiệp - quá trình xác định mục tiêu và bước đi</li><li><strong>Job Skills:</strong> Kỹ năng nghề nghiệp - năng lực cần thiết cho công việc</li><li><strong>Career Development:</strong> Phát triển sự nghiệp - quá trình nâng cao năng lực và thăng tiến</li><li><strong>Professional Growth:</strong> Tăng trưởng chuyên môn - sự phát triển trong lĩnh vực chuyên môn</li></ul></div><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-indigo-700 dark:text-indigo-400 mb-3'>Các bước lập kế hoạch nghề nghiệp:</h4><ol class='list-decimal pl-6 space-y-1'><li>Self-assessment (Tự đánh giá bản thân)</li><li>Career exploration (Khám phá nghề nghiệp)</li><li>Goal setting (Đặt mục tiêu)</li><li>Skill development (Phát triển kỹ năng)</li><li>Networking (Xây dựng mạng lưới)</li><li>Job search (Tìm kiếm việc làm)</li><li>Continuous learning (Học tập liên tục)</li></ol></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ về Career Paths",
+          "content": "<div class='space-y-4'><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg border-l-4 border-blue-500'><p class='font-bold text-blue-800 dark:text-blue-300 mb-3'>Example 1: Starting Your Career Journey</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> When planning your career, you need to look forward to new opportunities and challenges. Many young people come up with creative ideas about their future professions. It's important to get on with your colleagues and supervisors from the start. If you want to succeed, you must catch up with the latest industry trends and technologies. To advance in your career, you should keep up with professional development courses. Sometimes you'll need to put up with difficult situations at work. Don't let your motivation run out of energy - stay focused on your goals. Look up to successful professionals in your field and learn from their experiences.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Khi lập kế hoạch sự nghiệp, bạn cần mong chờ những cơ hội và thách thức mới. Nhiều người trẻ nghĩ ra những ý tưởng sáng tạo về nghề nghiệp tương lai của họ. Quan trọng là hòa hợp với đồng nghiệp và cấp trên ngay từ đầu. Nếu muốn thành công, bạn phải theo kịp các xu hướng và công nghệ mới nhất trong ngành. Để thăng tiến trong sự nghiệp, bạn nên theo kịp các khóa học phát triển chuyên môn. Đôi khi bạn sẽ cần chịu đựng những tình huống khó khăn tại nơi làm việc. Đừng để động lực của bạn cạn kiệt - hãy tập trung vào mục tiêu. Ngưỡng mộ các chuyên gia thành công trong lĩnh vực của bạn và học hỏi từ kinh nghiệm của họ.</p></div></div><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg border-l-4 border-green-500'><p class='font-bold text-green-800 dark:text-green-300 mb-3'>Example 2: Building Essential Skills</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> To build a successful career, you must face up to your weaknesses and work on improving them. Your performance should live up to your employer's expectations. If you make mistakes, you need to make up for them by working harder and learning from the experience. Employers look forward to hiring candidates with strong communication skills. You should come up with innovative solutions to workplace problems. Getting on with team members is crucial for project success. To catch up with industry standards, attend workshops and conferences regularly. Keep up with technological changes in your field. You may have to put up with long hours when starting your career. Don't run out of patience when facing challenges.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Để xây dựng sự nghiệp thành công, bạn phải đối mặt với điểm yếu của mình và cải thiện chúng. Hiệu suất của bạn nên đáp ứng kỳ vọng của nhà tuyển dụng. Nếu mắc lỗi, bạn cần bù đắp bằng cách làm việc chăm chỉ hơn và học hỏi từ kinh nghiệm. Nhà tuyển dụng mong chờ tuyển dụng ứng viên có kỹ năng giao tiếp tốt. Bạn nên đưa ra giải pháp sáng tạo cho các vấn đề tại nơi làm việc. Hòa hợp với các thành viên trong nhóm rất quan trọng cho sự thành công của dự án. Để theo kịp tiêu chuẩn ngành, hãy tham dự hội thảo và hội nghị thường xuyên. Theo kịp những thay đổi công nghệ trong lĩnh vực của bạn. Bạn có thể phải chịu đựng làm việc nhiều giờ khi bắt đầu sự nghiệp. Đừng hết kiên nhẫn khi đối mặt với thách thức.</p></div></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg border-l-4 border-purple-500'><p class='font-bold text-purple-800 dark:text-purple-300 mb-3'>Example 3: Networking and Professional Relationships</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Professional networking is something everyone should look forward to. You need to come up with strategies to expand your professional network. Getting on with people from different departments can open new opportunities. To catch up with industry leaders, attend networking events and join professional associations. Keep up with your contacts by staying in touch regularly. Sometimes you'll have to put up with boring networking events, but they're valuable for career growth. Don't let your networking efforts run out of steam. Look up to mentors who can guide your career development. Face up to the challenge of meeting new people. Your networking skills should live up to professional standards. Make up for missed connections by following up promptly.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Xây dựng mạng lưới chuyên nghiệp là điều mọi người nên mong chờ. Bạn cần nghĩ ra các chiến lược để mở rộng mạng lưới chuyên nghiệp của mình. Hòa hợp với mọi người từ các phòng ban khác nhau có thể mở ra cơ hội mới. Để theo kịp các nhà lãnh đạo ngành, hãy tham dự các sự kiện kết nối và tham gia hiệp hội chuyên nghiệp. Duy trì liên lạc với các mối quan hệ bằng cách giữ liên lạc thường xuyên. Đôi khi bạn sẽ phải chịu đựng các sự kiện kết nối nhàm chán, nhưng chúng có giá trị cho sự phát triển nghề nghiệp. Đừng để nỗ lực xây dựng mạng lưới của bạn mất đi động lực. Ngưỡng mộ những người cố vấn có thể hướng dẫn sự phát triển nghề nghiệp của bạn. Đối mặt với thách thức gặp gỡ người mới. Kỹ năng xây dựng mạng lưới của bạn nên đáp ứng tiêu chuẩn chuyên nghiệp. Bù đắp cho các kết nối bị bỏ lỡ bằng cách theo dõi kịp thời.</p></div></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg border-l-4 border-orange-500'><p class='font-bold text-orange-800 dark:text-orange-300 mb-3'>Example 4: Career Advancement and Growth</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> As you progress in your career, look forward to taking on more responsibilities. Come up with proposals for new projects to show initiative. Get on with senior management to increase your visibility. Catch up with the skills required for higher positions through training. Keep up with industry certifications to stay competitive. You might have to put up with increased pressure as you advance. Don't run out of ambition - set higher goals for yourself. Look up to leaders in your organization and learn their strategies. Face up to the reality that advancement requires hard work. Your achievements should live up to promotion criteria. Make up for any skill gaps through continuous learning and development.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Khi tiến bộ trong sự nghiệp, hãy mong chờ đảm nhận nhiều trách nhiệm hơn. Đưa ra đề xuất cho các dự án mới để thể hiện sáng kiến. Hòa hợp với ban quản lý cấp cao để tăng khả năng hiển thị của bạn. Theo kịp các kỹ năng cần thiết cho vị trí cao hơn thông qua đào tạo. Theo kịp các chứng chỉ ngành để duy trì tính cạnh tranh. Bạn có thể phải chịu đựng áp lực tăng lên khi thăng tiến. Đừng hết tham vọng - đặt mục tiêu cao hơn cho bản thân. Ngưỡng mộ các nhà lãnh đạo trong tổ chức của bạn và học hỏi chiến lược của họ. Đối mặt với thực tế rằng thăng tiến đòi hỏi làm việc chăm chỉ. Thành tích của bạn nên đáp ứng tiêu chí thăng chức. Bù đắp cho bất kỳ khoảng trống kỹ năng nào thông qua học tập và phát triển liên tục.</p></div></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg border-l-4 border-pink-500'><p class='font-bold text-pink-800 dark:text-pink-300 mb-3'>Example 5: Work-Life Balance and Career Satisfaction</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> A successful career isn't just about advancement - it's also about satisfaction. Look forward to each workday with enthusiasm rather than dread. Come up with ways to maintain work-life balance. Get on with your work efficiently so you have time for personal life. Catch up with family and friends regularly despite your busy schedule. Keep up with hobbies and interests outside of work. You shouldn't have to put up with a job that makes you miserable. If your energy runs out of steam constantly, it might be time for a change. Look up to professionals who have achieved balance in their lives. Face up to the fact that career success means different things to different people. Your career choices should live up to your personal values. Make up for time spent at work by quality time with loved ones.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Một sự nghiệp thành công không chỉ là về thăng tiến - mà còn về sự hài lòng. Mong chờ mỗi ngày làm việc với nhiệt tình thay vì sợ hãi. Nghĩ ra cách duy trì cân bằng công việc-cuộc sống. Làm việc hiệu quả để có thời gian cho cuộc sống cá nhân. Gặp gỡ gia đình và bạn bè thường xuyên mặc dù lịch trình bận rộn. Theo kịp sở thích và mối quan tâm ngoài công việc. Bạn không nên phải chịu đựng một công việc khiến bạn khổ sở. Nếu năng lượng của bạn liên tục cạn kiệt, có thể đã đến lúc thay đổi. Ngưỡng mộ các chuyên gia đã đạt được sự cân bằng trong cuộc sống của họ. Đối mặt với thực tế rằng thành công trong sự nghiệp có ý nghĩa khác nhau đối với những người khác nhau. Lựa chọn nghề nghiệp của bạn nên phù hợp với giá trị cá nhân của bạn. Bù đắp cho thời gian dành cho công việc bằng thời gian chất lượng với những người thân yêu.</p></div></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p1-ex1",
+        "type": "mcq",
+        "question": "What is 'career planning'?",
+        "options": ["Quitting your job", "The process of setting career goals and steps", "Working overtime", "Changing jobs frequently"],
+        "correct": 1,
+        "explanation": "Career planning là lập kế hoạch nghề nghiệp, quá trình xác định mục tiêu và bước đi."
+      },
+      {
+        "id": "p1-ex2",
+        "type": "mcq",
+        "question": "What does 'look forward to' mean?",
+        "options": ["To look ahead", "To anticipate with pleasure", "To look back", "To ignore"],
+        "correct": 1,
+        "explanation": "'Look forward to' nghĩa là mong chờ, trông đợi với niềm vui."
+      },
+      {
+        "id": "p1-ex3",
+        "type": "mcq",
+        "question": "What does 'come up with' mean?",
+        "options": ["To arrive", "To think of or produce an idea", "To climb", "To fail"],
+        "correct": 1,
+        "explanation": "'Come up with' nghĩa là nghĩ ra, đưa ra ý tưởng."
+      },
+      {
+        "id": "p1-ex4",
+        "type": "mcq",
+        "question": "What does 'get on with' mean?",
+        "options": ["To start", "To have a good relationship with", "To finish", "To avoid"],
+        "correct": 1,
+        "explanation": "'Get on with' nghĩa là hòa hợp, có quan hệ tốt với ai đó."
+      },
+      {
+        "id": "p1-ex5",
+        "type": "mcq",
+        "question": "According to Example 1, what should you do to succeed?",
+        "options": ["Ignore trends", "Catch up with latest industry trends", "Work alone", "Avoid challenges"],
+        "correct": 1,
+        "explanation": "Bạn phải theo kịp các xu hướng mới nhất trong ngành để thành công."
+      },
+      {
+        "id": "p1-ex6",
+        "type": "mcq",
+        "question": "What does 'keep up with' mean?",
+        "options": ["To stop", "To stay at the same level as", "To fall behind", "To quit"],
+        "correct": 1,
+        "explanation": "'Keep up with' nghĩa là theo kịp, duy trì cùng mức độ."
+      },
+      {
+        "id": "p1-ex7",
+        "type": "mcq",
+        "question": "What does 'put up with' mean?",
+        "options": ["To enjoy", "To tolerate or endure", "To celebrate", "To reject"],
+        "correct": 1,
+        "explanation": "'Put up with' nghĩa là chịu đựng, dung thứ."
+      },
+      {
+        "id": "p1-ex8",
+        "type": "mcq",
+        "question": "What does 'run out of' mean?",
+        "options": ["To have plenty", "To use up completely", "To save", "To increase"],
+        "correct": 1,
+        "explanation": "'Run out of' nghĩa là cạn kiệt, hết."
+      },
+      {
+        "id": "p1-ex9",
+        "type": "mcq",
+        "question": "What does 'look up to' mean?",
+        "options": ["To search", "To admire and respect", "To look down", "To ignore"],
+        "correct": 1,
+        "explanation": "'Look up to' nghĩa là ngưỡng mộ, tôn trọng."
+      },
+      {
+        "id": "p1-ex10",
+        "type": "mcq",
+        "question": "What is the first step in career planning?",
+        "options": ["Job search", "Self-assessment", "Networking", "Retirement"],
+        "correct": 1,
+        "explanation": "Bước đầu tiên là tự đánh giá bản thân (self-assessment)."
+      },
+      {
+        "id": "p1-ex11",
+        "type": "msq",
+        "question_text": "Decide if these statements are True or False:",
+        "options": [
+          "Career planning involves setting goals and steps.",
+          "You should ignore your weaknesses in your career.",
+          "Networking is important for career growth.",
+          "Work-life balance doesn't matter for career success."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Lập kế hoạch nghề nghiệp bao gồm đặt mục tiêu. b) False - Bạn phải đối mặt với điểm yếu. c) True - Xây dựng mạng lưới quan trọng. d) False - Cân bằng công việc-cuộc sống rất quan trọng."
+      },
+      {
+        "id": "p1-ex12",
+        "type": "msq",
+        "question_text": "Mark True or False about three-word phrasal verbs:",
+        "options": [
+          "'Look forward to' means to anticipate with pleasure.",
+          "'Come up with' means to fail.",
+          "'Get on with' means to have good relationships.",
+          "'Run out of' means to have plenty."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Mong chờ. b) False - Nghĩa là nghĩ ra. c) True - Hòa hợp. d) False - Nghĩa là cạn kiệt."
+      },
+      {
+        "id": "p1-ex13",
+        "type": "msq",
+        "question_text": "Based on the examples, decide True or False:",
+        "options": [
+          "You should catch up with industry trends.",
+          "Networking events are always exciting.",
+          "Face up to your weaknesses to improve.",
+          "Career success means the same thing to everyone."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Theo kịp xu hướng. b) False - Đôi khi nhàm chán nhưng có giá trị. c) True - Đối mặt với điểm yếu. d) False - Có ý nghĩa khác nhau."
+      },
+      {
+        "id": "p1-ex14",
+        "type": "sa",
+        "question_text": "Complete: The process of setting career goals is called career _____. (one word)",
+        "correct": "planning",
+        "explanation": "Career planning - lập kế hoạch nghề nghiệp."
+      },
+      {
+        "id": "p1-ex15",
+        "type": "sa",
+        "question_text": "Complete: To anticipate with pleasure = look _____ to (two words)",
+        "correct": "forward to",
+        "explanation": "'Look forward to' - mong chờ."
+      },
+      {
+        "id": "p1-ex16",
+        "type": "sa",
+        "question_text": "What is the Vietnamese meaning of 'come up with'?",
+        "correct": "nghĩ ra",
+        "explanation": "'Come up with' nghĩa là nghĩ ra, đưa ra ý tưởng."
+      },
+      {
+        "id": "p1-ex17",
+        "type": "sa",
+        "question_text": "Complete: To have good relationships = get _____ with (two words)",
+        "correct": "on with",
+        "explanation": "'Get on with' - hòa hợp với."
+      },
+      {
+        "id": "p1-ex18",
+        "type": "mcq",
+        "question": "According to Example 2, what should you do if you make mistakes?",
+        "options": [
+          "Ignore them",
+          "Make up for them by working harder",
+          "Blame others",
+          "Quit your job"
+        ],
+        "correct": 1,
+        "explanation": "Bạn cần bù đắp bằng cách làm việc chăm chỉ hơn."
+      },
+      {
+        "id": "p1-ex19",
+        "type": "mcq",
+        "question": "What does 'face up to' mean?",
+        "options": [
+          "To avoid",
+          "To confront or accept reality",
+          "To run away",
+          "To ignore"
+        ],
+        "correct": 1,
+        "explanation": "'Face up to' nghĩa là đối mặt, chấp nhận thực tế."
+      },
+      {
+        "id": "p1-ex20",
+        "type": "mcq",
+        "question": "According to Example 5, what is important for career satisfaction?",
+        "options": [
+          "Only advancement",
+          "Work-life balance and personal values",
+          "Working 24/7",
+          "Ignoring family"
+        ],
+        "correct": 1,
+        "explanation": "Cân bằng công việc-cuộc sống và giá trị cá nhân quan trọng cho sự hài lòng."
+      }
+    ]
+  }
+}

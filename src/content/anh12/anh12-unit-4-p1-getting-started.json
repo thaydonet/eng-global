@@ -1,0 +1,204 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-4-p1",
+  "name": "Part 1: Getting Started",
+  "slug": "p1-getting-started",
+  "description": "Giới thiệu chủ đề về đô thị hóa và tác động",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Getting Started: Urbanisation and Its Effects",
+      "sections": [
+        {
+          "heading": "1. Tóm tắt lý thuyết",
+          "content": "<div class='bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-blue-900 dark:text-blue-300'>🏙️ Đô thị hóa - Urbanisation</h3><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-blue-700 dark:text-blue-400 mb-3'>Khái niệm chính:</h4><ul class='list-disc pl-6 space-y-2'><li><strong>Urbanisation (Đô thị hóa):</strong> Quá trình dân số di chuyển từ nông thôn đến thành phố, làm tăng tỷ lệ dân số đô thị</li><li><strong>Urban areas (Khu vực đô thị):</strong> Các thành phố và khu vực có mật độ dân cư cao</li><li><strong>Rural areas (Khu vực nông thôn):</strong> Vùng nông nghiệp, mật độ dân cư thấp</li><li><strong>Migration (Di cư):</strong> Sự di chuyển của người dân từ nơi này sang nơi khác</li><li><strong>Infrastructure (Cơ sở hạ tầng):</strong> Hệ thống giao thông, điện nước, y tế, giáo dục</li></ul></div><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-green-700 dark:text-green-400 mb-3'>Tại sao đô thị hóa xảy ra?</h4><ul class='list-disc pl-6 space-y-1'><li>Tìm kiếm cơ hội việc làm tốt hơn</li><li>Tiếp cận giáo dục và y tế chất lượng cao</li><li>Mức lương cao hơn ở thành phố</li><li>Cơ sở vật chất và tiện ích hiện đại</li><li>Nhiều hoạt động giải trí và văn hóa</li></ul></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ về Urbanisation",
+          "content": "<div class='space-y-4'><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg border-l-4 border-blue-500'><p class='font-bold text-blue-800 dark:text-blue-300 mb-3'>Example 1: Migration to Cities</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> More and more people have moved from rural areas to big cities like Hanoi and Ho Chi Minh City in search of better job opportunities. The urban population has increased rapidly over the past two decades.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Ngày càng nhiều người di chuyển từ nông thôn đến các thành phố lớn như Hà Nội và TP. Hồ Chí Minh để tìm kiếm cơ hội việc làm tốt hơn. Dân số đô thị đã tăng nhanh trong hai thập kỷ qua.</p></div></div><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg border-l-4 border-green-500'><p class='font-bold text-green-800 dark:text-green-300 mb-3'>Example 2: Infrastructure Development</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> The city has built many high-rise buildings and expanded its public transportation system. New metro lines have been opened to reduce traffic congestion during rush hour.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Thành phố đã xây dựng nhiều tòa nhà cao tầng và mở rộng hệ thống giao thông công cộng. Các tuyến metro mới đã được khai trương để giảm tắc nghẽn giao thông vào giờ cao điểm.</p></div></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg border-l-4 border-purple-500'><p class='font-bold text-purple-800 dark:text-purple-300 mb-3'>Example 3: Urban Problems</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> The bigger the city becomes, the more crowded it gets. Overcrowding has led to serious problems such as air pollution, housing shortages, and increased crime rates.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Thành phố càng lớn thì càng đông đúc. Tình trạng quá tải đã dẫn đến các vấn đề nghiêm trọng như ô nhiễm không khí, thiếu nhà ở và tỷ lệ tội phạm tăng cao.</p></div></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg border-l-4 border-orange-500'><p class='font-bold text-orange-800 dark:text-orange-300 mb-3'>Example 4: Changes in Lifestyle</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Urban life has changed dramatically. People now shop at supermarkets and convenience stores instead of traditional wet markets. They also have access to more leisure activities like cinemas, shopping malls, and parks.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Cuộc sống đô thị đã thay đổi đáng kể. Người dân giờ mua sắm ở siêu thị và cửa hàng tiện lợi thay vì chợ truyền thống. Họ cũng có nhiều hoạt động giải trí hơn như rạp chiếu phim, trung tâm mua sắm và công viên.</p></div></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg border-l-4 border-pink-500'><p class='font-bold text-pink-800 dark:text-pink-300 mb-3'>Example 5: Housing Challenges</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> The more people migrate to cities, the more expensive housing becomes. Many young people cannot afford to buy their own homes and have to rent small apartments or share accommodation with others.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Càng nhiều người di cư đến thành phố, nhà ở càng trở nên đắt đỏ. Nhiều người trẻ không đủ khả năng mua nhà riêng và phải thuê căn hộ nhỏ hoặc ở ghép với người khác.</p></div></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p1-ex1",
+        "type": "mcq",
+        "question": "What is 'urbanisation'?",
+        "options": ["Building more houses", "The process of population moving to cities", "Planting trees in cities", "Reducing city size"],
+        "correct": 1,
+        "explanation": "Urbanisation là quá trình dân số di chuyển đến thành phố."
+      },
+      {
+        "id": "p1-ex2",
+        "type": "mcq",
+        "question": "Which is an 'urban area'?",
+        "options": ["A farm", "A rice field", "A big city", "A village"],
+        "correct": 2,
+        "explanation": "Urban area (khu vực đô thị) là thành phố lớn."
+      },
+      {
+        "id": "p1-ex3",
+        "type": "mcq",
+        "question": "What does 'migrate' mean?",
+        "options": ["To stay in one place", "To move from one place to another", "To build a house", "To work hard"],
+        "correct": 1,
+        "explanation": "Migrate nghĩa là di chuyển từ nơi này sang nơi khác."
+      },
+      {
+        "id": "p1-ex4",
+        "type": "mcq",
+        "question": "What is 'infrastructure'?",
+        "options": ["Tall buildings only", "Basic systems like roads, water, electricity", "Shopping malls", "Parks and gardens"],
+        "correct": 1,
+        "explanation": "Infrastructure là các hệ thống cơ bản như đường xá, nước, điện."
+      },
+      {
+        "id": "p1-ex5",
+        "type": "mcq",
+        "question": "What is 'rush hour'?",
+        "options": ["Time when people are sleeping", "Time when traffic is very busy", "Time for lunch", "Time for shopping"],
+        "correct": 1,
+        "explanation": "Rush hour là giờ cao điểm khi giao thông rất đông đúc."
+      },
+      {
+        "id": "p1-ex6",
+        "type": "mcq",
+        "question": "Which phrase means 'people living in a local area'?",
+        "options": ["Urban areas", "Local residents", "Rush hour", "Leisure activities"],
+        "correct": 1,
+        "explanation": "Local residents nghĩa là cư dân địa phương."
+      },
+      {
+        "id": "p1-ex7",
+        "type": "mcq",
+        "question": "What are 'leisure activities'?",
+        "options": ["Work tasks", "Things you do for fun in free time", "Homework", "Cooking meals"],
+        "correct": 1,
+        "explanation": "Leisure activities là các hoạt động giải trí trong thời gian rảnh."
+      },
+      {
+        "id": "p1-ex8",
+        "type": "mcq",
+        "question": "Why do people move to cities?",
+        "options": ["To work on farms", "To find better job opportunities", "To avoid modern life", "To live in quiet places"],
+        "correct": 1,
+        "explanation": "Người dân di chuyển đến thành phố để tìm cơ hội việc làm tốt hơn."
+      },
+      {
+        "id": "p1-ex9",
+        "type": "mcq",
+        "question": "What is a problem of urbanisation?",
+        "options": ["Too much fresh air", "Empty streets", "Overcrowding", "Too many trees"],
+        "correct": 2,
+        "explanation": "Overcrowding (quá đông đúc) là vấn đề của đô thị hóa."
+      },
+      {
+        "id": "p1-ex10",
+        "type": "mcq",
+        "question": "What does 'high-rise building' mean?",
+        "options": ["A short house", "A very tall building", "A wide building", "An old building"],
+        "correct": 1,
+        "explanation": "High-rise building là tòa nhà cao tầng."
+      },
+      {
+        "id": "p1-ex11",
+        "type": "msq",
+        "question_text": "Decide if these statements are True or False:",
+        "options": [
+          "Urbanisation means people moving to cities.",
+          "Rural areas are crowded cities.",
+          "Infrastructure includes roads and public transport.",
+          "Rush hour is when traffic is light."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Đô thị hóa là người dân di chuyển đến thành phố. b) False - Nông thôn không phải thành phố đông đúc. c) True - Cơ sở hạ tầng bao gồm đường xá và giao thông công cộng. d) False - Giờ cao điểm là khi giao thông đông đúc."
+      },
+      {
+        "id": "p1-ex12",
+        "type": "msq",
+        "question_text": "Mark True or False:",
+        "options": [
+          "People migrate to cities for better jobs.",
+          "Urban areas have low population density.",
+          "Housing in big cities is becoming more expensive.",
+          "Urbanisation has no problems."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Người dân di cư để tìm việc tốt hơn. b) False - Đô thị có mật độ dân số cao. c) True - Nhà ở ở thành phố lớn ngày càng đắt. d) False - Đô thị hóa có nhiều vấn đề."
+      },
+      {
+        "id": "p1-ex13",
+        "type": "msq",
+        "question_text": "Based on the examples, decide True or False:",
+        "options": [
+          "Metro lines help reduce traffic congestion.",
+          "Urban life hasn't changed at all.",
+          "Young people can easily afford housing in cities.",
+          "Cities have more leisure activities than rural areas."
+        ],
+        "correct": [0, 3],
+        "explanation": "a) True - Metro giúp giảm tắc nghẽn. b) False - Cuộc sống đô thị đã thay đổi nhiều. c) False - Người trẻ khó mua nhà ở thành phố. d) True - Thành phố có nhiều hoạt động giải trí hơn."
+      },
+      {
+        "id": "p1-ex14",
+        "type": "sa",
+        "question_text": "Complete: People move from _____ areas to urban areas. (rural/urban)",
+        "correct": "rural",
+        "explanation": "Người dân di chuyển từ khu vực nông thôn (rural) đến đô thị."
+      },
+      {
+        "id": "p1-ex15",
+        "type": "sa",
+        "question_text": "Fill in: The city has become bigger and _____. (bigger/smaller)",
+        "correct": "bigger",
+        "explanation": "Thành phố trở nên lớn hơn và lớn hơn (bigger and bigger)."
+      },
+      {
+        "id": "p1-ex16",
+        "type": "sa",
+        "question_text": "Complete the phrase: _____ hour (when traffic is busiest)",
+        "correct": "rush",
+        "explanation": "Rush hour là giờ cao điểm."
+      },
+      {
+        "id": "p1-ex17",
+        "type": "sa",
+        "question_text": "What do we call people who live in a particular area? (two words)",
+        "correct": "local residents",
+        "explanation": "Local residents là cư dân địa phương."
+      },
+      {
+        "id": "p1-ex18",
+        "type": "mcq",
+        "question": "Complete: 'The more people migrate, the _____ housing becomes.'",
+        "options": ["cheaper", "more expensive", "bigger", "smaller"],
+        "correct": 1,
+        "explanation": "Càng nhiều người di cư, nhà ở càng đắt đỏ hơn (more expensive)."
+      },
+      {
+        "id": "p1-ex19",
+        "type": "mcq",
+        "question": "What has replaced traditional wet markets in cities?",
+        "options": ["Rice fields", "Supermarkets and convenience stores", "Farms", "Villages"],
+        "correct": 1,
+        "explanation": "Siêu thị và cửa hàng tiện lợi đã thay thế chợ truyền thống."
+      },
+      {
+        "id": "p1-ex20",
+        "type": "mcq",
+        "question": "Which sentence uses double comparative correctly?",
+        "options": [
+          "The city is big, it is crowded.",
+          "The bigger the city, the more crowded it becomes.",
+          "The city bigger, more crowded.",
+          "Big city, crowded city."
+        ],
+        "correct": 1,
+        "explanation": "Cấu trúc so sánh kép đúng: The + comparative..., the + comparative..."
+      }
+    ]
+  }
+}

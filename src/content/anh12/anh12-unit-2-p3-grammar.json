@@ -1,0 +1,229 @@
+{
+  "id": "anh12-unit-2-p3",
+  "name": "Part 3: Language - Grammar (Articles)",
+  "content": {
+    "theory": {
+      "title": "Grammar: Articles (A, An, The)",
+      "sections": [
+        {
+          "heading": "1. Tóm tắt lý thuyết về Mạo từ",
+          "content": "<div class='bg-gradient-to-r from-green-50 to-teal-50 dark:from-green-900/20 dark:to-teal-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-green-900 dark:text-green-300'>📖 Mạo từ (Articles)</h3><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-blue-700 dark:text-blue-400 mb-3'>A/AN - Mạo từ không xác định</h4><ul class='list-disc pl-6 space-y-2'><li><strong>A:</strong> Dùng trước từ bắt đầu bằng phụ âm (a book, a university)</li><li><strong>AN:</strong> Dùng trước từ bắt đầu bằng nguyên âm (an apple, an hour)</li><li>Dùng trước danh từ số ít đếm được lần đầu nhắc đến</li><li>Dùng khi nói về nghề nghiệp: She is a teacher</li><li>Dùng trong cụm từ chỉ số lượng: a lot of, a few</li></ul></div><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-purple-700 dark:text-purple-400 mb-3'>THE - Mạo từ xác định</h4><ul class='list-disc pl-6 space-y-2'><li>Dùng khi danh từ được nhắc lần thứ 2</li><li>Dùng trước danh từ duy nhất: the sun, the moon</li><li>Dùng trước sông, biển, đại dương: the Mekong River</li><li>Dùng trước quốc gia có 's': the Philippines, the United States</li><li>Dùng trước nhạc cụ: play the piano</li><li>Dùng trước tính từ so sánh nhất: the best</li><li>Dùng trước số thứ tự: the first, the second</li><li>Dùng trước tên công trình nổi tiếng: the Eiffel Tower</li></ul></div><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-orange-700 dark:text-orange-400 mb-3'>Ø - Không dùng mạo từ</h4><ul class='list-disc pl-6 space-y-2'><li>Trước danh từ số nhiều không xác định: Books are important</li><li>Trước danh từ không đếm được: Water is essential</li><li>Trước tên môn học: study English, Math</li><li>Trước tên môn thể thao: play football</li><li>Trước tên bữa ăn: have breakfast</li><li>Trước tên quốc gia (hầu hết): Vietnam, France</li><li>Sau 'by' + phương tiện: by car, by train</li></ul></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ về Articles",
+          "content": "<div class='space-y-4'><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 1: A/AN</p><p>She bought <strong>a</strong> souvenir from the market. / He is <strong>an</strong> engineer.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-1'>Dùng 'a' trước 'souvenir' (phụ âm), 'an' trước 'engineer' (nguyên âm)</p></div><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 2: THE (xác định)</p><p>I visited a museum yesterday. <strong>The</strong> museum was very interesting.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-1'>Lần đầu dùng 'a museum', lần 2 dùng 'the museum' vì đã xác định</p></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 3: THE (duy nhất)</p><p><strong>The</strong> sun rises in <strong>the</strong> east. / <strong>The</strong> Eiffel Tower is in Paris.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-1'>Dùng 'the' trước danh từ duy nhất và công trình nổi tiếng</p></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 4: Ø (không mạo từ)</p><p>I go to school by <strong>Ø</strong> bus. / Vietnamese people love <strong>Ø</strong> rice.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-1'>Không dùng mạo từ sau 'by' + phương tiện và trước danh từ không đếm được chung chung</p></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 5: Trường hợp đặc biệt</p><p>She plays <strong>the</strong> piano beautifully. / He is <strong>the</strong> best student in the class.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-1'>Dùng 'the' trước nhạc cụ và tính từ so sánh nhất</p></div></div>"
+        },
+        {
+          "heading": "3. Các dạng bài tập về Articles",
+          "content": "<div class='bg-yellow-50 dark:bg-yellow-900/20 p-6 rounded-xl'><h4 class='font-bold text-xl mb-4'>📝 Dạng bài tập thường gặp</h4><div class='space-y-3'><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='font-bold text-blue-700 mb-2'>Dạng 1: Điền a/an/the/Ø</p><p class='text-sm'>She bought ___ apple from ___ market. → an / the</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='font-bold text-blue-700 mb-2'>Dạng 2: Chọn đáp án đúng</p><p class='text-sm'>I need (a/an/the/Ø) information. → Ø</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='font-bold text-blue-700 mb-2'>Dạng 3: Sửa lỗi sai</p><p class='text-sm'>He plays piano. → He plays the piano.</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='font-bold text-blue-700 mb-2'>Dạng 4: Hoàn thành câu</p><p class='text-sm'>sun / rise / east → The sun rises in the east.</p></div></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p3-ex1",
+        "type": "mcq",
+        "question": "_____ Eiffel Tower is in Paris.",
+        "options": ["A", "An", "The", "Ø"],
+        "correct": 2,
+        "explanation": "Dùng 'the' trước tên công trình nổi tiếng."
+      },
+      {
+        "id": "p3-ex2",
+        "type": "mcq",
+        "question": "She is _____ engineer.",
+        "options": ["a", "an", "the", "Ø"],
+        "correct": 1,
+        "explanation": "'Engineer' bắt đầu bằng nguyên âm nên dùng 'an'."
+      },
+      {
+        "id": "p3-ex3",
+        "type": "mcq",
+        "question": "_____ sun rises in _____ east.",
+        "options": ["The / the", "A / the", "The / an", "Ø / the"],
+        "correct": 0,
+        "explanation": "Dùng 'the' trước danh từ duy nhất và phương hướng."
+      },
+      {
+        "id": "p3-ex4",
+        "type": "mcq",
+        "question": "I go to school by _____ bus.",
+        "options": ["a", "an", "the", "Ø"],
+        "correct": 3,
+        "explanation": "Không dùng mạo từ sau 'by' + phương tiện."
+      },
+      {
+        "id": "p3-ex5",
+        "type": "mcq",
+        "question": "She plays _____ piano very well.",
+        "options": ["a", "an", "the", "Ø"],
+        "correct": 2,
+        "explanation": "Dùng 'the' trước nhạc cụ."
+      },
+      {
+        "id": "p3-ex6",
+        "type": "mcq",
+        "question": "They visited _____ United States last year.",
+        "options": ["a", "an", "the", "Ø"],
+        "correct": 2,
+        "explanation": "Dùng 'the' trước tên quốc gia có từ viết tắt."
+      },
+      {
+        "id": "p3-ex7",
+        "type": "mcq",
+        "question": "He is _____ best student in the class.",
+        "options": ["a", "an", "the", "Ø"],
+        "correct": 2,
+        "explanation": "Dùng 'the' trước tính từ so sánh nhất."
+      },
+      {
+        "id": "p3-ex8",
+        "type": "mcq",
+        "question": "I have _____ breakfast at 7 AM.",
+        "options": ["a", "an", "the", "Ø"],
+        "correct": 3,
+        "explanation": "Không dùng mạo từ trước tên bữa ăn."
+      },
+      {
+        "id": "p3-ex9",
+        "type": "mcq",
+        "question": "She has _____ unique talent.",
+        "options": ["a", "an", "the", "Ø"],
+        "correct": 0,
+        "explanation": "'Unique' bắt đầu bằng phụ âm /j/ nên dùng 'a'."
+      },
+      {
+        "id": "p3-ex10",
+        "type": "mcq",
+        "question": "_____ water is essential for life.",
+        "options": ["A", "An", "The", "Ø"],
+        "correct": 3,
+        "explanation": "Không dùng mạo từ trước danh từ không đếm được chung chung."
+      },
+      {
+        "id": "p3-ex11",
+        "type": "msq",
+        "question_text": "Decide if these sentences use articles correctly (True/False):",
+        "options": [
+          "I saw a cat. The cat was black.",
+          "She plays piano every day.",
+          "The Mount Everest is the highest mountain.",
+          "He goes to work by the car."
+        ],
+        "correct": [0],
+        "explanation": "a) True - Đúng cách dùng a/the. b) False - Phải là 'plays the piano'. c) False - Phải là 'Mount Everest' không có 'the'. d) False - Phải là 'by car' không có 'the'."
+      },
+      {
+        "id": "p3-ex12",
+        "type": "msq",
+        "question_text": "Mark True or False for these article rules:",
+        "options": [
+          "Use 'a' before words starting with consonant sounds.",
+          "Use 'the' before musical instruments.",
+          "Use 'an' before 'university'.",
+          "Don't use articles before most country names."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - Dùng 'a' trước phụ âm. b) True - Dùng 'the' trước nhạc cụ. c) False - 'University' bắt đầu bằng /j/ nên dùng 'a'. d) True - Hầu hết tên nước không dùng mạo từ."
+      },
+      {
+        "id": "p3-ex13",
+        "type": "msq",
+        "question_text": "Are these sentences correct? (True/False):",
+        "options": [
+          "I need an information about the course.",
+          "The Pacific Ocean is the largest ocean.",
+          "She is a honest person.",
+          "Books are important for learning."
+        ],
+        "correct": [1, 3],
+        "explanation": "a) False - 'Information' không đếm được, không dùng 'an'. b) True - Đúng cách dùng 'the' trước đại dương. c) False - 'Honest' bắt đầu bằng nguyên âm, phải dùng 'an'. d) True - Danh từ số nhiều không xác định không dùng mạo từ."
+      },
+      {
+        "id": "p3-ex14",
+        "type": "reading",
+        "passage": "Articles in English: A Quick Guide\n\nLearning to use articles correctly is (1) _____ important skill for English learners. There are three articles in English: 'a', 'an', and 'the'. Understanding when to use each one can make (2) _____ big difference in your communication.\n\nUse 'a' or 'an' when talking about something for (3) _____ first time or when it's not specific. For example, 'I saw a dog in (4) _____ park.' We don't know which dog or which park. Use 'an' before words that start with (5) _____ vowel sound, like 'an apple' or 'an hour'.\n\nUse 'the' when both (6) _____ speaker and listener know what you're talking about. For instance, 'I saw a dog. (7) _____ dog was very friendly.' Now we know which dog. Also use 'the' before unique things like '(8) _____ sun', '(9) _____ moon', or famous places like '(10) _____ Great Wall of China'.\n\nSome situations don't need articles at all. We don't use articles before (11) _____ meals ('I had breakfast'), (12) _____ sports ('I play football'), or most country names ('I live in Vietnam'). However, we say '(13) _____ United States' or '(14) _____ Philippines' because these names include plural or descriptive words.\n\nWhen talking about (15) _____ general things, we often don't use articles with plural or uncountable nouns. For example, '(16) _____ books are important' or '(17) _____ water is essential'. But if we're specific, we add 'the': '(18) _____ books on that shelf' or '(19) _____ water in this bottle'.\n\nPractice is (20) _____ key to mastering articles. The more you read and listen to English, the more natural it will become.",
+        "questions": [
+          {
+            "question": "Fill in blank (1):",
+            "options": ["a", "an", "the", "Ø"],
+            "correct": 1,
+            "explanation": "'Important' bắt đầu bằng nguyên âm nên dùng 'an'."
+          },
+          {
+            "question": "Fill in blank (2):",
+            "options": ["a", "an", "the", "Ø"],
+            "correct": 0,
+            "explanation": "'Big' bắt đầu bằng phụ âm nên dùng 'a'."
+          },
+          {
+            "question": "Fill in blank (7):",
+            "options": ["A", "An", "The", "Ø"],
+            "correct": 2,
+            "explanation": "Dùng 'the' vì con chó đã được nhắc đến trước đó."
+          },
+          {
+            "question": "Fill in blank (11):",
+            "options": ["a", "an", "the", "Ø"],
+            "correct": 3,
+            "explanation": "Không dùng mạo từ trước tên bữa ăn."
+          },
+          {
+            "question": "Fill in blank (13):",
+            "options": ["a", "an", "the", "Ø"],
+            "correct": 2,
+            "explanation": "Dùng 'the' trước 'United States'."
+          }
+        ]
+      },
+      {
+        "id": "p3-ex15",
+        "type": "sa",
+        "question_text": "Complete: 'I bought _____ apple and _____ orange.' (Fill in with a/an)",
+        "correct": "an / an",
+        "explanation": "Cả 'apple' và 'orange' đều bắt đầu bằng nguyên âm nên dùng 'an'. Câu hoàn chỉnh: 'I bought an apple and an orange.'"
+      },
+      {
+        "id": "p3-ex16",
+        "type": "sa",
+        "question_text": "Fill in the blank: '_____ Mekong River flows through Vietnam.' (Use the correct article)",
+        "correct": "The",
+        "explanation": "Dùng 'The' trước tên sông. Câu hoàn chỉnh: 'The Mekong River flows through Vietnam.'"
+      },
+      {
+        "id": "p3-ex17",
+        "type": "sa",
+        "question_text": "Complete: 'She is _____ doctor.' (Use a/an/the/Ø)",
+        "correct": "a",
+        "explanation": "Dùng 'a' trước nghề nghiệp. Câu hoàn chỉnh: 'She is a doctor.'"
+      },
+      {
+        "id": "p3-ex18",
+        "type": "sa",
+        "question_text": "Correct this sentence: 'He plays guitar very well.' (Add the missing article)",
+        "correct": "He plays the guitar very well.",
+        "explanation": "Phải dùng 'the' trước nhạc cụ: 'He plays the guitar very well.'"
+      },
+      {
+        "id": "p3-ex19",
+        "type": "mcq",
+        "question": "Choose the correct sentence:",
+        "options": [
+          "I study the English every day.",
+          "I study English every day.",
+          "I study an English every day.",
+          "I study a English every day."
+        ],
+        "correct": 1,
+        "explanation": "Không dùng mạo từ trước tên môn học: 'I study English every day.'"
+      },
+      {
+        "id": "p3-ex20",
+        "type": "essay",
+        "question": "Writing Task: Write a short paragraph (80-100 words) about your daily routine. Focus on using articles (a, an, the, Ø) correctly.\n\nInclude:\n• What time you wake up\n• How you go to school/work\n• What you do during the day\n• Your meals and activities\n\nPay special attention to:\n- Using 'a/an' for first mentions\n- Using 'the' for specific things\n- Not using articles where they're not needed (meals, transport, etc.)",
+        "answer_guide": "Sample Answer:\n\nI wake up at 6 AM every morning. After getting ready, I have breakfast with my family. I usually eat a bowl of pho or some bread with an egg. Then I go to school by bus. The bus arrives at 7:15 AM, and I always sit in the same seat near the window.\n\nAt school, I attend classes from 8 AM to 5 PM. During lunch break, I eat in the cafeteria with my friends. We often discuss the lessons or talk about our plans for the weekend. After school, I go home and do my homework. In the evening, I play the guitar for an hour. This is the best part of my day because music helps me relax.\n\nBefore dinner, I help my mother prepare the meal. We usually have rice, vegetables, and fish. After dinner, I watch TV or read a book. I go to bed at 10 PM to get enough sleep for the next day.\n\n(Word count: 160 words)\n\nArticle Usage Analysis:\n✓ 'a bowl', 'an egg', 'an hour', 'a book' - first mentions with a/an\n✓ 'the bus', 'the window', 'the cafeteria', 'the lessons', 'the guitar', 'the meal', 'the next day' - specific items\n✓ 'by bus' - no article after 'by' + transport\n✓ 'have breakfast', 'During lunch break', 'After dinner' - no articles before meals\n✓ 'play the guitar' - article before musical instrument\n✓ 'go to school', 'go home', 'go to bed' - no articles in fixed expressions\n\nKey features:\n✓ Correct use of a/an for first mentions\n✓ Correct use of 'the' for specific references\n✓ No articles where not needed\n✓ Natural flow and good structure\n✓ Variety of article usage examples",
+        "explanation": "Bài viết cần mô tả hoạt động hàng ngày và chú ý sử dụng đúng mạo từ. Dùng a/an khi nhắc lần đầu, 'the' khi xác định, và không dùng mạo từ trước bữa ăn, phương tiện sau 'by', và trong một số cụm cố định."
+      }
+    ]
+  }
+}

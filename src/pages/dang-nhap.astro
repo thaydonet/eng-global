@@ -1,0 +1,185 @@
+---
+import Layout from '@/layouts/Layout.astro';
+
+const supabaseUrl = import.meta.env.PUBLIC_SUPABASE_URL || '';
+const supabaseKey = import.meta.env.PUBLIC_SUPABASE_ANON_KEY || '';
+---
+
+<Layout title="Đăng nhập | Học Tiếng Anh">
+  <div class="min-h-screen pt-24 pb-12 flex flex-col justify-center sm:px-6 lg:px-8">
+    <div class="sm:mx-auto sm:w-full sm:max-w-md">
+      <div class="w-16 h-16 bg-purple-100 dark:bg-purple-900/30 rounded-2xl flex items-center justify-center mx-auto mb-4">
+        <svg class="w-8 h-8 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/>
+        </svg>
+      </div>
+      <h2 class="text-center text-3xl font-black text-gray-900 dark:text-white" id="form-title">
+        Đăng nhập
+      </h2>
+      <p class="mt-2 text-center text-sm text-gray-600 dark:text-gray-400" id="form-subtitle">
+        Chưa có tài khoản?
+        <button id="toggle-mode" class="font-medium text-purple-600 hover:text-purple-500 transition-colors">Đăng ký ngay</button>
+      </p>
+    </div>
+
+    <div class="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
+      <div class="bg-white dark:bg-gray-800 py-8 px-4 shadow-xl shadow-gray-200/50 dark:shadow-none sm:rounded-2xl sm:px-10 border border-gray-100 dark:border-gray-700">
+        <form id="auth-form" class="space-y-6">
+          <div id="name-field" class="hidden">
+            <label for="name" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Họ và tên</label>
+            <div class="mt-1">
+              <input id="name" name="name" type="text" class="appearance-none block w-full px-3 py-2.5 border border-gray-300 dark:border-gray-600 rounded-xl shadow-sm placeholder-gray-400 focus:outline-none focus:ring-purple-500 focus:border-purple-500 sm:text-sm bg-white dark:bg-gray-700 text-gray-900 dark:text-white transition-colors" placeholder="Nguyễn Văn A">
+            </div>
+          </div>
+
+          <div>
+            <label for="email" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Email</label>
+            <div class="mt-1">
+              <input id="email" name="email" type="email" autocomplete="email" required class="appearance-none block w-full px-3 py-2.5 border border-gray-300 dark:border-gray-600 rounded-xl shadow-sm placeholder-gray-400 focus:outline-none focus:ring-purple-500 focus:border-purple-500 sm:text-sm bg-white dark:bg-gray-700 text-gray-900 dark:text-white transition-colors" placeholder="email@example.com">
+            </div>
+          </div>
+
+          <div>
+            <label for="password" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Mật khẩu</label>
+            <div class="mt-1">
+              <input id="password" name="password" type="password" autocomplete="current-password" required class="appearance-none block w-full px-3 py-2.5 border border-gray-300 dark:border-gray-600 rounded-xl shadow-sm placeholder-gray-400 focus:outline-none focus:ring-purple-500 focus:border-purple-500 sm:text-sm bg-white dark:bg-gray-700 text-gray-900 dark:text-white transition-colors" placeholder="••••••••">
+            </div>
+          </div>
+
+          <div id="error-message" class="text-red-500 text-sm hidden text-center bg-red-50 dark:bg-red-900/30 p-3 rounded-lg border border-red-100 dark:border-red-800"></div>
+          <div id="success-message" class="text-green-600 text-sm hidden text-center bg-green-50 dark:bg-green-900/30 p-3 rounded-lg border border-green-100 dark:border-green-800"></div>
+
+          <div>
+            <button type="submit" id="submit-btn" class="w-full flex justify-center py-3 px-4 border border-transparent rounded-xl shadow-sm text-sm font-bold text-white bg-purple-600 hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500 transition-all disabled:opacity-50 disabled:cursor-not-allowed">
+              Đăng nhập
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <script define:vars={{ supabaseUrl, supabaseKey }}>
+    document.addEventListener('DOMContentLoaded', async () => {
+      let isLogin = true;
+      const form = document.getElementById('auth-form');
+      const toggleBtn = document.getElementById('toggle-mode');
+      const title = document.getElementById('form-title');
+      const subtitle = document.getElementById('form-subtitle');
+      const nameField = document.getElementById('name-field');
+      const submitBtn = document.getElementById('submit-btn');
+      const errorMsg = document.getElementById('error-message');
+      const successMsg = document.getElementById('success-message');
+
+      // Check current session
+      try {
+        const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm');
+        const sb = createClient(supabaseUrl, supabaseKey);
+        const { data: { session } } = await sb.auth.getSession();
+        
+        if (session) {
+          const params = new URLSearchParams(window.location.search);
+          window.location.href = params.get('redirect') || '/de-thi/tao-de';
+        }
+      } catch (e) {
+        console.error('Session check failed', e);
+      }
+
+      function attachToggle() {
+        document.getElementById('toggle-mode')?.addEventListener('click', (e) => {
+          e.preventDefault();
+          isLogin = !isLogin;
+          
+          if (isLogin) {
+            title.textContent = 'Đăng nhập';
+            subtitle.innerHTML = 'Chưa có tài khoản? <button id="toggle-mode" class="font-medium text-purple-600 hover:text-purple-500 transition-colors">Đăng ký ngay</button>';
+            nameField.classList.add('hidden');
+            submitBtn.textContent = 'Đăng nhập';
+          } else {
+            title.textContent = 'Đăng ký';
+            subtitle.innerHTML = 'Đã có tài khoản? <button id="toggle-mode" class="font-medium text-purple-600 hover:text-purple-500 transition-colors">Đăng nhập</button>';
+            nameField.classList.remove('hidden');
+            submitBtn.textContent = 'Đăng ký tài khoản';
+          }
+
+          attachToggle();
+          errorMsg.classList.add('hidden');
+          successMsg.classList.add('hidden');
+        });
+      }
+      
+      attachToggle();
+
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        
+        const email = document.getElementById('email').value;
+        const password = document.getElementById('password').value;
+        const name = document.getElementById('name').value;
+        
+        errorMsg.classList.add('hidden');
+        successMsg.classList.add('hidden');
+        submitBtn.disabled = true;
+        submitBtn.textContent = 'Đang xử lý...';
+
+        try {
+          const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm');
+          const sb = createClient(supabaseUrl, supabaseKey);
+
+          if (isLogin) {
+            const { data, error } = await sb.auth.signInWithPassword({ email, password });
+            if (error) throw error;
+            
+            successMsg.textContent = 'Đăng nhập thành công! Đang chuyển hướng...';
+            successMsg.classList.remove('hidden');
+            setTimeout(() => {
+              const params = new URLSearchParams(window.location.search);
+              window.location.href = params.get('redirect') || '/de-thi/tao-de';
+            }, 1000);
+          } else {
+            const { data, error } = await sb.auth.signUp({ 
+              email, 
+              password,
+              options: {
+                data: {
+                  full_name: name
+                }
+              }
+            });
+            if (error) throw error;
+            
+            // To be safe for demo: insert to profiles table if trigger doesn't exist
+            // Set role to 'teacher' so they can create exams.
+            if (data.user) {
+              const { error: profileError } = await sb.from('profiles').upsert({
+                id: data.user.id,
+                role: 'teacher',
+                full_name: name
+              }, { onConflict: 'id' });
+              
+              if (profileError) console.warn('Profile sync issue:', profileError);
+            }
+
+            if (data.session) {
+              successMsg.textContent = 'Đăng ký thành công! Đang chuyển hướng...';
+              successMsg.classList.remove('hidden');
+              setTimeout(() => {
+                const params = new URLSearchParams(window.location.search);
+                window.location.href = params.get('redirect') || '/de-thi/tao-de';
+              }, 1000);
+            } else {
+              successMsg.textContent = 'Đăng ký thành công! Vui lòng kiểm tra email để xác nhận.';
+              successMsg.classList.remove('hidden');
+            }
+          }
+        } catch (err) {
+          errorMsg.textContent = isLogin ? 'Email hoặc mật khẩu không đúng!' : 'Lỗi đăng ký: ' + err.message;
+          errorMsg.classList.remove('hidden');
+        } finally {
+          submitBtn.disabled = false;
+          submitBtn.textContent = isLogin ? 'Đăng nhập' : 'Đăng ký tài khoản';
+        }
+      });
+    });
+  </script>
+</Layout>

@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-unit-6-our-tet-holiday",
+      "name": "Unit 6: Our Tet Holiday",
+      "slug": "unit-6-our-tet-holiday",
+      "chapter": "Unit 6: Our Tet Holiday",
+      "chapter_id": "A6",
+      "lesson_id": 6,
+      "description": "Learn about Tet traditions, should/shouldn't, and some/any with countable and uncountable nouns.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1548198139-7e9f0f1e8e6e?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-6",
+          "name": "Tet Holiday Vocabulary",
+          "slug": "tet-holiday-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 6: Our Tet Holiday",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Tet</td><td class='px-4 py-2'>(n) /tet/</td><td class='px-4 py-2'>Tết (Tết Nguyên Đán)</td><td class='px-4 py-2'>Tet is the most important festival in Vietnam.</td></tr><tr><td class='px-4 py-2 font-bold'>Celebrate</td><td class='px-4 py-2'>(v) /ˈselɪbreɪt/</td><td class='px-4 py-2'>Ăn mừng, kỷ niệm</td><td class='px-4 py-2'>We celebrate Tet with our family.</td></tr><tr><td class='px-4 py-2 font-bold'>Decorate</td><td class='px-4 py-2'>(v) /ˈdekəreɪt/</td><td class='px-4 py-2'>Trang trí</td><td class='px-4 py-2'>We decorate our house for Tet.</td></tr><tr><td class='px-4 py-2 font-bold'>Lucky money</td><td class='px-4 py-2'>(n) /ˈlʌki ˈmʌni/</td><td class='px-4 py-2'>Tiền lì xì</td><td class='px-4 py-2'>Children receive lucky money at Tet.</td></tr><tr><td class='px-4 py-2 font-bold'>Fireworks</td><td class='px-4 py-2'>(n) /ˈfaɪəwɜːks/</td><td class='px-4 py-2'>Pháo hoa</td><td class='px-4 py-2'>We watch fireworks on New Year's Eve.</td></tr><tr><td class='px-4 py-2 font-bold'>Peach blossom</td><td class='px-4 py-2'>(n) /piːtʃ ˈblɒsəm/</td><td class='px-4 py-2'>Hoa đào</td><td class='px-4 py-2'>Peach blossoms are popular in the North.</td></tr><tr><td class='px-4 py-2 font-bold'>Apricot blossom</td><td class='px-4 py-2'>(n) /ˈeɪprɪkɒt ˈblɒsəm/</td><td class='px-4 py-2'>Hoa mai</td><td class='px-4 py-2'>Apricot blossoms are popular in the South.</td></tr><tr><td class='px-4 py-2 font-bold'>Banh chung</td><td class='px-4 py-2'>(n) /bæn tʃʊŋ/</td><td class='px-4 py-2'>Bánh chưng</td><td class='px-4 py-2'>Banh chung is a traditional Tet cake.</td></tr><tr><td class='px-4 py-2 font-bold'>Visit</td><td class='px-4 py-2'>(v) /ˈvɪzɪt/</td><td class='px-4 py-2'>Thăm, viếng</td><td class='px-4 py-2'>We visit our relatives at Tet.</td></tr><tr><td class='px-4 py-2 font-bold'>Wish</td><td class='px-4 py-2'>(v/n) /wɪʃ/</td><td class='px-4 py-2'>Chúc, lời chúc</td><td class='px-4 py-2'>We wish each other good luck.</td></tr><tr><td class='px-4 py-2 font-bold'>Tradition</td><td class='px-4 py-2'>(n) /trəˈdɪʃn/</td><td class='px-4 py-2'>Truyền thống</td><td class='px-4 py-2'>Tet is a Vietnamese tradition.</td></tr><tr><td class='px-4 py-2 font-bold'>Special</td><td class='px-4 py-2'>(adj) /ˈspeʃl/</td><td class='px-4 py-2'>Đặc biệt</td><td class='px-4 py-2'>Tet is a special time for families.</td></tr><tr><td class='px-4 py-2 font-bold'>Clean</td><td class='px-4 py-2'>(v) /kliːn/</td><td class='px-4 py-2'>Dọn dẹp, lau chùi</td><td class='px-4 py-2'>We clean our house before Tet.</td></tr><tr><td class='px-4 py-2 font-bold'>Shopping</td><td class='px-4 py-2'>(n) /ˈʃɒpɪŋ/</td><td class='px-4 py-2'>Mua sắm</td><td class='px-4 py-2'>We go shopping for Tet.</td></tr><tr><td class='px-4 py-2 font-bold'>Gathering</td><td class='px-4 py-2'>(n) /ˈɡæðərɪŋ/</td><td class='px-4 py-2'>Sự sum họp</td><td class='px-4 py-2'>Tet is a time for family gathering.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Tet activities (Hoạt động Tết):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>celebrate:</strong> ăn mừng</li><li><strong>decorate the house:</strong> trang trí nhà cửa</li><li><strong>clean the house:</strong> dọn dẹp nhà cửa</li><li><strong>go shopping:</strong> đi mua sắm</li><li><strong>visit relatives:</strong> thăm họ hàng</li><li><strong>give lucky money:</strong> lì xì</li><li><strong>receive lucky money:</strong> nhận lì xì</li><li><strong>watch fireworks:</strong> xem pháo hoa</li><li><strong>make banh chung:</strong> gói bánh chưng</li><li><strong>wish good luck:</strong> chúc may mắn</li></ul><p><strong>Tet decorations (Đồ trang trí Tết):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>peach blossom:</strong> hoa đào</li><li><strong>apricot blossom:</strong> hoa mai</li><li><strong>kumquat tree:</strong> cây quất</li><li><strong>red envelope:</strong> phong bì đỏ</li><li><strong>lantern:</strong> đèn lồng</li><li><strong>banner:</strong> băng rôn</li><li><strong>flowers:</strong> hoa</li></ul><p><strong>Tet food (Món ăn Tết):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>banh chung:</strong> bánh chưng</li><li><strong>banh tet:</strong> bánh tét</li><li><strong>candied fruits:</strong> mứt</li><li><strong>spring rolls:</strong> nem/chả giò</li><li><strong>sticky rice:</strong> xôi</li><li><strong>pickled onions:</strong> dưa hành</li></ul><p><strong>Tet wishes (Lời chúc Tết):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Happy New Year!</strong> Chúc mừng năm mới!</li><li><strong>Good luck!</strong> Chúc may mắn!</li><li><strong>Good health!</strong> Chúc sức khỏe!</li><li><strong>Success!</strong> Chúc thành công!</li><li><strong>Prosperity!</strong> Chúc phát tài!</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /s/ and /ʃ/</h3><p><strong>1. Sound /s/:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Lưỡi chạm vào lợi trên, không rung thanh quản</li><li><strong>Examples:</strong></li><li>celebrate /ˈselɪbreɪt/</li><li>special /ˈspeʃl/</li><li>spring /sprɪŋ/</li><li>wish /wɪʃ/</li></ul><p><strong>2. Sound /ʃ/:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Môi tròn, lưỡi gần vòm miệng</li><li><strong>Examples:</strong></li><li>shopping /ˈʃɒpɪŋ/</li><li>should /ʃʊd/</li><li>shrine /ʃraɪn/</li><li>wish /wɪʃ/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Modal verb: Should / Shouldn't</h3><p><strong>1. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Should:</strong> diễn tả lời khuyên, điều nên làm</li><li><strong>Shouldn't:</strong> diễn tả lời khuyên không nên làm</li></ul><p><strong>2. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Should + V (nguyên mẫu)</strong></li><li>Ex: You <strong>should visit</strong> your grandparents at Tet.</li><li>Ex: We <strong>should clean</strong> the house before Tet.</li><li><strong>Shouldn't + V (nguyên mẫu)</strong></li><li>Ex: You <strong>shouldn't break</strong> things at Tet.</li><li>Ex: We <strong>shouldn't fight</strong> during Tet.</li></ul><p><strong>3. Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Should không chia theo ngôi</li><li>Sau should luôn là động từ nguyên mẫu (không 'to')</li><li>Should nhẹ nhàng hơn must (lời khuyên vs bắt buộc)</li></ul><h3>B. Some and Any with Countable and Uncountable Nouns</h3><p><strong>1. Countable nouns (Danh từ đếm được):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Có thể đếm được: one apple, two apples, three apples</li><li>Có dạng số ít và số nhiều</li><li>Ex: book/books, flower/flowers, cake/cakes</li></ul><p><strong>2. Uncountable nouns (Danh từ không đếm được):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Không thể đếm được</li><li>Chỉ có dạng số ít</li><li>Ex: water, rice, money, luck, advice</li></ul><p><strong>3. Some and Any:</strong></p><p><strong>a) Some:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dùng trong câu khẳng định</li><li>Dùng trong câu hỏi khi mời, đề nghị</li><li>Ex: I have <strong>some</strong> flowers. (countable)</li><li>Ex: I need <strong>some</strong> water. (uncountable)</li><li>Ex: Would you like <strong>some</strong> tea? (offer)</li></ul><p><strong>b) Any:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dùng trong câu phủ định và câu hỏi</li><li>Ex: I don't have <strong>any</strong> money. (uncountable)</li><li>Ex: Do you have <strong>any</strong> apples? (countable)</li><li>Ex: There aren't <strong>any</strong> flowers. (countable)</li></ul><p><strong>4. Quantifiers (Từ chỉ số lượng):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>With countable nouns:</strong> many, a few, few</li><li>Ex: many flowers, a few cakes</li><li><strong>With uncountable nouns:</strong> much, a little, little</li><li>Ex: much water, a little rice</li><li><strong>With both:</strong> some, any, a lot of, lots of</li><li>Ex: some flowers/water, a lot of cakes/rice</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Tet is coming - Tết sắp đến</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về chuẩn bị Tết</li><li>Giới thiệu về phong tục Tết</li><li>Lời khuyên cho dịp Tết</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Tet activities and traditions</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về hoạt động Tết</li><li>Học từ vựng về phong tục Tết</li></ul><p><strong>B. Pronunciation: /s/ and /ʃ/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /s/ và /ʃ/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Should/Shouldn't and Some/Any</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách dùng should/shouldn't</li><li>Học cách dùng some/any</li><li>Phân biệt danh từ đếm được và không đếm được</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Tet traditions and customs</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>You should...</li><li>You shouldn't...</li><li>We have some...</li><li>Do you have any...?</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Tet in Vietnam</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về Tết Việt Nam</li><li>Tìm thông tin về phong tục</li></ul><p><strong>Speaking: Talking about Tet</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về hoạt động Tết</li><li>Đưa ra lời khuyên</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: Tet preparations</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về chuẩn bị Tết</li><li>Ghi chú thông tin</li></ul><p><strong>Writing: An email about Tet</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết email về Tết</li><li>Sử dụng should/shouldn't</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Tet activities, traditions, food</li><li><strong>Pronunciation:</strong> /s/ and /ʃ/</li><li><strong>Grammar:</strong> Should/Shouldn't, Some/Any</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> My family's Tet</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tìm hoặc chụp ảnh Tết gia đình</li><li>Viết mô tả (5-7 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Sử dụng Should / Shouldn't",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Should + V: lời khuyên nên làm</li><li>Shouldn't + V: lời khuyên không nên làm</li></ul>",
+            "examples": [
+              {
+                "question": "You ______ (visit) your grandparents at Tet.",
+                "solution": "You <strong>should visit</strong> your grandparents at Tet.",
+                "explanation": "Thăm ông bà là điều nên làm → dùng 'should'."
+              },
+              {
+                "question": "You ______ (break) things at Tet. It's bad luck.",
+                "solution": "You <strong>shouldn't break</strong> things at Tet. It's bad luck.",
+                "explanation": "Làm vỡ đồ đạc là điều không nên làm → dùng 'shouldn't'."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Sử dụng Some / Any",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Some: câu khẳng định, câu hỏi mời/đề nghị</li><li>Any: câu phủ định, câu hỏi</li></ul>",
+            "examples": [
+              {
+                "question": "I have ______ flowers for decoration.",
+                "solution": "I have <strong>some</strong> flowers for decoration.",
+                "explanation": "Câu khẳng định → dùng 'some'."
+              },
+              {
+                "question": "Do you have ______ money?",
+                "solution": "Do you have <strong>any</strong> money?",
+                "explanation": "Câu hỏi → dùng 'any'."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Phân biệt danh từ đếm được và không đếm được",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Countable: có thể đếm, có số nhiều (book/books)</li><li>Uncountable: không đếm được, chỉ số ít (water, rice, money)</li></ul>",
+            "examples": [
+              {
+                "question": "Is 'flower' countable or uncountable?",
+                "solution": "<strong>Countable</strong> (one flower, two flowers)",
+                "explanation": "Flower có thể đếm được và có dạng số nhiều."
+              },
+              {
+                "question": "Is 'rice' countable or uncountable?",
+                "solution": "<strong>Uncountable</strong> (some rice, not 'one rice')",
+                "explanation": "Rice không thể đếm được và chỉ có dạng số ít."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Sử dụng từ chỉ số lượng",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Countable: many, a few, few</li><li>Uncountable: much, a little, little</li><li>Both: some, any, a lot of</li></ul>",
+            "examples": [
+              {
+                "question": "We have ______ (many/much) flowers.",
+                "solution": "We have <strong>many</strong> flowers.",
+                "explanation": "Flowers là danh từ đếm được → dùng 'many'."
+              },
+              {
+                "question": "I need ______ (many/much) water.",
+                "solution": "I need <strong>much</strong> water.",
+                "explanation": "Water là danh từ không đếm được → dùng 'much'."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "You ______ visit your grandparents at Tet.",
+            "options": ["can", "should", "may", "will"],
+            "correct": 1,
+            "explanation": "Lời khuyên nên làm → dùng 'should'."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "You ______ break things at Tet.",
+            "options": ["should", "shouldn't", "must", "can"],
+            "correct": 1,
+            "explanation": "Lời khuyên không nên làm → dùng 'shouldn't'."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I have ______ flowers for decoration.",
+            "options": ["some", "any", "much", "many"],
+            "correct": 0,
+            "explanation": "Câu khẳng định → dùng 'some'."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "Do you have ______ money?",
+            "options": ["some", "any", "much", "many"],
+            "correct": 1,
+            "explanation": "Câu hỏi → dùng 'any'."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "We have ______ flowers in the garden.",
+            "options": ["much", "many", "a little", "little"],
+            "correct": 1,
+            "explanation": "Flowers là danh từ đếm được → dùng 'many'."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "I need ______ water.",
+            "options": ["much", "many", "a few", "few"],
+            "correct": 0,
+            "explanation": "Water là danh từ không đếm được → dùng 'much'."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "You ______ clean your house before Tet.",
+            "options": ["can", "should", "may", "will"],
+            "correct": 1,
+            "explanation": "Lời khuyên nên làm → dùng 'should'."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "There aren't ______ apples left.",
+            "options": ["some", "any", "much", "a little"],
+            "correct": 1,
+            "explanation": "Câu phủ định → dùng 'any'."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "Would you like ______ tea?",
+            "options": ["some", "any", "much", "many"],
+            "correct": 0,
+            "explanation": "Câu hỏi mời/đề nghị → dùng 'some'."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "We have ______ of food for Tet.",
+            "options": ["many", "much", "a lot", "few"],
+            "correct": 2,
+            "explanation": "'A lot of' có thể dùng với cả danh từ đếm được và không đếm được."
+          }
+        ]
+      }
+    }
+  ]
+}

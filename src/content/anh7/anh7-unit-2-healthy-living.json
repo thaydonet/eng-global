@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 7",
+  "subject_id": 44,
+  "lessons": [
+    {
+      "id": "anh7-unit-2-healthy-living",
+      "name": "Unit 2: Healthy Living",
+      "slug": "unit-2-healthy-living",
+      "chapter": "Unit 2: Healthy Living",
+      "chapter_id": "A7",
+      "lesson_id": 2,
+      "description": "Learn about healthy habits and simple sentences.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=2653&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-2",
+          "name": "Health Vocabulary",
+          "slug": "health-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 2: Healthy Living",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Health</td><td class='px-4 py-2'>(n) /helθ/</td><td class='px-4 py-2'>Sức khỏe</td><td class='px-4 py-2'>Good health is important.</td></tr><tr><td class='px-4 py-2 font-bold'>Exercise</td><td class='px-4 py-2'>(n,v) /ˈeksəsaɪz/</td><td class='px-4 py-2'>Tập thể dục</td><td class='px-4 py-2'>I exercise every day.</td></tr><tr><td class='px-4 py-2 font-bold'>Diet</td><td class='px-4 py-2'>(n) /ˈdaɪət/</td><td class='px-4 py-2'>Chế độ ăn</td><td class='px-4 py-2'>A balanced diet is healthy.</td></tr><tr><td class='px-4 py-2 font-bold'>Vitamin</td><td class='px-4 py-2'>(n) /ˈvɪtəmɪn/</td><td class='px-4 py-2'>Vitamin</td><td class='px-4 py-2'>Fruits have many vitamins.</td></tr><tr><td class='px-4 py-2 font-bold'>Sleep</td><td class='px-4 py-2'>(n,v) /sliːp/</td><td class='px-4 py-2'>Ngủ</td><td class='px-4 py-2'>I sleep 8 hours a night.</td></tr><tr><td class='px-4 py-2 font-bold'>Fit</td><td class='px-4 py-2'>(adj) /fɪt/</td><td class='px-4 py-2'>Khỏe mạnh</td><td class='px-4 py-2'>She is very fit.</td></tr><tr><td class='px-4 py-2 font-bold'>Active</td><td class='px-4 py-2'>(adj) /ˈæktɪv/</td><td class='px-4 py-2'>Năng động</td><td class='px-4 py-2'>He is an active person.</td></tr><tr><td class='px-4 py-2 font-bold'>Fresh</td><td class='px-4 py-2'>(adj) /freʃ/</td><td class='px-4 py-2'>Tươi</td><td class='px-4 py-2'>Eat fresh vegetables.</td></tr><tr><td class='px-4 py-2 font-bold'>Junk food</td><td class='px-4 py-2'>(n) /dʒʌŋk fuːd/</td><td class='px-4 py-2'>Đồ ăn vặt</td><td class='px-4 py-2'>Don't eat too much junk food.</td></tr><tr><td class='px-4 py-2 font-bold'>Sunburn</td><td class='px-4 py-2'>(n) /ˈsʌnbɜːn/</td><td class='px-4 py-2'>Cháy nắng</td><td class='px-4 py-2'>Wear sunscreen to avoid sunburn.</td></tr><tr><td class='px-4 py-2 font-bold'>Acne</td><td class='px-4 py-2'>(n) /ˈækni/</td><td class='px-4 py-2'>Mụn trứng cá</td><td class='px-4 py-2'>Wash your face to prevent acne.</td></tr><tr><td class='px-4 py-2 font-bold'>Obesity</td><td class='px-4 py-2'>(n) /əʊˈbiːsəti/</td><td class='px-4 py-2'>Béo phì</td><td class='px-4 py-2'>Obesity is a health problem.</td></tr><tr><td class='px-4 py-2 font-bold'>Prevent</td><td class='px-4 py-2'>(v) /prɪˈvent/</td><td class='px-4 py-2'>Ngăn ngừa</td><td class='px-4 py-2'>Exercise prevents diseases.</td></tr><tr><td class='px-4 py-2 font-bold'>Avoid</td><td class='px-4 py-2'>(v) /əˈvɔɪd/</td><td class='px-4 py-2'>Tránh</td><td class='px-4 py-2'>Avoid junk food.</td></tr><tr><td class='px-4 py-2 font-bold'>Relax</td><td class='px-4 py-2'>(v) /rɪˈlæks/</td><td class='px-4 py-2'>Thư giãn</td><td class='px-4 py-2'>Relax after work.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Healthy habits (Thói quen tốt cho sức khỏe):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>exercise regularly:</strong> tập thể dục đều đặn</li><li><strong>eat healthy food:</strong> ăn thức ăn lành mạnh</li><li><strong>drink enough water:</strong> uống đủ nước</li><li><strong>get enough sleep:</strong> ngủ đủ giấc</li><li><strong>wash hands:</strong> rửa tay</li><li><strong>eat vegetables and fruits:</strong> ăn rau và trái cây</li><li><strong>avoid junk food:</strong> tránh đồ ăn vặt</li><li><strong>stay active:</strong> duy trì vận động</li></ul><p><strong>Health problems (Vấn đề sức khỏe):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>sunburn:</strong> cháy nắng</li><li><strong>acne:</strong> mụn trứng cá</li><li><strong>obesity:</strong> béo phì</li><li><strong>flu:</strong> cúm</li><li><strong>headache:</strong> đau đầu</li><li><strong>toothache:</strong> đau răng</li><li><strong>stomachache:</strong> đau bụng</li></ul><p><strong>Advice for healthy living:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>You should exercise.</strong></li><li><strong>You shouldn't eat junk food.</strong></li><li><strong>Don't stay up late.</strong></li><li><strong>Drink more water.</strong></li><li><strong>Eat more vegetables.</strong></li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /f/ and /v/</h3><p><strong>1. Sound /f/ (âm vô thanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Răng trên chạm môi dưới, không rung thanh quản</li><li><strong>Examples:</strong></li><li>fit /fɪt/</li><li>food /fuːd/</li><li>fresh /freʃ/</li><li>breakfast /ˈbrekfəst/</li></ul><p><strong>2. Sound /v/ (âm hữu thanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Răng trên chạm môi dưới, rung thanh quản</li><li><strong>Examples:</strong></li><li>vitamin /ˈvɪtəmɪn/</li><li>vegetable /ˈvedʒtəbl/</li><li>avoid /əˈvɔɪd/</li><li>active /ˈæktɪv/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>Simple Sentences (Câu đơn)</h3><p><strong>1. Định nghĩa:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu đơn là câu chỉ có một mệnh đề độc lập</li><li>Có một chủ ngữ và một động từ chính</li></ul><p><strong>2. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>S + V</strong></li><li>Ex: I <strong>exercise</strong>.</li><li><strong>S + V + O</strong></li><li>Ex: She <strong>eats</strong> vegetables.</li><li><strong>S + V + C</strong></li><li>Ex: He <strong>is</strong> healthy.</li><li><strong>S + V + O + O</strong></li><li>Ex: I <strong>give</strong> him advice.</li><li><strong>S + V + O + C</strong></li><li>Ex: Exercise <strong>keeps</strong> you fit.</li></ul><p><strong>3. Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I exercise every day. (S + V)</li><li>She drinks water. (S + V + O)</li><li>They are active. (S + V + C)</li><li>We eat healthy food. (S + V + O)</li></ul><p><strong>4. Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu đơn có thể có nhiều chủ ngữ hoặc động từ nhưng vẫn là một mệnh đề</li><li>Ex: Tom and Jerry <strong>exercise</strong> every day. (2 chủ ngữ)</li><li>Ex: I <strong>eat</strong> and <strong>drink</strong> healthy. (2 động từ)</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> How to stay healthy - Làm thế nào để khỏe mạnh</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về sức khỏe</li><li>Giới thiệu các thói quen tốt</li><li>Nói về vấn đề sức khỏe</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Health and healthy habits</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về sức khỏe</li><li>Học từ vựng về thói quen tốt</li></ul><p><strong>B. Pronunciation: /f/ and /v/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /f/ và /v/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Simple Sentences</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cấu trúc câu đơn</li><li>Phân biệt các loại câu đơn</li><li>Luyện tập viết câu đơn</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Giving health advice</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>You should...</li><li>You shouldn't...</li><li>Why don't you...?</li><li>It's good to...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Healthy living tips</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về lời khuyên sức khỏe</li><li>Tìm thông tin chi tiết</li></ul><p><strong>Speaking: Discussing health habits</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về thói quen của bản thân</li><li>Đưa ra lời khuyên</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: Health problems and advice</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về vấn đề sức khỏe</li><li>Ghi chú lời khuyên</li></ul><p><strong>Writing: A paragraph about healthy habits</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết về thói quen tốt</li><li>Sử dụng câu đơn</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Health and healthy habits</li><li><strong>Pronunciation:</strong> /f/ and /v/</li><li><strong>Grammar:</strong> Simple Sentences</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> Healthy living poster</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Thiết kế poster về sống khỏe</li><li>Đưa ra 5-7 lời khuyên</li><li>Sử dụng hình ảnh minh họa</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Nhận biết câu đơn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu đơn chỉ có một mệnh đề</li><li>Có một chủ ngữ và một động từ chính</li><li>Không có liên từ nối mệnh đề (and, but, or, so)</li></ul>",
+            "examples": [
+              {
+                "question": "Which is a simple sentence? A) I exercise and eat well. B) I exercise, but she doesn't.",
+                "solution": "<strong>A) I exercise and eat well.</strong>",
+                "explanation": "Câu A là câu đơn (một mệnh đề, 'and' nối 2 động từ). Câu B là câu ghép (2 mệnh đề)."
+              },
+              {
+                "question": "Identify the simple sentence: A) She is healthy. B) She is healthy, so she is happy.",
+                "solution": "<strong>A) She is healthy.</strong>",
+                "explanation": "Câu A là câu đơn (S + V + C). Câu B là câu ghép (có 'so')."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Viết câu đơn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng cấu trúc: S + V (+ O/C)</li><li>Đảm bảo chỉ có một mệnh đề</li><li>Có thể có nhiều chủ ngữ hoặc động từ</li></ul>",
+            "examples": [
+              {
+                "question": "Write a simple sentence about exercise.",
+                "solution": "<strong>I exercise every day.</strong>",
+                "explanation": "Câu đơn: S (I) + V (exercise) + trạng ngữ."
+              },
+              {
+                "question": "Write a simple sentence about healthy food.",
+                "solution": "<strong>She eats vegetables.</strong>",
+                "explanation": "Câu đơn: S (She) + V (eats) + O (vegetables)."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Cho lời khuyên với should/shouldn't",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Should + V: nên làm gì</li><li>Shouldn't + V: không nên làm gì</li><li>Dùng để đưa ra lời khuyên</li></ul>",
+            "examples": [
+              {
+                "question": "Give advice: He eats too much junk food.",
+                "solution": "<strong>He shouldn't eat too much junk food.</strong>",
+                "explanation": "Lời khuyên phủ định → shouldn't + V."
+              },
+              {
+                "question": "Give advice: She wants to be healthy.",
+                "solution": "<strong>She should exercise regularly.</strong>",
+                "explanation": "Lời khuyên khẳng định → should + V."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Từ vựng về sức khỏe",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về thói quen tốt</li><li>Học từ vựng về vấn đề sức khỏe</li><li>Học cách đưa ra lời khuyên</li></ul>",
+            "examples": [
+              {
+                "question": "What should you do to stay healthy?",
+                "solution": "<strong>Exercise regularly and eat healthy food.</strong>",
+                "explanation": "Thói quen tốt: tập thể dục và ăn uống lành mạnh."
+              },
+              {
+                "question": "What should you avoid?",
+                "solution": "<strong>Avoid junk food and staying up late.</strong>",
+                "explanation": "Tránh đồ ăn vặt và thức khuya."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "You ______ exercise every day.",
+            "options": ["should", "shouldn't", "can't", "mustn't"],
+            "correct": 0,
+            "explanation": "Lời khuyên tích cực → should."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "You ______ eat too much junk food.",
+            "options": ["should", "shouldn't", "must", "can"],
+            "correct": 1,
+            "explanation": "Lời khuyên tiêu cực → shouldn't."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "Which is a simple sentence?",
+            "options": ["I exercise every day.", "I exercise, but she doesn't.", "I exercise because I want to be healthy.", "I exercise, so I am fit."],
+            "correct": 0,
+            "explanation": "Câu đơn chỉ có một mệnh đề."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "______ prevents diseases.",
+            "options": ["Exercise", "Exercises", "Exercising", "To exercise"],
+            "correct": 0,
+            "explanation": "Chủ ngữ số ít → Exercise (danh từ)."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She ______ vegetables every day.",
+            "options": ["eat", "eats", "eating", "to eat"],
+            "correct": 1,
+            "explanation": "She (ngôi thứ 3) → eats."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ junk food is bad for health.",
+            "options": ["Eat", "Eats", "Eating", "To eating"],
+            "correct": 2,
+            "explanation": "Chủ ngữ là V-ing → Eating."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "You should ______ enough water.",
+            "options": ["drink", "drinks", "drinking", "to drink"],
+            "correct": 0,
+            "explanation": "Should + V nguyên mẫu → drink."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "He ______ 8 hours a night.",
+            "options": ["sleep", "sleeps", "sleeping", "to sleep"],
+            "correct": 1,
+            "explanation": "He (ngôi thứ 3) → sleeps."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "______ is important for health.",
+            "options": ["Sleep", "Sleeps", "Sleeping", "To sleeping"],
+            "correct": 2,
+            "explanation": "Chủ ngữ là V-ing → Sleeping."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "You shouldn't ______ up late.",
+            "options": ["stay", "stays", "staying", "to stay"],
+            "correct": 0,
+            "explanation": "Shouldn't + V nguyên mẫu → stay."
+          }
+        ]
+      }
+    }
+  ]
+}

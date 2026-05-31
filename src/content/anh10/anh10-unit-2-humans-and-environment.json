@@ -1,0 +1,447 @@
+{
+  "subject": "Tiếng Anh 10",
+  "subject_id": 40,
+  "lessons": [
+    {
+      "id": "anh10-unit-2-humans-and-environment",
+      "name": "Unit 2: Humans and the Environment",
+      "slug": "unit-2-humans-and-the-environment",
+      "chapter": "Unit 2: Humans and the Environment",
+      "chapter_id": "A10",
+      "lesson_id": 2,
+      "description": "Học về bảo vệ môi trường, lối sống xanh và phân biệt 'will' và 'be going to'.",
+      "duration_minutes": 300,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=2026&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh10-unit-2-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về mối quan hệ giữa con người và môi trường",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh10-unit-2-p1-getting-started.json"
+        },
+        {
+          "id": "anh10-unit-2-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về bảo vệ môi trường và lối sống xanh",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh10-unit-2-p2-vocabulary.json"
+        },
+        {
+          "id": "anh10-unit-2-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Will vs. Be going to và câu bị động",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh10-unit-2-p3-grammar.json"
+        },
+        {
+          "id": "anh10-unit-2-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về lối sống thân thiện với môi trường",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh10-unit-2-p4-reading.json"
+        },
+        {
+          "id": "anh10-unit-2-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về các vấn đề môi trường và giải pháp",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh10-unit-2-p5-speaking.json"
+        },
+        {
+          "id": "anh10-unit-2-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về bảo vệ môi trường",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh10-unit-2-p6-listening.json"
+        },
+        {
+          "id": "anh10-unit-2-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về cách giảm dấu chân carbon",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh10-unit-2-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-2",
+          "name": "Environmental Vocabulary",
+          "slug": "environmental-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 2: Humans and the Environment",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Environment</td><td class='px-4 py-2'>(n) /ɪnˈvaɪrənmənt/</td><td class='px-4 py-2'>Môi trường</td><td class='px-4 py-2'>We must protect the environment.</td></tr><tr><td class='px-4 py-2 font-bold'>Eco-friendly</td><td class='px-4 py-2'>(adj) /ˌiːkəʊ ˈfrendli/</td><td class='px-4 py-2'>Thân thiện với môi trường</td><td class='px-4 py-2'>Use eco-friendly products.</td></tr><tr><td class='px-4 py-2 font-bold'>Carbon footprint</td><td class='px-4 py-2'>(n) /ˌkɑːbən ˈfʊtprɪnt/</td><td class='px-4 py-2'>Dấu chân carbon</td><td class='px-4 py-2'>Reduce your carbon footprint.</td></tr><tr><td class='px-4 py-2 font-bold'>Sustainable</td><td class='px-4 py-2'>(adj) /səˈsteɪnəbl/</td><td class='px-4 py-2'>Bền vững</td><td class='px-4 py-2'>Sustainable development is important.</td></tr><tr><td class='px-4 py-2 font-bold'>Greenhouse gas</td><td class='px-4 py-2'>(n) /ˌɡriːnhaʊs ˈɡæs/</td><td class='px-4 py-2'>Khí nhà kính</td><td class='px-4 py-2'>Greenhouse gases cause global warming.</td></tr><tr><td class='px-4 py-2 font-bold'>Pollution</td><td class='px-4 py-2'>(n) /pəˈluːʃn/</td><td class='px-4 py-2'>Sự ô nhiễm</td><td class='px-4 py-2'>Air pollution is a serious problem.</td></tr><tr><td class='px-4 py-2 font-bold'>Renewable</td><td class='px-4 py-2'>(adj) /rɪˈnjuːəbl/</td><td class='px-4 py-2'>Có thể tái tạo</td><td class='px-4 py-2'>Solar energy is renewable.</td></tr><tr><td class='px-4 py-2 font-bold'>Recycle</td><td class='px-4 py-2'>(v) /ˌriːˈsaɪkl/</td><td class='px-4 py-2'>Tái chế</td><td class='px-4 py-2'>We should recycle plastic bottles.</td></tr><tr><td class='px-4 py-2 font-bold'>Reduce</td><td class='px-4 py-2'>(v) /rɪˈdjuːs/</td><td class='px-4 py-2'>Giảm thiểu</td><td class='px-4 py-2'>Reduce waste and save energy.</td></tr><tr><td class='px-4 py-2 font-bold'>Reuse</td><td class='px-4 py-2'>(v) /ˌriːˈjuːz/</td><td class='px-4 py-2'>Tái sử dụng</td><td class='px-4 py-2'>Reuse shopping bags.</td></tr><tr><td class='px-4 py-2 font-bold'>Organic</td><td class='px-4 py-2'>(adj) /ɔːˈɡænɪk/</td><td class='px-4 py-2'>Hữu cơ</td><td class='px-4 py-2'>Buy organic food.</td></tr><tr><td class='px-4 py-2 font-bold'>Emission</td><td class='px-4 py-2'>(n) /ɪˈmɪʃn/</td><td class='px-4 py-2'>Khí thải</td><td class='px-4 py-2'>Carbon emissions harm the planet.</td></tr><tr><td class='px-4 py-2 font-bold'>Global warming</td><td class='px-4 py-2'>(n) /ˌɡləʊbl ˈwɔːmɪŋ/</td><td class='px-4 py-2'>Sự nóng lên toàn cầu</td><td class='px-4 py-2'>Global warming is accelerating.</td></tr><tr><td class='px-4 py-2 font-bold'>Climate change</td><td class='px-4 py-2'>(n) /ˈklaɪmət tʃeɪndʒ/</td><td class='px-4 py-2'>Biến đổi khí hậu</td><td class='px-4 py-2'>Climate change affects everyone.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>The 3Rs: Reduce - Reuse - Recycle</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Reduce:</strong> Giảm thiểu lượng rác thải và tiêu thụ năng lượng</li><li><strong>Reuse:</strong> Tái sử dụng các vật dụng thay vì vứt bỏ</li><li><strong>Recycle:</strong> Tái chế các vật liệu như giấy, nhựa, kim loại</li></ul><p><strong>Collocations về môi trường:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>protect the environment:</strong> bảo vệ môi trường</li><li><strong>reduce carbon footprint:</strong> giảm dấu chân carbon</li><li><strong>save energy:</strong> tiết kiệm năng lượng</li><li><strong>cut down on waste:</strong> cắt giảm rác thải</li><li><strong>use renewable energy:</strong> sử dụng năng lượng tái tạo</li><li><strong>raise awareness:</strong> nâng cao nhận thức</li><li><strong>adopt green lifestyle:</strong> áp dụng lối sống xanh</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ pháp: will/ be going to, câu bị động",
+              "content": "<h3>A. Will vs. Be going to</h3><p><strong>1. WILL</strong></p><p><strong>Công thức:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khẳng định: S + will + V(inf)</li><li>Phủ định: S + will not (won't) + V(inf)</li><li>Nghi vấn: Will + S + V(inf)?</li></ul><p><strong>Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Quyết định tức thì tại thời điểm nói</li><li>Dự đoán chủ quan (với I think, I hope, I believe...)</li><li>Lời hứa, lời đề nghị, lời yêu cầu</li></ul><p><strong>Ví dụ:</strong> The phone is ringing. I'll answer it.</p><p><strong>2. BE GOING TO</strong></p><p><strong>Công thức:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khẳng định: S + am/is/are + going to + V(inf)</li><li>Phủ định: S + am/is/are + not + going to + V(inf)</li><li>Nghi vấn: Am/Is/Are + S + going to + V(inf)?</li></ul><p><strong>Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dự định, kế hoạch đã định sẵn</li><li>Dự đoán có căn cứ ở hiện tại</li></ul><p><strong>Ví dụ:</strong> Look at those dark clouds! It's going to rain.</p><h3>B. Passive Voice (Câu bị động)</h3><p><strong>Công thức chung:</strong> S + be + V3/ed (+ by O)</p><p><strong>Các thì thường gặp:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Present Simple:</strong> S + am/is/are + V3/ed<br>Ex: The environment is polluted by factories.</li><li><strong>Past Simple:</strong> S + was/were + V3/ed<br>Ex: The trees were planted last year.</li><li><strong>Present Continuous:</strong> S + am/is/are + being + V3/ed<br>Ex: The room is being cleaned now.</li><li><strong>Present Perfect:</strong> S + have/has + been + V3/ed<br>Ex: The work has been finished.</li><li><strong>Future Simple:</strong> S + will + be + V3/ed<br>Ex: More trees will be planted next month.</li><li><strong>Modal verbs:</strong> S + modal + be + V3/ed<br>Ex: Plastic bags should be replaced by paper bags.</li></ul><p><strong>Khi nào dùng câu bị động:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Không biết hoặc không quan trọng ai thực hiện hành động</li><li>Muốn nhấn mạnh đối tượng chịu tác động</li><li>Trong văn viết khoa học, báo cáo</li></ul>"
+            },
+            {
+              "heading": "4. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Giới thiệu về mối quan hệ giữa con người và môi trường.</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về các vấn đề môi trường hiện nay</li><li>Thảo luận về tác động của con người đến môi trường</li><li>Từ vựng về ô nhiễm và bảo vệ môi trường</li><li>Các hành động xanh trong cuộc sống hàng ngày</li></ul>"
+            },
+            {
+              "heading": "5. II. Language",
+              "content": "<p><strong>A. Pronunciation: Sentence stress</strong></p><p>Nhấn mạnh các từ quan trọng trong câu (content words: nouns, verbs, adjectives, adverbs)</p><p>Không nhấn mạnh: articles, prepositions, pronouns, auxiliary verbs</p><p><strong>B. Vocabulary:</strong> Environmental protection and green living</p><ul class='list-disc pl-5 space-y-2'><li>Words related to pollution and environmental problems</li><li>The 3Rs: Reduce, Reuse, Recycle</li><li>Green lifestyle vocabulary</li></ul><p><strong>C. Grammar:</strong> Will vs. Be going to & Passive Voice</p>"
+            },
+            {
+              "heading": "6. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Going Green - Ways to live an eco-friendly life</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu văn bản về lối sống xanh</li><li>Tìm thông tin chi tiết về các cách bảo vệ môi trường</li><li>Hiểu ý chính và ý phụ của đoạn văn</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li></ul><p><strong>Nội dung:</strong> Bài đọc giới thiệu các cách sống thân thiện với môi trường như giảm sử dụng nhựa, tiết kiệm năng lượng, sử dụng phương tiện công cộng, và áp dụng nguyên tắc 3Rs.</p>"
+            },
+            {
+              "heading": "7. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Discussing environmental problems and solutions</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả các vấn đề môi trường</li><li>Đưa ra giải pháp bảo vệ môi trường</li><li>Thảo luận về trách nhiệm của mỗi người</li><li>Thuyết phục người khác sống xanh</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I think we should...</li><li>One way to protect the environment is...</li><li>It's important to...</li><li>We can reduce pollution by...</li><li>In my opinion, the best solution is...</li></ul>"
+            },
+            {
+              "heading": "8. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> An interview about environmental protection</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu thông tin về các hoạt động bảo vệ môi trường</li><li>Điền thông tin còn thiếu vào bảng</li><li>Trả lời câu hỏi chi tiết về nội dung nghe</li><li>Ghi chú các ý chính</li></ul>"
+            },
+            {
+              "heading": "9. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing about ways to reduce your carbon footprint</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đoạn văn về cách giảm dấu chân carbon</li><li>Sử dụng câu bị động để mô tả các hành động</li><li>Sử dụng từ nối: First, Second, Moreover, In addition, Finally...</li><li>Đưa ra lý do và ví dụ cụ thể</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Introduction: Giới thiệu về vấn đề môi trường</li><li>Body: Nêu các cách giảm dấu chân carbon</li><li>Conclusion: Kêu gọi hành động</li></ul>"
+            },
+            {
+              "heading": "10. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Discussing green habits and environmental awareness</p><p><strong>Culture:</strong> Environmental protection in different countries</p><ul class='list-disc pl-5 space-y-2'><li>So sánh các chính sách môi trường ở Việt Nam và các nước khác</li><li>Tìm hiểu về các phong trào bảo vệ môi trường toàn cầu</li><li>Các ngày lễ về môi trường: Earth Day, World Environment Day</li><li>Thảo luận về trách nhiệm của cá nhân và cộng đồng</li></ul><p><strong>CLIL (Science):</strong> The greenhouse effect and global warming</p>"
+            },
+            {
+              "heading": "11. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vocabulary: Environmental protection, the 3Rs, green living</li><li>Pronunciation: Sentence stress</li><li>Grammar: Will vs. Be going to, Passive Voice</li><li>Skills: Reading, Speaking, Listening, Writing</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng sử dụng từ vựng và ngữ pháp đã học</p>"
+            },
+            {
+              "heading": "12. IX. Project",
+              "content": "<p><strong>Đề tài:</strong> Go Green Campaign</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Thiết kế một chiến dịch sống xanh cho trường học</li><li>Tạo poster hoặc video về bảo vệ môi trường</li><li>Đề xuất các hoạt động cụ thể (recycling program, tree planting...)</li><li>Trình bày kế hoạch và kêu gọi mọi người tham gia</li><li>Đánh giá tác động của chiến dịch</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Phonetics",
+            "method": "<p>Choose the word whose underlined part is pronounced differently.</p>",
+            "examples": []
+          },
+          {
+            "id": "dang2",
+            "name": "Type 2: Passive Voice Transformation",
+            "method": "<p>Change the active sentences into passive ones.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Climate change is one of the biggest challenges facing our planet today. Human activities, such as burning fossil fuels and cutting down forests, release greenhouse gases into the atmosphere. These gases trap heat and cause global warming.\n\nTo protect the environment, we need to follow the 3Rs: Reduce, Reuse, and Recycle. We should reduce our use of plastic bags and single-use items. Instead of throwing things away, we can reuse them for different purposes. Recycling helps turn waste materials into new products.\n\nUsing renewable energy sources like solar and wind power is also important. These clean energy sources don't produce harmful emissions. By making small changes in our daily lives, we can all help reduce our carbon footprint and create a more sustainable future.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main cause of global warming mentioned in the passage?",
+                "options": [
+                  "Natural disasters",
+                  "Greenhouse gases from human activities",
+                  "Too much rain",
+                  "Cold weather"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói rõ khí nhà kính từ hoạt động con người gây ra nóng lên toàn cầu."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "What do the 3Rs stand for?",
+                "options": [
+                  "Read, Write, Remember",
+                  "Reduce, Reuse, Recycle",
+                  "Run, Rest, Relax",
+                  "Remove, Replace, Repair"
+                ],
+                "correct": 1,
+                "explanation": "The 3Rs là: Reduce (giảm), Reuse (tái sử dụng), Recycle (tái chế)."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "According to the passage, renewable energy sources ______.",
+                "options": [
+                  "produce harmful emissions",
+                  "are expensive and difficult to use",
+                  "don't produce harmful emissions",
+                  "cause global warming"
+                ],
+                "correct": 2,
+                "explanation": "Đoạn văn nói 'These clean energy sources don't produce harmful emissions'."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "The word 'sustainable' in paragraph 3 is closest in meaning to ______.",
+                "options": [
+                  "able to continue for a long time",
+                  "very expensive",
+                  "difficult to achieve",
+                  "temporary and short"
+                ],
+                "correct": 0,
+                "explanation": "Sustainable = able to continue for a long time (bền vững)."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "What can we do to help the environment?",
+                "options": [
+                  "Use more plastic bags",
+                  "Cut down more trees",
+                  "Make small changes in daily life",
+                  "Burn more fossil fuels"
+                ],
+                "correct": 2,
+                "explanation": "Đoạn cuối nói 'By making small changes in our daily lives, we can all help'."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "We should ______ our carbon footprint to protect the planet.",
+            "options": [
+              "increase",
+              "reduce",
+              "expand",
+              "raise"
+            ],
+            "correct": 1,
+            "explanation": "Reduce carbon footprint: giảm dấu chân carbon."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "______ gases like CO2 cause global warming.",
+            "options": [
+              "Natural",
+              "Greenhouse",
+              "Fresh",
+              "Clean"
+            ],
+            "correct": 1,
+            "explanation": "Greenhouse gases: khí nhà kính."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "We should use ______ energy to protect the environment.",
+            "options": [
+              "harmful",
+              "renewable",
+              "expensive",
+              "dangerous"
+            ],
+            "correct": 1,
+            "explanation": "Renewable energy: năng lượng tái tạo."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "Buying ______ products is a good way to live green.",
+            "options": [
+              "chemical",
+              "organic",
+              "plastic",
+              "expensive"
+            ],
+            "correct": 1,
+            "explanation": "Organic products: sản phẩm hữu cơ."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "A: The phone is ringing. - B: I ______ it.",
+            "options": [
+              "will answer",
+              "am going to answer",
+              "answer",
+              "answered"
+            ],
+            "correct": 0,
+            "explanation": "Quyết định tức thì dùng 'will'."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "Look at those dark clouds! It ______ soon.",
+            "options": [
+              "will rain",
+              "is going to rain",
+              "rains",
+              "rained"
+            ],
+            "correct": 1,
+            "explanation": "Dự đoán có căn cứ (dark clouds) dùng 'be going to'."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "The environment ______ by human activities.",
+            "options": [
+              "pollutes",
+              "is polluted",
+              "polluted",
+              "polluting"
+            ],
+            "correct": 1,
+            "explanation": "Câu bị động ở hiện tại đơn: S + is/are + V3/ed."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "More trees ______ in the park next month.",
+            "options": [
+              "will plant",
+              "will be planted",
+              "are planted",
+              "plant"
+            ],
+            "correct": 1,
+            "explanation": "Câu bị động ở tương lai: S + will be + V3/ed."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "Plastic bags should ______ by paper bags.",
+            "options": [
+              "replace",
+              "be replaced",
+              "replacing",
+              "replaced"
+            ],
+            "correct": 1,
+            "explanation": "Bị động với modal verb: should be + V3/ed."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "We must ______ awareness about environmental protection.",
+            "options": [
+              "rise",
+              "raise",
+              "arise",
+              "rose"
+            ],
+            "correct": 1,
+            "explanation": "Raise awareness: nâng cao nhận thức."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "The 3Rs stand for Reduce, Reuse, and Recycle.",
+            "options": [
+              "True",
+              "False"
+            ],
+            "correct": 0,
+            "explanation": "Đúng. The 3Rs là Reduce, Reuse, Recycle."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "'Will' is used for decisions made before the moment of speaking.",
+            "options": [
+              "True",
+              "False"
+            ],
+            "correct": 1,
+            "explanation": "Sai. 'Will' dùng cho quyết định tức thì, 'be going to' cho quyết định đã có từ trước."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Renewable energy sources produce harmful emissions.",
+            "options": [
+              "True",
+              "False"
+            ],
+            "correct": 1,
+            "explanation": "Sai. Năng lượng tái tạo không tạo ra khí thải độc hại."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What is the mark that shows the amount of CO2 produced by your activities called? (two words)",
+            "correct": "carbon footprint",
+            "explanation": "Carbon footprint: dấu chân carbon."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: We should ______ down on plastic use. (cut)",
+            "correct": "cut",
+            "explanation": "Cut down on: cắt giảm, giảm bớt."
+          },
+          {
+            "id": "phonetics1",
+            "type": "mcq",
+            "question": "Choose the word whose underlined part is pronounced differently: **pl**anet, **pl**ant, **pl**astic, **pr**otect",
+            "options": [
+              "planet",
+              "plant",
+              "plastic",
+              "protect"
+            ],
+            "correct": 3,
+            "explanation": "Câu D phát âm là /pr/, các câu còn lại là /pl/."
+          },
+          {
+            "id": "phonetics2",
+            "type": "mcq",
+            "question": "Choose the word whose underlined part is pronounced differently: **gr**een, **gr**oup, **gr**ound, **gl**obal",
+            "options": [
+              "green",
+              "group",
+              "ground",
+              "global"
+            ],
+            "correct": 3,
+            "explanation": "Câu D phát âm là /gl/, các câu còn lại là /gr/."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write a paragraph (100-120 words) about how to adopt a green lifestyle.",
+            "explanation": "Gợi ý: Nêu các hành động như tiết kiệm điện, sử dụng phương tiện công cộng, thực hành 3Rs..."
+          }
+        ]
+      }
+    }
+  ]
+}

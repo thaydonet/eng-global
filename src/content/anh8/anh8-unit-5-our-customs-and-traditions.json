@@ -1,0 +1,214 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-unit-5-our-customs-and-traditions",
+      "name": "Unit 5: Our Customs and Traditions",
+      "slug": "unit-5-our-customs-and-traditions",
+      "chapter": "Unit 5: Our Customs and Traditions",
+      "chapter_id": "A8",
+      "lesson_id": 5,
+      "description": "Learn about customs and traditions with zero article usage.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-5",
+          "name": "Customs and Traditions Vocabulary",
+          "slug": "customs-traditions-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 5: Our Customs and Traditions",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Custom</td><td class='px-4 py-2'>(n) /ˈkʌstəm/</td><td class='px-4 py-2'>Phong tục</td><td class='px-4 py-2'>It's a Vietnamese custom.</td></tr><tr><td class='px-4 py-2 font-bold'>Tradition</td><td class='px-4 py-2'>(n) /trəˈdɪʃn/</td><td class='px-4 py-2'>Truyền thống</td><td class='px-4 py-2'>We follow traditions.</td></tr><tr><td class='px-4 py-2 font-bold'>Generation</td><td class='px-4 py-2'>(n) /ˌdʒenəˈreɪʃn/</td><td class='px-4 py-2'>Thế hệ</td><td class='px-4 py-2'>Pass down through generations.</td></tr><tr><td class='px-4 py-2 font-bold'>Respect</td><td class='px-4 py-2'>(v,n) /rɪˈspekt/</td><td class='px-4 py-2'>Tôn trọng</td><td class='px-4 py-2'>We respect elders.</td></tr><tr><td class='px-4 py-2 font-bold'>Bow</td><td class='px-4 py-2'>(v) /baʊ/</td><td class='px-4 py-2'>Cúi chào</td><td class='px-4 py-2'>They bow to greet.</td></tr><tr><td class='px-4 py-2 font-bold'>Offering</td><td class='px-4 py-2'>(n) /ˈɒfərɪŋ/</td><td class='px-4 py-2'>Lễ vật</td><td class='px-4 py-2'>Make offerings to ancestors.</td></tr><tr><td class='px-4 py-2 font-bold'>Altar</td><td class='px-4 py-2'>(n) /ˈɔːltə(r)/</td><td class='px-4 py-2'>Bàn thờ</td><td class='px-4 py-2'>The altar is sacred.</td></tr><tr><td class='px-4 py-2 font-bold'>Cutlery</td><td class='px-4 py-2'>(n) /ˈkʌtləri/</td><td class='px-4 py-2'>Dao nĩa</td><td class='px-4 py-2'>Use cutlery properly.</td></tr><tr><td class='px-4 py-2 font-bold'>Chopsticks</td><td class='px-4 py-2'>(n) /ˈtʃɒpstɪks/</td><td class='px-4 py-2'>Đũa</td><td class='px-4 py-2'>We eat with chopsticks.</td></tr><tr><td class='px-4 py-2 font-bold'>Wrap</td><td class='px-4 py-2'>(v) /ræp/</td><td class='px-4 py-2'>Gói</td><td class='px-4 py-2'>Wrap gifts nicely.</td></tr><tr><td class='px-4 py-2 font-bold'>Reunite</td><td class='px-4 py-2'>(v) /ˌriːjuˈnaɪt/</td><td class='px-4 py-2'>Đoàn tụ</td><td class='px-4 py-2'>Families reunite at Tet.</td></tr><tr><td class='px-4 py-2 font-bold'>Obliged</td><td class='px-4 py-2'>(adj) /əˈblaɪdʒd/</td><td class='px-4 py-2'>Bắt buộc</td><td class='px-4 py-2'>You're obliged to follow.</td></tr><tr><td class='px-4 py-2 font-bold'>Spot</td><td class='px-4 py-2'>(v) /spɒt/</td><td class='px-4 py-2'>Nhận ra</td><td class='px-4 py-2'>I spotted the difference.</td></tr><tr><td class='px-4 py-2 font-bold'>Reflect</td><td class='px-4 py-2'>(v) /rɪˈflekt/</td><td class='px-4 py-2'>Phản ánh</td><td class='px-4 py-2'>Customs reflect culture.</td></tr><tr><td class='px-4 py-2 font-bold'>Preserve</td><td class='px-4 py-2'>(v) /prɪˈzɜːv/</td><td class='px-4 py-2'>Bảo tồn</td><td class='px-4 py-2'>Preserve traditions.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Vietnamese customs:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>respect elders:</strong> tôn trọng người lớn tuổi</li><li><strong>take off shoes:</strong> cởi giày khi vào nhà</li><li><strong>use both hands:</strong> dùng hai tay khi đưa/nhận đồ</li><li><strong>bow to greet:</strong> cúi chào</li><li><strong>make offerings:</strong> dâng lễ vật</li></ul><p><strong>Table manners:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>use chopsticks:</strong> dùng đũa</li><li><strong>wait for elders:</strong> đợi người lớn ăn trước</li><li><strong>finish your food:</strong> ăn hết phần của mình</li><li><strong>don't point chopsticks:</strong> không chỉ đũa vào người</li></ul><p><strong>Traditions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>family reunion:</strong> đoàn tụ gia đình</li><li><strong>ancestor worship:</strong> thờ cúng tổ tiên</li><li><strong>give lucky money:</strong> mừng tuổi</li><li><strong>visit relatives:</strong> thăm họ hàng</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Clusters /spr/ and /str/</h3><p><strong>1. Cluster /spr/:</strong></p><ul class='list-disc pl-5 space-y-2'><li>spring /sprɪŋ/</li><li>spread /spred/</li><li>spray /spreɪ/</li></ul><p><strong>2. Cluster /str/:</strong></p><ul class='list-disc pl-5 space-y-2'><li>street /striːt/</li><li>strong /strɒŋ/</li><li>strange /streɪndʒ/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>Zero Article (Không dùng mạo từ)</h3><p><strong>A. Khi KHÔNG dùng mạo từ (a, an, the):</strong></p><p><strong>1. Danh từ số nhiều nói chung:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: <strong>Customs</strong> are important. (phong tục nói chung)</li><li>Ex: <strong>Children</strong> love festivals.</li></ul><p><strong>2. Danh từ không đếm được nói chung:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: <strong>Water</strong> is essential.</li><li>Ex: <strong>Rice</strong> is a staple food.</li></ul><p><strong>3. Tên bữa ăn:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: have <strong>breakfast/lunch/dinner</strong></li><li>Ex: We have <strong>breakfast</strong> at 7.</li></ul><p><strong>4. Môn thể thao và trò chơi:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: play <strong>football/chess/cards</strong></li><li>Ex: I play <strong>badminton</strong>.</li></ul><p><strong>5. Môn học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: study <strong>English/Math/History</strong></li><li>Ex: I like <strong>Science</strong>.</li></ul><p><strong>6. Ngôn ngữ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: speak <strong>Vietnamese/English</strong></li><li>Ex: She speaks <strong>French</strong>.</li></ul><p><strong>7. Tên quốc gia, châu lục, thành phố (thông thường):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: <strong>Vietnam, Asia, Hanoi</strong></li><li>Ex: I live in <strong>Vietnam</strong>.</li><li><strong>Ngoại lệ:</strong> the UK, the USA, the Philippines</li></ul><p><strong>8. Tên núi đơn lẻ, hồ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: <strong>Mount Everest, Lake Superior</strong></li></ul><p><strong>9. Các ngày lễ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: <strong>Christmas, Tet, Easter</strong></li><li>Ex: We celebrate <strong>Tet</strong>.</li></ul><p><strong>10. Với 'by' + phương tiện:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: by <strong>car/bus/train/plane</strong></li><li>Ex: I go by <strong>bike</strong>.</li></ul><p><strong>B. Khi PHẢI dùng mạo từ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Danh từ xác định: <strong>the</strong> customs of Vietnam</li><li>Lần đầu nhắc: <strong>a</strong> custom</li><li>Nhạc cụ: play <strong>the</strong> piano</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Customs and traditions</p><p><strong>Nội dung:</strong> Hội thoại về phong tục, truyền thống gia đình</p>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary:</strong> Customs and traditions</p><p><strong>B. Pronunciation:</strong> Clusters /spr/ and /str/</p>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar:</strong> Zero article (không dùng mạo từ)</p>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>It's a custom to...</li><li>We have a tradition of...</li><li>You should/shouldn't...</li><li>It's important to...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading:</strong> About customs and traditions</p><p><strong>Speaking:</strong> Discussing family customs</p>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening:</strong> About a tradition</p><p><strong>Writing:</strong> About a custom or tradition</p>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong> Vocabulary, Pronunciation, Grammar</p>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> A Vietnamese custom or tradition</p><p><strong>Nhiệm vụ:</strong> Nghiên cứu, tạo presentation, viết mô tả (100-120 từ)</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Không dùng mạo từ với danh từ chung",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Danh từ số nhiều/không đếm được nói chung → không dùng mạo từ</li></ul>",
+            "examples": [
+              {
+                "question": "______ customs are important.",
+                "solution": "Customs are important. (không dùng mạo từ)",
+                "explanation": "Customs (số nhiều, nói chung) → không dùng mạo từ"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Không dùng mạo từ với bữa ăn, môn thể thao",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>have breakfast/lunch/dinner</li><li>play football/chess</li></ul>",
+            "examples": [
+              {
+                "question": "I have ______ breakfast at 7.",
+                "solution": "I have breakfast at 7. (không dùng mạo từ)",
+                "explanation": "Bữa ăn → không dùng mạo từ"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Không dùng mạo từ với ngôn ngữ, môn học",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>speak English/Vietnamese</li><li>study Math/Science</li></ul>",
+            "examples": [
+              {
+                "question": "I speak ______ Vietnamese.",
+                "solution": "I speak Vietnamese. (không dùng mạo từ)",
+                "explanation": "Ngôn ngữ → không dùng mạo từ"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Phân biệt khi dùng và không dùng",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói chung → không dùng</li><li>Xác định → dùng 'the'</li></ul>",
+            "examples": [
+              {
+                "question": "______ customs of Vietnam vs ______ customs are important.",
+                "solution": "<strong>The</strong> customs of Vietnam vs Customs are important.",
+                "explanation": "Xác định → the; Nói chung → không dùng"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ customs are important.",
+            "options": ["A", "An", "The", "No article"],
+            "correct": 3,
+            "explanation": "Customs (số nhiều, nói chung) → không dùng mạo từ"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "I have ______ breakfast at 7.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 3,
+            "explanation": "Bữa ăn → không dùng mạo từ"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I speak ______ Vietnamese.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 3,
+            "explanation": "Ngôn ngữ → không dùng mạo từ"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I play ______ football.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 3,
+            "explanation": "Môn thể thao → không dùng mạo từ"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "I live in ______ Vietnam.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 3,
+            "explanation": "Tên quốc gia thông thường → không dùng mạo từ"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "We celebrate ______ Tet.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 3,
+            "explanation": "Ngày lễ → không dùng mạo từ"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "I go by ______ bus.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 3,
+            "explanation": "by + phương tiện → không dùng mạo từ"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "I study ______ English.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 3,
+            "explanation": "Môn học → không dùng mạo từ"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "______ customs of Vietnam are unique.",
+            "options": ["A", "An", "The", "No article"],
+            "correct": 2,
+            "explanation": "Xác định (of Vietnam) → the"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______ water is essential.",
+            "options": ["A", "An", "The", "No article"],
+            "correct": 3,
+            "explanation": "Danh từ không đếm được nói chung → không dùng mạo từ"
+          }
+        ]
+      }
+    }
+  ]
+}

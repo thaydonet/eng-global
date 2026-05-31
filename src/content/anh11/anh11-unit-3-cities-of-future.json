@@ -1,0 +1,351 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-unit-3",
+      "name": "Unit 3: Cities of the Future",
+      "slug": "unit-3-cities-of-future",
+      "chapter": "Unit 3: Cities of the Future",
+      "chapter_id": "A11",
+      "lesson_id": 3,
+      "description": "Học về thành phố thông minh, phát triển đô thị bền vững, động từ trạng thái và động từ nối.",
+      "duration_minutes": 300,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?q=80&w=2670&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh11-unit-3-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về thành phố thông minh và thành phố tương lai",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh11-unit-3-p1-getting-started.json"
+        },
+        {
+          "id": "anh11-unit-3-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về thành phố thông minh và phát triển bền vững",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh11-unit-3-p2-vocabulary.json"
+        },
+        {
+          "id": "anh11-unit-3-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Động từ trạng thái và động từ nối (Stative verbs and Linking verbs)",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh11-unit-3-p3-grammar.json"
+        },
+        {
+          "id": "anh11-unit-3-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về thành phố thông minh và cuộc sống đô thị tương lai",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh11-unit-3-p4-reading.json"
+        },
+        {
+          "id": "anh11-unit-3-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về thành phố tương lai và phát triển bền vững",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh11-unit-3-p5-speaking.json"
+        },
+        {
+          "id": "anh11-unit-3-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về phát triển đô thị bền vững",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh11-unit-3-p6-listening.json"
+        },
+        {
+          "id": "anh11-unit-3-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về thành phố lý tưởng của tương lai",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh11-unit-3-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-3",
+          "name": "Future Cities Vocabulary",
+          "slug": "future-cities-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 3: Cities of the Future",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Smart city</td><td class='px-4 py-2'>(n) /smɑːt ˈsɪti/</td><td class='px-4 py-2'>Thành phố thông minh</td><td class='px-4 py-2'>Singapore is a smart city.</td></tr><tr><td class='px-4 py-2 font-bold'>Sustainable</td><td class='px-4 py-2'>(adj) /səˈsteɪnəbl/</td><td class='px-4 py-2'>Bền vững</td><td class='px-4 py-2'>We need sustainable development.</td></tr><tr><td class='px-4 py-2 font-bold'>Infrastructure</td><td class='px-4 py-2'>(n) /ˈɪnfrəstrʌktʃə(r)/</td><td class='px-4 py-2'>Cơ sở hạ tầng</td><td class='px-4 py-2'>Improve city infrastructure.</td></tr><tr><td class='px-4 py-2 font-bold'>Urban</td><td class='px-4 py-2'>(adj) /ˈɜːbən/</td><td class='px-4 py-2'>Thuộc về đô thị</td><td class='px-4 py-2'>Urban areas are growing fast.</td></tr><tr><td class='px-4 py-2 font-bold'>Renewable energy</td><td class='px-4 py-2'>(n) /rɪˌnjuːəbl ˈenədʒi/</td><td class='px-4 py-2'>Năng lượng tái tạo</td><td class='px-4 py-2'>Use renewable energy sources.</td></tr><tr><td class='px-4 py-2 font-bold'>Public transport</td><td class='px-4 py-2'>(n) /ˌpʌblɪk ˈtrænspɔːt/</td><td class='px-4 py-2'>Phương tiện công cộng</td><td class='px-4 py-2'>Take public transport to work.</td></tr><tr><td class='px-4 py-2 font-bold'>Eco-friendly</td><td class='px-4 py-2'>(adj) /ˌiːkəʊ ˈfrendli/</td><td class='px-4 py-2'>Thân thiện với môi trường</td><td class='px-4 py-2'>Build eco-friendly buildings.</td></tr><tr><td class='px-4 py-2 font-bold'>Liveable</td><td class='px-4 py-2'>(adj) /ˈlɪvəbl/</td><td class='px-4 py-2'>Đáng sống</td><td class='px-4 py-2'>Create a liveable city.</td></tr><tr><td class='px-4 py-2 font-bold'>Sensor</td><td class='px-4 py-2'>(n) /ˈsensə(r)/</td><td class='px-4 py-2'>Cảm biến</td><td class='px-4 py-2'>Install sensors everywhere.</td></tr><tr><td class='px-4 py-2 font-bold'>Efficient</td><td class='px-4 py-2'>(adj) /ɪˈfɪʃnt/</td><td class='px-4 py-2'>Hiệu quả</td><td class='px-4 py-2'>Design efficient systems.</td></tr><tr><td class='px-4 py-2 font-bold'>Congestion</td><td class='px-4 py-2'>(n) /kənˈdʒestʃən/</td><td class='px-4 py-2'>Sự tắc nghẽn</td><td class='px-4 py-2'>Reduce traffic congestion.</td></tr><tr><td class='px-4 py-2 font-bold'>Pollution</td><td class='px-4 py-2'>(n) /pəˈluːʃn/</td><td class='px-4 py-2'>Sự ô nhiễm</td><td class='px-4 py-2'>Decrease air pollution.</td></tr><tr><td class='px-4 py-2 font-bold'>Green space</td><td class='px-4 py-2'>(n) /ɡriːn speɪs/</td><td class='px-4 py-2'>Không gian xanh</td><td class='px-4 py-2'>Create more green spaces.</td></tr><tr><td class='px-4 py-2 font-bold'>Technology</td><td class='px-4 py-2'>(n) /tekˈnɒlədʒi/</td><td class='px-4 py-2'>Công nghệ</td><td class='px-4 py-2'>Apply modern technology.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Smart city features (Đặc điểm thành phố thông minh):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>smart traffic system:</strong> hệ thống giao thông thông minh</li><li><strong>intelligent lighting:</strong> hệ thống chiếu sáng thông minh</li><li><strong>waste management:</strong> quản lý chất thải</li><li><strong>energy efficiency:</strong> hiệu quả năng lượng</li><li><strong>digital services:</strong> dịch vụ kỹ thuật số</li><li><strong>automated systems:</strong> hệ thống tự động</li><li><strong>connected devices:</strong> thiết bị kết nối</li></ul><p><strong>Collocations về thành phố tương lai:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>reduce carbon footprint:</strong> giảm lượng khí thải carbon</li><li><strong>improve quality of life:</strong> cải thiện chất lượng cuộc sống</li><li><strong>promote sustainable development:</strong> thúc đẩy phát triển bền vững</li><li><strong>tackle urban problems:</strong> giải quyết vấn đề đô thị</li><li><strong>adopt green technology:</strong> áp dụng công nghệ xanh</li><li><strong>enhance public services:</strong> nâng cao dịch vụ công</li><li><strong>build smart infrastructure:</strong> xây dựng cơ sở hạ tầng thông minh</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ pháp: Động từ trạng thái và động từ nối",
+              "content": "<h3>A. Stative Verbs (Động từ trạng thái)</h3><p><strong>Định nghĩa:</strong> Động từ trạng thái diễn tả trạng thái, cảm xúc, suy nghĩ, sở hữu... thường KHÔNG dùng ở thì tiếp diễn.</p><p><strong>Các nhóm động từ trạng thái:</strong></p><p><strong>1. Verbs of thinking (Động từ suy nghĩ):</strong></p><ul class='list-disc pl-5 space-y-2'><li>know, believe, understand, think (nghĩ rằng), suppose, remember, forget, doubt</li><li>Ex: I <strong>know</strong> the answer. (NOT: I am knowing)</li><li>Ex: She <strong>believes</strong> in smart cities. (NOT: She is believing)</li></ul><p><strong>2. Verbs of feeling/emotion (Động từ cảm xúc):</strong></p><ul class='list-disc pl-5 space-y-2'><li>like, love, hate, prefer, want, wish, hope, fear</li><li>Ex: We <strong>love</strong> living in this city. (NOT: We are loving)</li><li>Ex: They <strong>want</strong> a cleaner environment. (NOT: They are wanting)</li></ul><p><strong>3. Verbs of possession (Động từ sở hữu):</strong></p><ul class='list-disc pl-5 space-y-2'><li>have (có), own, possess, belong</li><li>Ex: The city <strong>has</strong> many parks. (NOT: The city is having)</li><li>Ex: This building <strong>belongs</strong> to the government. (NOT: is belonging)</li></ul><p><strong>4. Verbs of senses (Động từ giác quan):</strong></p><ul class='list-disc pl-5 space-y-2'><li>see, hear, smell, taste, feel (cảm thấy)</li><li>Ex: I <strong>see</strong> the problem. (NOT: I am seeing - khi nghĩa là 'hiểu')</li><li>Ex: This <strong>sounds</strong> like a good idea. (NOT: is sounding)</li></ul><p><strong>5. Other stative verbs:</strong></p><ul class='list-disc pl-5 space-y-2'><li>be, seem, appear, look (trông có vẻ), cost, need, contain, include, depend, matter, mean</li><li>Ex: The solution <strong>seems</strong> effective. (NOT: is seeming)</li><li>Ex: Smart cities <strong>need</strong> investment. (NOT: are needing)</li></ul><p><strong>Lưu ý:</strong> Một số động từ có thể là stative hoặc dynamic tùy nghĩa:</p><ul class='list-disc pl-5 space-y-2'><li><strong>think:</strong> I think (= believe) it's good. (stative) / I'm thinking about the plan. (dynamic - đang suy nghĩ)</li><li><strong>have:</strong> I have a car. (stative - sở hữu) / I'm having lunch. (dynamic - đang ăn)</li><li><strong>see:</strong> I see what you mean. (stative - hiểu) / I'm seeing the doctor. (dynamic - gặp)</li></ul><h3>B. Linking Verbs (Động từ nối)</h3><p><strong>Định nghĩa:</strong> Động từ nối kết nối chủ ngữ với tính từ hoặc danh từ bổ nghĩa cho chủ ngữ.</p><p><strong>Công thức:</strong> S + Linking Verb + Adjective/Noun</p><p><strong>Các động từ nối phổ biến:</strong></p><p><strong>1. BE (là):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: The city <strong>is</strong> modern.</li><li>Ex: Singapore <strong>is</strong> a smart city.</li></ul><p><strong>2. Verbs of appearance (Động từ chỉ vẻ ngoài):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>look, seem, appear</strong> (trông có vẻ, dường như)</li><li>Ex: The future <strong>looks</strong> bright.</li><li>Ex: The plan <strong>seems</strong> practical.</li><li>Ex: The city <strong>appears</strong> cleaner.</li></ul><p><strong>3. Verbs of senses (Động từ giác quan):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>feel, smell, taste, sound</strong></li><li>Ex: The air <strong>smells</strong> fresh.</li><li>Ex: This idea <strong>sounds</strong> interesting.</li><li>Ex: I <strong>feel</strong> excited about the project.</li></ul><p><strong>4. Verbs of change (Động từ chỉ sự thay đổi):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>become, get, turn, grow, go</strong></li><li>Ex: Cities are <strong>becoming</strong> smarter.</li><li>Ex: The weather is <strong>getting</strong> warmer.</li><li>Ex: The leaves <strong>turn</strong> yellow in autumn.</li></ul><p><strong>5. Verbs of continuation (Động từ chỉ sự tiếp tục):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>remain, stay, keep</strong></li><li>Ex: The city <strong>remains</strong> liveable.</li><li>Ex: We must <strong>stay</strong> optimistic.</li><li>Ex: The system <strong>keeps</strong> running smoothly.</li></ul><p><strong>Lưu ý quan trọng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sau linking verb dùng <strong>ADJECTIVE</strong>, không dùng adverb</li><li>✓ The city looks <strong>beautiful</strong>. (NOT: beautifully)</li><li>✓ The plan sounds <strong>good</strong>. (NOT: well - trừ khi nghĩa là 'khỏe mạnh')</li><li>✓ I feel <strong>happy</strong>. (NOT: happily)</li></ul><h3>C. Phân biệt Linking Verb và Action Verb</h3><table class='min-w-full divide-y divide-gray-200 mt-4'><thead><tr><th class='px-4 py-2 text-left'>Linking Verb</th><th class='px-4 py-2 text-left'>Action Verb</th></tr></thead><tbody><tr><td class='px-4 py-2'>Kết nối với tính từ</td><td class='px-4 py-2'>Kết nối với trạng từ</td></tr><tr><td class='px-4 py-2'>She looks <strong>tired</strong>. (trông có vẻ mệt)</td><td class='px-4 py-2'>She looks <strong>carefully</strong>. (nhìn cẩn thận)</td></tr><tr><td class='px-4 py-2'>The food tastes <strong>good</strong>. (có vị ngon)</td><td class='px-4 py-2'>She tastes the food <strong>carefully</strong>. (nếm cẩn thận)</td></tr><tr><td class='px-4 py-2'>He feels <strong>happy</strong>. (cảm thấy vui)</td><td class='px-4 py-2'>He feels the fabric <strong>gently</strong>. (sờ nhẹ nhàng)</td></tr></tbody></table>"
+            },
+            {
+              "heading": "4. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Giới thiệu về thành phố thông minh và thành phố tương lai.</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về các đặc điểm của thành phố thông minh</li><li>Thảo luận về công nghệ trong đô thị hiện đại</li><li>Từ vựng về phát triển bền vững</li><li>Chia sẻ ý tưởng về thành phố lý tưởng</li></ul>"
+            },
+            {
+              "heading": "5. II. Language",
+              "content": "<p><strong>A. Pronunciation: Sentence stress in statements and questions</strong></p><p>Luyện phát âm trọng âm câu trong câu trần thuật và câu hỏi</p><p><strong>B. Vocabulary:</strong> Smart cities and urban development</p><ul class='list-disc pl-5 space-y-2'><li>Words related to smart cities</li><li>Sustainable development vocabulary</li><li>Technology and infrastructure terms</li><li>Environmental and urban planning words</li></ul><p><strong>C. Grammar:</strong> Stative verbs and Linking verbs</p>"
+            },
+            {
+              "heading": "6. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Smart cities: The future of urban living</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu văn bản về thành phố thông minh</li><li>Tìm thông tin chi tiết về công nghệ và cơ sở hạ tầng</li><li>Hiểu lợi ích của phát triển bền vững</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li></ul><p><strong>Nội dung:</strong> Bài đọc giới thiệu về thành phố thông minh, các công nghệ được sử dụng (IoT, AI, sensors), lợi ích cho người dân (giao thông thông minh, tiết kiệm năng lượng, môi trường sạch), và các thách thức trong việc xây dựng thành phố tương lai.</p>"
+            },
+            {
+              "heading": "7. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Talking about cities of the future</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả các đặc điểm của thành phố thông minh</li><li>Nói về lợi ích của công nghệ trong đô thị</li><li>So sánh thành phố hiện tại và tương lai</li><li>Đưa ra ý kiến về phát triển bền vững</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Smart cities look/seem/appear...</li><li>The technology sounds interesting/promising...</li><li>I think/believe future cities will be...</li><li>The infrastructure needs to become...</li><li>Cities are becoming more sustainable...</li><li>This solution seems effective...</li></ul>"
+            },
+            {
+              "heading": "8. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> A presentation about sustainable urban development</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu thông tin về phát triển đô thị bền vững</li><li>Điền thông tin còn thiếu về công nghệ thông minh</li><li>Trả lời câu hỏi chi tiết về giải pháp đô thị</li><li>Ghi chú các ý quan trọng về thành phố tương lai</li></ul>"
+            },
+            {
+              "heading": "9. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing about your ideal city of the future</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đoạn văn mô tả thành phố lý tưởng</li><li>Sử dụng stative verbs và linking verbs phù hợp</li><li>Trình bày các đặc điểm và lợi ích</li><li>Sử dụng từ nối để liên kết ý</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Introduction: Giới thiệu về thành phố tương lai</li><li>Body: Mô tả các đặc điểm (giao thông, năng lượng, môi trường, công nghệ) - sử dụng linking verbs</li><li>Conclusion: Kết luận về tầm quan trọng của phát triển bền vững</li></ul><p><strong>Useful structures:</strong> The city will be/look/seem..., It will have..., The infrastructure will become..., People will feel...</p>"
+            },
+            {
+              "heading": "10. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Discussing urban problems and solutions</p><p><strong>Culture:</strong> Smart cities around the world</p><ul class='list-disc pl-5 space-y-2'><li>So sánh các thành phố thông minh trên thế giới (Singapore, Dubai, Barcelona...)</li><li>Tìm hiểu về các dự án đô thị bền vững</li><li>Thảo luận về thách thức của đô thị hóa</li><li>Các giải pháp công nghệ cho thành phố hiện đại</li></ul><p><strong>CLIL (Urban Planning/Technology):</strong> Understanding smart city technology</p><ul class='list-disc pl-5 space-y-2'><li>Internet of Things (IoT) trong thành phố thông minh</li><li>Trí tuệ nhân tạo (AI) trong quản lý đô thị</li><li>Năng lượng tái tạo và hiệu quả năng lượng</li></ul>"
+            },
+            {
+              "heading": "11. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vocabulary: Smart cities, sustainable development, technology</li><li>Pronunciation: Sentence stress in statements and questions</li><li>Grammar: Stative verbs and Linking verbs</li><li>Skills: Reading, Speaking, Listening, Writing</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng sử dụng từ vựng và ngữ pháp đã học, khả năng nói và viết về thành phố thông minh và phát triển bền vững</p>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> Design Your Smart City</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Thiết kế một thành phố thông minh lý tưởng</li><li>Xác định các vấn đề đô thị cần giải quyết</li><li>Đề xuất các giải pháp công nghệ cụ thể</li><li>Vẽ sơ đồ hoặc tạo mô hình thành phố</li><li>Tạo presentation về thiết kế của nhóm</li><li>Trình bày và giải thích các tính năng thông minh</li></ul><p><strong>Yêu cầu:</strong> Sử dụng stative verbs và linking verbs để mô tả thành phố (The city has..., looks..., seems..., becomes...)</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Stative and Linking Verbs",
+            "method": "<p>Choose the correct form of the verb or adjective/adverb.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Smart cities are urban areas that use technology and data to improve the quality of life for their residents. These cities use sensors, cameras, and other connected devices to collect information about traffic, energy use, air quality, and public services. This data helps city managers make better decisions and solve problems more efficiently.\n\nOne key feature of smart cities is intelligent transportation. Smart traffic systems use sensors to monitor traffic flow and adjust traffic lights automatically to reduce congestion. Public transport becomes more efficient with real-time tracking and digital payment systems. Some cities are also testing self-driving vehicles and electric buses to reduce pollution.\n\nAnother important aspect is sustainable energy management. Smart cities use renewable energy sources like solar and wind power. Buildings have smart meters that monitor energy consumption and help reduce waste. Street lights automatically dim when no one is around, saving electricity. These technologies not only protect the environment but also save money for both the city and its residents. As technology continues to advance, more cities around the world are becoming smarter and more liveable.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Smart cities only focus on transportation",
+                  "Smart cities use technology to improve quality of life",
+                  "All cities are already smart cities",
+                  "Technology is too expensive for cities"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về cách thành phố thông minh sử dụng công nghệ để cải thiện chất lượng cuộc sống."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, what do smart cities use to collect information?",
+                "options": [
+                  "Only cameras",
+                  "Sensors, cameras, and connected devices",
+                  "Only traffic lights",
+                  "Paper surveys"
+                ],
+                "correct": 1,
+                "explanation": "Thành phố thông minh sử dụng cảm biến, camera và các thiết bị kết nối để thu thập thông tin."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'efficiently' in paragraph 1 is closest in meaning to ______.",
+                "options": [
+                  "slowly",
+                  "expensively",
+                  "effectively and without waste",
+                  "difficultly"
+                ],
+                "correct": 2,
+                "explanation": "Efficiently = effectively and without waste (hiệu quả và không lãng phí)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "How do smart traffic systems reduce congestion?",
+                "options": [
+                  "By building more roads",
+                  "By monitoring traffic and adjusting lights automatically",
+                  "By banning all cars",
+                  "By increasing traffic fines"
+                ],
+                "correct": 1,
+                "explanation": "Hệ thống giao thông thông minh giám sát lưu lượng và điều chỉnh đèn tự động để giảm tắc nghẽn."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, what is one benefit of smart energy management?",
+                "options": [
+                  "It increases pollution",
+                  "It wastes electricity",
+                  "It protects the environment and saves money",
+                  "It makes energy more expensive"
+                ],
+                "correct": 2,
+                "explanation": "Quản lý năng lượng thông minh bảo vệ môi trường và tiết kiệm tiền."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "A ______ city uses technology to improve the quality of life.",
+            "options": ["smart", "smartly", "smarter", "smartness"],
+            "correct": 0,
+            "explanation": "Smart city: thành phố thông minh (cần tính từ)."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The plan ______ very practical and effective.",
+            "options": ["sounds", "is sounding", "sound", "sounded"],
+            "correct": 0,
+            "explanation": "Dùng 'sounds' (linking verb) ở thì hiện tại đơn, không dùng tiếp diễn."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "We need to develop ______ infrastructure for the city.",
+            "options": ["sustain", "sustainable", "sustainability", "sustainably"],
+            "correct": 1,
+            "explanation": "Sustainable (adj): bền vững - cần tính từ bổ nghĩa cho danh từ 'infrastructure'."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I ______ that smart cities are the future of urban development.",
+            "options": ["am believing", "believe", "believes", "believed"],
+            "correct": 1,
+            "explanation": "Believe là stative verb, không dùng ở thì tiếp diễn."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "The city is becoming more ______.",
+            "options": ["liveable", "live", "living", "lively"],
+            "correct": 0,
+            "explanation": "Liveable (adj): đáng sống - sau linking verb 'becoming' cần tính từ."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "This solution ______ good for reducing traffic congestion.",
+            "options": ["looks", "is looking", "look", "looking"],
+            "correct": 0,
+            "explanation": "Looks (linking verb) + adjective (good), không dùng tiếp diễn."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "The government wants to reduce air ______ in the city.",
+            "options": ["pollute", "pollution", "polluted", "polluting"],
+            "correct": 1,
+            "explanation": "Pollution (n): sự ô nhiễm - cần danh từ sau 'air'."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "The new technology ______ to many sensors and devices.",
+            "options": ["belongs", "is belonging", "belong", "belonged"],
+            "correct": 0,
+            "explanation": "Belong là stative verb, không dùng ở thì tiếp diễn."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "Cities need more green ______ for people to relax.",
+            "options": ["space", "spaces", "spacing", "spacious"],
+            "correct": 1,
+            "explanation": "Green spaces: không gian xanh (dùng số nhiều)."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "The future of cities ______ very exciting and promising.",
+            "options": ["seems", "is seeming", "seem", "seemed"],
+            "correct": 0,
+            "explanation": "Seem là linking verb, không dùng ở thì tiếp diễn. Chủ ngữ 'future' là số ít."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Stative verbs can be used in continuous tenses.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Động từ trạng thái thường KHÔNG dùng ở thì tiếp diễn."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "After linking verbs, we use adjectives, not adverbs.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Sau động từ nối dùng tính từ (The city looks beautiful, NOT beautifully)."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Smart cities use technology to collect data and improve services.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Thành phố thông minh sử dụng công nghệ để thu thập dữ liệu và cải thiện dịch vụ."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call a city that uses technology to improve quality of life? (two words)",
+            "correct": "smart city",
+            "explanation": "Smart city: thành phố thông minh - thành phố sử dụng công nghệ để cải thiện chất lượng cuộc sống."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: The plan ______ very effective. (sounds/looks)",
+            "correct": "sounds",
+            "explanation": "Sounds hoặc looks đều đúng (linking verbs). 'Sounds' phổ biến hơn khi nói về kế hoạch."
+          }
+        ]
+      }
+    }
+  ]
+}

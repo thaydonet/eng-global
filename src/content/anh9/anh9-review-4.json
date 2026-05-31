@@ -1,0 +1,349 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-review-4",
+      "name": "Review 4 (Units 10 - 11 - 12)",
+      "slug": "review-4-units-10-11-12",
+      "chapter": "Review 4 (Units 10 - 11 - 12)",
+      "chapter_id": "A9",
+      "lesson_id": 40,
+      "description": "Review of Units 10, 11, and 12 covering Planet Earth, electronic devices, and career choices.",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?q=80&w=2674&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-4",
+          "name": "Review 4 Comprehensive",
+          "slug": "review-4-comprehensive",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 4 (Units 10 - 11 - 12)",
+          "sections": [
+            {
+              "heading": "1. Language - Vocabulary",
+              "content": "<h3>Unit 10: Planet Earth</h3><p><strong>Key vocabulary:</strong> planet, Earth, atmosphere, climate, pollution, global warming, deforestation, renewable energy, protect, conserve</p><h3>Unit 11: Electronic Devices</h3><p><strong>Key vocabulary:</strong> smartphone, tablet, laptop, battery, charger, download, upload, install, update, connect</p><h3>Unit 12: Career Choices</h3><p><strong>Key vocabulary:</strong> career, doctor, engineer, skill, degree, training, salary, promotion, job opportunity</p>"
+            },
+            {
+              "heading": "2. Language - Grammar",
+              "content": "<h3>Unit 10: Non-defining Relative Clauses</h3><p><strong>Structure:</strong> Có dấu phẩy, bổ sung thông tin, KHÔNG dùng 'that'</p><p>Ex: My brother, who lives in Hanoi, is a teacher.</p><h3>Unit 11: Suggest/Advise/Recommend</h3><p><strong>Structure 1:</strong> suggest/advise/recommend + V-ing</p><p><strong>Structure 2:</strong> suggest/advise/recommend + (that) + S + should + V</p><h3>Unit 12: Adverb Clauses</h3><p><strong>Concession:</strong> although + clause; despite + N/V-ing</p><p><strong>Result:</strong> so + adj/adv + that; such + (a/an) + adj + N + that</p><p><strong>Reason:</strong> because + clause; because of + N/V-ing</p>"
+            },
+            {
+              "heading": "3. Skills - Reading Passages",
+              "content": "<p><strong>Passage 1: Planet Earth and Technology</strong></p><p>The Earth, which is our planet, needs protection. Although pollution is a serious problem, we can solve it. I suggest using renewable energy. I suggest (that) we should reduce plastic waste.</p><p>My brother, who is an engineer, designs solar panels. Despite the challenges, he works so hard that he always succeeds. He chose this career because he loves the environment.</p><p><strong>Passage 2: Career and Devices</strong></p><p>I recommend studying hard. I recommend (that) you should choose a career you love. My friend, whose father is a doctor, wants to be a teacher. She is so dedicated that everyone admires her.</p><p>Although technology is useful, we should use it wisely. I advise limiting screen time. Because of electronic devices, communication is easier now.</p>"
+            },
+            {
+              "heading": "4. Skills - Practice",
+              "content": "<p><strong>Questions:</strong></p><ol class='list-decimal pl-5 space-y-2'><li>What does the Earth need?</li><li>What does the writer suggest?</li><li>Why did he choose this career?</li><li>What should we do with technology?</li></ol>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Non-defining Relative Clauses",
+            "method": "<p><strong>Phương pháp:</strong> Có dấu phẩy, KHÔNG dùng 'that'</p>",
+            "examples": [
+              {
+                "question": "My brother, ______ lives in Hanoi, is a teacher.",
+                "solution": "My brother, <strong>who</strong> lives in Hanoi, is a teacher.",
+                "explanation": "Non-defining: who (không dùng that)"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Suggest/Advise/Recommend",
+            "method": "<p><strong>Phương pháp:</strong> + V-ing hoặc (that) + S + should + V</p>",
+            "examples": [
+              {
+                "question": "I suggest ______ (buy) a new phone.",
+                "solution": "I suggest <strong>buying</strong> a new phone.",
+                "explanation": "suggest + V-ing"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Concession/Result/Reason",
+            "method": "<p><strong>Phương pháp:</strong> although/despite, so...that, because/because of</p>",
+            "examples": [
+              {
+                "question": "______ he is young, he is talented.",
+                "solution": "<strong>Although</strong> he is young, he is talented.",
+                "explanation": "although + clause"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Kết hợp tất cả",
+            "method": "<p><strong>Phương pháp:</strong> Sử dụng tất cả cấu trúc</p>",
+            "examples": [
+              {
+                "question": "Kết hợp: My brother lives in Hanoi. He is a teacher. I suggest studying hard. Although it's difficult, he succeeds.",
+                "solution": "My brother, who lives in Hanoi, is a teacher. I suggest studying hard. Although it's difficult, he succeeds.",
+                "explanation": "Kết hợp: non-defining, suggest + V-ing, although"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "My brother, ______ lives in Hanoi, is a teacher.",
+            "options": ["who", "which", "that", "where"],
+            "correct": 0,
+            "explanation": "Non-defining: who (không dùng that)"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The Earth, ______ is our planet, needs protection.",
+            "options": ["who", "which", "that", "where"],
+            "correct": 1,
+            "explanation": "Non-defining: which"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I suggest ______ a new phone.",
+            "options": ["buy", "to buy", "buying", "bought"],
+            "correct": 2,
+            "explanation": "suggest + V-ing"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I suggest (that) you ______ buy a new phone.",
+            "options": ["can", "will", "should", "must"],
+            "correct": 2,
+            "explanation": "suggest + (that) + S + should + V"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She advises ______ hard.",
+            "options": ["study", "to study", "studying", "studied"],
+            "correct": 2,
+            "explanation": "advise + V-ing"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ he is young, he is very talented.",
+            "options": ["Although", "Despite", "Because", "So"],
+            "correct": 0,
+            "explanation": "although + clause"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ the rain, we went out.",
+            "options": ["Although", "Despite", "Because", "So"],
+            "correct": 1,
+            "explanation": "despite + N"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "He is ______ smart that he can solve any problem.",
+            "options": ["so", "such", "very", "too"],
+            "correct": 0,
+            "explanation": "so + adj + that"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I chose this career ______ I love helping people.",
+            "options": ["although", "despite", "because", "so"],
+            "correct": 2,
+            "explanation": "because + clause"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "I was late ______ the traffic.",
+            "options": ["although", "despite", "because", "because of"],
+            "correct": 3,
+            "explanation": "because of + N"
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "Vietnam, ______ I live, is beautiful.",
+            "options": ["who", "which", "that", "where"],
+            "correct": 3,
+            "explanation": "Non-defining: where"
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "They recommend ______ the museum.",
+            "options": ["visit", "to visit", "visiting", "visited"],
+            "correct": 2,
+            "explanation": "recommend + V-ing"
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "______ being tired, she continued working.",
+            "options": ["Although", "Despite", "Because", "So"],
+            "correct": 1,
+            "explanation": "despite + V-ing"
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "It was ______ a difficult test that no one passed.",
+            "options": ["so", "such", "very", "too"],
+            "correct": 1,
+            "explanation": "such + a + adj + N + that"
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "My friend, ______ father is a doctor, lives here.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 2,
+            "explanation": "Non-defining: whose"
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "I advise (that) we ______ study hard.",
+            "options": ["can", "will", "should", "must"],
+            "correct": 2,
+            "explanation": "advise + (that) + S + should + V"
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "______ he studied hard, he passed the exam.",
+            "options": ["Although", "Despite", "Because", "Such"],
+            "correct": 2,
+            "explanation": "because + clause"
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "She works ______ hard that she always succeeds.",
+            "options": ["so", "such", "very", "too"],
+            "correct": 0,
+            "explanation": "so + adv + that"
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "______ his hard work, he succeeded.",
+            "options": ["Although", "Despite", "Because", "Because of"],
+            "correct": 3,
+            "explanation": "because of + N"
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "Ha Long Bay, ______ is in Vietnam, is beautiful.",
+            "options": ["who", "which", "that", "where"],
+            "correct": 1,
+            "explanation": "Non-defining: which (không dùng that)"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which are non-defining relative clauses? (Select all that apply)",
+            "options": ["My brother, who lives in Hanoi, is a teacher.", "The student who studies hard will pass.", "Ha Long Bay, which is in Vietnam, is beautiful.", "The book that I read was good."],
+            "correct": [0, 2],
+            "explanation": "Đúng: có dấu phẩy (non-defining). Sai: không có dấu phẩy (defining)"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which are correct structures with suggest? (Select all that apply)",
+            "options": ["I suggest buying a phone.", "I suggest to buy a phone.", "I suggest (that) you should buy a phone.", "I suggest you buy a phone."],
+            "correct": [0, 2],
+            "explanation": "Đúng: suggest + V-ing, suggest + (that) + S + should + V. Sai: suggest + to V, suggest + S + V (thiếu 'should')"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which show concession? (Select all that apply)",
+            "options": ["although", "despite", "because", "so"],
+            "correct": [0, 1],
+            "explanation": "Nhượng bộ: although, despite. because (lý do), so (kết quả)"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: My brother, ______ lives in Hanoi, is a teacher.",
+            "correct": "who",
+            "explanation": "Non-defining: who"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: I suggest ______ (buy) a new phone.",
+            "correct": "buying",
+            "explanation": "suggest + V-ing"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Fill in: ______ he is young, he is talented.",
+            "correct": "Although / Though / Even though",
+            "explanation": "although + clause"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Transform: Although it rained, we went out. → ______ the rain, we went out.",
+            "correct": "Despite / In spite of",
+            "explanation": "although + clause → despite + N"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: brother / My / who / lives / in / Hanoi / is / teacher / a / . / suggest / I / buying / phone / new / a / .",
+            "sample_answer": "My brother, who lives in Hanoi, is a teacher. I suggest buying a new phone.",
+            "explanation": "Sắp xếp: non-defining clause; suggest + V-ing"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: I suggest buying a new phone. → I suggest (that) you ______.",
+            "sample_answer": "I suggest (that) you should buy a new phone.",
+            "explanation": "Biến đổi: buying → (that) you should buy"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Transform: Although it rained, we went out. + Because the traffic was heavy, I was late. → Use 'despite' and 'because of'",
+            "sample_answer": "Despite the rain, we went out. Because of the heavy traffic, I was late.",
+            "explanation": "Biến đổi: although → despite; because → because of"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange: Although / he / is / young / , / he / is / talented / . / so / He / is / smart / that / can / he / solve / problems / .",
+            "sample_answer": "Although he is young, he is talented. He is so smart that he can solve problems.",
+            "explanation": "Sắp xếp: although + clause; so + adj + that"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Combine all grammar: My brother lives in Hanoi. He is a teacher. I suggest studying hard. Although it's difficult, he works so hard that he succeeds. He chose this career because he loves it. (Use non-defining clause, suggest + V-ing, although, so...that, because)",
+            "sample_answer": "My brother, who lives in Hanoi, is a teacher. I suggest studying hard. Although it's difficult, he works so hard that he succeeds. He chose this career because he loves it.",
+            "explanation": "Kết hợp: non-defining (who), suggest + V-ing, although (concession), so...that (result), because (reason)"
+          }
+        ]
+      }
+    }
+  ]
+}

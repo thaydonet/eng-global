@@ -1,0 +1,92 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lessons": [
+    {
+      "id": "anh12-unit-9",
+      "name": "Unit 9: Career Paths",
+      "slug": "unit-9-career-paths",
+      "chapter": "Unit 9: Career Paths",
+      "chapter_id": "A12",
+      "lesson_id": 9,
+      "description": "Học về con đường sự nghiệp, kỹ năng nghề nghiệp và cụm động từ có 3 từ.",
+      "duration_minutes": 300,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2670&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh12-unit-9-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu chủ đề về con đường sự nghiệp",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh12-unit-9-p1-getting-started.json"
+        },
+        {
+          "id": "anh12-unit-9-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về nghề nghiệp và kỹ năng",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh12-unit-9-p2-vocabulary.json"
+        },
+        {
+          "id": "anh12-unit-9-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Cụm động từ có 3 từ",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh12-unit-9-p3-grammar.json"
+        },
+        {
+          "id": "anh12-unit-9-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về lập kế hoạch nghề nghiệp",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh12-unit-9-p4-reading.json"
+        },
+        {
+          "id": "anh12-unit-9-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Thảo luận về mục tiêu nghề nghiệp",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh12-unit-9-p5-speaking.json"
+        },
+        {
+          "id": "anh12-unit-9-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về phát triển sự nghiệp",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh12-unit-9-p6-listening.json"
+        },
+        {
+          "id": "anh12-unit-9-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về kế hoạch nghề nghiệp",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh12-unit-9-p7-writing.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-5-p1",
+  "name": "Part 1: Getting Started",
+  "slug": "p1-getting-started",
+  "description": "Giới thiệu chủ đề về thế giới việc làm",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Getting Started: Choosing a Career",
+      "sections": [
+        {
+          "heading": "1. Tóm tắt lý thuyết",
+          "content": "<div class='bg-gradient-to-r from-purple-50 to-pink-50 dark:from-purple-900/20 dark:to-pink-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-purple-900 dark:text-purple-300'>💼 Thế giới việc làm - The World of Work</h3><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-purple-700 dark:text-purple-400 mb-3'>Khái niệm chính:</h4><ul class='list-disc pl-6 space-y-2'><li><strong>Career (Sự nghiệp):</strong> Con đường nghề nghiệp dài hạn của một người</li><li><strong>Job (Công việc):</strong> Vị trí làm việc cụ thể</li><li><strong>Qualification (Bằng cấp):</strong> Chứng chỉ, bằng cấp chứng minh năng lực</li><li><strong>Experience (Kinh nghiệm):</strong> Kỹ năng và kiến thức từ công việc trước</li><li><strong>Skills (Kỹ năng):</strong> Khả năng thực hiện công việc</li></ul></div><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-pink-700 dark:text-pink-400 mb-3'>Quy trình xin việc:</h4><ol class='list-decimal pl-6 space-y-1'><li>Tìm kiếm công việc phù hợp</li><li>Chuẩn bị CV và thư xin việc</li><li>Nộp đơn ứng tuyển</li><li>Tham gia phỏng vấn</li><li>Nhận kết quả và bắt đầu làm việc</li></ol></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ về World of Work",
+          "content": "<div class='space-y-4'><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg border-l-4 border-blue-500'><p class='font-bold text-blue-800 dark:text-blue-300 mb-3'>Example 1: Choosing a Career</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> After graduating from university, I need to choose a suitable career. I'm interested in technology, so I'm considering becoming a software developer. This career requires strong programming skills and problem-solving abilities.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Sau khi tốt nghiệp đại học, tôi cần chọn một nghề nghiệp phù hợp. Tôi quan tâm đến công nghệ, vì vậy tôi đang cân nhắc trở thành lập trình viên phần mềm. Nghề này yêu cầu kỹ năng lập trình tốt và khả năng giải quyết vấn đề.</p></div></div><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg border-l-4 border-green-500'><p class='font-bold text-green-800 dark:text-green-300 mb-3'>Example 2: Job Application</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> I applied for a marketing position at a multinational company. I sent my CV and cover letter, and they called me for an interview. Although I was nervous, I prepared well and answered all the questions confidently.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Tôi đã nộp đơn xin vị trí marketing tại một công ty đa quốc gia. Tôi gửi CV và thư xin việc, và họ gọi tôi đến phỏng vấn. Mặc dù hồi hộp, tôi đã chuẩn bị tốt và trả lời tất cả câu hỏi một cách tự tin.</p></div></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg border-l-4 border-purple-500'><p class='font-bold text-purple-800 dark:text-purple-300 mb-3'>Example 3: Work Experience</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> During my university years, I did an internship at a tech startup. This experience helped me develop practical skills and understand the work environment. Employers value candidates who have relevant work experience.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Trong những năm đại học, tôi đã thực tập tại một công ty khởi nghiệp công nghệ. Kinh nghiệm này giúp tôi phát triển kỹ năng thực tế và hiểu môi trường làm việc. Nhà tuyển dụng đánh giá cao ứng viên có kinh nghiệm làm việc liên quan.</p></div></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg border-l-4 border-orange-500'><p class='font-bold text-orange-800 dark:text-orange-300 mb-3'>Example 4: Workplace Skills</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> In today's job market, employers look for candidates with both hard skills and soft skills. Hard skills include technical abilities, while soft skills involve communication, teamwork, and problem-solving. If you want to succeed, you need to develop both types of skills.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Trong thị trường việc làm ngày nay, nhà tuyển dụng tìm kiếm ứng viên có cả kỹ năng cứng và kỹ năng mềm. Kỹ năng cứng bao gồm khả năng kỹ thuật, trong khi kỹ năng mềm liên quan đến giao tiếp, làm việc nhóm và giải quyết vấn đề. Nếu bạn muốn thành công, bạn cần phát triển cả hai loại kỹ năng.</p></div></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg border-l-4 border-pink-500'><p class='font-bold text-pink-800 dark:text-pink-300 mb-3'>Example 5: Career Development</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> After working for three years, I received a promotion to team leader. This new position offers a higher salary and more responsibilities. I'm excited about this opportunity because it allows me to develop my leadership skills and contribute more to the company.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Sau ba năm làm việc, tôi được thăng chức lên trưởng nhóm. Vị trí mới này có mức lương cao hơn và nhiều trách nhiệm hơn. Tôi rất phấn khích về cơ hội này vì nó cho phép tôi phát triển kỹ năng lãnh đạo và đóng góp nhiều hơn cho công ty.</p></div></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p1-ex1",
+        "type": "mcq",
+        "question": "What is a 'career'?",
+        "options": ["A one-day job", "A long-term professional path", "A hobby", "A school subject"],
+        "correct": 1,
+        "explanation": "Career là con đường nghề nghiệp dài hạn."
+      },
+      {
+        "id": "p1-ex2",
+        "type": "mcq",
+        "question": "What does 'CV' stand for?",
+        "options": ["Career Vision", "Curriculum Vitae", "Company Value", "Career Volunteer"],
+        "correct": 1,
+        "explanation": "CV là viết tắt của Curriculum Vitae (sơ yếu lý lịch)."
+      },
+      {
+        "id": "p1-ex3",
+        "type": "mcq",
+        "question": "What is an 'interview'?",
+        "options": ["A written test", "A meeting to assess a job candidate", "A salary negotiation", "A company tour"],
+        "correct": 1,
+        "explanation": "Interview là cuộc phỏng vấn để đánh giá ứng viên."
+      },
+      {
+        "id": "p1-ex4",
+        "type": "mcq",
+        "question": "What are 'qualifications'?",
+        "options": ["Hobbies", "Certificates and degrees", "Friends", "Clothes"],
+        "correct": 1,
+        "explanation": "Qualifications là bằng cấp và chứng chỉ."
+      },
+      {
+        "id": "p1-ex5",
+        "type": "mcq",
+        "question": "What does 'apply for a job' mean?",
+        "options": ["To quit a job", "To submit an application for a position", "To refuse a job", "To work overtime"],
+        "correct": 1,
+        "explanation": "'Apply for a job' nghĩa là nộp đơn xin việc."
+      },
+      {
+        "id": "p1-ex6",
+        "type": "mcq",
+        "question": "What is 'work experience'?",
+        "options": ["School education", "Skills gained from previous jobs", "Age", "Salary"],
+        "correct": 1,
+        "explanation": "Work experience là kinh nghiệm từ công việc trước."
+      },
+      {
+        "id": "p1-ex7",
+        "type": "mcq",
+        "question": "What is a 'promotion'?",
+        "options": ["Being fired", "Moving to a higher position", "Taking a break", "Changing companies"],
+        "correct": 1,
+        "explanation": "Promotion là thăng chức lên vị trí cao hơn."
+      },
+      {
+        "id": "p1-ex8",
+        "type": "mcq",
+        "question": "What are 'soft skills'?",
+        "options": ["Technical abilities", "Communication and teamwork skills", "Computer programs", "Physical strength"],
+        "correct": 1,
+        "explanation": "Soft skills là kỹ năng mềm như giao tiếp, làm việc nhóm."
+      },
+      {
+        "id": "p1-ex9",
+        "type": "mcq",
+        "question": "What is an 'internship'?",
+        "options": ["A permanent job", "A temporary work experience for students", "A vacation", "A retirement plan"],
+        "correct": 1,
+        "explanation": "Internship là thực tập cho sinh viên."
+      },
+      {
+        "id": "p1-ex10",
+        "type": "mcq",
+        "question": "What does 'salary' mean?",
+        "options": ["Work hours", "Money paid for work", "Job title", "Office location"],
+        "correct": 1,
+        "explanation": "Salary là tiền lương trả cho công việc."
+      },
+      {
+        "id": "p1-ex11",
+        "type": "msq",
+        "question_text": "Decide if these statements are True or False:",
+        "options": [
+          "A CV is a document showing your education and experience.",
+          "An interview is a written exam.",
+          "Work experience helps you get jobs.",
+          "Qualifications are not important for jobs."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - CV là tài liệu về học vấn và kinh nghiệm. b) False - Interview là phỏng vấn, không phải thi viết. c) True - Kinh nghiệm giúp xin việc. d) False - Bằng cấp rất quan trọng."
+      },
+      {
+        "id": "p1-ex12",
+        "type": "msq",
+        "question_text": "Mark True or False:",
+        "options": [
+          "Soft skills include communication and teamwork.",
+          "Hard skills are technical abilities.",
+          "Employers only care about hard skills.",
+          "Internships provide work experience."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - Kỹ năng mềm bao gồm giao tiếp và làm việc nhóm. b) True - Kỹ năng cứng là khả năng kỹ thuật. c) False - Nhà tuyển dụng quan tâm cả hai loại. d) True - Thực tập cung cấp kinh nghiệm."
+      },
+      {
+        "id": "p1-ex13",
+        "type": "msq",
+        "question_text": "Based on the examples, decide True or False:",
+        "options": [
+          "You need to prepare well for interviews.",
+          "Work experience is not valuable.",
+          "Promotion means moving to a higher position.",
+          "You don't need skills to get a job."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Cần chuẩn bị tốt cho phỏng vấn. b) False - Kinh nghiệm rất có giá trị. c) True - Thăng chức là lên vị trí cao hơn. d) False - Cần kỹ năng để xin việc."
+      },
+      {
+        "id": "p1-ex14",
+        "type": "sa",
+        "question_text": "Complete: I need to send my _____ when applying for a job. (CV/salary)",
+        "correct": "CV",
+        "explanation": "Cần gửi CV (sơ yếu lý lịch) khi xin việc."
+      },
+      {
+        "id": "p1-ex15",
+        "type": "sa",
+        "question_text": "Complete: She has three years of work _____. (experience/qualification)",
+        "correct": "experience",
+        "explanation": "Work experience - kinh nghiệm làm việc."
+      },
+      {
+        "id": "p1-ex16",
+        "type": "sa",
+        "question_text": "What do we call a meeting to assess a job candidate? (one word)",
+        "correct": "interview",
+        "explanation": "Interview - phỏng vấn."
+      },
+      {
+        "id": "p1-ex17",
+        "type": "sa",
+        "question_text": "Complete: He received a _____ to team leader. (promotion/demotion)",
+        "correct": "promotion",
+        "explanation": "Promotion - thăng chức."
+      },
+      {
+        "id": "p1-ex18",
+        "type": "mcq",
+        "question": "What should you include in a job application?",
+        "options": ["Only your name", "CV and cover letter", "Your photo album", "Your diary"],
+        "correct": 1,
+        "explanation": "Đơn xin việc cần có CV và thư xin việc (cover letter)."
+      },
+      {
+        "id": "p1-ex19",
+        "type": "mcq",
+        "question": "What is a 'cover letter'?",
+        "options": ["A book cover", "A letter explaining why you want the job", "An envelope", "A business card"],
+        "correct": 1,
+        "explanation": "Cover letter là thư giải thích tại sao bạn muốn công việc đó."
+      },
+      {
+        "id": "p1-ex20",
+        "type": "mcq",
+        "question": "Which is most important when choosing a career?",
+        "options": [
+          "Only salary",
+          "Your interests, skills, and goals",
+          "What your friends do",
+          "Random choice"
+        ],
+        "correct": 1,
+        "explanation": "Nên chọn nghề dựa trên sở thích, kỹ năng và mục tiêu của bạn."
+      }
+    ]
+  }
+}

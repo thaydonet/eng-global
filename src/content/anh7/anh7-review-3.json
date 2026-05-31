@@ -1,0 +1,357 @@
+{
+  "subject": "Tiếng Anh 7",
+  "subject_id": 44,
+  "lessons": [
+    {
+      "id": "anh7-review-3",
+      "name": "Review 3 (Units 7 - 8 - 9)",
+      "slug": "review-3-units-7-8-9",
+      "chapter": "Review 3 (Units 7 - 8 - 9)",
+      "chapter_id": "A7",
+      "lesson_id": 30,
+      "description": "Review of Units 7, 8, and 9 covering traffic, films, and festivals.",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-3",
+          "name": "Review 3 Comprehensive",
+          "slug": "review-3-comprehensive",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 3 (Units 7 - 8 - 9)",
+          "sections": [
+            {
+              "heading": "1. Language - Vocabulary",
+              "content": "<h3>Unit 7: Traffic</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vehicles:</strong> bicycle, motorbike, car, bus, train, plane</li><li><strong>Traffic:</strong> traffic light, traffic jam, road, street, helmet, seatbelt, distance</li><li><strong>Verbs:</strong> ride, drive, take, go by, walk, cross, obey</li></ul><h3>Unit 8: Films</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Films:</strong> film, movie, cinema, actor, actress, director, character, plot, scene</li><li><strong>Types:</strong> action, comedy, horror, sci-fi, romantic, thriller, documentary, animation</li><li><strong>Adjectives:</strong> gripping, moving, scary, boring, exciting</li></ul><h3>Unit 9: Festivals</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Festivals:</strong> festival, celebrate, celebration, parade, costume, fireworks, performance</li><li><strong>Adjectives:</strong> traditional, religious, seasonal, exciting</li><li><strong>Verbs:</strong> perform, decorate, gather</li></ul>"
+            },
+            {
+              "heading": "2. Language - Grammar",
+              "content": "<h3>Unit 7: 'It' for distance and Should/Shouldn't</h3><p><strong>1. 'It' for distance:</strong></p><ul class='list-disc pl-5 space-y-2'><li>It + is + (about) + distance + from + A + to + B</li><li>How far is it from A to B?</li></ul><p><strong>2. Should/Shouldn't:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Should + V: nên làm gì</li><li>Shouldn't + V: không nên làm gì</li></ul><h3>Unit 8: Although/Though and However</h3><p><strong>1. Although/Though:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Although/Though + S + V, S + V (một câu)</li></ul><p><strong>2. However:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + V. However, S + V. (hai câu)</li></ul><h3>Unit 9: Yes/No and Wh-questions</h3><p><strong>1. Yes/No questions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Is/Are + S...?</li><li>Do/Does + S + V...?</li></ul><p><strong>2. Wh-questions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What, When, Where, Who, Why, How</li></ul>"
+            },
+            {
+              "heading": "3. Skills - Reading Passage 1: Traffic Safety",
+              "content": "<p><strong>Road Safety Rules</strong></p><p>Traffic safety is very important for everyone. Every year, many people die in traffic accidents. However, we can prevent these accidents if we follow traffic rules carefully.</p><p>First, you should always wear a helmet when riding a motorbike or bicycle. Although helmets may be uncomfortable, they can save your life. It is about 80% effective in preventing serious head injuries.</p><p>Second, you should obey traffic lights. When the light is red, you must stop. When it's green, you can go. You shouldn't cross the street when the light is red. It's very dangerous.</p><p>Third, you should fasten your seatbelt when traveling by car. The seatbelt can protect you in an accident. Although some people think seatbelts are not necessary for short trips, they should always wear them.</p><p>How far is it from your house to school? If it's not far, you should walk or ride a bicycle. Walking and cycling are good for your health and the environment. However, if the distance is far, you should take the bus. Public transport is safer than motorbikes.</p><p>Remember: road safety is everyone's responsibility. You should always be careful when you are on the road.</p>"
+            },
+            {
+              "heading": "4. Skills - Reading Passage 2: Films and Festivals",
+              "content": "<p><strong>Entertainment in Our Lives</strong></p><p>Films and festivals are important parts of our culture and entertainment. They bring people together and make life more enjoyable.</p><p>Many people love watching films. Although films are just stories on screen, they can make us laugh, cry, or feel excited. There are many types of films. Action films are exciting. Comedies are funny. Horror films are scary. However, not everyone likes the same type of film. Some people prefer romantic films, while others enjoy science fiction.</p><p>What is your favourite film? When did you watch it? Where did you see it - at the cinema or at home? Critics often write reviews about films. Although critics may not like a film, audiences might love it. The most important thing is that you enjoy it.</p><p>Festivals are also very popular. Do you celebrate any festivals? In Vietnam, we celebrate many festivals. Tet is the most important festival. It's in January or February. During Tet, families gather together. People decorate their houses, wear new clothes, and eat special food. Although Tet only lasts a few days, people prepare for it for weeks.</p><p>There are also many festivals around the world. Christmas is celebrated in December. Halloween is in October. These festivals have different traditions. However, they all bring joy and happiness to people.</p><p>Both films and festivals make our lives more interesting. They help us relax and have fun with family and friends.</p>"
+            },
+            {
+              "heading": "5. Skills - Practice Exercises",
+              "content": "<p><strong>Based on Reading Passage 1 (Traffic Safety):</strong></p><ol class='list-decimal pl-5 space-y-2'><li>Why should you wear a helmet?</li><li>What should you do when the traffic light is red?</li><li>Why should you fasten your seatbelt?</li><li>What should you do if the distance from your house to school is not far?</li></ol><p><strong>Based on Reading Passage 2 (Films and Festivals):</strong></p><ol class='list-decimal pl-5 space-y-2'><li>What can films make us feel?</li><li>Do all people like the same type of film?</li><li>When is Tet celebrated?</li><li>What do people do during Tet?</li></ol>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: 'It' for distance và Should/Shouldn't",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>It is + distance + from A to B</li><li>Should/Shouldn't + V</li></ul>",
+            "examples": [
+              {
+                "question": "______ is 5 km from my house to school. You ______ wear a helmet.",
+                "solution": "<strong>It</strong> is 5 km from my house to school. You <strong>should</strong> wear a helmet.",
+                "explanation": "Khoảng cách → It; Lời khuyên → should."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Although/Though và However",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Although/Though: một câu</li><li>However: hai câu</li></ul>",
+            "examples": [
+              {
+                "question": "The film was long. ______, it was interesting.",
+                "solution": "The film was long. <strong>However</strong>, it was interesting.",
+                "explanation": "Hai câu → However."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Yes/No và Wh-questions",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Yes/No: Do/Does/Is/Are + S...?</li><li>Wh-: What/When/Where/Who/Why/How</li></ul>",
+            "examples": [
+              {
+                "question": "______ you like festivals? ______ is your favourite festival?",
+                "solution": "<strong>Do</strong> you like festivals? <strong>What</strong> is your favourite festival?",
+                "explanation": "Yes/No → Do; Hỏi về vật → What."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Kết hợp các dạng",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Xác định loại câu</li><li>Áp dụng quy tắc phù hợp</li></ul>",
+            "examples": [
+              {
+                "question": "______ the film was scary, I enjoyed it. ______ is it from here to the cinema?",
+                "solution": "<strong>Although</strong> the film was scary, I enjoyed it. <strong>How far</strong> is it from here to the cinema?",
+                "explanation": "Một câu đối lập → Although; Hỏi khoảng cách → How far."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ is 5 km from my house to school.",
+            "options": ["It", "There", "This", "That"],
+            "correct": 0,
+            "explanation": "Khoảng cách → It."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "You ______ wear a helmet.",
+            "options": ["should", "shouldn't", "can", "must"],
+            "correct": 0,
+            "explanation": "Lời khuyên tích cực → should."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "______ the film was long, it was interesting.",
+            "options": ["Although", "However", "But", "Because"],
+            "correct": 0,
+            "explanation": "Một câu → Although."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "The film was long. ______, it was interesting.",
+            "options": ["Although", "However", "Though", "Because"],
+            "correct": 1,
+            "explanation": "Hai câu → However."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "______ you like festivals?",
+            "options": ["Is", "Are", "Do", "Does"],
+            "correct": 2,
+            "explanation": "You + động từ thường → Do."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ is your favourite festival?",
+            "options": ["What", "When", "Where", "Who"],
+            "correct": 0,
+            "explanation": "Hỏi về vật → What."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ is it from Hanoi to Hai Phong?",
+            "options": ["How far", "How long", "How much", "How many"],
+            "correct": 0,
+            "explanation": "Hỏi khoảng cách → How far."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "You ______ drive fast in the city.",
+            "options": ["should", "shouldn't", "can", "must"],
+            "correct": 1,
+            "explanation": "Lời khuyên tiêu cực → shouldn't."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "______ he is young, he is talented.",
+            "options": ["Although", "However", "But", "Because"],
+            "correct": 0,
+            "explanation": "Một câu → Although."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______ is the festival?",
+            "options": ["What", "When", "Where", "Who"],
+            "correct": 1,
+            "explanation": "Hỏi về thời gian → When."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "______ she celebrate Tet?",
+            "options": ["Is", "Are", "Do", "Does"],
+            "correct": 3,
+            "explanation": "She + động từ thường → Does."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "The film was boring. ______, I watched it.",
+            "options": ["Although", "However", "Though", "Because"],
+            "correct": 1,
+            "explanation": "Hai câu → However."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "You ______ obey traffic rules.",
+            "options": ["should", "shouldn't", "can't", "mustn't"],
+            "correct": 0,
+            "explanation": "Lời khuyên tuân theo luật → should."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "______ do people celebrate it?",
+            "options": ["What", "When", "Where", "Why"],
+            "correct": 3,
+            "explanation": "Hỏi về lý do → Why."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "______ the plot was simple, the film was moving.",
+            "options": ["Although", "However", "But", "Because"],
+            "correct": 0,
+            "explanation": "Một câu → Although."
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "It ______ far from here to the airport.",
+            "options": ["is", "are", "am", "be"],
+            "correct": 0,
+            "explanation": "It (số ít) → is."
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "______ they wear costumes?",
+            "options": ["Is", "Are", "Do", "Does"],
+            "correct": 2,
+            "explanation": "They + động từ thường → Do."
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "He is young. ______, he is talented.",
+            "options": ["Although", "However", "Though", "Because"],
+            "correct": 1,
+            "explanation": "Hai câu → However."
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "You ______ use your phone while driving.",
+            "options": ["should", "shouldn't", "can", "must"],
+            "correct": 1,
+            "explanation": "Lời khuyên tiêu cực về an toàn → shouldn't."
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "______ is the festival held?",
+            "options": ["What", "When", "Where", "Who"],
+            "correct": 2,
+            "explanation": "Hỏi về địa điểm → Where."
+          },
+          {
+            "id": "tf1",
+            "type": "true-false",
+            "question": "Helmets are about 80% effective in preventing serious head injuries.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'It is about 80% effective in preventing serious head injuries'."
+          },
+          {
+            "id": "tf2",
+            "type": "true-false",
+            "question": "You should cross the street when the light is red.",
+            "correct": false,
+            "explanation": "Sai. Bài đọc nói 'You shouldn't cross the street when the light is red'."
+          },
+          {
+            "id": "tf3",
+            "type": "true-false",
+            "question": "All people like the same type of film.",
+            "correct": false,
+            "explanation": "Sai. Bài đọc nói 'not everyone likes the same type of film'."
+          },
+          {
+            "id": "tf4",
+            "type": "true-false",
+            "question": "Tet is celebrated in January or February.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'It's in January or February'."
+          },
+          {
+            "id": "tf5",
+            "type": "true-false",
+            "question": "Seatbelts are only necessary for long trips.",
+            "correct": false,
+            "explanation": "Sai. Bài đọc nói 'they should always wear them'."
+          },
+          {
+            "id": "short1",
+            "type": "short-answer",
+            "question": "Why should you wear a helmet?",
+            "answer": "Because it can save your life / prevent serious head injuries",
+            "explanation": "Bài đọc nói 'they can save your life' và 'preventing serious head injuries'."
+          },
+          {
+            "id": "short2",
+            "type": "short-answer",
+            "question": "What should you do when the traffic light is red?",
+            "answer": "You must stop / You shouldn't cross the street",
+            "explanation": "Bài đọc nói 'When the light is red, you must stop'."
+          },
+          {
+            "id": "short3",
+            "type": "short-answer",
+            "question": "When is Tet celebrated?",
+            "answer": "In January or February",
+            "explanation": "Bài đọc nói 'It's in January or February'."
+          },
+          {
+            "id": "short4",
+            "type": "short-answer",
+            "question": "What can films make us feel?",
+            "answer": "They can make us laugh, cry, or feel excited",
+            "explanation": "Bài đọc nói 'they can make us laugh, cry, or feel excited'."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write about traffic safety (50-70 words). Give at least 3 pieces of advice using should/shouldn't.",
+            "sample_answer": "Traffic safety is very important. First, you should always wear a helmet when riding a motorbike. It can save your life. Second, you should obey traffic lights. You shouldn't cross the street when the light is red. Third, you should fasten your seatbelt in a car. Although some people don't like seatbelts, they are very important. Finally, you shouldn't use your phone while driving. It's very dangerous.",
+            "explanation": "Bài viết cần đưa ra ít nhất 3 lời khuyên sử dụng should/shouldn't."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Write a film review (50-70 words). Use although/though or however.",
+            "sample_answer": "I watched an action film last week. The film was very exciting. Although the plot was simple, the action scenes were amazing. The main actor was talented. However, the film was quite long. It lasted for three hours. The special effects were impressive. Although some scenes were violent, I enjoyed the film. I think it's a good film for people who like action movies.",
+            "explanation": "Bài viết cần sử dụng although/though hoặc however để nối các ý đối lập."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Write about a festival (50-70 words). Answer these questions: What is it? When is it? What do people do?",
+            "sample_answer": "My favourite festival is Tet. It's the most important festival in Vietnam. Tet is celebrated in January or February. It lasts for about a week. During Tet, families gather together. People decorate their houses with flowers and plants. They wear new clothes and eat special food like banh chung. Children receive lucky money from adults. Although Tet only lasts a few days, people prepare for it for weeks. I love Tet very much.",
+            "explanation": "Bài viết cần trả lời các câu hỏi: lễ hội gì, khi nào, làm gì."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Write about how you go to school (50-70 words). Use 'it' for distance and should/shouldn't.",
+            "sample_answer": "I go to school by bicycle every day. It is about 2 kilometers from my house to school. The journey takes about 15 minutes. I should leave home early to avoid being late. I always wear a helmet because it's safe. I should obey traffic rules. Although the distance is not far, I shouldn't ride too fast. I should be careful at intersections. Going to school by bicycle is good for my health and the environment.",
+            "explanation": "Bài viết cần sử dụng 'it' cho khoảng cách và should/shouldn't cho lời khuyên."
+          }
+        ]
+      }
+    }
+  ]
+}

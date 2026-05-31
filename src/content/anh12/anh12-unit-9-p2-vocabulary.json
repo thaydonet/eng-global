@@ -1,0 +1,199 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-9-p2",
+  "name": "Part 2: Language - Vocabulary",
+  "slug": "p2-vocabulary",
+  "description": "Từ vựng về nghề nghiệp và kỹ năng",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Vocabulary: Career Paths",
+      "sections": [
+        {
+          "heading": "1. Từ vựng (Vocabulary)",
+          "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Career</td><td class='px-4 py-2'>(n) /kəˈrɪə(r)/</td><td class='px-4 py-2'>Sự nghiệp</td><td class='px-4 py-2'>She has a successful career.</td></tr><tr><td class='px-4 py-2 font-bold'>Profession</td><td class='px-4 py-2'>(n) /prəˈfeʃn/</td><td class='px-4 py-2'>Nghề nghiệp</td><td class='px-4 py-2'>Teaching is a noble profession.</td></tr><tr><td class='px-4 py-2 font-bold'>Qualification</td><td class='px-4 py-2'>(n) /ˌkwɒlɪfɪˈkeɪʃn/</td><td class='px-4 py-2'>Bằng cấp, trình độ</td><td class='px-4 py-2'>He has good qualifications.</td></tr><tr><td class='px-4 py-2 font-bold'>Experience</td><td class='px-4 py-2'>(n) /ɪkˈspɪəriəns/</td><td class='px-4 py-2'>Kinh nghiệm</td><td class='px-4 py-2'>She has 5 years of experience.</td></tr><tr><td class='px-4 py-2 font-bold'>Skill</td><td class='px-4 py-2'>(n) /skɪl/</td><td class='px-4 py-2'>Kỹ năng</td><td class='px-4 py-2'>Communication skills are important.</td></tr><tr><td class='px-4 py-2 font-bold'>Promotion</td><td class='px-4 py-2'>(n) /prəˈməʊʃn/</td><td class='px-4 py-2'>Thăng chức</td><td class='px-4 py-2'>He got a promotion.</td></tr><tr><td class='px-4 py-2 font-bold'>Salary</td><td class='px-4 py-2'>(n) /ˈsæləri/</td><td class='px-4 py-2'>Lương</td><td class='px-4 py-2'>She earns a good salary.</td></tr><tr><td class='px-4 py-2 font-bold'>Apply</td><td class='px-4 py-2'>(v) /əˈplaɪ/</td><td class='px-4 py-2'>Nộp đơn, ứng tuyển</td><td class='px-4 py-2'>Apply for a job.</td></tr><tr><td class='px-4 py-2 font-bold'>Recruit</td><td class='px-4 py-2'>(v) /rɪˈkruːt/</td><td class='px-4 py-2'>Tuyển dụng</td><td class='px-4 py-2'>The company recruits graduates.</td></tr><tr><td class='px-4 py-2 font-bold'>Train</td><td class='px-4 py-2'>(v) /treɪn/</td><td class='px-4 py-2'>Đào tạo</td><td class='px-4 py-2'>Train new employees.</td></tr><tr><td class='px-4 py-2 font-bold'>Ambitious</td><td class='px-4 py-2'>(adj) /æmˈbɪʃəs/</td><td class='px-4 py-2'>Tham vọng</td><td class='px-4 py-2'>She is very ambitious.</td></tr><tr><td class='px-4 py-2 font-bold'>Flexible</td><td class='px-4 py-2'>(adj) /ˈfleksəbl/</td><td class='px-4 py-2'>Linh hoạt</td><td class='px-4 py-2'>Flexible working hours.</td></tr><tr><td class='px-4 py-2 font-bold'>Competent</td><td class='px-4 py-2'>(adj) /ˈkɒmpɪtənt/</td><td class='px-4 py-2'>Có năng lực</td><td class='px-4 py-2'>A competent manager.</td></tr><tr><td class='px-4 py-2 font-bold'>Dedicated</td><td class='px-4 py-2'>(adj) /ˈdedɪkeɪtɪd/</td><td class='px-4 py-2'>Tận tụy</td><td class='px-4 py-2'>A dedicated worker.</td></tr><tr><td class='px-4 py-2 font-bold'>Networking</td><td class='px-4 py-2'>(n) /ˈnetwɜːkɪŋ/</td><td class='px-4 py-2'>Xây dựng mạng lưới</td><td class='px-4 py-2'>Networking is important.</td></tr><tr><td class='px-4 py-2 font-bold'>Mentor</td><td class='px-4 py-2'>(n) /ˈmentɔː(r)/</td><td class='px-4 py-2'>Người cố vấn</td><td class='px-4 py-2'>Find a good mentor.</td></tr></tbody></table></div>"
+        },
+        {
+          "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+          "content": "<p><strong>Career Terms (Thuật ngữ nghề nghiệp):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>career path:</strong> con đường sự nghiệp</li><li><strong>career planning:</strong> lập kế hoạch nghề nghiệp</li><li><strong>career development:</strong> phát triển sự nghiệp</li><li><strong>career advancement:</strong> thăng tiến trong sự nghiệp</li><li><strong>career goals:</strong> mục tiêu nghề nghiệp</li><li><strong>career change:</strong> thay đổi nghề nghiệp</li><li><strong>career counseling:</strong> tư vấn nghề nghiệp</li><li><strong>career prospects:</strong> triển vọng nghề nghiệp</li></ul><p><strong>Job Application (Ứng tuyển việc làm):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>job application:</strong> đơn xin việc</li><li><strong>CV/resume:</strong> sơ yếu lý lịch</li><li><strong>cover letter:</strong> thư xin việc</li><li><strong>job interview:</strong> phỏng vấn xin việc</li><li><strong>reference:</strong> thư giới thiệu</li><li><strong>portfolio:</strong> hồ sơ năng lực</li><li><strong>job offer:</strong> lời mời làm việc</li><li><strong>probation period:</strong> thời gian thử việc</li></ul><p><strong>Skills (Kỹ năng):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>soft skills:</strong> kỹ năng mềm (communication, teamwork, leadership)</li><li><strong>hard skills:</strong> kỹ năng cứng (technical, specialized knowledge)</li><li><strong>transferable skills:</strong> kỹ năng chuyển đổi</li><li><strong>problem-solving skills:</strong> kỹ năng giải quyết vấn đề</li><li><strong>time management:</strong> quản lý thời gian</li><li><strong>critical thinking:</strong> tư duy phản biện</li><li><strong>adaptability:</strong> khả năng thích nghi</li><li><strong>interpersonal skills:</strong> kỹ năng giao tiếp</li></ul><p><strong>Workplace (Nơi làm việc):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>colleague:</strong> đồng nghiệp</li><li><strong>supervisor:</strong> người giám sát</li><li><strong>manager:</strong> quản lý</li><li><strong>employee:</strong> nhân viên</li><li><strong>employer:</strong> nhà tuyển dụng</li><li><strong>team member:</strong> thành viên nhóm</li><li><strong>department:</strong> phòng ban</li><li><strong>workplace culture:</strong> văn hóa nơi làm việc</li></ul><p><strong>Three-word Phrasal Verbs:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>look forward to:</strong> mong chờ</li><li><strong>come up with:</strong> nghĩ ra</li><li><strong>get on with:</strong> hòa hợp với</li><li><strong>catch up with:</strong> theo kịp</li><li><strong>keep up with:</strong> theo kịp, duy trì</li><li><strong>put up with:</strong> chịu đựng</li><li><strong>run out of:</strong> cạn kiệt</li><li><strong>look up to:</strong> ngưỡng mộ</li><li><strong>face up to:</strong> đối mặt với</li><li><strong>live up to:</strong> đáp ứng (kỳ vọng)</li><li><strong>make up for:</strong> bù đắp</li></ul><p><strong>Collocations:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>pursue a career:</strong> theo đuổi sự nghiệp</li><li><strong>build a career:</strong> xây dựng sự nghiệp</li><li><strong>advance your career:</strong> thăng tiến trong sự nghiệp</li><li><strong>gain experience:</strong> tích lũy kinh nghiệm</li><li><strong>develop skills:</strong> phát triển kỹ năng</li><li><strong>achieve goals:</strong> đạt được mục tiêu</li><li><strong>earn a salary:</strong> kiếm lương</li><li><strong>attend an interview:</strong> tham dự phỏng vấn</li></ul>"
+        },
+        {
+          "heading": "3. Ngữ âm: Stress in three-word phrasal verbs",
+          "content": "<h3>Stress patterns in three-word phrasal verbs</h3><p><strong>Quy tắc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Pattern:</strong> Nhấn vào từ đầu tiên và từ cuối cùng</li><li>Ex: <strong>LOOK</strong> forward <strong>TO</strong></li><li>Ex: <strong>COME</strong> up <strong>WITH</strong></li><li>Ex: <strong>GET</strong> on <strong>WITH</strong></li><li>Ex: <strong>CATCH</strong> up <strong>WITH</strong></li><li>Ex: <strong>KEEP</strong> up <strong>WITH</strong></li><li>Ex: <strong>PUT</strong> up <strong>WITH</strong></li><li>Ex: <strong>RUN</strong> out <strong>OF</strong></li><li>Ex: <strong>LOOK</strong> up <strong>TO</strong></li><li>Ex: <strong>FACE</strong> up <strong>TO</strong></li><li>Ex: <strong>LIVE</strong> up <strong>TO</strong></li><li>Ex: <strong>MAKE</strong> up <strong>FOR</strong></li><li><strong>Note:</strong> Từ giữa (up, on, out) thường không nhấn mạnh</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "vocab-ex1",
+        "type": "mcq",
+        "question": "Choose the correct word: 'She has a successful _____.'",
+        "options": ["career", "carrier", "carry", "caring"],
+        "correct": 0,
+        "explanation": "'Career' (n) nghĩa là sự nghiệp."
+      },
+      {
+        "id": "vocab-ex2",
+        "type": "mcq",
+        "question": "What does 'qualification' mean?",
+        "options": ["Experience", "Educational certificates or skills", "Salary", "Job title"],
+        "correct": 1,
+        "explanation": "Qualification là bằng cấp, trình độ chuyên môn."
+      },
+      {
+        "id": "vocab-ex3",
+        "type": "mcq",
+        "question": "Complete: 'He _____ for a job at Google.'",
+        "options": ["apply", "applied", "applying", "applies"],
+        "correct": 1,
+        "explanation": "'Applied' là quá khứ của 'apply' (nộp đơn, ứng tuyển)."
+      },
+      {
+        "id": "vocab-ex4",
+        "type": "mcq",
+        "question": "What is a 'mentor'?",
+        "options": ["A boss", "An advisor or guide", "A colleague", "A customer"],
+        "correct": 1,
+        "explanation": "Mentor là người cố vấn, người hướng dẫn."
+      },
+      {
+        "id": "vocab-ex5",
+        "type": "mcq",
+        "question": "What does 'promotion' mean?",
+        "options": ["Demotion", "Advancement to higher position", "Salary cut", "Resignation"],
+        "correct": 1,
+        "explanation": "'Promotion' nghĩa là thăng chức, thăng tiến."
+      },
+      {
+        "id": "vocab-ex6",
+        "type": "mcq",
+        "question": "Complete: 'She is very _____ and wants to be CEO.'",
+        "options": ["ambition", "ambitious", "ambitiously", "ambitiousness"],
+        "correct": 1,
+        "explanation": "'Ambitious' (adj) nghĩa là tham vọng."
+      },
+      {
+        "id": "vocab-ex7",
+        "type": "mcq",
+        "question": "What are 'soft skills'?",
+        "options": ["Technical skills", "Interpersonal and communication skills", "Computer skills", "Language skills only"],
+        "correct": 1,
+        "explanation": "Soft skills là kỹ năng mềm như giao tiếp, làm việc nhóm."
+      },
+      {
+        "id": "vocab-ex8",
+        "type": "mcq",
+        "question": "Choose the correct form: 'The company _____ new graduates.'",
+        "options": ["recruit", "recruits", "recruiting", "recruited"],
+        "correct": 1,
+        "explanation": "'Recruits' là động từ ngôi thứ 3 số ít (tuyển dụng)."
+      },
+      {
+        "id": "vocab-ex9",
+        "type": "mcq",
+        "question": "What is 'networking'?",
+        "options": ["Internet connection", "Building professional relationships", "Social media", "Computer network"],
+        "correct": 1,
+        "explanation": "Networking là xây dựng mạng lưới quan hệ chuyên nghiệp."
+      },
+      {
+        "id": "vocab-ex10",
+        "type": "mcq",
+        "question": "Complete: 'She earns a good _____.'",
+        "options": ["wage", "salary", "money", "payment"],
+        "correct": 1,
+        "explanation": "'Salary' là lương (thường trả theo tháng)."
+      },
+      {
+        "id": "vocab-ex11",
+        "type": "mcq",
+        "question": "What does 'dedicated' mean?",
+        "options": ["Lazy", "Committed and hardworking", "Careless", "Inexperienced"],
+        "correct": 1,
+        "explanation": "'Dedicated' nghĩa là tận tụy, tận tâm."
+      },
+      {
+        "id": "vocab-ex12",
+        "type": "mcq",
+        "question": "Complete: 'I look _____ to working with you.'",
+        "options": ["up", "forward", "down", "back"],
+        "correct": 1,
+        "explanation": "'Look forward to' - mong chờ."
+      },
+      {
+        "id": "vocab-ex13",
+        "type": "mcq",
+        "question": "What is a 'CV'?",
+        "options": ["Cover letter", "Curriculum Vitae (resume)", "Job offer", "Reference"],
+        "correct": 1,
+        "explanation": "CV (Curriculum Vitae) là sơ yếu lý lịch."
+      },
+      {
+        "id": "vocab-ex14",
+        "type": "mcq",
+        "question": "Choose the correct collocation: '_____ a career'",
+        "options": ["make", "do", "build", "take"],
+        "correct": 2,
+        "explanation": "'Build a career' là cụm từ đúng nghĩa là xây dựng sự nghiệp."
+      },
+      {
+        "id": "vocab-ex15",
+        "type": "mcq",
+        "question": "What does 'competent' mean?",
+        "options": ["Incompetent", "Having necessary skills and ability", "Lazy", "Unqualified"],
+        "correct": 1,
+        "explanation": "'Competent' nghĩa là có năng lực, có khả năng."
+      },
+      {
+        "id": "vocab-ex16",
+        "type": "msq",
+        "question_text": "Decide True or False:",
+        "options": [
+          "'Career' means sự nghiệp.",
+          "'Promotion' means demotion.",
+          "'Qualification' means bằng cấp.",
+          "'Salary' means lương."
+        ],
+        "correct": [0, 2, 3],
+        "explanation": "a) True - Career là sự nghiệp. b) False - Promotion là thăng chức. c) True - Qualification là bằng cấp. d) True - Salary là lương."
+      },
+      {
+        "id": "vocab-ex17",
+        "type": "msq",
+        "question_text": "Match the phrasal verbs (True if correct):",
+        "options": [
+          "look forward to = mong chờ",
+          "come up with = give up",
+          "get on with = hòa hợp với",
+          "run out of = have plenty"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Look forward to là mong chờ. b) False - Come up with là nghĩ ra. c) True - Get on with là hòa hợp. d) False - Run out of là cạn kiệt."
+      },
+      {
+        "id": "vocab-ex18",
+        "type": "sa",
+        "question_text": "Complete: A person who advises you is a _____. (one word)",
+        "correct": "mentor",
+        "explanation": "Mentor - người cố vấn."
+      },
+      {
+        "id": "vocab-ex19",
+        "type": "sa",
+        "question_text": "Fill in: To apply for a job, you need a CV and a _____ letter. (one word)",
+        "correct": "cover",
+        "explanation": "Cover letter - thư xin việc."
+      },
+      {
+        "id": "vocab-ex20",
+        "type": "sa",
+        "question_text": "Complete the phrasal verb: catch _____ with (two words)",
+        "correct": "up with",
+        "explanation": "'Catch up with' - theo kịp."
+      }
+    ]
+  }
+}

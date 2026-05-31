@@ -1,0 +1,333 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-review-1",
+      "name": "Review 1 (Units 1 - 2 - 3)",
+      "slug": "review-1-units-1-2-3",
+      "chapter": "Review 1 (Units 1 - 2 - 3)",
+      "chapter_id": "A8",
+      "lesson_id": 10,
+      "description": "Review of Units 1, 2, and 3 covering leisure time, countryside life, and teenagers.",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=2622&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-1",
+          "name": "Review 1 Comprehensive",
+          "slug": "review-1-comprehensive",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 1 (Units 1 - 2 - 3)",
+          "sections": [
+            {
+              "heading": "1. Language - Vocabulary",
+              "content": "<h3>Unit 1: Leisure Time</h3><p><strong>Key vocabulary:</strong> leisure, activity, relax, hang out, surf, browse, DIY, craft, origami, adore, fancy, detest, keen on, addicted to</p><h3>Unit 2: Life in the Countryside</h3><p><strong>Key vocabulary:</strong> countryside, peaceful, harvest, paddy field, herd, buffalo, cattle, orchard, hospitable, vast, picturesque, load, unload</p><h3>Unit 3: Teenagers</h3><p><strong>Key vocabulary:</strong> teenager, pressure, stress, bully, peer pressure, distract, concentrate, counsellor, optimistic, pessimistic, upload, connect, forum, notification</p>"
+            },
+            {
+              "heading": "2. Language - Grammar",
+              "content": "<h3>Unit 1: Verbs + V-ing/to V</h3><p><strong>1. Verbs + V-ing:</strong> enjoy, fancy, dislike, detest + V-ing</p><p><strong>2. Verbs + to V:</strong> want, decide, plan + to V</p><p><strong>3. Both:</strong> like, love, hate + V-ing/to V</p><h3>Unit 2: Comparative Adverbs</h3><p><strong>1. Short adverbs:</strong> fast → faster, hard → harder</p><p><strong>2. Long adverbs:</strong> carefully → more carefully</p><p><strong>3. Irregular:</strong> well → better, badly → worse</p><h3>Unit 3: Simple & Compound Sentences</h3><p><strong>1. Simple:</strong> 1 mệnh đề (I like music.)</p><p><strong>2. Compound:</strong> 2+ mệnh đề + liên từ (and, but, or, so, for, yet)</p>"
+            },
+            {
+              "heading": "3. Skills - Reading Passage 1",
+              "content": "<p><strong>My Leisure Time and Countryside Life</strong></p><p>I'm Minh, and I live in the countryside. Life here is very different from city life. In my leisure time, I enjoy doing many activities. I love hanging out with friends and playing sports. I also fancy making crafts and doing DIY projects. However, I detest surfing the Internet for too long because it's addictive.</p><p>Life in the countryside is peaceful and quiet. People work harder than city people, but they are more hospitable. My family has a small farm with paddy fields and an orchard. Every harvest season, we work together to collect rice. I often help my father herd buffalo in the vast fields. It's tiring, but I enjoy it.</p><p>Compared to the city, the countryside is less convenient. We don't have many shops or entertainment centers. However, the air is fresher, and life is more relaxing. People here live more slowly and happily than in the city. I prefer living in the countryside because it's peaceful and beautiful.</p>"
+            },
+            {
+              "heading": "4. Skills - Reading Passage 2",
+              "content": "<p><strong>Teenagers' Problems</strong></p><p>Being a teenager is not easy. Teenagers face many problems today. School pressure is high, and students must study hard to get good grades. Peer pressure is also common. Teenagers want to fit in with their friends, so they sometimes do things they don't like.</p><p>Many teenagers feel stressed. They can't concentrate on their studies, and they feel tired all the time. Some teenagers are addicted to social media. They spend hours uploading photos and checking notifications. This distracts them from their schoolwork.</p><p>Bullying is another serious problem. Some students bully others, and this makes victims feel sad and scared. What can teenagers do? They should talk to counsellors or parents. They should be optimistic and manage their time better. They need to balance study and leisure time.</p><p>I think teenagers should enjoy their youth, but they must also be responsible. Study hard, but don't forget to relax and have fun with friends.</p>"
+            },
+            {
+              "heading": "5. Skills - Practice Exercises",
+              "content": "<p><strong>Questions:</strong></p><ol class='list-decimal pl-5 space-y-2'><li>What does Minh enjoy doing in his leisure time?</li><li>How is countryside life different from city life?</li><li>What problems do teenagers face?</li><li>What should teenagers do to solve their problems?</li></ol>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Verbs + V-ing/to V",
+            "method": "<p><strong>Phương pháp:</strong> Xác định động từ và chọn V-ing hoặc to V</p>",
+            "examples": [
+              {
+                "question": "I enjoy ______ (read) books.",
+                "solution": "I enjoy <strong>reading</strong> books.",
+                "explanation": "enjoy + V-ing"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Comparative Adverbs",
+            "method": "<p><strong>Phương pháp:</strong> Short: -er, Long: more, Irregular: học thuộc</p>",
+            "examples": [
+              {
+                "question": "He runs ______ (fast) than me.",
+                "solution": "He runs <strong>faster</strong> than me.",
+                "explanation": "fast → faster"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I enjoy ______ books.",
+            "options": ["read", "reading", "to read", "reads"],
+            "correct": 1,
+            "explanation": "enjoy + V-ing"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "He runs ______ than me.",
+            "options": ["fast", "faster", "more fast", "more faster"],
+            "correct": 1,
+            "explanation": "fast → faster"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I like music, ______ she likes art.",
+            "options": ["for", "and", "but", "so"],
+            "correct": 1,
+            "explanation": "Thêm thông tin → and"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I want ______ out.",
+            "options": ["go", "going", "to go", "goes"],
+            "correct": 2,
+            "explanation": "want + to V"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She sings ______ than me.",
+            "options": ["well", "good", "better", "more well"],
+            "correct": 2,
+            "explanation": "well → better"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "I'm tired, ______ I must study.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 1,
+            "explanation": "Đối lập → but"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "Remember ______ the door.",
+            "options": ["lock", "locking", "to lock", "locks"],
+            "correct": 2,
+            "explanation": "remember + to V (nhớ phải làm)"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "Drive ______ than that.",
+            "options": ["careful", "carefully", "more carefully", "more careful"],
+            "correct": 2,
+            "explanation": "carefully → more carefully"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I was tired, ______ I slept.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 3,
+            "explanation": "Kết quả → so"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "I'm interested in ______ English.",
+            "options": ["learn", "learning", "to learn", "learns"],
+            "correct": 1,
+            "explanation": "be interested in + V-ing"
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "I get up ______ than you.",
+            "options": ["early", "earlier", "more early", "more earlier"],
+            "correct": 1,
+            "explanation": "early → earlier"
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "Study hard, ______ you'll fail.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 2,
+            "explanation": "Lựa chọn/cảnh báo → or"
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "I dislike ______ housework.",
+            "options": ["do", "doing", "to do", "does"],
+            "correct": 1,
+            "explanation": "dislike + V-ing"
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "She works ______ than before.",
+            "options": ["hard", "harder", "more hard", "more harder"],
+            "correct": 1,
+            "explanation": "hard → harder"
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "I called him, ______ he didn't answer.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 1,
+            "explanation": "Đối lập → but"
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "She decided ______ harder.",
+            "options": ["study", "studying", "to study", "studies"],
+            "correct": 2,
+            "explanation": "decide + to V"
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "He walks ______ than her.",
+            "options": ["slow", "slowly", "more slowly", "more slow"],
+            "correct": 2,
+            "explanation": "slowly → more slowly"
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "It rained, ______ we stayed inside.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 3,
+            "explanation": "Kết quả → so"
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "I like ______ music.",
+            "options": ["listen", "listening to", "to listen", "listens"],
+            "correct": 1,
+            "explanation": "like + V-ing"
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "They play ______ than us.",
+            "options": ["bad", "badly", "worse", "more badly"],
+            "correct": 2,
+            "explanation": "badly → worse"
+          },
+          {
+            "id": "tf1",
+            "type": "true-false",
+            "question": "Minh lives in the city.",
+            "correct": false,
+            "explanation": "Sai. Minh lives in the countryside."
+          },
+          {
+            "id": "tf2",
+            "type": "true-false",
+            "question": "Countryside people are more hospitable than city people.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'they are more hospitable'."
+          },
+          {
+            "id": "tf3",
+            "type": "true-false",
+            "question": "Teenagers don't face any problems.",
+            "correct": false,
+            "explanation": "Sai. Teenagers face many problems."
+          },
+          {
+            "id": "tf4",
+            "type": "true-false",
+            "question": "Social media can distract teenagers from schoolwork.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'This distracts them from their schoolwork'."
+          },
+          {
+            "id": "tf5",
+            "type": "true-false",
+            "question": "Life in the countryside is more convenient than in the city.",
+            "correct": false,
+            "explanation": "Sai. 'the countryside is less convenient'."
+          },
+          {
+            "id": "short1",
+            "type": "short-answer",
+            "question": "What does Minh enjoy doing in his leisure time?",
+            "answer": "Hanging out with friends, playing sports, making crafts, and doing DIY projects",
+            "explanation": "Bài đọc đề cập các hoạt động này."
+          },
+          {
+            "id": "short2",
+            "type": "short-answer",
+            "question": "How is countryside life different from city life?",
+            "answer": "It's more peaceful, less convenient, fresher air, and people live more slowly",
+            "explanation": "Bài đọc so sánh hai nơi."
+          },
+          {
+            "id": "short3",
+            "type": "short-answer",
+            "question": "What problems do teenagers face?",
+            "answer": "School pressure, peer pressure, stress, social media addiction, and bullying",
+            "explanation": "Bài đọc liệt kê các vấn đề."
+          },
+          {
+            "id": "short4",
+            "type": "short-answer",
+            "question": "What should teenagers do to solve their problems?",
+            "answer": "Talk to counsellors or parents, be optimistic, and manage time better",
+            "explanation": "Bài đọc đưa ra giải pháp."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write about your leisure activities (80-100 words). Use verbs of liking + V-ing/to V.",
+            "sample_answer": "In my free time, I enjoy doing many activities. I love reading books because it helps me relax and learn new things. I also like playing sports with my friends. We often play football on weekends. I'm interested in learning English, so I watch English videos online. However, I dislike doing housework because it's boring. I want to learn how to play the guitar in the future. I think having hobbies makes life more interesting and enjoyable.",
+            "explanation": "Bài viết cần sử dụng verbs of liking + V-ing/to V."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Compare city life and countryside life (80-100 words). Use comparative adverbs.",
+            "sample_answer": "City life and countryside life are very different. In the city, people work harder and live more quickly than in the countryside. The city is more convenient because there are many shops and services. However, the countryside is more peaceful and quiet. The air is fresher, and people are more hospitable. In the countryside, life moves more slowly, and people have more time to relax. I think both places have advantages. City life is better for work and study, but countryside life is better for health and relaxation.",
+            "explanation": "Bài viết cần sử dụng comparative adverbs để so sánh."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Write about teenagers' problems (80-100 words). Use compound sentences.",
+            "sample_answer": "Teenagers today face many problems. School pressure is high, so students feel stressed. They must study hard, but they also want to have fun with friends. Peer pressure is common, and many teenagers do things to fit in. Some teenagers are addicted to social media, so they can't concentrate on their studies. Bullying is serious, yet many schools don't solve it well. Teenagers should talk to adults, or they will feel alone. They need to be optimistic and manage their time better. Life is difficult, but teenagers can overcome these problems.",
+            "explanation": "Bài viết cần sử dụng compound sentences với and, but, or, so, yet."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Write about your ideal place to live (80-100 words). Use all grammar from Units 1-3.",
+            "sample_answer": "I prefer living in the countryside because it's peaceful and beautiful. I enjoy waking up early and hearing birds singing. Life here is slower, so people are less stressed. I love helping my family on the farm, and I like herding buffalo in the fields. The air is fresher than in the city, and people are more hospitable. However, the countryside is less convenient. We don't have many shops, but I don't mind it. I want to stay here forever because I feel happy and relaxed. The countryside is my ideal place to live.",
+            "explanation": "Bài viết kết hợp verbs + V-ing/to V, comparative adverbs, và compound sentences."
+          }
+        ]
+      }
+    }
+  ]
+}

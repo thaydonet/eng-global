@@ -1,0 +1,278 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-9-p5",
+  "name": "Part 5: Speaking",
+  "slug": "p5-speaking",
+  "description": "Thảo luận về mục tiêu nghề nghiệp",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Speaking: Discussing Career Goals and Plans",
+      "sections": [
+        {
+          "heading": "1. Useful Expressions for Talking About Careers",
+          "content": "<div class='bg-gradient-to-r from-purple-50 to-pink-50 dark:from-purple-900/20 dark:to-pink-900/20 p-6 rounded-xl'><h4 class='font-bold text-lg mb-3'>Expressing Career Aspirations:</h4><ul class='list-disc pl-5 space-y-2'><li>I look forward to working in...</li><li>I hope to pursue a career in...</li><li>My goal is to become...</li><li>I'm interested in...</li><li>I'd like to specialize in...</li><li>I aspire to be...</li></ul><h4 class='font-bold text-lg mb-3 mt-4'>Talking About Skills:</h4><ul class='list-disc pl-5 space-y-2'><li>I'm good at...</li><li>I have experience in...</li><li>I've developed skills in...</li><li>I need to improve my...</li><li>I'm working on...</li><li>I'm trying to catch up with...</li></ul><h4 class='font-bold text-lg mb-3 mt-4'>Discussing Challenges:</h4><ul class='list-disc pl-5 space-y-2'><li>I have to put up with...</li><li>I need to face up to...</li><li>The main challenge is...</li><li>I'm struggling with...</li><li>I find it difficult to...</li><li>I need to keep up with...</li></ul><h4 class='font-bold text-lg mb-3 mt-4'>Talking About Plans:</h4><ul class='list-disc pl-5 space-y-2'><li>I plan to...</li><li>I'm going to...</li><li>I intend to...</li><li>I've come up with a plan to...</li><li>My next step is to...</li><li>I aim to...</li></ul></div>"
+        },
+        {
+          "heading": "2. Sample Dialogues",
+          "content": "<div class='space-y-4'><div class='bg-blue-50 dark:bg-blue-900/20 p-4 rounded-lg'><p class='font-bold mb-2'>Dialogue 1: Discussing Career Goals</p><p><strong>A:</strong> What career are you looking forward to?</p><p><strong>B:</strong> I look forward to working in software development. I've always been interested in technology.</p><p><strong>A:</strong> That's great! What skills do you need to develop?</p><p><strong>B:</strong> I need to keep up with the latest programming languages and catch up with industry trends. I'm also working on my problem-solving skills.</p></div><div class='bg-green-50 dark:bg-green-900/20 p-4 rounded-lg'><p class='font-bold mb-2'>Dialogue 2: Talking About Challenges</p><p><strong>A:</strong> How's your job search going?</p><p><strong>B:</strong> It's challenging. I have to put up with many rejections, but I'm not giving up.</p><p><strong>A:</strong> That's the right attitude. Have you come up with any new strategies?</p><p><strong>B:</strong> Yes, I'm networking more and trying to get on with professionals in my field.</p></div><div class='bg-purple-50 dark:bg-purple-900/20 p-4 rounded-lg'><p class='font-bold mb-2'>Dialogue 3: Career Planning</p><p><strong>A:</strong> What are your long-term career goals?</p><p><strong>B:</strong> I want to live up to my potential and become a team leader within five years.</p><p><strong>A:</strong> How do you plan to achieve that?</p><p><strong>B:</strong> I need to face up to my weaknesses and work on my leadership skills. I also look up to successful managers and learn from them.</p></div></div>"
+        },
+        {
+          "heading": "3. Discussion Topics",
+          "content": "<div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold mb-3'>Topics for Practice:</h4><ol class='list-decimal pl-5 space-y-2'><li><strong>Your Dream Career:</strong> Describe your ideal job and explain why you're interested in it.</li><li><strong>Skills Development:</strong> Talk about the skills you need to develop for your chosen career.</li><li><strong>Career Challenges:</strong> Discuss the challenges you might face and how you plan to overcome them.</li><li><strong>Work-Life Balance:</strong> Explain how you plan to maintain balance between work and personal life.</li><li><strong>Role Models:</strong> Talk about professionals you look up to and what you can learn from them.</li><li><strong>Career Changes:</strong> Discuss whether you think people should stick to one career or be open to changes.</li></ol></div>"
+        },
+        {
+          "heading": "4. Pronunciation Tips",
+          "content": "<div class='bg-yellow-50 dark:bg-yellow-900/20 p-4 rounded-lg'><h4 class='font-bold mb-2'>Stress in Three-word Phrasal Verbs:</h4><ul class='list-disc pl-5 space-y-1'><li><strong>LOOK</strong> forward <strong>TO</strong></li><li><strong>COME</strong> up <strong>WITH</strong></li><li><strong>GET</strong> on <strong>WITH</strong></li><li><strong>CATCH</strong> up <strong>WITH</strong></li><li><strong>KEEP</strong> up <strong>WITH</strong></li><li><strong>PUT</strong> up <strong>WITH</strong></li><li><strong>RUN</strong> out <strong>OF</strong></li><li><strong>LOOK</strong> up <strong>TO</strong></li><li><strong>FACE</strong> up <strong>TO</strong></li><li><strong>LIVE</strong> up <strong>TO</strong></li><li><strong>MAKE</strong> up <strong>FOR</strong></li></ul><p class='mt-3'><strong>Remember:</strong> Stress the first verb and the final preposition, not the middle particle.</p></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "speaking-ex1",
+        "type": "mcq",
+        "question": "Which expression is used to talk about career aspirations?",
+        "options": [
+          "I hate working",
+          "I look forward to working in...",
+          "I never want to work",
+          "I avoid careers"
+        ],
+        "correct": 1,
+        "explanation": "'I look forward to working in...' diễn tả nguyện vọng nghề nghiệp."
+      },
+      {
+        "id": "speaking-ex2",
+        "type": "mcq",
+        "question": "How do you express that you admire someone professionally?",
+        "options": [
+          "I look down on them",
+          "I ignore them",
+          "I look up to them",
+          "I avoid them"
+        ],
+        "correct": 2,
+        "explanation": "'I look up to them' nghĩa là tôi ngưỡng mộ họ."
+      },
+      {
+        "id": "speaking-ex3",
+        "type": "mcq",
+        "question": "Which phrase means you need to stay current with changes?",
+        "options": [
+          "I fall behind",
+          "I keep up with",
+          "I ignore",
+          "I avoid"
+        ],
+        "correct": 1,
+        "explanation": "'Keep up with' nghĩa là theo kịp, cập nhật."
+      },
+      {
+        "id": "speaking-ex4",
+        "type": "mcq",
+        "question": "How do you say you tolerate difficult situations?",
+        "options": [
+          "I give up",
+          "I run away",
+          "I put up with them",
+          "I avoid them"
+        ],
+        "correct": 2,
+        "explanation": "'Put up with' nghĩa là chịu đựng."
+      },
+      {
+        "id": "speaking-ex5",
+        "type": "mcq",
+        "question": "Which expression means to create an idea or plan?",
+        "options": [
+          "Come up with",
+          "Give up",
+          "Run away",
+          "Fall behind"
+        ],
+        "correct": 0,
+        "explanation": "'Come up with' nghĩa là nghĩ ra, đưa ra ý tưởng."
+      },
+      {
+        "id": "speaking-ex6",
+        "type": "mcq",
+        "question": "How do you say you have good relationships with colleagues?",
+        "options": [
+          "I fight with them",
+          "I get on with them",
+          "I avoid them",
+          "I ignore them"
+        ],
+        "correct": 1,
+        "explanation": "'Get on with' nghĩa là hòa hợp với."
+      },
+      {
+        "id": "speaking-ex7",
+        "type": "mcq",
+        "question": "Which phrase means to confront a problem?",
+        "options": [
+          "Run away from",
+          "Ignore",
+          "Face up to",
+          "Avoid"
+        ],
+        "correct": 2,
+        "explanation": "'Face up to' nghĩa là đối mặt với."
+      },
+      {
+        "id": "speaking-ex8",
+        "type": "mcq",
+        "question": "How do you express meeting expectations?",
+        "options": [
+          "Fall short of",
+          "Live up to",
+          "Ignore",
+          "Avoid"
+        ],
+        "correct": 1,
+        "explanation": "'Live up to' nghĩa là đáp ứng (kỳ vọng)."
+      },
+      {
+        "id": "speaking-ex9",
+        "type": "mcq",
+        "question": "Which expression means to compensate for something?",
+        "options": [
+          "Give up",
+          "Run away",
+          "Make up for",
+          "Fall behind"
+        ],
+        "correct": 2,
+        "explanation": "'Make up for' nghĩa là bù đắp."
+      },
+      {
+        "id": "speaking-ex10",
+        "type": "mcq",
+        "question": "In Dialogue 1, what does B need to do?",
+        "options": [
+          "Give up technology",
+          "Keep up with programming languages",
+          "Avoid learning",
+          "Ignore trends"
+        ],
+        "correct": 1,
+        "explanation": "B cần 'keep up with the latest programming languages' - theo kịp ngôn ngữ lập trình mới."
+      },
+      {
+        "id": "speaking-ex11",
+        "type": "msq",
+        "question_text": "Mark True or False about career expressions:",
+        "options": [
+          "'I look forward to' expresses anticipation.",
+          "'Put up with' means to enjoy.",
+          "'Come up with' means to create ideas.",
+          "'Get on with' means to have conflicts."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Mong chờ. b) False - Nghĩa là chịu đựng. c) True - Nghĩ ra ý tưởng. d) False - Nghĩa là hòa hợp."
+      },
+      {
+        "id": "speaking-ex12",
+        "type": "msq",
+        "question_text": "Decide True or False:",
+        "options": [
+          "'Look up to' means to admire.",
+          "'Face up to' means to avoid.",
+          "'Keep up with' means to stay current.",
+          "'Run out of' means to have plenty."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Ngưỡng mộ. b) False - Nghĩa là đối mặt. c) True - Theo kịp. d) False - Nghĩa là cạn kiệt."
+      },
+      {
+        "id": "speaking-ex13",
+        "type": "msq",
+        "question_text": "Based on the dialogues, mark True or False:",
+        "options": [
+          "B in Dialogue 1 is interested in technology.",
+          "B in Dialogue 2 gives up after rejections.",
+          "B in Dialogue 3 wants to become a team leader.",
+          "Networking is not mentioned in the dialogues."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Quan tâm công nghệ. b) False - Không bỏ cuộc. c) True - Muốn trở thành trưởng nhóm. d) False - Có đề cập networking."
+      },
+      {
+        "id": "speaking-ex14",
+        "type": "sa",
+        "question_text": "Complete: I _____ _____ to working with you. (three words)",
+        "correct": "look forward to",
+        "explanation": "'Look forward to' - mong chờ."
+      },
+      {
+        "id": "speaking-ex15",
+        "type": "sa",
+        "question_text": "Complete: I need to _____ _____ _____ the latest trends. (four words)",
+        "correct": "keep up with",
+        "explanation": "'Keep up with' - theo kịp."
+      },
+      {
+        "id": "speaking-ex16",
+        "type": "sa",
+        "question_text": "What phrasal verb means 'to admire'? (three words)",
+        "correct": "look up to",
+        "explanation": "'Look up to' - ngưỡng mộ."
+      },
+      {
+        "id": "speaking-ex17",
+        "type": "mcq",
+        "question": "Which topic is NOT mentioned in the discussion topics?",
+        "options": [
+          "Dream Career",
+          "Skills Development",
+          "Retirement Planning",
+          "Work-Life Balance"
+        ],
+        "correct": 2,
+        "explanation": "Retirement Planning không được đề cập trong các chủ đề thảo luận."
+      },
+      {
+        "id": "speaking-ex18",
+        "type": "mcq",
+        "question": "Where should you stress in 'look forward to'?",
+        "options": [
+          "Only 'forward'",
+          "'look' and 'to'",
+          "Only 'to'",
+          "All three words equally"
+        ],
+        "correct": 1,
+        "explanation": "Nhấn vào 'LOOK' và 'TO', không nhấn 'forward'."
+      },
+      {
+        "id": "speaking-ex19",
+        "type": "mcq",
+        "question": "According to Dialogue 3, what does B need to do?",
+        "options": [
+          "Ignore weaknesses",
+          "Face up to weaknesses",
+          "Avoid challenges",
+          "Give up goals"
+        ],
+        "correct": 1,
+        "explanation": "B cần 'face up to weaknesses' - đối mặt với điểm yếu."
+      },
+      {
+        "id": "speaking-ex20",
+        "type": "mcq",
+        "question": "Which expression is used to talk about creating strategies?",
+        "options": [
+          "Give up strategies",
+          "Come up with strategies",
+          "Avoid strategies",
+          "Ignore strategies"
+        ],
+        "correct": 1,
+        "explanation": "'Come up with strategies' - nghĩ ra chiến lược."
+      }
+    ]
+  }
+}

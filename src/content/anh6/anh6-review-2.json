@@ -1,0 +1,442 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-review-2",
+      "name": "Review 2 (Units 4 - 6)",
+      "slug": "review-2-units-4-5-6",
+      "chapter": "Review 2",
+      "chapter_id": "A6",
+      "lesson_id": 7,
+      "description": "Consolidation of vocabulary and grammar from Units 4, 5, and 6.",
+      "duration_minutes": 60,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2672&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-2-mixed",
+          "name": "Mixed Review",
+          "slug": "mixed-review",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 2: Units 4-6",
+          "sections": [
+            {
+              "heading": "I. Language - Ôn tập ngôn ngữ",
+              "content": "<h3>A. Pronunciation (Phát âm)</h3><p><strong>Unit 4:</strong> Sounds /i:/ and /ɪ/</p><ul class='list-disc pl-5 space-y-2'><li><strong>/i:/:</strong> cheap, street, peaceful, convenient</li><li><strong>/ɪ/:</strong> city, building, historic, cinema</li></ul><p><strong>Unit 5:</strong> Sounds /t/ and /d/</p><ul class='list-disc pl-5 space-y-2'><li><strong>/t/:</strong> tent, waterfall, mountain, tourist</li><li><strong>/d/:</strong> desert, island, wonder, guide</li></ul><p><strong>Unit 6:</strong> Sounds /s/ and /ʃ/</p><ul class='list-disc pl-5 space-y-2'><li><strong>/s/:</strong> celebrate, special, spring</li><li><strong>/ʃ/:</strong> shopping, should, shrine, wish</li></ul><h3>B. Vocabulary (Từ vựng)</h3><p><strong>Unit 4: My Neighbourhood</strong></p><ul class='list-disc pl-5 space-y-2'><li>Places: bank, post office, restaurant, cinema, market, museum, temple, square</li><li>Directions: turn left/right, go straight, cross the street, at the corner, opposite, next to</li><li>Adjectives: quiet, noisy, busy, crowded, peaceful, modern, historic, convenient</li></ul><p><strong>Unit 5: Natural Wonders of Viet Nam</strong></p><ul class='list-disc pl-5 space-y-2'><li>Natural features: island, cave, mountain, waterfall, forest, desert, beach, rock, valley</li><li>Travel items: backpack, compass, sleeping bag, tent, torch, map, camera, water bottle</li><li>Adjectives: amazing, beautiful, wonderful, spectacular, breathtaking, magnificent</li></ul><p><strong>Unit 6: Our Tet Holiday</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tet activities: celebrate, decorate, clean, visit relatives, give/receive lucky money, watch fireworks</li><li>Tet items: peach blossom, apricot blossom, banh chung, lucky money, fireworks</li><li>Traditions: wish good luck, family gathering, shopping, making banh chung</li></ul><h3>C. Grammar (Ngữ pháp)</h3><p><strong>Unit 4: Comparative Adjectives</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Short adjectives:</strong> adj + er + than</li><li>Ex: My house is <strong>bigger than</strong> yours.</li><li><strong>Long adjectives:</strong> more + adj + than</li><li>Ex: The city is <strong>more crowded than</strong> the countryside.</li><li><strong>Irregular:</strong> good → better, bad → worse, far → farther/further</li></ul><p><strong>Unit 5: Superlative Adjectives</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Short adjectives:</strong> the + adj + est</li><li>Ex: Fansipan is <strong>the highest</strong> mountain in Vietnam.</li><li><strong>Long adjectives:</strong> the most + adj</li><li>Ex: Ha Long Bay is <strong>the most beautiful</strong> place.</li><li><strong>Irregular:</strong> good → the best, bad → the worst</li></ul><p><strong>Unit 5: Must / Mustn't</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Must:</strong> bắt buộc, cần thiết</li><li>Ex: You <strong>must bring</strong> water for the trip.</li><li><strong>Mustn't:</strong> cấm đoán</li><li>Ex: You <strong>mustn't swim</strong> in this river.</li></ul><p><strong>Unit 6: Should / Shouldn't</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Should:</strong> lời khuyên nên làm</li><li>Ex: You <strong>should visit</strong> your grandparents at Tet.</li><li><strong>Shouldn't:</strong> lời khuyên không nên làm</li><li>Ex: You <strong>shouldn't break</strong> things at Tet.</li></ul><p><strong>Unit 6: Some / Any</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Some:</strong> câu khẳng định, câu hỏi mời/đề nghị</li><li>Ex: I have <strong>some</strong> flowers. / Would you like <strong>some</strong> tea?</li><li><strong>Any:</strong> câu phủ định, câu hỏi</li><li>Ex: I don't have <strong>any</strong> money. / Do you have <strong>any</strong> apples?</li><li><strong>Countable vs Uncountable nouns:</strong></li><li>Countable: book/books, flower/flowers (many, a few)</li><li>Uncountable: water, rice, money (much, a little)</li></ul>"
+            },
+            {
+              "heading": "II. Skills - Ôn tập kỹ năng",
+              "content": "<h3>A. Reading (Đọc hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc lướt để nắm ý chính (skimming)</li><li>Đọc kỹ để tìm thông tin chi tiết (scanning)</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li><li>Hiểu ý chính của đoạn văn</li><li>Xác định thông tin đúng/sai</li><li>Trả lời câu hỏi về bài đọc</li></ul><p><strong>Chủ đề đã đọc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Neighbourhoods and places</li><li>Natural wonders and travel</li><li>Tet traditions and customs</li></ul><h3>B. Speaking (Nói)</h3><p><strong>Chủ đề đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Asking for and giving directions</li><li>Describing and comparing places</li><li>Talking about natural wonders</li><li>Discussing Tet traditions</li><li>Giving advice</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Where is...? / How can I get to...?</li><li>Turn left/right. / Go straight.</li><li>This place is bigger/more beautiful than...</li><li>This is the best/most interesting place.</li><li>You must/mustn't...</li><li>You should/shouldn't...</li></ul><h3>C. Listening (Nghe hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe để nắm ý chính</li><li>Nghe để tìm thông tin cụ thể</li><li>Điền thông tin còn thiếu (gap-filling)</li><li>Trả lời câu hỏi chi tiết</li><li>Hiểu hướng dẫn và chỉ dẫn</li></ul><p><strong>Chủ đề đã nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Directions to places</li><li>Travel guides</li><li>Tet preparations and celebrations</li></ul><h3>D. Writing (Viết)</h3><p><strong>Dạng bài đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Writing about neighbourhoods</li><li>Writing about natural wonders</li><li>Writing about Tet holiday</li></ul><p><strong>Kỹ năng viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tổ chức bài viết: Introduction - Body - Conclusion</li><li>Sử dụng comparative adjectives để so sánh</li><li>Sử dụng superlative adjectives để mô tả</li><li>Sử dụng must/mustn't, should/shouldn't để đưa ra lời khuyên</li><li>Sử dụng some/any với danh từ đếm được và không đếm được</li><li>Viết câu rõ ràng và mạch lạc</li></ul><p><strong>Cấu trúc bài viết mẫu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Introduction:</strong> Giới thiệu chủ đề (1-2 câu)</li><li><strong>Body:</strong> Trình bày chi tiết (3-5 câu)</li><li><strong>Conclusion:</strong> Kết luận (1 câu)</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Mixed Exercise",
+            "method": "<p>Review all grammar points and vocabulary from Units 4-6.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "My neighbourhood is very nice and convenient. There is a big supermarket near my house. It is bigger than the old market. Next to the supermarket, there is a modern cinema. The cinema is the most popular place in the neighbourhood. Many people go there on weekends.\n\nThere is also a beautiful park opposite my house. The park is quieter than the city centre. It has many trees and flowers. In the morning, people go to the park to exercise. In the evening, children play there.\n\nMy neighbourhood is more peaceful than the city centre, but it is not boring. There are many interesting places to visit. I think my neighbourhood is the best place to live.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "The city centre",
+                  "The writer's neighbourhood",
+                  "The supermarket",
+                  "The park"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về khu phố của tác giả."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "How is the supermarket compared to the old market?",
+                "options": [
+                  "Smaller",
+                  "Bigger",
+                  "Older",
+                  "Quieter"
+                ],
+                "correct": 1,
+                "explanation": "Siêu thị lớn hơn chợ cũ (bigger than the old market)."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "What is the most popular place in the neighbourhood?",
+                "options": [
+                  "The supermarket",
+                  "The park",
+                  "The cinema",
+                  "The market"
+                ],
+                "correct": 2,
+                "explanation": "Rạp chiếu phim là nơi phổ biến nhất (the most popular place)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "Where is the park?",
+                "options": [
+                  "Next to the supermarket",
+                  "Opposite the writer's house",
+                  "In the city centre",
+                  "Behind the cinema"
+                ],
+                "correct": 1,
+                "explanation": "Công viên đối diện nhà tác giả (opposite my house)."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "What does the writer think about the neighbourhood?",
+                "options": [
+                  "It's boring",
+                  "It's noisy",
+                  "It's the best place to live",
+                  "It's too crowded"
+                ],
+                "correct": 2,
+                "explanation": "Tác giả nghĩ khu phố là nơi tốt nhất để sống."
+              }
+            ]
+          },
+          {
+            "id": "reading2",
+            "type": "reading",
+            "passage": "Ha Long Bay is one of the most beautiful natural wonders in Vietnam. It is in Quang Ninh Province. Ha Long Bay has about 2,000 islands. The islands are bigger than people think. Some islands have beautiful caves.\n\nMany tourists visit Ha Long Bay every year. It is the most popular tourist destination in Vietnam. When you visit Ha Long Bay, you must bring a camera to take photos. The view is amazing. You must also bring water and sun cream because it can be very hot.\n\nYou mustn't throw rubbish in the water. You mustn't damage the caves. We must protect this beautiful place for future generations.",
+            "questions": [
+              {
+                "id": "reading2-q1",
+                "question": "Where is Ha Long Bay?",
+                "options": [
+                  "In Ha Noi",
+                  "In Quang Ninh Province",
+                  "In Ho Chi Minh City",
+                  "In Da Nang"
+                ],
+                "correct": 1,
+                "explanation": "Vịnh Hạ Long ở tỉnh Quảng Ninh."
+              },
+              {
+                "id": "reading2-q2",
+                "question": "How many islands are there in Ha Long Bay?",
+                "options": [
+                  "About 1,000",
+                  "About 2,000",
+                  "About 3,000",
+                  "About 4,000"
+                ],
+                "correct": 1,
+                "explanation": "Có khoảng 2,000 hòn đảo ở Vịnh Hạ Long."
+              },
+              {
+                "id": "reading2-q3",
+                "question": "What must you bring when visiting Ha Long Bay?",
+                "options": [
+                  "Only a camera",
+                  "Only water",
+                  "A camera, water, and sun cream",
+                  "Nothing"
+                ],
+                "correct": 2,
+                "explanation": "Phải mang máy ảnh, nước và kem chống nắng."
+              },
+              {
+                "id": "reading2-q4",
+                "question": "What mustn't you do at Ha Long Bay?",
+                "options": [
+                  "Take photos",
+                  "Throw rubbish in the water",
+                  "Visit the caves",
+                  "Bring water"
+                ],
+                "correct": 1,
+                "explanation": "Không được vứt rác xuống nước (mustn't throw rubbish)."
+              },
+              {
+                "id": "reading2-q5",
+                "question": "Why must we protect Ha Long Bay?",
+                "options": [
+                  "Because it's expensive",
+                  "Because it's far away",
+                  "For future generations",
+                  "Because it's small"
+                ],
+                "correct": 2,
+                "explanation": "Phải bảo vệ cho các thế hệ tương lai (for future generations)."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "My house is ______ than yours.",
+            "options": ["big", "bigger", "more big", "biggest"],
+            "correct": 1,
+            "explanation": "So sánh hơn với tính từ ngắn: adj + er + than → bigger."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The city is ______ than the countryside.",
+            "options": ["crowded", "more crowded", "most crowded", "the most crowded"],
+            "correct": 1,
+            "explanation": "So sánh hơn với tính từ dài: more + adj + than → more crowded."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "Fansipan is ______ mountain in Vietnam.",
+            "options": ["high", "higher", "the highest", "highest"],
+            "correct": 2,
+            "explanation": "So sánh nhất với tính từ ngắn: the + adj + est → the highest."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "Ha Long Bay is ______ place in Vietnam.",
+            "options": ["beautiful", "more beautiful", "the most beautiful", "most beautiful"],
+            "correct": 2,
+            "explanation": "So sánh nhất với tính từ dài: the most + adj → the most beautiful."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "You ______ bring water for the trip.",
+            "options": ["can", "must", "may", "should"],
+            "correct": 1,
+            "explanation": "Bắt buộc, cần thiết → dùng 'must'."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "You ______ swim in this river. It's dangerous.",
+            "options": ["must", "mustn't", "should", "can"],
+            "correct": 1,
+            "explanation": "Cấm đoán → dùng 'mustn't'."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "You ______ visit your grandparents at Tet.",
+            "options": ["can", "should", "may", "will"],
+            "correct": 1,
+            "explanation": "Lời khuyên nên làm → dùng 'should'."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "You ______ break things at Tet.",
+            "options": ["should", "shouldn't", "must", "can"],
+            "correct": 1,
+            "explanation": "Lời khuyên không nên làm → dùng 'shouldn't'."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I have ______ flowers for decoration.",
+            "options": ["some", "any", "much", "many"],
+            "correct": 0,
+            "explanation": "Câu khẳng định → dùng 'some'."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Do you have ______ money?",
+            "options": ["some", "any", "much", "many"],
+            "correct": 1,
+            "explanation": "Câu hỏi → dùng 'any'."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "Excuse me, ______ is the bank?",
+            "options": ["what", "where", "when", "who"],
+            "correct": 1,
+            "explanation": "Hỏi về vị trí dùng 'where'."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "______ left at the traffic lights.",
+            "options": ["Go", "Turn", "Cross", "Take"],
+            "correct": 1,
+            "explanation": "Chỉ đường: Turn left/right (rẽ trái/phải)."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "This restaurant is ______ than that one.",
+            "options": ["good", "gooder", "better", "best"],
+            "correct": 2,
+            "explanation": "Tính từ 'good' bất quy tắc → better."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "This is ______ restaurant in town.",
+            "options": ["good", "better", "the best", "best"],
+            "correct": 2,
+            "explanation": "So sánh nhất với tính từ bất quy tắc: good → the best."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "We have ______ flowers in the garden.",
+            "options": ["much", "many", "a little", "little"],
+            "correct": 1,
+            "explanation": "Flowers là danh từ đếm được → dùng 'many'."
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "I need ______ water.",
+            "options": ["much", "many", "a few", "few"],
+            "correct": 0,
+            "explanation": "Water là danh từ không đếm được → dùng 'much'."
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "The post office is ______ the cinema.",
+            "options": ["opposite", "between", "under", "on"],
+            "correct": 0,
+            "explanation": "Opposite: đối diện."
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "______ straight and you will see the museum.",
+            "options": ["Turn", "Go", "Cross", "Take"],
+            "correct": 1,
+            "explanation": "Chỉ đường: Go straight (đi thẳng)."
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "Would you like ______ tea?",
+            "options": ["some", "any", "much", "many"],
+            "correct": 0,
+            "explanation": "Câu hỏi mời/đề nghị → dùng 'some'."
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "There aren't ______ apples left.",
+            "options": ["some", "any", "much", "a little"],
+            "correct": 1,
+            "explanation": "Câu phủ định → dùng 'any'."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Comparative adjectives are used to compare two things.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. So sánh hơn dùng để so sánh hai người/vật."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "Superlative adjectives are used to compare three or more things.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. So sánh nhất dùng để so sánh ba người/vật trở lên."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "'Must' is stronger than 'should'.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Must (bắt buộc) mạnh hơn should (lời khuyên)."
+          },
+          {
+            "id": "msq4",
+            "type": "msq",
+            "question_text": "We use 'some' in negative sentences.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Dùng 'any' trong câu phủ định, 'some' trong câu khẳng định."
+          },
+          {
+            "id": "msq5",
+            "type": "msq",
+            "question_text": "Uncountable nouns have plural forms.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Danh từ không đếm được chỉ có dạng số ít."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What is the comparative form of 'good'? (one word)",
+            "correct": "better",
+            "explanation": "Good → better (bất quy tắc)."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "What is the superlative form of 'beautiful'? (three words)",
+            "correct": "the most beautiful",
+            "explanation": "Beautiful (tính từ dài) → the most beautiful."
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question_text": "Complete: You ______ visit your grandparents. (should/shouldn't)",
+            "correct": "should",
+            "explanation": "Thăm ông bà là điều nên làm → should."
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question_text": "Is 'water' countable or uncountable? (one word)",
+            "correct": "uncountable",
+            "explanation": "Water là danh từ không đếm được."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question_text": "Write a short paragraph (50-70 words) about your neighbourhood. Use comparative adjectives.",
+            "sample_answer": "I live in a quiet neighbourhood. My neighbourhood is smaller than the city centre, but it is more peaceful. There is a park near my house. The park is bigger than the playground at school. There is also a supermarket. It is more modern than the old market. My neighbourhood is cleaner and quieter than the city centre. I think my neighbourhood is better than other places because it is convenient and safe. I love living here.",
+            "explanation": "Bài viết sử dụng: Comparative adjectives (smaller than, more peaceful, bigger than, more modern than, cleaner and quieter than, better than), Present Simple tense, There is/are."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question_text": "Write a short paragraph (50-70 words) about a natural wonder in Vietnam. Use superlative adjectives and must/mustn't.",
+            "sample_answer": "Ha Long Bay is one of the most beautiful places in Vietnam. It is in Quang Ninh Province. Ha Long Bay has the most amazing islands and caves. It is the most popular tourist destination in the country. When you visit Ha Long Bay, you must bring a camera because the view is spectacular. You must also bring water and sun cream. You mustn't throw rubbish in the water. You mustn't damage the caves. We must protect this wonderful place.",
+            "explanation": "Bài viết sử dụng: Superlative adjectives (the most beautiful, the most amazing, the most popular), Must/Mustn't (must bring, must protect, mustn't throw, mustn't damage)."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question_text": "Write a short paragraph (50-70 words) about Tet holiday. Use should/shouldn't and some/any.",
+            "sample_answer": "Tet is the most important festival in Vietnam. Before Tet, we should clean our house and buy some new clothes. We should also buy some flowers and food. At Tet, we visit our relatives and give them lucky money. Children receive some lucky money from adults. We should wish each other good luck and happiness. We shouldn't break things because it brings bad luck. We shouldn't fight or say bad words. Tet is a special time for family gathering.",
+            "explanation": "Bài viết sử dụng: Should/Shouldn't (should clean, should buy, should wish, shouldn't break, shouldn't fight), Some/Any (some new clothes, some flowers, some lucky money), Superlative (the most important)."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question_text": "Write a short paragraph (50-70 words) comparing your neighbourhood with the city centre. Use both comparative and superlative adjectives.",
+            "sample_answer": "My neighbourhood is smaller than the city centre, but I think it is better. The city centre is noisier and more crowded than my neighbourhood. My neighbourhood is quieter and more peaceful. It has the most beautiful park in the area. The park is bigger than any other park nearby. The air is cleaner than in the city centre. My neighbourhood also has the best restaurants. Although the city centre is more modern, my neighbourhood is the most comfortable place to live. I prefer living here.",
+            "explanation": "Bài viết kết hợp: Comparative adjectives (smaller than, noisier and more crowded than, quieter and more peaceful, bigger than, cleaner than, more modern), Superlative adjectives (the most beautiful, the best, the most comfortable)."
+          }
+        ]
+      }
+    }
+  ]
+}

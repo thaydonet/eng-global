@@ -1,0 +1,309 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-unit-7-natural-wonders-of-the-world",
+      "name": "Unit 7: Natural Wonders of the World",
+      "slug": "unit-7-natural-wonders-of-the-world",
+      "chapter": "Unit 7: Natural Wonders of the World",
+      "chapter_id": "A9",
+      "lesson_id": 7,
+      "description": "Learn about natural wonders with reported Yes/No questions.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-7",
+          "name": "Natural Wonders Vocabulary",
+          "slug": "natural-wonders-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 7: Natural Wonders of the World",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Natural wonders:</strong> mountain, volcano, waterfall, canyon, cave, desert, forest, rainforest, glacier, iceberg, coral reef, hot spring</p><p><strong>Geographical features:</strong> peak, summit, cliff, valley, river, lake, ocean, sea, island, peninsula, bay, coast</p><p><strong>Adjectives:</strong> magnificent, spectacular, breathtaking, stunning, impressive, majestic, beautiful, amazing, incredible, enormous, vast, deep</p><p><strong>Actions:</strong> explore, discover, climb, hike, trek, visit, admire, protect, preserve, conserve</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng",
+              "content": "<p>Practice using vocabulary in context about natural wonders, geographical features, and environmental protection.</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>Reported Yes/No Questions (Tường thuật câu hỏi Yes/No)</h3><p><strong>A. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + asked (+ O) + if/whether + S + V (lùi thì)</li><li>Ex: \"Do you like mountains?\" → He asked me <strong>if/whether I liked</strong> mountains.</li></ul><p><strong>B. Quy tắc lùi thì:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Present Simple → Past Simple</strong></li><li>Ex: \"Do you like it?\" → He asked if I <strong>liked</strong> it.</li><li><strong>Present Continuous → Past Continuous</strong></li><li>Ex: \"Are you studying?\" → She asked if I <strong>was studying</strong>.</li><li><strong>Past Simple → Past Perfect</strong></li><li>Ex: \"Did you go?\" → He asked if I <strong>had gone</strong>.</li><li><strong>Will → Would</strong></li><li>Ex: \"Will you come?\" → She asked if I <strong>would</strong> come.</li><li><strong>Can → Could</strong></li><li>Ex: \"Can you help?\" → He asked if I <strong>could</strong> help.</li><li><strong>May → Might</strong></li><li>Ex: \"May I go?\" → She asked if she <strong>might</strong> go.</li></ul><p><strong>C. Thay đổi đại từ và trạng từ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I → he/she</li><li>you → I/he/she (tùy ngữ cảnh)</li><li>we → they</li><li>my → his/her</li><li>your → my/his/her</li><li>here → there</li><li>now → then</li><li>today → that day</li><li>tomorrow → the next day/the following day</li><li>yesterday → the day before/the previous day</li><li>this → that</li><li>these → those</li></ul><p><strong>D. Lưu ý quan trọng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Không đảo trợ động từ</strong> trong câu tường thuật</li><li>Direct: \"<strong>Do you</strong> like it?\"</li><li>Reported: He asked if <strong>I liked</strong> it. (không phải \"if did I like\")</li><li><strong>If và Whether:</strong> có thể dùng thay thế cho nhau</li><li>Ex: He asked <strong>if</strong> I liked it. = He asked <strong>whether</strong> I liked it.</li></ul><p><strong>E. Ví dụ chi tiết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>\"Do you like mountains?\" → He asked me <strong>if I liked</strong> mountains.</li><li>\"Are you visiting Ha Long Bay?\" → She asked me <strong>if I was visiting</strong> Ha Long Bay.</li><li>\"Did you climb the mountain?\" → He asked me <strong>if I had climbed</strong> the mountain.</li><li>\"Will you go there?\" → She asked me <strong>if I would go</strong> there.</li><li>\"Can you see the waterfall?\" → He asked me <strong>if I could see</strong> the waterfall.</li></ul>"
+            },
+            {
+              "heading": "4-11. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Lùi thì Present → Past",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + asked + if/whether + S + V (past)</li><li>Present Simple → Past Simple</li><li>Present Continuous → Past Continuous</li></ul>",
+            "examples": [
+              {
+                "question": "\"Do you like mountains?\" → He asked me ______.",
+                "solution": "He asked me <strong>if/whether I liked</strong> mountains.",
+                "explanation": "Do you like → if/whether I liked (lùi thì, không đảo)"
+              },
+              {
+                "question": "\"Are you visiting Ha Long Bay?\" → She asked me ______.",
+                "solution": "She asked me <strong>if/whether I was visiting</strong> Ha Long Bay.",
+                "explanation": "Are you visiting → if/whether I was visiting"
+              },
+              {
+                "question": "\"Does she live here?\" → He asked ______.",
+                "solution": "He asked <strong>if/whether she lived</strong> there.",
+                "explanation": "Does she live here → if/whether she lived there (here → there)"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Lùi thì với Will/Can/May",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Will → Would</li><li>Can → Could</li><li>May → Might</li></ul>",
+            "examples": [
+              {
+                "question": "\"Will you go there?\" → She asked me ______.",
+                "solution": "She asked me <strong>if/whether I would go</strong> there.",
+                "explanation": "Will you go → if/whether I would go"
+              },
+              {
+                "question": "\"Can you see the waterfall?\" → He asked me ______.",
+                "solution": "He asked me <strong>if/whether I could see</strong> the waterfall.",
+                "explanation": "Can you see → if/whether I could see"
+              },
+              {
+                "question": "\"May I take a photo?\" → She asked ______.",
+                "solution": "She asked <strong>if/whether she might take</strong> a photo.",
+                "explanation": "May I → if/whether she might (I → she)"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Lùi thì Past Simple → Past Perfect",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Did + V → if/whether + S + had + V3</li><li>Past Simple → Past Perfect</li></ul>",
+            "examples": [
+              {
+                "question": "\"Did you climb the mountain?\" → He asked me ______.",
+                "solution": "He asked me <strong>if/whether I had climbed</strong> the mountain.",
+                "explanation": "Did you climb → if/whether I had climbed"
+              },
+              {
+                "question": "\"Did she visit the cave?\" → He asked ______.",
+                "solution": "He asked <strong>if/whether she had visited</strong> the cave.",
+                "explanation": "Did she visit → if/whether she had visited"
+              },
+              {
+                "question": "\"Did they see the waterfall?\" → She asked ______.",
+                "solution": "She asked <strong>if/whether they had seen</strong> the waterfall.",
+                "explanation": "Did they see → if/whether they had seen"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Thay đổi đại từ và trạng từ",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>you → I/he/she</li><li>here → there</li><li>now → then</li><li>today → that day</li><li>tomorrow → the next day</li></ul>",
+            "examples": [
+              {
+                "question": "\"Are you here now?\" → He asked me ______.",
+                "solution": "He asked me <strong>if/whether I was there then</strong>.",
+                "explanation": "you → I; here → there; now → then"
+              },
+              {
+                "question": "\"Will you visit this place tomorrow?\" → She asked me ______.",
+                "solution": "She asked me <strong>if/whether I would visit that place the next day</strong>.",
+                "explanation": "you → I; this → that; tomorrow → the next day"
+              },
+              {
+                "question": "\"Did you go there yesterday?\" → He asked me ______.",
+                "solution": "He asked me <strong>if/whether I had gone there the day before</strong>.",
+                "explanation": "Did you go → if/whether I had gone; yesterday → the day before"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "\"Do you like mountains?\" → He asked me ______ I liked mountains.",
+            "options": ["that", "if", "what", "where"],
+            "correct": 1,
+            "explanation": "Yes/No question → if/whether"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "\"Are you visiting Ha Long Bay?\" → She asked me if I ______ Ha Long Bay.",
+            "options": ["am visiting", "was visiting", "visit", "visited"],
+            "correct": 1,
+            "explanation": "Are you visiting → I was visiting"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "\"Will you go there?\" → She asked me if I ______ there.",
+            "options": ["will go", "would go", "go", "went"],
+            "correct": 1,
+            "explanation": "Will you go → I would go"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "\"Can you see the waterfall?\" → He asked me if I ______ the waterfall.",
+            "options": ["can see", "could see", "see", "saw"],
+            "correct": 1,
+            "explanation": "Can you see → I could see"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "\"Did you climb the mountain?\" → He asked me if I ______ the mountain.",
+            "options": ["climb", "climbed", "had climbed", "have climbed"],
+            "correct": 2,
+            "explanation": "Did you climb → I had climbed"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "\"Are you here now?\" → He asked me if I was ______ ______.",
+            "options": ["here now", "there then", "here then", "there now"],
+            "correct": 1,
+            "explanation": "here → there; now → then"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "\"Does she live here?\" → He asked if she ______ there.",
+            "options": ["live", "lives", "lived", "living"],
+            "correct": 2,
+            "explanation": "Does she live → she lived"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "\"May I take a photo?\" → She asked if she ______ take a photo.",
+            "options": ["may", "might", "can", "could"],
+            "correct": 1,
+            "explanation": "May I → she might"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "\"Did they see the waterfall?\" → She asked if they ______ the waterfall.",
+            "options": ["see", "saw", "had seen", "have seen"],
+            "correct": 2,
+            "explanation": "Did they see → they had seen"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "\"Will you visit this place tomorrow?\" → She asked me if I would visit ______ place ______.",
+            "options": ["this, tomorrow", "that, the next day", "this, the next day", "that, tomorrow"],
+            "correct": 1,
+            "explanation": "this → that; tomorrow → the next day"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which are correct reported Yes/No questions? (Select all that apply)",
+            "options": ["He asked if I liked mountains.", "She asked whether I was visiting.", "He asked if did I go.", "She asked if I could help."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: if I liked, whether I was visiting, if I could. Sai: if did I go (không đảo)"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which words can introduce Yes/No reported questions? (Select all that apply)",
+            "options": ["if", "whether", "that", "what"],
+            "correct": [0, 1],
+            "explanation": "Yes/No questions dùng if hoặc whether. 'that' cho statements, 'what' cho Wh-questions"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which transformations are correct? (Select all that apply)",
+            "options": ["\"Can you help?\" → if I could help", "\"Will you go?\" → if I would go", "\"Do you like it?\" → if I like it", "\"Did you see?\" → if I had seen"],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: could help, would go, had seen. Sai: if I like it (phải là 'liked')"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Transform: \"Do you like mountains?\" → He asked me ______.",
+            "correct": "if/whether I liked mountains / if I liked mountains / whether I liked mountains",
+            "explanation": "Do you like → if/whether I liked"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Transform: \"Will you go there?\" → She asked me ______.",
+            "correct": "if/whether I would go there / if I would go there / whether I would go there",
+            "explanation": "Will you go → if/whether I would go"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Transform: \"Did you climb the mountain?\" → He asked me ______.",
+            "correct": "if/whether I had climbed the mountain / if I had climbed the mountain / whether I had climbed the mountain",
+            "explanation": "Did you climb → if/whether I had climbed"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Transform: \"Are you here now?\" → He asked me ______.",
+            "correct": "if/whether I was there then / if I was there then / whether I was there then",
+            "explanation": "Are you here now → if/whether I was there then"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: asked / He / me / if / liked / I / mountains / . / asked / She / whether / was / I / visiting / Ha Long Bay / .",
+            "sample_answer": "He asked me if I liked mountains. She asked whether I was visiting Ha Long Bay.",
+            "explanation": "Sắp xếp: asked + if/whether + S + V (lùi thì)"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: \"Do you like natural wonders?\" + \"Will you visit them?\" → He asked me... (Use reported questions)",
+            "sample_answer": "He asked me if/whether I liked natural wonders. He asked me if/whether I would visit them.",
+            "explanation": "Biến đổi: Do you like → if/whether I liked; Will you visit → if/whether I would visit"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Transform: \"Can you see the waterfall?\" + \"Did you climb the mountain?\" → She asked me... (Use reported questions)",
+            "sample_answer": "She asked me if/whether I could see the waterfall. She asked me if/whether I had climbed the mountain.",
+            "explanation": "Biến đổi: Can you see → if/whether I could see; Did you climb → if/whether I had climbed"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange: asked / He / if / was / I / there / then / . / asked / She / whether / would / I / visit / that / place / the next day / .",
+            "sample_answer": "He asked if I was there then. She asked whether I would visit that place the next day.",
+            "explanation": "Sắp xếp: if/whether + S + V (lùi thì) + thay đổi trạng từ"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Transform and combine: \"Are you visiting Ha Long Bay now?\" + \"Will you climb the mountain tomorrow?\" + \"Did you see the waterfall yesterday?\" → He asked me... (Use reported questions for all three)",
+            "sample_answer": "He asked me if/whether I was visiting Ha Long Bay then. He asked me if/whether I would climb the mountain the next day. He asked me if/whether I had seen the waterfall the day before.",
+            "explanation": "Biến đổi cả 3 câu: Are you visiting now → if/whether I was visiting then; Will you climb tomorrow → if/whether I would climb the next day; Did you see yesterday → if/whether I had seen the day before"
+          }
+        ]
+      }
+    }
+  ]
+}

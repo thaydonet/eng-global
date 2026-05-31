@@ -1,0 +1,354 @@
+{
+  "subject": "Tiếng Anh 10",
+  "subject_id": 40,
+  "lessons": [
+    {
+      "id": "anh10-unit-4-better-community",
+      "name": "Unit 4: For a Better Community",
+      "slug": "unit-4-better-community",
+      "chapter": "Unit 4: For a Better Community",
+      "chapter_id": "A10",
+      "lesson_id": 4,
+      "description": "Học về công việc tình nguyện, hoạt động cộng đồng và phân biệt thì quá khứ đơn và quá khứ tiếp diễn.",
+      "duration_minutes": 300,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1559027615-cd99c59630d6?q=80&w=2670&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh10-unit-4-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về công việc tình nguyện và hoạt động cộng đồng",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh10-unit-4-p1-getting-started.json"
+        },
+        {
+          "id": "anh10-unit-4-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về công việc tình nguyện và dịch vụ cộng đồng",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh10-unit-4-p2-vocabulary.json"
+        },
+        {
+          "id": "anh10-unit-4-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Thì quá khứ đơn và quá khứ tiếp diễn với when và while",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh10-unit-4-p3-grammar.json"
+        },
+        {
+          "id": "anh10-unit-4-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về công việc tình nguyện và tác động đến cộng đồng",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh10-unit-4-p4-reading.json"
+        },
+        {
+          "id": "anh10-unit-4-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về các hoạt động tình nguyện và dịch vụ cộng đồng",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh10-unit-4-p5-speaking.json"
+        },
+        {
+          "id": "anh10-unit-4-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về dự án tình nguyện",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh10-unit-4-p6-listening.json"
+        },
+        {
+          "id": "anh10-unit-4-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về trải nghiệm tình nguyện",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh10-unit-4-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-4",
+          "name": "Community Vocabulary",
+          "slug": "community-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 4: For a Better Community",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Volunteer</td><td class='px-4 py-2'>(n, v) /ˌvɒlənˈtɪə(r)/</td><td class='px-4 py-2'>Tình nguyện viên, tình nguyện</td><td class='px-4 py-2'>She volunteers at the hospital.</td></tr><tr><td class='px-4 py-2 font-bold'>Community</td><td class='px-4 py-2'>(n) /kəˈmjuːnəti/</td><td class='px-4 py-2'>Cộng đồng</td><td class='px-4 py-2'>We help our local community.</td></tr><tr><td class='px-4 py-2 font-bold'>Charity</td><td class='px-4 py-2'>(n) /ˈtʃærəti/</td><td class='px-4 py-2'>Từ thiện</td><td class='px-4 py-2'>They donate to charity.</td></tr><tr><td class='px-4 py-2 font-bold'>Donation</td><td class='px-4 py-2'>(n) /dəʊˈneɪʃn/</td><td class='px-4 py-2'>Sự quyên góp</td><td class='px-4 py-2'>We received many donations.</td></tr><tr><td class='px-4 py-2 font-bold'>Disadvantaged</td><td class='px-4 py-2'>(adj) /ˌdɪsədˈvɑːntɪdʒd/</td><td class='px-4 py-2'>Thiệt thòi, khó khăn</td><td class='px-4 py-2'>Help disadvantaged children.</td></tr><tr><td class='px-4 py-2 font-bold'>Meaningful</td><td class='px-4 py-2'>(adj) /ˈmiːnɪŋfl/</td><td class='px-4 py-2'>Có ý nghĩa</td><td class='px-4 py-2'>It was a meaningful experience.</td></tr><tr><td class='px-4 py-2 font-bold'>Support</td><td class='px-4 py-2'>(v, n) /səˈpɔːt/</td><td class='px-4 py-2'>Hỗ trợ</td><td class='px-4 py-2'>We support local charities.</td></tr><tr><td class='px-4 py-2 font-bold'>Orphanage</td><td class='px-4 py-2'>(n) /ˈɔːfənɪdʒ/</td><td class='px-4 py-2'>Trại trẻ mồ côi</td><td class='px-4 py-2'>Visit the orphanage.</td></tr><tr><td class='px-4 py-2 font-bold'>Remote area</td><td class='px-4 py-2'>(n) /rɪˈməʊt ˈeəriə/</td><td class='px-4 py-2'>Vùng sâu vùng xa</td><td class='px-4 py-2'>Work in remote areas.</td></tr><tr><td class='px-4 py-2 font-bold'>Non-profit</td><td class='px-4 py-2'>(adj) /ˌnɒn ˈprɒfɪt/</td><td class='px-4 py-2'>Phi lợi nhuận</td><td class='px-4 py-2'>A non-profit organization.</td></tr><tr><td class='px-4 py-2 font-bold'>Raise money</td><td class='px-4 py-2'>(v) /reɪz ˈmʌni/</td><td class='px-4 py-2'>Gây quỹ</td><td class='px-4 py-2'>Raise money for charity.</td></tr><tr><td class='px-4 py-2 font-bold'>Dedicate</td><td class='px-4 py-2'>(v) /ˈdedɪkeɪt/</td><td class='px-4 py-2'>Cống hiến</td><td class='px-4 py-2'>Dedicate time to helping others.</td></tr><tr><td class='px-4 py-2 font-bold'>Generous</td><td class='px-4 py-2'>(adj) /ˈdʒenərəs/</td><td class='px-4 py-2'>Hào phóng</td><td class='px-4 py-2'>She is very generous.</td></tr><tr><td class='px-4 py-2 font-bold'>Benefit</td><td class='px-4 py-2'>(n, v) /ˈbenɪfɪt/</td><td class='px-4 py-2'>Lợi ích, có lợi</td><td class='px-4 py-2'>Volunteering benefits everyone.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Volunteer activities (Hoạt động tình nguyện):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>teach children:</strong> dạy trẻ em</li><li><strong>clean up the environment:</strong> dọn dẹp môi trường</li><li><strong>donate blood:</strong> hiến máu</li><li><strong>visit the elderly:</strong> thăm người già</li><li><strong>help the homeless:</strong> giúp người vô gia cư</li><li><strong>tutor students:</strong> dạy kèm học sinh</li><li><strong>build houses:</strong> xây nhà</li></ul><p><strong>Collocations về cộng đồng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>do volunteer work:</strong> làm công việc tình nguyện</li><li><strong>make a difference:</strong> tạo ra sự khác biệt</li><li><strong>give back to the community:</strong> đóng góp cho cộng đồng</li><li><strong>people in need:</strong> người cần giúp đỡ</li><li><strong>raise awareness:</strong> nâng cao nhận thức</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm: Trọng âm từ có hai âm tiết có cách viết giống nhau",
+              "content": "<h3>Từ có cách viết giống nhau nhưng khác trọng âm và nghĩa:</h3><p><strong>1. 'Record (n) - re'cord (v)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>'Record</strong> /ˈrekɔːd/ (n): kỷ lục, hồ sơ</li><li><strong>Re'cord</strong> /rɪˈkɔːd/ (v): ghi âm, ghi lại</li></ul><p><strong>2. 'Present (n, adj) - pre'sent (v)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>'Present</strong> /ˈpreznt/ (n): quà tặng; (adj): hiện tại</li><li><strong>Pre'sent</strong> /prɪˈzent/ (v): trình bày, tặng</li></ul><p><strong>3. 'Increase (n) - in'crease (v)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>'Increase</strong> /ˈɪŋkriːs/ (n): sự tăng lên</li><li><strong>In'crease</strong> /ɪnˈkriːs/ (v): tăng lên</li></ul><p><strong>Quy tắc chung:</strong> Danh từ/tính từ nhấn âm 1, động từ nhấn âm 2</p>"
+            },
+            {
+              "heading": "4. Ngữ pháp: Thì quá khứ đơn & quá khứ tiếp diễn với when và while",
+              "content": "<h3>A. Past Simple (Quá khứ đơn)</h3><p><strong>Công thức:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khẳng định: S + V2/ed</li><li>Phủ định: S + did not (didn't) + V(inf)</li><li>Nghi vấn: Did + S + V(inf)?</li></ul><p><strong>Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hành động đã hoàn thành trong quá khứ</li><li>Chuỗi hành động xảy ra liên tiếp trong quá khứ</li></ul><p><strong>Dấu hiệu:</strong> yesterday, last week/month/year, ago, in 2020...</p><h3>B. Past Continuous (Quá khứ tiếp diễn)</h3><p><strong>Công thức:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khẳng định: S + was/were + V-ing</li><li>Phủ định: S + was/were + not + V-ing</li><li>Nghi vấn: Was/Were + S + V-ing?</li></ul><p><strong>Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hành động đang diễn ra tại một thời điểm cụ thể trong quá khứ</li><li>Hai hành động xảy ra song song trong quá khứ</li><li>Hành động đang diễn ra thì có hành động khác xen vào</li></ul><p><strong>Dấu hiệu:</strong> at 8 PM yesterday, at this time last week, while...</p><h3>C. When and While</h3><p><strong>1. WHEN (khi)</strong></p><ul class='list-disc pl-5 space-y-2'><li>When + Past Simple, Past Continuous<br>Ex: When he arrived, I was cooking.</li><li>Past Continuous + when + Past Simple<br>Ex: I was cooking when he arrived.</li><li>When + Past Simple, Past Simple (chuỗi hành động)<br>Ex: When I finished homework, I watched TV.</li></ul><p><strong>2. WHILE (trong khi)</strong></p><ul class='list-disc pl-5 space-y-2'><li>While + Past Continuous, Past Simple<br>Ex: While I was studying, the phone rang.</li><li>While + Past Continuous, Past Continuous (song song)<br>Ex: While I was cooking, she was cleaning.</li></ul><p><strong>Phân biệt:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>When:</strong> hành động ngắn, xen vào</li><li><strong>While:</strong> hành động dài, đang diễn ra</li></ul>"
+            },
+            {
+              "heading": "5. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Giới thiệu về công việc tình nguyện và hoạt động cộng đồng.</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về các hoạt động tình nguyện</li><li>Thảo luận về lợi ích của việc làm tình nguyện</li><li>Từ vựng về công việc cộng đồng</li><li>Chia sẻ kinh nghiệm tình nguyện</li></ul>"
+            },
+            {
+              "heading": "6. II. Language",
+              "content": "<p><strong>A. Pronunciation: Stress in two-syllable words with the same spelling</strong></p><p>Luyện phát âm trọng âm của từ có cách viết giống nhau nhưng khác nghĩa</p><p><strong>B. Vocabulary:</strong> Volunteer work and community service</p><ul class='list-disc pl-5 space-y-2'><li>Words related to volunteering</li><li>Community activities</li><li>Charity and donations</li><li>Helping people in need</li></ul><p><strong>C. Grammar:</strong> Past Simple vs Past Continuous with when and while</p>"
+            },
+            {
+              "heading": "7. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Volunteer work - Making a difference in the community</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu văn bản về công việc tình nguyện</li><li>Tìm thông tin chi tiết về các hoạt động cộng đồng</li><li>Hiểu lợi ích của việc làm tình nguyện</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li></ul><p><strong>Nội dung:</strong> Bài đọc giới thiệu về các tổ chức tình nguyện, các hoạt động giúp đỡ cộng đồng và tác động tích cực của công việc tình nguyện đến cả người giúp và người được giúp.</p>"
+            },
+            {
+              "heading": "8. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Talking about volunteer activities and community service</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả các hoạt động tình nguyện đã tham gia</li><li>Nói về lợi ích của việc làm tình nguyện</li><li>Đề xuất các hoạt động cộng đồng</li><li>Thuyết phục người khác tham gia tình nguyện</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I volunteered to...</li><li>Last summer, I helped...</li><li>Volunteering taught me...</li><li>I think we should...</li><li>It's important to give back to the community.</li></ul>"
+            },
+            {
+              "heading": "9. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> An interview about a volunteer project</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu thông tin về dự án tình nguyện</li><li>Điền thông tin còn thiếu về hoạt động</li><li>Trả lời câu hỏi chi tiết về kinh nghiệm tình nguyện</li><li>Ghi chú các ý quan trọng</li></ul>"
+            },
+            {
+              "heading": "10. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing about a volunteer experience</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đoạn văn về trải nghiệm tình nguyện</li><li>Sử dụng Past Simple và Past Continuous</li><li>Sử dụng when và while để kết nối sự kiện</li><li>Mô tả cảm xúc và bài học rút ra</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Introduction: Giới thiệu hoạt động tình nguyện</li><li>Body: Mô tả những gì đã làm, sử dụng when/while</li><li>Conclusion: Cảm nhận và bài học</li></ul>"
+            },
+            {
+              "heading": "11. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Discussing the importance of community service</p><p><strong>Culture:</strong> Volunteering around the world</p><ul class='list-disc pl-5 space-y-2'><li>So sánh hoạt động tình nguyện ở Việt Nam và các nước khác</li><li>Tìm hiểu về các tổ chức tình nguyện quốc tế</li><li>Thảo luận về văn hóa giúp đỡ cộng đồng</li><li>Các chương trình tình nguyện nổi tiếng</li></ul><p><strong>CLIL (Citizenship):</strong> Being a responsible citizen</p>"
+            },
+            {
+              "heading": "12. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vocabulary: Volunteer work, community service, charity</li><li>Pronunciation: Stress in two-syllable words with same spelling</li><li>Grammar: Past Simple vs Past Continuous, when and while</li><li>Skills: Reading, Speaking, Listening, Writing</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng sử dụng từ vựng và ngữ pháp đã học</p>"
+            },
+            {
+              "heading": "13. Project",
+              "content": "<p><strong>Đề tài:</strong> Community Service Project</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Lên kế hoạch cho một dự án tình nguyện</li><li>Xác định vấn đề cộng đồng cần giải quyết</li><li>Đề xuất các hoạt động cụ thể</li><li>Tạo poster hoặc presentation về dự án</li><li>Trình bày kế hoạch và kêu gọi mọi người tham gia</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Verb Tenses",
+            "method": "<p>Choose the correct tense of the verbs in brackets.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Volunteering is a great way to give back to your community and help those in need. Many young people choose to volunteer during their summer holidays. They work with children in orphanages, teach English to disadvantaged students, or help clean up the environment.\n\nLast summer, Mai and her friends volunteered at a community center in a remote area. While they were teaching the children, they realized how much the kids needed support and care. The children were very happy and excited to learn new things. Mai said, \"When I saw their smiling faces, I felt that my work was truly meaningful.\"\n\nVolunteering not only helps others but also benefits the volunteers themselves. It teaches young people important values such as responsibility, compassion, and teamwork. Many volunteers say that their experiences have changed their lives and helped them become better people.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Volunteering is only for young people",
+                  "Volunteering benefits both helpers and those being helped",
+                  "Volunteering is difficult work",
+                  "Only teachers can volunteer"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về lợi ích của tình nguyện cho cả người giúp và người được giúp."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, what did Mai do last summer?",
+                "options": [
+                  "She worked at an orphanage",
+                  "She taught at a community center",
+                  "She cleaned up the environment",
+                  "She stayed at home"
+                ],
+                "correct": 1,
+                "explanation": "Mai và bạn bè tình nguyện dạy học tại trung tâm cộng đồng ở vùng sâu vùng xa."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'meaningful' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "important and valuable",
+                  "difficult and tiring",
+                  "boring and useless",
+                  "easy and simple"
+                ],
+                "correct": 0,
+                "explanation": "Meaningful = important and valuable (quan trọng và có giá trị)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What did Mai feel when she saw the children's smiling faces?",
+                "options": [
+                  "She felt tired",
+                  "She felt her work was meaningful",
+                  "She felt bored",
+                  "She felt disappointed"
+                ],
+                "correct": 1,
+                "explanation": "Mai cảm thấy công việc của mình thật có ý nghĩa khi thấy nụ cười của các em."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, volunteering teaches young people ______.",
+                "options": [
+                  "how to make money",
+                  "responsibility and compassion",
+                  "how to be famous",
+                  "how to travel"
+                ],
+                "correct": 1,
+                "explanation": "Tình nguyện dạy cho người trẻ các giá trị như trách nhiệm, lòng compassion và làm việc nhóm."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "Many young people like to ______ for charity organizations during summer.",
+            "options": ["volunteer", "work", "job", "career"],
+            "correct": 0,
+            "explanation": "Volunteer for: làm tình nguyện cho."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The organization provides help for ______ children in rural areas.",
+            "options": ["advantaged", "rich", "disadvantaged", "lucky"],
+            "correct": 2,
+            "explanation": "Disadvantaged children: trẻ em có hoàn cảnh khó khăn."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "Giving a small ______ can make a big difference to someone in need.",
+            "options": ["donation", "donating", "donor", "donate"],
+            "correct": 0,
+            "explanation": "Cần danh từ 'donation' (sự quyên góp) sau tính từ 'small'."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "They organized a concert to ______ money for charity.",
+            "options": ["rise", "raise", "arise", "rose"],
+            "correct": 1,
+            "explanation": "Raise money: gây quỹ."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "I ______ my homework when the lights went out.",
+            "options": ["did", "was doing", "am doing", "do"],
+            "correct": 1,
+            "explanation": "Hành động đang diễn ra (was doing) thì hành động khác xen vào (went out)."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "While we ______ in the park, it started to rain.",
+            "options": ["walk", "are walking", "were walking", "walked"],
+            "correct": 2,
+            "explanation": "Sau 'while' dùng quá khứ tiếp diễn để chỉ hành động đang diễn ra."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "When I ______ home, my mother was cooking dinner.",
+            "options": ["arrive", "arrived", "was arriving", "am arriving"],
+            "correct": 1,
+            "explanation": "When + Past Simple (hành động ngắn), Past Continuous (hành động dài)."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "They were singing ______ we were dancing.",
+            "options": ["when", "while", "during", "since"],
+            "correct": 1,
+            "explanation": "Hai hành động xảy ra song song trong quá khứ dùng 'while'."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "He ______ his leg while he was playing football.",
+            "options": ["breaks", "broke", "was breaking", "is breaking"],
+            "correct": 1,
+            "explanation": "Hành động ngắn (broke) xảy ra trong khi hành động dài đang diễn ra (was playing)."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Volunteering helps you make a ______ in your community.",
+            "options": ["different", "differ", "difference", "differently"],
+            "correct": 2,
+            "explanation": "Make a difference: tạo ra sự khác biệt (cần danh từ)."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Past Simple is used for actions that were happening at a specific time in the past.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Past Continuous dùng cho hành động đang diễn ra tại thời điểm cụ thể trong quá khứ. Past Simple dùng cho hành động đã hoàn thành."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "We use 'while' with Past Continuous to show two actions happening at the same time.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. While + Past Continuous để chỉ hai hành động xảy ra song song."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Volunteering only benefits the people who receive help.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Tình nguyện có lợi cho cả người giúp và người được giúp."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do you call people who do work without payment to help others? (one word)",
+            "correct": "volunteers",
+            "explanation": "Volunteers: tình nguyện viên - người làm việc không công để giúp đỡ người khác."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: When I arrived, they ______ dinner. (were having)",
+            "correct": "were having",
+            "explanation": "When + Past Simple, Past Continuous. Hành động đang diễn ra khi có hành động khác xen vào."
+          }
+        ]
+      }
+    }
+  ]
+}

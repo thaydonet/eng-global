@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-unit-2-life-in-the-countryside",
+      "name": "Unit 2: Life in the Countryside",
+      "slug": "unit-2-life-in-the-countryside",
+      "chapter": "Unit 2: Life in the Countryside",
+      "chapter_id": "A8",
+      "lesson_id": 2,
+      "description": "Learn about countryside life with comparative adverbs.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?q=80&w=2532&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-2",
+          "name": "Countryside Vocabulary",
+          "slug": "countryside-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 2: Life in the Countryside",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Countryside</td><td class='px-4 py-2'>(n) /ˈkʌntrisaɪd/</td><td class='px-4 py-2'>Vùng nông thôn</td><td class='px-4 py-2'>I live in the countryside.</td></tr><tr><td class='px-4 py-2 font-bold'>Peaceful</td><td class='px-4 py-2'>(adj) /ˈpiːsfl/</td><td class='px-4 py-2'>Yên bình</td><td class='px-4 py-2'>Life is peaceful here.</td></tr><tr><td class='px-4 py-2 font-bold'>Harvest</td><td class='px-4 py-2'>(n,v) /ˈhɑːvɪst/</td><td class='px-4 py-2'>Vụ mùa, thu hoạch</td><td class='px-4 py-2'>The harvest is good.</td></tr><tr><td class='px-4 py-2 font-bold'>Paddy field</td><td class='px-4 py-2'>(n) /ˈpædi fiːld/</td><td class='px-4 py-2'>Cánh đồng lúa</td><td class='px-4 py-2'>Paddy fields are green.</td></tr><tr><td class='px-4 py-2 font-bold'>Herd</td><td class='px-4 py-2'>(v) /hɜːd/</td><td class='px-4 py-2'>Chăn (gia súc)</td><td class='px-4 py-2'>He herds buffalo.</td></tr><tr><td class='px-4 py-2 font-bold'>Buffalo</td><td class='px-4 py-2'>(n) /ˈbʌfələʊ/</td><td class='px-4 py-2'>Con trâu</td><td class='px-4 py-2'>Buffalo work in fields.</td></tr><tr><td class='px-4 py-2 font-bold'>Cattle</td><td class='px-4 py-2'>(n) /ˈkætl/</td><td class='px-4 py-2'>Gia súc</td><td class='px-4 py-2'>Farmers raise cattle.</td></tr><tr><td class='px-4 py-2 font-bold'>Orchard</td><td class='px-4 py-2'>(n) /ˈɔːtʃəd/</td><td class='px-4 py-2'>Vườn cây ăn quả</td><td class='px-4 py-2'>We have an orchard.</td></tr><tr><td class='px-4 py-2 font-bold'>Hospitable</td><td class='px-4 py-2'>(adj) /hɒˈspɪtəbl/</td><td class='px-4 py-2'>Hiếu khách</td><td class='px-4 py-2'>People are hospitable.</td></tr><tr><td class='px-4 py-2 font-bold'>Vast</td><td class='px-4 py-2'>(adj) /vɑːst/</td><td class='px-4 py-2'>Rộng lớn</td><td class='px-4 py-2'>Vast fields stretch out.</td></tr><tr><td class='px-4 py-2 font-bold'>Picturesque</td><td class='px-4 py-2'>(adj) /ˌpɪktʃəˈresk/</td><td class='px-4 py-2'>Đẹp như tranh</td><td class='px-4 py-2'>The village is picturesque.</td></tr><tr><td class='px-4 py-2 font-bold'>Load</td><td class='px-4 py-2'>(v) /ləʊd/</td><td class='px-4 py-2'>Chất, chở</td><td class='px-4 py-2'>They load rice onto trucks.</td></tr><tr><td class='px-4 py-2 font-bold'>Unload</td><td class='px-4 py-2'>(v) /ʌnˈləʊd/</td><td class='px-4 py-2'>Dỡ hàng</td><td class='px-4 py-2'>We unload the cart.</td></tr><tr><td class='px-4 py-2 font-bold'>Nomadic</td><td class='px-4 py-2'>(adj) /nəʊˈmædɪk/</td><td class='px-4 py-2'>Du mục</td><td class='px-4 py-2'>Nomadic people move often.</td></tr><tr><td class='px-4 py-2 font-bold'>Convenient</td><td class='px-4 py-2'>(adj) /kənˈviːniənt/</td><td class='px-4 py-2'>Tiện lợi</td><td class='px-4 py-2'>City life is more convenient.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Countryside activities (Hoạt động nông thôn):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>harvest rice:</strong> thu hoạch lúa</li><li><strong>herd buffalo/cattle:</strong> chăn trâu/gia súc</li><li><strong>load/unload rice:</strong> chất/dỡ lúa</li><li><strong>fly kites:</strong> thả diều</li><li><strong>ride a buffalo:</strong> cưỡi trâu</li><li><strong>pick fruit:</strong> hái trái cây</li><li><strong>collect eggs:</strong> nhặt trứng</li></ul><p><strong>Countryside features:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>paddy field:</strong> cánh đồng lúa</li><li><strong>orchard:</strong> vườn cây ăn quả</li><li><strong>village:</strong> làng</li><li><strong>bamboo forest:</strong> rừng tre</li><li><strong>river:</strong> sông</li></ul><p><strong>Adjectives describing countryside:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>peaceful:</strong> yên bình</li><li><strong>quiet:</strong> yên tĩnh</li><li><strong>picturesque:</strong> đẹp như tranh</li><li><strong>vast:</strong> rộng lớn</li><li><strong>hospitable:</strong> hiếu khách</li><li><strong>fresh:</strong> trong lành</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Clusters /bl/ and /kl/</h3><p><strong>1. Cluster /bl/:</strong></p><ul class='list-disc pl-5 space-y-2'><li>black /blæk/</li><li>blue /bluː/</li><li>block /blɒk/</li><li>blow /bləʊ/</li></ul><p><strong>2. Cluster /kl/:</strong></p><ul class='list-disc pl-5 space-y-2'><li>class /klɑːs/</li><li>clean /kliːn/</li><li>close /kləʊz/</li><li>cloud /klaʊd/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>Comparative Forms of Adverbs (So sánh hơn của trạng từ)</h3><p><strong>A. Short adverbs (Trạng từ ngắn - 1 âm tiết):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> adverb + -er + than</li><li>Ex: fast → <strong>faster</strong></li><li>He runs <strong>faster than</strong> me.</li><li>Ex: hard → <strong>harder</strong></li><li>She works <strong>harder than</strong> before.</li></ul><p><strong>B. Long adverbs (Trạng từ dài - 2+ âm tiết):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> more + adverb + than</li><li>Ex: carefully → <strong>more carefully</strong></li><li>Drive <strong>more carefully than</strong> that.</li><li>Ex: slowly → <strong>more slowly</strong></li><li>He walks <strong>more slowly than</strong> her.</li></ul><p><strong>C. Irregular adverbs (Trạng từ bất quy tắc):</strong></p><div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2'>Adverb</th><th class='px-4 py-2'>Comparative</th></tr></thead><tbody><tr><td class='px-4 py-2'>well (tốt)</td><td class='px-4 py-2'>better</td></tr><tr><td class='px-4 py-2'>badly (tệ)</td><td class='px-4 py-2'>worse</td></tr><tr><td class='px-4 py-2'>much (nhiều)</td><td class='px-4 py-2'>more</td></tr><tr><td class='px-4 py-2'>little (ít)</td><td class='px-4 py-2'>less</td></tr><tr><td class='px-4 py-2'>far (xa)</td><td class='px-4 py-2'>farther/further</td></tr></tbody></table></div><p><strong>D. Adverbs ending in -ly:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hầu hết dùng 'more'</li><li>Ex: quickly → <strong>more quickly</strong></li><li>Ex: happily → <strong>more happily</strong></li><li><strong>Ngoại lệ:</strong> early → <strong>earlier</strong></li></ul><p><strong>E. Same form as adjectives:</strong></p><ul class='list-disc pl-5 space-y-2'><li>fast, hard, late, early, high, low</li><li>Ex: He works <strong>harder</strong>. (adverb)</li><li>Ex: This is a <strong>harder</strong> test. (adjective)</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Life in the countryside - Cuộc sống nông thôn</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về cuộc sống nông thôn</li><li>So sánh thành phố và nông thôn</li><li>Nói về hoạt động nông thôn</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Countryside life</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về nông thôn</li><li>Học hoạt động nông nghiệp</li></ul><p><strong>B. Pronunciation: Clusters /bl/ and /kl/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Luyện phát âm cụm phụ âm</li><li>Phân biệt /bl/ và /kl/</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Comparative adverbs</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học so sánh hơn của trạng từ</li><li>Phân biệt trạng từ ngắn và dài</li><li>Luyện tập so sánh</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Comparing city and countryside</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Life in the countryside is...</li><li>People work harder/more slowly...</li><li>It's more peaceful than...</li><li>I prefer... because...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Countryside life</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về cuộc sống nông thôn</li><li>Tìm thông tin chi tiết</li></ul><p><strong>Speaking: Discussing preferences</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về ưu/nhược điểm</li><li>So sánh cuộc sống</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: About countryside</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về nông thôn</li><li>Ghi chú thông tin</li></ul><p><strong>Writing: Compare city and countryside</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết so sánh</li><li>Sử dụng comparative adverbs</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Countryside life</li><li><strong>Pronunciation:</strong> /bl/ and /kl/</li><li><strong>Grammar:</strong> Comparative adverbs</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> My ideal place to live</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn nơi muốn sống (city/countryside)</li><li>Tìm hình ảnh minh họa</li><li>Viết mô tả và so sánh (100-120 từ)</li><li>Trình bày lý do</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Short adverbs + -er",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Trạng từ 1 âm tiết + -er + than</li><li>fast → faster, hard → harder</li></ul>",
+            "examples": [
+              {
+                "question": "He runs ______ (fast) than me.",
+                "solution": "He runs <strong>faster</strong> than me.",
+                "explanation": "fast (1 âm tiết) → faster"
+              },
+              {
+                "question": "She works ______ (hard) than before.",
+                "solution": "She works <strong>harder</strong> than before.",
+                "explanation": "hard (1 âm tiết) → harder"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Long adverbs + more",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>more + trạng từ dài (2+ âm tiết) + than</li><li>carefully → more carefully</li></ul>",
+            "examples": [
+              {
+                "question": "Drive ______ (carefully) than that.",
+                "solution": "Drive <strong>more carefully</strong> than that.",
+                "explanation": "carefully (3 âm tiết) → more carefully"
+              },
+              {
+                "question": "He walks ______ (slowly) than her.",
+                "solution": "He walks <strong>more slowly</strong> than her.",
+                "explanation": "slowly (2 âm tiết) → more slowly"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Irregular adverbs",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>well → better, badly → worse</li><li>much → more, little → less</li><li>far → farther/further</li></ul>",
+            "examples": [
+              {
+                "question": "She sings ______ (well) than me.",
+                "solution": "She sings <strong>better</strong> than me.",
+                "explanation": "well → better (bất quy tắc)"
+              },
+              {
+                "question": "He plays ______ (badly) than before.",
+                "solution": "He plays <strong>worse</strong> than before.",
+                "explanation": "badly → worse (bất quy tắc)"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Early - earlier",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>early là ngoại lệ: early → earlier</li><li>Không dùng 'more early'</li></ul>",
+            "examples": [
+              {
+                "question": "I get up ______ (early) than you.",
+                "solution": "I get up <strong>earlier</strong> than you.",
+                "explanation": "early → earlier (ngoại lệ)"
+              },
+              {
+                "question": "She arrives ______ (early) than him.",
+                "solution": "She arrives <strong>earlier</strong> than him.",
+                "explanation": "early → earlier"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "He runs ______ than me.",
+            "options": ["fast", "faster", "more fast", "more faster"],
+            "correct": 1,
+            "explanation": "fast (1 âm tiết) → faster"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "Drive ______ than that.",
+            "options": ["careful", "carefully", "more carefully", "more careful"],
+            "correct": 2,
+            "explanation": "carefully (3 âm tiết) → more carefully"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "She sings ______ than me.",
+            "options": ["well", "good", "better", "more well"],
+            "correct": 2,
+            "explanation": "well → better (bất quy tắc)"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I get up ______ than you.",
+            "options": ["early", "earlier", "more early", "more earlier"],
+            "correct": 1,
+            "explanation": "early → earlier (ngoại lệ)"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She works ______ than before.",
+            "options": ["hard", "harder", "more hard", "more harder"],
+            "correct": 1,
+            "explanation": "hard (1 âm tiết) → harder"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "He walks ______ than her.",
+            "options": ["slow", "slowly", "more slowly", "more slow"],
+            "correct": 2,
+            "explanation": "slowly (2 âm tiết) → more slowly"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "They play ______ than us.",
+            "options": ["bad", "badly", "worse", "more badly"],
+            "correct": 2,
+            "explanation": "badly → worse (bất quy tắc)"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "She speaks ______ than him.",
+            "options": ["quiet", "quietly", "more quietly", "more quiet"],
+            "correct": 2,
+            "explanation": "quietly (3 âm tiết) → more quietly"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I can run ______ than before.",
+            "options": ["far", "further", "more far", "more further"],
+            "correct": 1,
+            "explanation": "far → further/farther (bất quy tắc)"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "He arrives ______ than me.",
+            "options": ["late", "later", "more late", "more later"],
+            "correct": 1,
+            "explanation": "late (1 âm tiết) → later"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import DashboardApp from '@/components/Dashboard';
+import { getAllLessons } from '@/lib/lessons';
+
+const allLessons = getAllLessons();
+---
+
+<Layout title="Dashboard">
+  <div class="min-h-screen bg-gray-50">
+    <DashboardApp client:only="react" allLessons={allLessons} />
+  </div>
+</Layout>

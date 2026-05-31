@@ -1,0 +1,257 @@
+{
+  "id": "anh12-unit-1-p3",
+  "name": "Part 3: Language - Grammar",
+  "content": {
+    "theory": {
+      "title": "Grammar: Past Simple and Past Continuous",
+      "sections": [
+        {
+          "heading": "1. Tóm tắt lý thuyết",
+          "content": "<div class='bg-gradient-to-r from-purple-50 to-pink-50 dark:from-purple-900/20 dark:to-pink-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-purple-900 dark:text-purple-300'>📚 Thì Quá khứ đơn và Quá khứ tiếp diễn</h3><div class='grid md:grid-cols-2 gap-6'><div class='bg-white dark:bg-gray-800 p-5 rounded-lg shadow-md'><h4 class='font-bold text-xl text-blue-700 dark:text-blue-400 mb-3'>⭐ Past Simple (Quá khứ đơn)</h4><p class='mb-3'><strong>Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-1 mb-3'><li>Khẳng định: S + V2/V-ed</li><li>Phủ định: S + didn't + V(inf)</li><li>Nghi vấn: Did + S + V(inf)?</li></ul><p class='mb-2'><strong>Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-1'><li>Hành động hoàn thành trong quá khứ</li><li>Chuỗi hành động liên tiếp</li><li>Thói quen trong quá khứ</li></ul><p class='mt-3 text-sm text-gray-600 dark:text-gray-400'><strong>Dấu hiệu:</strong> yesterday, ago, last week/month/year, in 2020, when</p></div><div class='bg-white dark:bg-gray-800 p-5 rounded-lg shadow-md'><h4 class='font-bold text-xl text-green-700 dark:text-green-400 mb-3'>⭐ Past Continuous (Quá khứ tiếp diễn)</h4><p class='mb-3'><strong>Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-1 mb-3'><li>Khẳng định: S + was/were + V-ing</li><li>Phủ định: S + wasn't/weren't + V-ing</li><li>Nghi vấn: Was/Were + S + V-ing?</li></ul><p class='mb-2'><strong>Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-1'><li>Hành động đang diễn ra tại 1 thời điểm QK</li><li>Hành động bị gián đoạn</li><li>2 hành động song song</li></ul><p class='mt-3 text-sm text-gray-600 dark:text-gray-400'><strong>Dấu hiệu:</strong> at this time yesterday, at 8pm last night, while, when</p></div></div></div>"
+        },
+        {
+          "heading": "2. So sánh Past Simple và Past Continuous",
+          "content": "<div class='overflow-x-auto my-6'><table class='min-w-full border-collapse border-2 border-purple-300 dark:border-purple-700'><thead class='bg-gradient-to-r from-purple-100 to-pink-100 dark:from-purple-900/40 dark:to-pink-900/40'><tr><th class='border border-purple-300 dark:border-purple-700 px-4 py-3 text-left font-bold'>Tiêu chí</th><th class='border border-purple-300 dark:border-purple-700 px-4 py-3 text-left font-bold'>Past Simple</th><th class='border border-purple-300 dark:border-purple-700 px-4 py-3 text-left font-bold'>Past Continuous</th></tr></thead><tbody><tr class='hover:bg-purple-50 dark:hover:bg-purple-900/10'><td class='border border-purple-300 dark:border-purple-700 px-4 py-2 font-semibold'>Hình thức</td><td class='border border-purple-300 dark:border-purple-700 px-4 py-2'>V2/V-ed</td><td class='border border-purple-300 dark:border-purple-700 px-4 py-2'>was/were + V-ing</td></tr><tr class='hover:bg-purple-50 dark:hover:bg-purple-900/10'><td class='border border-purple-300 dark:border-purple-700 px-4 py-2 font-semibold'>Thời gian</td><td class='border border-purple-300 dark:border-purple-700 px-4 py-2'>Hành động hoàn thành</td><td class='border border-purple-300 dark:border-purple-700 px-4 py-2'>Hành động đang diễn ra</td></tr><tr class='hover:bg-purple-50 dark:hover:bg-purple-900/10'><td class='border border-purple-300 dark:border-purple-700 px-4 py-2 font-semibold'>Ví dụ</td><td class='border border-purple-300 dark:border-purple-700 px-4 py-2'>She <strong>studied</strong> hard.</td><td class='border border-purple-300 dark:border-purple-700 px-4 py-2'>She <strong>was studying</strong> at 8pm.</td></tr><tr class='hover:bg-purple-50 dark:hover:bg-purple-900/10'><td class='border border-purple-300 dark:border-purple-700 px-4 py-2 font-semibold'>Kết hợp</td><td class='border border-purple-300 dark:border-purple-700 px-4 py-2'>When + Past Simple</td><td class='border border-purple-300 dark:border-purple-700 px-4 py-2'>While + Past Continuous</td></tr></tbody></table></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg mt-4'><p class='font-bold text-orange-800 dark:text-orange-300 mb-3'>🔥 Công thức kết hợp quan trọng:</p><ul class='space-y-2'><li><strong>When + Past Simple, Past Continuous:</strong><br/>When he arrived, I was studying. (Khi anh ấy đến, tôi đang học.)</li><li><strong>Past Continuous + when + Past Simple:</strong><br/>I was studying when he arrived. (Tôi đang học thì anh ấy đến.)</li><li><strong>While + Past Continuous, Past Simple:</strong><br/>While I was studying, he arrived. (Trong khi tôi đang học, anh ấy đến.)</li><li><strong>While + Past Continuous, Past Continuous:</strong><br/>While I was studying, she was cooking. (Trong khi tôi đang học, cô ấy đang nấu ăn.)</li></ul></div>"
+        },
+        {
+          "heading": "3. Năm ví dụ minh họa",
+          "content": "<div class='space-y-4'><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg border-l-4 border-blue-500'><p class='font-bold text-blue-800 dark:text-blue-300 mb-2'>Example 1: Past Simple - Completed action</p><p class='text-lg mb-2'>\"Marie Curie <span class='text-blue-600 font-bold'>won</span> the Nobel Prize in Physics in 1903.\"</p><p class='text-sm text-gray-600 dark:text-gray-400'>→ Marie Curie đã giành giải Nobel Vật lý năm 1903. (Hành động hoàn thành trong quá khứ)</p></div><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg border-l-4 border-green-500'><p class='font-bold text-green-800 dark:text-green-300 mb-2'>Example 2: Past Continuous - Action in progress</p><p class='text-lg mb-2'>\"At 10pm last night, I <span class='text-green-600 font-bold'>was reading</span> a biography of Steve Jobs.\"</p><p class='text-sm text-gray-600 dark:text-gray-400'>→ Lúc 10 giờ tối qua, tôi đang đọc tiểu sử của Steve Jobs. (Hành động đang diễn ra tại 1 thời điểm cụ thể)</p></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg border-l-4 border-purple-500'><p class='font-bold text-purple-800 dark:text-purple-300 mb-2'>Example 3: Interrupted action (When)</p><p class='text-lg mb-2'>\"I <span class='text-purple-600 font-bold'>was watching</span> a documentary when my friend <span class='text-purple-600 font-bold'>called</span> me.\"</p><p class='text-sm text-gray-600 dark:text-gray-400'>→ Tôi đang xem phim tài liệu thì bạn tôi gọi điện. (Hành động đang diễn ra bị gián đoạn)</p></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg border-l-4 border-orange-500'><p class='font-bold text-orange-800 dark:text-orange-300 mb-2'>Example 4: Parallel actions (While)</p><p class='text-lg mb-2'>\"While she <span class='text-orange-600 font-bold'>was studying</span> medicine, he <span class='text-orange-600 font-bold'>was working</span> as a teacher.\"</p><p class='text-sm text-gray-600 dark:text-gray-400'>→ Trong khi cô ấy đang học y, anh ấy đang làm giáo viên. (Hai hành động song song)</p></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg border-l-4 border-pink-500'><p class='font-bold text-pink-800 dark:text-pink-300 mb-2'>Example 5: Sequential actions (Past Simple)</p><p class='text-lg mb-2'>\"He <span class='text-pink-600 font-bold'>graduated</span> from university, <span class='text-pink-600 font-bold'>found</span> a job, and <span class='text-pink-600 font-bold'>started</span> his career.\"</p><p class='text-sm text-gray-600 dark:text-gray-400'>→ Anh ấy tốt nghiệp đại học, tìm được việc, và bắt đầu sự nghiệp. (Chuỗi hành động liên tiếp)</p></div></div>"
+        },
+        {
+          "heading": "4. Các dạng bài tập thường gặp",
+          "content": "<div class='bg-yellow-50 dark:bg-yellow-900/20 p-6 rounded-xl'><h4 class='font-bold text-xl mb-4 text-yellow-900 dark:text-yellow-300'>📝 Dạng bài tập Grammar</h4><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='font-bold text-blue-700 dark:text-blue-400 mb-2'>Dạng 1: Chia động từ đúng thì</p><p class='mb-2'>Ví dụ: While I (study) _____, my brother (play) _____ games.</p><p class='text-green-600 dark:text-green-400'>→ Answer: was studying / was playing</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='font-bold text-blue-700 dark:text-blue-400 mb-2'>Dạng 2: Chọn đáp án đúng</p><p class='mb-2'>Ví dụ: She _____ dinner when the phone rang. (cooked / was cooking)</p><p class='text-green-600 dark:text-green-400'>→ Answer: was cooking</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='font-bold text-blue-700 dark:text-blue-400 mb-2'>Dạng 3: Kết hợp câu với When/While</p><p class='mb-2'>Ví dụ: I was reading. He arrived. → I was reading when he arrived.</p><p class='text-green-600 dark:text-green-400'>→ Hoặc: When he arrived, I was reading.</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='font-bold text-blue-700 dark:text-blue-400 mb-2'>Dạng 4: Tìm lỗi sai</p><p class='mb-2'>Ví dụ: When I was seeing him, he worked in the garden.</p><p class='text-green-600 dark:text-green-400'>→ Answer: was seeing → saw (hoặc worked → was working)</p></div></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p3-ex1",
+        "type": "mcq",
+        "question": "Choose the correct answer: 'She _____ a book when I called her.'",
+        "options": ["read", "was reading", "reads", "is reading"],
+        "correct": 1,
+        "explanation": "Dùng Past Continuous vì hành động đang diễn ra (was reading) khi có hành động khác xen vào (called)."
+      },
+      {
+        "id": "p3-ex2",
+        "type": "mcq",
+        "question": "Complete: 'While they _____ dinner, the lights went out.'",
+        "options": ["have", "had", "were having", "are having"],
+        "correct": 2,
+        "explanation": "Dùng Past Continuous (were having) với 'while' để diễn tả hành động đang diễn ra."
+      },
+      {
+        "id": "p3-ex3",
+        "type": "mcq",
+        "question": "Choose the correct form: 'Marie Curie _____ two Nobel Prizes in her lifetime.'",
+        "options": ["wins", "won", "was winning", "is winning"],
+        "correct": 1,
+        "explanation": "Dùng Past Simple (won) vì đây là hành động hoàn thành trong quá khứ."
+      },
+      {
+        "id": "p3-ex4",
+        "type": "mcq",
+        "question": "Select the right answer: 'What _____ at 8pm yesterday?'",
+        "options": ["did you do", "were you doing", "do you do", "are you doing"],
+        "correct": 1,
+        "explanation": "Dùng Past Continuous (were you doing) vì hỏi về hành động đang diễn ra tại thời điểm cụ thể trong quá khứ."
+      },
+      {
+        "id": "p3-ex5",
+        "type": "mcq",
+        "question": "Complete: 'He _____ his homework, then _____ TV.'",
+        "options": ["finished / watched", "was finishing / was watching", "finishes / watches", "is finishing / is watching"],
+        "correct": 0,
+        "explanation": "Dùng Past Simple cho cả hai động từ vì đây là chuỗi hành động liên tiếp trong quá khứ."
+      },
+      {
+        "id": "p3-ex6",
+        "type": "mcq",
+        "question": "Choose: 'When I _____ home, my family _____ dinner.'",
+        "options": ["arrived / had", "arrived / were having", "was arriving / had", "was arriving / were having"],
+        "correct": 1,
+        "explanation": "When + Past Simple (arrived), Past Continuous (were having) - hành động ngắn xen vào hành động dài."
+      },
+      {
+        "id": "p3-ex7",
+        "type": "mcq",
+        "question": "Select: 'While she _____ in Paris, she _____ French.'",
+        "options": ["lived / learned", "was living / learned", "lived / was learning", "was living / was learning"],
+        "correct": 1,
+        "explanation": "While + Past Continuous (was living), Past Simple (learned) hoặc cả hai đều Past Continuous nếu song song."
+      },
+      {
+        "id": "p3-ex8",
+        "type": "mcq",
+        "question": "Complete: 'They _____ football when it started to rain.'",
+        "options": ["played", "were playing", "play", "are playing"],
+        "correct": 1,
+        "explanation": "Past Continuous (were playing) vì hành động đang diễn ra khi có sự việc khác xảy ra."
+      },
+      {
+        "id": "p3-ex9",
+        "type": "mcq",
+        "question": "Choose: 'I _____ him at the party last night.'",
+        "options": ["see", "saw", "was seeing", "am seeing"],
+        "correct": 1,
+        "explanation": "Past Simple (saw) với thời gian xác định 'last night'."
+      },
+      {
+        "id": "p3-ex10",
+        "type": "mcq",
+        "question": "Select: 'At this time yesterday, we _____ for our exam.'",
+        "options": ["studied", "were studying", "study", "are studying"],
+        "correct": 1,
+        "explanation": "Past Continuous (were studying) với 'at this time yesterday' - thời điểm cụ thể trong quá khứ."
+      },
+      {
+        "id": "p3-ex11",
+        "type": "msq",
+        "question_text": "Decide if the sentences are grammatically correct (True) or incorrect (False):",
+        "options": [
+          "She was studying when her friend called.",
+          "While I watched TV, he was cooking.",
+          "They were playing tennis yesterday.",
+          "When I saw him, he worked in the garden."
+        ],
+        "correct": [0, 1],
+        "explanation": "a) Correct - Past Continuous + when + Past Simple. b) Correct - While có thể dùng với Past Simple hoặc Past Continuous. c) Incorrect - Cần thời điểm cụ thể cho Past Continuous, nên sửa thành 'played'. d) Incorrect - Nên là 'was working' (hành động đang diễn ra)."
+      },
+      {
+        "id": "p3-ex12",
+        "type": "msq",
+        "question_text": "Read the story and decide if the verb tenses are used correctly (True) or incorrectly (False):\n\n'Yesterday, I was walking in the park when I saw an old friend. We were stopping and talked for an hour.'",
+        "options": [
+          "was walking - correct",
+          "saw - correct",
+          "were stopping - correct",
+          "talked - correct"
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) Correct - Past Continuous cho hành động đang diễn ra. b) Correct - Past Simple cho hành động ngắn. c) Incorrect - Nên là 'stopped' (Past Simple) vì là hành động ngắn, hoàn thành. d) Correct - Past Simple cho hành động hoàn thành."
+      },
+      {
+        "id": "p3-ex13",
+        "type": "msq",
+        "question_text": "Identify if these time expressions are typically used with Past Simple (True) or Past Continuous (False):",
+        "options": [
+          "yesterday",
+          "at 8pm last night",
+          "while",
+          "when (with completed actions)"
+        ],
+        "correct": [0, 3],
+        "explanation": "a) True - 'yesterday' dùng với Past Simple. b) False - thời điểm cụ thể dùng với Past Continuous. c) False - 'while' thường đi với Past Continuous. d) True - 'when' với hành động hoàn thành dùng Past Simple."
+      },
+      {
+        "id": "p3-ex14",
+        "type": "reading",
+        "passage": "Marie Curie was born in Poland in 1867. When she was young, she dreamed of becoming a scientist, but women were not allowed to attend university in Poland at that time. In 1891, she moved to Paris to study at the Sorbonne. While she was studying there, she met Pierre Curie, a French physicist. They fell in love and got married in 1895. Together, they were working on radioactivity research when they discovered two new elements: polonium and radium. In 1903, Marie and Pierre won the Nobel Prize in Physics. Sadly, Pierre died in an accident in 1906. Despite this tragedy, Marie continued her research. She was working tirelessly in her laboratory when she won her second Nobel Prize in Chemistry in 1911, becoming the first person to win Nobel Prizes in two different sciences.",
+        "questions": [
+          {
+            "question": "What tense is used in 'she dreamed of becoming a scientist'?",
+            "options": ["Present Simple", "Past Simple", "Past Continuous", "Present Perfect"],
+            "correct": 1,
+            "explanation": "Past Simple được dùng cho hành động trong quá khứ."
+          },
+          {
+            "question": "Why is Past Continuous used in 'While she was studying there'?",
+            "options": ["To show a completed action", "To show an action in progress", "To show a habit", "To show a future action"],
+            "correct": 1,
+            "explanation": "Past Continuous diễn tả hành động đang diễn ra trong quá khứ."
+          },
+          {
+            "question": "In 'they were working on radioactivity research when they discovered', which action happened first?",
+            "options": ["were working", "discovered", "Both at the same time", "Cannot determine"],
+            "correct": 0,
+            "explanation": "Hành động 'were working' đang diễn ra trước khi 'discovered' xảy ra."
+          },
+          {
+            "question": "What tense is 'got married' and why?",
+            "options": ["Past Simple - completed action", "Past Continuous - ongoing action", "Present Perfect - recent action", "Past Perfect - earlier action"],
+            "correct": 0,
+            "explanation": "Past Simple cho hành động đã hoàn thành trong quá khứ."
+          },
+          {
+            "question": "Why is Past Continuous used in 'She was working tirelessly'?",
+            "options": ["To emphasize the ongoing nature of her work", "To show a one-time action", "To show a future plan", "To show a completed action"],
+            "correct": 0,
+            "explanation": "Past Continuous nhấn mạnh tính liên tục của công việc."
+          }
+        ]
+      },
+      {
+        "id": "p3-ex15",
+        "type": "reading",
+        "passage": "Last Saturday was an eventful day for the Johnson family. At 7am, Mr. Johnson was preparing breakfast while Mrs. Johnson was getting ready for work. Their son, Tom, was still sleeping when his alarm went off at 7:30. He quickly got up, took a shower, and had breakfast. At 9am, the family was driving to the shopping mall when they saw a car accident on the highway. They stopped to help and called the police. While they were waiting for the police to arrive, Tom was taking photos of the scene. After the police came, the family continued their journey. They reached the mall at 11am and spent the whole afternoon shopping. When they were leaving the mall at 5pm, it started to rain heavily. They ran to their car and drove home. That evening, while they were having dinner, they talked about their unusual day.",
+        "questions": [
+          {
+            "question": "What were Mr. and Mrs. Johnson doing at 7am?",
+            "options": ["They were sleeping", "They were preparing and getting ready", "They were shopping", "They were driving"],
+            "correct": 1,
+            "explanation": "Lúc 7 giờ sáng, ông Johnson đang chuẩn bị bữa sáng và bà Johnson đang chuẩn bị đi làm."
+          },
+          {
+            "question": "Which tense is used for 'got up, took a shower, and had breakfast'?",
+            "options": ["Past Continuous", "Past Simple", "Present Perfect", "Past Perfect"],
+            "correct": 1,
+            "explanation": "Dùng Past Simple cho chuỗi hành động liên tiếp đã hoàn thành."
+          },
+          {
+            "question": "What was happening when they saw the accident?",
+            "options": ["They were sleeping", "They were shopping", "They were driving", "They were eating"],
+            "correct": 2,
+            "explanation": "Họ đang lái xe (were driving) khi nhìn thấy tai nạn."
+          },
+          {
+            "question": "Why is Past Continuous used in 'while they were waiting'?",
+            "options": ["To show a completed action", "To show an action in progress during that time", "To show a habit", "To show a future action"],
+            "correct": 1,
+            "explanation": "Past Continuous diễn tả hành động đang diễn ra trong khoảng thời gian đó."
+          },
+          {
+            "question": "What tense is used in 'it started to rain'?",
+            "options": ["Past Continuous", "Past Simple", "Present Simple", "Past Perfect"],
+            "correct": 1,
+            "explanation": "Past Simple cho hành động bắt đầu xảy ra."
+          }
+        ]
+      },
+      {
+        "id": "p3-ex16",
+        "type": "sa",
+        "question_text": "Complete the sentences with the correct form of the verbs in brackets:\n\n1. While I _____ (walk) to school, I _____ (meet) my old friend.\n2. She _____ (study) English when her mother _____ (call) her.\n3. They _____ (watch) TV at 8pm last night.\n4. When he _____ (arrive), we _____ (have) dinner.",
+        "correct": "1. was walking / met\n2. was studying / called\n3. were watching\n4. arrived / were having",
+        "explanation": "1. Past Continuous + Past Simple (hành động đang diễn ra gặp hành động ngắn). 2. Past Continuous + when + Past Simple. 3. Past Continuous tại thời điểm cụ thể. 4. When + Past Simple, Past Continuous."
+      },
+      {
+        "id": "p3-ex17",
+        "type": "sa",
+        "question_text": "Fill in the blanks with the correct past tense:\n\n1. Marie Curie _____ (win) two Nobel Prizes in her lifetime.\n2. While she _____ (work) in the laboratory, she _____ (discover) radium.\n3. What _____ you _____ (do) at 9pm yesterday?\n4. He _____ (read) a book, then _____ (go) to bed.",
+        "correct": "1. won\n2. was working / discovered\n3. were / doing\n4. read / went",
+        "explanation": "1. Past Simple (hành động hoàn thành). 2. While + Past Continuous, Past Simple. 3. Past Continuous tại thời điểm cụ thể. 4. Past Simple cho chuỗi hành động."
+      },
+      {
+        "id": "p3-ex18",
+        "type": "sa",
+        "question_text": "Complete with when or while:\n\n1. _____ I was cooking, the phone rang.\n2. She was reading _____ her brother came home.\n3. _____ did you see him? - Yesterday.\n4. _____ they were traveling, they took many photos.",
+        "correct": "1. While\n2. when\n3. When\n4. While",
+        "explanation": "1. While + Past Continuous. 2. Past Continuous + when + Past Simple. 3. When hỏi về thời gian. 4. While + Past Continuous."
+      },
+      {
+        "id": "p3-ex19",
+        "type": "sa",
+        "question_text": "Correct the mistakes in these sentences:\n\n1. I was seeing him yesterday.\n2. While she cooked, I was watching TV.\n3. They were play football when it rained.\n4. When I arrived, she works in the garden.",
+        "correct": "1. saw\n2. was cooking\n3. playing\n4. was working",
+        "explanation": "1. 'see' không dùng continuous → saw. 2. While thường + Past Continuous → was cooking. 3. were + V-ing → were playing. 4. Hành động đang diễn ra → was working."
+      },
+      {
+        "id": "p3-ex20",
+        "type": "essay",
+        "question": "Write a paragraph (100-120 words) about an important event in your life or in history. Use both Past Simple and Past Continuous tenses. Include:\n- When and where it happened\n- What you/people were doing before the event\n- What happened (the main event)\n- What happened after\n\nUse at least 3 sentences with Past Continuous and 3 sentences with Past Simple.",
+        "answer_guide": "Sample answer:\n\nLast year, I experienced an unforgettable moment when I received my exam results. It was a sunny morning in July. I was having breakfast with my family when my phone rang. My hands were shaking as I opened the message. The results showed that I had passed with excellent grades! I was so happy that I jumped up and hugged my parents. While my mother was crying with joy, my father was calling our relatives to share the good news. That afternoon, we went out to celebrate. My friends were waiting for me at the restaurant when I arrived. We talked, laughed, and took many photos together. That day taught me that hard work and determination always pay off. It was truly one of the happiest days of my life.",
+        "explanation": "Bài viết cần kết hợp Past Simple (passed, jumped, went, arrived) và Past Continuous (was having, were shaking, was crying, was calling, were waiting) để kể về một sự kiện quan trọng."
+      }
+    ]
+  }
+}

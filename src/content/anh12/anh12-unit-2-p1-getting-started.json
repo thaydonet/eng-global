@@ -1,0 +1,225 @@
+{
+  "id": "anh12-unit-2-p1",
+  "name": "Part 1: Getting Started - A Multicultural World",
+  "content": {
+    "theory": {
+      "title": "Getting Started: A Multicultural World",
+      "sections": [
+        {
+          "heading": "1. Tóm tắt lý thuyết",
+          "content": "<div class='bg-gradient-to-r from-blue-50 to-cyan-50 dark:from-blue-900/20 dark:to-cyan-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-blue-900 dark:text-blue-300'>🌍 Thế giới đa văn hóa</h3><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-blue-700 dark:text-blue-400 mb-3'>Khái niệm chính:</h4><ul class='list-disc pl-6 space-y-2'><li><strong>Multicultural World (Thế giới đa văn hóa):</strong> Nơi nhiều nền văn hóa khác nhau cùng tồn tại và tương tác</li><li><strong>Cultural Diversity (Đa dạng văn hóa):</strong> Sự phong phú về phong tục, truyền thống, ngôn ngữ</li><li><strong>Globalization (Toàn cầu hóa):</strong> Quá trình kết nối và trao đổi văn hóa toàn cầu</li><li><strong>Cultural Identity (Bản sắc văn hóa):</strong> Đặc điểm riêng của mỗi nền văn hóa</li><li><strong>Cultural Exchange (Giao lưu văn hóa):</strong> Sự trao đổi giá trị văn hóa giữa các quốc gia</li></ul></div><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-purple-700 dark:text-purple-400 mb-3'>Tại sao chủ đề này quan trọng?</h4><p class='mb-2'>Trong thế giới hiện đại, toàn cầu hóa đã tạo điều kiện cho sự giao lưu văn hóa. Học sinh cần hiểu về:</p><ul class='list-disc pl-6 space-y-1'><li>Sự đa dạng văn hóa làm phong phú xã hội</li><li>Cách tôn trọng và học hỏi từ các nền văn hóa khác</li><li>Thách thức của sống trong môi trường đa văn hóa</li><li>Tầm quan trọng của bảo tồn bản sắc văn hóa</li></ul></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ về Multicultural World",
+          "content": "<div class='space-y-4'><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg border-l-4 border-green-500'><p class='font-bold text-green-800 dark:text-green-300 mb-3'>Example 1: Multicultural Cities</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> New York is a multicultural city where people from over 200 countries live together, creating a vibrant mix of cultures, languages, and traditions.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> New York là một thành phố đa văn hóa nơi người dân từ hơn 200 quốc gia sống cùng nhau, tạo nên sự pha trộn sôi động của các nền văn hóa, ngôn ngữ và truyền thống.</p><p class='mt-2 text-sm text-blue-600 dark:text-blue-400'><strong>Giải thích:</strong> Ví dụ về một thành phố đa văn hóa điển hình</p></div></div><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg border-l-4 border-blue-500'><p class='font-bold text-blue-800 dark:text-blue-300 mb-3'>Example 2: Cultural Festivals</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Many countries celebrate Diwali, Chinese New Year, and Christmas, showing how cultural diversity enriches our global community.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Nhiều quốc gia tổ chức lễ Diwali, Tết Nguyên Đán Trung Quốc và Giáng Sinh, cho thấy sự đa dạng văn hóa làm phong phú cộng đồng toàn cầu của chúng ta.</p><p class='mt-2 text-sm text-blue-600 dark:text-blue-400'><strong>Giải thích:</strong> Các lễ hội từ nhiều nền văn hóa được tôn trọng và chia sẻ</p></div></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg border-l-4 border-purple-500'><p class='font-bold text-purple-800 dark:text-purple-300 mb-3'>Example 3: International Cuisine</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Thanks to globalization, we can enjoy Italian pizza, Japanese sushi, and Indian curry in Vietnam, experiencing different cultures through food.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Nhờ toàn cầu hóa, chúng ta có thể thưởng thức pizza Ý, sushi Nhật và cà ri Ấn Độ tại Việt Nam, trải nghiệm các nền văn hóa khác nhau qua ẩm thực.</p><p class='mt-2 text-sm text-blue-600 dark:text-blue-400'><strong>Giải thích:</strong> Ẩm thực quốc tế lan rộng nhờ toàn cầu hóa</p></div></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg border-l-4 border-orange-500'><p class='font-bold text-orange-800 dark:text-orange-300 mb-3'>Example 4: Language Learning</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Learning English helps people communicate across different cultures and countries, breaking down language barriers in our interconnected world.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Học tiếng Anh giúp mọi người giao tiếp qua các nền văn hóa và quốc gia khác nhau, phá vỡ rào cản ngôn ngữ trong thế giới kết nối của chúng ta.</p><p class='mt-2 text-sm text-blue-600 dark:text-blue-400'><strong>Giải thích:</strong> Ngôn ngữ là cầu nối văn hóa quan trọng</p></div></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg border-l-4 border-pink-500'><p class='font-bold text-pink-800 dark:text-pink-300 mb-3'>Example 5: Cultural Identity</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Vietnamese people maintain their cultural identity through traditional festivals like Tet, while also embracing elements from other cultures.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Người Việt Nam duy trì bản sắc văn hóa thông qua các lễ hội truyền thống như Tết, đồng thời cũng tiếp nhận các yếu tố từ các nền văn hóa khác.</p><p class='mt-2 text-sm text-blue-600 dark:text-blue-400'><strong>Giải thích:</strong> Bảo tồn bản sắc văn hóa trong thế giới đa văn hóa</p></div></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p1-ex1",
+        "type": "mcq",
+        "question": "What does 'multicultural' mean?",
+        "options": ["One culture only", "Many cultures together", "No culture", "Ancient culture"],
+        "correct": 1,
+        "explanation": "'Multicultural' nghĩa là nhiều nền văn hóa cùng tồn tại."
+      },
+      {
+        "id": "p1-ex2",
+        "type": "mcq",
+        "question": "Which city is mentioned as a multicultural example?",
+        "options": ["Paris", "New York", "Tokyo", "Moscow"],
+        "correct": 1,
+        "explanation": "New York được đề cập như một ví dụ về thành phố đa văn hóa."
+      },
+      {
+        "id": "p1-ex3",
+        "type": "mcq",
+        "question": "What helps people communicate across cultures?",
+        "options": ["Money", "Language learning", "Technology only", "Travel"],
+        "correct": 1,
+        "explanation": "Học ngôn ngữ giúp mọi người giao tiếp qua các nền văn hóa."
+      },
+      {
+        "id": "p1-ex4",
+        "type": "mcq",
+        "question": "Globalization has led to the spread of:",
+        "options": ["Only technology", "Different cuisines and cultures", "Nothing", "Problems only"],
+        "correct": 1,
+        "explanation": "Toàn cầu hóa giúp lan rộng ẩm thực và văn hóa khác nhau."
+      },
+      {
+        "id": "p1-ex5",
+        "type": "mcq",
+        "question": "How do Vietnamese people maintain their cultural identity?",
+        "options": ["By ignoring other cultures", "Through traditional festivals", "By staying isolated", "By rejecting change"],
+        "correct": 1,
+        "explanation": "Người Việt duy trì bản sắc qua các lễ hội truyền thống."
+      },
+      {
+        "id": "p1-ex6",
+        "type": "mcq",
+        "question": "What does 'cultural diversity' refer to?",
+        "options": ["Having only one culture", "The variety of different cultures", "Rejecting other cultures", "Ancient traditions only"],
+        "correct": 1,
+        "explanation": "'Cultural diversity' nghĩa là sự đa dạng của các nền văn hóa khác nhau."
+      },
+      {
+        "id": "p1-ex7",
+        "type": "mcq",
+        "question": "Which is an example of cultural exchange?",
+        "options": ["Staying at home", "Celebrating festivals from different countries", "Avoiding foreigners", "Speaking only one language"],
+        "correct": 1,
+        "explanation": "Tổ chức lễ hội từ các quốc gia khác nhau là ví dụ về giao lưu văn hóa."
+      },
+      {
+        "id": "p1-ex8",
+        "type": "mcq",
+        "question": "What is 'globalization'?",
+        "options": ["Isolation of countries", "The process of international integration", "Keeping traditions secret", "Avoiding change"],
+        "correct": 1,
+        "explanation": "Toàn cầu hóa là quá trình hội nhập quốc tế."
+      },
+      {
+        "id": "p1-ex9",
+        "type": "mcq",
+        "question": "According to the lesson, how many countries are represented in New York?",
+        "options": ["50", "100", "Over 200", "500"],
+        "correct": 2,
+        "explanation": "New York có người dân từ hơn 200 quốc gia."
+      },
+      {
+        "id": "p1-ex10",
+        "type": "mcq",
+        "question": "What can we experience through food according to the lesson?",
+        "options": ["Nothing special", "Different cultures", "Only local traditions", "The same taste everywhere"],
+        "correct": 1,
+        "explanation": "Chúng ta có thể trải nghiệm các nền văn hóa khác nhau qua ẩm thực."
+      },
+      {
+        "id": "p1-ex11",
+        "type": "msq",
+        "question_text": "Decide if these statements about multicultural world are True or False:",
+        "options": [
+          "Multicultural cities have people from many countries.",
+          "Globalization has no effect on culture.",
+          "Learning English helps break down language barriers.",
+          "Cultural identity should be completely abandoned."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Thành phố đa văn hóa có người từ nhiều quốc gia. b) False - Toàn cầu hóa ảnh hưởng lớn đến văn hóa. c) True - Tiếng Anh giúp phá vỡ rào cản ngôn ngữ. d) False - Bản sắc văn hóa nên được bảo tồn."
+      },
+      {
+        "id": "p1-ex12",
+        "type": "msq",
+        "question_text": "Mark True or False for these statements about cultural festivals:",
+        "options": [
+          "Diwali is celebrated in many countries.",
+          "Chinese New Year is only for Chinese people.",
+          "Christmas is celebrated globally.",
+          "Cultural festivals divide communities."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Diwali được tổ chức ở nhiều nước. b) False - Tết Nguyên Đán được nhiều người tổ chức. c) True - Giáng Sinh được tổ chức toàn cầu. d) False - Lễ hội văn hóa kết nối cộng đồng."
+      },
+      {
+        "id": "p1-ex13",
+        "type": "msq",
+        "question_text": "Based on the examples, decide True or False:",
+        "options": [
+          "Pizza is originally from Italy.",
+          "Sushi comes from China.",
+          "Curry is an Indian dish.",
+          "All cuisines taste the same."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Pizza có nguồn gốc từ Ý. b) False - Sushi đến từ Nhật Bản. c) True - Cà ri là món Ấn Độ. d) False - Các nền ẩm thực có hương vị khác nhau."
+      },
+      {
+        "id": "p1-ex14",
+        "type": "reading",
+        "passage": "Singapore: A Multicultural Success Story\n\nSingapore is often called a 'melting pot' of cultures. This small island nation is home to Chinese, Malay, Indian, and Western communities living harmoniously together. The government promotes multiculturalism through policies that respect all ethnic groups equally.\n\nVisitors to Singapore can experience this diversity firsthand. In Little India, the streets are filled with colorful sari shops and the aroma of spices. Chinatown offers traditional Chinese temples and medicine halls. Arab Street showcases Islamic culture with beautiful mosques and Middle Eastern restaurants. These distinct neighborhoods exist side by side, creating a unique cultural tapestry.\n\nSingapore celebrates festivals from all cultures. During Chinese New Year, the entire city lights up with red lanterns. Hari Raya Puasa marks the end of Ramadan for Muslims. Deepavali, the Hindu festival of lights, transforms Little India into a dazzling spectacle. Christmas is also widely celebrated with elaborate decorations.\n\nThe country's food scene reflects this diversity. Hawker centers serve dishes from various cultures at affordable prices. You can enjoy Chinese dim sum, Malay satay, Indian roti prata, and Western pasta all in one place. This culinary fusion has created unique Singaporean dishes like laksa and chicken rice.\n\nSingapore proves that different cultures can coexist peacefully and enrich each other. The nation's success shows that diversity, when embraced and celebrated, becomes a strength rather than a source of conflict.",
+        "questions": [
+          {
+            "question": "What is Singapore often called?",
+            "options": ["A cultural desert", "A melting pot of cultures", "A single-culture nation", "An isolated island"],
+            "correct": 1,
+            "explanation": "Singapore được gọi là 'melting pot' (nồi lẩu) của các nền văn hóa."
+          },
+          {
+            "question": "Which ethnic groups are mentioned as living in Singapore?",
+            "options": ["Only Chinese", "Chinese, Malay, Indian, and Western", "Only Malay", "Only Indian"],
+            "correct": 1,
+            "explanation": "Singapore có cộng đồng Trung Quốc, Mã Lai, Ấn Độ và phương Tây."
+          },
+          {
+            "question": "What can visitors experience in Little India?",
+            "options": ["Chinese temples", "Colorful sari shops and spices", "Western restaurants", "Japanese gardens"],
+            "correct": 1,
+            "explanation": "Ở Little India, du khách có thể thấy các cửa hàng sari đầy màu sắc và mùi gia vị."
+          },
+          {
+            "question": "What does the passage say about Singapore's festivals?",
+            "options": ["Only Chinese festivals are celebrated", "Festivals from all cultures are celebrated", "No festivals are allowed", "Only Western holidays"],
+            "correct": 1,
+            "explanation": "Singapore tổ chức lễ hội từ tất cả các nền văn hóa."
+          },
+          {
+            "question": "What does Singapore's success prove?",
+            "options": ["Diversity causes conflict", "Different cultures cannot coexist", "Diversity can be a strength", "Only one culture should exist"],
+            "correct": 2,
+            "explanation": "Thành công của Singapore chứng minh rằng sự đa dạng có thể là một điểm mạnh."
+          }
+        ]
+      },
+      {
+        "id": "p1-ex15",
+        "type": "sa",
+        "question_text": "Complete the sentence: 'New York is a _____ city where people from many countries live together.' (Use one word from the lesson)",
+        "correct": "multicultural",
+        "explanation": "'Multicultural' là từ phù hợp. Câu hoàn chỉnh: 'New York is a multicultural city where people from many countries live together.'"
+      },
+      {
+        "id": "p1-ex16",
+        "type": "sa",
+        "question_text": "What is the Vietnamese meaning of 'globalization'? (Write in Vietnamese)",
+        "correct": "toàn cầu hóa",
+        "explanation": "'Globalization' nghĩa là toàn cầu hóa - quá trình kết nối và trao đổi văn hóa toàn cầu."
+      },
+      {
+        "id": "p1-ex17",
+        "type": "sa",
+        "question_text": "Fill in the blank: 'Cultural _____ enriches our society.' (diversity/division)",
+        "correct": "diversity",
+        "explanation": "'Diversity' (sự đa dạng) là từ đúng. Câu hoàn chỉnh: 'Cultural diversity enriches our society.'"
+      },
+      {
+        "id": "p1-ex18",
+        "type": "sa",
+        "question_text": "Name one traditional Vietnamese festival mentioned in the lesson.",
+        "correct": "Tet",
+        "explanation": "Tết (Tet) là lễ hội truyền thống Việt Nam được đề cập trong bài học."
+      },
+      {
+        "id": "p1-ex19",
+        "type": "mcq",
+        "question": "Which statement best describes cultural identity?",
+        "options": [
+          "Forgetting your traditions",
+          "The unique characteristics of a culture",
+          "Copying other cultures completely",
+          "Avoiding all foreign influences"
+        ],
+        "correct": 1,
+        "explanation": "Bản sắc văn hóa là những đặc điểm độc đáo của một nền văn hóa."
+      },
+      {
+        "id": "p1-ex20",
+        "type": "essay",
+        "question": "Writing Task: Write a short paragraph (80-100 words) about living in a multicultural world. Include:\n\n• What a multicultural world means\n• Examples of cultural diversity you see around you\n• Benefits of living in a multicultural society\n• How you can respect and learn from other cultures\n\nUse vocabulary from this lesson (multicultural, diversity, globalization, cultural identity, cultural exchange, etc.)",
+        "answer_guide": "Sample Answer:\n\nLiving in a multicultural world means being surrounded by people from different cultural backgrounds. In my city, I can see this diversity everywhere. There are restaurants serving food from many countries, and people celebrate various festivals like Christmas, Tet, and Diwali. This cultural diversity brings many benefits. It helps us learn about different traditions, languages, and ways of thinking. We can enjoy international cuisines and experience new customs. To respect other cultures, I try to learn about their traditions and keep an open mind. I believe that globalization has made our world more connected, and we should embrace this diversity while maintaining our own cultural identity. By learning from each other, we can build a more understanding and peaceful world.\n\n(Word count: 120 words)\n\nKey features:\n✓ Clear definition of multicultural world\n✓ Specific examples from personal experience\n✓ Benefits clearly explained\n✓ Personal reflection on respecting cultures\n✓ Use of vocabulary: multicultural, diversity, globalization, cultural identity, cultural diversity\n✓ Well-structured with good flow",
+        "explanation": "Bài viết cần giải thích thế giới đa văn hóa là gì, đưa ra ví dụ cụ thể, nêu lợi ích và cách tôn trọng văn hóa khác. Sử dụng từ vựng đã học và viết với cảm xúc chân thật."
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-5-p7",
+  "name": "Part 7: Writing",
+  "slug": "p7-writing",
+  "description": "Viết CV và thư xin việc",
+  "duration_minutes": 60,
+  "difficulty_level": "hard",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Writing: CV and Cover Letter",
+      "sections": [
+        {
+          "heading": "Writing Skills",
+          "content": "<p><strong>Chủ đề:</strong> Writing a CV and cover letter</p><p><strong>Kỹ năng viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Organizing information:</strong> Sắp xếp thông tin logic</li><li><strong>Using formal language:</strong> Sử dụng ngôn ngữ trang trọng</li><li><strong>Highlighting strengths:</strong> Làm nổi bật điểm mạnh</li><li><strong>Being concise:</strong> Viết ngắn gọn, súc tích</li><li><strong>Proofreading:</strong> Kiểm tra lỗi</li></ul><p><strong>Cấu trúc CV (Curriculum Vitae):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Personal Information (Thông tin cá nhân):</strong></li><li>- Full name, address, phone, email</li><li>- Date of birth (optional)</li><li><strong>Career Objective (Mục tiêu nghề nghiệp):</strong></li><li>- Brief statement about career goals</li><li>- What position you're seeking</li><li><strong>Education (Học vấn):</strong></li><li>- Degrees, institutions, graduation dates</li><li>- List in reverse chronological order (newest first)</li><li><strong>Work Experience (Kinh nghiệm làm việc):</strong></li><li>- Job titles, companies, dates</li><li>- Key responsibilities and achievements</li><li>- Use action verbs (managed, developed, achieved)</li><li><strong>Skills (Kỹ năng):</strong></li><li>- Technical skills (software, languages)</li><li>- Soft skills (communication, teamwork)</li><li><strong>References (Người giới thiệu):</strong></li><li>- Available upon request</li><li>- Or list 2-3 professional references</li></ul>"
+        },
+        {
+          "heading": "Cover Letter Structure",
+          "content": "<p><strong>Cấu trúc thư xin việc (Cover Letter):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Heading (Phần đầu):</strong></li><li>- Your address</li><li>- Date</li><li>- Employer's name and address</li><li><strong>Salutation (Lời chào):</strong></li><li>- Dear Mr./Ms. [Last Name],</li><li>- Dear Hiring Manager, (if name unknown)</li><li><strong>Opening Paragraph (Đoạn mở đầu):</strong></li><li>- State the position you're applying for</li><li>- Mention where you found the job posting</li><li>- Brief introduction of yourself</li><li>Ex: I am writing to apply for the Marketing Manager position advertised on your website. I am a recent graduate with a degree in Marketing and relevant internship experience.</li><li><strong>Body Paragraph 1 (Thân bài 1):</strong> Why you're interested</li><li>- Explain why you want this job</li><li>- Show knowledge about the company</li><li>- Connect your interests to the role</li><li>Ex: I am particularly interested in this position because your company is a leader in digital marketing innovation. I have followed your recent campaigns and admire your creative approach.</li><li><strong>Body Paragraph 2 (Thân bài 2):</strong> Why you're qualified</li><li>- Highlight relevant skills and experience</li><li>- Provide specific examples</li><li>- Show how you can contribute</li><li>Ex: During my internship at ABC Company, I managed social media accounts and increased engagement by 40%. I have strong skills in content creation, data analysis, and team collaboration.</li><li><strong>Closing Paragraph (Đoạn kết):</strong></li><li>- Express enthusiasm</li><li>- Request an interview</li><li>- Thank the reader</li><li>Ex: I am excited about the opportunity to contribute to your team. I would welcome the chance to discuss how my skills and experience align with your needs. Thank you for considering my application.</li><li><strong>Closing (Kết thúc):</strong></li><li>- Sincerely, / Yours sincerely,</li><li>- Your signature (if printed)</li><li>- Your typed name</li></ul>"
+        },
+        {
+          "heading": "Useful Language for CV and Cover Letter",
+          "content": "<p><strong>Action verbs for CV:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Leadership:</strong> managed, led, coordinated, supervised, directed</li><li><strong>Achievement:</strong> achieved, accomplished, improved, increased, reduced</li><li><strong>Communication:</strong> presented, communicated, negotiated, collaborated</li><li><strong>Creation:</strong> developed, designed, created, implemented, established</li><li><strong>Analysis:</strong> analyzed, evaluated, assessed, researched</li></ul><p><strong>Phrases for cover letter:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Opening:</strong></li><li>I am writing to apply for...</li><li>I am interested in the position of...</li><li>I would like to express my interest in...</li><li><strong>Showing interest:</strong></li><li>I am particularly interested in...</li><li>I am attracted to this position because...</li><li>Your company's reputation for... appeals to me.</li><li><strong>Highlighting qualifications:</strong></li><li>I have experience in...</li><li>My background includes...</li><li>I possess strong skills in...</li><li>I am proficient in...</li><li><strong>Providing examples:</strong></li><li>During my time at..., I...</li><li>In my previous role, I successfully...</li><li>For example, I...</li><li><strong>Closing:</strong></li><li>I look forward to hearing from you.</li><li>I would welcome the opportunity to discuss...</li><li>Thank you for your time and consideration.</li><li>I am available for an interview at your convenience.</li></ul><p><strong>Tips for writing:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Keep CV to 1-2 pages</li><li>Use clear, professional font</li><li>Proofread carefully for errors</li><li>Tailor CV and cover letter to each job</li><li>Use specific examples and numbers</li><li>Be honest about your qualifications</li><li>Use formal, professional language</li><li>Avoid personal pronouns in CV</li></ul>"
+        },
+        {
+          "heading": "Sample Cover Letter",
+          "content": "<p><strong>Sample:</strong></p><p>[Your Address]<br>[City, Postal Code]<br>[Email]<br>[Phone]</p><p>[Date]</p><p>[Hiring Manager's Name]<br>[Company Name]<br>[Company Address]</p><p>Dear Mr./Ms. [Last Name],</p><p>I am writing to apply for the Marketing Assistant position advertised on your company website. I am a recent graduate from ABC University with a Bachelor's degree in Marketing, and I am eager to begin my career with your innovative company.</p><p>I am particularly interested in this position because your company is known for its creative marketing campaigns and commitment to sustainability. I have followed your recent work on social media and was impressed by your approach to engaging younger audiences. This aligns perfectly with my passion for digital marketing and environmental causes.</p><p>During my internship at XYZ Company, I assisted in managing social media accounts and creating content for marketing campaigns. I successfully increased Instagram engagement by 35% over three months through strategic posting and community interaction. Additionally, I have strong skills in graphic design using Adobe Creative Suite and data analysis using Google Analytics. I am confident that my creativity, technical skills, and enthusiasm would make me a valuable addition to your marketing team.</p><p>I am excited about the opportunity to contribute to your company's continued success. I would welcome the chance to discuss how my skills and experience can benefit your team. Thank you for considering my application. I look forward to hearing from you.</p><p>Sincerely,<br>[Your Name]</p>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "writing-ex1",
+        "type": "mcq",
+        "question": "What should a CV include?",
+        "options": [
+          "Only your name",
+          "Personal info, education, experience, and skills",
+          "Your favorite foods",
+          "Your dreams"
+        ],
+        "correct": 1,
+        "explanation": "CV cần có thông tin cá nhân, học vấn, kinh nghiệm và kỹ năng."
+      },
+      {
+        "id": "writing-ex2",
+        "type": "mcq",
+        "question": "How should you start a cover letter?",
+        "options": [
+          "Hi there!",
+          "Dear Mr./Ms. [Name],",
+          "Hey!",
+          "What's up?"
+        ],
+        "correct": 1,
+        "explanation": "Thư xin việc nên bắt đầu trang trọng với 'Dear Mr./Ms.'."
+      },
+      {
+        "id": "writing-ex3",
+        "type": "mcq",
+        "question": "Which is an action verb for CV?",
+        "options": ["Slept", "Managed", "Watched", "Ate"],
+        "correct": 1,
+        "explanation": "'Managed' là động từ hành động tốt cho CV."
+      },
+      {
+        "id": "writing-ex4",
+        "type": "mcq",
+        "question": "What should the opening paragraph of a cover letter state?",
+        "options": [
+          "Your life story",
+          "The position you're applying for",
+          "Your hobbies",
+          "Your family"
+        ],
+        "correct": 1,
+        "explanation": "Đoạn mở đầu nên nói về vị trí bạn đang ứng tuyển."
+      },
+      {
+        "id": "writing-ex5",
+        "type": "mcq",
+        "question": "How long should a CV be?",
+        "options": ["10 pages", "1-2 pages", "Half a page", "As long as possible"],
+        "correct": 1,
+        "explanation": "CV nên dài 1-2 trang."
+      },
+      {
+        "id": "writing-ex6",
+        "type": "mcq",
+        "question": "Which phrase is appropriate for a cover letter?",
+        "options": [
+          "I am writing to apply for...",
+          "Yo, I want this job",
+          "Give me the job",
+          "I need money"
+        ],
+        "correct": 0,
+        "explanation": "'I am writing to apply for...' là cụm từ trang trọng phù hợp."
+      },
+      {
+        "id": "writing-ex7",
+        "type": "mcq",
+        "question": "What should you do before sending your CV?",
+        "options": [
+          "Nothing",
+          "Proofread for errors",
+          "Add jokes",
+          "Use informal language"
+        ],
+        "correct": 1,
+        "explanation": "Nên kiểm tra lỗi trước khi gửi CV."
+      },
+      {
+        "id": "writing-ex8",
+        "type": "mcq",
+        "question": "How should you list education on a CV?",
+        "options": [
+          "Random order",
+          "Oldest first",
+          "Newest first (reverse chronological)",
+          "Don't list it"
+        ],
+        "correct": 2,
+        "explanation": "Nên liệt kê học vấn từ mới nhất đến cũ nhất."
+      },
+      {
+        "id": "writing-ex9",
+        "type": "mcq",
+        "question": "What is the purpose of a cover letter?",
+        "options": [
+          "To tell jokes",
+          "To explain why you're suitable for the job",
+          "To complain",
+          "To write a story"
+        ],
+        "correct": 1,
+        "explanation": "Thư xin việc giải thích tại sao bạn phù hợp với công việc."
+      },
+      {
+        "id": "writing-ex10",
+        "type": "mcq",
+        "question": "Which is correct for closing a cover letter?",
+        "options": [
+          "Bye!",
+          "Sincerely,",
+          "See ya!",
+          "Later!"
+        ],
+        "correct": 1,
+        "explanation": "'Sincerely,' là cách kết thúc trang trọng."
+      },
+      {
+        "id": "writing-ex11",
+        "type": "mcq",
+        "question": "What should you include in the skills section?",
+        "options": [
+          "Only hobbies",
+          "Technical and soft skills",
+          "Your pets",
+          "Your favorite movies"
+        ],
+        "correct": 1,
+        "explanation": "Phần kỹ năng nên có kỹ năng kỹ thuật và kỹ năng mềm."
+      },
+      {
+        "id": "writing-ex12",
+        "type": "mcq",
+        "question": "Which phrase shows enthusiasm in a cover letter?",
+        "options": [
+          "I don't care",
+          "I am excited about this opportunity",
+          "Whatever",
+          "I'm bored"
+        ],
+        "correct": 1,
+        "explanation": "'I am excited about this opportunity' thể hiện sự nhiệt tình."
+      },
+      {
+        "id": "writing-ex13",
+        "type": "mcq",
+        "question": "What should you avoid in a CV?",
+        "options": [
+          "Relevant experience",
+          "Spelling errors and informal language",
+          "Your education",
+          "Your skills"
+        ],
+        "correct": 1,
+        "explanation": "Nên tránh lỗi chính tả và ngôn ngữ không trang trọng."
+      },
+      {
+        "id": "writing-ex14",
+        "type": "mcq",
+        "question": "How should you describe achievements in a CV?",
+        "options": [
+          "Vaguely",
+          "With specific examples and numbers",
+          "Don't mention them",
+          "Exaggerate"
+        ],
+        "correct": 1,
+        "explanation": "Nên mô tả thành tích bằng ví dụ cụ thể và số liệu."
+      },
+      {
+        "id": "writing-ex15",
+        "type": "mcq",
+        "question": "What tone should a cover letter have?",
+        "options": [
+          "Casual and funny",
+          "Professional and enthusiastic",
+          "Angry",
+          "Sad"
+        ],
+        "correct": 1,
+        "explanation": "Thư xin việc nên có giọng điệu chuyên nghiệp và nhiệt tình."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide if these should be in a CV (True/False):",
+        "options": [
+          "Education and qualifications",
+          "Your favorite TV shows",
+          "Work experience",
+          "Your pet's name"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Học vấn cần có trong CV. b) False - Chương trình TV yêu thích không cần. c) True - Kinh nghiệm làm việc cần có. d) False - Tên thú cưng không cần."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if these are good practices for cover letters:",
+        "options": [
+          "Tailor the letter to each job",
+          "Use the same letter for all jobs",
+          "Provide specific examples",
+          "Write 10 pages"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Nên tùy chỉnh thư cho từng công việc. b) False - Không nên dùng cùng một thư. c) True - Nên đưa ra ví dụ cụ thể. d) False - Không nên viết quá dài."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: I am writing to _____ for the position. (apply/application)",
+        "correct": "apply",
+        "explanation": "'Apply' là động từ đúng sau 'to'."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "Complete: I _____ social media accounts during my internship. (managed/manage)",
+        "correct": "managed",
+        "explanation": "'Managed' là quá khứ đơn mô tả kinh nghiệm."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "How should you end a formal cover letter? (one word)",
+        "correct": "Sincerely",
+        "explanation": "'Sincerely' là cách kết thúc trang trọng."
+      }
+    ]
+  }
+}

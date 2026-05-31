@@ -1,0 +1,92 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-unit-1",
+      "name": "Unit 1: A Long and Healthy Life",
+      "slug": "unit-1-long-healthy-life",
+      "chapter": "Unit 1: A Long and Healthy Life",
+      "chapter_id": "A11",
+      "lesson_id": 1,
+      "description": "Học về lối sống lành mạnh, dinh dưỡng, tập luyện và phân biệt thì quá khứ đơn và hiện tại hoàn thành.",
+      "duration_minutes": 300,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=2670&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh11-unit-1-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu chủ đề về lối sống lành mạnh và tầm quan trọng của sức khỏe",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh11-unit-1-p1-getting-started.json"
+        },
+        {
+          "id": "anh11-unit-1-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về sức khỏe, dinh dưỡng và lối sống lành mạnh",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh11-unit-1-p2-vocabulary.json"
+        },
+        {
+          "id": "anh11-unit-1-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Thì quá khứ đơn và hiện tại hoàn thành",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh11-unit-1-p3-grammar.json"
+        },
+        {
+          "id": "anh11-unit-1-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về bí quyết sống lâu và khỏe mạnh",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh11-unit-1-p4-reading.json"
+        },
+        {
+          "id": "anh11-unit-1-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về thói quen sống lành mạnh",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh11-unit-1-p5-speaking.json"
+        },
+        {
+          "id": "anh11-unit-1-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về duy trì lối sống lành mạnh",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh11-unit-1-p6-listening.json"
+        },
+        {
+          "id": "anh11-unit-1-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về cách sống lâu và khỏe mạnh",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh11-unit-1-p7-writing.json"
+        }
+      ]
+    }
+  ]
+}

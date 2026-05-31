@@ -1,0 +1,354 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-unit-7",
+      "name": "Unit 7: Education Options for School-Leavers",
+      "slug": "unit-7-education-options",
+      "chapter": "Unit 7: Education Options for School-Leavers",
+      "chapter_id": "A11",
+      "lesson_id": 7,
+      "description": "Học về các lựa chọn giáo dục và nghề nghiệp sau tốt nghiệp, danh động từ hoàn thành và mệnh đề phân từ hoàn thành.",
+      "duration_minutes": 300,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=2670&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh11-unit-7-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về các lựa chọn giáo dục sau khi tốt nghiệp trung học",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh11-unit-7-p1-getting-started.json"
+        },
+        {
+          "id": "anh11-unit-7-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về giáo dục và lựa chọn nghề nghiệp",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh11-unit-7-p2-vocabulary.json"
+        },
+        {
+          "id": "anh11-unit-7-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Danh động từ hoàn thành và mệnh đề phân từ hoàn thành (Perfect Gerunds and Perfect Participle Clauses)",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh11-unit-7-p3-grammar.json"
+        },
+        {
+          "id": "anh11-unit-7-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về lựa chọn giữa đại học và đào tạo nghề",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh11-unit-7-p4-reading.json"
+        },
+        {
+          "id": "anh11-unit-7-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về kế hoạch giáo dục và nghề nghiệp",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh11-unit-7-p5-speaking.json"
+        },
+        {
+          "id": "anh11-unit-7-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về chương trình học nghề",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh11-unit-7-p6-listening.json"
+        },
+        {
+          "id": "anh11-unit-7-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về kế hoạch học tập sau tốt nghiệp",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh11-unit-7-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-7",
+          "name": "Education Vocabulary",
+          "slug": "education-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 7: Education Options for School-Leavers",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>School-leaver</td><td class='px-4 py-2'>(n) /skuːl ˈliːvə(r)/</td><td class='px-4 py-2'>Học sinh tốt nghiệp</td><td class='px-4 py-2'>School-leavers have many options.</td></tr><tr><td class='px-4 py-2 font-bold'>Vocational</td><td class='px-4 py-2'>(adj) /vəʊˈkeɪʃənl/</td><td class='px-4 py-2'>Thuộc về nghề nghiệp</td><td class='px-4 py-2'>Vocational training is practical.</td></tr><tr><td class='px-4 py-2 font-bold'>Apprenticeship</td><td class='px-4 py-2'>(n) /əˈprentɪsʃɪp/</td><td class='px-4 py-2'>Học nghề</td><td class='px-4 py-2'>He did an apprenticeship.</td></tr><tr><td class='px-4 py-2 font-bold'>Academic</td><td class='px-4 py-2'>(adj) /ˌækəˈdemɪk/</td><td class='px-4 py-2'>Thuộc về học thuật</td><td class='px-4 py-2'>She prefers academic subjects.</td></tr><tr><td class='px-4 py-2 font-bold'>Qualification</td><td class='px-4 py-2'>(n) /ˌkwɒlɪfɪˈkeɪʃn/</td><td class='px-4 py-2'>Bằng cấp, trình độ</td><td class='px-4 py-2'>You need qualifications for this job.</td></tr><tr><td class='px-4 py-2 font-bold'>Degree</td><td class='px-4 py-2'>(n) /dɪˈɡriː/</td><td class='px-4 py-2'>Bằng đại học</td><td class='px-4 py-2'>She has a degree in engineering.</td></tr><tr><td class='px-4 py-2 font-bold'>Diploma</td><td class='px-4 py-2'>(n) /dɪˈpləʊmə/</td><td class='px-4 py-2'>Bằng tốt nghiệp</td><td class='px-4 py-2'>He received a diploma.</td></tr><tr><td class='px-4 py-2 font-bold'>Certificate</td><td class='px-4 py-2'>(n) /səˈtɪfɪkət/</td><td class='px-4 py-2'>Chứng chỉ</td><td class='px-4 py-2'>Get a certificate in IT.</td></tr><tr><td class='px-4 py-2 font-bold'>Tuition</td><td class='px-4 py-2'>(n) /tjuˈɪʃn/</td><td class='px-4 py-2'>Học phí</td><td class='px-4 py-2'>Tuition fees are expensive.</td></tr><tr><td class='px-4 py-2 font-bold'>Enrol</td><td class='px-4 py-2'>(v) /ɪnˈrəʊl/</td><td class='px-4 py-2'>Ghi danh, đăng ký</td><td class='px-4 py-2'>I enrolled in a course.</td></tr><tr><td class='px-4 py-2 font-bold'>Pursue</td><td class='px-4 py-2'>(v) /pəˈsjuː/</td><td class='px-4 py-2'>Theo đuổi</td><td class='px-4 py-2'>Pursue a career in medicine.</td></tr><tr><td class='px-4 py-2 font-bold'>Hands-on</td><td class='px-4 py-2'>(adj) /ˌhændz ˈɒn/</td><td class='px-4 py-2'>Thực hành, thực tế</td><td class='px-4 py-2'>Hands-on experience is valuable.</td></tr><tr><td class='px-4 py-2 font-bold'>Practical</td><td class='px-4 py-2'>(adj) /ˈpræktɪkl/</td><td class='px-4 py-2'>Thực tế, thực hành</td><td class='px-4 py-2'>Practical skills are important.</td></tr><tr><td class='px-4 py-2 font-bold'>Career path</td><td class='px-4 py-2'>(n) /kəˈrɪə pɑːθ/</td><td class='px-4 py-2'>Con đường sự nghiệp</td><td class='px-4 py-2'>Choose your career path wisely.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Education options (Lựa chọn giáo dục):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>university education:</strong> giáo dục đại học</li><li><strong>vocational training:</strong> đào tạo nghề</li><li><strong>apprenticeship program:</strong> chương trình học nghề</li><li><strong>online courses:</strong> khóa học trực tuyến</li><li><strong>gap year:</strong> năm nghỉ (trước khi vào đại học)</li><li><strong>further education:</strong> giáo dục nâng cao</li></ul><p><strong>Qualifications (Bằng cấp):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>bachelor's degree:</strong> bằng cử nhân</li><li><strong>master's degree:</strong> bằng thạc sĩ</li><li><strong>vocational certificate:</strong> chứng chỉ nghề</li><li><strong>professional qualification:</strong> bằng cấp chuyên môn</li></ul><p><strong>Collocations về giáo dục:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>gain practical experience:</strong> có được kinh nghiệm thực tế</li><li><strong>develop skills:</strong> phát triển kỹ năng</li><li><strong>pursue higher education:</strong> theo đuổi giáo dục đại học</li><li><strong>earn while learning:</strong> vừa học vừa làm</li><li><strong>make an informed decision:</strong> đưa ra quyết định sáng suốt</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm: Ngữ điệu trong câu hỏi Yes/No và Wh-questions",
+              "content": "<h3>Intonation in Yes/No questions and Wh-questions</h3><p><strong>1. Yes/No questions - Rising intonation (↗)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu hỏi Yes/No có giọng lên ở cuối</li><li>Ex: Are you going to university? ↗</li><li>Ex: Do you want to study abroad? ↗</li><li>Ex: Have you decided on your career? ↗</li></ul><p><strong>2. Wh-questions - Falling intonation (↘)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu hỏi Wh- (What, Where, When, Why, Who, How) có giọng xuống ở cuối</li><li>Ex: What do you want to study? ↘</li><li>Ex: Where will you go to university? ↘</li><li>Ex: Why did you choose this course? ↘</li><li>Ex: How long is the program? ↘</li></ul><p><strong>Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Yes/No questions: giọng lên ↗ (thể hiện sự không chắc chắn, chờ đợi câu trả lời)</li><li>Wh-questions: giọng xuống ↘ (hỏi thông tin cụ thể)</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp: Danh động từ hoàn thành & Mệnh đề phân từ hoàn thành",
+              "content": "<h3>A. Perfect Gerund (Danh động từ hoàn thành)</h3><p><strong>Cấu trúc:</strong> Having + V3/ed</p><p><strong>Cách dùng:</strong> Nhấn mạnh hành động đã hoàn thành trước hành động khác trong quá khứ</p><p><strong>1. Làm chủ ngữ (Subject)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Having + V3/ed + V(singular)</li><li>Ex: <strong>Having studied</strong> science subjects made it easy for me to choose a university degree.</li><li>(Việc đã học các môn khoa học giúp tôi dễ dàng chọn bằng đại học.)</li><li>Ex: <strong>Having completed</strong> the course helped him find a good job.</li></ul><p><strong>2. Làm tân ngữ (Object)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sau các động từ: admit, deny, forget, mention, regret, remember...</li><li>Ex: She admitted <strong>having made</strong> a wrong decision.</li><li>(Cô ấy thừa nhận đã đưa ra quyết định sai.)</li><li>Ex: He regretted <strong>having not studied</strong> harder.</li><li>Ex: I don't remember <strong>having met</strong> him before.</li></ul><h3>B. Perfect Participle Clause (Mệnh đề phân từ hoàn thành)</h3><p><strong>Cấu trúc:</strong> Having + V3/ed, S + V</p><p><strong>Cách dùng:</strong> Rút gọn mệnh đề trạng ngữ khi hành động trong mệnh đề phụ xảy ra trước hành động trong mệnh đề chính</p><p><strong>1. Rút gọn mệnh đề chỉ thời gian (Time clause)</strong></p><ul class='list-disc pl-5 space-y-2'><li>After/When + S + had + V3/ed → Having + V3/ed</li><li>Ex: After he had finished school, he took a gap year.</li><li>→ <strong>Having finished</strong> school, he took a gap year.</li><li>Ex: When she had completed the course, she got a certificate.</li><li>→ <strong>Having completed</strong> the course, she got a certificate.</li></ul><p><strong>2. Rút gọn mệnh đề chỉ nguyên nhân (Reason clause)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Because/Since/As + S + had + V3/ed → Having + V3/ed</li><li>Ex: Because he had gained practical experience, he found a job easily.</li><li>→ <strong>Having gained</strong> practical experience, he found a job easily.</li><li>Ex: Since she had done an apprenticeship, she had good skills.</li><li>→ <strong>Having done</strong> an apprenticeship, she had good skills.</li></ul><h3>C. Bảng so sánh</h3><div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Loại</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Cấu trúc</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Ví dụ</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2'>Perfect Gerund (chủ ngữ)</td><td class='px-4 py-2'>Having + V3/ed + V</td><td class='px-4 py-2'>Having studied hard helped me pass.</td></tr><tr><td class='px-4 py-2'>Perfect Gerund (tân ngữ)</td><td class='px-4 py-2'>V + having + V3/ed</td><td class='px-4 py-2'>She admitted having failed.</td></tr><tr><td class='px-4 py-2'>Perfect Participle Clause</td><td class='px-4 py-2'>Having + V3/ed, S + V</td><td class='px-4 py-2'>Having finished school, he worked.</td></tr></tbody></table></div><h3>D. Lưu ý quan trọng</h3><ul class='list-disc pl-5 space-y-2'><li>Perfect gerund/participle nhấn mạnh hành động đã hoàn thành TRƯỚC hành động khác</li><li>Dùng khi muốn làm rõ thứ tự thời gian giữa hai hành động</li><li>Phủ định: <strong>Not having + V3/ed</strong></li><li>Ex: Not having studied, he failed the exam.</li><li>Chủ ngữ của hai mệnh đề phải giống nhau khi rút gọn</li></ul>"
+            },
+            {
+              "heading": "5. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Education options after leaving school - Các lựa chọn giáo dục sau khi tốt nghiệp</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về các lựa chọn sau tốt nghiệp</li><li>So sánh giữa đại học và đào tạo nghề</li><li>Thảo luận về ưu và nhược điểm của từng lựa chọn</li><li>Chia sẻ kế hoạch tương lai</li></ul><p><strong>Các lựa chọn chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>University:</strong> Học đại học (academic, theoretical)</li><li><strong>Vocational training:</strong> Đào tạo nghề (practical, hands-on)</li><li><strong>Apprenticeship:</strong> Học nghề (earn while learning)</li><li><strong>Gap year:</strong> Năm nghỉ (travel, work, volunteer)</li></ul>"
+            },
+            {
+              "heading": "6. II. Language",
+              "content": "<p><strong>A. Pronunciation: Intonation in Yes/No and Wh-questions</strong></p><p>Luyện phát âm ngữ điệu trong câu hỏi</p><p><strong>B. Vocabulary:</strong> Education and career options</p><ul class='list-disc pl-5 space-y-2'><li>Words related to education paths</li><li>Qualifications and degrees</li><li>Vocational training terms</li><li>Career planning vocabulary</li></ul><p><strong>C. Grammar:</strong> Perfect gerunds and perfect participle clauses</p><ul class='list-disc pl-5 space-y-2'><li>Having + V3/ed as subject and object</li><li>Reducing time and reason clauses</li><li>Emphasizing completed actions</li></ul>"
+            },
+            {
+              "heading": "7. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Choosing between university and vocational training</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu bài viết so sánh các lựa chọn giáo dục</li><li>Tìm thông tin về ưu và nhược điểm</li><li>Hiểu các thuật ngữ giáo dục</li><li>Phân tích lợi ích của từng con đường</li></ul><p><strong>Nội dung:</strong> Bài đọc so sánh giữa giáo dục đại học và đào tạo nghề, bao gồm:</p><ul class='list-disc pl-5 space-y-2'><li>Chi phí và thời gian học</li><li>Cơ hội việc làm sau tốt nghiệp</li><li>Kỹ năng và kinh nghiệm thu được</li><li>Phù hợp với từng đối tượng học sinh</li></ul>"
+            },
+            {
+              "heading": "8. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Discussing education and career plans</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về kế hoạch sau tốt nghiệp</li><li>So sánh các lựa chọn giáo dục</li><li>Đưa ra lý do cho quyết định</li><li>Hỏi và trả lời về tương lai nghề nghiệp</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I'm planning to...</li><li>I'm considering + V-ing...</li><li>Having thought about it, I've decided to...</li><li>The advantage/disadvantage of... is...</li><li>I'd rather... than...</li><li>It depends on...</li></ul>"
+            },
+            {
+              "heading": "9. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> An interview about apprenticeship programs</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu thông tin về chương trình học nghề</li><li>Điền thông tin còn thiếu về yêu cầu và lợi ích</li><li>Trả lời câu hỏi về kinh nghiệm học nghề</li><li>Ghi chú các ý quan trọng</li></ul><p><strong>Nội dung:</strong> Bài nghe về:</p><ul class='list-disc pl-5 space-y-2'><li>Các loại chương trình học nghề</li><li>Yêu cầu tham gia</li><li>Lợi ích của việc học nghề</li><li>Cơ hội việc làm sau khi hoàn thành</li></ul>"
+            },
+            {
+              "heading": "10. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing about your education plans - Viết về kế hoạch học tập</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đoạn văn về kế hoạch sau tốt nghiệp</li><li>Giải thích lý do cho lựa chọn</li><li>Sử dụng perfect gerunds và participle clauses</li><li>Trình bày mục tiêu nghề nghiệp</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Introduction:</strong> Giới thiệu kế hoạch của bạn</li><li><strong>Body:</strong> Giải thích lý do và lợi ích (sử dụng having + V3/ed)</li><li><strong>Conclusion:</strong> Mục tiêu dài hạn</li></ul><p><strong>Useful language:</strong></p><ul class='list-disc pl-5 space-y-2'><li>After leaving school, I plan to...</li><li>Having considered my options, I've decided to...</li><li>The main reason for my choice is...</li><li>This will help me achieve my goal of...</li></ul>"
+            },
+            {
+              "heading": "11. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Asking for and giving advice about education choices</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What do you think I should do?</li><li>If I were you, I would...</li><li>Have you thought about...?</li><li>You might want to consider...</li><li>It's worth + V-ing...</li></ul><p><strong>Culture:</strong> Education systems around the world</p><ul class='list-disc pl-5 space-y-2'><li><strong>UK:</strong> A-levels, apprenticeships, gap years</li><li><strong>Germany:</strong> Dual education system (vocational + academic)</li><li><strong>USA:</strong> Community colleges, liberal arts education</li><li><strong>Vietnam:</strong> University entrance exams, vocational schools</li></ul><p><strong>Thảo luận:</strong></p><ul class='list-disc pl-5 space-y-2'><li>So sánh hệ thống giáo dục ở các nước</li><li>Ưu và nhược điểm của từng hệ thống</li><li>Xu hướng giáo dục hiện đại</li></ul>"
+            },
+            {
+              "heading": "12. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Pronunciation:</strong> Intonation in Yes/No and Wh-questions</li><li><strong>Vocabulary:</strong> School-leaver, vocational, apprenticeship, academic, qualification, degree, diploma, tuition, enrol, pursue, hands-on, practical, career path</li><li><strong>Grammar:</strong> Perfect gerunds (having + V3/ed) and perfect participle clauses</li><li><strong>Skills:</strong> Reading about education options, Speaking about plans, Listening to advice, Writing about choices</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng:</p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng từ vựng về giáo dục và nghề nghiệp</li><li>Phát âm ngữ điệu trong câu hỏi</li><li>Sử dụng perfect gerunds và participle clauses</li><li>Thảo luận về kế hoạch tương lai</li></ul>"
+            },
+            {
+              "heading": "13. Project",
+              "content": "<p><strong>Đề tài:</strong> Research and present an education option</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một lựa chọn giáo dục (university, vocational training, apprenticeship, etc.)</li><li>Nghiên cứu về lựa chọn đó (yêu cầu, chi phí, thời gian, lợi ích)</li><li>Phỏng vấn người đã trải nghiệm (nếu có thể)</li><li>Tạo presentation hoặc poster giới thiệu</li><li>Trình bày cho lớp và trả lời câu hỏi</li></ul><p><strong>Câu hỏi gợi ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What is this education option?</li><li>What are the entry requirements?</li><li>How long does it take?</li><li>What are the costs involved?</li><li>What qualifications will you get?</li><li>What career opportunities does it offer?</li><li>What are the advantages and disadvantages?</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Perfect Gerunds and Participle Clauses",
+            "method": "<p>Rewrite sentences using perfect gerunds or perfect participle clauses.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "After finishing high school, students face an important decision: should they go to university or pursue vocational training? Both options have their advantages and can lead to successful careers.\n\nUniversity education offers a broad academic foundation and opens doors to many professional careers. Students study theoretical subjects in depth and develop critical thinking skills. Having completed a university degree, graduates often have access to higher-paying jobs and more career advancement opportunities. However, university education can be expensive, with high tuition fees, and typically takes three to four years to complete.\n\nVocational training, on the other hand, focuses on practical skills for specific jobs. Students learn hands-on techniques and gain real work experience through apprenticeships. Having done vocational training, graduates can enter the workforce quickly and start earning money sooner. Vocational courses are usually shorter and less expensive than university programs. Many employers value the practical skills that vocational graduates bring to the workplace.\n\nThe best choice depends on individual interests, career goals, and learning preferences. Some students thrive in academic environments, while others prefer practical, hands-on learning. Both paths can lead to rewarding careers if students make informed decisions based on their strengths and aspirations.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "University is better than vocational training",
+                  "Both university and vocational training have advantages",
+                  "Vocational training is cheaper than university",
+                  "All students should go to university"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về ưu điểm của cả hai lựa chọn: đại học và đào tạo nghề."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, what is an advantage of university education?",
+                "options": [
+                  "It's cheaper than vocational training",
+                  "It takes less time to complete",
+                  "It provides access to higher-paying jobs",
+                  "It focuses only on practical skills"
+                ],
+                "correct": 2,
+                "explanation": "Giáo dục đại học mang lại cơ hội tiếp cận công việc lương cao hơn."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'hands-on' in paragraph 3 is closest in meaning to ______.",
+                "options": [
+                  "theoretical",
+                  "practical",
+                  "expensive",
+                  "difficult"
+                ],
+                "correct": 1,
+                "explanation": "Hands-on = practical (thực hành, thực tế)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What is an advantage of vocational training?",
+                "options": [
+                  "It takes longer than university",
+                  "It's more expensive",
+                  "Graduates can start working sooner",
+                  "It only teaches theory"
+                ],
+                "correct": 2,
+                "explanation": "Sinh viên tốt nghiệp đào tạo nghề có thể bắt đầu làm việc sớm hơn."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, how should students choose between university and vocational training?",
+                "options": [
+                  "Always choose university",
+                  "Based on what their parents want",
+                  "Based on their interests and career goals",
+                  "Choose the cheaper option"
+                ],
+                "correct": 2,
+                "explanation": "Học sinh nên chọn dựa trên sở thích và mục tiêu nghề nghiệp của mình."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ completed the course, she received a certificate.",
+            "options": ["Have", "Having", "Has", "Had"],
+            "correct": 1,
+            "explanation": "Perfect participle clause: Having + V3/ed để rút gọn mệnh đề."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "He admitted ______ a mistake in his application.",
+            "options": ["make", "to make", "having made", "made"],
+            "correct": 2,
+            "explanation": "Sau 'admit' dùng perfect gerund (having + V3/ed) để nhấn mạnh hành động đã hoàn thành."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "______ studied science subjects helped me choose my degree.",
+            "options": ["Have", "Having", "Has", "Had"],
+            "correct": 1,
+            "explanation": "Perfect gerund làm chủ ngữ: Having + V3/ed + V(singular)."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "She wants to pursue a ______ in medicine.",
+            "options": ["career", "work", "job", "employment"],
+            "correct": 0,
+            "explanation": "Pursue a career: theo đuổi sự nghiệp."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "______ training focuses on practical skills for specific jobs.",
+            "options": ["Academic", "Vocational", "Theoretical", "General"],
+            "correct": 1,
+            "explanation": "Vocational training: đào tạo nghề, tập trung vào kỹ năng thực hành."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ finished school, he took a gap year to travel.",
+            "options": ["Have", "Having", "Has", "Had"],
+            "correct": 1,
+            "explanation": "Perfect participle clause: Having finished = After he had finished."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "You need certain ______ to apply for this job.",
+            "options": ["qualify", "qualifications", "qualified", "qualifying"],
+            "correct": 1,
+            "explanation": "Qualifications (n): bằng cấp, trình độ."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "She regretted ______ harder at school.",
+            "options": ["not study", "not to study", "not having studied", "not studied"],
+            "correct": 2,
+            "explanation": "Sau 'regret' dùng perfect gerund. Phủ định: not having + V3/ed."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "An ______ program allows you to learn while working.",
+            "options": ["apprentice", "apprenticeship", "apprenticed", "apprenticing"],
+            "correct": 1,
+            "explanation": "Apprenticeship (n): chương trình học nghề."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______ gained practical experience, he found a job easily.",
+            "options": ["Have", "Having", "Has", "Had"],
+            "correct": 1,
+            "explanation": "Perfect participle clause: Having gained = Because he had gained."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Perfect gerunds are used to emphasize actions completed before another action.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Perfect gerunds (having + V3/ed) nhấn mạnh hành động đã hoàn thành trước hành động khác."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "Vocational training focuses on theoretical knowledge rather than practical skills.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Đào tạo nghề tập trung vào kỹ năng thực hành, không phải kiến thức lý thuyết."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Perfect participle clauses can be used to reduce time and reason clauses.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Mệnh đề phân từ hoàn thành có thể rút gọn mệnh đề chỉ thời gian và nguyên nhân."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call a student who has just finished high school? (one word with hyphen)",
+            "correct": "school-leaver",
+            "explanation": "School-leaver: học sinh tốt nghiệp trung học."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: ______ finished the course, she got a job. (Having)",
+            "correct": "Having",
+            "explanation": "Perfect participle clause: Having finished = After she had finished."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-4-p3",
+  "name": "Part 3: Language - Grammar",
+  "slug": "p3-grammar",
+  "description": "Thì hiện tại hoàn thành và so sánh kép",
+  "duration_minutes": 60,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Grammar: Present Perfect and Double Comparatives",
+      "sections": [
+        {
+          "heading": "A. Present Perfect Tense (Thì hiện tại hoàn thành)",
+          "content": "<p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + have/has + V3/ed</li><li>Ex: Urbanisation <strong>has increased</strong> rapidly.</li><li>Ex: Many people <strong>have moved</strong> to cities.</li><li><strong>Phủ định:</strong> S + have/has not (haven't/hasn't) + V3/ed</li><li>Ex: The government <strong>hasn't solved</strong> the problem yet.</li><li><strong>Nghi vấn:</strong> Have/Has + S + V3/ed?</li><li>Ex: <strong>Have</strong> you <strong>visited</strong> the new urban area?</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Hành động bắt đầu trong quá khứ, tiếp tục đến hiện tại:</strong></li><li>Ex: I <strong>have lived</strong> in this city <strong>for</strong> 10 years. (vẫn đang sống)</li><li>Ex: Traffic congestion <strong>has been</strong> a problem <strong>since</strong> 2010.</li><li><strong>Hành động vừa mới xảy ra (just, recently, lately):</strong></li><li>Ex: The city <strong>has just opened</strong> a new metro line.</li><li><strong>Kinh nghiệm đến hiện tại (ever, never, before):</strong></li><li>Ex: <strong>Have</strong> you <strong>ever been</strong> to a slum area?</li><li><strong>Hành động đã hoàn thành, kết quả còn ở hiện tại (already, yet):</strong></li><li>Ex: They <strong>have already built</strong> new housing. (nhà đã xây xong)</li><li>Ex: We <strong>haven't finished</strong> the project <strong>yet</strong>.</li></ul><p><strong>3. Dấu hiệu nhận biết:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>For + khoảng thời gian:</strong> for 5 years, for a long time</li><li><strong>Since + mốc thời gian:</strong> since 2010, since last year</li><li><strong>Already, yet, just, recently, lately, ever, never, before, so far, up to now</strong></li></ul>"
+        },
+        {
+          "heading": "B. Double Comparatives (So sánh kép)",
+          "content": "<p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>The + comparative + S + V, the + comparative + S + V</strong></li><li>Nghĩa: Càng... thì càng...</li></ul><p><strong>2. Với tính từ/trạng từ ngắn:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>The + adj/adv-er + S + V, the + adj/adv-er + S + V</strong></li><li>Ex: <strong>The bigger</strong> the city is, <strong>the more crowded</strong> it becomes.</li><li>Ex: <strong>The faster</strong> urbanisation happens, <strong>the worse</strong> the problems get.</li></ul><p><strong>3. Với tính từ/trạng từ dài:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>The more + adj/adv + S + V, the more + adj/adv + S + V</strong></li><li>Ex: <strong>The more expensive</strong> housing becomes, <strong>the harder</strong> it is to afford.</li><li>Ex: <strong>The more rapidly</strong> cities expand, <strong>the more difficult</strong> planning becomes.</li></ul><p><strong>4. Với danh từ:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>The more + noun + S + V, the more + noun + S + V</strong></li><li>Ex: <strong>The more people</strong> migrate, <strong>the more problems</strong> arise.</li><li>Ex: <strong>The more infrastructure</strong> we build, <strong>the better</strong> life becomes.</li></ul><p><strong>5. Các trường hợp đặc biệt:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>good → better:</strong> The better the planning, the better the results.</li><li><strong>bad → worse:</strong> The worse the traffic, the more stressed people feel.</li><li><strong>many/much → more:</strong> The more money invested, the faster development happens.</li><li><strong>little → less:</strong> The less space available, the higher the prices.</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "grammar-ex1",
+        "type": "mcq",
+        "question": "Choose the correct form: 'The city _____ a lot in recent years.'",
+        "options": ["changed", "has changed", "is changing", "changes"],
+        "correct": 1,
+        "explanation": "Present Perfect 'has changed' vì có 'in recent years'."
+      },
+      {
+        "id": "grammar-ex2",
+        "type": "mcq",
+        "question": "Complete: 'I _____ in this city for 10 years.'",
+        "options": ["live", "lived", "have lived", "am living"],
+        "correct": 2,
+        "explanation": "Present Perfect 'have lived' với 'for 10 years'."
+      },
+      {
+        "id": "grammar-ex3",
+        "type": "mcq",
+        "question": "Choose the correct sentence:",
+        "options": [
+          "The bigger the city, the more crowded it becomes.",
+          "The bigger city, more crowded it becomes.",
+          "Bigger the city, crowded it becomes.",
+          "The city bigger, it crowded."
+        ],
+        "correct": 0,
+        "explanation": "Cấu trúc so sánh kép đúng: The + comparative..., the + comparative..."
+      },
+      {
+        "id": "grammar-ex4",
+        "type": "mcq",
+        "question": "Complete: 'They _____ the new metro line yet.'",
+        "options": ["haven't opened", "didn't open", "don't open", "aren't opening"],
+        "correct": 0,
+        "explanation": "Present Perfect negative 'haven't opened' với 'yet'."
+      },
+      {
+        "id": "grammar-ex5",
+        "type": "mcq",
+        "question": "Choose the correct form: 'The more people migrate, the _____ housing becomes.'",
+        "options": ["expensive", "more expensive", "most expensive", "expensiver"],
+        "correct": 1,
+        "explanation": "So sánh kép với tính từ dài: the more expensive."
+      },
+      {
+        "id": "grammar-ex6",
+        "type": "mcq",
+        "question": "Complete: '_____ you ever _____ to a big city?'",
+        "options": ["Did/go", "Have/been", "Do/go", "Are/going"],
+        "correct": 1,
+        "explanation": "Present Perfect 'Have you ever been' cho kinh nghiệm."
+      },
+      {
+        "id": "grammar-ex7",
+        "type": "mcq",
+        "question": "Choose the correct form: 'The _____ the city grows, the _____ problems arise.'",
+        "options": ["fast/many", "faster/more", "fastest/most", "fast/more"],
+        "correct": 1,
+        "explanation": "So sánh kép: The faster..., the more..."
+      },
+      {
+        "id": "grammar-ex8",
+        "type": "mcq",
+        "question": "Complete: 'Urbanisation _____ rapidly since 2000.'",
+        "options": ["increased", "has increased", "is increasing", "increases"],
+        "correct": 1,
+        "explanation": "Present Perfect 'has increased' với 'since 2000'."
+      },
+      {
+        "id": "grammar-ex9",
+        "type": "mcq",
+        "question": "Choose the correct sentence:",
+        "options": [
+          "The more money we invest, the better infrastructure we have.",
+          "More money we invest, better infrastructure we have.",
+          "The money more, the infrastructure better.",
+          "More the money, better the infrastructure."
+        ],
+        "correct": 0,
+        "explanation": "Cấu trúc so sánh kép với danh từ: The more + noun..., the + comparative..."
+      },
+      {
+        "id": "grammar-ex10",
+        "type": "mcq",
+        "question": "Complete: 'She _____ just _____ from the countryside.'",
+        "options": ["has/moved", "have/moved", "did/move", "is/moving"],
+        "correct": 0,
+        "explanation": "Present Perfect 'has just moved' với 'just'."
+      },
+      {
+        "id": "grammar-ex11",
+        "type": "mcq",
+        "question": "Which sentence is correct?",
+        "options": [
+          "I live here for 5 years.",
+          "I have lived here for 5 years.",
+          "I am living here for 5 years.",
+          "I lived here for 5 years."
+        ],
+        "correct": 1,
+        "explanation": "Present Perfect 'have lived' cho hành động từ quá khứ đến hiện tại."
+      },
+      {
+        "id": "grammar-ex12",
+        "type": "mcq",
+        "question": "Complete: 'The _____ traffic gets, the _____ people feel.'",
+        "options": ["bad/stress", "worse/more stressed", "worst/most stressed", "bad/stressed"],
+        "correct": 1,
+        "explanation": "So sánh kép: The worse..., the more stressed..."
+      },
+      {
+        "id": "grammar-ex13",
+        "type": "mcq",
+        "question": "Choose the correct form: 'Many high-rise buildings _____ in the city.'",
+        "options": ["built", "have been built", "are building", "build"],
+        "correct": 1,
+        "explanation": "Present Perfect passive 'have been built'."
+      },
+      {
+        "id": "grammar-ex14",
+        "type": "mcq",
+        "question": "Complete: 'The _____ the population, the _____ resources we need.'",
+        "options": ["large/many", "larger/more", "largest/most", "large/more"],
+        "correct": 1,
+        "explanation": "So sánh kép: The larger..., the more..."
+      },
+      {
+        "id": "grammar-ex15",
+        "type": "mcq",
+        "question": "Which is correct with 'already'?",
+        "options": [
+          "They already have finished.",
+          "They have already finished.",
+          "They have finished already.",
+          "Both B and C are correct."
+        ],
+        "correct": 3,
+        "explanation": "'Already' có thể đứng giữa 'have' và V3, hoặc cuối câu."
+      },
+      {
+        "id": "grammar-ex16",
+        "type": "msq",
+        "question_text": "Decide if these sentences use Present Perfect correctly (True/False):",
+        "options": [
+          "I have lived here since 2010.",
+          "She has just arrived.",
+          "They have moved last year.",
+          "Have you ever been to Hanoi?"
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - đúng cấu trúc với 'since'. b) True - đúng với 'just'. c) False - phải dùng 'moved' (quá khứ đơn) với 'last year'. d) True - đúng với 'ever'."
+      },
+      {
+        "id": "grammar-ex17",
+        "type": "msq",
+        "question_text": "Decide if these double comparatives are correct (True/False):",
+        "options": [
+          "The bigger the city, the more crowded it is.",
+          "The more people, the more problems.",
+          "The city bigger, it crowded more.",
+          "The better the planning, the better the results."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - đúng cấu trúc. b) True - đúng với danh từ. c) False - sai cấu trúc. d) True - đúng với 'better'."
+      },
+      {
+        "id": "grammar-ex18",
+        "type": "sa",
+        "question_text": "Complete: I _____ (live) in this city for 5 years. (use Present Perfect)",
+        "correct": "have lived",
+        "explanation": "Present Perfect: have lived (với 'for 5 years')."
+      },
+      {
+        "id": "grammar-ex19",
+        "type": "sa",
+        "question_text": "Complete: The _____ (big) the city, the _____ (crowded) it becomes.",
+        "correct": "bigger, more crowded",
+        "explanation": "So sánh kép: The bigger..., the more crowded..."
+      },
+      {
+        "id": "grammar-ex20",
+        "type": "sa",
+        "question_text": "Complete: She _____ (just/move) to the city. (use Present Perfect)",
+        "correct": "has just moved",
+        "explanation": "Present Perfect: has just moved (với 'just')."
+      }
+    ]
+  }
+}

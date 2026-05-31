@@ -1,0 +1,447 @@
+{
+  "subject": "Tiếng Anh 10",
+  "subject_id": 40,
+  "lessons": [
+    {
+      "id": "anh10-unit-1-family-life",
+      "name": "Unit 1: Family Life",
+      "slug": "unit-1-family-life",
+      "chapter": "Unit 1: Family Life",
+      "chapter_id": "A10",
+      "lesson_id": 1,
+      "description": "Học về cuộc sống gia đình, công việc nhà và thì hiện tại đơn, hiện tại tiếp diễn.",
+      "duration_minutes": 300,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=2070&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh10-unit-1-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về cuộc sống gia đình và phân chia công việc nhà",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh10-unit-1-p1-getting-started.json"
+        },
+        {
+          "id": "anh10-unit-1-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về công việc nhà và cuộc sống gia đình",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh10-unit-1-p2-vocabulary.json"
+        },
+        {
+          "id": "anh10-unit-1-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Thì hiện tại đơn và hiện tại tiếp diễn (Present Simple and Present Continuous)",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh10-unit-1-p3-grammar.json"
+        },
+        {
+          "id": "anh10-unit-1-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về lợi ích của việc chia sẻ công việc nhà",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh10-unit-1-p4-reading.json"
+        },
+        {
+          "id": "anh10-unit-1-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về công việc nhà trong gia đình",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh10-unit-1-p5-speaking.json"
+        },
+        {
+          "id": "anh10-unit-1-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về cuộc sống gia đình",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh10-unit-1-p6-listening.json"
+        },
+        {
+          "id": "anh10-unit-1-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về công việc nhà trong gia đình bạn",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh10-unit-1-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-1",
+          "name": "Family Vocabulary",
+          "slug": "family-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 1: Family Life",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Breadwinner</td><td class='px-4 py-2'>/ˈbredwɪnə(r)/</td><td class='px-4 py-2'>Trụ cột gia đình</td><td class='px-4 py-2'>My father is the breadwinner.</td></tr><tr><td class='px-4 py-2 font-bold'>Homemaker</td><td class='px-4 py-2'>/ˈhəʊmmeɪkə(r)/</td><td class='px-4 py-2'>Người nội trợ</td><td class='px-4 py-2'>My mother is a homemaker.</td></tr><tr><td class='px-4 py-2 font-bold'>Household chores</td><td class='px-4 py-2'>/ˈhaʊshəʊld tʃɔːz/</td><td class='px-4 py-2'>Công việc nhà</td><td class='px-4 py-2'>We share household chores.</td></tr><tr><td class='px-4 py-2 font-bold'>Groceries</td><td class='px-4 py-2'>/ˈɡrəʊsəriz/</td><td class='px-4 py-2'>Thực phẩm và tạp hóa</td><td class='px-4 py-2'>Mum shops for groceries.</td></tr><tr><td class='px-4 py-2 font-bold'>Heavy lifting</td><td class='px-4 py-2'>/ˌhevi ˈlɪftɪŋ/</td><td class='px-4 py-2'>Công việc nặng nhọc</td><td class='px-4 py-2'>Dad does the heavy lifting.</td></tr><tr><td class='px-4 py-2 font-bold'>Laundry</td><td class='px-4 py-2'>/ˈlɔːndri/</td><td class='px-4 py-2'>Việc giặt ủi</td><td class='px-4 py-2'>I do the laundry on weekends.</td></tr><tr><td class='px-4 py-2 font-bold'>Washing-up</td><td class='px-4 py-2'>/ˌwɒʃɪŋ ˈʌp/</td><td class='px-4 py-2'>Việc rửa bát</td><td class='px-4 py-2'>I do the washing-up after dinner.</td></tr><tr><td class='px-4 py-2 font-bold'>Rubbish</td><td class='px-4 py-2'>/ˈrʌbɪʃ/</td><td class='px-4 py-2'>Rác</td><td class='px-4 py-2'>We put out the rubbish daily.</td></tr><tr><td class='px-4 py-2 font-bold'>Responsibility</td><td class='px-4 py-2'>/rɪˌspɒnsəˈbɪləti/</td><td class='px-4 py-2'>Trách nhiệm</td><td class='px-4 py-2'>Children learn responsibility.</td></tr><tr><td class='px-4 py-2 font-bold'>Split/Divide</td><td class='px-4 py-2'>/splɪt/ /dɪˈvaɪd/</td><td class='px-4 py-2'>Phân chia</td><td class='px-4 py-2'>We split the chores equally.</td></tr><tr><td class='px-4 py-2 font-bold'>Bond</td><td class='px-4 py-2'>/bɒnd/</td><td class='px-4 py-2'>Sự gắn kết</td><td class='px-4 py-2'>It strengthens family bonds.</td></tr><tr><td class='px-4 py-2 font-bold'>Gratitude</td><td class='px-4 py-2'>/ˈɡrætɪtuːd/</td><td class='px-4 py-2'>Lòng biết ơn</td><td class='px-4 py-2'>Children learn gratitude.</td></tr><tr><td class='px-4 py-2 font-bold'>Contribute</td><td class='px-4 py-2'>/kənˈtrɪbjuːt/</td><td class='px-4 py-2'>Đóng góp</td><td class='px-4 py-2'>Everyone contributes to housework.</td></tr><tr><td class='px-4 py-2 font-bold'>Benefit</td><td class='px-4 py-2'>/ˈbenɪfɪt/</td><td class='px-4 py-2'>Lợi ích</td><td class='px-4 py-2'>Sharing chores has many benefits.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Collocations về công việc nhà:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>do the laundry:</strong> giặt quần áo</li><li><strong>do the washing-up:</strong> rửa bát</li><li><strong>do the shopping:</strong> đi mua sắm</li><li><strong>do the cooking:</strong> nấu ăn</li><li><strong>do the cleaning:</strong> dọn dẹp</li><li><strong>make the bed:</strong> dọn giường</li><li><strong>take out the rubbish:</strong> đổ rác</li><li><strong>sweep/mop the floor:</strong> quét/lau nhà</li><li><strong>water the plants:</strong> tưới cây</li><li><strong>iron the clothes:</strong> là/ủi quần áo</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ pháp: Thì hiện tại đơn & hiện tại tiếp diễn",
+              "content": "<h3>A. Present Simple (Hiện tại đơn)</h3><p><strong>Công thức:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khẳng định: S + V(s/es)</li><li>Phủ định: S + do/does + not + V(inf)</li><li>Nghi vấn: Do/Does + S + V(inf)?</li></ul><p><strong>Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Thói quen, hành động lặp đi lặp lại</li><li>Sự thật hiển nhiên, chân lý</li><li>Lịch trình, thời gian biểu</li></ul><p><strong>Dấu hiệu:</strong> always, usually, often, sometimes, rarely, never, every day/week/month...</p><h3>B. Present Continuous (Hiện tại tiếp diễn)</h3><p><strong>Công thức:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khẳng định: S + am/is/are + V-ing</li><li>Phủ định: S + am/is/are + not + V-ing</li><li>Nghi vấn: Am/Is/Are + S + V-ing?</li></ul><p><strong>Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hành động đang xảy ra tại thời điểm nói</li><li>Kế hoạch, dự định trong tương lai gần</li><li>Hành động tạm thời</li></ul><p><strong>Dấu hiệu:</strong> now, at the moment, at present, Look!, Listen!, Be quiet!...</p><h3>C. Stative Verbs (Động từ trạng thái)</h3><p>Không dùng thì tiếp diễn với các động từ: <em>like, love, hate, want, need, prefer, know, understand, believe, remember, forget, seem, belong...</em></p>"
+            },
+            {
+              "heading": "4. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Giới thiệu về cuộc sống gia đình và việc phân chia công việc nhà.</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về các thành viên trong gia đình và vai trò của họ</li><li>Thảo luận về việc chia sẻ công việc nhà</li><li>Từ vựng về các công việc gia đình thường ngày</li></ul>"
+            },
+            {
+              "heading": "5. II. Language",
+              "content": "<p><strong>A. Pronunciation: /br/, /kr/, /tr/</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>/br/:</strong> breadwinner, breakfast, brown, brother</li><li><strong>/kr/:</strong> crash, crane, cream, crisp</li><li><strong>/tr/:</strong> track, tree, train, trash</li></ul><p><strong>B. Vocabulary:</strong> Household chores and family life</p><p><strong>C. Grammar:</strong> Present Simple vs Present Continuous</p>"
+            },
+            {
+              "heading": "6. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Sharing housework - Benefits of sharing household chores</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu văn bản về lợi ích của việc chia sẻ công việc nhà</li><li>Tìm thông tin chi tiết trong bài đọc</li><li>Hiểu ý chính của đoạn văn</li></ul><p><strong>Nội dung:</strong> Bài đọc nói về việc chia sẻ công việc nhà giúp tăng cường sự gắn kết gia đình, dạy trẻ em về trách nhiệm và tạo môi trường sống hạnh phúc hơn.</p>"
+            },
+            {
+              "heading": "7. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Talking about household chores in your family</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả công việc nhà mà các thành viên trong gia đình làm</li><li>Thảo luận về cách phân chia công việc công bằng</li><li>Đưa ra ý kiến về tầm quan trọng của việc chia sẻ công việc nhà</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>In my family, my father/mother usually...</li><li>I'm responsible for...</li><li>We share/divide the chores equally.</li><li>I think it's important to...</li></ul>"
+            },
+            {
+              "heading": "8. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> A family's daily routines and household responsibilities</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu thông tin về công việc nhà của các thành viên</li><li>Điền thông tin còn thiếu</li><li>Trả lời câu hỏi chi tiết</li></ul>"
+            },
+            {
+              "heading": "9. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing about family routines</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đoạn văn mô tả công việc nhà trong gia đình</li><li>Sử dụng thì hiện tại đơn để mô tả thói quen</li><li>Sử dụng từ nối: First, Second, Finally, Moreover, In addition...</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Introduction: Giới thiệu về gia đình</li><li>Body: Mô tả công việc của từng thành viên</li><li>Conclusion: Nêu lợi ích của việc chia sẻ công việc</li></ul>"
+            },
+            {
+              "heading": "10. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Discussing family values and traditions</p><p><strong>Culture:</strong> Family life in different countries</p><ul class='list-disc pl-5 space-y-2'><li>So sánh cuộc sống gia đình ở Việt Nam và các nước khác</li><li>Tìm hiểu về vai trò của các thành viên trong gia đình ở các nền văn hóa khác nhau</li><li>Thảo luận về sự thay đổi của vai trò giới trong gia đình hiện đại</li></ul>"
+            },
+            {
+              "heading": "11. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vocabulary: Household chores and family life</li><li>Pronunciation: /br/, /kr/, /tr/</li><li>Grammar: Present Simple vs Present Continuous</li><li>Skills: Reading, Speaking, Listening, Writing</li></ul>"
+            },
+            {
+              "heading": "12. IX. Project",
+              "content": "<p><strong>Đề tài:</strong> Family Life Survey</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khảo sát về việc phân chia công việc nhà trong các gia đình</li><li>Thu thập dữ liệu và phân tích</li><li>Trình bày kết quả bằng biểu đồ hoặc poster</li><li>Đưa ra kết luận và đề xuất</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Phonetics",
+            "method": "<p>Choose the word whose underlined part is pronounced differently.</p>",
+            "examples": []
+          },
+          {
+            "id": "dang2",
+            "name": "Type 2: Vocabulary & Grammar",
+            "method": "<p>Select the correct answer to complete each sentence.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "In modern families, sharing household chores has become increasingly important. When family members work together to maintain the home, it creates a sense of unity and teaches valuable life skills.\n\nMy family is a good example of this. My father, who is the breadwinner, still helps with heavy lifting and repairs around the house. My mother, a homemaker, manages most of the cooking and cleaning, but we all contribute. My sister and I take turns doing the laundry and washing up after meals.\n\nSharing housework has many benefits. It teaches children responsibility and gratitude. When I help my parents with chores, I understand how much work goes into running a household. It also strengthens family bonds because we spend time together and support each other.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Household chores are difficult",
+                  "Sharing housework benefits the whole family",
+                  "Only parents should do housework",
+                  "Children should not help with chores"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về lợi ích của việc chia sẻ công việc nhà cho cả gia đình."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "Who is the breadwinner in the writer's family?",
+                "options": [
+                  "The mother",
+                  "The father",
+                  "The sister",
+                  "The writer"
+                ],
+                "correct": 1,
+                "explanation": "Câu 'My father, who is the breadwinner' cho biết bố là trụ cột gia đình."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "What does the writer learn from doing housework?",
+                "options": [
+                  "How to cook well",
+                  "How much work goes into running a household",
+                  "How to earn money",
+                  "How to avoid chores"
+                ],
+                "correct": 1,
+                "explanation": "Tác giả hiểu được 'how much work goes into running a household' khi giúp bố mẹ."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "The word 'contribute' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "help and participate",
+                  "watch and wait",
+                  "complain and argue",
+                  "rest and relax"
+                ],
+                "correct": 0,
+                "explanation": "Contribute = help and participate (giúp đỡ và tham gia)."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, sharing housework ______.",
+                "options": [
+                  "makes children tired",
+                  "strengthens family bonds",
+                  "causes family conflicts",
+                  "wastes time"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn cuối nói 'It also strengthens family bonds'."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "My father usually does the ______ lifting, while my mother does the cooking.",
+            "options": [
+              "strong",
+              "heavy",
+              "hard",
+              "big"
+            ],
+            "correct": 1,
+            "explanation": "Collocation: 'heavy lifting' (công việc nặng nhọc)."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "In my family, we ______ the household chores equally.",
+            "options": [
+              "split",
+              "take",
+              "make",
+              "give"
+            ],
+            "correct": 0,
+            "explanation": "Split/divide the chores: phân chia công việc nhà."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "Doing housework helps children learn to take ______.",
+            "options": [
+              "responsible",
+              "responsibility",
+              "responsibly",
+              "irresponsible"
+            ],
+            "correct": 1,
+            "explanation": "Cần danh từ sau 'take'. Take responsibility: chịu trách nhiệm."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "My mother is a ______. She stays at home and takes care of the family.",
+            "options": [
+              "breadwinner",
+              "homemaker",
+              "worker",
+              "manager"
+            ],
+            "correct": 1,
+            "explanation": "Homemaker: người nội trợ."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "Be quiet! The baby ______ in the bedroom.",
+            "options": [
+              "sleeps",
+              "slept",
+              "is sleeping",
+              "sleep"
+            ],
+            "correct": 2,
+            "explanation": "Dấu hiệu 'Be quiet!' -> Hiện tại tiếp diễn."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "My sister ______ the washing-up every evening after dinner.",
+            "options": [
+              "do",
+              "does",
+              "is doing",
+              "doing"
+            ],
+            "correct": 1,
+            "explanation": "Thói quen hàng ngày (every evening) -> Hiện tại đơn."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "I ______ that doing chores is good for children.",
+            "options": [
+              "am thinking",
+              "think",
+              "thinks",
+              "thought"
+            ],
+            "correct": 1,
+            "explanation": "'Think' chỉ quan điểm là động từ trạng thái, không dùng continuous."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "Right now, my brother ______ the floor.",
+            "options": [
+              "sweeps",
+              "is sweeping",
+              "swept",
+              "sweep"
+            ],
+            "correct": 1,
+            "explanation": "Dấu hiệu 'Right now' -> Hiện tại tiếp diễn."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "We need to buy some ______ for this week.",
+            "options": [
+              "groceries",
+              "rubbish",
+              "laundry",
+              "furniture"
+            ],
+            "correct": 0,
+            "explanation": "Groceries: thực phẩm và tạp hóa."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Sharing housework strengthens the ______ between family members.",
+            "options": [
+              "bonds",
+              "views",
+              "chores",
+              "routines"
+            ],
+            "correct": 0,
+            "explanation": "Strengthen bonds: củng cố sự gắn kết."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Children should help with household chores to learn responsibility.",
+            "options": [
+              "True",
+              "False"
+            ],
+            "correct": 0,
+            "explanation": "Đúng. Làm việc nhà giúp trẻ học được trách nhiệm."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "The present continuous tense is used for habits and routines.",
+            "options": [
+              "True",
+              "False"
+            ],
+            "correct": 1,
+            "explanation": "Sai. Present continuous dùng cho hành động đang xảy ra, không phải thói quen."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Stative verbs like 'love' and 'know' can be used in continuous tenses.",
+            "options": [
+              "True",
+              "False"
+            ],
+            "correct": 1,
+            "explanation": "Sai. Động từ trạng thái không dùng ở thì tiếp diễn."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do you call a person who earns money to support the family? (one word)",
+            "correct": "breadwinner",
+            "explanation": "Breadwinner: trụ cột gia đình, người kiếm tiền nuôi gia đình."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: We ______ the rubbish every day. (take out)",
+            "correct": "take out",
+            "explanation": "Take out the rubbish: đổ rác (collocation)."
+          },
+          {
+            "id": "phonetics1",
+            "type": "mcq",
+            "question": "Choose the word whose underlined part is pronounced differently: **br**eadwinner, **br**eakfast, **br**own, **tr**ain",
+            "options": [
+              "breadwinner",
+              "breakfast",
+              "brown",
+              "train"
+            ],
+            "correct": 3,
+            "explanation": "Câu D phát âm là /tr/ (train), các câu còn lại là /br/."
+          },
+          {
+            "id": "phonetics2",
+            "type": "mcq",
+            "question": "Choose the word whose underlined part is pronounced differently: **cr**eam, **cr**ane, **tr**ack, **cr**ash",
+            "options": [
+              "cream",
+              "crane",
+              "track",
+              "crash"
+            ],
+            "correct": 2,
+            "explanation": "Câu C phát âm là /tr/ (track), các câu còn lại là /kr/."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write a paragraph (100-120 words) about the benefits of sharing household chores in a family.",
+            "explanation": "Gợi ý: Nêu lợi ích như gắn kết gia đình, dạy trách nhiệm, giảm gánh nặng cho cha mẹ..."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-10-p6",
+  "name": "Part 6: Listening",
+  "slug": "p6-listening",
+  "description": "Nghe về học trực tuyến",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Listening: A Talk About Online Learning",
+      "sections": [
+        {
+          "heading": "Listening Script: Online Learning Success",
+          "content": "<div class='bg-gradient-to-r from-green-50 to-teal-50 dark:from-green-900/20 dark:to-teal-900/20 p-6 rounded-xl'><p class='mb-4'><strong>Speaker:</strong> Good morning, everyone. Today I want to share my experience with online learning and give you some advice that helped me succeed.</p><p class='mb-4'>When I started, my mentor told me to choose courses carefully. She advised me to read reviews and check instructor credentials before enrolling. She also recommended that I should start with beginner-level courses to build confidence.</p><p class='mb-4'>My first instructor was excellent. He told us to create a study schedule and stick to it. He advised us to dedicate specific times each day for learning. He also suggested joining study groups to stay motivated. He offered to answer questions during weekly office hours and volunteered to review our assignments personally.</p><p class='mb-4'>One important lesson I learned: my career counselor warned me not to enroll in too many courses simultaneously. She advised me to focus on completing one course before starting another. She also suggested that I should apply what I learn immediately in real projects.</p><p class='mb-4'>The platform administrators asked us to participate actively in discussion forums. They requested that we help fellow learners when possible. They also encouraged us not to be afraid of asking questions. This community support made a huge difference.</p><p class='mb-4'>My manager offered to cover course fees if they were relevant to my job. He also volunteered to give me time during work hours for learning. He told me to share what I learned with the team and suggested organizing internal workshops.</p><p class='mb-4'>In conclusion, online learning requires discipline, but the rewards are worth it. My advice to you: start today, stay consistent, and never stop learning. Thank you!</p></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "listening-ex1",
+        "type": "mcq",
+        "question": "What is the main topic of the talk?",
+        "options": ["Avoiding online learning", "Success in online learning", "Traditional education", "Giving up learning"],
+        "correct": 1,
+        "explanation": "Chủ đề chính là thành công trong học trực tuyến."
+      },
+      {
+        "id": "listening-ex2",
+        "type": "mcq",
+        "question": "What did the mentor advise about choosing courses?",
+        "options": ["Choose randomly", "Read reviews and check credentials", "Avoid all courses", "Take any course"],
+        "correct": 1,
+        "explanation": "Người cố vấn khuyên đọc đánh giá và kiểm tra thông tin giảng viên."
+      },
+      {
+        "id": "listening-ex3",
+        "type": "mcq",
+        "question": "What did the first instructor tell students to do?",
+        "options": ["Skip classes", "Create a study schedule", "Give up", "Avoid studying"],
+        "correct": 1,
+        "explanation": "Giảng viên bảo tạo lịch học."
+      },
+      {
+        "id": "listening-ex4",
+        "type": "mcq",
+        "question": "What did the instructor suggest for motivation?",
+        "options": ["Study alone always", "Join study groups", "Avoid others", "Never practice"],
+        "correct": 1,
+        "explanation": "Giảng viên gợi ý tham gia nhóm học tập."
+      },
+      {
+        "id": "listening-ex5",
+        "type": "mcq",
+        "question": "What did the career counselor warn about?",
+        "options": ["Learning is bad", "Not to enroll in too many courses at once", "Avoid all courses", "Stop learning"],
+        "correct": 1,
+        "explanation": "Cố vấn cảnh báo không nên đăng ký quá nhiều khóa học cùng lúc."
+      },
+      {
+        "id": "listening-ex6",
+        "type": "mcq",
+        "question": "What did the counselor suggest about learning?",
+        "options": ["Never apply it", "Apply what you learn in real projects", "Forget it", "Ignore it"],
+        "correct": 1,
+        "explanation": "Cố vấn gợi ý áp dụng những gì học vào dự án thực tế."
+      },
+      {
+        "id": "listening-ex7",
+        "type": "mcq",
+        "question": "What did platform administrators ask students to do?",
+        "options": ["Stay silent", "Participate in discussion forums", "Avoid forums", "Never help others"],
+        "correct": 1,
+        "explanation": "Quản trị viên yêu cầu tham gia diễn đàn thảo luận."
+      },
+      {
+        "id": "listening-ex8",
+        "type": "mcq",
+        "question": "What did the manager offer to do?",
+        "options": ["Nothing", "Cover course fees", "Fire employees", "Stop learning"],
+        "correct": 1,
+        "explanation": "Quản lý đề nghị chi trả học phí."
+      },
+      {
+        "id": "listening-ex9",
+        "type": "mcq",
+        "question": "What did the manager volunteer to give?",
+        "options": ["Nothing", "Time during work hours for learning", "Extra work", "Punishment"],
+        "correct": 1,
+        "explanation": "Quản lý tự nguyện cho thời gian trong giờ làm để học."
+      },
+      {
+        "id": "listening-ex10",
+        "type": "mcq",
+        "question": "What does online learning require according to the speaker?",
+        "options": ["No effort", "Discipline", "Just luck", "Nothing"],
+        "correct": 1,
+        "explanation": "Học trực tuyến đòi hỏi kỷ luật."
+      },
+      {
+        "id": "listening-ex11",
+        "type": "msq",
+        "question_text": "According to the talk, mark True or False:",
+        "options": [
+          "The mentor advised reading reviews before enrolling.",
+          "The instructor told students to skip studying.",
+          "The counselor warned about taking too many courses.",
+          "The manager refused to support learning."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True. b) False - Bảo tạo lịch học. c) True. d) False - Hỗ trợ học tập."
+      },
+      {
+        "id": "listening-ex12",
+        "type": "msq",
+        "question_text": "Decide True or False:",
+        "options": [
+          "The instructor offered to answer questions.",
+          "Study groups are not helpful.",
+          "Administrators encouraged asking questions.",
+          "The manager volunteered to give learning time."
+        ],
+        "correct": [0, 2, 3],
+        "explanation": "a) True. b) False - Nhóm học hữu ích. c) True. d) True."
+      },
+      {
+        "id": "listening-ex13",
+        "type": "msq",
+        "question_text": "Mark True or False:",
+        "options": [
+          "The speaker shares success experience.",
+          "Online learning requires no discipline.",
+          "Community support is important.",
+          "The speaker advises never starting."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True. b) False - Cần kỷ luật. c) True. d) False - Khuyên bắt đầu ngay."
+      },
+      {
+        "id": "listening-ex14",
+        "type": "sa",
+        "question_text": "What should you do before enrolling? (two words)",
+        "correct": "read reviews",
+        "explanation": "Read reviews - đọc đánh giá."
+      },
+      {
+        "id": "listening-ex15",
+        "type": "sa",
+        "question_text": "What did the instructor tell students to create? (two words)",
+        "correct": "study schedule",
+        "explanation": "Study schedule - lịch học."
+      },
+      {
+        "id": "listening-ex16",
+        "type": "sa",
+        "question_text": "What does online learning require? (one word)",
+        "correct": "discipline",
+        "explanation": "Discipline - kỷ luật."
+      },
+      {
+        "id": "listening-ex17",
+        "type": "mcq",
+        "question": "What level courses did the mentor recommend starting with?",
+        "options": ["Advanced", "Beginner", "Expert", "None"],
+        "correct": 1,
+        "explanation": "Người cố vấn đề nghị bắt đầu với khóa học cấp độ người mới bắt đầu."
+      },
+      {
+        "id": "listening-ex18",
+        "type": "mcq",
+        "question": "What did the instructor volunteer to do?",
+        "options": ["Nothing", "Review assignments personally", "Give extra work", "Fail students"],
+        "correct": 1,
+        "explanation": "Giảng viên tự nguyện xem xét bài tập cá nhân."
+      },
+      {
+        "id": "listening-ex19",
+        "type": "mcq",
+        "question": "What did the manager suggest about sharing knowledge?",
+        "options": ["Keep it secret", "Share with the team", "Avoid sharing", "Hide it"],
+        "correct": 1,
+        "explanation": "Quản lý gợi ý chia sẻ với nhóm."
+      },
+      {
+        "id": "listening-ex20",
+        "type": "mcq",
+        "question": "What is the speaker's final advice?",
+        "options": ["Give up", "Start today and stay consistent", "Avoid learning", "Wait forever"],
+        "correct": 1,
+        "explanation": "Lời khuyên cuối cùng là bắt đầu ngay hôm nay và duy trì nhất quán."
+      }
+    ]
+  }
+}

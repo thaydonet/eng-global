@@ -1,0 +1,249 @@
+{
+  "id": "anh12-unit-2-p5",
+  "name": "Part 5: Speaking - Talking about Culture",
+  "content": {
+    "theory": {
+      "title": "Speaking Skills: Discussing Cultural Topics",
+      "sections": [
+        {
+          "heading": "1. Speaking Functions",
+          "content": "<div class='bg-gradient-to-r from-rose-50 to-red-50 dark:from-rose-900/20 dark:to-red-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-rose-900 dark:text-rose-300'>🗣️ Speaking Skills</h3><div class='space-y-3'><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold'>Describing cultural events</h4><p class='text-sm'>The festival takes place... / During this event...</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold'>Expressing opinions</h4><p class='text-sm'>I think... / In my opinion... / I believe that...</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold'>Comparing cultures</h4><p class='text-sm'>X is different from Y... / While X..., Y... / Both X and Y...</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold'>Sharing experiences</h4><p class='text-sm'>When I visited... / I experienced... / It was...</p></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ Speaking",
+          "content": "<div class='space-y-4'><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 1: Describing a Festival</p><p>The Mid-Autumn Festival is one of the most important celebrations in Vietnam. It takes place on the 15th day of the 8th lunar month. During this festival, children carry colorful lanterns and families gather to admire the full moon.</p></div><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 2: Expressing Opinion</p><p>I think cultural diversity is very important because it helps us learn from each other and appreciate different perspectives. In my opinion, we should celebrate our differences.</p></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 3: Comparing Cultures</p><p>Vietnamese culture is quite different from Western culture. For example, we show respect to elders by using formal language, while in Western countries, people are more casual.</p></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 4: Sharing Experience</p><p>When I first visited Japan, I experienced culture shock. Everything was so different - the food, the language, and the customs. However, I gradually adapted and learned to appreciate their culture.</p></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 5: Giving Recommendations</p><p>If you want to overcome culture shock, I recommend learning about the new culture before you go. You should also keep an open mind and be willing to try new things.</p></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p5-ex1",
+        "type": "mcq",
+        "question": "Which phrase is used to express opinion?",
+        "options": ["I visited", "I think that", "I went to", "I saw"],
+        "correct": 1,
+        "explanation": "'I think that' được dùng để bày tỏ ý kiến."
+      },
+      {
+        "id": "p5-ex2",
+        "type": "mcq",
+        "question": "How do you compare two cultures?",
+        "options": ["X is same", "X is different from Y", "X is good", "X is bad"],
+        "correct": 1,
+        "explanation": "'X is different from Y' là cách so sánh hai văn hóa."
+      },
+      {
+        "id": "p5-ex3",
+        "type": "mcq",
+        "question": "Which is a good way to start describing a festival?",
+        "options": ["It's nice", "The festival takes place on...", "I like it", "It's fun"],
+        "correct": 1,
+        "explanation": "Nên bắt đầu bằng thông tin cụ thể về thời gian, địa điểm."
+      },
+      {
+        "id": "p5-ex4",
+        "type": "mcq",
+        "question": "Complete: 'In my opinion, cultural diversity is _____.'",
+        "options": ["boring", "valuable", "useless", "terrible"],
+        "correct": 1,
+        "explanation": "'Valuable' (có giá trị) là từ tích cực phù hợp."
+      },
+      {
+        "id": "p5-ex5",
+        "type": "mcq",
+        "question": "Which expression shows you're sharing an experience?",
+        "options": ["I never did anything", "When I visited Japan, I experienced...", "I don't know", "Maybe not"],
+        "correct": 1,
+        "explanation": "'When I visited..., I experienced...' là cách chia sẻ trải nghiệm."
+      },
+      {
+        "id": "p5-ex6",
+        "type": "mcq",
+        "question": "Choose the best way to give a recommendation: 'If you want to overcome culture shock, I _____ learning about the culture first.'",
+        "options": ["hate", "recommend", "refuse", "avoid"],
+        "correct": 1,
+        "explanation": "'Recommend' (khuyên) là động từ phù hợp để đưa ra lời khuyên."
+      },
+      {
+        "id": "p5-ex7",
+        "type": "mcq",
+        "question": "Complete: 'Vietnamese culture is quite _____ Western culture.'",
+        "options": ["same as", "different from", "identical to", "boring like"],
+        "correct": 1,
+        "explanation": "'Different from' được dùng để so sánh sự khác biệt."
+      },
+      {
+        "id": "p5-ex8",
+        "type": "mcq",
+        "question": "Which phrase introduces a cultural event?",
+        "options": ["I hate festivals", "The Mid-Autumn Festival is one of the most important celebrations", "Festivals are boring", "I don't care"],
+        "correct": 1,
+        "explanation": "Câu này giới thiệu rõ ràng và tích cực về sự kiện văn hóa."
+      },
+      {
+        "id": "p5-ex9",
+        "type": "mcq",
+        "question": "Choose the correct expression: 'During this festival, children _____ colorful lanterns.'",
+        "options": ["destroy", "carry", "hate", "avoid"],
+        "correct": 1,
+        "explanation": "'Carry' (mang) là động từ phù hợp với ngữ cảnh lễ hội."
+      },
+      {
+        "id": "p5-ex10",
+        "type": "mcq",
+        "question": "Which is the best conclusion for a talk about culture?",
+        "options": ["I don't know anything", "In conclusion, cultural diversity enriches our lives", "Maybe yes, maybe no", "I'm confused"],
+        "correct": 1,
+        "explanation": "Kết luận rõ ràng và tích cực về giá trị của đa dạng văn hóa."
+      },
+      {
+        "id": "p5-ex11",
+        "type": "msq",
+        "question_text": "Decide if these speaking strategies for cultural topics are good (True) or bad (False):",
+        "options": [
+          "Use specific examples from your own experience.",
+          "Speak in a monotone voice without emotion.",
+          "Make eye contact with your audience.",
+          "Give vague, general statements without details."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Ví dụ cụ thể làm bài nói sinh động. b) False - Nên có cảm xúc và intonation. c) True - Eye contact tạo kết nối. d) False - Cần chi tiết cụ thể."
+      },
+      {
+        "id": "p5-ex12",
+        "type": "msq",
+        "question_text": "Are these expressions appropriate for discussing culture? Mark True or False:",
+        "options": [
+          "'I believe that respecting other cultures is important.'",
+          "'All foreign cultures are stupid.'",
+          "'In my experience, learning about different cultures is enriching.'",
+          "'I hate everything about other countries.'"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Thể hiện sự tôn trọng. b) False - Thiếu tôn trọng và không phù hợp. c) True - Chia sẻ trải nghiệm tích cực. d) False - Thái độ tiêu cực."
+      },
+      {
+        "id": "p5-ex13",
+        "type": "msq",
+        "question_text": "Read this speaking sample and decide True (T) or False (F):\n\n'I think cultural diversity is very important. For example, in my city, we have restaurants from many countries. This allows us to try different foods and learn about other cultures. However, we should also preserve our own traditions.'",
+        "options": [
+          "The speaker gives a specific example.",
+          "The speaker only talks about food.",
+          "The speaker mentions both benefits and considerations.",
+          "The speaker uses linking words."
+        ],
+        "correct": [0, 2, 3],
+        "explanation": "a) True - Có ví dụ về nhà hàng. b) False - Cũng nói về học văn hóa và bảo tồn truyền thống. c) True - Nói về lợi ích và việc bảo tồn. d) True - Dùng 'For example', 'However'."
+      },
+      {
+        "id": "p5-ex14",
+        "type": "reading",
+        "passage": "Speaking Task: Describe a cultural festival you have experienced.\n\nSample Answer:\n'I'd like to talk about the Tet Festival, which is the Vietnamese Lunar New Year. It usually takes place in late January or early February and lasts for about a week. This is the most important celebration in Vietnamese culture.\n\nDuring Tet, families clean and decorate their homes with peach blossoms and kumquat trees. We prepare special foods like banh chung, which is a square sticky rice cake. On New Year's Eve, the whole family gathers for a reunion dinner. Children receive lucky money in red envelopes from their elders.\n\nWhat makes Tet special is the atmosphere of renewal and hope. People visit relatives, go to pagodas to pray for good fortune, and wish each other a happy new year. The streets are decorated with colorful flowers and red lanterns.\n\nThis festival is important to me because it's a time when our family comes together. It reminds me of our cultural roots and traditions. Even though I'm busy with school, Tet is the one time when I can truly relax and enjoy being with my loved ones. It's a celebration that connects past, present, and future generations.'",
+        "questions": [
+          {
+            "question": "When does Tet usually take place?",
+            "options": ["December", "Late January or early February", "June", "September"],
+            "correct": 1,
+            "explanation": "The speaker states 'It usually takes place in late January or early February'."
+          },
+          {
+            "question": "What do families do to prepare for Tet?",
+            "options": ["Nothing special", "Clean and decorate homes", "Go on vacation", "Close their houses"],
+            "correct": 1,
+            "explanation": "Families 'clean and decorate their homes with peach blossoms and kumquat trees'."
+          },
+          {
+            "question": "What is banh chung?",
+            "options": ["A drink", "A square sticky rice cake", "A flower", "A decoration"],
+            "correct": 1,
+            "explanation": "Banh chung is described as 'a square sticky rice cake'."
+          },
+          {
+            "question": "What do children receive during Tet?",
+            "options": ["Toys", "Lucky money in red envelopes", "Books", "Clothes"],
+            "correct": 1,
+            "explanation": "Children 'receive lucky money in red envelopes from their elders'."
+          },
+          {
+            "question": "Why is Tet important to the speaker?",
+            "options": ["To get money", "Family comes together and connects with traditions", "To skip school", "To travel abroad"],
+            "correct": 1,
+            "explanation": "It's important because 'it's a time when our family comes together' and 'reminds me of our cultural roots'."
+          }
+        ]
+      },
+      {
+        "id": "p5-ex15",
+        "type": "reading",
+        "passage": "Dialogue: Discussing Cultural Differences\n\nMai: Have you ever experienced culture shock?\nJohn: Yes, when I first came to Vietnam. Everything was so different from my country.\nMai: What surprised you the most?\nJohn: The way people greet each other. In Vietnam, younger people bow slightly to show respect to elders. In my country, we just shake hands regardless of age.\nMai: That's interesting. Did you find it difficult to adapt?\nJohn: At first, yes. But I learned to appreciate these customs. They show the importance of family and respect in Vietnamese culture.\nMai: What about food? Was that a challenge?\nJohn: Actually, I love Vietnamese food! The fresh ingredients and variety of flavors are amazing. Though I had to get used to eating with chopsticks.\nMai: I'm glad you adapted well. Do you think experiencing different cultures is valuable?\nJohn: Absolutely. It opens your mind and helps you understand that there are many ways to live. It's made me more tolerant and appreciative of diversity.",
+        "questions": [
+          {
+            "question": "What surprised John most about Vietnamese culture?",
+            "options": ["The food", "The greeting customs", "The weather", "The language"],
+            "correct": 1,
+            "explanation": "John says 'The way people greet each other' surprised him most."
+          },
+          {
+            "question": "How do Vietnamese people show respect to elders?",
+            "options": ["By shaking hands", "By bowing slightly", "By waving", "By hugging"],
+            "correct": 1,
+            "explanation": "Younger people 'bow slightly to show respect to elders'."
+          },
+          {
+            "question": "What did John have to get used to?",
+            "options": ["Eating with chopsticks", "Driving", "Shopping", "Sleeping"],
+            "correct": 0,
+            "explanation": "John 'had to get used to eating with chopsticks'."
+          },
+          {
+            "question": "What does John think about Vietnamese food?",
+            "options": ["He hates it", "He loves it", "He's indifferent", "He avoids it"],
+            "correct": 1,
+            "explanation": "John says 'Actually, I love Vietnamese food!'."
+          },
+          {
+            "question": "What benefit does John mention about experiencing different cultures?",
+            "options": ["Making money", "It opens your mind and increases tolerance", "Getting famous", "Avoiding work"],
+            "correct": 1,
+            "explanation": "John says it 'opens your mind' and made him 'more tolerant and appreciative of diversity'."
+          }
+        ]
+      },
+      {
+        "id": "p5-ex16",
+        "type": "sa",
+        "question_text": "Complete the speaking outline for describing a festival:\n\nIntroduction: I'd like to talk about (1)_____ Festival.\nTime: It takes place (2)_____.\nActivities: During the festival, people (3)_____.\nSignificance: This festival is important because (4)_____.\nPersonal connection: For me, it (5)_____.\nConclusion: (6)_____, this festival represents our cultural heritage.",
+        "correct": "1. the Mid-Autumn/Tet/Christmas (any festival)\n2. on [specific date/time]\n3. [specific activities]\n4. [reason for importance]\n5. [personal meaning]\n6. In conclusion/Overall",
+        "explanation": "Outline cơ bản cho bài nói về lễ hội văn hóa."
+      },
+      {
+        "id": "p5-ex17",
+        "type": "sa",
+        "question_text": "Fill in with appropriate expressions:\n\n1. _____ opinion, cultural diversity is valuable. (In my / In your)\n2. Vietnamese culture _____ Western culture in many ways. (is same as / differs from)\n3. _____ I visited Japan, I experienced culture shock. (When / Never)\n4. I _____ learning about other cultures before traveling. (hate / recommend)",
+        "correct": "1. In my\n2. differs from\n3. When\n4. recommend",
+        "explanation": "Chọn các cụm từ phù hợp với ngữ cảnh nói về văn hóa."
+      },
+      {
+        "id": "p5-ex18",
+        "type": "sa",
+        "question_text": "Complete with linking words [however, for example, moreover, because, in conclusion]:\n\n1. I love Vietnamese food _____ it's healthy and delicious.\n2. _____, pho is a popular dish that tourists enjoy.\n3. The festival is fun. _____, it's also educational.\n4. _____, cultural festivals help preserve traditions.",
+        "correct": "1. because\n2. For example\n3. Moreover\n4. In conclusion",
+        "explanation": "Linking words giúp bài nói mạch lạc hơn."
+      },
+      {
+        "id": "p5-ex19",
+        "type": "sa",
+        "question_text": "Arrange these parts in correct order for describing a cultural experience (1-6):\n\n___ Describe what you did\n___ Give your final thoughts\n___ Introduce the cultural event\n___ Explain why it was meaningful\n___ Say when and where it happened\n___ Share what you learned",
+        "correct": "2, 6, 1, 4, 3, 5",
+        "explanation": "Thứ tự: 1.Introduce 2.When/where 3.What you did 4.Why meaningful 5.What learned 6.Final thoughts"
+      },
+      {
+        "id": "p5-ex20",
+        "type": "essay",
+        "question": "Speaking Task: Prepare a 2-minute talk about 'Living in a Multicultural World'. Write your speaking notes covering:\n\n• What a multicultural world means\n• Examples of cultural diversity around you\n• Benefits of multiculturalism\n• Challenges and how to overcome them\n• Your personal opinion\n• Conclusion\n\nThen practice speaking naturally from your notes.",
+        "answer_guide": "Sample Speaking Notes:\n\nTopic: Living in a Multicultural World\n\nIntro:\n- Multicultural world = many cultures coexist\n- Increasingly common due to globalization\n\nExamples around me:\n- International restaurants (Italian, Japanese, Indian)\n- Friends from different countries\n- Festivals celebrated: Tet, Christmas, Diwali\n- English as common language\n\nBenefits:\n- Learn from others\n- Try new foods, languages, customs\n- Broader perspective\n- More tolerant and open-minded\n- Innovation from diverse ideas\n\nChallenges:\n- Language barriers\n- Cultural misunderstandings\n- Culture shock\n- Sometimes conflicts\n\nHow to overcome:\n- Learn about other cultures\n- Keep open mind\n- Show respect\n- Ask questions politely\n- Be patient and empathetic\n\nPersonal opinion:\n- I think diversity is valuable\n- Makes life more interesting\n- Helps us grow as people\n- Should embrace differences\n- While maintaining own identity\n\nConclusion:\n- Multicultural world = opportunity\n- Benefits outweigh challenges\n- Together we can build understanding\n- Diversity is strength, not weakness\n\n[Practice speaking for 2 minutes, expanding each point naturally with examples and personal experiences. Speak clearly, use appropriate intonation, and maintain good eye contact.]",
+        "explanation": "Bài nói cần có cấu trúc rõ ràng, sử dụng ví dụ cụ thể từ trải nghiệm cá nhân, thể hiện quan điểm cân bằng về lợi ích và thách thức, và kết luận tích cực. Luyện tập nhiều lần để nói tự nhiên và tự tin."
+      }
+    ]
+  }
+}

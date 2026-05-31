@@ -1,0 +1,309 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-unit-12-career-choices",
+      "name": "Unit 12: Career Choices",
+      "slug": "unit-12-career-choices",
+      "chapter": "Unit 12: Career Choices",
+      "chapter_id": "A9",
+      "lesson_id": 12,
+      "description": "Learn about career choices with adverb clauses of concession, result, and reason.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-12",
+          "name": "Career Choices Vocabulary",
+          "slug": "career-choices-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 12: Career Choices",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Careers:</strong> doctor, teacher, engineer, lawyer, nurse, pilot, chef, artist, musician, scientist, programmer, designer, accountant, manager</p><p><strong>Skills:</strong> communication, teamwork, leadership, problem-solving, creativity, critical thinking, time management, organization</p><p><strong>Education:</strong> degree, diploma, certificate, qualification, training, course, major, minor, graduate, undergraduate</p><p><strong>Work:</strong> salary, wage, income, benefit, promotion, career path, job opportunity, work experience, internship</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng",
+              "content": "<p>Practice using vocabulary in context about careers, skills, education, and work.</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>Adverb Clauses of Concession, Result, and Reason (Mệnh đề trạng từ chỉ sự nhượng bộ, kết quả và lý do)</h3><p><strong>A. Mệnh đề chỉ sự nhượng bộ (Concession):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>although / though / even though:</strong> mặc dù</li><li>Ex: <strong>Although</strong> he is young, he is very talented.</li><li>Ex: She passed the exam <strong>even though</strong> she didn't study much.</li><li><strong>despite / in spite of + N/V-ing:</strong> mặc dù</li><li>Ex: <strong>Despite</strong> the rain, we went out.</li><li>Ex: <strong>In spite of</strong> being tired, she continued working.</li></ul><p><strong>B. Mệnh đề chỉ kết quả (Result):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>so...that:</strong> quá...đến nỗi</li><li>Ex: He is <strong>so</strong> smart <strong>that</strong> he can solve any problem.</li><li><strong>such...that:</strong> quá...đến nỗi</li><li>Ex: It was <strong>such</strong> a difficult test <strong>that</strong> no one passed.</li><li><strong>so + adj/adv + that</strong></li><li><strong>such + (a/an) + adj + N + that</strong></li></ul><p><strong>C. Mệnh đề chỉ lý do (Reason):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>because / since / as:</strong> bởi vì</li><li>Ex: I chose this career <strong>because</strong> I love helping people.</li><li>Ex: <strong>Since</strong> he is talented, he got the job.</li><li>Ex: <strong>As</strong> she studied hard, she passed the exam.</li><li><strong>because of / due to + N/V-ing:</strong> bởi vì</li><li>Ex: I was late <strong>because of</strong> the traffic.</li><li>Ex: <strong>Due to</strong> his hard work, he succeeded.</li></ul><p><strong>D. So sánh:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>although + clause</strong> vs <strong>despite + N/V-ing</strong></li><li>Ex: <strong>Although</strong> it rained, we went out.</li><li>Ex: <strong>Despite</strong> the rain, we went out.</li><li><strong>because + clause</strong> vs <strong>because of + N/V-ing</strong></li><li>Ex: I was late <strong>because</strong> the traffic was heavy.</li><li>Ex: I was late <strong>because of</strong> the heavy traffic.</li></ul>"
+            },
+            {
+              "heading": "4-11. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Concession - Although vs Despite",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>although + clause</li><li>despite + N/V-ing</li></ul>",
+            "examples": [
+              {
+                "question": "______ he is young, he is very talented.",
+                "solution": "<strong>Although</strong> he is young, he is very talented.",
+                "explanation": "although + clause (he is young)"
+              },
+              {
+                "question": "______ the rain, we went out.",
+                "solution": "<strong>Despite</strong> the rain, we went out.",
+                "explanation": "despite + N (the rain)"
+              },
+              {
+                "question": "______ being tired, she continued working.",
+                "solution": "<strong>Despite / In spite of</strong> being tired, she continued working.",
+                "explanation": "despite/in spite of + V-ing"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Result - So...that vs Such...that",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>so + adj/adv + that</li><li>such + (a/an) + adj + N + that</li></ul>",
+            "examples": [
+              {
+                "question": "He is ______ smart ______ he can solve any problem.",
+                "solution": "He is <strong>so</strong> smart <strong>that</strong> he can solve any problem.",
+                "explanation": "so + adj + that"
+              },
+              {
+                "question": "It was ______ a difficult test ______ no one passed.",
+                "solution": "It was <strong>such</strong> a difficult test <strong>that</strong> no one passed.",
+                "explanation": "such + a + adj + N + that"
+              },
+              {
+                "question": "She works ______ hard ______ she always succeeds.",
+                "solution": "She works <strong>so</strong> hard <strong>that</strong> she always succeeds.",
+                "explanation": "so + adv + that"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Reason - Because vs Because of",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>because + clause</li><li>because of + N/V-ing</li></ul>",
+            "examples": [
+              {
+                "question": "I chose this career ______ I love helping people.",
+                "solution": "I chose this career <strong>because</strong> I love helping people.",
+                "explanation": "because + clause"
+              },
+              {
+                "question": "I was late ______ the traffic.",
+                "solution": "I was late <strong>because of</strong> the traffic.",
+                "explanation": "because of + N"
+              },
+              {
+                "question": "______ his hard work, he succeeded.",
+                "solution": "<strong>Because of / Due to</strong> his hard work, he succeeded.",
+                "explanation": "because of/due to + N"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Chuyển đổi cấu trúc",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>although + clause ↔ despite + N/V-ing</li><li>because + clause ↔ because of + N/V-ing</li></ul>",
+            "examples": [
+              {
+                "question": "Although it rained, we went out. → ______ the rain, we went out.",
+                "solution": "<strong>Despite / In spite of</strong> the rain, we went out.",
+                "explanation": "Chuyển: although + clause → despite + N"
+              },
+              {
+                "question": "Because the traffic was heavy, I was late. → ______ the heavy traffic, I was late.",
+                "solution": "<strong>Because of / Due to</strong> the heavy traffic, I was late.",
+                "explanation": "Chuyển: because + clause → because of + N"
+              },
+              {
+                "question": "Despite being tired, she worked. → ______ she was tired, she worked.",
+                "solution": "<strong>Although / Though / Even though</strong> she was tired, she worked.",
+                "explanation": "Chuyển: despite + V-ing → although + clause"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ he is young, he is very talented.",
+            "options": ["Although", "Despite", "Because", "So"],
+            "correct": 0,
+            "explanation": "although + clause"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "______ the rain, we went out.",
+            "options": ["Although", "Despite", "Because", "So"],
+            "correct": 1,
+            "explanation": "despite + N"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "He is ______ smart that he can solve any problem.",
+            "options": ["so", "such", "very", "too"],
+            "correct": 0,
+            "explanation": "so + adj + that"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "It was ______ a difficult test that no one passed.",
+            "options": ["so", "such", "very", "too"],
+            "correct": 1,
+            "explanation": "such + a + adj + N + that"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "I chose this career ______ I love helping people.",
+            "options": ["although", "despite", "because", "so"],
+            "correct": 2,
+            "explanation": "because + clause"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "I was late ______ the traffic.",
+            "options": ["although", "despite", "because", "because of"],
+            "correct": 3,
+            "explanation": "because of + N"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ being tired, she continued working.",
+            "options": ["Although", "Despite", "Because", "So"],
+            "correct": 1,
+            "explanation": "despite + V-ing"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "______ he studied hard, he passed the exam.",
+            "options": ["Although", "Despite", "Because", "Such"],
+            "correct": 2,
+            "explanation": "because + clause (lý do)"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "She works ______ hard that she always succeeds.",
+            "options": ["so", "such", "very", "too"],
+            "correct": 0,
+            "explanation": "so + adv + that"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______ his hard work, he succeeded.",
+            "options": ["Although", "Despite", "Because", "Because of"],
+            "correct": 3,
+            "explanation": "because of + N"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which show concession (nhượng bộ)? (Select all that apply)",
+            "options": ["although", "despite", "because", "so"],
+            "correct": [0, 1],
+            "explanation": "Nhượng bộ: although, despite. because (lý do), so (kết quả)"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which are followed by a clause? (Select all that apply)",
+            "options": ["although", "despite", "because", "because of"],
+            "correct": [0, 2],
+            "explanation": "Theo sau bởi clause: although, because. despite, because of + N/V-ing"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which sentences are correct? (Select all that apply)",
+            "options": ["Although it rained, we went out.", "Despite the rain, we went out.", "Because of it rained, we stayed home.", "He is so smart that he can solve problems."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: although + clause, despite + N, so...that. Sai: because of + clause (phải là 'because')"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: ______ he is young, he is very talented.",
+            "correct": "Although / Though / Even though",
+            "explanation": "although + clause"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: He is ______ smart ______ he can solve any problem.",
+            "correct": "so, that",
+            "explanation": "so + adj + that"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Fill in: I was late ______ the traffic.",
+            "correct": "because of / due to",
+            "explanation": "because of/due to + N"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Transform: Although it rained, we went out. → ______ the rain, we went out.",
+            "correct": "Despite / In spite of",
+            "explanation": "although + clause → despite + N"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: Although / he / is / young / , / he / is / talented / very / . / Despite / rain / the / , / went / we / out / .",
+            "sample_answer": "Although he is young, he is very talented. Despite the rain, we went out.",
+            "explanation": "Sắp xếp: although + clause; despite + N"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: Although it rained, we went out. → Despite ______.",
+            "sample_answer": "Despite the rain, we went out.",
+            "explanation": "Biến đổi: although + clause → despite + N"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Transform: Because the traffic was heavy, I was late. → Because of ______.",
+            "sample_answer": "Because of the heavy traffic, I was late.",
+            "explanation": "Biến đổi: because + clause → because of + N"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange: so / He / is / smart / that / can / he / solve / problem / any / . / such / It / was / difficult / a / test / that / one / no / passed / .",
+            "sample_answer": "He is so smart that he can solve any problem. It was such a difficult test that no one passed.",
+            "explanation": "Sắp xếp: so + adj + that; such + a + adj + N + that"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Combine all: Although he is young, he is talented. He works so hard that he succeeds. He chose this career because he loves it. (Keep all three sentences)",
+            "sample_answer": "Although he is young, he is talented. He works so hard that he succeeds. He chose this career because he loves it.",
+            "explanation": "Kết hợp: concession (although), result (so...that), reason (because)"
+          }
+        ]
+      }
+    }
+  ]
+}

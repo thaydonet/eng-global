@@ -1,0 +1,209 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-9-p3",
+  "name": "Part 3: Language - Grammar",
+  "slug": "p3-grammar",
+  "description": "Cụm động từ có 3 từ",
+  "duration_minutes": 60,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Grammar: Three-word Phrasal Verbs",
+      "sections": [
+        {
+          "heading": "A. Cụm động từ có 3 từ (Three-word Phrasal Verbs)",
+          "content": "<p><strong>Định nghĩa:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Three-word phrasal verbs = Verb + Particle + Preposition</li><li>Ví dụ: look forward to, come up with, get on with</li><li>Không thể tách rời các thành phần</li><li>Có nghĩa khác với nghĩa gốc của động từ</li></ul>"
+        },
+        {
+          "heading": "B. Các cụm động từ 3 từ phổ biến",
+          "content": "<p><strong>1. LOOK FORWARD TO (mong chờ):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Structure: look forward to + V-ing/noun</li><li>Ex: I look forward to hearing from you.</li><li>Ex: We look forward to the meeting.</li></ul><p><strong>2. COME UP WITH (nghĩ ra):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Structure: come up with + noun (idea, solution, plan)</li><li>Ex: She came up with a brilliant idea.</li><li>Ex: Can you come up with a solution?</li></ul><p><strong>3. GET ON WITH (hòa hợp với):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Structure: get on with + person</li><li>Ex: I get on with my colleagues.</li><li>Ex: Do you get on with your boss?</li></ul><p><strong>4. CATCH UP WITH (theo kịp):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Structure: catch up with + person/thing</li><li>Ex: I need to catch up with my work.</li><li>Ex: Let's catch up with old friends.</li></ul><p><strong>5. KEEP UP WITH (theo kịp, duy trì):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Structure: keep up with + person/thing/changes</li><li>Ex: Keep up with technology trends.</li><li>Ex: I can't keep up with the pace.</li></ul><p><strong>6. PUT UP WITH (chịu đựng):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Structure: put up with + noun/V-ing</li><li>Ex: I can't put up with the noise.</li><li>Ex: She puts up with difficult customers.</li></ul><p><strong>7. RUN OUT OF (cạn kiệt):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Structure: run out of + noun</li><li>Ex: We ran out of time.</li><li>Ex: Don't run out of patience.</li></ul><p><strong>8. LOOK UP TO (ngưỡng mộ):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Structure: look up to + person</li><li>Ex: I look up to my mentor.</li><li>Ex: Children look up to their parents.</li></ul><p><strong>9. FACE UP TO (đối mặt với):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Structure: face up to + problem/reality/fact</li><li>Ex: Face up to your mistakes.</li><li>Ex: We must face up to the challenge.</li></ul><p><strong>10. LIVE UP TO (đáp ứng kỳ vọng):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Structure: live up to + expectations/standards/reputation</li><li>Ex: Live up to your potential.</li><li>Ex: The product lived up to expectations.</li></ul><p><strong>11. MAKE UP FOR (bù đắp):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Structure: make up for + loss/mistake/time</li><li>Ex: Make up for lost time.</li><li>Ex: How can I make up for my mistake?</li></ul>"
+        },
+        {
+          "heading": "C. Lưu ý quan trọng",
+          "content": "<p><strong>1. Không thể tách rời:</strong></p><ul class='list-disc pl-5 space-y-2'><li>✓ I look forward to meeting you.</li><li>✗ I look you forward to meeting.</li></ul><p><strong>2. Giới từ cuối cùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sau 'to': look forward to, look up to, face up to, live up to</li><li>Sau 'with': come up with, get on with, catch up with, keep up with, put up with</li><li>Sau 'of': run out of</li><li>Sau 'for': make up for</li></ul><p><strong>3. Động từ sau giới từ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nếu có động từ sau, phải thêm -ing</li><li>Ex: I look forward to working with you. (NOT: to work)</li><li>Ex: She came up with solving the problem. (nếu dùng động từ)</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "grammar-ex1",
+        "type": "mcq",
+        "question": "Choose: 'I look forward _____ you soon.'",
+        "options": ["to see", "to seeing", "see", "seeing"],
+        "correct": 1,
+        "explanation": "Look forward to + V-ing."
+      },
+      {
+        "id": "grammar-ex2",
+        "type": "mcq",
+        "question": "Complete: 'She came _____ a brilliant idea.'",
+        "options": ["up with", "on with", "out of", "up to"],
+        "correct": 0,
+        "explanation": "'Come up with' - nghĩ ra."
+      },
+      {
+        "id": "grammar-ex3",
+        "type": "mcq",
+        "question": "Choose: 'Do you get _____ your colleagues?'",
+        "options": ["up with", "on with", "out of", "up to"],
+        "correct": 1,
+        "explanation": "'Get on with' - hòa hợp với."
+      },
+      {
+        "id": "grammar-ex4",
+        "type": "mcq",
+        "question": "Complete: 'I need to catch _____ my work.'",
+        "options": ["up with", "on with", "out of", "forward to"],
+        "correct": 0,
+        "explanation": "'Catch up with' - theo kịp."
+      },
+      {
+        "id": "grammar-ex5",
+        "type": "mcq",
+        "question": "Choose: 'Keep _____ technology trends.'",
+        "options": ["up with", "on with", "out of", "forward to"],
+        "correct": 0,
+        "explanation": "'Keep up with' - theo kịp, duy trì."
+      },
+      {
+        "id": "grammar-ex6",
+        "type": "mcq",
+        "question": "Complete: 'I can't put _____ the noise.'",
+        "options": ["up with", "on with", "out of", "forward to"],
+        "correct": 0,
+        "explanation": "'Put up with' - chịu đựng."
+      },
+      {
+        "id": "grammar-ex7",
+        "type": "mcq",
+        "question": "Choose: 'We ran _____ time.'",
+        "options": ["up with", "on with", "out of", "forward to"],
+        "correct": 2,
+        "explanation": "'Run out of' - cạn kiệt."
+      },
+      {
+        "id": "grammar-ex8",
+        "type": "mcq",
+        "question": "Complete: 'I look _____ my mentor.'",
+        "options": ["up with", "on with", "up to", "forward to"],
+        "correct": 2,
+        "explanation": "'Look up to' - ngưỡng mộ."
+      },
+      {
+        "id": "grammar-ex9",
+        "type": "mcq",
+        "question": "Choose: 'Face _____ your mistakes.'",
+        "options": ["up with", "on with", "up to", "forward to"],
+        "correct": 2,
+        "explanation": "'Face up to' - đối mặt với."
+      },
+      {
+        "id": "grammar-ex10",
+        "type": "mcq",
+        "question": "Complete: 'Live _____ your potential.'",
+        "options": ["up with", "on with", "up to", "forward to"],
+        "correct": 2,
+        "explanation": "'Live up to' - đáp ứng (kỳ vọng)."
+      },
+      {
+        "id": "grammar-ex11",
+        "type": "mcq",
+        "question": "Choose: 'Make _____ lost time.'",
+        "options": ["up with", "on with", "up for", "forward to"],
+        "correct": 2,
+        "explanation": "'Make up for' - bù đắp."
+      },
+      {
+        "id": "grammar-ex12",
+        "type": "mcq",
+        "question": "Which is correct?",
+        "options": [
+          "I look forward to meet you.",
+          "I look forward to meeting you.",
+          "I look forward meet you.",
+          "I look to forward meeting you."
+        ],
+        "correct": 1,
+        "explanation": "Look forward to + V-ing."
+      },
+      {
+        "id": "grammar-ex13",
+        "type": "mcq",
+        "question": "Complete: 'Can you come _____ a solution?'",
+        "options": ["up with", "on with", "out of", "forward to"],
+        "correct": 0,
+        "explanation": "'Come up with' - nghĩ ra."
+      },
+      {
+        "id": "grammar-ex14",
+        "type": "mcq",
+        "question": "Choose: 'Don't run _____ patience.'",
+        "options": ["up with", "on with", "out of", "forward to"],
+        "correct": 2,
+        "explanation": "'Run out of' - cạn kiệt."
+      },
+      {
+        "id": "grammar-ex15",
+        "type": "mcq",
+        "question": "Which sentence is correct?",
+        "options": [
+          "She gets on with her boss.",
+          "She gets with on her boss.",
+          "She gets her boss on with.",
+          "She on with gets her boss."
+        ],
+        "correct": 0,
+        "explanation": "Get on with + person - không thể tách rời."
+      },
+      {
+        "id": "grammar-ex16",
+        "type": "msq",
+        "question_text": "Decide if these sentences are correct (True/False):",
+        "options": [
+          "I look forward to hearing from you.",
+          "She came up with a great idea.",
+          "I get with on my colleagues.",
+          "We ran out of time."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - Look forward to + V-ing. b) True - Come up with. c) False - Phải là 'get on with'. d) True - Run out of."
+      },
+      {
+        "id": "grammar-ex17",
+        "type": "msq",
+        "question_text": "Mark True if the phrasal verb is used correctly:",
+        "options": [
+          "Keep up with technology trends.",
+          "I can't put up with the noise.",
+          "Look up to successful people.",
+          "Face to up your problems."
+        ],
+        "correct": [0, 1, 2],
+        "explanation": "a) True - Keep up with. b) True - Put up with. c) True - Look up to. d) False - Phải là 'face up to'."
+      },
+      {
+        "id": "grammar-ex18",
+        "type": "sa",
+        "question_text": "Complete: I look _____ _____ meeting you. (three words total)",
+        "correct": "forward to",
+        "explanation": "'Look forward to' - mong chờ."
+      },
+      {
+        "id": "grammar-ex19",
+        "type": "sa",
+        "question_text": "Complete: She came _____ _____ a solution. (three words total)",
+        "correct": "up with",
+        "explanation": "'Come up with' - nghĩ ra."
+      },
+      {
+        "id": "grammar-ex20",
+        "type": "sa",
+        "question_text": "Complete: I get _____ _____ my boss. (three words total)",
+        "correct": "on with",
+        "explanation": "'Get on with' - hòa hợp với."
+      }
+    ]
+  }
+}

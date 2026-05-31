@@ -1,0 +1,225 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-6-p5",
+  "name": "Part 5: Speaking",
+  "slug": "p5-speaking",
+  "description": "Thảo luận về ứng dụng AI",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Speaking: Discussing AI and Its Applications",
+      "sections": [
+        {
+          "heading": "Speaking Skills",
+          "content": "<p><strong>Chủ đề:</strong> Discussing AI and its applications</p><p><strong>Kỹ năng nói:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Talking about AI applications:</strong> Nói về ứng dụng AI</li><li><strong>Describing how AI works:</strong> Mô tả cách AI hoạt động</li><li><strong>Discussing benefits and concerns:</strong> Thảo luận lợi ích và lo ngại</li><li><strong>Expressing opinions:</strong> Bày tỏ ý kiến</li><li><strong>Using causative forms:</strong> Sử dụng thể sai khiến</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Talking about AI use:</strong></li><li>I use AI to...</li><li>I have Siri set reminders.</li><li>I get AI to translate documents.</li><li>AI helps me...</li><li>I have my phone recognize my face.</li><li><strong>Describing AI functions:</strong></li><li>AI can...</li><li>AI is used to...</li><li>AI works by...</li><li>AI analyzes/processes/recognizes...</li><li><strong>Discussing benefits:</strong></li><li>One benefit of AI is...</li><li>AI makes life more convenient.</li><li>AI helps us...</li><li>Thanks to AI, we can...</li><li><strong>Expressing concerns:</strong></li><li>However, AI raises concerns about...</li><li>I'm worried that...</li><li>One problem with AI is...</li><li>We need to be careful about...</li><li><strong>Giving opinions:</strong></li><li>In my opinion, AI...</li><li>I think/believe that...</li><li>From my perspective...</li><li>I agree/disagree that...</li></ul>"
+        },
+        {
+          "heading": "Talking About AI Applications",
+          "content": "<p><strong>Common AI applications:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Virtual assistants:</strong> Siri, Alexa, Google Assistant</li><li><strong>Facial recognition:</strong> unlocking phones, security systems</li><li><strong>Recommendation systems:</strong> YouTube, Netflix, Amazon</li><li><strong>Translation:</strong> Google Translate</li><li><strong>Autonomous vehicles:</strong> self-driving cars</li><li><strong>Healthcare:</strong> medical diagnosis, drug discovery</li><li><strong>Education:</strong> personalized learning, chatbots</li></ul><p><strong>Describing AI benefits:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Efficiency:</strong> AI works faster than humans</li><li><strong>Accuracy:</strong> AI makes fewer mistakes</li><li><strong>Convenience:</strong> AI makes life easier</li><li><strong>24/7 availability:</strong> AI never sleeps</li><li><strong>Cost-effective:</strong> AI can reduce costs</li></ul><p><strong>Discussing AI concerns:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Job loss:</strong> AI may replace workers</li><li><strong>Privacy:</strong> AI collects personal data</li><li><strong>Ethics:</strong> AI decision-making raises questions</li><li><strong>Dependence:</strong> We rely too much on technology</li><li><strong>Bias:</strong> AI can reflect human biases</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "speaking-ex1",
+        "type": "mcq",
+        "question": "Which expression is used to talk about AI use?",
+        "options": [
+          "I like pizza",
+          "I have Siri set reminders",
+          "Good morning",
+          "How are you?"
+        ],
+        "correct": 1,
+        "explanation": "'I have Siri set reminders' sử dụng thể sai khiến để nói về việc dùng AI."
+      },
+      {
+        "id": "speaking-ex2",
+        "type": "mcq",
+        "question": "Complete: 'I _____ AI to translate documents.'",
+        "options": ["have", "get", "make", "let"],
+        "correct": 1,
+        "explanation": "'Get' phù hợp: get + O + to V (AI to translate)."
+      },
+      {
+        "id": "speaking-ex3",
+        "type": "mcq",
+        "question": "Which phrase expresses a concern?",
+        "options": [
+          "AI is perfect",
+          "I'm worried that AI may replace workers",
+          "AI has no problems",
+          "Everything is fine"
+        ],
+        "correct": 1,
+        "explanation": "'I'm worried that...' thể hiện lo ngại."
+      },
+      {
+        "id": "speaking-ex4",
+        "type": "mcq",
+        "question": "Complete: 'One benefit of AI is that it makes life more _____.'",
+        "options": ["difficult", "convenient", "complicated", "slow"],
+        "correct": 1,
+        "explanation": "'Convenient' (tiện lợi) là lợi ích của AI."
+      },
+      {
+        "id": "speaking-ex5",
+        "type": "mcq",
+        "question": "Which is a virtual assistant?",
+        "options": ["Microsoft Word", "Siri", "Calculator", "Camera"],
+        "correct": 1,
+        "explanation": "Siri là trợ lý ảo (virtual assistant)."
+      },
+      {
+        "id": "speaking-ex6",
+        "type": "mcq",
+        "question": "Complete: 'I _____ my phone _____ my face.'",
+        "options": ["have / recognize", "have / to recognize", "has / recognize", "having / recognize"],
+        "correct": 0,
+        "explanation": "Have...recognize - thể sai khiến: have + O + V."
+      },
+      {
+        "id": "speaking-ex7",
+        "type": "mcq",
+        "question": "Which describes an AI benefit?",
+        "options": ["Slow", "Expensive", "Efficient", "Complicated"],
+        "correct": 2,
+        "explanation": "'Efficient' (hiệu quả) là lợi ích của AI."
+      },
+      {
+        "id": "speaking-ex8",
+        "type": "mcq",
+        "question": "Complete: 'In my opinion, AI _____ be used responsibly.'",
+        "options": ["should", "shouldn't", "must not", "can't"],
+        "correct": 0,
+        "explanation": "'Should' thể hiện ý kiến rằng AI nên được sử dụng có trách nhiệm."
+      },
+      {
+        "id": "speaking-ex9",
+        "type": "mcq",
+        "question": "What is a concern about AI?",
+        "options": [
+          "It's too cheap",
+          "Privacy and job loss",
+          "It's too slow",
+          "It's too simple"
+        ],
+        "correct": 1,
+        "explanation": "Lo ngại về AI bao gồm riêng tư và mất việc làm."
+      },
+      {
+        "id": "speaking-ex10",
+        "type": "mcq",
+        "question": "Complete: 'AI _____ by analyzing data.'",
+        "options": ["work", "works", "working", "worked"],
+        "correct": 1,
+        "explanation": "'Works' là động từ ngôi thứ 3 số ít phù hợp với 'AI'."
+      },
+      {
+        "id": "speaking-ex11",
+        "type": "mcq",
+        "question": "Which is an AI application?",
+        "options": [
+          "Pencil",
+          "Facial recognition",
+          "Paper",
+          "Eraser"
+        ],
+        "correct": 1,
+        "explanation": "Facial recognition (nhận dạng khuôn mặt) là ứng dụng AI."
+      },
+      {
+        "id": "speaking-ex12",
+        "type": "mcq",
+        "question": "Complete: 'From my _____, AI will change the future.'",
+        "options": ["house", "perspective", "friend", "book"],
+        "correct": 1,
+        "explanation": "'From my perspective' nghĩa là theo quan điểm của tôi."
+      },
+      {
+        "id": "speaking-ex13",
+        "type": "mcq",
+        "question": "What does 'autonomous vehicle' mean?",
+        "options": [
+          "A broken car",
+          "A self-driving car",
+          "A bicycle",
+          "A train"
+        ],
+        "correct": 1,
+        "explanation": "Autonomous vehicle là xe tự lái."
+      },
+      {
+        "id": "speaking-ex14",
+        "type": "mcq",
+        "question": "Complete: 'We need to be careful _____ privacy issues.'",
+        "options": ["at", "in", "about", "for"],
+        "correct": 2,
+        "explanation": "'Be careful about' là cụm từ đúng."
+      },
+      {
+        "id": "speaking-ex15",
+        "type": "mcq",
+        "question": "Which phrase discusses AI benefits?",
+        "options": [
+          "AI is terrible",
+          "Thanks to AI, we can work more efficiently",
+          "AI has no use",
+          "I hate AI"
+        ],
+        "correct": 1,
+        "explanation": "'Thanks to AI, we can...' thảo luận về lợi ích."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide which are good ways to discuss AI (True/False):",
+        "options": [
+          "I have Siri set reminders for me.",
+          "AI is completely useless.",
+          "One benefit of AI is efficiency.",
+          "AI has no concerns at all."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Cách tốt dùng thể sai khiến. b) False - Quá tiêu cực. c) True - Thảo luận lợi ích đúng. d) False - AI có nhiều lo ngại."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if the expression is correct:",
+        "options": [
+          "I get AI to translate documents.",
+          "AI make life easier.",
+          "I'm worried about privacy issues.",
+          "AI works by to analyze data."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Đúng cấu trúc get + O + to V. b) False - Phải là 'makes'. c) True - Đúng cấu trúc. d) False - Phải là 'by analyzing'."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: I have my phone _____ my face. (recognize/recognizes)",
+        "correct": "recognize",
+        "explanation": "Have + O + V (bare infinitive) - thể sai khiến."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "Complete the phrase: virtual _____ (related to Siri, Alexa)",
+        "correct": "assistant",
+        "explanation": "'Virtual assistant' - trợ lý ảo."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: AI makes life more _____. (convenient/difficult)",
+        "correct": "convenient",
+        "explanation": "AI làm cuộc sống tiện lợi hơn (convenient)."
+      }
+    ]
+  }
+}

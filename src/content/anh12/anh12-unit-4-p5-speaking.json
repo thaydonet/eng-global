@@ -1,0 +1,240 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-4-p5",
+  "name": "Part 5: Speaking",
+  "slug": "p5-speaking",
+  "description": "Thảo luận về cuộc sống đô thị",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Speaking: Discussing Urbanisation and City Life",
+      "sections": [
+        {
+          "heading": "Speaking Skills",
+          "content": "<p><strong>Chủ đề:</strong> Discussing urbanisation and city life</p><p><strong>Kỹ năng nói:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Describing changes:</strong> Mô tả sự thay đổi</li><li><strong>Comparing past and present:</strong> So sánh quá khứ và hiện tại</li><li><strong>Expressing opinions:</strong> Bày tỏ ý kiến</li><li><strong>Discussing advantages and disadvantages:</strong> Thảo luận ưu và nhược điểm</li><li><strong>Suggesting solutions:</strong> Đề xuất giải pháp</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Describing changes:</strong></li><li>The city has become... / has changed...</li><li>More and more people have moved to...</li><li>It used to be..., but now it is...</li><li>In the past..., nowadays...</li><li><strong>Using double comparatives:</strong></li><li>The bigger the city, the more...</li><li>The more people migrate, the more...</li><li><strong>Expressing opinions:</strong></li><li>In my opinion, ...</li><li>I think/believe that...</li><li>From my perspective, ...</li><li><strong>Discussing advantages:</strong></li><li>One advantage/benefit is...</li><li>The main advantage is...</li><li>It's beneficial because...</li><li><strong>Discussing disadvantages:</strong></li><li>One disadvantage/problem is...</li><li>The main drawback is...</li><li>It causes problems such as...</li><li><strong>Suggesting solutions:</strong></li><li>I think we should...</li><li>It's important to improve...</li><li>The government needs to...</li><li>We could solve this by...</li></ul>"
+        },
+        {
+          "heading": "Comparing Past and Present",
+          "content": "<p><strong>Từ vựng mô tả quá khứ (Past):</strong></p><ul class='list-disc pl-5 space-y-2'><li>old (cũ kỹ)</li><li>rice fields (cánh đồng lúa)</li><li>empty roads (đường vắng)</li><li>wet markets (chợ truyền thống)</li><li>low-rise buildings (nhà thấp tầng)</li><li>bicycles and cyclos (xe đạp và xích lô)</li><li>peaceful (yên bình)</li><li>traditional (truyền thống)</li></ul><p><strong>Từ vựng mô tả hiện tại (Now):</strong></p><ul class='list-disc pl-5 space-y-2'><li>modern (hiện đại)</li><li>parks (công viên)</li><li>busy streets (đường phố nhộn nhịp)</li><li>convenience stores (cửa hàng tiện lợi)</li><li>high-rise buildings (nhà cao tầng)</li><li>supermarkets (siêu thị)</li><li>metro system (hệ thống tàu điện ngầm)</li><li>shopping malls (trung tâm mua sắm)</li><li>crowded (đông đúc)</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "speaking-ex1",
+        "type": "mcq",
+        "question": "Which expression is used to describe changes?",
+        "options": [
+          "I like it",
+          "The city has become more crowded",
+          "Thank you",
+          "How are you?"
+        ],
+        "correct": 1,
+        "explanation": "'The city has become...' mô tả sự thay đổi."
+      },
+      {
+        "id": "speaking-ex2",
+        "type": "mcq",
+        "question": "Complete: 'In the past, the city was quiet, but _____ it is very busy.'",
+        "options": ["yesterday", "last year", "nowadays", "tomorrow"],
+        "correct": 2,
+        "explanation": "'Nowadays' (ngày nay) dùng để so sánh với quá khứ."
+      },
+      {
+        "id": "speaking-ex3",
+        "type": "mcq",
+        "question": "Which phrase expresses an opinion?",
+        "options": [
+          "In my opinion",
+          "Good morning",
+          "See you later",
+          "How much"
+        ],
+        "correct": 0,
+        "explanation": "'In my opinion' dùng để bày tỏ ý kiến."
+      },
+      {
+        "id": "speaking-ex4",
+        "type": "mcq",
+        "question": "Complete: 'One _____ of living in the city is better job opportunities.'",
+        "options": ["disadvantage", "advantage", "problem", "difficulty"],
+        "correct": 1,
+        "explanation": "'Advantage' (lợi ích) phù hợp với ngữ cảnh tích cực."
+      },
+      {
+        "id": "speaking-ex5",
+        "type": "mcq",
+        "question": "Which describes the past?",
+        "options": [
+          "High-rise buildings",
+          "Metro system",
+          "Rice fields",
+          "Shopping malls"
+        ],
+        "correct": 2,
+        "explanation": "Rice fields (cánh đồng lúa) mô tả quá khứ."
+      },
+      {
+        "id": "speaking-ex6",
+        "type": "mcq",
+        "question": "Complete: 'The _____ people move to cities, the _____ crowded they become.'",
+        "options": ["many/much", "more/more", "most/most", "much/many"],
+        "correct": 1,
+        "explanation": "So sánh kép: The more..., the more..."
+      },
+      {
+        "id": "speaking-ex7",
+        "type": "mcq",
+        "question": "Which suggests a solution?",
+        "options": [
+          "I don't know",
+          "It's a problem",
+          "We should improve public transport",
+          "I'm tired"
+        ],
+        "correct": 2,
+        "explanation": "'We should...' đề xuất giải pháp."
+      },
+      {
+        "id": "speaking-ex8",
+        "type": "mcq",
+        "question": "What describes modern cities?",
+        "options": [
+          "Empty roads",
+          "Wet markets only",
+          "Convenience stores and supermarkets",
+          "No buildings"
+        ],
+        "correct": 2,
+        "explanation": "Cửa hàng tiện lợi và siêu thị là đặc điểm thành phố hiện đại."
+      },
+      {
+        "id": "speaking-ex9",
+        "type": "mcq",
+        "question": "Complete: 'It used to be peaceful, but now it is _____.'",
+        "options": ["quiet", "empty", "noisy and crowded", "small"],
+        "correct": 2,
+        "explanation": "Thành phố giờ ồn ào và đông đúc (noisy and crowded)."
+      },
+      {
+        "id": "speaking-ex10",
+        "type": "mcq",
+        "question": "Which phrase discusses a disadvantage?",
+        "options": [
+          "The main benefit is...",
+          "One problem is traffic congestion",
+          "It's very good",
+          "I enjoy it"
+        ],
+        "correct": 1,
+        "explanation": "'One problem is...' thảo luận về nhược điểm."
+      },
+      {
+        "id": "speaking-ex11",
+        "type": "mcq",
+        "question": "What transportation was common in the past?",
+        "options": [
+          "Metro",
+          "Bicycles and cyclos",
+          "Airplanes",
+          "High-speed trains"
+        ],
+        "correct": 1,
+        "explanation": "Xe đạp và xích lô phổ biến trong quá khứ."
+      },
+      {
+        "id": "speaking-ex12",
+        "type": "mcq",
+        "question": "Complete: 'From my _____, urbanisation brings both benefits and challenges.'",
+        "options": ["house", "perspective", "friend", "book"],
+        "correct": 1,
+        "explanation": "'From my perspective' nghĩa là theo quan điểm của tôi."
+      },
+      {
+        "id": "speaking-ex13",
+        "type": "mcq",
+        "question": "Which describes old buildings?",
+        "options": [
+          "High-rise buildings",
+          "Skyscrapers",
+          "Low-rise buildings",
+          "Shopping malls"
+        ],
+        "correct": 2,
+        "explanation": "Low-rise buildings (nhà thấp tầng) mô tả kiến trúc cũ."
+      },
+      {
+        "id": "speaking-ex14",
+        "type": "mcq",
+        "question": "Complete: 'The government _____ to invest in infrastructure.'",
+        "options": ["want", "needs", "like", "enjoy"],
+        "correct": 1,
+        "explanation": "'Needs to' (cần phải) phù hợp với ngữ cảnh."
+      },
+      {
+        "id": "speaking-ex15",
+        "type": "mcq",
+        "question": "What is a modern feature of cities?",
+        "options": [
+          "Rice fields",
+          "Metro system",
+          "Empty streets",
+          "Only bicycles"
+        ],
+        "correct": 1,
+        "explanation": "Metro system (tàu điện ngầm) là đặc điểm hiện đại."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide which describe the PAST (True) or PRESENT (False):",
+        "options": [
+          "Wet markets",
+          "Shopping malls",
+          "Empty roads",
+          "Busy streets"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Chợ truyền thống là quá khứ. b) False - Trung tâm mua sắm là hiện tại. c) True - Đường vắng là quá khứ. d) False - Đường nhộn nhịp là hiện tại."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if the expression is correct for speaking:",
+        "options": [
+          "In my opinion, cities are too crowded.",
+          "The more bigger the city...",
+          "One advantage is better healthcare.",
+          "We should to improve transport."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Đúng cấu trúc. b) False - Sai, phải là 'The bigger'. c) True - Đúng cấu trúc. d) False - Sai, phải là 'should improve'."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: In the past, people used _____ and cyclos. (one word)",
+        "correct": "bicycles",
+        "explanation": "Bicycles (xe đạp) và xích lô."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "Complete the phrase: _____ markets (traditional markets)",
+        "correct": "wet",
+        "explanation": "Wet markets - chợ truyền thống."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: The city has become more and more _____. (crowded/empty)",
+        "correct": "crowded",
+        "explanation": "Thành phố ngày càng đông đúc (crowded)."
+      }
+    ]
+  }
+}

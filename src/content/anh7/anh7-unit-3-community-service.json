@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 7",
+  "subject_id": 44,
+  "lessons": [
+    {
+      "id": "anh7-unit-3-community-service",
+      "name": "Unit 3: Community Service",
+      "slug": "unit-3-community-service",
+      "chapter": "Unit 3: Community Service",
+      "chapter_id": "A7",
+      "lesson_id": 3,
+      "description": "Learn about community service and past simple tense.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?q=80&w=2673&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-3",
+          "name": "Community Service Vocabulary",
+          "slug": "community-service-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 3: Community Service",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Community</td><td class='px-4 py-2'>(n) /kəˈmjuːnəti/</td><td class='px-4 py-2'>Cộng đồng</td><td class='px-4 py-2'>We help our community.</td></tr><tr><td class='px-4 py-2 font-bold'>Volunteer</td><td class='px-4 py-2'>(n,v) /ˌvɒlənˈtɪə(r)/</td><td class='px-4 py-2'>Tình nguyện viên, tình nguyện</td><td class='px-4 py-2'>I volunteer at the hospital.</td></tr><tr><td class='px-4 py-2 font-bold'>Donate</td><td class='px-4 py-2'>(v) /dəʊˈneɪt/</td><td class='px-4 py-2'>Quyên góp</td><td class='px-4 py-2'>We donate books to children.</td></tr><tr><td class='px-4 py-2 font-bold'>Charity</td><td class='px-4 py-2'>(n) /ˈtʃærəti/</td><td class='px-4 py-2'>Từ thiện</td><td class='px-4 py-2'>She works for a charity.</td></tr><tr><td class='px-4 py-2 font-bold'>Homeless</td><td class='px-4 py-2'>(adj) /ˈhəʊmləs/</td><td class='px-4 py-2'>Vô gia cư</td><td class='px-4 py-2'>We help homeless people.</td></tr><tr><td class='px-4 py-2 font-bold'>Elderly</td><td class='px-4 py-2'>(adj) /ˈeldəli/</td><td class='px-4 py-2'>Người cao tuổi</td><td class='px-4 py-2'>We visit elderly people.</td></tr><tr><td class='px-4 py-2 font-bold'>Disabled</td><td class='px-4 py-2'>(adj) /dɪsˈeɪbld/</td><td class='px-4 py-2'>Khuyết tật</td><td class='px-4 py-2'>We help disabled children.</td></tr><tr><td class='px-4 py-2 font-bold'>Orphan</td><td class='px-4 py-2'>(n) /ˈɔːfn/</td><td class='px-4 py-2'>Trẻ mồ côi</td><td class='px-4 py-2'>We donate to orphans.</td></tr><tr><td class='px-4 py-2 font-bold'>Clean up</td><td class='px-4 py-2'>(v) /kliːn ʌp/</td><td class='px-4 py-2'>Dọn dẹp</td><td class='px-4 py-2'>We clean up the park.</td></tr><tr><td class='px-4 py-2 font-bold'>Plant</td><td class='px-4 py-2'>(v) /plɑːnt/</td><td class='px-4 py-2'>Trồng</td><td class='px-4 py-2'>We plant trees.</td></tr><tr><td class='px-4 py-2 font-bold'>Tutor</td><td class='px-4 py-2'>(v) /ˈtjuːtə(r)/</td><td class='px-4 py-2'>Dạy kèm</td><td class='px-4 py-2'>I tutor children.</td></tr><tr><td class='px-4 py-2 font-bold'>Raise</td><td class='px-4 py-2'>(v) /reɪz/</td><td class='px-4 py-2'>Gây quỹ</td><td class='px-4 py-2'>We raise money for charity.</td></tr><tr><td class='px-4 py-2 font-bold'>Provide</td><td class='px-4 py-2'>(v) /prəˈvaɪd/</td><td class='px-4 py-2'>Cung cấp</td><td class='px-4 py-2'>We provide food for the poor.</td></tr><tr><td class='px-4 py-2 font-bold'>Helpful</td><td class='px-4 py-2'>(adj) /ˈhelpfl/</td><td class='px-4 py-2'>Hữu ích</td><td class='px-4 py-2'>Volunteering is helpful.</td></tr><tr><td class='px-4 py-2 font-bold'>Generous</td><td class='px-4 py-2'>(adj) /ˈdʒenərəs/</td><td class='px-4 py-2'>Hào phóng</td><td class='px-4 py-2'>She is very generous.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Community service activities (Hoạt động phục vụ cộng đồng):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>donate books/clothes/food:</strong> quyên góp sách/quần áo/thức ăn</li><li><strong>clean up streets/parks:</strong> dọn dẹp đường phố/công viên</li><li><strong>plant trees:</strong> trồng cây</li><li><strong>tutor children:</strong> dạy kèm trẻ em</li><li><strong>visit elderly people:</strong> thăm người cao tuổi</li><li><strong>help homeless people:</strong> giúp người vô gia cư</li><li><strong>raise money:</strong> gây quỹ</li><li><strong>provide food:</strong> cung cấp thức ăn</li><li><strong>volunteer at hospitals:</strong> tình nguyện ở bệnh viện</li><li><strong>work for charity:</strong> làm từ thiện</li></ul><p><strong>People who need help:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>homeless people:</strong> người vô gia cư</li><li><strong>elderly people:</strong> người cao tuổi</li><li><strong>disabled people:</strong> người khuyết tật</li><li><strong>orphans:</strong> trẻ mồ côi</li><li><strong>poor people:</strong> người nghèo</li><li><strong>sick people:</strong> người bệnh</li></ul><p><strong>Verbs for community service:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>volunteer:</strong> tình nguyện</li><li><strong>donate:</strong> quyên góp</li><li><strong>help:</strong> giúp đỡ</li><li><strong>provide:</strong> cung cấp</li><li><strong>raise:</strong> gây quỹ</li><li><strong>clean up:</strong> dọn dẹp</li><li><strong>plant:</strong> trồng</li><li><strong>tutor:</strong> dạy kèm</li><li><strong>visit:</strong> thăm</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /t/, /d/, and /ɪd/</h3><p><strong>Cách phát âm đuôi -ed:</strong></p><p><strong>1. /t/ (âm vô thanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sau các âm vô thanh: /p/, /k/, /f/, /s/, /ʃ/, /tʃ/</li><li><strong>Examples:</strong></li><li>helped /helpt/</li><li>worked /wɜːkt/</li><li>watched /wɒtʃt/</li></ul><p><strong>2. /d/ (âm hữu thanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sau các âm hữu thanh và nguyên âm</li><li><strong>Examples:</strong></li><li>cleaned /kliːnd/</li><li>volunteered /ˌvɒlənˈtɪəd/</li><li>raised /reɪzd/</li></ul><p><strong>3. /ɪd/ (âm tiết thêm):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sau /t/ và /d/</li><li><strong>Examples:</strong></li><li>donated /dəʊˈneɪtɪd/</li><li>visited /ˈvɪzɪtɪd/</li><li>provided /prəˈvaɪdɪd/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>Past Simple Tense (Thì quá khứ đơn)</h3><p><strong>1. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Diễn tả hành động đã xảy ra và kết thúc trong quá khứ</li><li>Ex: I <strong>volunteered</strong> last week.</li><li>Diễn tả chuỗi hành động trong quá khứ</li><li>Ex: We <strong>cleaned</strong> the park and <strong>planted</strong> trees.</li></ul><p><strong>2. Cấu trúc:</strong></p><p><strong>a) Với động từ thường:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + V-ed/V2</li><li>Ex: I <strong>helped</strong> homeless people.</li><li>Ex: She <strong>went</strong> to the hospital.</li><li><strong>Phủ định:</strong> S + didn't + V</li><li>Ex: I <strong>didn't volunteer</strong> yesterday.</li><li><strong>Nghi vấn:</strong> Did + S + V?</li><li>Ex: <strong>Did</strong> you <strong>donate</strong> books?</li></ul><p><strong>b) Với động từ 'to be':</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + was/were</li><li>I/He/She/It + was</li><li>You/We/They + were</li><li>Ex: I <strong>was</strong> a volunteer.</li><li><strong>Phủ định:</strong> S + wasn't/weren't</li><li>Ex: He <strong>wasn't</strong> there.</li><li><strong>Nghi vấn:</strong> Was/Were + S?</li><li>Ex: <strong>Were</strong> you at the charity?</li></ul><p><strong>3. Cách thêm -ed:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Thêm 'ed':</strong> hầu hết các động từ</li><li>help → helped, clean → cleaned</li><li><strong>Thêm 'd':</strong> động từ kết thúc bằng 'e'</li><li>donate → donated, provide → provided</li><li><strong>Đổi 'y' thành 'ied':</strong> động từ kết thúc bằng phụ âm + y</li><li>study → studied, try → tried</li><li><strong>Nhân đôi phụ âm cuối + ed:</strong></li><li>stop → stopped, plan → planned</li></ul><p><strong>4. Động từ bất quy tắc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>go → went</li><li>give → gave</li><li>make → made</li><li>see → saw</li><li>have → had</li><li>do → did</li></ul><p><strong>5. Dấu hiệu nhận biết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>yesterday (hôm qua)</li><li>last week/month/year (tuần/tháng/năm trước)</li><li>ago (cách đây)</li><li>in + năm trong quá khứ (in 2020)</li><li>when I was young (khi tôi còn nhỏ)</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Helping the community - Giúp đỡ cộng đồng</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về hoạt động tình nguyện</li><li>Giới thiệu các hoạt động phục vụ cộng đồng</li><li>Nói về trải nghiệm tình nguyện</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Community service activities</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về hoạt động cộng đồng</li><li>Học từ vựng về người cần giúp đỡ</li></ul><p><strong>B. Pronunciation: /t/, /d/, and /ɪd/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách phát âm đuôi -ed</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Past Simple Tense</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách dùng thì quá khứ đơn</li><li>Phân biệt động từ có quy tắc và bất quy tắc</li><li>Luyện tập nói về quá khứ</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about volunteer work</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I volunteered...</li><li>We helped...</li><li>Last week, I...</li><li>It was...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Volunteer stories</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về câu chuyện tình nguyện</li><li>Tìm thông tin chi tiết</li></ul><p><strong>Speaking: Discussing volunteer experiences</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về trải nghiệm tình nguyện</li><li>Chia sẻ cảm nhận</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: About community projects</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về dự án cộng đồng</li><li>Ghi chú thông tin quan trọng</li></ul><p><strong>Writing: About a volunteer experience</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết về trải nghiệm tình nguyện</li><li>Sử dụng thì quá khứ đơn</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Community service activities</li><li><strong>Pronunciation:</strong> /t/, /d/, and /ɪd/</li><li><strong>Grammar:</strong> Past Simple Tense</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> Our community project</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Lên kế hoạch dự án cộng đồng</li><li>Mô tả hoạt động (7-10 câu)</li><li>Sử dụng hình ảnh minh họa</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Chia động từ thì quá khứ đơn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Động từ có quy tắc: V + ed</li><li>Động từ bất quy tắc: học thuộc bảng động từ</li><li>Phủ định: didn't + V nguyên mẫu</li><li>Nghi vấn: Did + S + V nguyên mẫu?</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (help) homeless people last week.",
+                "solution": "I <strong>helped</strong> homeless people last week.",
+                "explanation": "Động từ có quy tắc: help + ed = helped."
+              },
+              {
+                "question": "She ______ (go) to the hospital yesterday.",
+                "solution": "She <strong>went</strong> to the hospital yesterday.",
+                "explanation": "Động từ bất quy tắc: go → went."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Phát âm đuôi -ed",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>/t/: sau âm vô thanh (p, k, f, s, ʃ, tʃ)</li><li>/d/: sau âm hữu thanh và nguyên âm</li><li>/ɪd/: sau /t/ và /d/</li></ul>",
+            "examples": [
+              {
+                "question": "How do you pronounce 'helped'?",
+                "solution": "<strong>/helpt/</strong>",
+                "explanation": "Sau /p/ (âm vô thanh) → phát âm /t/."
+              },
+              {
+                "question": "How do you pronounce 'donated'?",
+                "solution": "<strong>/dəʊˈneɪtɪd/</strong>",
+                "explanation": "Sau /t/ → phát âm /ɪd/."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Câu phủ định và nghi vấn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phủ định: S + didn't + V nguyên mẫu</li><li>Nghi vấn: Did + S + V nguyên mẫu?</li><li>Trả lời: Yes, S + did. / No, S + didn't.</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (not volunteer) yesterday.",
+                "solution": "I <strong>didn't volunteer</strong> yesterday.",
+                "explanation": "Phủ định: didn't + V nguyên mẫu."
+              },
+              {
+                "question": "______ you ______ (donate) books?",
+                "solution": "<strong>Did</strong> you <strong>donate</strong> books?",
+                "explanation": "Nghi vấn: Did + S + V nguyên mẫu?"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Động từ bất quy tắc",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học thuộc bảng động từ bất quy tắc</li><li>Một số động từ thường gặp: go-went, give-gave, make-made, see-saw</li></ul>",
+            "examples": [
+              {
+                "question": "We ______ (give) books to children.",
+                "solution": "We <strong>gave</strong> books to children.",
+                "explanation": "Give → gave (bất quy tắc)."
+              },
+              {
+                "question": "They ______ (make) toys for orphans.",
+                "solution": "They <strong>made</strong> toys for orphans.",
+                "explanation": "Make → made (bất quy tắc)."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I ______ homeless people last week.",
+            "options": ["help", "helped", "helping", "to help"],
+            "correct": 1,
+            "explanation": "Thì quá khứ đơn: helped."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "She ______ to the hospital yesterday.",
+            "options": ["go", "goes", "went", "going"],
+            "correct": 2,
+            "explanation": "Go → went (bất quy tắc)."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "We ______ books to children.",
+            "options": ["donate", "donated", "donating", "to donate"],
+            "correct": 1,
+            "explanation": "Thì quá khứ đơn: donated."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I ______ volunteer yesterday.",
+            "options": ["don't", "didn't", "wasn't", "weren't"],
+            "correct": 1,
+            "explanation": "Phủ định quá khứ: didn't + V."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "______ you donate books?",
+            "options": ["Do", "Did", "Are", "Were"],
+            "correct": 1,
+            "explanation": "Nghi vấn quá khứ: Did."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "They ______ trees last month.",
+            "options": ["plant", "plants", "planted", "planting"],
+            "correct": 2,
+            "explanation": "Thì quá khứ đơn: planted."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "We ______ the park yesterday.",
+            "options": ["clean up", "cleaned up", "cleaning up", "to clean up"],
+            "correct": 1,
+            "explanation": "Thì quá khứ đơn: cleaned up."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "She ______ money for charity.",
+            "options": ["raise", "raises", "raised", "raising"],
+            "correct": 2,
+            "explanation": "Thì quá khứ đơn: raised."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "He ______ elderly people last week.",
+            "options": ["visit", "visits", "visited", "visiting"],
+            "correct": 2,
+            "explanation": "Thì quá khứ đơn: visited."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______ they help homeless people?",
+            "options": ["Do", "Did", "Are", "Were"],
+            "correct": 1,
+            "explanation": "Nghi vấn quá khứ: Did."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-unit-2",
+      "name": "Unit 2: The Generation Gap",
+      "slug": "unit-2-generation-gap",
+      "chapter": "Unit 2: The Generation Gap",
+      "chapter_id": "A11",
+      "lesson_id": 2,
+      "description": "Học về khoảng cách thế hệ, xung đột gia đình và động từ khuyết thiếu: must, have to, should.",
+      "duration_minutes": 300,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=2670&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh11-unit-2-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về khoảng cách thế hệ và xung đột gia đình",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh11-unit-2-p1-getting-started.json"
+        },
+        {
+          "id": "anh11-unit-2-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về thế hệ, xung đột và quan hệ gia đình",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh11-unit-2-p2-vocabulary.json"
+        },
+        {
+          "id": "anh11-unit-2-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Động từ khuyết thiếu: must, have to, should",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh11-unit-2-p3-grammar.json"
+        },
+        {
+          "id": "anh11-unit-2-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về khoảng cách thế hệ",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh11-unit-2-p4-reading.json"
+        },
+        {
+          "id": "anh11-unit-2-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về xung đột thế hệ và cách giải quyết",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh11-unit-2-p5-speaking.json"
+        },
+        {
+          "id": "anh11-unit-2-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về quy định gia đình và xung đột",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh11-unit-2-p6-listening.json"
+        },
+        {
+          "id": "anh11-unit-2-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về khoảng cách thế hệ và cách thu hẹp",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh11-unit-2-p7-writing.json"
+        }
+      ]
+    }
+  ]
+}

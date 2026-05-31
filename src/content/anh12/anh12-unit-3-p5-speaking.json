@@ -1,0 +1,27 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-3-p5",
+  "name": "Part 5: Speaking",
+  "slug": "p5-speaking",
+  "description": "Thảo luận về các hành động bảo vệ môi trường",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Speaking: Discussing Green Living Practices",
+      "sections": [
+        {
+          "heading": "Speaking Skills",
+          "content": "<p><strong>Chủ đề:</strong> Discussing green living practices</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về thói quen sống xanh của bạn</li><li>Thảo luận về cách bảo vệ môi trường</li><li>Đề xuất giải pháp cho vấn đề môi trường</li><li>Chia sẻ về sản phẩm thân thiện môi trường</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I try to... / I always...</li><li>We should/must/need to...</li><li>It's important to...</li><li>One way to protect the environment is...</li><li>Instead of..., we can...</li><li>By doing this, we can...</li><li>This helps reduce/save...</li><li>I think/believe that...</li></ul>"
+        },
+        {
+          "heading": "Communication: Making Suggestions",
+          "content": "<p><strong>Making suggestions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Why don't we...?</li><li>How about + V-ing...?</li><li>Let's...</li><li>We could/should...</li><li>I suggest that we...</li></ul><p><strong>Responding:</strong></p><ul class='list-disc pl-5 space-y-2'><li>That's a good/great idea.</li><li>I agree. / I think so too.</li><li>That sounds good.</li><li>I'm not sure about that.</li></ul>"
+        }
+      ]
+    },
+    "exercises": []
+  }
+}

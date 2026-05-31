@@ -1,0 +1,254 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-7-p7",
+  "name": "Part 7: Writing",
+  "slug": "p7-writing",
+  "description": "Viết bài báo về truyền thông",
+  "duration_minutes": 60,
+  "difficulty_level": "hard",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Writing: A News Article About Mass Media",
+      "sections": [
+        {
+          "heading": "Writing Skills",
+          "content": "<p><strong>Chủ đề:</strong> Writing a news article or opinion piece about mass media</p><p><strong>Kỹ năng viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Organizing ideas:</strong> Sắp xếp ý tưởng logic</li><li><strong>Using linking words:</strong> Sử dụng từ nối</li><li><strong>Writing headlines:</strong> Viết tiêu đề thu hút</li><li><strong>Supporting with examples:</strong> Hỗ trợ bằng ví dụ</li><li><strong>Using adverbial clauses:</strong> Sử dụng mệnh đề trạng ngữ</li></ul><p><strong>Cấu trúc bài báo:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Headline (Tiêu đề):</strong></li><li>- Short and catchy: Ngắn gọn và thu hút</li><li>- Summarizes main point: Tóm tắt ý chính</li><li>- Uses active voice: Dùng thể chủ động</li><li><strong>Lead Paragraph (Đoạn mở đầu):</strong></li><li>- Answers: Who, What, When, Where, Why, How</li><li>- Most important information first</li><li>- Hook readers' attention</li><li><strong>Body Paragraphs (Thân bài):</strong></li><li>- Details and background: Chi tiết và bối cảnh</li><li>- Examples and evidence: Ví dụ và bằng chứng</li><li>- Quotes from experts: Trích dẫn từ chuyên gia</li><li>- Different perspectives: Các quan điểm khác nhau</li><li><strong>Conclusion (Kết bài):</strong></li><li>- Summary of key points: Tóm tắt điểm chính</li><li>- Future implications: Ý nghĩa tương lai</li><li>- Call to action (optional): Kêu gọi hành động</li></ul>"
+        },
+        {
+          "heading": "Useful Language",
+          "content": "<p><strong>Headlines:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Social Media Transforms Communication</li><li>Fake News: A Growing Threat</li><li>How Mass Media Shapes Public Opinion</li><li>The Rise of Digital Journalism</li></ul><p><strong>Lead paragraph:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mass media has become so influential that...</li><li>In recent years, social media has...</li><li>A new study reveals that...</li><li>Experts warn that...</li></ul><p><strong>Describing influence:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Media influences people so much that...</li><li>Social media is so powerful that...</li><li>The impact is such that...</li><li>Information spreads so quickly that...</li></ul><p><strong>Discussing problems:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Fake news has become such a problem that...</li><li>People share information as if it were verified.</li><li>Misinformation spreads so fast that...</li><li>The challenge is so serious that...</li></ul><p><strong>Suggesting solutions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Experts recommend that...</li><li>We should verify information the way journalists do.</li><li>It is essential to...</li><li>One solution is to...</li></ul><p><strong>Quoting experts:</strong></p><ul class='list-disc pl-5 space-y-2'><li>According to Dr. Smith, ...</li><li>As Professor Jones explains, ...</li><li>'Media literacy is crucial,' says...</li><li>Research shows that...</li></ul><p><strong>Conclusion:</strong></p><ul class='list-disc pl-5 space-y-2'><li>As mass media continues to evolve, ...</li><li>The future of journalism depends on...</li><li>Moving forward, we must...</li><li>Only time will tell whether...</li></ul><p><strong>Linking words:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Addition:</strong> Moreover, Furthermore, In addition, Also</li><li><strong>Contrast:</strong> However, On the other hand, Nevertheless, Although</li><li><strong>Result:</strong> Therefore, As a result, Consequently, Thus</li><li><strong>Example:</strong> For example, For instance, Such as</li><li><strong>Sequence:</strong> First, Second, Finally, Meanwhile</li></ul>"
+        },
+        {
+          "heading": "Sample News Article",
+          "content": "<p><strong>Sample article:</strong></p><p><strong>Headline:</strong> Social Media Influence: A Double-Edged Sword</p><p><strong>Lead:</strong></p><p>Social media has become so influential that it now shapes how billions of people think, communicate, and make decisions. However, experts warn that this power comes with serious risks, including the rapid spread of fake news and threats to mental health.</p><p><strong>Body 1:</strong></p><p>The impact of social media is so significant that it has transformed modern communication. Platforms like Facebook, Instagram, and Twitter connect people so effectively that families and friends can stay in touch across continents. Businesses use social media in such innovative ways that they can reach customers directly and build brand loyalty.</p><p><strong>Body 2:</strong></p><p>However, social media also presents challenges. Fake news spreads so quickly on these platforms that millions can see false information before fact-checkers identify it. People share posts as though they had verified the information, when in reality they haven't checked the source. 'The spread of misinformation is such a serious problem that it threatens democracy,' says Dr. Sarah Johnson, a media studies professor.</p><p><strong>Body 3:</strong></p><p>Another concern is mental health. Young people spend so much time on social media that it affects their well-being. Studies show that excessive use is linked to anxiety and depression. The platforms are designed in such a way that they can be addictive, with algorithms that keep users scrolling for hours.</p><p><strong>Conclusion:</strong></p><p>As social media continues to evolve, we must learn to use it responsibly. Experts recommend that users verify information the way journalists do, limit screen time, and think critically about what they consume. Only by developing media literacy can we enjoy social media's benefits while avoiding its dangers.</p>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "writing-ex1",
+        "type": "mcq",
+        "question": "What should a headline be?",
+        "options": [
+          "Long and boring",
+          "Short and catchy",
+          "Confusing",
+          "Random"
+        ],
+        "correct": 1,
+        "explanation": "Tiêu đề nên ngắn gọn và thu hút."
+      },
+      {
+        "id": "writing-ex2",
+        "type": "mcq",
+        "question": "Which linking word shows contrast?",
+        "options": ["Moreover", "However", "Therefore", "Furthermore"],
+        "correct": 1,
+        "explanation": "'However' thể hiện sự tương phản."
+      },
+      {
+        "id": "writing-ex3",
+        "type": "mcq",
+        "question": "What should the lead paragraph include?",
+        "options": [
+          "Only opinions",
+          "Who, What, When, Where, Why, How",
+          "Random information",
+          "Nothing important"
+        ],
+        "correct": 1,
+        "explanation": "Đoạn mở đầu nên trả lời các câu hỏi: Who, What, When, Where, Why, How."
+      },
+      {
+        "id": "writing-ex4",
+        "type": "mcq",
+        "question": "Which phrase introduces an example?",
+        "options": ["However", "For example", "Therefore", "In conclusion"],
+        "correct": 1,
+        "explanation": "'For example' dùng để đưa ra ví dụ."
+      },
+      {
+        "id": "writing-ex5",
+        "type": "mcq",
+        "question": "How should you quote an expert?",
+        "options": [
+          "Make up quotes",
+          "Use 'According to Dr. Smith, ...'",
+          "Don't quote anyone",
+          "Copy without attribution"
+        ],
+        "correct": 1,
+        "explanation": "Nên dùng 'According to...' để trích dẫn chuyên gia."
+      },
+      {
+        "id": "writing-ex6",
+        "type": "mcq",
+        "question": "Which is correct for describing media influence?",
+        "options": [
+          "Media influences people so much that it shapes opinions.",
+          "Media influences people such much that it shapes opinions.",
+          "Media influences people as much that it shapes opinions.",
+          "Media influences people too much that it shapes opinions."
+        ],
+        "correct": 0,
+        "explanation": "So + adv + that - mệnh đề kết quả."
+      },
+      {
+        "id": "writing-ex7",
+        "type": "mcq",
+        "question": "What is the purpose of a news article?",
+        "options": [
+          "To entertain only",
+          "To inform and explain",
+          "To confuse readers",
+          "To sell products"
+        ],
+        "correct": 1,
+        "explanation": "Mục đích của bài báo là thông tin và giải thích."
+      },
+      {
+        "id": "writing-ex8",
+        "type": "mcq",
+        "question": "Which linking word shows result?",
+        "options": ["Although", "However", "Therefore", "Moreover"],
+        "correct": 2,
+        "explanation": "'Therefore' thể hiện kết quả."
+      },
+      {
+        "id": "writing-ex9",
+        "type": "mcq",
+        "question": "What should body paragraphs include?",
+        "options": [
+          "Only one sentence",
+          "Details, examples, and evidence",
+          "Only opinions",
+          "Random words"
+        ],
+        "correct": 1,
+        "explanation": "Đoạn thân bài cần chi tiết, ví dụ và bằng chứng."
+      },
+      {
+        "id": "writing-ex10",
+        "type": "mcq",
+        "question": "Which phrase discusses fake news?",
+        "options": [
+          "All news is true",
+          "Fake news spreads so quickly that millions see it",
+          "News is boring",
+          "I like news"
+        ],
+        "correct": 1,
+        "explanation": "Câu này thảo luận về tin giả với mệnh đề kết quả."
+      },
+      {
+        "id": "writing-ex11",
+        "type": "mcq",
+        "question": "What should you do in the conclusion?",
+        "options": [
+          "Introduce new topics",
+          "Summarize key points and discuss implications",
+          "Write examples only",
+          "Ask many questions"
+        ],
+        "correct": 1,
+        "explanation": "Kết bài nên tóm tắt điểm chính và thảo luận ý nghĩa."
+      },
+      {
+        "id": "writing-ex12",
+        "type": "mcq",
+        "question": "Which is a good headline?",
+        "options": [
+          "I like media",
+          "Social Media Transforms Communication",
+          "The end",
+          "Random words"
+        ],
+        "correct": 1,
+        "explanation": "Tiêu đề tốt ngắn gọn, thu hút và tóm tắt ý chính."
+      },
+      {
+        "id": "writing-ex13",
+        "type": "mcq",
+        "question": "Which adverbial clause is correct?",
+        "options": [
+          "People share news as if it were verified.",
+          "People share news as if it is verified.",
+          "People share news so if it were verified.",
+          "People share news such if it were verified."
+        ],
+        "correct": 0,
+        "explanation": "As if + Past Simple (were) - tình huống không có thật."
+      },
+      {
+        "id": "writing-ex14",
+        "type": "mcq",
+        "question": "Which phrase adds information?",
+        "options": ["However", "Moreover", "Although", "But"],
+        "correct": 1,
+        "explanation": "'Moreover' dùng để thêm thông tin."
+      },
+      {
+        "id": "writing-ex15",
+        "type": "mcq",
+        "question": "What voice should headlines use?",
+        "options": [
+          "Passive voice",
+          "Active voice",
+          "No verbs",
+          "Complex sentences"
+        ],
+        "correct": 1,
+        "explanation": "Tiêu đề nên dùng thể chủ động (active voice)."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide if these are good writing practices (True/False):",
+        "options": [
+          "Use linking words to connect ideas",
+          "Write very long headlines",
+          "Support ideas with examples and evidence",
+          "Use adverbial clauses when discussing media"
+        ],
+        "correct": [0, 2, 3],
+        "explanation": "a) True - Nên dùng từ nối. b) False - Tiêu đề nên ngắn gọn. c) True - Nên hỗ trợ bằng ví dụ. d) True - Nên dùng mệnh đề trạng ngữ."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if the sentence is correct:",
+        "options": [
+          "Social media is so powerful that it influences millions.",
+          "Fake news spread so quickly that millions see it.",
+          "People share news as if it were verified.",
+          "We should verify information such journalists do."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - so + adj + that. b) False - phải là 'spreads'. c) True - as if + were. d) False - phải là 'the way journalists do'."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: _____ to Dr. Smith, media literacy is crucial. (one word)",
+        "correct": "According",
+        "explanation": "'According to' - theo như."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "Complete: For _____, social media connects people globally. (one word)",
+        "correct": "example",
+        "explanation": "'For example' - Ví dụ."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: News spreads _____ quickly that millions see it. (so/such)",
+        "correct": "so",
+        "explanation": "So + adv + that - mệnh đề kết quả."
+      }
+    ]
+  }
+}

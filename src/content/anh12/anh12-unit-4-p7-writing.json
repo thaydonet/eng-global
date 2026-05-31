@@ -1,0 +1,249 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-4-p7",
+  "name": "Part 7: Writing",
+  "slug": "p7-writing",
+  "description": "Viết bài luận về đô thị hóa",
+  "duration_minutes": 60,
+  "difficulty_level": "hard",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Writing: An Essay About Urbanisation",
+      "sections": [
+        {
+          "heading": "Writing Skills",
+          "content": "<p><strong>Chủ đề:</strong> Writing an essay about urbanisation</p><p><strong>Kỹ năng viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Organizing ideas:</strong> Sắp xếp ý tưởng logic</li><li><strong>Using linking words:</strong> Sử dụng từ nối</li><li><strong>Writing topic sentences:</strong> Viết câu chủ đề</li><li><strong>Supporting with examples:</strong> Hỗ trợ bằng ví dụ</li><li><strong>Writing conclusions:</strong> Viết kết luận</li></ul><p><strong>Cấu trúc bài luận:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Introduction (Mở bài):</strong></li><li>- Hook: Câu mở đầu thu hút</li><li>- Background: Giới thiệu chủ đề</li><li>- Thesis statement: Câu luận điểm chính</li><li><strong>Body Paragraph 1 (Thân bài 1):</strong> Nguyên nhân và lợi ích</li><li>- Topic sentence: Câu chủ đề</li><li>- Supporting details: Chi tiết hỗ trợ</li><li>- Examples: Ví dụ cụ thể</li><li><strong>Body Paragraph 2 (Thân bài 2):</strong> Thách thức và vấn đề</li><li>- Topic sentence</li><li>- Problems: Các vấn đề</li><li>- Effects: Tác động</li><li><strong>Body Paragraph 3 (Thân bài 3):</strong> Giải pháp</li><li>- Topic sentence</li><li>- Solutions: Các giải pháp</li><li>- Expected results: Kết quả mong đợi</li><li><strong>Conclusion (Kết bài):</strong></li><li>- Restate thesis: Nhắc lại luận điểm</li><li>- Summary: Tóm tắt ý chính</li><li>- Final thought: Suy nghĩ cuối cùng</li></ul>"
+        },
+        {
+          "heading": "Useful Language",
+          "content": "<p><strong>Introduction:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Urbanisation has become...</li><li>In recent years, ...</li><li>One of the most significant trends is...</li><li>This essay will discuss...</li></ul><p><strong>Discussing causes:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The main reason is...</li><li>People migrate to cities because...</li><li>This is due to...</li><li>One factor contributing to this is...</li></ul><p><strong>Discussing benefits:</strong></p><ul class='list-disc pl-5 space-y-2'><li>One of the main benefits is...</li><li>Urbanisation brings many advantages such as...</li><li>Cities offer better...</li><li>This has led to...</li></ul><p><strong>Discussing problems:</strong></p><ul class='list-disc pl-5 space-y-2'><li>However, rapid urbanisation has created...</li><li>One of the main challenges is...</li><li>This causes serious problems such as...</li><li>The bigger cities become, the more...</li></ul><p><strong>Suggesting solutions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>To address this issue, ...</li><li>The government should...</li><li>It is essential to...</li><li>One solution is to...</li><li>By implementing these measures, ...</li></ul><p><strong>Conclusion:</strong></p><ul class='list-disc pl-5 space-y-2'><li>In conclusion, ...</li><li>To sum up, ...</li><li>Overall, ...</li><li>While urbanisation brings challenges, ...</li></ul><p><strong>Linking words:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Addition:</strong> Moreover, Furthermore, In addition, Also</li><li><strong>Contrast:</strong> However, On the other hand, Nevertheless, Although</li><li><strong>Result:</strong> Therefore, As a result, Consequently, Thus</li><li><strong>Example:</strong> For example, For instance, Such as</li><li><strong>Sequence:</strong> First, Second, Finally, Lastly</li></ul>"
+        },
+        {
+          "heading": "Sample Essay Structure",
+          "content": "<p><strong>Sample outline:</strong></p><p><strong>Introduction:</strong></p><p>Urbanisation has become one of the most significant trends in the 21st century. More and more people have moved from rural areas to cities, transforming urban landscapes worldwide. This essay will discuss the causes, benefits, challenges, and solutions related to urbanisation.</p><p><strong>Body 1 - Causes and Benefits:</strong></p><p>The main reason people migrate to cities is economic opportunity. Cities offer better jobs, higher salaries, and improved access to education and healthcare. For example, in Vietnam, millions have moved to Hanoi and Ho Chi Minh City for better prospects. Moreover, urban areas provide modern infrastructure and diverse cultural activities.</p><p><strong>Body 2 - Challenges:</strong></p><p>However, rapid urbanisation has created serious problems. The bigger cities grow, the more crowded they become. Traffic congestion has worsened significantly, and air pollution has reached dangerous levels. Furthermore, many cities struggle with inadequate infrastructure, housing shortages, and the growth of slums where poor migrants cannot afford proper accommodation.</p><p><strong>Body 3 - Solutions:</strong></p><p>To address these challenges, governments must invest in urban planning and infrastructure. Building affordable housing and expanding public transportation are essential. The more money invested in these areas, the better the quality of life will be. Additionally, implementing sustainable development policies can help cities grow while protecting the environment.</p><p><strong>Conclusion:</strong></p><p>In conclusion, while urbanisation brings economic opportunities and modern amenities, it also creates significant challenges. With proper planning and investment, cities can continue to develop sustainably, providing a good quality of life for all residents.</p>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "writing-ex1",
+        "type": "mcq",
+        "question": "What should the introduction include?",
+        "options": [
+          "Only examples",
+          "Hook, background, and thesis statement",
+          "Only conclusion",
+          "Random ideas"
+        ],
+        "correct": 1,
+        "explanation": "Mở bài cần có câu mở đầu, giới thiệu và luận điểm."
+      },
+      {
+        "id": "writing-ex2",
+        "type": "mcq",
+        "question": "Which linking word shows contrast?",
+        "options": ["Moreover", "However", "Therefore", "Furthermore"],
+        "correct": 1,
+        "explanation": "'However' thể hiện sự tương phản."
+      },
+      {
+        "id": "writing-ex3",
+        "type": "mcq",
+        "question": "What is a topic sentence?",
+        "options": [
+          "The last sentence",
+          "The main idea of a paragraph",
+          "An example",
+          "A random sentence"
+        ],
+        "correct": 1,
+        "explanation": "Topic sentence là câu chủ đề của đoạn văn."
+      },
+      {
+        "id": "writing-ex4",
+        "type": "mcq",
+        "question": "Which phrase introduces an example?",
+        "options": ["However", "For example", "Therefore", "In conclusion"],
+        "correct": 1,
+        "explanation": "'For example' dùng để đưa ra ví dụ."
+      },
+      {
+        "id": "writing-ex5",
+        "type": "mcq",
+        "question": "How should you start a conclusion?",
+        "options": [
+          "With a new topic",
+          "With 'In conclusion' or 'To sum up'",
+          "With a question",
+          "With 'First'"
+        ],
+        "correct": 1,
+        "explanation": "Kết bài nên bắt đầu với 'In conclusion' hoặc 'To sum up'."
+      },
+      {
+        "id": "writing-ex6",
+        "type": "mcq",
+        "question": "Which is correct for suggesting solutions?",
+        "options": [
+          "The government should invest in infrastructure.",
+          "The government should to invest in infrastructure.",
+          "The government should investing in infrastructure.",
+          "The government should invested in infrastructure."
+        ],
+        "correct": 0,
+        "explanation": "'Should + V nguyên thể' là cấu trúc đúng."
+      },
+      {
+        "id": "writing-ex7",
+        "type": "mcq",
+        "question": "What does 'thesis statement' mean?",
+        "options": [
+          "An example",
+          "The main argument of the essay",
+          "A conclusion",
+          "A question"
+        ],
+        "correct": 1,
+        "explanation": "Thesis statement là luận điểm chính của bài."
+      },
+      {
+        "id": "writing-ex8",
+        "type": "mcq",
+        "question": "Which linking word shows result?",
+        "options": ["Although", "However", "Therefore", "Moreover"],
+        "correct": 2,
+        "explanation": "'Therefore' thể hiện kết quả."
+      },
+      {
+        "id": "writing-ex9",
+        "type": "mcq",
+        "question": "How many main parts does an essay have?",
+        "options": ["Two", "Three (Introduction, Body, Conclusion)", "Four", "Five"],
+        "correct": 1,
+        "explanation": "Bài luận có 3 phần chính: Mở bài, Thân bài, Kết bài."
+      },
+      {
+        "id": "writing-ex10",
+        "type": "mcq",
+        "question": "Which phrase discusses problems?",
+        "options": [
+          "One benefit is...",
+          "One of the main challenges is...",
+          "It's very good",
+          "I like it"
+        ],
+        "correct": 1,
+        "explanation": "'One of the main challenges is...' thảo luận về vấn đề."
+      },
+      {
+        "id": "writing-ex11",
+        "type": "mcq",
+        "question": "What should body paragraphs include?",
+        "options": [
+          "Only one sentence",
+          "Topic sentence, supporting details, and examples",
+          "Only examples",
+          "Random words"
+        ],
+        "correct": 1,
+        "explanation": "Đoạn thân bài cần câu chủ đề, chi tiết hỗ trợ và ví dụ."
+      },
+      {
+        "id": "writing-ex12",
+        "type": "mcq",
+        "question": "Which is a good hook for an urbanisation essay?",
+        "options": [
+          "I like cities.",
+          "Urbanisation has become one of the most significant trends.",
+          "The end.",
+          "Thank you."
+        ],
+        "correct": 1,
+        "explanation": "Câu mở đầu tốt thu hút sự chú ý về chủ đề."
+      },
+      {
+        "id": "writing-ex13",
+        "type": "mcq",
+        "question": "What does 'supporting details' mean?",
+        "options": [
+          "Random information",
+          "Information that explains and supports the main idea",
+          "Conclusion",
+          "Title"
+        ],
+        "correct": 1,
+        "explanation": "Supporting details là thông tin giải thích và hỗ trợ ý chính."
+      },
+      {
+        "id": "writing-ex14",
+        "type": "mcq",
+        "question": "Which phrase adds information?",
+        "options": ["However", "Moreover", "Although", "But"],
+        "correct": 1,
+        "explanation": "'Moreover' dùng để thêm thông tin."
+      },
+      {
+        "id": "writing-ex15",
+        "type": "mcq",
+        "question": "What should you do in the conclusion?",
+        "options": [
+          "Introduce new topics",
+          "Summarize main points and restate thesis",
+          "Write examples only",
+          "Ask many questions"
+        ],
+        "correct": 1,
+        "explanation": "Kết bài nên tóm tắt ý chính và nhắc lại luận điểm."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide if these are good writing practices (True/False):",
+        "options": [
+          "Use linking words to connect ideas",
+          "Write very long sentences without punctuation",
+          "Support ideas with examples",
+          "Copy from other sources without citing"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Nên dùng từ nối. b) False - Không nên viết câu quá dài. c) True - Nên hỗ trợ bằng ví dụ. d) False - Không được sao chép."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if the linking word is used correctly:",
+        "options": [
+          "Cities are crowded. However, they offer many opportunities.",
+          "Cities are crowded. Therefore, they are empty.",
+          "People migrate for jobs. Moreover, they seek better education.",
+          "Urbanisation is good. Although, it has no problems."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - However đúng. b) False - Therefore sai logic. c) True - Moreover đúng. d) False - Although sai cấu trúc."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: In _____, urbanisation brings both benefits and challenges. (one word)",
+        "correct": "conclusion",
+        "explanation": "'In conclusion' - Tóm lại."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "Complete: _____ example, many people have moved to Hanoi. (one word)",
+        "correct": "For",
+        "explanation": "'For example' - Ví dụ."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: The government _____ invest in infrastructure. (should/must - choose one)",
+        "correct": "should",
+        "explanation": "'Should' phù hợp để đề xuất giải pháp."
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "subject": "Tiếng Anh 10",
+  "subject_id": 40,
+  "lessons": [
+    {
+      "id": "anh10-unit-7-international-org",
+      "name": "Unit 7: Viet Nam and International Organisations",
+      "slug": "unit-7-viet-nam-and-international-organisations",
+      "chapter": "Unit 7: Viet Nam and International Organisations",
+      "chapter_id": "A10",
+      "lesson_id": 7,
+      "description": "Học về các tổ chức quốc tế như UN, UNICEF, WTO và tính từ so sánh hơn, so sánh nhất.",
+      "duration_minutes": 300,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1541872703-74c5e443d1f5?q=80&w=2673&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh10-unit-7-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về các tổ chức quốc tế và vai trò của Việt Nam",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh10-unit-7-p1-getting-started.json"
+        },
+        {
+          "id": "anh10-unit-7-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về các tổ chức quốc tế và hợp tác quốc tế",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh10-unit-7-p2-vocabulary.json"
+        },
+        {
+          "id": "anh10-unit-7-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Tính từ so sánh hơn và so sánh nhất",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh10-unit-7-p3-grammar.json"
+        },
+        {
+          "id": "anh10-unit-7-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về Việt Nam và các tổ chức quốc tế",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh10-unit-7-p4-reading.json"
+        },
+        {
+          "id": "anh10-unit-7-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về các tổ chức quốc tế và lợi ích của chúng",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh10-unit-7-p5-speaking.json"
+        },
+        {
+          "id": "anh10-unit-7-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về sự tham gia của Việt Nam trong các tổ chức quốc tế",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh10-unit-7-p6-listening.json"
+        },
+        {
+          "id": "anh10-unit-7-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về lợi ích của việc gia nhập tổ chức quốc tế",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh10-unit-7-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-7",
+          "name": "International Organisations Vocabulary",
+          "slug": "international-organisations-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 7: Viet Nam and International Organisations",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Organisation</td><td class='px-4 py-2'>(n) /ˌɔːɡənaɪˈzeɪʃn/</td><td class='px-4 py-2'>Tổ chức</td><td class='px-4 py-2'>Join an international organisation.</td></tr><tr><td class='px-4 py-2 font-bold'>International</td><td class='px-4 py-2'>(adj) /ˌɪntəˈnæʃnəl/</td><td class='px-4 py-2'>Quốc tế</td><td class='px-4 py-2'>International cooperation is important.</td></tr><tr><td class='px-4 py-2 font-bold'>Peacekeeping</td><td class='px-4 py-2'>(n) /ˈpiːskiːpɪŋ/</td><td class='px-4 py-2'>Gìn giữ hòa bình</td><td class='px-4 py-2'>UN peacekeeping missions.</td></tr><tr><td class='px-4 py-2 font-bold'>Trade</td><td class='px-4 py-2'>(n) /treɪd/</td><td class='px-4 py-2'>Thương mại</td><td class='px-4 py-2'>Expand international trade.</td></tr><tr><td class='px-4 py-2 font-bold'>Cooperate</td><td class='px-4 py-2'>(v) /kəʊˈɒpəreɪt/</td><td class='px-4 py-2'>Hợp tác</td><td class='px-4 py-2'>Countries cooperate on many issues.</td></tr><tr><td class='px-4 py-2 font-bold'>Development</td><td class='px-4 py-2'>(n) /dɪˈveləpmənt/</td><td class='px-4 py-2'>Sự phát triển</td><td class='px-4 py-2'>Economic development is crucial.</td></tr><tr><td class='px-4 py-2 font-bold'>Commitment</td><td class='px-4 py-2'>(n) /kəˈmɪtmənt/</td><td class='px-4 py-2'>Lời cam kết</td><td class='px-4 py-2'>Show strong commitment.</td></tr><tr><td class='px-4 py-2 font-bold'>Sovereignty</td><td class='px-4 py-2'>(n) /ˈsɒvrənti/</td><td class='px-4 py-2'>Chủ quyền</td><td class='px-4 py-2'>Respect national sovereignty.</td></tr><tr><td class='px-4 py-2 font-bold'>Partnership</td><td class='px-4 py-2'>(n) /ˈpɑːtnəʃɪp/</td><td class='px-4 py-2'>Quan hệ đối tác</td><td class='px-4 py-2'>Build strong partnerships.</td></tr><tr><td class='px-4 py-2 font-bold'>Member</td><td class='px-4 py-2'>(n) /ˈmembə(r)/</td><td class='px-4 py-2'>Thành viên</td><td class='px-4 py-2'>Become a member of ASEAN.</td></tr><tr><td class='px-4 py-2 font-bold'>Participate</td><td class='px-4 py-2'>(v) /pɑːˈtɪsɪpeɪt/</td><td class='px-4 py-2'>Tham gia</td><td class='px-4 py-2'>Participate in UN activities.</td></tr><tr><td class='px-4 py-2 font-bold'>Contribute</td><td class='px-4 py-2'>(v) /kənˈtrɪbjuːt/</td><td class='px-4 py-2'>Đóng góp</td><td class='px-4 py-2'>Contribute to global peace.</td></tr><tr><td class='px-4 py-2 font-bold'>Integrate</td><td class='px-4 py-2'>(v) /ˈɪntɪɡreɪt/</td><td class='px-4 py-2'>Hội nhập</td><td class='px-4 py-2'>Integrate into the global community.</td></tr><tr><td class='px-4 py-2 font-bold'>Benefit</td><td class='px-4 py-2'>(n, v) /ˈbenɪfɪt/</td><td class='px-4 py-2'>Lợi ích, có lợi</td><td class='px-4 py-2'>Bring economic benefits.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>International organisations (Các tổ chức quốc tế):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>UN (United Nations):</strong> Liên Hợp Quốc</li><li><strong>ASEAN:</strong> Hiệp hội các quốc gia Đông Nam Á</li><li><strong>WTO (World Trade Organization):</strong> Tổ chức Thương mại Thế giới</li><li><strong>WHO (World Health Organization):</strong> Tổ chức Y tế Thế giới</li><li><strong>UNICEF:</strong> Quỹ Nhi đồng Liên Hợp Quốc</li><li><strong>UNESCO:</strong> Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc</li></ul><p><strong>Collocations về hợp tác quốc tế:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>join an organisation:</strong> gia nhập tổ chức</li><li><strong>become a member:</strong> trở thành thành viên</li><li><strong>strengthen partnerships:</strong> tăng cường quan hệ đối tác</li><li><strong>promote cooperation:</strong> thúc đẩy hợp tác</li><li><strong>expand trade:</strong> mở rộng thương mại</li><li><strong>contribute to peace:</strong> đóng góp cho hòa bình</li><li><strong>participate in activities:</strong> tham gia các hoạt động</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm: Trọng âm của từ nhiều hơn ba âm tiết",
+              "content": "<h3>Quy tắc trọng âm cho từ có 4 âm tiết trở lên:</h3><p><strong>1. Từ tận cùng bằng -tion, -sion</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nhấn trọng âm vào âm tiết ngay trước đuôi</li><li><strong>organi'sation</strong> /ˌɔːɡənaɪˈzeɪʃn/</li><li><strong>coopera'tion</strong> /kəʊˌɒpəˈreɪʃn/</li><li><strong>participa'tion</strong> /pɑːˌtɪsɪˈpeɪʃn/</li></ul><p><strong>2. Từ tận cùng bằng -ity</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nhấn trọng âm vào âm tiết ngay trước đuôi</li><li><strong>responsi'bility</strong> /rɪˌspɒnsəˈbɪləti/</li><li><strong>communi'ty</strong> /kəˈmjuːnəti/</li></ul><p><strong>3. Từ tận cùng bằng -al</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nhấn trọng âm vào âm tiết ngay trước đuôi</li><li><strong>inter'national</strong> /ˌɪntəˈnæʃnəl/</li><li><strong>edu'cational</strong> /ˌedʒuˈkeɪʃənl/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp: Tính từ so sánh hơn và so sánh nhất",
+              "content": "<h3>A. Comparative Adjectives (So sánh hơn)</h3><p><strong>1. Tính từ ngắn (1 âm tiết):</strong></p><p>Công thức: <strong>adj + -er + than</strong></p><ul class='list-disc pl-5 space-y-2'><li>tall → taller than</li><li>big → bigger than (nhân đôi phụ âm cuối)</li><li>Ex: The UN is larger than ASEAN.</li></ul><p><strong>2. Tính từ dài (2 âm tiết trở lên):</strong></p><p>Công thức: <strong>more + adj + than</strong></p><ul class='list-disc pl-5 space-y-2'><li>important → more important than</li><li>difficult → more difficult than</li><li>Ex: International cooperation is more important than ever.</li></ul><p><strong>3. Tính từ có 2 âm tiết tận cùng bằng -y:</strong></p><p>Công thức: <strong>-ier + than</strong> (đổi y thành i)</p><ul class='list-disc pl-5 space-y-2'><li>happy → happier than</li><li>easy → easier than</li><li>Ex: Learning English is easier than learning Chinese.</li></ul><h3>B. Superlative Adjectives (So sánh nhất)</h3><p><strong>1. Tính từ ngắn:</strong></p><p>Công thức: <strong>the + adj + -est</strong></p><ul class='list-disc pl-5 space-y-2'><li>tall → the tallest</li><li>big → the biggest</li><li>Ex: The UN is the largest international organisation.</li></ul><p><strong>2. Tính từ dài:</strong></p><p>Công thức: <strong>the + most + adj</strong></p><ul class='list-disc pl-5 space-y-2'><li>important → the most important</li><li>difficult → the most difficult</li><li>Ex: Peace is the most important goal.</li></ul><p><strong>3. Tính từ có 2 âm tiết tận cùng bằng -y:</strong></p><p>Công thức: <strong>the + -iest</strong></p><ul class='list-disc pl-5 space-y-2'><li>happy → the happiest</li><li>easy → the easiest</li></ul><h3>C. Irregular Adjectives (Tính từ bất quy tắc)</h3><table class='min-w-full divide-y divide-gray-200 mt-4'><thead><tr><th class='px-4 py-2 text-left'>Positive</th><th class='px-4 py-2 text-left'>Comparative</th><th class='px-4 py-2 text-left'>Superlative</th></tr></thead><tbody><tr><td class='px-4 py-2'>good</td><td class='px-4 py-2'>better</td><td class='px-4 py-2'>the best</td></tr><tr><td class='px-4 py-2'>bad</td><td class='px-4 py-2'>worse</td><td class='px-4 py-2'>the worst</td></tr><tr><td class='px-4 py-2'>far</td><td class='px-4 py-2'>farther/further</td><td class='px-4 py-2'>the farthest/furthest</td></tr><tr><td class='px-4 py-2'>many/much</td><td class='px-4 py-2'>more</td><td class='px-4 py-2'>the most</td></tr><tr><td class='px-4 py-2'>little</td><td class='px-4 py-2'>less</td><td class='px-4 py-2'>the least</td></tr></tbody></table><p class='mt-4'><strong>Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>This solution is better than that one.</li><li>The UN is the best organisation for world peace.</li><li>The situation is worse than before.</li></ul>"
+            },
+            {
+              "heading": "5. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Giới thiệu về các tổ chức quốc tế và vai trò của Việt Nam.</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về các tổ chức quốc tế như UN, ASEAN, WTO</li><li>Thảo luận về lợi ích của việc tham gia tổ chức quốc tế</li><li>Từ vựng về hợp tác quốc tế</li><li>Chia sẻ về vai trò của Việt Nam trong cộng đồng quốc tế</li></ul>"
+            },
+            {
+              "heading": "6. II. Language",
+              "content": "<p><strong>A. Pronunciation: Stress in words with more than three syllables</strong></p><p>Luyện phát âm trọng âm của từ có 4 âm tiết trở lên liên quan đến tổ chức quốc tế</p><p><strong>B. Vocabulary:</strong> International organisations</p><ul class='list-disc pl-5 space-y-2'><li>Words related to international cooperation</li><li>Names of major international organisations</li><li>Terms about trade and development</li><li>Peacekeeping and global issues</li></ul><p><strong>C. Grammar:</strong> Comparative and Superlative Adjectives</p>"
+            },
+            {
+              "heading": "7. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Viet Nam and international organisations</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu văn bản về các tổ chức quốc tế</li><li>Tìm thông tin chi tiết về sự tham gia của Việt Nam</li><li>Hiểu lợi ích của hợp tác quốc tế</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li></ul><p><strong>Nội dung:</strong> Bài đọc giới thiệu về lịch sử gia nhập các tổ chức quốc tế của Việt Nam (UN, ASEAN, WTO), lợi ích kinh tế và chính trị, và vai trò ngày càng quan trọng của Việt Nam trong cộng đồng quốc tế.</p>"
+            },
+            {
+              "heading": "8. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Talking about international organisations and their benefits</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả các tổ chức quốc tế</li><li>Nói về vai trò và chức năng của các tổ chức</li><li>So sánh các tổ chức khác nhau</li><li>Thảo luận về lợi ích của hợp tác quốc tế</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The UN is larger/more important than...</li><li>ASEAN is one of the most successful regional organisations.</li><li>Viet Nam has benefited from...</li><li>International cooperation is better than...</li><li>The most important role of... is...</li></ul>"
+            },
+            {
+              "heading": "9. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> A talk about Viet Nam's participation in international organisations</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu thông tin về các tổ chức quốc tế</li><li>Điền thông tin còn thiếu về lịch sử gia nhập</li><li>Trả lời câu hỏi chi tiết về lợi ích và thách thức</li><li>Ghi chú các ý quan trọng về hợp tác quốc tế</li></ul>"
+            },
+            {
+              "heading": "10. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing about the benefits of joining international organisations</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đoạn văn về tổ chức quốc tế</li><li>Sử dụng Comparative và Superlative để so sánh</li><li>Trình bày lợi ích và thách thức</li><li>Sử dụng từ nối để liên kết ý</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Introduction: Giới thiệu tổ chức quốc tế</li><li>Body: Mô tả vai trò, so sánh với các tổ chức khác, trình bày lợi ích</li><li>Conclusion: Kết luận về tầm quan trọng của hợp tác quốc tế</li></ul><p><strong>Useful structures:</strong> ... is more important than... / ... is the most successful... / Compared to..., ... is better</p>"
+            },
+            {
+              "heading": "11. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Discussing international cooperation</p><p><strong>Culture:</strong> International organisations and global partnerships</p><ul class='list-disc pl-5 space-y-2'><li>So sánh vai trò của Việt Nam trong các tổ chức khác nhau</li><li>Tìm hiểu về các tổ chức quốc tế lớn trên thế giới</li><li>Thảo luận về văn hóa hợp tác quốc tế</li><li>Các chương trình hợp tác phát triển</li></ul><p><strong>CLIL (Social Studies/Politics):</strong> Global cooperation and development</p><ul class='list-disc pl-5 space-y-2'><li>Vai trò của UN trong gìn giữ hòa bình</li><li>Lợi ích kinh tế từ WTO</li><li>Hợp tác khu vực qua ASEAN</li></ul>"
+            },
+            {
+              "heading": "12. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vocabulary: International organisations, cooperation, trade, development</li><li>Pronunciation: Stress in words with more than three syllables</li><li>Grammar: Comparative and Superlative Adjectives</li><li>Skills: Reading, Speaking, Listening, Writing</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng sử dụng từ vựng và ngữ pháp đã học, khả năng so sánh và nói về các tổ chức quốc tế</p>"
+            },
+            {
+              "heading": "13. Project",
+              "content": "<p><strong>Đề tài:</strong> Research an International Organisation</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một tổ chức quốc tế (UN, WHO, UNICEF, UNESCO, WTO, ASEAN...)</li><li>Nghiên cứu về lịch sử, mục tiêu và hoạt động chính</li><li>Tìm hiểu vai trò của Việt Nam trong tổ chức đó</li><li>So sánh với các tổ chức khác (sử dụng comparative và superlative)</li><li>Tạo presentation hoặc poster về tổ chức</li><li>Trình bày và giải thích tại sao tổ chức này quan trọng</li></ul><p><strong>Yêu cầu:</strong> Sử dụng Comparative và Superlative Adjectives để so sánh các tổ chức (This organisation is more important than... / It is the largest...)</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Comparison",
+            "method": "<p>Complete sentences using the comparative form of adjectives.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Viet Nam has become an active member of many international organisations. Since joining the United Nations (UN) in 1977, Viet Nam has participated in various UN activities and peacekeeping missions. The country has also been a member of the Association of Southeast Asian Nations (ASEAN) since 1995.\n\nIn 2007, Viet Nam joined the World Trade Organization (WTO), which has brought significant economic benefits. Membership in the WTO has helped Viet Nam expand its international trade and attract more foreign investment. Vietnamese products now reach markets around the world more easily than before.\n\nThrough these international organisations, Viet Nam has strengthened its partnerships with other countries. The country has shown strong commitment to international cooperation and has contributed to global peace and development. Being part of these organisations has helped Viet Nam become more integrated into the global community and has improved the lives of its people.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Viet Nam only joined the UN",
+                  "Viet Nam's active participation in international organisations",
+                  "International organisations are not important",
+                  "Viet Nam has no international partners"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về sự tham gia tích cực của Việt Nam vào các tổ chức quốc tế."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "When did Viet Nam join the United Nations?",
+                "options": [
+                  "In 1995",
+                  "In 2007",
+                  "In 1977",
+                  "In 1945"
+                ],
+                "correct": 2,
+                "explanation": "Việt Nam gia nhập Liên Hợp Quốc năm 1977."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'significant' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "small",
+                  "important",
+                  "negative",
+                  "useless"
+                ],
+                "correct": 1,
+                "explanation": "Significant = important (quan trọng, đáng kể)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "According to the passage, what has WTO membership helped Viet Nam do?",
+                "options": [
+                  "Reduce international trade",
+                  "Expand international trade and attract investment",
+                  "Leave other organisations",
+                  "Stop exporting products"
+                ],
+                "correct": 1,
+                "explanation": "Thành viên WTO giúp Việt Nam mở rộng thương mại quốc tế và thu hút đầu tư."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "What has Viet Nam shown through international organisations?",
+                "options": [
+                  "Lack of interest in cooperation",
+                  "Strong commitment to international cooperation",
+                  "Desire to work alone",
+                  "Unwillingness to help others"
+                ],
+                "correct": 1,
+                "explanation": "Việt Nam thể hiện cam kết mạnh mẽ với hợp tác quốc tế."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "Viet Nam has become a(n) ______ of several international organisations.",
+            "options": ["member", "organizer", "leader", "founder"],
+            "correct": 0,
+            "explanation": "Member: thành viên."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The UN is the ______ international organisation in the world.",
+            "options": ["largest", "larger", "large", "as large as"],
+            "correct": 0,
+            "explanation": "Dùng so sánh nhất (the largest) để nói về tổ chức lớn nhất thế giới."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "UNICEF helps children in ______ countries get better education.",
+            "options": ["developed", "developing", "rich", "wealthy"],
+            "correct": 1,
+            "explanation": "Developing countries: các nước đang phát triển."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "Life in the city is ______ than in the countryside.",
+            "options": ["more expensive", "expensive", "most expensive", "as expensive"],
+            "correct": 0,
+            "explanation": "So sánh hơn của tính từ dài (more expensive than)."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "Joining international organisations brings ______ benefits to Viet Nam.",
+            "options": ["economical", "economic", "economy", "economically"],
+            "correct": 1,
+            "explanation": "Economic benefits: lợi ích kinh tế."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "The new project is ______ than the previous one.",
+            "options": ["important", "more important", "most important", "as important"],
+            "correct": 1,
+            "explanation": "So sánh hơn của tính từ dài."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "Viet Nam is ______ committed to cooperating with its partners.",
+            "options": ["strongly", "strong", "stronger", "strongest"],
+            "correct": 0,
+            "explanation": "Dùng trạng từ (strongly) để bổ nghĩa cho động từ/tính từ committed."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "Learning English is ______ than it used to be.",
+            "options": ["easy", "easier", "easiest", "more easy"],
+            "correct": 1,
+            "explanation": "So sánh hơn của tính từ ngắn (easier than)."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "The WTO helps countries improve their international ______.",
+            "options": ["trade", "trading", "trader", "trades"],
+            "correct": 0,
+            "explanation": "International trade: thương mại quốc tế."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "This lesson is ______ than the one we had yesterday.",
+            "options": ["difficult", "more difficult", "most difficult", "as difficult"],
+            "correct": 1,
+            "explanation": "So sánh hơn của tính từ dài."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Comparative adjectives are used to compare two things.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. So sánh hơn dùng để so sánh hai đối tượng."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "The superlative form of 'good' is 'gooder'.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. So sánh nhất của 'good' là 'the best' (bất quy tắc)."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Viet Nam joined the WTO in 2007.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Việt Nam gia nhập WTO năm 2007."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What is the largest international organisation in the world? (two letters)",
+            "correct": "UN",
+            "explanation": "UN (United Nations - Liên Hợp Quốc) là tổ chức quốc tế lớn nhất thế giới."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: This book is ______ than that one. (more interesting)",
+            "correct": "more interesting",
+            "explanation": "So sánh hơn của tính từ dài: more + adjective + than."
+          }
+        ]
+      }
+    }
+  ]
+}

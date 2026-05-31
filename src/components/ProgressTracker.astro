@@ -1,0 +1,162 @@
+---
+interface Props {
+  current: number;
+  total: number;
+  lessonId: string;
+}
+
+const { current, total, lessonId } = Astro.props;
+const percentage = Math.round((current / total) * 100);
+---
+
+<div class="bg-white rounded-xl shadow-soft border border-gray-100 p-6">
+  <div class="flex items-center justify-between mb-4">
+    <h3 class="text-sm font-bold text-gray-900 flex items-center">
+      <svg class="w-5 h-5 mr-2 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+      </svg>
+      Tiến độ học tập
+    </h3>
+    <span class="text-2xl font-bold text-primary-600">{percentage}%</span>
+  </div>
+
+  <div class="relative">
+    <div class="h-3 bg-gray-200 rounded-full overflow-hidden">
+      <div
+        class="h-full bg-gradient-to-r from-primary-500 to-secondary-500 rounded-full transition-all duration-500"
+        style={`width: ${percentage}%`}
+      ></div>
+    </div>
+  </div>
+
+  <div class="mt-3 flex items-center justify-between text-xs text-gray-600">
+    <span>{current}/{total} bài đã học</span>
+    <button
+      id="mark-complete-btn"
+      data-lesson-id={lessonId}
+      class="px-3 py-1.5 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors font-medium text-sm flex items-center"
+    >
+      <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+      </svg>
+      Đánh dấu hoàn thành
+    </button>
+  </div>
+</div>
+
+<script>
+  // Progress tracking with localStorage
+  const STORAGE_KEY = 'lms_lesson_progress';
+
+  interface LessonProgress {
+    [lessonId: string]: {
+      completed: boolean;
+      lastVisited: string;
+      completedAt?: string;
+    };
+  }
+
+  function getProgress(): LessonProgress {
+    const stored = localStorage.getItem(STORAGE_KEY);
+    return stored ? JSON.parse(stored) : {};
+  }
+
+  function saveProgress(progress: LessonProgress) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+  }
+
+  function markLessonComplete(lessonId: string) {
+    const progress = getProgress();
+    progress[lessonId] = {
+      completed: true,
+      lastVisited: new Date().toISOString(),
+      completedAt: new Date().toISOString(),
+    };
+    saveProgress(progress);
+
+    // Dispatch custom event for progress update
+    window.dispatchEvent(new CustomEvent('progressUpdated', { detail: progress }));
+  }
+
+  function trackVisit(lessonId: string) {
+    const progress = getProgress();
+    if (!progress[lessonId]) {
+      progress[lessonId] = {
+        completed: false,
+        lastVisited: new Date().toISOString(),
+      };
+    } else {
+      progress[lessonId].lastVisited = new Date().toISOString();
+    }
+    saveProgress(progress);
+  }
+
+  // Initialize on page load
+  document.addEventListener('DOMContentLoaded', () => {
+    const btn = document.getElementById('mark-complete-btn');
+    if (btn) {
+      const lessonId = btn.getAttribute('data-lesson-id');
+      if (lessonId) {
+        // Track visit
+        trackVisit(lessonId);
+
+        // Check if already completed
+        const progress = getProgress();
+        if (progress[lessonId]?.completed) {
+          btn.innerHTML = `
+            <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/>
+            </svg>
+            Đã hoàn thành
+          `;
+          btn.classList.remove('bg-primary-600', 'hover:bg-primary-700');
+          btn.classList.add('bg-success-600', 'hover:bg-success-700');
+        }
+
+        // Add click handler
+        btn.addEventListener('click', () => {
+          markLessonComplete(lessonId);
+          btn.innerHTML = `
+            <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/>
+            </svg>
+            Đã hoàn thành
+          `;
+          btn.classList.remove('bg-primary-600', 'hover:bg-primary-700');
+          btn.classList.add('bg-success-600', 'hover:bg-success-700');
+
+          // Show success message
+          const message = document.createElement('div');
+          message.className = 'fixed top-4 right-4 bg-success-600 text-white px-6 py-3 rounded-lg shadow-lg z-50 animate-fade-in';
+          message.innerHTML = `
+            <div class="flex items-center">
+              <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/>
+              </svg>
+              Đã đánh dấu hoàn thành bài học!
+            </div>
+          `;
+          document.body.appendChild(message);
+          setTimeout(() => message.remove(), 3000);
+        });
+      }
+    }
+  });
+</script>
+
+<style>
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animate-fade-in {
+    animation: fade-in 0.3s ease-out;
+  }
+</style>

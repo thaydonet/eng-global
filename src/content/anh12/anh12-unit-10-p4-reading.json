@@ -1,0 +1,266 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-10-p4",
+  "name": "Part 4: Reading",
+  "slug": "p4-reading",
+  "description": "Đọc hiểu về học tập suốt đời trong thế giới hiện đại",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Reading: Lifelong Learning in the Modern World",
+      "sections": [
+        {
+          "heading": "Reading Passage: The Power of Lifelong Learning",
+          "content": "<div class='bg-white dark:bg-gray-800 p-6 rounded-lg'><p class='mb-4'>Lifelong learning has become essential in today's rapidly changing world. Technology evolves so quickly that skills learned in school can become outdated within a few years. Employers increasingly value workers who continuously update their knowledge and adapt to new challenges.</p><p class='mb-4'>My career counselor told me to embrace lifelong learning early in my career. She advised me to take online courses regularly and recommended that I should earn professional certificates. She also suggested joining professional networks to learn from others. This advice proved invaluable.</p><p class='mb-4'>Online learning platforms have made education more accessible than ever. Websites like Coursera, edX, and Udemy offer thousands of courses on virtually any topic. My manager asked me to complete a data analysis course last year, and it significantly improved my job performance. The instructor told us to practice daily and encouraged us not to give up when facing difficulties.</p><p class='mb-4'>However, lifelong learning requires self-discipline and motivation. My mentor warned me not to take on too many courses at once. He advised me to focus on quality rather than quantity and suggested setting realistic goals. He also offered to help me create a learning plan.</p><p class='mb-4'>The benefits of continuous learning extend beyond career advancement. Learning new skills boosts confidence, keeps the mind sharp, and opens doors to new opportunities. Whether you're learning a new language, mastering a technical skill, or exploring a hobby, the key is to stay curious and committed. My teacher always told me that learning is a journey, not a destination.</p></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "reading-ex1",
+        "type": "mcq",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Online courses are expensive",
+          "Lifelong learning is essential in the modern world",
+          "School education is enough",
+          "Learning is only for young people"
+        ],
+        "correct": 1,
+        "explanation": "Ý chính là học tập suốt đời quan trọng trong thế giới hiện đại."
+      },
+      {
+        "id": "reading-ex2",
+        "type": "mcq",
+        "question": "What did the career counselor advise?",
+        "options": [
+          "To stop learning",
+          "To take online courses and earn certificates",
+          "To avoid professional networks",
+          "To focus only on work"
+        ],
+        "correct": 1,
+        "explanation": "Cố vấn khuyên tham gia khóa học trực tuyến và lấy chứng chỉ."
+      },
+      {
+        "id": "reading-ex3",
+        "type": "mcq",
+        "question": "Which platforms are mentioned for online learning?",
+        "options": [
+          "Facebook and Instagram",
+          "Coursera, edX, and Udemy",
+          "Twitter and TikTok",
+          "YouTube only"
+        ],
+        "correct": 1,
+        "explanation": "Coursera, edX và Udemy được đề cập."
+      },
+      {
+        "id": "reading-ex4",
+        "type": "mcq",
+        "question": "What did the mentor warn about?",
+        "options": [
+          "Learning is useless",
+          "Not to take on too many courses at once",
+          "Online courses don't work",
+          "To avoid all learning"
+        ],
+        "correct": 1,
+        "explanation": "Người cố vấn cảnh báo không nên tham gia quá nhiều khóa học cùng lúc."
+      },
+      {
+        "id": "reading-ex5",
+        "type": "mcq",
+        "question": "According to the passage, what does lifelong learning require?",
+        "options": [
+          "No effort",
+          "Self-discipline and motivation",
+          "Only money",
+          "Just luck"
+        ],
+        "correct": 1,
+        "explanation": "Học tập suốt đời đòi hỏi tự kỷ luật và động lực."
+      },
+      {
+        "id": "reading-ex6",
+        "type": "mcq",
+        "question": "What did the instructor tell students to do?",
+        "options": [
+          "Give up easily",
+          "Practice daily",
+          "Avoid difficulties",
+          "Stop learning"
+        ],
+        "correct": 1,
+        "explanation": "Giảng viên bảo học sinh luyện tập hàng ngày."
+      },
+      {
+        "id": "reading-ex7",
+        "type": "mcq",
+        "question": "What benefit of learning is NOT mentioned?",
+        "options": [
+          "Boosts confidence",
+          "Keeps mind sharp",
+          "Makes you rich instantly",
+          "Opens new opportunities"
+        ],
+        "correct": 2,
+        "explanation": "Làm giàu ngay lập tức không được đề cập."
+      },
+      {
+        "id": "reading-ex8",
+        "type": "mcq",
+        "question": "What did the mentor offer to do?",
+        "options": [
+          "Nothing",
+          "Help create a learning plan",
+          "Pay for courses",
+          "Do the work"
+        ],
+        "correct": 1,
+        "explanation": "Người cố vấn đề nghị giúp tạo kế hoạch học tập."
+      },
+      {
+        "id": "reading-ex9",
+        "type": "mcq",
+        "question": "According to the passage, why is lifelong learning important?",
+        "options": [
+          "It's not important",
+          "Skills can become outdated quickly",
+          "It's just a trend",
+          "Schools require it"
+        ],
+        "correct": 1,
+        "explanation": "Kỹ năng có thể trở nên lỗi thời nhanh chóng."
+      },
+      {
+        "id": "reading-ex10",
+        "type": "mcq",
+        "question": "What did the teacher say about learning?",
+        "options": [
+          "It's a destination",
+          "It's a journey",
+          "It's impossible",
+          "It's boring"
+        ],
+        "correct": 1,
+        "explanation": "Giáo viên nói học tập là một hành trình, không phải đích đến."
+      },
+      {
+        "id": "reading-ex11",
+        "type": "msq",
+        "question_text": "According to the passage, mark True or False:",
+        "options": [
+          "Technology evolves quickly.",
+          "Skills never become outdated.",
+          "Online platforms make education accessible.",
+          "Lifelong learning requires no effort."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True. b) False - Kỹ năng có thể lỗi thời. c) True. d) False - Cần tự kỷ luật."
+      },
+      {
+        "id": "reading-ex12",
+        "type": "msq",
+        "question_text": "Decide True or False:",
+        "options": [
+          "The counselor advised taking online courses.",
+          "The mentor suggested taking many courses at once.",
+          "Learning boosts confidence.",
+          "The instructor encouraged giving up."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True. b) False - Không nên quá nhiều. c) True. d) False - Khuyến khích không bỏ cuộc."
+      },
+      {
+        "id": "reading-ex13",
+        "type": "msq",
+        "question_text": "Mark True or False:",
+        "options": [
+          "Employers value continuous learners.",
+          "Online courses are not accessible.",
+          "The mentor offered to help.",
+          "Learning is only for career."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True. b) False - Rất dễ tiếp cận. c) True. d) False - Còn nhiều lợi ích khác."
+      },
+      {
+        "id": "reading-ex14",
+        "type": "sa",
+        "question_text": "What type of learning is discussed? (two words)",
+        "correct": "lifelong learning",
+        "explanation": "Lifelong learning - học tập suốt đời."
+      },
+      {
+        "id": "reading-ex15",
+        "type": "sa",
+        "question_text": "Name one platform mentioned: (one word)",
+        "correct": "Coursera",
+        "explanation": "Coursera là một trong các nền tảng được đề cập."
+      },
+      {
+        "id": "reading-ex16",
+        "type": "sa",
+        "question_text": "What does lifelong learning require? (two words)",
+        "correct": "self-discipline",
+        "explanation": "Self-discipline - tự kỷ luật."
+      },
+      {
+        "id": "reading-ex17",
+        "type": "mcq",
+        "question": "What improved the writer's job performance?",
+        "options": [
+          "Doing nothing",
+          "Completing a data analysis course",
+          "Avoiding work",
+          "Quitting job"
+        ],
+        "correct": 1,
+        "explanation": "Hoàn thành khóa học phân tích dữ liệu cải thiện hiệu suất công việc."
+      },
+      {
+        "id": "reading-ex18",
+        "type": "mcq",
+        "question": "What should learners focus on according to the mentor?",
+        "options": [
+          "Quantity only",
+          "Quality rather than quantity",
+          "Speed only",
+          "Nothing"
+        ],
+        "correct": 1,
+        "explanation": "Nên tập trung vào chất lượng hơn là số lượng."
+      },
+      {
+        "id": "reading-ex19",
+        "type": "mcq",
+        "question": "What keeps the mind sharp?",
+        "options": [
+          "Doing nothing",
+          "Learning new skills",
+          "Avoiding challenges",
+          "Sleeping all day"
+        ],
+        "correct": 1,
+        "explanation": "Học kỹ năng mới giúp trí óc minh mẫn."
+      },
+      {
+        "id": "reading-ex20",
+        "type": "mcq",
+        "question": "What is the key to lifelong learning?",
+        "options": [
+          "Give up easily",
+          "Stay curious and committed",
+          "Avoid new things",
+          "Never try"
+        ],
+        "correct": 1,
+        "explanation": "Chìa khóa là duy trì sự tò mò và cam kết."
+      }
+    ]
+  }
+}

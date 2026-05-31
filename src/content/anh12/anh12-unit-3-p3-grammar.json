@@ -1,0 +1,68 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-3-p3",
+  "name": "Part 3: Language - Grammar",
+  "slug": "p3-grammar",
+  "description": "Động từ với giới từ và đại từ quan hệ which",
+  "duration_minutes": 60,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Grammar: Phrasal Verbs and Relative Pronoun 'Which'",
+      "sections": [
+        {
+          "heading": "A. Phrasal Verbs with Prepositions (Động từ với giới từ)",
+          "content": "<p><strong>Định nghĩa:</strong> Phrasal verbs là động từ kết hợp với giới từ hoặc trạng từ tạo thành nghĩa mới.</p><p><strong>1. Common Phrasal Verbs về môi trường:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>turn off:</strong> tắt (đèn, thiết bị)</li><li>Ex: <strong>Turn off</strong> the lights when you leave.</li><li><strong>turn on:</strong> bật</li><li>Ex: Don't <strong>turn on</strong> the air conditioner unnecessarily.</li><li><strong>cut down on:</strong> cắt giảm</li><li>Ex: We should <strong>cut down on</strong> plastic use.</li><li><strong>give up:</strong> từ bỏ</li><li>Ex: <strong>Give up</strong> single-use plastic bags.</li><li><strong>pick up:</strong> nhặt lên</li><li>Ex: <strong>Pick up</strong> litter in the park.</li><li><strong>throw away:</strong> vứt bỏ</li><li>Ex: Don't <strong>throw away</strong> recyclable materials.</li><li><strong>run out of:</strong> hết, cạn kiệt</li><li>Ex: We're <strong>running out of</strong> natural resources.</li><li><strong>come up with:</strong> nghĩ ra</li><li>Ex: Scientists <strong>came up with</strong> new solutions.</li></ul><p><strong>2. Vị trí của Object (tân ngữ):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Separable phrasal verbs:</strong> có thể tách rời</li><li>Ex: Turn <strong>off</strong> the light = Turn the light <strong>off</strong></li><li>Ex: Pick <strong>up</strong> litter = Pick litter <strong>up</strong></li><li><strong>Với đại từ:</strong> phải đặt giữa động từ và giới từ</li><li>Ex: Turn <strong>it</strong> off (NOT: Turn off it)</li><li>Ex: Pick <strong>them</strong> up (NOT: Pick up them)</li><li><strong>Inseparable phrasal verbs:</strong> không thể tách rời</li><li>Ex: We must <strong>look after</strong> the environment. (NOT: look the environment after)</li><li>Ex: She <strong>came up with</strong> a great idea. (NOT: came a great idea up with)</li></ul>"
+        },
+        {
+          "heading": "B. Relative Pronoun 'WHICH' (Đại từ quan hệ which)",
+          "content": "<p><strong>1. Cách dùng WHICH:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Thay thế cho danh từ chỉ vật, sự việc</strong></li><li>Ex: Solar panels, <strong>which</strong> convert sunlight to energy, are eco-friendly.</li><li>Ex: Recycling is a process <strong>which</strong> helps reduce waste.</li></ul><p><strong>2. Defining Relative Clauses (Mệnh đề quan hệ xác định):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Cung cấp thông tin cần thiết để xác định danh từ</li><li>Không có dấu phẩy</li><li>Ex: The energy <strong>which comes from the sun</strong> is renewable.</li><li>Ex: Products <strong>which are biodegradable</strong> are better for the environment.</li></ul><p><strong>3. Non-defining Relative Clauses (Mệnh đề quan hệ không xác định):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Cung cấp thông tin bổ sung, không cần thiết</li><li>Có dấu phẩy ngăn cách</li><li>Ex: Solar energy, <strong>which is renewable</strong>, is becoming more popular.</li><li>Ex: Plastic bags, <strong>which take hundreds of years to decompose</strong>, harm the environment.</li></ul><p><strong>4. WHICH thay thế cả mệnh đề:</strong></p><ul class='list-disc pl-5 space-y-2'><li>WHICH có thể thay thế cho cả câu/ý trước đó</li><li>Ex: He recycles all his waste, <strong>which</strong> is very responsible. (which = việc anh ấy tái chế)</li><li>Ex: They installed solar panels, <strong>which</strong> reduced their electricity bills. (which = việc lắp tấm pin)</li></ul><p><strong>5. Preposition + WHICH:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Giới từ có thể đứng trước WHICH</li><li>Ex: The problem <strong>about which</strong> we are talking is serious.</li><li>Ex: The solution <strong>in which</strong> we are interested is renewable energy.</li><li>Hoặc đặt giới từ ở cuối (thông dụng hơn):</li><li>Ex: The problem <strong>which</strong> we are talking <strong>about</strong> is serious.</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "mcq1",
+        "type": "mcq",
+        "question": "Please ______ the lights when you leave the room.",
+        "options": ["turn off", "turn on", "turn up", "turn down"],
+        "correct": 0,
+        "explanation": "Turn off: tắt (đèn, thiết bị)."
+      },
+      {
+        "id": "mcq2",
+        "type": "mcq",
+        "question": "We should ______ plastic bags and use reusable ones.",
+        "options": ["give in", "give up", "give away", "give out"],
+        "correct": 1,
+        "explanation": "Give up: từ bỏ."
+      },
+      {
+        "id": "mcq3",
+        "type": "mcq",
+        "question": "Solar panels, ______ convert sunlight to energy, are becoming popular.",
+        "options": ["who", "which", "where", "when"],
+        "correct": 1,
+        "explanation": "Which: đại từ quan hệ thay thế cho vật (solar panels)."
+      },
+      {
+        "id": "mcq4",
+        "type": "mcq",
+        "question": "Don't ______ recyclable materials. Put them in the recycling bin.",
+        "options": ["throw away", "throw up", "throw in", "throw out"],
+        "correct": 0,
+        "explanation": "Throw away: vứt bỏ."
+      },
+      {
+        "id": "mcq5",
+        "type": "mcq",
+        "question": "Plastic bags, ______ take hundreds of years to decompose, harm the environment.",
+        "options": ["who", "which", "where", "whose"],
+        "correct": 1,
+        "explanation": "Which: đại từ quan hệ trong mệnh đề không xác định (có dấu phẩy)."
+      }
+    ]
+  }
+}

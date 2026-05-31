@@ -1,0 +1,249 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-6-p7",
+  "name": "Part 7: Writing",
+  "slug": "p7-writing",
+  "description": "Viết bài luận về AI",
+  "duration_minutes": 60,
+  "difficulty_level": "hard",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Writing: An Opinion Essay About AI",
+      "sections": [
+        {
+          "heading": "Writing Skills",
+          "content": "<p><strong>Chủ đề:</strong> Writing an opinion essay about AI</p><p><strong>Kỹ năng viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Organizing ideas:</strong> Sắp xếp ý tưởng logic</li><li><strong>Using linking words:</strong> Sử dụng từ nối</li><li><strong>Presenting arguments:</strong> Trình bày lập luận</li><li><strong>Supporting with examples:</strong> Hỗ trợ bằng ví dụ</li><li><strong>Using causative forms:</strong> Sử dụng thể sai khiến</li></ul><p><strong>Cấu trúc bài luận:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Introduction (Mở bài):</strong></li><li>- Hook: Câu mở đầu thu hút</li><li>- Background: Giới thiệu chủ đề AI</li><li>- Thesis statement: Câu luận điểm chính</li><li><strong>Body Paragraph 1 (Thân bài 1):</strong> Lợi ích của AI</li><li>- Topic sentence: Câu chủ đề</li><li>- Benefits: Efficiency, accuracy, convenience</li><li>- Examples: Healthcare, education, business</li><li><strong>Body Paragraph 2 (Thân bài 2):</strong> Thách thức của AI</li><li>- Topic sentence</li><li>- Challenges: Job loss, privacy, ethics</li><li>- Examples: Automation, data collection</li><li><strong>Body Paragraph 3 (Thân bài 3):</strong> Giải pháp và quan điểm</li><li>- Solutions: Regulation, education, responsible use</li><li>- Personal opinion</li><li><strong>Conclusion (Kết bài):</strong></li><li>- Restate thesis: Nhắc lại luận điểm</li><li>- Summary: Tóm tắt ý chính</li><li>- Final thought: Suy nghĩ cuối cùng</li></ul>"
+        },
+        {
+          "heading": "Useful Language",
+          "content": "<p><strong>Introduction:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Artificial Intelligence has become...</li><li>In recent years, AI has...</li><li>One of the most significant technologies is...</li><li>This essay will discuss...</li></ul><p><strong>Discussing benefits:</strong></p><ul class='list-disc pl-5 space-y-2'><li>One of the main benefits is...</li><li>AI brings many advantages such as...</li><li>We can have AI analyze data...</li><li>People get AI to perform tasks...</li><li>AI makes life more convenient by...</li></ul><p><strong>Discussing challenges:</strong></p><ul class='list-disc pl-5 space-y-2'><li>However, AI raises concerns about...</li><li>One of the main challenges is...</li><li>This causes problems such as...</li><li>Many people worry that...</li><li>AI may lead to...</li></ul><p><strong>Suggesting solutions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>To address this issue, ...</li><li>We should have governments create policies...</li><li>It is essential to...</li><li>One solution is to...</li><li>By implementing these measures, ...</li></ul><p><strong>Expressing opinions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>In my opinion, ...</li><li>I believe that...</li><li>From my perspective, ...</li><li>It seems to me that...</li></ul><p><strong>Conclusion:</strong></p><ul class='list-disc pl-5 space-y-2'><li>In conclusion, ...</li><li>To sum up, ...</li><li>Overall, ...</li><li>While AI brings challenges, ...</li></ul><p><strong>Linking words:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Addition:</strong> Moreover, Furthermore, In addition, Also</li><li><strong>Contrast:</strong> However, On the other hand, Nevertheless, Although</li><li><strong>Result:</strong> Therefore, As a result, Consequently, Thus</li><li><strong>Example:</strong> For example, For instance, Such as</li><li><strong>Sequence:</strong> First, Second, Finally, Lastly</li></ul>"
+        },
+        {
+          "heading": "Sample Essay Structure",
+          "content": "<p><strong>Sample outline:</strong></p><p><strong>Introduction:</strong></p><p>Artificial Intelligence has become one of the most transformative technologies of the 21st century. From virtual assistants to autonomous vehicles, AI is changing how we live and work. This essay will discuss the benefits and challenges of AI, and argue that we should embrace this technology while addressing its concerns responsibly.</p><p><strong>Body 1 - Benefits:</strong></p><p>AI brings numerous benefits to society. First, AI makes processes more efficient. We can have AI analyze large amounts of data in seconds, something that would take humans days or weeks. For example, in healthcare, doctors get AI to examine medical images and detect diseases more accurately. Second, AI makes life more convenient. People have virtual assistants set reminders, answer questions, and control smart home devices. Finally, AI helps solve complex problems. Scientists use AI to predict climate change, develop new medicines, and improve education through personalized learning.</p><p><strong>Body 2 - Challenges:</strong></p><p>However, AI also raises significant concerns. The main challenge is job displacement. As companies get AI to perform tasks previously done by humans, many workers may lose their jobs. For instance, automation in factories has already replaced many manufacturing workers. Another concern is privacy. AI systems collect vast amounts of personal data, which could be misused. Furthermore, there are ethical questions about AI decision-making in areas like criminal justice and healthcare. We need to ensure that AI is fair and doesn't reflect human biases.</p><p><strong>Body 3 - Solutions:</strong></p><p>To address these challenges, we must take action. First, we should have governments create policies that protect workers and retrain them for new jobs. Second, we need strict regulations to protect privacy and ensure ethical AI use. Third, we must educate people about AI so they can use it responsibly. In my opinion, AI is a powerful tool that can benefit humanity if we manage it wisely.</p><p><strong>Conclusion:</strong></p><p>In conclusion, while AI brings both opportunities and challenges, its benefits outweigh the risks if we use it responsibly. By combining innovation with careful regulation and ethical considerations, we can harness AI's power to create a better future for everyone.</p>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "writing-ex1",
+        "type": "mcq",
+        "question": "What should the introduction include?",
+        "options": [
+          "Only examples",
+          "Hook, background, and thesis statement",
+          "Only conclusion",
+          "Random ideas"
+        ],
+        "correct": 1,
+        "explanation": "Mở bài cần có câu mở đầu, giới thiệu và luận điểm."
+      },
+      {
+        "id": "writing-ex2",
+        "type": "mcq",
+        "question": "Which linking word shows contrast?",
+        "options": ["Moreover", "However", "Therefore", "Furthermore"],
+        "correct": 1,
+        "explanation": "'However' thể hiện sự tương phản."
+      },
+      {
+        "id": "writing-ex3",
+        "type": "mcq",
+        "question": "What is a topic sentence?",
+        "options": [
+          "The last sentence",
+          "The main idea of a paragraph",
+          "An example",
+          "A random sentence"
+        ],
+        "correct": 1,
+        "explanation": "Topic sentence là câu chủ đề của đoạn văn."
+      },
+      {
+        "id": "writing-ex4",
+        "type": "mcq",
+        "question": "Which phrase introduces an example?",
+        "options": ["However", "For example", "Therefore", "In conclusion"],
+        "correct": 1,
+        "explanation": "'For example' dùng để đưa ra ví dụ."
+      },
+      {
+        "id": "writing-ex5",
+        "type": "mcq",
+        "question": "How should you start a conclusion?",
+        "options": [
+          "With a new topic",
+          "With 'In conclusion' or 'To sum up'",
+          "With a question",
+          "With 'First'"
+        ],
+        "correct": 1,
+        "explanation": "Kết bài nên bắt đầu với 'In conclusion' hoặc 'To sum up'."
+      },
+      {
+        "id": "writing-ex6",
+        "type": "mcq",
+        "question": "Which is correct for discussing AI benefits?",
+        "options": [
+          "We can have AI to analyze data.",
+          "We can have AI analyze data.",
+          "We can have AI analyzing data.",
+          "We can have AI analyzed data."
+        ],
+        "correct": 1,
+        "explanation": "Have + O + V (bare infinitive) - thể sai khiến chủ động."
+      },
+      {
+        "id": "writing-ex7",
+        "type": "mcq",
+        "question": "What does 'thesis statement' mean?",
+        "options": [
+          "An example",
+          "The main argument of the essay",
+          "A conclusion",
+          "A question"
+        ],
+        "correct": 1,
+        "explanation": "Thesis statement là luận điểm chính của bài."
+      },
+      {
+        "id": "writing-ex8",
+        "type": "mcq",
+        "question": "Which linking word shows result?",
+        "options": ["Although", "However", "Therefore", "Moreover"],
+        "correct": 2,
+        "explanation": "'Therefore' thể hiện kết quả."
+      },
+      {
+        "id": "writing-ex9",
+        "type": "mcq",
+        "question": "How many main parts does an essay have?",
+        "options": ["Two", "Three (Introduction, Body, Conclusion)", "Four", "Five"],
+        "correct": 1,
+        "explanation": "Bài luận có 3 phần chính: Mở bài, Thân bài, Kết bài."
+      },
+      {
+        "id": "writing-ex10",
+        "type": "mcq",
+        "question": "Which phrase discusses challenges?",
+        "options": [
+          "One benefit is...",
+          "AI raises concerns about...",
+          "It's very good",
+          "I like it"
+        ],
+        "correct": 1,
+        "explanation": "'AI raises concerns about...' thảo luận về thách thức."
+      },
+      {
+        "id": "writing-ex11",
+        "type": "mcq",
+        "question": "What should body paragraphs include?",
+        "options": [
+          "Only one sentence",
+          "Topic sentence, supporting details, and examples",
+          "Only examples",
+          "Random words"
+        ],
+        "correct": 1,
+        "explanation": "Đoạn thân bài cần câu chủ đề, chi tiết hỗ trợ và ví dụ."
+      },
+      {
+        "id": "writing-ex12",
+        "type": "mcq",
+        "question": "Which is a good hook for an AI essay?",
+        "options": [
+          "I like AI.",
+          "Artificial Intelligence has become one of the most transformative technologies.",
+          "The end.",
+          "Thank you."
+        ],
+        "correct": 1,
+        "explanation": "Câu mở đầu tốt thu hút sự chú ý về chủ đề."
+      },
+      {
+        "id": "writing-ex13",
+        "type": "mcq",
+        "question": "Which causative form is correct?",
+        "options": [
+          "People get AI to perform tasks.",
+          "People get AI perform tasks.",
+          "People get AI performing tasks.",
+          "People get AI performed tasks."
+        ],
+        "correct": 0,
+        "explanation": "Get + O + to V - thể sai khiến chủ động."
+      },
+      {
+        "id": "writing-ex14",
+        "type": "mcq",
+        "question": "Which phrase adds information?",
+        "options": ["However", "Moreover", "Although", "But"],
+        "correct": 1,
+        "explanation": "'Moreover' dùng để thêm thông tin."
+      },
+      {
+        "id": "writing-ex15",
+        "type": "mcq",
+        "question": "What should you do in the conclusion?",
+        "options": [
+          "Introduce new topics",
+          "Summarize main points and restate thesis",
+          "Write examples only",
+          "Ask many questions"
+        ],
+        "correct": 1,
+        "explanation": "Kết bài nên tóm tắt ý chính và nhắc lại luận điểm."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide if these are good writing practices (True/False):",
+        "options": [
+          "Use linking words to connect ideas",
+          "Write very long sentences without punctuation",
+          "Support ideas with examples",
+          "Use causative forms when discussing AI"
+        ],
+        "correct": [0, 2, 3],
+        "explanation": "a) True - Nên dùng từ nối. b) False - Không nên viết câu quá dài. c) True - Nên hỗ trợ bằng ví dụ. d) True - Nên dùng thể sai khiến khi viết về AI."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if the sentence is correct:",
+        "options": [
+          "We can have AI analyze data.",
+          "AI bring many benefits.",
+          "However, AI raises concerns.",
+          "We should to use AI responsibly."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Đúng thể sai khiến. b) False - Phải là 'brings'. c) True - Đúng cấu trúc. d) False - Phải là 'should use'."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: In _____, AI brings both benefits and challenges. (one word)",
+        "correct": "conclusion",
+        "explanation": "'In conclusion' - Tóm lại."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "Complete: _____ example, AI helps in healthcare. (one word)",
+        "correct": "For",
+        "explanation": "'For example' - Ví dụ."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: We should have governments _____ policies. (create/to create)",
+        "correct": "create",
+        "explanation": "Have + O + V (bare infinitive) - thể sai khiến."
+      }
+    ]
+  }
+}

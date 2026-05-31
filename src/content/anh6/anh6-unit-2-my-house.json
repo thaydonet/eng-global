@@ -1,0 +1,236 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-unit-2-my-house",
+      "name": "Unit 2: My House",
+      "slug": "unit-2-my-house",
+      "chapter": "Unit 2: My House",
+      "chapter_id": "A6",
+      "lesson_id": 2,
+      "description": "Learn about rooms, furniture, and possessive case.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-2",
+          "name": "House Vocabulary",
+          "slug": "house-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 2: My House",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>House</td><td class='px-4 py-2'>(n) /haʊs/</td><td class='px-4 py-2'>Ngôi nhà</td><td class='px-4 py-2'>I live in a big house.</td></tr><tr><td class='px-4 py-2 font-bold'>Room</td><td class='px-4 py-2'>(n) /ruːm/</td><td class='px-4 py-2'>Phòng</td><td class='px-4 py-2'>There are five rooms in my house.</td></tr><tr><td class='px-4 py-2 font-bold'>Kitchen</td><td class='px-4 py-2'>(n) /ˈkɪtʃɪn/</td><td class='px-4 py-2'>Nhà bếp</td><td class='px-4 py-2'>My mother cooks in the kitchen.</td></tr><tr><td class='px-4 py-2 font-bold'>Bedroom</td><td class='px-4 py-2'>(n) /ˈbedruːm/</td><td class='px-4 py-2'>Phòng ngủ</td><td class='px-4 py-2'>I sleep in my bedroom.</td></tr><tr><td class='px-4 py-2 font-bold'>Bathroom</td><td class='px-4 py-2'>(n) /ˈbɑːθruːm/</td><td class='px-4 py-2'>Phòng tắm</td><td class='px-4 py-2'>The bathroom is upstairs.</td></tr><tr><td class='px-4 py-2 font-bold'>Living room</td><td class='px-4 py-2'>(n) /ˈlɪvɪŋ ruːm/</td><td class='px-4 py-2'>Phòng khách</td><td class='px-4 py-2'>We watch TV in the living room.</td></tr><tr><td class='px-4 py-2 font-bold'>Garden</td><td class='px-4 py-2'>(n) /ˈɡɑːdn/</td><td class='px-4 py-2'>Vườn</td><td class='px-4 py-2'>There are flowers in the garden.</td></tr><tr><td class='px-4 py-2 font-bold'>Furniture</td><td class='px-4 py-2'>(n) /ˈfɜːnɪtʃə(r)/</td><td class='px-4 py-2'>Đồ đạc, nội thất</td><td class='px-4 py-2'>We have new furniture.</td></tr><tr><td class='px-4 py-2 font-bold'>Bed</td><td class='px-4 py-2'>(n) /bed/</td><td class='px-4 py-2'>Giường</td><td class='px-4 py-2'>My bed is comfortable.</td></tr><tr><td class='px-4 py-2 font-bold'>Table</td><td class='px-4 py-2'>(n) /ˈteɪbl/</td><td class='px-4 py-2'>Bàn</td><td class='px-4 py-2'>There is a table in the kitchen.</td></tr><tr><td class='px-4 py-2 font-bold'>Chair</td><td class='px-4 py-2'>(n) /tʃeə(r)/</td><td class='px-4 py-2'>Ghế</td><td class='px-4 py-2'>We have six chairs.</td></tr><tr><td class='px-4 py-2 font-bold'>Sofa</td><td class='px-4 py-2'>(n) /ˈsəʊfə/</td><td class='px-4 py-2'>Ghế sofa</td><td class='px-4 py-2'>The sofa is in the living room.</td></tr><tr><td class='px-4 py-2 font-bold'>Lamp</td><td class='px-4 py-2'>(n) /læmp/</td><td class='px-4 py-2'>Đèn</td><td class='px-4 py-2'>There is a lamp on the table.</td></tr><tr><td class='px-4 py-2 font-bold'>Picture</td><td class='px-4 py-2'>(n) /ˈpɪktʃə(r)/</td><td class='px-4 py-2'>Tranh, ảnh</td><td class='px-4 py-2'>There are pictures on the wall.</td></tr><tr><td class='px-4 py-2 font-bold'>Window</td><td class='px-4 py-2'>(n) /ˈwɪndəʊ/</td><td class='px-4 py-2'>Cửa sổ</td><td class='px-4 py-2'>The window is big.</td></tr></tbody></table></div>"
+            }
+,
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Rooms in a house (Các phòng trong nhà):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>living room:</strong> phòng khách</li><li><strong>bedroom:</strong> phòng ngủ</li><li><strong>bathroom:</strong> phòng tắm</li><li><strong>kitchen:</strong> nhà bếp</li><li><strong>dining room:</strong> phòng ăn</li><li><strong>study room:</strong> phòng học</li><li><strong>garage:</strong> nhà để xe</li><li><strong>attic:</strong> gác mái</li><li><strong>basement:</strong> tầng hầm</li></ul><p><strong>Furniture (Đồ đạc):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>bed:</strong> giường</li><li><strong>wardrobe:</strong> tủ quần áo</li><li><strong>desk:</strong> bàn học</li><li><strong>chair:</strong> ghế</li><li><strong>table:</strong> bàn</li><li><strong>sofa:</strong> ghế sofa</li><li><strong>bookshelf:</strong> giá sách</li><li><strong>cupboard:</strong> tủ chén</li><li><strong>chest of drawers:</strong> tủ ngăn kéo</li></ul><p><strong>Appliances (Thiết bị):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>TV (television):</strong> ti vi</li><li><strong>fridge:</strong> tủ lạnh</li><li><strong>cooker:</strong> bếp nấu</li><li><strong>washing machine:</strong> máy giặt</li><li><strong>air conditioner:</strong> máy lạnh</li><li><strong>fan:</strong> quạt</li><li><strong>lamp:</strong> đèn</li><li><strong>clock:</strong> đồng hồ</li></ul><p><strong>Prepositions of place (Giới từ chỉ nơi chốn):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>in:</strong> trong, ở trong</li><li><strong>on:</strong> trên</li><li><strong>under:</strong> dưới</li><li><strong>behind:</strong> phía sau</li><li><strong>in front of:</strong> phía trước</li><li><strong>next to:</strong> bên cạnh</li><li><strong>between:</strong> giữa (hai vật)</li><li><strong>opposite:</strong> đối diện</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Ending sounds /s/ and /z/</h3><p><strong>1. Sound /s/:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Âm /s/ rõ ràng</li><li><strong>Sau các âm:</strong> /p/, /t/, /k/, /f/, /θ/</li><li><strong>Examples:</strong></li><li>lamps /læmps/</li><li>cats /kæts/</li><li>books /bʊks/</li><li>roofs /ruːfs/</li></ul><p><strong>2. Sound /z/:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Âm /z/ rung</li><li><strong>Sau các âm:</strong> nguyên âm và phụ âm hữu thanh khác</li><li><strong>Examples:</strong></li><li>rooms /ruːmz/</li><li>beds /bedz/</li><li>chairs /tʃeəz/</li><li>windows /ˈwɪndəʊz/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. There is / There are</h3><p><strong>1. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dùng để nói về sự tồn tại của người/vật ở đâu đó</li><li>There is: có (một)</li><li>There are: có (nhiều)</li></ul><p><strong>2. Cấu trúc:</strong></p><p><strong>a) Khẳng định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>There is + a/an + N (số ít)</strong></li><li>Ex: There <strong>is a</strong> bed in my room.</li><li>Ex: There <strong>is an</strong> armchair in the living room.</li><li><strong>There are + N (số nhiều)</strong></li><li>Ex: There <strong>are</strong> two chairs in the kitchen.</li><li>Ex: There <strong>are</strong> many books on the shelf.</li></ul><p><strong>b) Phủ định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>There isn't + a/an + N (số ít)</strong></li><li>Ex: There <strong>isn't a</strong> TV in my bedroom.</li><li><strong>There aren't + any + N (số nhiều)</strong></li><li>Ex: There <strong>aren't any</strong> pictures on the wall.</li></ul><p><strong>c) Nghi vấn:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Is there + a/an + N (số ít)?</strong></li><li>Ex: <strong>Is there a</strong> lamp on the desk?</li><li>Yes, there is. / No, there isn't.</li><li><strong>Are there + any + N (số nhiều)?</strong></li><li>Ex: <strong>Are there any</strong> chairs in the room?</li><li>Yes, there are. / No, there aren't.</li></ul><h3>B. Prepositions of place (Giới từ chỉ nơi chốn)</h3><p><strong>Các giới từ thường dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>in:</strong> trong, ở trong</li><li>Ex: The book is <strong>in</strong> the bag.</li><li><strong>on:</strong> trên (bề mặt)</li><li>Ex: The lamp is <strong>on</strong> the table.</li><li><strong>under:</strong> dưới</li><li>Ex: The cat is <strong>under</strong> the bed.</li><li><strong>behind:</strong> phía sau</li><li>Ex: The garden is <strong>behind</strong> the house.</li><li><strong>in front of:</strong> phía trước</li><li>Ex: There is a tree <strong>in front of</strong> my house.</li><li><strong>next to / beside:</strong> bên cạnh</li><li>Ex: The chair is <strong>next to</strong> the desk.</li><li><strong>between:</strong> giữa (hai vật)</li><li>Ex: The table is <strong>between</strong> two chairs.</li><li><strong>opposite:</strong> đối diện</li><li>Ex: My house is <strong>opposite</strong> the park.</li></ul><h3>C. Possessive case (Sở hữu cách)</h3><p><strong>1. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dùng để chỉ sự sở hữu</li><li>Thêm 's vào sau danh từ</li></ul><p><strong>2. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>N (số ít) + 's</strong></li><li>Ex: This is <strong>Tom's</strong> room.</li><li>Ex: My <strong>sister's</strong> bedroom is big.</li><li><strong>N (số nhiều có 's') + '</strong></li><li>Ex: The <strong>students'</strong> books are on the desk.</li><li><strong>N (số nhiều không có 's') + 's</strong></li><li>Ex: The <strong>children's</strong> toys are in the box.</li></ul>"
+            }
+,
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> A new home - Ngôi nhà mới</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về ngôi nhà mới</li><li>Mô tả các phòng trong nhà</li><li>Nói về đồ đạc trong phòng</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Types of rooms and furniture</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về các phòng</li><li>Học từ vựng về đồ đạc</li></ul><p><strong>B. Pronunciation: /s/ and /z/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /s/ và /z/ ở cuối từ</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: There is/There are & Prepositions of place</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cấu trúc There is/There are</li><li>Học giới từ chỉ nơi chốn</li><li>Luyện tập mô tả vị trí đồ vật</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Describing houses and rooms</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Where is...? / Where are...?</li><li>It's in/on/under...</li><li>There is/are...</li><li>My house has...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: A description of a house</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về một ngôi nhà</li><li>Tìm thông tin về các phòng</li></ul><p><strong>Speaking: Describing your house</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả ngôi nhà của bạn</li><li>Nói về phòng yêu thích</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: A description of a room</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe mô tả về một căn phòng</li><li>Điền thông tin còn thiếu</li></ul><p><strong>Writing: An email about your house</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết email mô tả ngôi nhà</li><li>Sử dụng There is/There are</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Rooms, furniture, appliances</li><li><strong>Pronunciation:</strong> /s/ and /z/</li><li><strong>Grammar:</strong> There is/There are, Prepositions of place, Possessive case</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> My dream house</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vẽ hoặc tìm hình ảnh ngôi nhà mơ ước</li><li>Viết mô tả (5-7 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Sử dụng There is / There are",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>There is + a/an + N (số ít)</li><li>There are + N (số nhiều)</li><li>Phủ định: There isn't / There aren't</li><li>Câu hỏi: Is there...? / Are there...?</li></ul>",
+            "examples": [
+              {
+                "question": "______ a bed in my room.",
+                "solution": "<strong>There is</strong> a bed in my room.",
+                "explanation": "Danh từ 'a bed' là số ít nên dùng 'There is'."
+              },
+              {
+                "question": "______ two chairs in the kitchen.",
+                "solution": "<strong>There are</strong> two chairs in the kitchen.",
+                "explanation": "Danh từ 'two chairs' là số nhiều nên dùng 'There are'."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Giới từ chỉ nơi chốn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>in: trong</li><li>on: trên (bề mặt)</li><li>under: dưới</li><li>behind: phía sau</li><li>in front of: phía trước</li><li>next to: bên cạnh</li><li>between: giữa</li></ul>",
+            "examples": [
+              {
+                "question": "The lamp is ______ the table.",
+                "solution": "The lamp is <strong>on</strong> the table.",
+                "explanation": "Đèn ở trên bề mặt bàn nên dùng 'on'."
+              },
+              {
+                "question": "The cat is ______ the bed.",
+                "solution": "The cat is <strong>under</strong> the bed.",
+                "explanation": "Con mèo ở dưới giường nên dùng 'under'."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Sở hữu cách (Possessive case)",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>N (số ít) + 's</li><li>N (số nhiều có 's') + '</li><li>N (số nhiều không có 's') + 's</li></ul>",
+            "examples": [
+              {
+                "question": "This is ______ (Tom) room.",
+                "solution": "This is <strong>Tom's</strong> room.",
+                "explanation": "Thêm 's vào sau tên riêng để chỉ sở hữu."
+              },
+              {
+                "question": "The ______ (children) toys are here.",
+                "solution": "The <strong>children's</strong> toys are here.",
+                "explanation": "'Children' là danh từ số nhiều không có 's' nên thêm 's."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Mô tả vị trí đồ vật",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Kết hợp There is/are + giới từ</li><li>The + N + is/are + giới từ + N</li></ul>",
+            "examples": [
+              {
+                "question": "Describe: (picture / wall)",
+                "solution": "There is a picture <strong>on</strong> the wall. / The picture is <strong>on</strong> the wall.",
+                "explanation": "Tranh treo trên tường nên dùng 'on the wall'."
+              },
+              {
+                "question": "Describe: (books / shelf)",
+                "solution": "There are books <strong>on</strong> the shelf. / The books are <strong>on</strong> the shelf.",
+                "explanation": "Sách để trên giá nên dùng 'on the shelf'."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "There ______ a sofa in the living room.",
+            "options": ["is", "are", "am", "be"],
+            "correct": 0,
+            "explanation": "Danh từ 'a sofa' là số ít nên dùng 'There is'."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "There ______ two bathrooms in my house.",
+            "options": ["is", "are", "am", "be"],
+            "correct": 1,
+            "explanation": "Danh từ 'two bathrooms' là số nhiều nên dùng 'There are'."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "The book is ______ the table.",
+            "options": ["in", "on", "at", "of"],
+            "correct": 1,
+            "explanation": "Sách ở trên bề mặt bàn nên dùng 'on'."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "The cat is ______ the chair.",
+            "options": ["on", "under", "in", "at"],
+            "correct": 1,
+            "explanation": "Con mèo ở dưới ghế nên dùng 'under'."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "This is ______ bedroom.",
+            "options": ["my sister", "my sister's", "my sisters", "my sisters'"],
+            "correct": 1,
+            "explanation": "Sở hữu cách: thêm 's vào sau 'my sister' → my sister's."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ there a TV in your room?",
+            "options": ["Is", "Are", "Am", "Be"],
+            "correct": 0,
+            "explanation": "Câu hỏi với danh từ số ít 'a TV' dùng 'Is there'."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "The lamp is ______ the desk and the bed.",
+            "options": ["next to", "between", "behind", "in front of"],
+            "correct": 1,
+            "explanation": "Giữa hai vật (desk và bed) dùng 'between'."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "There ______ any pictures on the wall.",
+            "options": ["isn't", "aren't", "is", "are"],
+            "correct": 1,
+            "explanation": "Phủ định với danh từ số nhiều 'pictures' dùng 'aren't'."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "My house is ______ the park.",
+            "options": ["opposite", "between", "under", "on"],
+            "correct": 0,
+            "explanation": "Nhà đối diện công viên dùng 'opposite'."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "The ______ toys are in the box.",
+            "options": ["childrens", "children's", "childrens'", "children"],
+            "correct": 1,
+            "explanation": "'Children' là danh từ số nhiều không có 's' nên thêm 's → children's."
+          }
+        ]
+      }
+    }
+  ]
+}

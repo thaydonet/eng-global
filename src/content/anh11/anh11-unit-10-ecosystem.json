@@ -1,0 +1,368 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-unit-10",
+      "name": "Unit 10: The Ecosystem",
+      "slug": "unit-10-ecosystem",
+      "chapter": "Unit 10: The Ecosystem",
+      "chapter_id": "A11",
+      "lesson_id": 10,
+      "description": "Học về hệ sinh thái, bảo vệ môi trường, và danh từ ghép.",
+      "duration_minutes": 300,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2671&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh11-unit-10-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về tầm quan trọng của hệ sinh thái",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh11-unit-10-p1-getting-started.json"
+        },
+        {
+          "id": "anh11-unit-10-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về hệ sinh thái và môi trường",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh11-unit-10-p2-vocabulary.json"
+        },
+        {
+          "id": "anh11-unit-10-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Danh từ ghép (Compound Nouns)",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh11-unit-10-p3-grammar.json"
+        },
+        {
+          "id": "anh11-unit-10-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về hệ sinh thái và đa dạng sinh học",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh11-unit-10-p4-reading.json"
+        },
+        {
+          "id": "anh11-unit-10-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về các vấn đề môi trường",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh11-unit-10-p5-speaking.json"
+        },
+        {
+          "id": "anh11-unit-10-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về nỗ lực bảo tồn",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh11-unit-10-p6-listening.json"
+        },
+        {
+          "id": "anh11-unit-10-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết báo cáo về môi trường",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh11-unit-10-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-10",
+          "name": "Ecosystem Vocabulary",
+          "slug": "ecosystem-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 10: The Ecosystem",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Ecosystem</td><td class='px-4 py-2'>(n) /ˈiːkəʊsɪstəm/</td><td class='px-4 py-2'>Hệ sinh thái</td><td class='px-4 py-2'>Protect the ecosystem.</td></tr><tr><td class='px-4 py-2 font-bold'>Biodiversity</td><td class='px-4 py-2'>(n) /ˌbaɪəʊdaɪˈvɜːsəti/</td><td class='px-4 py-2'>Đa dạng sinh học</td><td class='px-4 py-2'>Biodiversity is decreasing.</td></tr><tr><td class='px-4 py-2 font-bold'>Habitat</td><td class='px-4 py-2'>(n) /ˈhæbɪtæt/</td><td class='px-4 py-2'>Môi trường sống</td><td class='px-4 py-2'>Animals lose their habitat.</td></tr><tr><td class='px-4 py-2 font-bold'>Species</td><td class='px-4 py-2'>(n) /ˈspiːʃiːz/</td><td class='px-4 py-2'>Loài</td><td class='px-4 py-2'>Many species are endangered.</td></tr><tr><td class='px-4 py-2 font-bold'>Endangered</td><td class='px-4 py-2'>(adj) /ɪnˈdeɪndʒəd/</td><td class='px-4 py-2'>Có nguy cơ tuyệt chủng</td><td class='px-4 py-2'>Save endangered animals.</td></tr><tr><td class='px-4 py-2 font-bold'>Extinction</td><td class='px-4 py-2'>(n) /ɪkˈstɪŋkʃn/</td><td class='px-4 py-2'>Sự tuyệt chủng</td><td class='px-4 py-2'>Prevent species extinction.</td></tr><tr><td class='px-4 py-2 font-bold'>Deforestation</td><td class='px-4 py-2'>(n) /diːˌfɒrɪˈsteɪʃn/</td><td class='px-4 py-2'>Phá rừng</td><td class='px-4 py-2'>Stop deforestation now.</td></tr><tr><td class='px-4 py-2 font-bold'>Conservation</td><td class='px-4 py-2'>(n) /ˌkɒnsəˈveɪʃn/</td><td class='px-4 py-2'>Bảo tồn</td><td class='px-4 py-2'>Wildlife conservation is important.</td></tr><tr><td class='px-4 py-2 font-bold'>Pollute</td><td class='px-4 py-2'>(v) /pəˈluːt/</td><td class='px-4 py-2'>Gây ô nhiễm</td><td class='px-4 py-2'>Don't pollute the environment.</td></tr><tr><td class='px-4 py-2 font-bold'>Pollution</td><td class='px-4 py-2'>(n) /pəˈluːʃn/</td><td class='px-4 py-2'>Sự ô nhiễm</td><td class='px-4 py-2'>Reduce air pollution.</td></tr><tr><td class='px-4 py-2 font-bold'>Sustainable</td><td class='px-4 py-2'>(adj) /səˈsteɪnəbl/</td><td class='px-4 py-2'>Bền vững</td><td class='px-4 py-2'>Use sustainable resources.</td></tr><tr><td class='px-4 py-2 font-bold'>Preserve</td><td class='px-4 py-2'>(v) /prɪˈzɜːv/</td><td class='px-4 py-2'>Bảo vệ, giữ gìn</td><td class='px-4 py-2'>Preserve natural habitats.</td></tr><tr><td class='px-4 py-2 font-bold'>Threaten</td><td class='px-4 py-2'>(v) /ˈθretn/</td><td class='px-4 py-2'>Đe dọa</td><td class='px-4 py-2'>Climate change threatens wildlife.</td></tr><tr><td class='px-4 py-2 font-bold'>Balance</td><td class='px-4 py-2'>(n, v) /ˈbæləns/</td><td class='px-4 py-2'>Sự cân bằng</td><td class='px-4 py-2'>Maintain ecological balance.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Ecosystem and environment (Hệ sinh thái và môi trường):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>ecosystem:</strong> hệ sinh thái</li><li><strong>biodiversity:</strong> đa dạng sinh học</li><li><strong>habitat:</strong> môi trường sống</li><li><strong>species:</strong> loài</li><li><strong>endangered species:</strong> loài có nguy cơ tuyệt chủng</li><li><strong>extinction:</strong> sự tuyệt chủng</li><li><strong>ecological balance:</strong> cân bằng sinh thái</li></ul><p><strong>Environmental problems (Vấn đề môi trường):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>deforestation:</strong> phá rừng</li><li><strong>pollution:</strong> ô nhiễm</li><li><strong>air pollution:</strong> ô nhiễm không khí</li><li><strong>water pollution:</strong> ô nhiễm nước</li><li><strong>habitat loss:</strong> mất môi trường sống</li><li><strong>climate change:</strong> biến đổi khí hậu</li></ul><p><strong>Conservation actions (Hành động bảo tồn):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>protect the environment:</strong> bảo vệ môi trường</li><li><strong>preserve natural habitats:</strong> bảo tồn môi trường sống tự nhiên</li><li><strong>wildlife conservation:</strong> bảo tồn động vật hoang dã</li><li><strong>sustainable development:</strong> phát triển bền vững</li><li><strong>reduce pollution:</strong> giảm ô nhiễm</li><li><strong>prevent extinction:</strong> ngăn chặn tuyệt chủng</li></ul><p><strong>Collocations về hệ sinh thái:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>fragile ecosystem:</strong> hệ sinh thái mỏng manh</li><li><strong>marine ecosystem:</strong> hệ sinh thái biển</li><li><strong>forest ecosystem:</strong> hệ sinh thái rừng</li><li><strong>natural resources:</strong> tài nguyên thiên nhiên</li><li><strong>environmental protection:</strong> bảo vệ môi trường</li></ul>"
+            }
+,
+            {
+              "heading": "3. Ngữ âm: Trọng âm trong danh từ ghép",
+              "content": "<h3>Stress in compound nouns</h3><p><strong>Quy tắc trọng âm trong danh từ ghép:</strong></p><p><strong>1. Danh từ ghép (Compound nouns) - Trọng âm ở từ đầu tiên</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hầu hết danh từ ghép có trọng âm ở từ đầu tiên</li><li>Ex: <strong>GREEN</strong>house (nhà kính) - không phải green <strong>HOUSE</strong> (ngôi nhà màu xanh)</li><li>Ex: <strong>RAIN</strong>forest (rừng mưa nhiệt đới)</li><li>Ex: <strong>WILD</strong>life (động vật hoang dã)</li><li>Ex: <strong>ECO</strong>system (hệ sinh thái)</li></ul><p><strong>2. Các ví dụ về danh từ ghép trong Unit 10:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>RAIN</strong>forest /ˈreɪnfɒrɪst/</li><li><strong>WILD</strong>life /ˈwaɪldlaɪf/</li><li><strong>SEA</strong>food /ˈsiːfuːd/</li><li><strong>GREEN</strong>house /ˈɡriːnhaʊs/</li><li><strong>SUN</strong>light /ˈsʌnlaɪt/</li><li><strong>WATER</strong>fall /ˈwɔːtəfɔːl/</li></ul><p><strong>3. So sánh với cụm danh từ (Noun phrases):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Compound noun:</strong> <strong>GREEN</strong>house (nhà kính) - trọng âm từ đầu</li><li><strong>Noun phrase:</strong> green <strong>HOUSE</strong> (ngôi nhà màu xanh) - trọng âm từ sau</li></ul><p><strong>Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Danh từ ghép có thể viết liền (rainforest), có gạch nối (rain-forest), hoặc tách rời (rain forest)</li><li>Trọng âm luôn ở từ đầu tiên giúp phân biệt nghĩa</li><li>Luyện phát âm đúng trọng âm để tránh hiểu nhầm</li></ul>"
+            }
+,
+            {
+              "heading": "4. Ngữ pháp: Danh từ ghép (Compound nouns)",
+              "content": "<h3>A. Compound Nouns</h3><p><strong>Định nghĩa:</strong> Danh từ ghép là danh từ được tạo thành từ hai hoặc nhiều từ kết hợp với nhau để tạo ra một nghĩa mới.</p><h3>B. Cách tạo danh từ ghép</h3><p><strong>1. Noun + Noun (Danh từ + Danh từ)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>rain + forest = rainforest</strong> (rừng mưa nhiệt đới)</li><li><strong>sea + food = seafood</strong> (hải sản)</li><li><strong>sun + light = sunlight</strong> (ánh sáng mặt trời)</li><li><strong>water + fall = waterfall</strong> (thác nước)</li><li><strong>wild + life = wildlife</strong> (động vật hoang dã)</li></ul><p><strong>2. Adjective + Noun (Tính từ + Danh từ)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>green + house = greenhouse</strong> (nhà kính)</li><li><strong>black + board = blackboard</strong> (bảng đen)</li><li><strong>high + way = highway</strong> (đường cao tốc)</li><li><strong>red + wood = redwood</strong> (cây gỗ đỏ)</li></ul><p><strong>3. Verb + Noun (Động từ + Danh từ)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>swim + suit = swimsuit</strong> (đồ bơi)</li><li><strong>break + fast = breakfast</strong> (bữa sáng)</li><li><strong>play + ground = playground</strong> (sân chơi)</li></ul><p><strong>4. Noun + Verb-ing (Danh từ + V-ing)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>bird + watching = birdwatching</strong> (ngắm chim)</li><li><strong>sun + bathing = sunbathing</strong> (tắm nắng)</li></ul><p><strong>5. Verb-ing + Noun (V-ing + Danh từ)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>living + room = living room</strong> (phòng khách)</li><li><strong>swimming + pool = swimming pool</strong> (bể bơi)</li><li><strong>dining + table = dining table</strong> (bàn ăn)</li></ul><h3>C. Cách viết danh từ ghép</h3><div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Cách viết</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Ví dụ</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Nghĩa</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2'>Viết liền (One word)</td><td class='px-4 py-2'>rainforest, wildlife, sunlight</td><td class='px-4 py-2'>Rừng mưa, động vật hoang dã, ánh sáng mặt trời</td></tr><tr><td class='px-4 py-2'>Có gạch nối (Hyphenated)</td><td class='px-4 py-2'>mother-in-law, check-in</td><td class='px-4 py-2'>Mẹ chồng/vợ, làm thủ tục</td></tr><tr><td class='px-4 py-2'>Tách rời (Two words)</td><td class='px-4 py-2'>living room, swimming pool</td><td class='px-4 py-2'>Phòng khách, bể bơi</td></tr></tbody></table></div><h3>D. Số nhiều của danh từ ghép</h3><ul class='list-disc pl-5 space-y-2'><li>Thêm -s vào từ chính (thường là từ cuối): <strong>rainforests, greenhouses</strong></li><li>Nếu có gạch nối, thêm -s vào danh từ chính: <strong>mothers-in-law, passers-by</strong></li></ul><h3>E. Lưu ý quan trọng</h3><ul class='list-disc pl-5 space-y-2'><li>Danh từ ghép có nghĩa khác với hai từ riêng lẻ</li><li>Trọng âm thường ở từ đầu tiên</li><li>Cần tra từ điển để biết cách viết đúng</li><li>Một số danh từ ghép có thể viết theo nhiều cách</li></ul>"
+            }
+,
+            {
+              "heading": "5. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> The importance of ecosystems - Tầm quan trọng của hệ sinh thái</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về hệ sinh thái và đa dạng sinh học</li><li>Thảo luận về các mối đe dọa đối với hệ sinh thái</li><li>Chia sẻ về động vật hoang dã và môi trường sống</li><li>Đề xuất cách bảo vệ hệ sinh thái</li></ul><p><strong>Các chủ đề được đề cập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Rainforests:</strong> Rừng mưa nhiệt đới và vai trò của chúng</li><li><strong>Wildlife:</strong> Động vật hoang dã đang bị đe dọa</li><li><strong>Deforestation:</strong> Phá rừng và tác động</li><li><strong>Conservation:</strong> Bảo tồn và phát triển bền vững</li></ul>"
+            }
+,
+            {
+              "heading": "6. II. Language",
+              "content": "<p><strong>A. Pronunciation: Stress in compound nouns</strong></p><p>Luyện phát âm trọng âm trong danh từ ghép</p><p><strong>B. Vocabulary:</strong> The ecosystem</p><ul class='list-disc pl-5 space-y-2'><li>Words related to ecosystems and biodiversity</li><li>Habitat, species, endangered, extinction</li><li>Environmental problems: deforestation, pollution</li><li>Conservation and sustainable development</li></ul><p><strong>C. Grammar:</strong> Compound nouns</p><ul class='list-disc pl-5 space-y-2'><li>Noun + Noun: rainforest, wildlife, seafood</li><li>Adjective + Noun: greenhouse, highway</li><li>Verb + Noun: breakfast, playground</li><li>Noun + V-ing: birdwatching, sunbathing</li><li>V-ing + Noun: living room, swimming pool</li></ul>"
+            }
+,
+            {
+              "heading": "7. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Ecosystems and biodiversity</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu bài viết về hệ sinh thái</li><li>Tìm thông tin về các loài động thực vật</li><li>Hiểu về mối đe dọa đối với đa dạng sinh học</li><li>Phân tích vai trò của con người trong bảo vệ môi trường</li></ul><p><strong>Nội dung:</strong> Bài đọc giới thiệu về:</p><ul class='list-disc pl-5 space-y-2'><li><strong>Rainforests:</strong> Vai trò quan trọng của rừng mưa nhiệt đới</li><li><strong>Biodiversity:</strong> Đa dạng sinh học và tầm quan trọng</li><li><strong>Threats:</strong> Các mối đe dọa như phá rừng, ô nhiễm, biến đổi khí hậu</li><li><strong>Conservation efforts:</strong> Nỗ lực bảo tồn trên toàn cầu</li></ul>"
+            }
+,
+            {
+              "heading": "8. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Discussing ecosystems and environmental protection</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về hệ sinh thái trong khu vực của bạn</li><li>Thảo luận về các mối đe dọa đối với môi trường</li><li>Đề xuất giải pháp bảo vệ hệ sinh thái</li><li>Bày tỏ quan điểm về bảo tồn thiên nhiên</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I think/believe that ecosystems are...</li><li>In my opinion, we should...</li><li>One of the main threats is...</li><li>This affects/threatens...</li><li>To protect the ecosystem, we need to...</li><li>It's important/essential to...</li><li>We must/should preserve...</li><li>For instance/For example, ...</li></ul>"
+            }
+,
+            {
+              "heading": "9. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> A talk about protecting ecosystems</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu về các chương trình bảo tồn</li><li>Điền thông tin về loài động vật và môi trường sống</li><li>Trả lời câu hỏi về các mối đe dọa</li><li>Ghi chú các giải pháp bảo vệ môi trường</li></ul><p><strong>Nội dung:</strong> Bài nghe về:</p><ul class='list-disc pl-5 space-y-2'><li>Các khu bảo tồn thiên nhiên</li><li>Loài động vật có nguy cơ tuyệt chủng</li><li>Nỗ lực bảo vệ rừng mưa nhiệt đới</li><li>Vai trò của cộng đồng trong bảo vệ môi trường</li></ul>"
+            }
+,
+            {
+              "heading": "10. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing a report about an ecosystem</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết báo cáo về một hệ sinh thái</li><li>Sử dụng danh từ ghép một cách chính xác</li><li>Mô tả đặc điểm và tầm quan trọng</li><li>Trình bày các mối đe dọa và giải pháp</li></ul><p><strong>Cấu trúc báo cáo:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Title:</strong> Tiêu đề báo cáo</li><li><strong>Introduction:</strong> Giới thiệu hệ sinh thái</li><li><strong>Body Paragraph 1:</strong> Đặc điểm và tầm quan trọng</li><li><strong>Body Paragraph 2:</strong> Các mối đe dọa</li><li><strong>Body Paragraph 3:</strong> Giải pháp bảo vệ</li><li><strong>Conclusion:</strong> Kết luận</li></ul><p><strong>Useful language:</strong></p><ul class='list-disc pl-5 space-y-2'><li>This report describes/examines...</li><li>The ecosystem is located in...</li><li>It is home to many species such as...</li><li>The main threats include...</li><li>To protect this ecosystem, we should...</li><li>In conclusion, it is essential to...</li></ul>"
+            }
+,
+            {
+              "heading": "11. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Expressing concern about the environment</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Expressing concern:</strong></li><li>I'm worried/concerned about...</li><li>It's alarming that...</li><li>We should be concerned about...</li><li>This is a serious threat to...</li></ul><ul class='list-disc pl-5 space-y-2'><li><strong>Making suggestions:</strong></li><li>We should/must/need to...</li><li>It's important/essential to...</li><li>One solution would be to...</li><li>We could try to...</li></ul><p><strong>Culture:</strong> Famous ecosystems around the world</p><ul class='list-disc pl-5 space-y-2'><li><strong>Amazon Rainforest:</strong> Rừng mưa nhiệt đới lớn nhất thế giới (Nam Mỹ)</li><li><strong>Great Barrier Reef:</strong> Rạn san hô lớn nhất thế giới (Úc)</li><li><strong>Serengeti:</strong> Hệ sinh thái đồng cỏ (Tanzania, Kenya)</li><li><strong>Yellowstone:</strong> Công viên quốc gia đầu tiên (Mỹ)</li></ul><p><strong>CLIL (Science):</strong> How ecosystems work</p><ul class='list-disc pl-5 space-y-2'><li>Food chains and food webs</li><li>Producers, consumers, and decomposers</li><li>Energy flow in ecosystems</li><li>The importance of balance</li></ul>"
+            }
+,
+            {
+              "heading": "12. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Pronunciation:</strong> Stress in compound nouns (rainforest, wildlife, greenhouse, sunlight)</li><li><strong>Vocabulary:</strong> Ecosystem, biodiversity, habitat, species, endangered, extinction, deforestation, conservation, pollution, sustainable, preserve, threaten, balance</li><li><strong>Grammar:</strong> Compound nouns (Noun+Noun, Adj+Noun, Verb+Noun, Noun+V-ing, V-ing+Noun)</li><li><strong>Skills:</strong> Reading about ecosystems, Speaking about environmental protection, Listening to conservation talks, Writing reports</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng:</p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng từ vựng về hệ sinh thái và môi trường</li><li>Phát âm đúng trọng âm trong danh từ ghép</li><li>Tạo và sử dụng danh từ ghép</li><li>Thảo luận về bảo vệ môi trường và hệ sinh thái</li></ul>"
+            }
+,
+            {
+              "heading": "13. Project",
+              "content": "<p><strong>Đề tài:</strong> Create a presentation about a local ecosystem</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một hệ sinh thái ở địa phương hoặc Việt Nam</li><li>Nghiên cứu về đặc điểm và đa dạng sinh học</li><li>Tìm hiểu các mối đe dọa hiện tại</li><li>Đề xuất giải pháp bảo vệ</li><li>Tạo presentation với hình ảnh và thông tin</li><li>Trình bày trước lớp</li></ul><p><strong>Câu hỏi gợi ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What is the name of the ecosystem?</li><li>Where is it located?</li><li>What plants and animals live there?</li><li>Why is this ecosystem important?</li><li>What are the main threats to this ecosystem?</li><li>What can we do to protect it?</li><li>Are there any conservation programs?</li></ul><p><strong>Ví dụ hệ sinh thái có thể chọn:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vịnh Hạ Long (Ha Long Bay)</li><li>Vườn quốc gia Phong Nha - Kẻ Bàng</li><li>Rừng ngập mặn Cần Giờ</li><li>Vườn quốc gia Cát Tiên</li><li>Đầm Vân Long (Ninh Bình)</li></ul>"
+            }
+
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Compound Nouns",
+            "method": "<p>Identify and use compound nouns correctly in sentences.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Ecosystems are communities of living organisms interacting with their physical environment. They include plants, animals, microorganisms, soil, water, and air. One of the most important ecosystems on Earth is the rainforest.\n\nRainforests are home to more than half of the world's plant and animal species, despite covering only about 6% of Earth's surface. These forests play a crucial role in regulating the global climate by absorbing carbon dioxide and producing oxygen. Moreover, they provide habitat for countless species, many of which are found nowhere else on Earth.\n\nHowever, rainforests face serious threats. Deforestation is the biggest problem, with millions of hectares destroyed each year for agriculture, logging, and development. As a result, many species are becoming endangered or facing extinction. Wildlife such as orangutans, tigers, and countless bird species are losing their natural habitats.\n\nTo protect these vital ecosystems, conservation efforts are essential. Governments and organizations worldwide are working to establish protected areas and promote sustainable development. In addition, individuals can help by supporting conservation programs, reducing consumption of products that contribute to deforestation, and raising awareness about the importance of biodiversity.\n\nIn conclusion, ecosystems like rainforests are irreplaceable treasures that we must preserve for future generations. Everyone has a role to play in protecting our planet's biodiversity.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Rainforests are not important",
+                  "Rainforests are vital ecosystems that need protection",
+                  "All ecosystems are the same",
+                  "Deforestation is not a problem"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về tầm quan trọng của rừng mưa nhiệt đới và cần bảo vệ chúng."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, what percentage of Earth's surface do rainforests cover?",
+                "options": [
+                  "About 50%",
+                  "About 6%",
+                  "About 20%",
+                  "About 10%"
+                ],
+                "correct": 1,
+                "explanation": "Rừng mưa nhiệt đới chỉ chiếm khoảng 6% bề mặt Trái Đất."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'crucial' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "unimportant",
+                  "very important",
+                  "small",
+                  "difficult"
+                ],
+                "correct": 1,
+                "explanation": "Crucial = very important (rất quan trọng)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What is the biggest threat to rainforests?",
+                "options": [
+                  "Climate change",
+                  "Pollution",
+                  "Deforestation",
+                  "Tourism"
+                ],
+                "correct": 2,
+                "explanation": "Phá rừng là mối đe dọa lớn nhất đối với rừng mưa nhiệt đới."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, how can individuals help protect rainforests?",
+                "options": [
+                  "By doing nothing",
+                  "By supporting conservation programs and raising awareness",
+                  "By cutting down more trees",
+                  "By ignoring the problem"
+                ],
+                "correct": 1,
+                "explanation": "Cá nhân có thể giúp bằng cách hỗ trợ các chương trình bảo tồn và nâng cao nhận thức."
+              }
+            ]
+          }
+,
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "A ______ is a tropical forest with heavy rainfall.",
+            "options": ["rainforest", "rain forest", "forest rain", "rain-forest"],
+            "correct": 0,
+            "explanation": "Rainforest (viết liền) là danh từ ghép chỉ rừng mưa nhiệt đới."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "______ refers to all the animals living in natural conditions.",
+            "options": ["Wild life", "Wildlife", "Life wild", "Wild-life"],
+            "correct": 1,
+            "explanation": "Wildlife (viết liền) là danh từ ghép chỉ động vật hoang dã."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "Many species are ______ because of habitat loss.",
+            "options": ["danger", "dangerous", "endangered", "endanger"],
+            "correct": 2,
+            "explanation": "Endangered (adj): có nguy cơ tuyệt chủng."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "We need to protect ______ for future generations.",
+            "options": ["biodiversity", "bio-diversity", "bio diversity", "diversitybio"],
+            "correct": 0,
+            "explanation": "Biodiversity (viết liền) là danh từ ghép chỉ đa dạng sinh học."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "______ is destroying millions of hectares of forest each year.",
+            "options": ["Forest", "Deforestation", "Reforestation", "Forestation"],
+            "correct": 1,
+            "explanation": "Deforestation (n): sự phá rừng."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "A ______ is a building made of glass where plants are grown.",
+            "options": ["green house", "greenhouse", "house green", "green-house"],
+            "correct": 1,
+            "explanation": "Greenhouse (viết liền) là danh từ ghép chỉ nhà kính."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ conservation is essential for protecting endangered species.",
+            "options": ["Wild", "Wildlife", "Wildly", "Wilderness"],
+            "correct": 1,
+            "explanation": "Wildlife conservation: bảo tồn động vật hoang dã."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "We should promote ______ development to protect the environment.",
+            "options": ["sustain", "sustainable", "sustainability", "sustained"],
+            "correct": 1,
+            "explanation": "Sustainable (adj): bền vững."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "The ______ provides light and energy for plants.",
+            "options": ["sun light", "sunlight", "light sun", "sun-light"],
+            "correct": 1,
+            "explanation": "Sunlight (viết liền) là danh từ ghép chỉ ánh sáng mặt trời."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Many animals are losing their natural ______.",
+            "options": ["habitats", "habitat", "habitation", "inhabit"],
+            "correct": 0,
+            "explanation": "Habitats (n, số nhiều): môi trường sống."
+          }
+,
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Compound nouns always have stress on the first word.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Danh từ ghép thường có trọng âm ở từ đầu tiên."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "Rainforests cover more than 50% of Earth's surface.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Rừng mưa nhiệt đới chỉ chiếm khoảng 6% bề mặt Trái Đất."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Deforestation is a major threat to biodiversity.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Phá rừng là mối đe dọa lớn đối với đa dạng sinh học."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call the variety of life in an ecosystem? (one word)",
+            "correct": "biodiversity",
+            "explanation": "Biodiversity: đa dạng sinh học."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete the compound noun: rain + forest = ______",
+            "correct": "rainforest",
+            "explanation": "Rainforest: rừng mưa nhiệt đới (danh từ ghép viết liền)."
+          }
+        ]
+      }
+    }
+  ]
+}

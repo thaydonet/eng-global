@@ -1,0 +1,354 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-unit-6",
+      "name": "Unit 6: Preserving Our Heritage",
+      "slug": "unit-6-preserving-our-heritage",
+      "chapter": "Unit 6: Preserving Our Heritage",
+      "chapter_id": "A11",
+      "lesson_id": 6,
+      "description": "Học về di sản văn hóa và thiên nhiên, phương pháp bảo tồn, và mệnh đề to-infinitive.",
+      "duration_minutes": 300,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=2676&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh11-unit-6-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về các di sản ở Việt Nam và hoạt động bảo tồn",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh11-unit-6-p1-getting-started.json"
+        },
+        {
+          "id": "anh11-unit-6-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về di sản và bảo tồn văn hóa",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh11-unit-6-p2-vocabulary.json"
+        },
+        {
+          "id": "anh11-unit-6-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Mệnh đề to-infinitive (To-infinitive clauses)",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh11-unit-6-p3-grammar.json"
+        },
+        {
+          "id": "anh11-unit-6-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về ý tưởng của thanh thiếu niên về bảo tồn di sản",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh11-unit-6-p4-reading.json"
+        },
+        {
+          "id": "anh11-unit-6-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về bảo tồn di sản văn hóa",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh11-unit-6-p5-speaking.json"
+        },
+        {
+          "id": "anh11-unit-6-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về chuyến tham quan Tràng An",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh11-unit-6-p6-listening.json"
+        },
+        {
+          "id": "anh11-unit-6-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết tờ rơi về bảo tồn di sản",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh11-unit-6-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-6",
+          "name": "Heritage Vocabulary",
+          "slug": "heritage-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 6: Preserving Our Heritage",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Heritage</td><td class='px-4 py-2'>(n) /ˈherɪtɪdʒ/</td><td class='px-4 py-2'>Di sản</td><td class='px-4 py-2'>We must protect our cultural heritage.</td></tr><tr><td class='px-4 py-2 font-bold'>Preserve</td><td class='px-4 py-2'>(v) /prɪˈzɜːv/</td><td class='px-4 py-2'>Bảo tồn, gìn giữ</td><td class='px-4 py-2'>We need to preserve ancient monuments.</td></tr><tr><td class='px-4 py-2 font-bold'>Restore</td><td class='px-4 py-2'>(v) /rɪˈstɔː(r)/</td><td class='px-4 py-2'>Phục hồi, tu bổ</td><td class='px-4 py-2'>They restored the old temple.</td></tr><tr><td class='px-4 py-2 font-bold'>Ancient</td><td class='px-4 py-2'>(adj) /ˈeɪnʃənt/</td><td class='px-4 py-2'>Cổ xưa, cổ đại</td><td class='px-4 py-2'>Visit ancient architecture in Hoi An.</td></tr><tr><td class='px-4 py-2 font-bold'>Historical</td><td class='px-4 py-2'>(adj) /hɪˈstɒrɪkl/</td><td class='px-4 py-2'>Thuộc về lịch sử</td><td class='px-4 py-2'>This is a historical site.</td></tr><tr><td class='px-4 py-2 font-bold'>Historic</td><td class='px-4 py-2'>(adj) /hɪˈstɒrɪk/</td><td class='px-4 py-2'>Có ý nghĩa lịch sử</td><td class='px-4 py-2'>It was a historic moment.</td></tr><tr><td class='px-4 py-2 font-bold'>Folk</td><td class='px-4 py-2'>(adj) /fəʊk/</td><td class='px-4 py-2'>Dân gian</td><td class='px-4 py-2'>Folk music is part of our heritage.</td></tr><tr><td class='px-4 py-2 font-bold'>Landscape</td><td class='px-4 py-2'>(n) /ˈlændskeɪp/</td><td class='px-4 py-2'>Cảnh quan</td><td class='px-4 py-2'>Trang An has beautiful landscapes.</td></tr><tr><td class='px-4 py-2 font-bold'>Monument</td><td class='px-4 py-2'>(n) /ˈmɒnjumənt/</td><td class='px-4 py-2'>Tượng đài, di tích</td><td class='px-4 py-2'>Visit historical monuments.</td></tr><tr><td class='px-4 py-2 font-bold'>Appreciate</td><td class='px-4 py-2'>(v) /əˈpriːʃieɪt/</td><td class='px-4 py-2'>Đánh giá cao, trân trọng</td><td class='px-4 py-2'>We should appreciate our heritage.</td></tr><tr><td class='px-4 py-2 font-bold'>Promote</td><td class='px-4 py-2'>(v) /prəˈməʊt/</td><td class='px-4 py-2'>Quảng bá, thúc đẩy</td><td class='px-4 py-2'>Promote heritage on social media.</td></tr><tr><td class='px-4 py-2 font-bold'>Awareness</td><td class='px-4 py-2'>(n) /əˈweənəs/</td><td class='px-4 py-2'>Nhận thức</td><td class='px-4 py-2'>Raise awareness about heritage.</td></tr><tr><td class='px-4 py-2 font-bold'>Ecosystem</td><td class='px-4 py-2'>(n) /ˈiːkəʊsɪstəm/</td><td class='px-4 py-2'>Hệ sinh thái</td><td class='px-4 py-2'>Protect the ecosystem of heritage sites.</td></tr><tr><td class='px-4 py-2 font-bold'>Well-preserved</td><td class='px-4 py-2'>(adj) /wel prɪˈzɜːvd/</td><td class='px-4 py-2'>Được bảo tồn tốt</td><td class='px-4 py-2'>Hoi An has well-preserved houses.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Types of heritage (Các loại di sản):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>cultural heritage:</strong> di sản văn hóa</li><li><strong>natural heritage:</strong> di sản thiên nhiên</li><li><strong>mixed heritage:</strong> di sản hỗn hợp</li><li><strong>world heritage site:</strong> di sản thế giới</li><li><strong>intangible heritage:</strong> di sản phi vật thể</li></ul><p><strong>Heritage preservation activities (Hoạt động bảo tồn di sản):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>restore ancient buildings:</strong> phục hồi công trình cổ</li><li><strong>preserve traditional culture:</strong> bảo tồn văn hóa truyền thống</li><li><strong>protect heritage sites:</strong> bảo vệ di tích</li><li><strong>promote folk arts:</strong> quảng bá nghệ thuật dân gian</li><li><strong>raise awareness:</strong> nâng cao nhận thức</li><li><strong>organize eco-tours:</strong> tổ chức tour sinh thái</li></ul><p><strong>Collocations về di sản:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>appreciate cultural values:</strong> trân trọng giá trị văn hóa</li><li><strong>give voice to suggestions:</strong> bày tỏ ý kiến đề xuất</li><li><strong>trending on social media:</strong> thịnh hành trên mạng xã hội</li><li><strong>well-preserved architecture:</strong> kiến trúc được bảo tồn tốt</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm: Ngữ điệu trong câu trần thuật, mệnh lệnh và liệt kê",
+              "content": "<h3>Intonation patterns (Các mẫu ngữ điệu):</h3><p><strong>1. Falling intonation (↘) - Ngữ điệu xuống</strong></p><p>Sử dụng trong:</p><ul class='list-disc pl-5 space-y-2'><li><strong>Câu trần thuật:</strong> Our class is going on a field trip. ↘</li><li><strong>Câu mệnh lệnh:</strong> Put your rubbish in the bin! ↘</li><li><strong>Mục cuối cùng trong danh sách:</strong> You can see caves, valleys, and mountains. ↘</li></ul><p><strong>2. Level-rising intonation (↗) - Ngữ điệu lên nhẹ</strong></p><p>Sử dụng trong:</p><ul class='list-disc pl-5 space-y-2'><li><strong>Các mục trong danh sách (trừ mục cuối):</strong></li><li>Cultural heritage may include temples ↗, pagodas ↗, and monuments. ↘</li><li>You can visit temples ↗, museums ↗, and ancient houses. ↘</li></ul><p><strong>Quy tắc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu trần thuật và mệnh lệnh: giọng xuống ↘</li><li>Liệt kê: các mục đầu giọng lên nhẹ ↗, mục cuối giọng xuống ↘</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp: Mệnh đề to-infinitive (To-infinitive clauses)",
+              "content": "<h3>A. Cấu trúc và cách dùng</h3><p><strong>Mệnh đề to-infinitive</strong> được sử dụng để:</p><p><strong>1. Diễn tả mục đích (Purpose)</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + V + to-infinitive (để làm gì)</li><li>Ex: He studied hard <strong>to pass</strong> the exam. (Anh ấy học chăm để đỗ kỳ thi.)</li><li>Ex: I bought some souvenirs <strong>to give</strong> my parents. (Tôi mua quà lưu niệm để tặng bố mẹ.)</li><li>Ex: We went to Hue <strong>to see</strong> the monuments. (Chúng tôi đến Huế để xem các di tích.)</li></ul><p><strong>2. Xác định danh từ (Modify nouns)</strong></p><p>Dùng sau danh từ có chứa:</p><ul class='list-disc pl-5 space-y-2'><li><strong>Số thứ tự:</strong> the first, the second, the third, the last...</li><li>Ex: She was <strong>the first person to arrive</strong>. (Cô ấy là người đầu tiên đến.)</li><li>Ex: Hue Imperial Citadel is <strong>the first place to visit</strong>. (Hoàng thành Huế là nơi đầu tiên để tham quan.)</li></ul><ul class='list-disc pl-5 space-y-2'><li><strong>So sánh nhất:</strong> the best, the most beautiful, the biggest...</li><li>Ex: This is <strong>the best way to preserve</strong> heritage. (Đây là cách tốt nhất để bảo tồn di sản.)</li><li>Ex: It's <strong>the most interesting site to explore</strong>. (Đó là địa điểm thú vị nhất để khám phá.)</li></ul><ul class='list-disc pl-5 space-y-2'><li><strong>Từ đặc biệt:</strong> next, last, only</li><li>Ex: The <strong>next thing to do</strong> is restore the temple. (Việc tiếp theo cần làm là phục hồi ngôi đền.)</li><li>Ex: He's <strong>the only person to know</strong> the answer. (Anh ấy là người duy nhất biết câu trả lời.)</li></ul><h3>B. Rút gọn mệnh đề quan hệ thành to-infinitive</h3><p><strong>Công thức:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Noun + who/which/that + V → Noun + to-infinitive</li></ul><p><strong>Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The first place <strong>that you can visit</strong> → The first place <strong>to visit</strong></li><li>The best way <strong>which we can use</strong> → The best way <strong>to use</strong></li><li>The only person <strong>who knows</strong> → The only person <strong>to know</strong></li></ul><h3>C. Bảng so sánh</h3><div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Cách dùng</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Cấu trúc</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Ví dụ</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2'>Mục đích</td><td class='px-4 py-2'>S + V + to-infinitive</td><td class='px-4 py-2'>I went there to learn about history.</td></tr><tr><td class='px-4 py-2'>Sau số thứ tự</td><td class='px-4 py-2'>the first/second/last + N + to-V</td><td class='px-4 py-2'>She was the first to arrive.</td></tr><tr><td class='px-4 py-2'>Sau so sánh nhất</td><td class='px-4 py-2'>the best/most + N + to-V</td><td class='px-4 py-2'>This is the best place to visit.</td></tr><tr><td class='px-4 py-2'>Sau next/last/only</td><td class='px-4 py-2'>the next/last/only + N + to-V</td><td class='px-4 py-2'>The next thing to do is...</td></tr></tbody></table></div><h3>D. Lưu ý quan trọng</h3><ul class='list-disc pl-5 space-y-2'><li>To-infinitive luôn giữ nguyên dạng: to + V(nguyên thể)</li><li>Không thêm 's', 'ed', 'ing' sau 'to'</li><li>Có thể dùng để thay thế mệnh đề quan hệ, làm câu ngắn gọn hơn</li><li>Thường dùng trong văn viết trang trọng</li></ul>"
+            },
+            {
+              "heading": "5. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Heritage sites in Viet Nam - Các di sản ở Việt Nam</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về kế hoạch tham quan di sản</li><li>Giới thiệu các di sản nổi tiếng: Tràng An, Hội An, Đồng bằng sông Cửu Long</li><li>Phân biệt di sản văn hóa, thiên nhiên và hỗn hợp</li><li>Thảo luận về các hoạt động tại di sản</li></ul><p><strong>Các di sản được đề cập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Tràng An:</strong> Di sản hỗn hợp, cảnh quan đẹp, tour thuyền</li><li><strong>Hội An:</strong> Phố cổ, kiến trúc cổ được bảo tồn tốt</li><li><strong>Đồng bằng sông Cửu Long:</strong> Chợ nổi, đờn ca tài tử</li></ul>"
+            },
+            {
+              "heading": "6. II. Language",
+              "content": "<p><strong>A. Pronunciation: Intonation in statements, commands, and lists</strong></p><p>Luyện phát âm ngữ điệu trong câu trần thuật, mệnh lệnh và liệt kê</p><p><strong>B. Vocabulary:</strong> Our heritage</p><ul class='list-disc pl-5 space-y-2'><li>Words related to heritage preservation</li><li>Cultural and natural heritage</li><li>Historical sites and monuments</li><li>Folk arts and traditions</li></ul><p><strong>C. Grammar:</strong> To-infinitive clauses</p><ul class='list-disc pl-5 space-y-2'><li>Expressing purpose</li><li>Modifying nouns with ordinal numbers</li><li>After superlatives</li><li>After next, last, only</li></ul>"
+            },
+            {
+              "heading": "7. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Teenagers' ideas for preserving heritage - Ý tưởng của thanh thiếu niên về bảo tồn di sản</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu bài viết về các đề xuất bảo tồn di sản</li><li>Tìm ý chính của từng đoạn văn</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li><li>Xác định thông tin chi tiết</li></ul><p><strong>Nội dung:</strong> Bài đọc trình bày các ý tưởng của giới trẻ về cách bảo tồn di sản, bao gồm:</p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng mạng xã hội để quảng bá di sản</li><li>Tạo cơ hội cho thanh thiếu niên tham gia giải quyết vấn đề</li><li>Thúc đẩy và phát triển nghệ thuật dân gian</li><li>Nâng cao nhận thức về giá trị di sản</li></ul>"
+            },
+            {
+              "heading": "8. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Preserving cultural heritage - Bảo tồn di sản văn hóa</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Thảo luận về các cách bảo tồn di sản</li><li>Đưa ra ý kiến và lý do</li><li>Đề xuất giải pháp cho vấn đề di sản</li><li>Trình bày về một loại di sản văn hóa</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What's your opinion on...?</li><li>I believe/think that...</li><li>Let me think...</li><li>The best way to preserve heritage is...</li><li>We should promote/protect/restore...</li><li>It's important to raise awareness about...</li></ul>"
+            },
+            {
+              "heading": "9. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> A trip to Trang An Scenic Landscape Complex</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu thông tin về di sản Tràng An</li><li>Điền thông tin còn thiếu (số liệu, năm tháng)</li><li>Trả lời câu hỏi về hệ sinh thái và bảo tồn</li><li>Ghi chú các ý quan trọng</li></ul><p><strong>Nội dung:</strong> Bài nghe giới thiệu về:</p><ul class='list-disc pl-5 space-y-2'><li>Tràng An được UNESCO công nhận năm 2014</li><li>Ba khu bảo tồn thiên nhiên</li><li>Hơn 600 loài thực vật</li><li>Dấu tích con người thời kỳ đầu</li><li>Nỗ lực bảo tồn trạng thái tự nhiên</li></ul>"
+            },
+            {
+              "heading": "10. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing a leaflet about preserving heritage - Viết tờ rơi về bảo tồn di sản</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết tờ rơi về vấn đề và giải pháp</li><li>Xác định vấn đề di sản đang gặp phải</li><li>Đề xuất các giải pháp khả thi</li><li>Sử dụng to-infinitive để diễn đạt mục đích</li></ul><p><strong>Cấu trúc tờ rơi:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Title:</strong> Tiêu đề thu hút</li><li><strong>Problems:</strong> Các vấn đề (damaging ecosystem, loss of cultural values)</li><li><strong>Solutions:</strong> Giải pháp (organize eco-tours, educate young people)</li><li><strong>Call to action:</strong> Kêu gọi hành động</li></ul><p><strong>Useful language:</strong></p><ul class='list-disc pl-5 space-y-2'><li>One of the main problems is...</li><li>To solve this problem, we should...</li><li>Another solution is to...</li><li>It is important to...</li></ul>"
+            },
+            {
+              "heading": "11. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Asking for and giving directions - Hỏi và chỉ đường</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Excuse me, could you tell me the way to...?</li><li>How can I get to...?</li><li>Go straight ahead / Turn left / Turn right</li><li>It's on your left/right</li><li>Walk along... Street</li></ul><p><strong>Culture:</strong> Preserving heritage around the world</p><ul class='list-disc pl-5 space-y-2'><li><strong>Italy:</strong> Gây quỹ từ công chúng để phục hồi di sản</li><li><strong>Spain:</strong> Tổ chức lễ hội thu hút du khách quốc tế</li><li><strong>Australia:</strong> Phạt nặng người làm hư hại di sản</li></ul><p><strong>Thảo luận:</strong></p><ul class='list-disc pl-5 space-y-2'><li>So sánh phương pháp bảo tồn di sản ở các nước</li><li>Phương pháp nào phù hợp với Việt Nam?</li><li>Vai trò của cộng đồng trong bảo tồn di sản</li></ul>"
+            },
+            {
+              "heading": "12. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Pronunciation:</strong> Intonation in statements, commands, and lists</li><li><strong>Vocabulary:</strong> Heritage, preserve, restore, ancient, historical, folk, landscape, monument, appreciate, promote, awareness</li><li><strong>Grammar:</strong> To-infinitive clauses for purpose and modifying nouns</li><li><strong>Skills:</strong> Reading about heritage preservation, Speaking about solutions, Listening to heritage site information, Writing leaflets</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng:</p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng từ vựng về di sản</li><li>Phát âm ngữ điệu chính xác</li><li>Sử dụng to-infinitive clauses</li><li>Thảo luận về bảo tồn di sản</li></ul>"
+            },
+            {
+              "heading": "13. Project",
+              "content": "<p><strong>Đề tài:</strong> How can we preserve our heritage? - Làm thế nào để bảo tồn di sản?</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một loại di sản mà nhóm quan tâm</li><li>Nghiên cứu về di sản đó (vị trí, đặc điểm, tầm quan trọng)</li><li>Đề xuất các cách bảo tồn cụ thể</li><li>Trình bày dưới dạng: bài thuyết trình, tờ rơi, hoặc poster</li></ul><p><strong>Câu hỏi gợi ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What is the heritage? Where is it?</li><li>Is it cultural or natural heritage?</li><li>What is it famous for?</li><li>How important is it?</li><li>What can we do to preserve it?</li></ul><p><strong>Ví dụ di sản có thể chọn:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tràng An Scenic Landscape Complex</li><li>Hoi An Ancient Town</li><li>Ca trù singing</li><li>Quan họ Bắc Ninh</li><li>Water puppetry</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: To-infinitive Clauses",
+            "method": "<p>Combine sentences or complete sentences using to-infinitive clauses.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Preserving our heritage is essential for maintaining our cultural identity and passing it on to future generations. Heritage includes both tangible elements like ancient buildings, monuments, and artifacts, as well as intangible elements such as folk music, traditional dances, and customs.\n\nIn Vietnam, many heritage sites face serious challenges. Trang An Scenic Landscape Complex, recognized by UNESCO in 2014 as a mixed World Heritage Site, is home to over 600 plant species and numerous caves. However, the increasing number of tourists threatens its delicate ecosystem. To address this problem, local authorities have organized eco-tours to educate visitors about environmental protection.\n\nYoung people play a crucial role in heritage preservation. Many teenagers have proposed creative solutions, such as using social media to promote heritage sites and organizing competitions to find innovative ideas. By raising awareness and getting involved, the younger generation can help ensure that our precious heritage survives for centuries to come.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Heritage only includes ancient buildings",
+                  "Preserving heritage is important and requires everyone's effort",
+                  "Tourism always damages heritage sites",
+                  "Only old people care about heritage"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về tầm quan trọng của việc bảo tồn di sản và vai trò của mọi người, đặc biệt là giới trẻ."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, heritage includes ______.",
+                "options": [
+                  "only ancient buildings",
+                  "only folk music and dances",
+                  "both tangible and intangible elements",
+                  "only natural landscapes"
+                ],
+                "correct": 2,
+                "explanation": "Di sản bao gồm cả yếu tố hữu hình (tangible) như công trình cổ và yếu tố vô hình (intangible) như âm nhạc dân gian."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "When was Trang An recognized as a World Heritage Site?",
+                "options": [
+                  "2012",
+                  "2013",
+                  "2014",
+                  "2015"
+                ],
+                "correct": 2,
+                "explanation": "Tràng An được UNESCO công nhận là Di sản Thế giới năm 2014."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What problem does Trang An face?",
+                "options": [
+                  "Lack of tourists",
+                  "Too many tourists threatening the ecosystem",
+                  "No plant species",
+                  "Bad weather"
+                ],
+                "correct": 1,
+                "explanation": "Số lượng du khách tăng đang đe dọa hệ sinh thái mong manh của Tràng An."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "How can young people help preserve heritage?",
+                "options": [
+                  "By staying away from heritage sites",
+                  "By using social media and organizing competitions",
+                  "By building new monuments",
+                  "By keeping heritage secret"
+                ],
+                "correct": 1,
+                "explanation": "Giới trẻ có thể giúp bảo tồn di sản bằng cách sử dụng mạng xã hội và tổ chức các cuộc thi."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "We need to ______ ancient monuments for future generations.",
+            "options": ["preserve", "prevent", "present", "pretend"],
+            "correct": 0,
+            "explanation": "Preserve: bảo tồn, gìn giữ."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "Hoi An Ancient Town has many ______ houses built in traditional style.",
+            "options": ["good-preserved", "well-preserve", "well-preserved", "preserving-well"],
+            "correct": 2,
+            "explanation": "Well-preserved (adj): được bảo tồn tốt."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "The government plans to ______ the old temple damaged by the storm.",
+            "options": ["restore", "store", "destroy", "ignore"],
+            "correct": 0,
+            "explanation": "Restore: phục hồi, tu bổ."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "We should raise ______ about the importance of preserving heritage.",
+            "options": ["aware", "awareness", "awaring", "awared"],
+            "correct": 1,
+            "explanation": "Raise awareness: nâng cao nhận thức (cần danh từ)."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "I went to Hue ______ the historical monuments there.",
+            "options": ["seeing", "to see", "see", "saw"],
+            "correct": 1,
+            "explanation": "To-infinitive diễn tả mục đích: đi để xem."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "She was the first student ______ the answer.",
+            "options": ["knowing", "to know", "know", "knew"],
+            "correct": 1,
+            "explanation": "Sau 'the first' dùng to-infinitive."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "This is the best place ______ about Vietnamese history.",
+            "options": ["learning", "to learn", "learn", "learned"],
+            "correct": 1,
+            "explanation": "Sau so sánh nhất 'the best' dùng to-infinitive."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "The next thing ______ is to organize an eco-tour.",
+            "options": ["doing", "to do", "do", "done"],
+            "correct": 1,
+            "explanation": "Sau 'the next' dùng to-infinitive."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "______ music is an important part of our cultural heritage.",
+            "options": ["Folk", "Folks", "Folking", "Folked"],
+            "correct": 0,
+            "explanation": "Folk (adj): dân gian."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "We need to ______ heritage values on social media.",
+            "options": ["promote", "promotion", "promoting", "promoted"],
+            "correct": 0,
+            "explanation": "Need to + V(nguyên thể). Promote: quảng bá."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "To-infinitive clauses can be used to express purpose.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Mệnh đề to-infinitive có thể diễn tả mục đích (để làm gì)."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "We use to-infinitive after superlatives like 'the best', 'the most beautiful'.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Sau so sánh nhất ta dùng to-infinitive để xác định danh từ."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Heritage only includes tangible elements like buildings and monuments.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Di sản bao gồm cả yếu tố hữu hình (tangible) và vô hình (intangible) như âm nhạc, múa dân gian."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call the activity of keeping something in its original state? (one word starting with 'p')",
+            "correct": "preservation",
+            "explanation": "Preservation: sự bảo tồn - hoạt động giữ gìn cái gì đó ở trạng thái ban đầu."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: She created a website ______ more information about heritage sites. (to give)",
+            "correct": "to give",
+            "explanation": "To-infinitive diễn tả mục đích: tạo website để cung cấp thông tin."
+          }
+        ]
+      }
+    }
+  ]
+}

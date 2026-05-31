@@ -1,0 +1,377 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-review-4",
+      "name": "Review 4 (Units 10 - 11 - 12)",
+      "slug": "review-4-units-10-11-12",
+      "chapter": "Review 4 (Units 10 - 11 - 12)",
+      "chapter_id": "A6",
+      "lesson_id": 40,
+      "description": "Review of Units 10, 11, and 12 covering future houses, environment, and robots.",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2672&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-4",
+          "name": "Review 4 Comprehensive",
+          "slug": "review-4-comprehensive",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 4 (Units 10 - 11 - 12)",
+          "sections": [
+            {
+              "heading": "1. Language - Vocabulary",
+              "content": "<h3>Unit 10: Our Houses in the Future</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Types of houses:</strong> apartment, UFO, houseboat, motorhome, skyscraper</li><li><strong>Locations:</strong> in space, on the Moon, under the ocean</li><li><strong>Technology:</strong> robot, solar energy, wireless, automatic</li><li><strong>Adjectives:</strong> modern, comfortable, automatic</li></ul><h3>Unit 11: Our Greener World</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>The 3Rs:</strong> reduce, reuse, recycle</li><li><strong>Environment:</strong> pollution, rubbish, environment, protect</li><li><strong>Materials:</strong> plastic, glass, paper, can</li><li><strong>Actions:</strong> save, plant, pollute</li></ul><h3>Unit 12: Robots</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Types of robots:</strong> home robot, teaching robot, worker robot</li><li><strong>Abilities:</strong> guard, recognize, understand, lift, build, repair</li><li><strong>Places:</strong> factory, space station, hospital</li><li><strong>Adjectives:</strong> useful, intelligent, helpful</li></ul>"
+            },
+            {
+              "heading": "2. Language - Grammar",
+              "content": "<h3>Unit 10: Future Simple with Will and Might</h3><p><strong>1. Will (chắc chắn):</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + will + V</li><li>Ex: People will live in space.</li></ul><p><strong>2. Might (có thể):</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + might + V</li><li>Ex: My house might be under the ocean.</li></ul><h3>Unit 11: Conditional Sentences Type 1</h3><p><strong>Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>If + S + V (hiện tại đơn), S + will + V</li><li>Ex: If we recycle more, we will help the Earth.</li></ul><h3>Unit 12: Superlative Adjectives and Could</h3><p><strong>1. Superlatives:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tính từ ngắn: the + adj + -est</li><li>Ex: the tallest, the biggest</li><li>Tính từ dài: the most + adj</li><li>Ex: the most intelligent</li><li>Bất quy tắc: good → the best, bad → the worst</li></ul><p><strong>2. Could (quá khứ):</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + could + V (khả năng trong quá khứ)</li><li>Ex: Robots could do simple things.</li></ul>"
+            },
+            {
+              "heading": "3. Skills - Reading Passage 1: Future Homes",
+              "content": "<p><strong>The House of Tomorrow</strong></p><p>In the future, houses will be very different from today. Many people will live in smart homes with modern technology. These houses will use solar energy, so they will be eco-friendly. They will have robots to do the housework, and all the doors will be automatic.</p><p>Some houses might be in unusual places. For example, some people might live in houses under the ocean. These houses will have big windows, so people can see fish and other sea animals. Other people might live in houses in space or on the Moon. These houses will be very expensive, but they will be the most exciting homes in the world.</p><p>Houses in the future will also be very comfortable. They will have wireless TVs and smart devices. If you want to watch TV, you won't need a remote control. You will just use your voice. If you want to turn on the lights, you will just say 'lights on' and they will turn on automatically.</p><p>However, not everyone will live in these modern houses. Some people will still live in traditional houses because they are cheaper and simpler. But one thing is certain: houses in the future will be more comfortable and more eco-friendly than houses today.</p>"
+            },
+            {
+              "heading": "4. Skills - Reading Passage 2: Protecting Our Environment",
+              "content": "<p><strong>A Greener World</strong></p><p>Our planet is facing many environmental problems. Air pollution, water pollution, and too much rubbish are making the Earth dirty. If we don't do something now, the problems will get worse in the future.</p><p>The good news is that we can all help to protect the environment. The most important thing is to remember the 3Rs: Reduce, Reuse, and Recycle. If we reduce the amount of rubbish we make, we will help the Earth. For example, we should use reusable bags instead of plastic bags. Plastic bags are very bad for the environment because they take hundreds of years to disappear.</p><p>We should also reuse things instead of throwing them away. If you have old clothes, you can give them to other people. If you have old bottles, you can use them to make flower pots. Reusing things is better than buying new things because it saves money and protects the environment.</p><p>Finally, we should recycle materials like paper, glass, and plastic. If we recycle more, we will reduce pollution and save natural resources. Many cities now have recycling bins, so it's easy to recycle.</p><p>Remember: if everyone does a little, together we can make a big difference. Our planet is the only home we have, so we must protect it.</p>"
+            },
+            {
+              "heading": "5. Skills - Practice Exercises",
+              "content": "<p><strong>Based on Reading Passage 1 (Future Homes):</strong></p><p>Answer these questions:</p><ol class='list-decimal pl-5 space-y-2'><li>What kind of energy will future houses use?</li><li>Where might some people live in the future?</li><li>How will people control TVs and lights in future houses?</li><li>Will everyone live in modern houses? Why or why not?</li></ol><p><strong>Based on Reading Passage 2 (Protecting Our Environment):</strong></p><p>Answer these questions:</p><ol class='list-decimal pl-5 space-y-2'><li>What environmental problems is our planet facing?</li><li>What are the 3Rs?</li><li>Why are plastic bags bad for the environment?</li><li>What can we do with old clothes and bottles?</li></ol>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Phân biệt Will và Might",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Will: chắc chắn (100%)</li><li>Might: có thể (50%)</li><li>Xem từ khóa: sure → will, not sure → might</li></ul>",
+            "examples": [
+              {
+                "question": "I'm sure. People ______ live on the Moon.",
+                "solution": "People <strong>will</strong> live on the Moon.",
+                "explanation": "Chắc chắn (I'm sure) → dùng 'will'."
+              },
+              {
+                "question": "I'm not sure. My house ______ be in space.",
+                "solution": "My house <strong>might</strong> be in space.",
+                "explanation": "Không chắc chắn → dùng 'might'."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Câu điều kiện loại 1",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>If + S + V (hiện tại đơn), S + will + V</li><li>Mệnh đề If: hiện tại đơn</li><li>Mệnh đề chính: will + V</li></ul>",
+            "examples": [
+              {
+                "question": "If we ______ (recycle) more, we ______ (help) the Earth.",
+                "solution": "If we <strong>recycle</strong> more, we <strong>will help</strong> the Earth.",
+                "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, will + V."
+              },
+              {
+                "question": "If you ______ (plant) trees, the air ______ (be) cleaner.",
+                "solution": "If you <strong>plant</strong> trees, the air <strong>will be</strong> cleaner.",
+                "explanation": "If + hiện tại đơn 'plant', will + V 'will be'."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: So sánh nhất",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tính từ ngắn: the + adj + -est</li><li>Tính từ dài: the most + adj</li><li>Bất quy tắc: good → the best, bad → the worst</li></ul>",
+            "examples": [
+              {
+                "question": "This is ______ (intelligent) robot in the world.",
+                "solution": "This is <strong>the most intelligent</strong> robot in the world.",
+                "explanation": "Tính từ dài → the most intelligent."
+              },
+              {
+                "question": "This is ______ (good) house I've ever seen.",
+                "solution": "This is <strong>the best</strong> house I've ever seen.",
+                "explanation": "Good → the best (bất quy tắc)."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Could cho quá khứ",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + could + V (khả năng trong quá khứ)</li><li>S + couldn't + V (phủ định)</li><li>Could + S + V? (nghi vấn)</li></ul>",
+            "examples": [
+              {
+                "question": "In the past, robots ______ (do) simple things.",
+                "solution": "In the past, robots <strong>could do</strong> simple things.",
+                "explanation": "Khả năng trong quá khứ → could + V."
+              },
+              {
+                "question": "Ten years ago, robots ______ (not understand) people.",
+                "solution": "Ten years ago, robots <strong>couldn't understand</strong> people.",
+                "explanation": "Phủ định trong quá khứ → couldn't + V."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "People ______ live in space in the future.",
+            "options": ["will", "might", "could", "can"],
+            "correct": 0,
+            "explanation": "Dự đoán chắc chắn về tương lai → will."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "My house ______ be under the ocean. I'm not sure.",
+            "options": ["will", "might", "is", "was"],
+            "correct": 1,
+            "explanation": "Không chắc chắn → might."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "If we recycle more, we ______ help the Earth.",
+            "options": ["will", "would", "can", "could"],
+            "correct": 0,
+            "explanation": "Câu điều kiện loại 1 → will."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "If you ______ rubbish in the river, it will be polluted.",
+            "options": ["throw", "will throw", "threw", "throwing"],
+            "correct": 0,
+            "explanation": "Mệnh đề If dùng hiện tại đơn → throw."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "This is ______ intelligent robot in the world.",
+            "options": ["the most", "the more", "most", "more"],
+            "correct": 0,
+            "explanation": "Tính từ dài → the most intelligent."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "This is ______ robot in the factory.",
+            "options": ["the biggest", "the bigger", "biggest", "bigger"],
+            "correct": 0,
+            "explanation": "So sánh nhất → the biggest."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "In the past, robots ______ do simple things.",
+            "options": ["can", "could", "will", "might"],
+            "correct": 1,
+            "explanation": "Khả năng trong quá khứ → could."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "Ten years ago, robots ______ recognize faces.",
+            "options": ["can't", "couldn't", "won't", "might not"],
+            "correct": 1,
+            "explanation": "Phủ định trong quá khứ → couldn't."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "We should ______ plastic bottles.",
+            "options": ["recycle", "recycling", "recycled", "to recycle"],
+            "correct": 0,
+            "explanation": "Should + V nguyên mẫu → recycle."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "This is ______ house I've ever seen.",
+            "options": ["the best", "the better", "best", "better"],
+            "correct": 0,
+            "explanation": "Good → the best (bất quy tắc)."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "If we plant more trees, the air ______ cleaner.",
+            "options": ["is", "will be", "was", "be"],
+            "correct": 1,
+            "explanation": "Câu điều kiện loại 1 → will be."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "Houses in the future ______ use solar energy.",
+            "options": ["will", "are", "do", "were"],
+            "correct": 0,
+            "explanation": "Dự đoán về tương lai → will."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "We should ______ old bags instead of buying new ones.",
+            "options": ["reduce", "reuse", "recycle", "throw"],
+            "correct": 1,
+            "explanation": "Dùng lại đồ cũ → reuse."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "Robots ______ understand people now.",
+            "options": ["can", "could", "will", "might"],
+            "correct": 0,
+            "explanation": "Khả năng ở hiện tại → can."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "This is ______ expensive robot in the shop.",
+            "options": ["the most", "the more", "most", "more"],
+            "correct": 0,
+            "explanation": "Tính từ dài → the most expensive."
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "If we ______ waste, we will protect the environment.",
+            "options": ["reduce", "will reduce", "reduced", "reducing"],
+            "correct": 0,
+            "explanation": "Mệnh đề If dùng hiện tại đơn → reduce."
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "I ______ have a robot in my house. I'm not sure.",
+            "options": ["will", "might", "am", "do"],
+            "correct": 1,
+            "explanation": "Không chắc chắn → might."
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "______ robots talk in the past?",
+            "options": ["Can", "Could", "Will", "Do"],
+            "correct": 1,
+            "explanation": "Câu hỏi về quá khứ → Could."
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "I have ______ apple.",
+            "options": ["a", "an", "the", "x"],
+            "correct": 1,
+            "explanation": "Apple bắt đầu bằng nguyên âm → an."
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "______ Earth is our home.",
+            "options": ["A", "An", "The", "x"],
+            "correct": 2,
+            "explanation": "Earth là danh từ duy nhất → the."
+          },
+          {
+            "id": "tf1",
+            "type": "true-false",
+            "question": "Future houses will use solar energy.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'These houses will use solar energy'."
+          },
+          {
+            "id": "tf2",
+            "type": "true-false",
+            "question": "All people will live in modern houses in the future.",
+            "correct": false,
+            "explanation": "Sai. Bài đọc nói 'Some people will still live in traditional houses'."
+          },
+          {
+            "id": "tf3",
+            "type": "true-false",
+            "question": "Plastic bags are good for the environment.",
+            "correct": false,
+            "explanation": "Sai. Bài đọc nói 'Plastic bags are very bad for the environment'."
+          },
+          {
+            "id": "tf4",
+            "type": "true-false",
+            "question": "We should remember the 3Rs to protect the environment.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nhấn mạnh tầm quan trọng của 3Rs."
+          },
+          {
+            "id": "tf5",
+            "type": "true-false",
+            "question": "Reusing things is better than buying new things.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'Reusing things is better than buying new things'."
+          },
+          {
+            "id": "short1",
+            "type": "short-answer",
+            "question": "What kind of energy will future houses use?",
+            "answer": "Solar energy",
+            "explanation": "Bài đọc nói 'These houses will use solar energy'."
+          },
+          {
+            "id": "short2",
+            "type": "short-answer",
+            "question": "Where might some people live in the future?",
+            "answer": "Under the ocean, in space, or on the Moon",
+            "explanation": "Bài đọc đề cập đến các vị trí này."
+          },
+          {
+            "id": "short3",
+            "type": "short-answer",
+            "question": "What are the 3Rs?",
+            "answer": "Reduce, Reuse, and Recycle",
+            "explanation": "Bài đọc giải thích rõ 3Rs."
+          },
+          {
+            "id": "short4",
+            "type": "short-answer",
+            "question": "Why are plastic bags bad for the environment?",
+            "answer": "Because they take hundreds of years to disappear",
+            "explanation": "Bài đọc nói 'they take hundreds of years to disappear'."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write about your dream house in the future (50-70 words). Include: location, type, appliances, and why you like it.",
+            "sample_answer": "My dream house will be a modern villa by the sea. It will have big windows with a beautiful ocean view. The house will use solar energy and have many robots to do the housework. I will have a wireless TV and automatic doors. I like this house because it will be comfortable, eco-friendly, and I can see the ocean every day.",
+            "explanation": "Bài viết cần bao gồm: vị trí, loại nhà, thiết bị, và lý do thích."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Write about what you can do to protect the environment (50-70 words). Use the 3Rs and conditional sentences.",
+            "sample_answer": "I can do many things to protect the environment. First, I will reduce waste by using reusable bags instead of plastic bags. Second, I will reuse old things like bottles and clothes. If I reuse things, I will save money and protect the Earth. Third, I will recycle paper, glass, and plastic. If everyone recycles more, we will reduce pollution. I will also plant trees and save water.",
+            "explanation": "Bài viết cần sử dụng 3Rs và câu điều kiện loại 1."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Write about robots and what they can do (50-70 words). Compare robots in the past and now.",
+            "sample_answer": "Robots are very useful machines. In the past, robots could only do simple things like moving objects. They couldn't understand people or recognize faces. Now, robots can do many things. They can do the housework, guard the house, and even teach students. Some robots can recognize faces and understand what we say. I think robots are the most helpful machines in the world. In the future, robots will be more intelligent.",
+            "explanation": "Bài viết cần so sánh robot xưa và nay, sử dụng could và can."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Write about environmental problems and solutions (50-70 words). Use conditional sentences type 1.",
+            "sample_answer": "Our planet has many environmental problems like air pollution, water pollution, and too much rubbish. If we don't do something, the problems will get worse. However, we can help. If we use public transport, there will be less air pollution. If we recycle more, we will reduce waste. If we plant more trees, the air will be cleaner. If everyone does a little, together we will make a big difference.",
+            "explanation": "Bài viết cần nêu vấn đề và giải pháp bằng câu điều kiện loại 1."
+          }
+        ]
+      }
+    }
+  ]
+}

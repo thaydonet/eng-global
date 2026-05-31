@@ -1,0 +1,209 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-10-p2",
+  "name": "Part 2: Language - Vocabulary",
+  "slug": "p2-vocabulary",
+  "description": "Từ vựng về học tập suốt đời",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Vocabulary: Lifelong Learning",
+      "sections": [
+        {
+          "heading": "1. Từ vựng (Vocabulary)",
+          "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Lifelong learning</td><td class='px-4 py-2'>(n) /ˈlaɪflɒŋ ˈlɜːnɪŋ/</td><td class='px-4 py-2'>Học tập suốt đời</td><td class='px-4 py-2'>Lifelong learning is essential.</td></tr><tr><td class='px-4 py-2 font-bold'>Self-study</td><td class='px-4 py-2'>(n) /ˌself ˈstʌdi/</td><td class='px-4 py-2'>Tự học</td><td class='px-4 py-2'>Self-study requires discipline.</td></tr><tr><td class='px-4 py-2 font-bold'>Online course</td><td class='px-4 py-2'>(n) /ˈɒnlaɪn kɔːs/</td><td class='px-4 py-2'>Khóa học trực tuyến</td><td class='px-4 py-2'>I'm taking an online course.</td></tr><tr><td class='px-4 py-2 font-bold'>Certificate</td><td class='px-4 py-2'>(n) /səˈtɪfɪkət/</td><td class='px-4 py-2'>Chứng chỉ</td><td class='px-4 py-2'>She earned a certificate.</td></tr><tr><td class='px-4 py-2 font-bold'>Workshop</td><td class='px-4 py-2'>(n) /ˈwɜːkʃɒp/</td><td class='px-4 py-2'>Hội thảo thực hành</td><td class='px-4 py-2'>Attend the workshop.</td></tr><tr><td class='px-4 py-2 font-bold'>Seminar</td><td class='px-4 py-2'>(n) /ˈsemɪnɑː(r)/</td><td class='px-4 py-2'>Hội thảo</td><td class='px-4 py-2'>The seminar was informative.</td></tr><tr><td class='px-4 py-2 font-bold'>Webinar</td><td class='px-4 py-2'>(n) /ˈwebɪnɑː(r)/</td><td class='px-4 py-2'>Hội thảo trực tuyến</td><td class='px-4 py-2'>Join the webinar tomorrow.</td></tr><tr><td class='px-4 py-2 font-bold'>Skill</td><td class='px-4 py-2'>(n) /skɪl/</td><td class='px-4 py-2'>Kỹ năng</td><td class='px-4 py-2'>Develop new skills.</td></tr><tr><td class='px-4 py-2 font-bold'>Knowledge</td><td class='px-4 py-2'>(n) /ˈnɒlɪdʒ/</td><td class='px-4 py-2'>Kiến thức</td><td class='px-4 py-2'>Expand your knowledge.</td></tr><tr><td class='px-4 py-2 font-bold'>Motivation</td><td class='px-4 py-2'>(n) /ˌməʊtɪˈveɪʃn/</td><td class='px-4 py-2'>Động lực</td><td class='px-4 py-2'>Stay motivated to learn.</td></tr><tr><td class='px-4 py-2 font-bold'>Acquire</td><td class='px-4 py-2'>(v) /əˈkwaɪə(r)/</td><td class='px-4 py-2'>Đạt được, thu được</td><td class='px-4 py-2'>Acquire new knowledge.</td></tr><tr><td class='px-4 py-2 font-bold'>Update</td><td class='px-4 py-2'>(v) /ʌpˈdeɪt/</td><td class='px-4 py-2'>Cập nhật</td><td class='px-4 py-2'>Update your skills regularly.</td></tr><tr><td class='px-4 py-2 font-bold'>Enroll</td><td class='px-4 py-2'>(v) /ɪnˈrəʊl/</td><td class='px-4 py-2'>Đăng ký (khóa học)</td><td class='px-4 py-2'>Enroll in a course.</td></tr><tr><td class='px-4 py-2 font-bold'>Continuous</td><td class='px-4 py-2'>(adj) /kənˈtɪnjuəs/</td><td class='px-4 py-2'>Liên tục</td><td class='px-4 py-2'>Continuous learning is important.</td></tr><tr><td class='px-4 py-2 font-bold'>Accessible</td><td class='px-4 py-2'>(adj) /əkˈsesəbl/</td><td class='px-4 py-2'>Dễ tiếp cận</td><td class='px-4 py-2'>Online courses are accessible.</td></tr><tr><td class='px-4 py-2 font-bold'>Flexible</td><td class='px-4 py-2'>(adj) /ˈfleksəbl/</td><td class='px-4 py-2'>Linh hoạt</td><td class='px-4 py-2'>Flexible learning schedule.</td></tr></tbody></table></div>"
+        },
+        {
+          "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+          "content": "<p><strong>Learning Methods (Phương pháp học tập):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>formal education:</strong> giáo dục chính quy</li><li><strong>informal learning:</strong> học tập không chính thức</li><li><strong>self-directed learning:</strong> tự học có định hướng</li><li><strong>online learning:</strong> học trực tuyến</li><li><strong>distance learning:</strong> học từ xa</li><li><strong>blended learning:</strong> học kết hợp (online + offline)</li><li><strong>experiential learning:</strong> học qua trải nghiệm</li><li><strong>peer learning:</strong> học từ bạn bè</li></ul><p><strong>Learning Resources (Nguồn học tập):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>MOOC:</strong> Massive Open Online Course - khóa học trực tuyến mở đại chúng</li><li><strong>e-learning platform:</strong> nền tảng học trực tuyến (Coursera, edX, Udemy)</li><li><strong>tutorial:</strong> bài hướng dẫn</li><li><strong>podcast:</strong> chương trình âm thanh</li><li><strong>educational video:</strong> video giáo dục</li><li><strong>e-book:</strong> sách điện tử</li><li><strong>learning app:</strong> ứng dụng học tập</li><li><strong>digital library:</strong> thư viện số</li></ul><p><strong>Learning Activities (Hoạt động học tập):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>attend a workshop:</strong> tham dự hội thảo thực hành</li><li><strong>take a course:</strong> tham gia khóa học</li><li><strong>enroll in a program:</strong> đăng ký chương trình</li><li><strong>complete a module:</strong> hoàn thành một mô-đun</li><li><strong>earn a certificate:</strong> nhận chứng chỉ</li><li><strong>participate in training:</strong> tham gia đào tạo</li><li><strong>join a study group:</strong> tham gia nhóm học tập</li><li><strong>engage in discussions:</strong> tham gia thảo luận</li></ul><p><strong>Skills to Develop (Kỹ năng cần phát triển):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>digital literacy:</strong> kỹ năng số</li><li><strong>critical thinking:</strong> tư duy phản biện</li><li><strong>problem-solving:</strong> giải quyết vấn đề</li><li><strong>time management:</strong> quản lý thời gian</li><li><strong>self-discipline:</strong> tự kỷ luật</li><li><strong>adaptability:</strong> khả năng thích nghi</li><li><strong>communication skills:</strong> kỹ năng giao tiếp</li><li><strong>collaboration:</strong> hợp tác</li></ul><p><strong>Reported Speech Verbs (Động từ tường thuật):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>tell/told:</strong> bảo, nói (mệnh lệnh)</li><li><strong>order/ordered:</strong> ra lệnh</li><li><strong>ask/asked:</strong> yêu cầu</li><li><strong>request/requested:</strong> đề nghị</li><li><strong>advise/advised:</strong> khuyên</li><li><strong>recommend/recommended:</strong> đề xuất</li><li><strong>suggest/suggested:</strong> gợi ý</li><li><strong>offer/offered:</strong> đề nghị (giúp đỡ)</li><li><strong>volunteer/volunteered:</strong> tự nguyện</li><li><strong>warn/warned:</strong> cảnh báo</li><li><strong>encourage/encouraged:</strong> khuyến khích</li></ul><p><strong>Collocations:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>acquire knowledge:</strong> thu nhận kiến thức</li><li><strong>develop skills:</strong> phát triển kỹ năng</li><li><strong>update knowledge:</strong> cập nhật kiến thức</li><li><strong>expand horizons:</strong> mở rộng tầm nhìn</li><li><strong>pursue education:</strong> theo đuổi giáo dục</li><li><strong>embrace learning:</strong> đón nhận việc học</li><li><strong>commit to learning:</strong> cam kết học tập</li><li><strong>stay motivated:</strong> duy trì động lực</li></ul>"
+        },
+        {
+          "heading": "3. Ngữ âm: Stress in reported speech",
+          "content": "<h3>Nhấn mạnh trong câu tường thuật</h3><p><strong>Quy tắc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Commands:</strong> Nhấn động từ tường thuật và động từ chính</li><li>Ex: She <strong>TOLD</strong> me to <strong>STUDY</strong> harder.</li><li>Ex: He <strong>ORDERED</strong> us to <strong>FINISH</strong> the work.</li></ul><ul class='list-disc pl-5 space-y-2'><li><strong>Requests:</strong> Nhấn động từ tường thuật và động từ chính</li><li>Ex: She <strong>ASKED</strong> me to <strong>HELP</strong> her.</li><li>Ex: He <strong>REQUESTED</strong> us to <strong>ATTEND</strong>.</li></ul><ul class='list-disc pl-5 space-y-2'><li><strong>Offers:</strong> Nhấn động từ tường thuật và động từ chính</li><li>Ex: She <strong>OFFERED</strong> to <strong>HELP</strong> me.</li><li>Ex: He <strong>VOLUNTEERED</strong> to <strong>TEACH</strong>.</li></ul><ul class='list-disc pl-5 space-y-2'><li><strong>Advice:</strong> Nhấn động từ tường thuật và động từ chính</li><li>Ex: She <strong>ADVISED</strong> me to <strong>TAKE</strong> the course.</li><li>Ex: He <strong>RECOMMENDED</strong> us to <strong>ENROLL</strong>.</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "vocab-ex1",
+        "type": "mcq",
+        "question": "Choose the correct word: 'She earned a _____.'",
+        "options": ["certificate", "certification", "certify", "certified"],
+        "correct": 0,
+        "explanation": "'Certificate' (n) là chứng chỉ."
+      },
+      {
+        "id": "vocab-ex2",
+        "type": "mcq",
+        "question": "What does 'enroll' mean?",
+        "options": ["To quit", "To register for a course", "To finish", "To fail"],
+        "correct": 1,
+        "explanation": "'Enroll' nghĩa là đăng ký khóa học."
+      },
+      {
+        "id": "vocab-ex3",
+        "type": "mcq",
+        "question": "Complete: 'I need to _____ my skills.'",
+        "options": ["update", "updates", "updating", "updated"],
+        "correct": 0,
+        "explanation": "'Update' (v) sau 'need to' là cập nhật."
+      },
+      {
+        "id": "vocab-ex4",
+        "type": "mcq",
+        "question": "What is a 'webinar'?",
+        "options": ["A book", "An online seminar", "A building", "A test"],
+        "correct": 1,
+        "explanation": "Webinar là hội thảo trực tuyến."
+      },
+      {
+        "id": "vocab-ex5",
+        "type": "mcq",
+        "question": "What does 'acquire' mean?",
+        "options": ["To lose", "To obtain or gain", "To forget", "To avoid"],
+        "correct": 1,
+        "explanation": "'Acquire' nghĩa là đạt được, thu được."
+      },
+      {
+        "id": "vocab-ex6",
+        "type": "mcq",
+        "question": "Complete: '_____ learning is essential.'",
+        "options": ["Life", "Lifelong", "Long", "Live"],
+        "correct": 1,
+        "explanation": "'Lifelong learning' - học tập suốt đời."
+      },
+      {
+        "id": "vocab-ex7",
+        "type": "mcq",
+        "question": "What is 'self-study'?",
+        "options": ["Group learning", "Learning by yourself", "Teacher-led learning", "No learning"],
+        "correct": 1,
+        "explanation": "Self-study là tự học."
+      },
+      {
+        "id": "vocab-ex8",
+        "type": "mcq",
+        "question": "Choose the correct form: 'Online courses are _____.'",
+        "options": ["access", "accessible", "accessing", "accessed"],
+        "correct": 1,
+        "explanation": "'Accessible' (adj) nghĩa là dễ tiếp cận."
+      },
+      {
+        "id": "vocab-ex9",
+        "type": "mcq",
+        "question": "What does MOOC stand for?",
+        "options": [
+          "My Online Open Course",
+          "Massive Open Online Course",
+          "Modern Online Open Class",
+          "Multiple Online Open Courses"
+        ],
+        "correct": 1,
+        "explanation": "MOOC = Massive Open Online Course."
+      },
+      {
+        "id": "vocab-ex10",
+        "type": "mcq",
+        "question": "Complete: 'Stay _____ to learn.'",
+        "options": ["motivate", "motivated", "motivation", "motivating"],
+        "correct": 1,
+        "explanation": "'Motivated' (adj) - có động lực."
+      },
+      {
+        "id": "vocab-ex11",
+        "type": "mcq",
+        "question": "What is 'digital literacy'?",
+        "options": [
+          "Reading books",
+          "Skills to use digital technology",
+          "Writing letters",
+          "Speaking skills"
+        ],
+        "correct": 1,
+        "explanation": "Digital literacy là kỹ năng sử dụng công nghệ số."
+      },
+      {
+        "id": "vocab-ex12",
+        "type": "mcq",
+        "question": "Which verb means 'to give advice'?",
+        "options": ["tell", "advise", "order", "request"],
+        "correct": 1,
+        "explanation": "'Advise' nghĩa là khuyên, đưa ra lời khuyên."
+      },
+      {
+        "id": "vocab-ex13",
+        "type": "mcq",
+        "question": "Complete the collocation: '_____ knowledge'",
+        "options": ["make", "do", "acquire", "take"],
+        "correct": 2,
+        "explanation": "'Acquire knowledge' - thu nhận kiến thức."
+      },
+      {
+        "id": "vocab-ex14",
+        "type": "mcq",
+        "question": "What does 'flexible' mean?",
+        "options": ["Rigid", "Adaptable and adjustable", "Fixed", "Strict"],
+        "correct": 1,
+        "explanation": "'Flexible' nghĩa là linh hoạt, có thể điều chỉnh."
+      },
+      {
+        "id": "vocab-ex15",
+        "type": "mcq",
+        "question": "Which is a learning platform?",
+        "options": ["Facebook", "Coursera", "Instagram", "Twitter"],
+        "correct": 1,
+        "explanation": "Coursera là nền tảng học trực tuyến."
+      },
+      {
+        "id": "vocab-ex16",
+        "type": "msq",
+        "question_text": "Decide True or False:",
+        "options": [
+          "'Certificate' means chứng chỉ.",
+          "'Enroll' means to quit.",
+          "'Workshop' is a practical training session.",
+          "'Acquire' means to lose."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Certificate là chứng chỉ. b) False - Enroll là đăng ký. c) True - Workshop là buổi thực hành. d) False - Acquire là đạt được."
+      },
+      {
+        "id": "vocab-ex17",
+        "type": "msq",
+        "question_text": "Match the words (True if correct):",
+        "options": [
+          "Lifelong learning = học tập suốt đời",
+          "Self-study = group learning",
+          "Webinar = online seminar",
+          "Motivation = động lực"
+        ],
+        "correct": [0, 2, 3],
+        "explanation": "a) True. b) False - Self-study là tự học. c) True. d) True."
+      },
+      {
+        "id": "vocab-ex18",
+        "type": "sa",
+        "question_text": "Complete: Learning throughout life = _____ learning (one word)",
+        "correct": "lifelong",
+        "explanation": "Lifelong learning - học tập suốt đời."
+      },
+      {
+        "id": "vocab-ex19",
+        "type": "sa",
+        "question_text": "Fill in: To register for a course = to _____ (one word)",
+        "correct": "enroll",
+        "explanation": "Enroll - đăng ký."
+      },
+      {
+        "id": "vocab-ex20",
+        "type": "sa",
+        "question_text": "Complete the collocation: develop _____ (one word)",
+        "correct": "skills",
+        "explanation": "'Develop skills' - phát triển kỹ năng."
+      }
+    ]
+  }
+}

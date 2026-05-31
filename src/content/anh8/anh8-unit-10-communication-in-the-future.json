@@ -1,0 +1,305 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-unit-10-communication-in-the-future",
+      "name": "Unit 10: Communication in the Future",
+      "slug": "unit-10-communication-in-the-future",
+      "chapter": "Unit 10: Communication in the Future",
+      "chapter_id": "A8",
+      "lesson_id": 10,
+      "description": "Learn about future communication with prepositions and possessive pronouns.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-10",
+          "name": "Communication Vocabulary",
+          "slug": "communication-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 10: Communication in the Future",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Communication methods:</strong> video call, hologram, telepathy, social media, email, text message, voice message, video conference</p><p><strong>Technology:</strong> smartphone, tablet, smartwatch, virtual reality, augmented reality, artificial intelligence, robot, device</p><p><strong>Actions:</strong> communicate, connect, contact, send, receive, share, post, chat, message, call</p>"
+            },
+            {
+              "heading": "2-12. Các phần còn lại",
+              "content": "<p>Luyện tập từ vựng, Ngữ âm, Ngữ pháp, Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Prepositions of Place and Time</h3><p><strong>1. Prepositions of Place:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>in:</strong> trong (không gian kín) - in the room, in Vietnam</li><li><strong>on:</strong> trên (bề mặt) - on the table, on the wall</li><li><strong>at:</strong> tại (điểm cụ thể) - at home, at school, at the station</li></ul><p><strong>2. Prepositions of Time:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>in:</strong> trong (tháng, năm, thế kỷ, buổi) - in May, in 2024, in the morning</li><li><strong>on:</strong> vào (ngày, thứ, ngày tháng) - on Monday, on May 1st</li><li><strong>at:</strong> vào (giờ, thời điểm) - at 8 o'clock, at night, at noon</li></ul><h3>B. Possessive Pronouns</h3><p><strong>Bảng đại từ sở hữu:</strong></p><ul class='list-disc pl-5 space-y-2'><li>my → <strong>mine</strong></li><li>your → <strong>yours</strong></li><li>his → <strong>his</strong></li><li>her → <strong>hers</strong></li><li>our → <strong>ours</strong></li><li>their → <strong>theirs</strong></li></ul><p><strong>Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Thay thế tính từ sở hữu + danh từ</li><li>Ex: This is my phone. That phone is <strong>yours</strong>.</li><li>Ex: My phone is new, but <strong>hers</strong> is old.</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Prepositions of Place",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>in: không gian kín</li><li>on: bề mặt</li><li>at: điểm cụ thể</li></ul>",
+            "examples": [
+              {
+                "question": "I live ______ Vietnam.",
+                "solution": "I live <strong>in</strong> Vietnam.",
+                "explanation": "Quốc gia → in"
+              },
+              {
+                "question": "The book is ______ the table.",
+                "solution": "The book is <strong>on</strong> the table.",
+                "explanation": "Bề mặt → on"
+              },
+              {
+                "question": "I'm ______ home.",
+                "solution": "I'm <strong>at</strong> home.",
+                "explanation": "Điểm cụ thể → at"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Prepositions of Time",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>in: tháng, năm, buổi</li><li>on: ngày, thứ</li><li>at: giờ, thời điểm</li></ul>",
+            "examples": [
+              {
+                "question": "I was born ______ May.",
+                "solution": "I was born <strong>in</strong> May.",
+                "explanation": "Tháng → in"
+              },
+              {
+                "question": "The meeting is ______ Monday.",
+                "solution": "The meeting is <strong>on</strong> Monday.",
+                "explanation": "Thứ → on"
+              },
+              {
+                "question": "I wake up ______ 6 o'clock.",
+                "solution": "I wake up <strong>at</strong> 6 o'clock.",
+                "explanation": "Giờ → at"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Possessive Pronouns",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Xác định chủ sở hữu</li><li>Chọn đại từ sở hữu phù hợp</li><li>mine, yours, his, hers, ours, theirs</li></ul>",
+            "examples": [
+              {
+                "question": "This is my phone. That phone is ______. (you)",
+                "solution": "That phone is <strong>yours</strong>.",
+                "explanation": "your phone → yours"
+              },
+              {
+                "question": "My phone is new, but ______ is old. (she)",
+                "solution": "My phone is new, but <strong>hers</strong> is old.",
+                "explanation": "her phone → hers"
+              },
+              {
+                "question": "Our house is big, but ______ is small. (they)",
+                "solution": "Our house is big, but <strong>theirs</strong> is small.",
+                "explanation": "their house → theirs"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Kết hợp Prepositions và Pronouns",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Xác định loại giới từ cần dùng</li><li>Xác định đại từ sở hữu</li><li>Kết hợp trong câu</li></ul>",
+            "examples": [
+              {
+                "question": "I'll meet you ______ the station. My car is red, ______ is blue. (your)",
+                "solution": "I'll meet you <strong>at</strong> the station. My car is red, <strong>yours</strong> is blue.",
+                "explanation": "at (điểm cụ thể) + yours (your car)"
+              },
+              {
+                "question": "The meeting is ______ 3 p.m. ______ Monday. This is my plan, where is ______? (your)",
+                "solution": "The meeting is <strong>at</strong> 3 p.m. <strong>on</strong> Monday. This is my plan, where is <strong>yours</strong>?",
+                "explanation": "at (giờ) + on (thứ) + yours"
+              },
+              {
+                "question": "I live ______ Hanoi. My house is small, but ______ is big. (their)",
+                "solution": "I live <strong>in</strong> Hanoi. My house is small, but <strong>theirs</strong> is big.",
+                "explanation": "in (thành phố) + theirs (their house)"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I live ______ Vietnam.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 0,
+            "explanation": "Quốc gia → in"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The book is ______ the table.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 1,
+            "explanation": "Bề mặt → on"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I was born ______ May.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 0,
+            "explanation": "Tháng → in"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "The meeting is ______ Monday.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 1,
+            "explanation": "Thứ → on"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "I wake up ______ 6 o'clock.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 2,
+            "explanation": "Giờ → at"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "This is my phone. That phone is ______.",
+            "options": ["my", "mine", "yours", "your"],
+            "correct": 2,
+            "explanation": "your phone → yours"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "My phone is new, but ______ is old.",
+            "options": ["her", "hers", "she", "his"],
+            "correct": 1,
+            "explanation": "her phone → hers"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "I'm ______ home.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 2,
+            "explanation": "at home (cố định)"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "Our house is big, but ______ is small.",
+            "options": ["their", "theirs", "they", "them"],
+            "correct": 1,
+            "explanation": "their house → theirs"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "The picture is ______ the wall.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 1,
+            "explanation": "Bề mặt tường → on"
+          },
+          {
+            "id": "msq1",
+            "type": "multiple-select",
+            "question": "Which prepositions are used for TIME? (Select all that apply)",
+            "options": ["in the morning", "on Monday", "at 6 o'clock", "on the table"],
+            "correct": [0, 1, 2],
+            "explanation": "in the morning, on Monday, at 6 o'clock là giới từ chỉ thời gian. 'on the table' là giới từ chỉ địa điểm."
+          },
+          {
+            "id": "msq2",
+            "type": "multiple-select",
+            "question": "Which are possessive pronouns? (Select all that apply)",
+            "options": ["mine", "my", "yours", "your"],
+            "correct": [0, 2],
+            "explanation": "mine và yours là đại từ sở hữu. my và your là tính từ sở hữu."
+          },
+          {
+            "id": "msq3",
+            "type": "multiple-select",
+            "question": "Which sentences use prepositions correctly? (Select all that apply)",
+            "options": ["I live in Hanoi.", "The meeting is on Monday.", "I wake up in 6 o'clock.", "The book is at the table."],
+            "correct": [0, 1],
+            "explanation": "Đúng: in Hanoi, on Monday. Sai: at 6 o'clock (không phải in), on the table (không phải at)."
+          },
+          {
+            "id": "sa1",
+            "type": "short-answer",
+            "question": "Fill in: I live ______ Vietnam. I was born ______ 2010.",
+            "answer": "in, in",
+            "explanation": "Quốc gia → in; Năm → in"
+          },
+          {
+            "id": "sa2",
+            "type": "short-answer",
+            "question": "Fill in: The meeting is ______ Monday ______ 3 p.m.",
+            "answer": "on, at",
+            "explanation": "Thứ → on; Giờ → at"
+          },
+          {
+            "id": "sa3",
+            "type": "short-answer",
+            "question": "Replace with possessive pronoun: This is my phone. That is your phone. → This is ______, that is ______.",
+            "answer": "mine, yours",
+            "explanation": "my phone → mine; your phone → yours"
+          },
+          {
+            "id": "sa4",
+            "type": "short-answer",
+            "question": "Fill in: My car is red. ______ (her car) is blue.",
+            "answer": "Hers",
+            "explanation": "her car → Hers"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: in / I / live / Hanoi / . / was / I / born / in / 2010 / .",
+            "sample_answer": "I live in Hanoi. I was born in 2010.",
+            "explanation": "Sắp xếp: S + V + in + địa điểm. S + was born + in + năm."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Rearrange: meeting / The / is / on / Monday / at / 3 p.m. / .",
+            "sample_answer": "The meeting is on Monday at 3 p.m.",
+            "explanation": "Sắp xếp: S + is + on + thứ + at + giờ."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Transform: This is my phone. That is your phone. (Use possessive pronouns)",
+            "sample_answer": "This is mine. That is yours. / This phone is mine. That phone is yours.",
+            "explanation": "Biến đổi: my phone → mine; your phone → yours"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Transform: My house is big. Their house is small. (Use possessive pronouns)",
+            "sample_answer": "My house is big, but theirs is small. / Mine is big, but theirs is small.",
+            "explanation": "Biến đổi: their house → theirs; my house → mine"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Rearrange and transform: book / The / is / the / on / table / . / This / my / is / book / . / That / your / is / book / . (Use possessive pronouns in the last two sentences)",
+            "sample_answer": "The book is on the table. This is mine. That is yours.",
+            "explanation": "Sắp xếp câu 1: The book is on the table. Biến đổi câu 2-3: my book → mine, your phone → yours"
+          }
+        ]
+      }
+    }
+  ]
+}

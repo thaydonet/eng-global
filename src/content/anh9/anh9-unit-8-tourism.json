@@ -1,0 +1,309 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-unit-8-tourism",
+      "name": "Unit 8: Tourism",
+      "slug": "unit-8-tourism",
+      "chapter": "Unit 8: Tourism",
+      "chapter_id": "A9",
+      "lesson_id": 8,
+      "description": "Learn about tourism with relative pronouns.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-8",
+          "name": "Tourism Vocabulary",
+          "slug": "tourism-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 8: Tourism",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Tourism:</strong> tourist, traveler, visitor, sightseeing, tour, excursion, package tour, guided tour, itinerary, destination</p><p><strong>Accommodation:</strong> hotel, resort, hostel, guesthouse, homestay, motel, inn, lodge, check-in, check-out, reservation, booking</p><p><strong>Transportation:</strong> flight, train, bus, taxi, cruise, ferry, rental car, transfer</p><p><strong>Activities:</strong> sightseeing, shopping, dining, swimming, hiking, diving, surfing, skiing, photography</p><p><strong>Places:</strong> attraction, landmark, monument, museum, gallery, temple, pagoda, beach, mountain, park</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng",
+              "content": "<p>Practice using vocabulary in context about tourism, travel, accommodation, and tourist activities.</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>Relative Pronouns (Đại từ quan hệ)</h3><p><strong>A. Các đại từ quan hệ:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>who:</strong> thay thế cho người (làm chủ ngữ hoặc tân ngữ)</li><li>Ex: The man <strong>who</strong> is standing there is a tourist.</li><li><strong>whom:</strong> thay thế cho người (làm tân ngữ - formal)</li><li>Ex: The woman <strong>whom</strong> I met was a guide.</li><li><strong>which:</strong> thay thế cho vật, động vật</li><li>Ex: The hotel <strong>which</strong> we stayed at was nice.</li><li><strong>that:</strong> thay thế cho người hoặc vật (có thể thay who, whom, which)</li><li>Ex: The tourist <strong>that</strong> visited us was friendly.</li><li>Ex: The place <strong>that</strong> I visited was beautiful.</li><li><strong>whose:</strong> thay thế cho sở hữu (của người hoặc vật)</li><li>Ex: The tourist <strong>whose</strong> bag was lost is upset.</li><li><strong>where:</strong> thay thế cho nơi chốn</li><li>Ex: The city <strong>where</strong> I was born is beautiful.</li><li><strong>when:</strong> thay thế cho thời gian</li><li>Ex: The day <strong>when</strong> we arrived was sunny.</li></ul><p><strong>B. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>1. Làm chủ ngữ:</strong></li><li>Ex: The tourist <strong>who/that</strong> visited us was friendly.</li><li>(who/that = chủ ngữ, không thể bỏ)</li><li><strong>2. Làm tân ngữ:</strong></li><li>Ex: The woman (whom/that) I met was a guide.</li><li>(whom/that = tân ngữ, có thể bỏ)</li><li><strong>3. Sau giới từ:</strong></li><li>Ex: The hotel <strong>which/that</strong> we stayed <strong>at</strong> was nice.</li><li>Ex: The hotel <strong>at which</strong> we stayed was nice. (formal)</li></ul><p><strong>C. Khi nào dùng THAT:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sau so sánh nhất: the best, the most beautiful</li><li>Ex: It's the best hotel <strong>that</strong> I've ever stayed at.</li><li>Sau: all, everything, nothing, something, anything</li><li>Ex: Everything <strong>that</strong> he said was true.</li><li>Sau: the only, the first, the last</li><li>Ex: She's the only person <strong>that</strong> can help.</li><li>Khi có cả người và vật</li><li>Ex: The man and the dog <strong>that</strong> I saw were running.</li></ul><p><strong>D. Khi nào KHÔNG dùng THAT:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sau dấu phẩy (mệnh đề không xác định)</li><li>Ex: Ha Long Bay, <strong>which</strong> is in Vietnam, is beautiful. (không dùng 'that')</li><li>Sau giới từ (formal)</li><li>Ex: The hotel <strong>at which</strong> we stayed... (không dùng 'at that')</li></ul>"
+            },
+            {
+              "heading": "4-11. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Who/That cho người",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>who/that thay thế cho người</li><li>Làm chủ ngữ: không thể bỏ</li><li>Làm tân ngữ: có thể bỏ</li></ul>",
+            "examples": [
+              {
+                "question": "The tourist ______ visited us was friendly.",
+                "solution": "The tourist <strong>who/that</strong> visited us was friendly.",
+                "explanation": "who/that thay thế cho người (chủ ngữ)"
+              },
+              {
+                "question": "The woman ______ I met was a guide.",
+                "solution": "The woman <strong>(whom/that)</strong> I met was a guide.",
+                "explanation": "whom/that thay thế cho người (tân ngữ, có thể bỏ)"
+              },
+              {
+                "question": "The man ______ is standing there is a tourist.",
+                "solution": "The man <strong>who/that</strong> is standing there is a tourist.",
+                "explanation": "who/that thay thế cho người (chủ ngữ)"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Which/That cho vật",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>which/that thay thế cho vật</li><li>Làm chủ ngữ: không thể bỏ</li><li>Làm tân ngữ: có thể bỏ</li></ul>",
+            "examples": [
+              {
+                "question": "The hotel ______ we stayed at was nice.",
+                "solution": "The hotel <strong>(which/that)</strong> we stayed at was nice.",
+                "explanation": "which/that thay thế cho vật (tân ngữ, có thể bỏ)"
+              },
+              {
+                "question": "The place ______ I visited was beautiful.",
+                "solution": "The place <strong>(which/that)</strong> I visited was beautiful.",
+                "explanation": "which/that thay thế cho vật (tân ngữ, có thể bỏ)"
+              },
+              {
+                "question": "The bus ______ goes to the airport is late.",
+                "solution": "The bus <strong>which/that</strong> goes to the airport is late.",
+                "explanation": "which/that thay thế cho vật (chủ ngữ, không thể bỏ)"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Whose/Where/When",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>whose: sở hữu</li><li>where: nơi chốn</li><li>when: thời gian</li></ul>",
+            "examples": [
+              {
+                "question": "The tourist ______ bag was lost is upset.",
+                "solution": "The tourist <strong>whose</strong> bag was lost is upset.",
+                "explanation": "whose = sở hữu (của người)"
+              },
+              {
+                "question": "The city ______ I was born is beautiful.",
+                "solution": "The city <strong>where</strong> I was born is beautiful.",
+                "explanation": "where = nơi chốn"
+              },
+              {
+                "question": "The day ______ we arrived was sunny.",
+                "solution": "The day <strong>when</strong> we arrived was sunny.",
+                "explanation": "when = thời gian"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Khi nào dùng That",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sau so sánh nhất</li><li>Sau all, everything, nothing</li><li>Sau the only, the first, the last</li><li>Có cả người và vật</li></ul>",
+            "examples": [
+              {
+                "question": "It's the best hotel ______ I've ever stayed at.",
+                "solution": "It's the best hotel <strong>that</strong> I've ever stayed at.",
+                "explanation": "Sau so sánh nhất → dùng that"
+              },
+              {
+                "question": "Everything ______ he said was true.",
+                "solution": "Everything <strong>that</strong> he said was true.",
+                "explanation": "Sau everything → dùng that"
+              },
+              {
+                "question": "She's the only person ______ can help.",
+                "solution": "She's the only person <strong>that</strong> can help.",
+                "explanation": "Sau the only → dùng that"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "The tourist ______ visited us was friendly.",
+            "options": ["who", "which", "where", "when"],
+            "correct": 0,
+            "explanation": "who thay thế cho người (chủ ngữ)"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The hotel ______ we stayed at was nice.",
+            "options": ["who", "which", "where", "whose"],
+            "correct": 1,
+            "explanation": "which thay thế cho vật"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "The woman ______ I met was a guide.",
+            "options": ["who", "whom", "which", "where"],
+            "correct": 1,
+            "explanation": "whom thay thế cho người (tân ngữ)"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "The tourist ______ bag was lost is upset.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 2,
+            "explanation": "whose = sở hữu"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "The city ______ I was born is beautiful.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 3,
+            "explanation": "where = nơi chốn"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "The day ______ we arrived was sunny.",
+            "options": ["who", "which", "where", "when"],
+            "correct": 3,
+            "explanation": "when = thời gian"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "It's the best hotel ______ I've ever stayed at.",
+            "options": ["who", "which", "that", "where"],
+            "correct": 2,
+            "explanation": "Sau so sánh nhất → dùng that"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "Everything ______ he said was true.",
+            "options": ["who", "which", "that", "where"],
+            "correct": 2,
+            "explanation": "Sau everything → dùng that"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "The place ______ I visited was beautiful.",
+            "options": ["who", "which", "whose", "when"],
+            "correct": 1,
+            "explanation": "which thay thế cho vật"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "She's the only person ______ can help.",
+            "options": ["who", "which", "that", "where"],
+            "correct": 2,
+            "explanation": "Sau the only → dùng that"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which relative pronouns can replace people? (Select all that apply)",
+            "options": ["who", "which", "whom", "that"],
+            "correct": [0, 2, 3],
+            "explanation": "Đúng: who, whom, that (cho người). Sai: which (cho vật)"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which relative pronouns can replace things? (Select all that apply)",
+            "options": ["who", "which", "that", "whose"],
+            "correct": [1, 2],
+            "explanation": "Đúng: which, that (cho vật). who (cho người); whose (sở hữu)"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "When must we use 'that'? (Select all that apply)",
+            "options": ["After superlatives (the best)", "After everything", "After the only", "After a comma"],
+            "correct": [0, 1, 2],
+            "explanation": "Đúng: sau so sánh nhất, everything, the only. Sai: sau dấu phẩy (dùng which, không dùng that)"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: The tourist ______ visited us was friendly.",
+            "correct": "who / that / who/that",
+            "explanation": "who/that thay thế cho người (chủ ngữ)"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: The hotel ______ we stayed at was nice.",
+            "correct": "which / that / which/that",
+            "explanation": "which/that thay thế cho vật (tân ngữ)"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Fill in: The city ______ I was born is beautiful.",
+            "correct": "where",
+            "explanation": "where = nơi chốn"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Fill in: It's the best hotel ______ I've ever stayed at.",
+            "correct": "that",
+            "explanation": "Sau so sánh nhất → dùng that"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: tourist / The / who / visited / us / was / friendly / . / hotel / The / which / stayed / we / at / was / nice / .",
+            "sample_answer": "The tourist who visited us was friendly. The hotel which we stayed at was nice.",
+            "explanation": "Sắp xếp: who (người), which (vật)"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Combine: The tourist was friendly. The tourist visited us. → The tourist ______.",
+            "sample_answer": "The tourist who/that visited us was friendly.",
+            "explanation": "Kết hợp: dùng who/that thay thế cho 'the tourist' (người)"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Combine: The hotel was nice. We stayed at the hotel. → The hotel ______.",
+            "sample_answer": "The hotel which/that we stayed at was nice. / The hotel at which we stayed was nice.",
+            "explanation": "Kết hợp: dùng which/that thay thế cho 'the hotel' (vật)"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange: city / The / where / was / I / born / is / beautiful / . / day / The / when / arrived / we / was / sunny / .",
+            "sample_answer": "The city where I was born is beautiful. The day when we arrived was sunny.",
+            "explanation": "Sắp xếp: where (nơi chốn), when (thời gian)"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Combine three sentences: The tourist was friendly. The tourist visited us. The tourist's bag was lost. → The tourist ______ and ______.",
+            "sample_answer": "The tourist who/that visited us was friendly and whose bag was lost. / The tourist whose bag was lost and who visited us was friendly.",
+            "explanation": "Kết hợp: dùng who/that (người) và whose (sở hữu)"
+          }
+        ]
+      }
+    }
+  ]
+}

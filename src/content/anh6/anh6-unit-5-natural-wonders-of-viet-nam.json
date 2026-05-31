@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-unit-5-natural-wonders",
+      "name": "Unit 5: Natural Wonders of Viet Nam",
+      "slug": "unit-5-natural-wonders-of-viet-nam",
+      "chapter": "Unit 5: Natural Wonders of Viet Nam",
+      "chapter_id": "A6",
+      "lesson_id": 5,
+      "description": "Learn about natural wonders, superlative adjectives, and must/mustn't.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-5",
+          "name": "Natural Wonders Vocabulary",
+          "slug": "natural-wonders-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 5: Natural Wonders of Viet Nam",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Wonder</td><td class='px-4 py-2'>(n) /ˈwʌndə(r)/</td><td class='px-4 py-2'>Kỳ quan</td><td class='px-4 py-2'>Ha Long Bay is a natural wonder.</td></tr><tr><td class='px-4 py-2 font-bold'>Island</td><td class='px-4 py-2'>(n) /ˈaɪlənd/</td><td class='px-4 py-2'>Hòn đảo</td><td class='px-4 py-2'>There are many islands in Ha Long Bay.</td></tr><tr><td class='px-4 py-2 font-bold'>Cave</td><td class='px-4 py-2'>(n) /keɪv/</td><td class='px-4 py-2'>Hang động</td><td class='px-4 py-2'>We visited a beautiful cave.</td></tr><tr><td class='px-4 py-2 font-bold'>Mountain</td><td class='px-4 py-2'>(n) /ˈmaʊntən/</td><td class='px-4 py-2'>Núi</td><td class='px-4 py-2'>Fansipan is the highest mountain in Vietnam.</td></tr><tr><td class='px-4 py-2 font-bold'>Waterfall</td><td class='px-4 py-2'>(n) /ˈwɔːtəfɔːl/</td><td class='px-4 py-2'>Thác nước</td><td class='px-4 py-2'>The waterfall is very beautiful.</td></tr><tr><td class='px-4 py-2 font-bold'>Forest</td><td class='px-4 py-2'>(n) /ˈfɒrɪst/</td><td class='px-4 py-2'>Rừng</td><td class='px-4 py-2'>We walked through the forest.</td></tr><tr><td class='px-4 py-2 font-bold'>Desert</td><td class='px-4 py-2'>(n) /ˈdezət/</td><td class='px-4 py-2'>Sa mạc</td><td class='px-4 py-2'>The desert is very hot and dry.</td></tr><tr><td class='px-4 py-2 font-bold'>Beach</td><td class='px-4 py-2'>(n) /biːtʃ/</td><td class='px-4 py-2'>Bãi biển</td><td class='px-4 py-2'>We love swimming at the beach.</td></tr><tr><td class='px-4 py-2 font-bold'>Rock</td><td class='px-4 py-2'>(n) /rɒk/</td><td class='px-4 py-2'>Tảng đá</td><td class='px-4 py-2'>There are many rocks on the mountain.</td></tr><tr><td class='px-4 py-2 font-bold'>Valley</td><td class='px-4 py-2'>(n) /ˈvæli/</td><td class='px-4 py-2'>Thung lũng</td><td class='px-4 py-2'>The valley is green and beautiful.</td></tr><tr><td class='px-4 py-2 font-bold'>Travel</td><td class='px-4 py-2'>(v) /ˈtrævl/</td><td class='px-4 py-2'>Du lịch</td><td class='px-4 py-2'>We travel to Ha Long Bay every summer.</td></tr><tr><td class='px-4 py-2 font-bold'>Explore</td><td class='px-4 py-2'>(v) /ɪkˈsplɔː(r)/</td><td class='px-4 py-2'>Khám phá</td><td class='px-4 py-2'>We explore the cave.</td></tr><tr><td class='px-4 py-2 font-bold'>Amazing</td><td class='px-4 py-2'>(adj) /əˈmeɪzɪŋ/</td><td class='px-4 py-2'>Tuyệt vời, kinh ngạc</td><td class='px-4 py-2'>The view is amazing.</td></tr><tr><td class='px-4 py-2 font-bold'>Beautiful</td><td class='px-4 py-2'>(adj) /ˈbjuːtɪfl/</td><td class='px-4 py-2'>Đẹp</td><td class='px-4 py-2'>Ha Long Bay is very beautiful.</td></tr><tr><td class='px-4 py-2 font-bold'>Essential</td><td class='px-4 py-2'>(adj) /ɪˈsenʃl/</td><td class='px-4 py-2'>Cần thiết</td><td class='px-4 py-2'>Water is essential for the trip.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Natural features (Đặc điểm tự nhiên):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>island:</strong> hòn đảo</li><li><strong>cave:</strong> hang động</li><li><strong>mountain:</strong> núi</li><li><strong>waterfall:</strong> thác nước</li><li><strong>forest:</strong> rừng</li><li><strong>desert:</strong> sa mạc</li><li><strong>beach:</strong> bãi biển</li><li><strong>rock:</strong> tảng đá</li><li><strong>valley:</strong> thung lũng</li><li><strong>river:</strong> sông</li><li><strong>lake:</strong> hồ</li><li><strong>ocean:</strong> đại dương</li></ul><p><strong>Natural wonders of Vietnam (Kỳ quan thiên nhiên Việt Nam):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Ha Long Bay:</strong> Vịnh Hạ Long</li><li><strong>Phong Nha Cave:</strong> Hang Phong Nha</li><li><strong>Fansipan Mountain:</strong> Núi Phan Xi Păng</li><li><strong>Mekong Delta:</strong> Đồng bằng sông Cửu Long</li><li><strong>Cuc Phuong National Park:</strong> Vườn quốc gia Cúc Phương</li></ul><p><strong>Travel items (Đồ dùng du lịch):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>backpack:</strong> ba lô</li><li><strong>compass:</strong> la bàn</li><li><strong>sleeping bag:</strong> túi ngủ</li><li><strong>tent:</strong> lều</li><li><strong>torch/flashlight:</strong> đèn pin</li><li><strong>map:</strong> bản đồ</li><li><strong>camera:</strong> máy ảnh</li><li><strong>water bottle:</strong> bình nước</li><li><strong>sun cream:</strong> kem chống nắng</li><li><strong>plaster:</strong> băng dán</li></ul><p><strong>Adjectives to describe nature (Tính từ mô tả thiên nhiên):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>amazing:</strong> tuyệt vời</li><li><strong>beautiful:</strong> đẹp</li><li><strong>wonderful:</strong> tuyệt diệu</li><li><strong>spectacular:</strong> ngoạn mục</li><li><strong>breathtaking:</strong> ngoạn mục</li><li><strong>magnificent:</strong> tráng lệ</li><li><strong>natural:</strong> tự nhiên</li><li><strong>peaceful:</strong> yên bình</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /t/ and /d/</h3><p><strong>1. Sound /t/ (âm vô thanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Lưỡi chạm vào lợi trên, không rung thanh quản</li><li><strong>Examples:</strong></li><li>tent /tent/</li><li>waterfall /ˈwɔːtəfɔːl/</li><li>mountain /ˈmaʊntən/</li><li>tourist /ˈtʊərɪst/</li></ul><p><strong>2. Sound /d/ (âm hữu thanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Lưỡi chạm vào lợi trên, rung thanh quản</li><li><strong>Examples:</strong></li><li>desert /ˈdezət/</li><li>island /ˈaɪlənd/</li><li>wonder /ˈwʌndə(r)/</li><li>guide /ɡaɪd/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Superlative Adjectives (So sánh nhất của tính từ)</h3><p><strong>1. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dùng để so sánh một người/vật với tất cả những người/vật khác trong nhóm</li><li>Chỉ ra rằng người/vật đó có đặc điểm nhiều nhất hoặc ít nhất</li></ul><p><strong>2. Cấu trúc:</strong></p><p><strong>a) Tính từ ngắn (1 âm tiết):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>The + adj + est</strong></li><li>Ex: Fansipan is <strong>the highest</strong> mountain in Vietnam.</li><li>Ex: This is <strong>the longest</strong> river in the country.</li><li><strong>Cách thêm -est:</strong></li><li>Thêm 'est': tall → tallest, old → oldest</li><li>Tận cùng 'e' + st: large → largest, nice → nicest</li><li>Gấp đôi phụ âm + est: big → biggest, hot → hottest</li><li>Đổi 'y' thành 'iest': happy → happiest, busy → busiest</li></ul><p><strong>b) Tính từ dài (2 âm tiết trở lên):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>The most + adj</strong></li><li>Ex: Ha Long Bay is <strong>the most beautiful</strong> place in Vietnam.</li><li>Ex: This is <strong>the most interesting</strong> book.</li></ul><p><strong>c) Tính từ bất quy tắc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>good → the best</li><li>Ex: This is <strong>the best</strong> restaurant in town.</li><li>bad → the worst</li><li>Ex: This is <strong>the worst</strong> weather.</li><li>far → the farthest/furthest</li><li>Ex: This is <strong>the farthest</strong> place.</li></ul><h3>B. Modal verb: Must / Mustn't</h3><p><strong>1. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Must:</strong> diễn tả sự bắt buộc, cần thiết</li><li><strong>Mustn't:</strong> diễn tả sự cấm đoán</li></ul><p><strong>2. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Must + V (nguyên mẫu)</strong></li><li>Ex: You <strong>must bring</strong> water for the trip.</li><li>Ex: We <strong>must be</strong> careful in the forest.</li><li><strong>Mustn't + V (nguyên mẫu)</strong></li><li>Ex: You <strong>mustn't swim</strong> in this river.</li><li>Ex: We <strong>mustn't make</strong> noise in the cave.</li></ul><p><strong>3. Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Must không chia theo ngôi</li><li>Sau must luôn là động từ nguyên mẫu (không 'to')</li><li>Mustn't ≠ don't have to</li><li>Mustn't: cấm (prohibition)</li><li>Don't have to: không cần thiết (not necessary)</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> A trip to the mountains - Chuyến đi lên núi</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về kế hoạch đi du lịch</li><li>Giới thiệu về kỳ quan thiên nhiên</li><li>Chuẩn bị đồ dùng cho chuyến đi</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Natural features and travel items</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về đặc điểm tự nhiên</li><li>Học từ vựng về đồ dùng du lịch</li></ul><p><strong>B. Pronunciation: /t/ and /d/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /t/ và /d/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Superlative adjectives and Must/Mustn't</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học so sánh nhất của tính từ</li><li>Học cách dùng must/mustn't</li><li>Luyện tập mô tả kỳ quan thiên nhiên</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Making travel plans</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What's the best place to visit?</li><li>We must bring...</li><li>We mustn't...</li><li>It's the most beautiful...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: A description of a natural wonder</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về kỳ quan thiên nhiên</li><li>Tìm thông tin cụ thể</li></ul><p><strong>Speaking: Describing natural wonders</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả kỳ quan thiên nhiên</li><li>So sánh các địa điểm</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: A travel guide</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hướng dẫn du lịch</li><li>Ghi chú thông tin quan trọng</li></ul><p><strong>Writing: An email about a trip</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết email về chuyến đi</li><li>Sử dụng so sánh nhất</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Natural features, travel items</li><li><strong>Pronunciation:</strong> /t/ and /d/</li><li><strong>Grammar:</strong> Superlative adjectives, Must/Mustn't</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> A natural wonder of Vietnam</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một kỳ quan thiên nhiên</li><li>Tìm thông tin và hình ảnh</li><li>Viết mô tả (5-7 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: So sánh nhất với tính từ ngắn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The + adj + est</li><li>Lưu ý: big → biggest, happy → happiest, large → largest</li></ul>",
+            "examples": [
+              {
+                "question": "Fansipan is ______ (high) mountain in Vietnam.",
+                "solution": "Fansipan is <strong>the highest</strong> mountain in Vietnam.",
+                "explanation": "Tính từ 'high' (1 âm tiết) thêm 'est' → the highest."
+              },
+              {
+                "question": "This is ______ (big) cave in the world.",
+                "solution": "This is <strong>the biggest</strong> cave in the world.",
+                "explanation": "Tính từ 'big' gấp đôi phụ âm + est → the biggest."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: So sánh nhất với tính từ dài",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The most + adj</li><li>Áp dụng cho tính từ 2 âm tiết trở lên</li></ul>",
+            "examples": [
+              {
+                "question": "Ha Long Bay is ______ (beautiful) place in Vietnam.",
+                "solution": "Ha Long Bay is <strong>the most beautiful</strong> place in Vietnam.",
+                "explanation": "Tính từ 'beautiful' (3 âm tiết) dùng 'the most' + adj."
+              },
+              {
+                "question": "This is ______ (interesting) book I have ever read.",
+                "solution": "This is <strong>the most interesting</strong> book I have ever read.",
+                "explanation": "Tính từ 'interesting' (4 âm tiết) dùng 'the most' + adj."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Sử dụng Must / Mustn't",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Must + V: bắt buộc, cần thiết</li><li>Mustn't + V: cấm đoán</li></ul>",
+            "examples": [
+              {
+                "question": "You ______ (bring) water for the trip.",
+                "solution": "You <strong>must bring</strong> water for the trip.",
+                "explanation": "Mang nước là cần thiết → dùng 'must'."
+              },
+              {
+                "question": "You ______ (swim) in this river. It's dangerous.",
+                "solution": "You <strong>mustn't swim</strong> in this river. It's dangerous.",
+                "explanation": "Bơi ở sông này nguy hiểm → cấm đoán → dùng 'mustn't'."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: So sánh nhất với tính từ bất quy tắc",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>good → the best</li><li>bad → the worst</li><li>far → the farthest/furthest</li></ul>",
+            "examples": [
+              {
+                "question": "This is ______ (good) restaurant in town.",
+                "solution": "This is <strong>the best</strong> restaurant in town.",
+                "explanation": "Tính từ 'good' bất quy tắc → the best."
+              },
+              {
+                "question": "This is ______ (bad) weather I have ever seen.",
+                "solution": "This is <strong>the worst</strong> weather I have ever seen.",
+                "explanation": "Tính từ 'bad' bất quy tắc → the worst."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "Fansipan is ______ mountain in Vietnam.",
+            "options": ["high", "higher", "the highest", "highest"],
+            "correct": 2,
+            "explanation": "So sánh nhất: the + adj + est → the highest."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "Ha Long Bay is ______ place in Vietnam.",
+            "options": ["beautiful", "more beautiful", "the most beautiful", "most beautiful"],
+            "correct": 2,
+            "explanation": "So sánh nhất với tính từ dài: the most + adj → the most beautiful."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "You ______ bring water for the trip.",
+            "options": ["can", "must", "may", "should"],
+            "correct": 1,
+            "explanation": "Mang nước là cần thiết → dùng 'must'."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "You ______ swim in this river. It's dangerous.",
+            "options": ["must", "mustn't", "can", "should"],
+            "correct": 1,
+            "explanation": "Cấm đoán → dùng 'mustn't'."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "This is ______ restaurant in town.",
+            "options": ["good", "better", "the best", "best"],
+            "correct": 2,
+            "explanation": "Tính từ 'good' bất quy tắc → the best."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "This is ______ cave I have ever seen.",
+            "options": ["big", "bigger", "the biggest", "biggest"],
+            "correct": 2,
+            "explanation": "So sánh nhất: the + adj + est → the biggest."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "We ______ be careful in the forest.",
+            "options": ["can", "must", "may", "could"],
+            "correct": 1,
+            "explanation": "Cần phải cẩn thận → dùng 'must'."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "This is ______ interesting book.",
+            "options": ["the more", "the most", "more", "most"],
+            "correct": 1,
+            "explanation": "So sánh nhất với tính từ dài: the most + adj."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "You ______ make noise in the cave.",
+            "options": ["must", "mustn't", "can", "should"],
+            "correct": 1,
+            "explanation": "Cấm làm ồn → dùng 'mustn't'."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "This is ______ weather I have ever seen.",
+            "options": ["bad", "worse", "the worst", "worst"],
+            "correct": 2,
+            "explanation": "Tính từ 'bad' bất quy tắc → the worst."
+          }
+        ]
+      }
+    }
+  ]
+}

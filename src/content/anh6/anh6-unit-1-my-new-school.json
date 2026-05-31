@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-unit-1-my-new-school",
+      "name": "Unit 1: My New School",
+      "slug": "unit-1-my-new-school",
+      "chapter": "Unit 1: My New School",
+      "chapter_id": "A6",
+      "lesson_id": 1,
+      "description": "Learn about school subjects, activities, and present simple tense.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=2664&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-1",
+          "name": "School Vocabulary",
+          "slug": "school-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 1: My New School",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>School</td><td class='px-4 py-2'>(n) /skuːl/</td><td class='px-4 py-2'>Trường học</td><td class='px-4 py-2'>I go to school every day.</td></tr><tr><td class='px-4 py-2 font-bold'>Subject</td><td class='px-4 py-2'>(n) /ˈsʌbdʒɪkt/</td><td class='px-4 py-2'>Môn học</td><td class='px-4 py-2'>My favourite subject is English.</td></tr><tr><td class='px-4 py-2 font-bold'>Classroom</td><td class='px-4 py-2'>(n) /ˈklɑːsruːm/</td><td class='px-4 py-2'>Lớp học</td><td class='px-4 py-2'>Our classroom is big.</td></tr><tr><td class='px-4 py-2 font-bold'>Teacher</td><td class='px-4 py-2'>(n) /ˈtiːtʃə(r)/</td><td class='px-4 py-2'>Giáo viên</td><td class='px-4 py-2'>My teacher is very kind.</td></tr><tr><td class='px-4 py-2 font-bold'>Student</td><td class='px-4 py-2'>(n) /ˈstjuːdnt/</td><td class='px-4 py-2'>Học sinh</td><td class='px-4 py-2'>There are 30 students in my class.</td></tr><tr><td class='px-4 py-2 font-bold'>Friend</td><td class='px-4 py-2'>(n) /frend/</td><td class='px-4 py-2'>Bạn bè</td><td class='px-4 py-2'>I have many friends at school.</td></tr><tr><td class='px-4 py-2 font-bold'>Homework</td><td class='px-4 py-2'>(n) /ˈhəʊmwɜːk/</td><td class='px-4 py-2'>Bài tập về nhà</td><td class='px-4 py-2'>I do my homework every evening.</td></tr><tr><td class='px-4 py-2 font-bold'>Lesson</td><td class='px-4 py-2'>(n) /ˈlesn/</td><td class='px-4 py-2'>Bài học</td><td class='px-4 py-2'>We have five lessons today.</td></tr><tr><td class='px-4 py-2 font-bold'>Break</td><td class='px-4 py-2'>(n) /breɪk/</td><td class='px-4 py-2'>Giờ ra chơi</td><td class='px-4 py-2'>We play football at break time.</td></tr><tr><td class='px-4 py-2 font-bold'>Uniform</td><td class='px-4 py-2'>(n) /ˈjuːnɪfɔːm/</td><td class='px-4 py-2'>Đồng phục</td><td class='px-4 py-2'>I wear a uniform to school.</td></tr><tr><td class='px-4 py-2 font-bold'>Study</td><td class='px-4 py-2'>(v) /ˈstʌdi/</td><td class='px-4 py-2'>Học</td><td class='px-4 py-2'>I study English and Maths.</td></tr><tr><td class='px-4 py-2 font-bold'>Learn</td><td class='px-4 py-2'>(v) /lɜːn/</td><td class='px-4 py-2'>Học</td><td class='px-4 py-2'>We learn new things every day.</td></tr><tr><td class='px-4 py-2 font-bold'>Play</td><td class='px-4 py-2'>(v) /pleɪ/</td><td class='px-4 py-2'>Chơi</td><td class='px-4 py-2'>We play games at break time.</td></tr><tr><td class='px-4 py-2 font-bold'>Excited</td><td class='px-4 py-2'>(adj) /ɪkˈsaɪtɪd/</td><td class='px-4 py-2'>Hứng thú, phấn khích</td><td class='px-4 py-2'>I'm excited about my new school.</td></tr><tr><td class='px-4 py-2 font-bold'>Smart</td><td class='px-4 py-2'>(adj) /smɑːt/</td><td class='px-4 py-2'>Thông minh</td><td class='px-4 py-2'>She is a smart student.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>School Subjects (Môn học):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>English:</strong> Tiếng Anh</li><li><strong>Maths:</strong> Toán</li><li><strong>Science:</strong> Khoa học</li><li><strong>History:</strong> Lịch sử</li><li><strong>Geography:</strong> Địa lý</li><li><strong>Music:</strong> Âm nhạc</li><li><strong>Art:</strong> Mỹ thuật</li><li><strong>P.E. (Physical Education):</strong> Thể dục</li><li><strong>I.T. (Information Technology):</strong> Tin học</li></ul><p><strong>School Places (Địa điểm trong trường):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>classroom:</strong> lớp học</li><li><strong>library:</strong> thư viện</li><li><strong>playground:</strong> sân chơi</li><li><strong>gym:</strong> phòng tập thể dục</li><li><strong>computer room:</strong> phòng máy tính</li><li><strong>music room:</strong> phòng nhạc</li><li><strong>art room:</strong> phòng vẽ</li><li><strong>canteen:</strong> căng tin</li><li><strong>school garden:</strong> vườn trường</li></ul><p><strong>School Things (Đồ dùng học tập):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>book:</strong> sách</li><li><strong>notebook:</strong> vở</li><li><strong>pen:</strong> bút mực</li><li><strong>pencil:</strong> bút chì</li><li><strong>ruler:</strong> thước kẻ</li><li><strong>eraser:</strong> tẩy</li><li><strong>pencil case:</strong> hộp bút</li><li><strong>schoolbag:</strong> cặp sách</li><li><strong>calculator:</strong> máy tính</li></ul><p><strong>School Activities (Hoạt động ở trường):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>study:</strong> học</li><li><strong>learn:</strong> học</li><li><strong>read:</strong> đọc</li><li><strong>write:</strong> viết</li><li><strong>listen:</strong> nghe</li><li><strong>speak:</strong> nói</li><li><strong>do homework:</strong> làm bài tập về nhà</li><li><strong>play sports:</strong> chơi thể thao</li><li><strong>have lunch:</strong> ăn trưa</li></ul><p><strong>Collocations về School:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>go to school:</strong> đi học</li><li><strong>be at school:</strong> ở trường</li><li><strong>start school:</strong> bắt đầu đi học</li><li><strong>finish school:</strong> tan học</li><li><strong>do homework:</strong> làm bài tập</li><li><strong>wear a uniform:</strong> mặc đồng phục</li><li><strong>have lessons:</strong> có tiết học</li><li><strong>make friends:</strong> kết bạn</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /ɑː/ and /ʌ/</h3><p><strong>1. Sound /ɑː/ (âm dài):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Mở miệng rộng, lưỡi hạ thấp, âm dài</li><li><strong>Examples:</strong></li><li>class /klɑːs/</li><li>smart /smɑːt/</li><li>art /ɑːt/</li><li>start /stɑːt/</li><li>father /ˈfɑːðə(r)/</li></ul><p><strong>2. Sound /ʌ/ (âm ngắn):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Mở miệng vừa phải, lưỡi ở giữa, âm ngắn</li><li><strong>Examples:</strong></li><li>subject /ˈsʌbdʒɪkt/</li><li>study /ˈstʌdi/</li><li>lunch /lʌntʃ/</li><li>come /kʌm/</li><li>some /sʌm/</li></ul><p><strong>3. Practice (Luyện tập):</strong></p><ul class='list-disc pl-5 space-y-2'><li>/ɑː/: class, smart, art, start, father</li><li>/ʌ/: subject, study, lunch, come, some</li><li><strong>Sentences:</strong></li><li>My <strong>smart</strong> brother <strong>studies</strong> <strong>art</strong>.</li><li>We have <strong>lunch</strong> after <strong>class</strong>.</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Present Simple Tense (Thì hiện tại đơn)</h3><p><strong>1. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Diễn tả thói quen, hành động lặp đi lặp lại</li><li>Diễn tả sự thật hiển nhiên</li><li>Diễn tả lịch trình, thời gian biểu</li></ul><p><strong>2. Cấu trúc:</strong></p><p><strong>a) Với động từ thường:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + V(s/es)</li><li>I/You/We/They + V</li><li>He/She/It + V(s/es)</li><li>Ex: I <strong>go</strong> to school every day.</li><li>Ex: She <strong>studies</strong> English.</li><li><strong>Phủ định:</strong> S + do/does + not + V</li><li>I/You/We/They + do not (don't) + V</li><li>He/She/It + does not (doesn't) + V</li><li>Ex: I <strong>don't like</strong> Maths.</li><li>Ex: He <strong>doesn't play</strong> football.</li><li><strong>Nghi vấn:</strong> Do/Does + S + V?</li><li>Do + I/you/we/they + V?</li><li>Does + he/she/it + V?</li><li>Ex: <strong>Do</strong> you <strong>like</strong> English?</li><li>Ex: <strong>Does</strong> she <strong>go</strong> to school by bus?</li></ul><p><strong>b) Với động từ 'to be':</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + am/is/are</li><li>I + am</li><li>He/She/It + is</li><li>You/We/They + are</li><li>Ex: I <strong>am</strong> a student.</li><li>Ex: She <strong>is</strong> smart.</li><li><strong>Phủ định:</strong> S + am/is/are + not</li><li>Ex: I <strong>am not</strong> (I'm not) late.</li><li>Ex: He <strong>is not</strong> (isn't) at school.</li><li><strong>Nghi vấn:</strong> Am/Is/Are + S?</li><li>Ex: <strong>Are</strong> you a student?</li><li>Ex: <strong>Is</strong> she your friend?</li></ul><p><strong>3. Cách thêm s/es:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Thêm 's':</strong> hầu hết các động từ</li><li>play → plays, like → likes, read → reads</li><li><strong>Thêm 'es':</strong> động từ kết thúc bằng -s, -ss, -sh, -ch, -x, -o</li><li>go → goes, watch → watches, do → does</li><li><strong>Đổi 'y' thành 'ies':</strong> động từ kết thúc bằng phụ âm + y</li><li>study → studies, fly → flies</li><li><strong>Bất quy tắc:</strong></li><li>have → has</li></ul><p><strong>4. Dấu hiệu nhận biết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>every day/week/month/year (mỗi ngày/tuần/tháng/năm)</li><li>always (luôn luôn)</li><li>usually (thường xuyên)</li><li>often (thường)</li><li>sometimes (thỉnh thoảng)</li><li>never (không bao giờ)</li><li>on Mondays, at weekends (vào các thứ Hai, vào cuối tuần)</li></ul><h3>B. Adverbs of Frequency (Trạng từ chỉ tần suất)</h3><p><strong>1. Các trạng từ chỉ tần suất:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>always:</strong> luôn luôn (100%)</li><li><strong>usually:</strong> thường xuyên (80%)</li><li><strong>often:</strong> thường (60%)</li><li><strong>sometimes:</strong> thỉnh thoảng (40%)</li><li><strong>rarely/seldom:</strong> hiếm khi (20%)</li><li><strong>never:</strong> không bao giờ (0%)</li></ul><p><strong>2. Vị trí:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Trước động từ thường:</strong></li><li>I <strong>always</strong> go to school on time.</li><li>She <strong>usually</strong> does her homework.</li><li><strong>Sau động từ 'to be':</strong></li><li>He is <strong>always</strong> late.</li><li>They are <strong>never</strong> absent.</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> First day at a new school - Ngày đầu tiên ở trường mới</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về ngày đầu tiên đi học</li><li>Giới thiệu về trường học mới</li><li>Nói về cảm xúc và mong đợi</li><li>Làm quen với bạn mới</li></ul><p><strong>Key phrases:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nice to meet you.</li><li>What's your name?</li><li>I'm excited about...</li><li>My new school is...</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: School subjects and activities</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về môn học</li><li>Học từ vựng về hoạt động ở trường</li><li>Luyện tập phát âm /ɑː/ và /ʌ/</li></ul><p><strong>B. Pronunciation: /ɑː/ and /ʌ/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt hai âm /ɑː/ và /ʌ/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Present Simple</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cấu trúc thì hiện tại đơn</li><li>Luyện tập với động từ thường</li><li>Luyện tập với động từ 'to be'</li><li>Học trạng từ chỉ tần suất</li></ul><p><strong>Practice:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hoàn thành câu với động từ đúng</li><li>Đặt câu hỏi và trả lời</li><li>Viết về thói quen hàng ngày</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about school</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Asking about school:</strong></li><li>What's your school like?</li><li>How many students are there?</li><li>What subjects do you study?</li><li><strong>Describing school:</strong></li><li>My school is big/small/modern.</li><li>There are ... students.</li><li>I study English, Maths, Science...</li><li><strong>Expressing feelings:</strong></li><li>I like/love/enjoy...</li><li>I don't like...</li><li>My favourite subject is...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: A school website</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về một trường học</li><li>Tìm thông tin cụ thể</li><li>Trả lời câu hỏi về bài đọc</li></ul><p><strong>Speaking: Talking about your school</strong></p><ul class='list-disc pl-5 space-y-2'><li>Giới thiệu về trường của bạn</li><li>Nói về môn học yêu thích</li><li>Mô tả hoạt động ở trường</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: A conversation about school</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hội thoại về trường học</li><li>Điền thông tin còn thiếu</li><li>Trả lời câu hỏi</li></ul><p><strong>Writing: An email about your school</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết email giới thiệu về trường</li><li>Sử dụng thì hiện tại đơn</li><li>Mô tả trường, môn học, hoạt động</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> School subjects, places, activities</li><li><strong>Pronunciation:</strong> /ɑː/ and /ʌ/</li><li><strong>Grammar:</strong> Present Simple, Adverbs of frequency</li><li><strong>Skills:</strong> Reading, Speaking, Listening, Writing about school</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> My dream school</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vẽ hoặc tìm hình ảnh về trường mơ ước</li><li>Viết mô tả về trường (5-7 câu)</li><li>Trình bày trước lớp</li></ul><p><strong>Nội dung cần có:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What does your dream school look like?</li><li>What subjects do students study?</li><li>What activities can students do?</li><li>Why do you like this school?</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Chia động từ ở thì hiện tại đơn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Xác định chủ ngữ (I/You/We/They hay He/She/It)</li><li>Với I/You/We/They: dùng động từ nguyên mẫu</li><li>Với He/She/It: thêm s/es vào động từ</li><li>Lưu ý: have → has, go → goes, study → studies</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (go) to school every day.",
+                "solution": "I <strong>go</strong> to school every day.",
+                "explanation": "Chủ ngữ 'I' dùng động từ nguyên mẫu 'go'."
+              },
+              {
+                "question": "She ______ (study) English and Maths.",
+                "solution": "She <strong>studies</strong> English and Maths.",
+                "explanation": "Chủ ngữ 'She' (ngôi thứ 3 số ít), động từ 'study' kết thúc bằng phụ âm + y → đổi y thành ies."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Đặt câu hỏi và câu phủ định",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Câu hỏi:</strong> Do/Does + S + V (nguyên mẫu)?</li><li>Do + I/You/We/They + V?</li><li>Does + He/She/It + V?</li><li><strong>Câu phủ định:</strong> S + do/does + not + V (nguyên mẫu)</li><li>I/You/We/They + don't + V</li><li>He/She/It + doesn't + V</li></ul>",
+            "examples": [
+              {
+                "question": "He plays football. (Đặt câu hỏi)",
+                "solution": "<strong>Does</strong> he <strong>play</strong> football?",
+                "explanation": "Chủ ngữ 'He' dùng 'Does', động từ chính về nguyên mẫu 'play'."
+              },
+              {
+                "question": "They like Maths. (Chuyển sang phủ định)",
+                "solution": "They <strong>don't like</strong> Maths.",
+                "explanation": "Chủ ngữ 'They' dùng 'don't' (do not), động từ giữ nguyên 'like'."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Sử dụng động từ 'to be' (am/is/are)",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I + am</li><li>He/She/It + is</li><li>You/We/They + are</li><li><strong>Phủ định:</strong> am/is/are + not</li><li><strong>Câu hỏi:</strong> Am/Is/Are + S?</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (be) a student.",
+                "solution": "I <strong>am</strong> a student.",
+                "explanation": "Chủ ngữ 'I' dùng 'am'."
+              },
+              {
+                "question": "They ______ (be) in the classroom.",
+                "solution": "They <strong>are</strong> in the classroom.",
+                "explanation": "Chủ ngữ 'They' dùng 'are'."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Trạng từ chỉ tần suất",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vị trí:</strong> Trước động từ thường, sau động từ 'to be'</li><li>S + adverb + V (thường)</li><li>S + be + adverb</li><li><strong>Các trạng từ:</strong> always, usually, often, sometimes, rarely, never</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (always) go to school on time.",
+                "solution": "I <strong>always go</strong> to school on time.",
+                "explanation": "Trạng từ 'always' đứng trước động từ thường 'go'."
+              },
+              {
+                "question": "She ______ (never) late for school. (be)",
+                "solution": "She <strong>is never</strong> late for school.",
+                "explanation": "Trạng từ 'never' đứng sau động từ 'to be' (is)."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I ______ to school every day.",
+            "options": ["go", "goes", "going", "to go"],
+            "correct": 0,
+            "explanation": "Chủ ngữ 'I' dùng động từ nguyên mẫu 'go' trong thì hiện tại đơn."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "She ______ English and Maths.",
+            "options": ["study", "studies", "studying", "to study"],
+            "correct": 1,
+            "explanation": "Chủ ngữ 'She' (ngôi thứ 3 số ít) thêm 'es' vào động từ 'study' → studies."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "______ you like your new school?",
+            "options": ["Do", "Does", "Are", "Is"],
+            "correct": 0,
+            "explanation": "Câu hỏi với 'you' dùng 'Do' trong thì hiện tại đơn."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "My brother ______ football at break time.",
+            "options": ["play", "plays", "playing", "to play"],
+            "correct": 1,
+            "explanation": "Chủ ngữ 'My brother' (ngôi thứ 3 số ít) thêm 's' vào động từ 'play' → plays."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "We ______ have lessons on Sunday.",
+            "options": ["doesn't", "don't", "isn't", "aren't"],
+            "correct": 1,
+            "explanation": "Chủ ngữ 'We' dùng 'don't' (do not) trong câu phủ định."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ she ______ her homework every evening?",
+            "options": ["Do / do", "Does / does", "Does / do", "Do / does"],
+            "correct": 2,
+            "explanation": "Câu hỏi với 'she' dùng 'Does', động từ chính giữ nguyên 'do'."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "I ______ excited about my new school.",
+            "options": ["am", "is", "are", "be"],
+            "correct": 0,
+            "explanation": "Chủ ngữ 'I' dùng 'am' với động từ 'to be'."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "My favourite subject ______ English.",
+            "options": ["am", "is", "are", "be"],
+            "correct": 1,
+            "explanation": "Chủ ngữ 'My favourite subject' (số ít) dùng 'is'."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "They ______ wear uniforms to school.",
+            "options": ["always", "are always", "always are", "be always"],
+            "correct": 0,
+            "explanation": "Trạng từ 'always' đứng trước động từ thường 'wear'."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "She is ______ late for school.",
+            "options": ["never", "doesn't", "don't", "not"],
+            "correct": 0,
+            "explanation": "Trạng từ 'never' đứng sau động từ 'to be' (is)."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "anh12-unit-2-p7",
+  "name": "Part 7: Writing - Cultural Experiences",
+  "content": {
+    "theory": {
+      "title": "Writing Skills: Describing Cultural Experiences",
+      "sections": [
+        {
+          "heading": "1. Tóm tắt lý thuyết",
+          "content": "<div class='bg-gradient-to-r from-violet-50 to-purple-50 dark:from-violet-900/20 dark:to-purple-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-violet-900 dark:text-violet-300'>✍️ Writing about Culture</h3><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-blue-700 dark:text-blue-400 mb-3'>Các dạng bài viết:</h4><ul class='list-disc pl-6 space-y-2'><li><strong>Descriptive writing:</strong> Mô tả lễ hội, sự kiện văn hóa</li><li><strong>Formal letter:</strong> Viết thư yêu cầu thông tin</li><li><strong>Comparative essay:</strong> So sánh các nền văn hóa</li><li><strong>Personal narrative:</strong> Kể về trải nghiệm văn hóa</li></ul></div><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-purple-700 dark:text-purple-400 mb-3'>Cấu trúc bài viết:</h4><ul class='list-disc pl-6 space-y-1'><li>Introduction: Giới thiệu chủ đề</li><li>Body: Phát triển ý chính với ví dụ cụ thể</li><li>Conclusion: Tổng kết và cảm nhận</li></ul></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ Writing",
+          "content": "<div class='space-y-4'><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 1: Describing a Festival</p><p>The Mid-Autumn Festival is one of the most important traditional celebrations in Vietnam. It takes place on the 15th day of the 8th lunar month, usually in September or October. During this festival, children carry colorful lanterns in various shapes. Families gather to admire the full moon and share mooncakes. This festival is not only a time for celebration but also an opportunity for families to teach children about Vietnamese cultural heritage.</p></div><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 2: Formal Letter</p><p>Dear Sir or Madam,<br><br>I am writing to ask for some information about the cultural exchange program at your center.<br><br>First, could you please let me know when the program starts and how long it lasts? Next, I would also like to know what activities are included. Finally, would you mind telling me about the accommodation arrangements?<br><br>I look forward to hearing from you.<br><br>Yours faithfully,<br>Nguyen Van A</p></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 3: Comparing Cultures</p><p>Vietnamese and Western cultures have both similarities and differences. Both cultures value family and education. However, Vietnamese culture emphasizes respect for elders and uses formal language when addressing older people. In contrast, Western culture tends to be more casual. Another difference is in dining customs. Vietnamese people often share dishes, while Westerners typically have individual portions.</p></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 4: Culture Shock Experience</p><p>When I first moved to the United States for my studies, I experienced severe culture shock. Everything seemed strange and overwhelming. The language barrier made communication difficult, and I often felt confused. However, I gradually adapted by joining international student clubs and making friends. This experience taught me the importance of being open-minded.</p></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 5: Benefits of Diversity</p><p>Living in a multicultural world brings many benefits. First, it allows us to learn from different perspectives and broaden our understanding. We can explore new cuisines, languages, and traditions. Second, cultural diversity stimulates creativity and innovation. Third, it promotes tolerance and mutual respect. By embracing diversity, we can create a more harmonious society.</p></div></div>"
+        },
+        {
+          "heading": "3. Bài kiểm tra tổng hợp Unit 2 (20 câu)",
+          "content": "<div class='bg-red-50 dark:bg-red-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-red-900 dark:text-red-300'>📝 PRACTICE TEST - UNIT 2</h3><p class='mb-4 text-lg font-semibold'>Bài kiểm tra gồm 20 câu hỏi đa dạng:</p><ul class='list-disc pl-6 space-y-1 mb-4'><li>10 câu trắc nghiệm 4 lựa chọn (Multiple Choice)</li><li>3 câu đúng/sai/không đề cập (True/False/Not Given)</li><li>2 bài đọc hiểu (Reading Comprehension)</li><li>4 câu điền vào chỗ trống (Gap Filling)</li><li>1 bài viết (Writing Task)</li></ul><p class='text-sm text-gray-600 dark:text-gray-400'>Thời gian làm bài: 45 phút</p></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p7-test-mcq1",
+        "type": "mcq",
+        "question": "MCQ 1: _____ Eiffel Tower is one of the most famous landmarks in Paris.",
+        "options": ["A", "An", "The", "Ø"],
+        "correct": 2,
+        "explanation": "Dùng 'the' trước tên các công trình nổi tiếng."
+      },
+      {
+        "id": "p7-test-mcq2",
+        "type": "mcq",
+        "question": "MCQ 2: At the festival, many people like to buy _____ to remember their visit.",
+        "options": ["cuisine", "popularity", "souvenir", "identity"],
+        "correct": 2,
+        "explanation": "'Souvenir' (quà lưu niệm) là vật dùng để nhớ về chuyến đi."
+      },
+      {
+        "id": "p7-test-mcq3",
+        "type": "mcq",
+        "question": "MCQ 3: Globalization has led to the spread of different _____ around the world.",
+        "options": ["technologies", "languages", "traditions", "cuisines"],
+        "correct": 3,
+        "explanation": "Toàn cầu hóa giúp lan rộng các nền ẩm thực khác nhau."
+      },
+      {
+        "id": "p7-test-mcq4",
+        "type": "mcq",
+        "question": "MCQ 4: She is _____ engineer and works for _____ international company.",
+        "options": ["a / an", "an / an", "an / a", "a / a"],
+        "correct": 1,
+        "explanation": "'Engineer' và 'international' đều bắt đầu bằng nguyên âm nên dùng 'an'."
+      },
+      {
+        "id": "p7-test-mcq5",
+        "type": "mcq",
+        "question": "MCQ 5: _____ refers to feelings of confusion when experiencing a new culture.",
+        "options": ["Cultural diversity", "Culture shock", "Cultural exchange", "Cultural celebration"],
+        "correct": 1,
+        "explanation": "'Culture shock' là cảm giác bối rối khi tiếp xúc với văn hóa mới."
+      },
+      {
+        "id": "p7-test-mcq6",
+        "type": "mcq",
+        "question": "MCQ 6: Language is considered the most important feature of a nation's _____.",
+        "options": ["economy", "geography", "identity", "policy"],
+        "correct": 2,
+        "explanation": "Ngôn ngữ là đặc điểm quan trọng nhất của bản sắc quốc gia."
+      },
+      {
+        "id": "p7-test-mcq7",
+        "type": "mcq",
+        "question": "MCQ 7: They visited _____ Great Wall of China during their trip.",
+        "options": ["a", "an", "the", "Ø"],
+        "correct": 2,
+        "explanation": "Dùng 'the' trước tên các công trình nổi tiếng."
+      },
+      {
+        "id": "p7-test-mcq8",
+        "type": "mcq",
+        "question": "MCQ 8: The _____ of the festival has grown over the years.",
+        "options": ["popularity", "possibility", "mystery", "privacy"],
+        "correct": 0,
+        "explanation": "'Popularity' (sự phổ biến) phù hợp với ngữ cảnh."
+      },
+      {
+        "id": "p7-test-mcq9",
+        "type": "mcq",
+        "question": "MCQ 9: I go to school by _____ bus every day.",
+        "options": ["a", "an", "the", "Ø"],
+        "correct": 3,
+        "explanation": "Không dùng mạo từ sau 'by' + phương tiện giao thông."
+      },
+      {
+        "id": "p7-test-mcq10",
+        "type": "mcq",
+        "question": "MCQ 10: Visitors _____ the beautiful traditional costumes displayed at the festival.",
+        "options": ["ignore", "criticize", "neglect", "admire"],
+        "correct": 3,
+        "explanation": "'Admire' (chiêm ngưỡng) phù hợp với ngữ cảnh tích cực."
+      },
+      {
+        "id": "p7-test-tf",
+        "type": "msq",
+        "question_text": "TRUE/FALSE/NOT GIVEN: Read the passage and decide if the statements are True (T), False (F), or Not Given (NG).\n\nPassage: The Mid-Autumn Festival, known as Tết Trung Thu in Vietnam, is celebrated on the 15th day of the 8th lunar month. This festival is particularly special for children, who carry colorful lanterns and participate in lion dances. Families gather to admire the full moon and share mooncakes. The festival has its origins in agricultural rituals and celebrates the harvest season.\n\nStatements:",
+        "options": [
+          "TF1: The Mid-Autumn Festival is celebrated at the beginning of the lunar year.",
+          "TF2: Lion dances are an important part of the Mid-Autumn Festival.",
+          "TF3: The festival lasts for three days."
+        ],
+        "correct": [1],
+        "explanation": "TF1: False (được tổ chức vào ngày 15 tháng 8 âm lịch, không phải đầu năm). TF2: True (đoạn văn đề cập trẻ em tham gia múa lân). TF3: Not Given (không đề cập thời gian kéo dài)."
+      },
+      {
+        "id": "p7-test-rc1",
+        "type": "reading",
+        "passage": "READING COMPREHENSION 1: Globalization and Cultural Diversity\n\nIn today's globalized society, experiencing a multicultural world has become increasingly common. Cities like New York, London, and Sydney are melting pots where various cultures coexist and interact. This diversity enriches communities by bringing together different perspectives, traditions, and customs.\n\nOne of the benefits of living in a multicultural world is the opportunity to learn from others. People can explore new cuisines, languages, and festivals, which broadens their understanding and appreciation of different cultures. However, navigating a multicultural environment also presents challenges. Misunderstandings and cultural clashes can arise, requiring individuals to be open-minded and empathetic.",
+        "questions": [
+          {
+            "question": "RC1-Q1: What is the main idea of the passage?",
+            "options": ["The history of globalization", "Benefits and challenges of multicultural societies", "How to avoid cultural conflicts", "The best multicultural cities"],
+            "correct": 1
+          }
+        ],
+        "explanation": "Đoạn văn thảo luận về cả lợi ích và thách thức của xã hội đa văn hóa."
+      },
+      {
+        "id": "p7-test-rc2",
+        "type": "reading",
+        "passage": "READING COMPREHENSION 2: Culture Shock\n\nCulture shock is a common experience when people move to a new country. It can be caused by language barriers, unfamiliar lifestyles, different climate, or strange food. Symptoms include confusion, anxiety, and homesickness. However, culture shock is a normal part of adapting to a new environment.\n\nTo overcome it, experts recommend learning about the new culture before moving, keeping an open mind, and being willing to try new things. Joining social groups and making friends can also help ease the transition. With time and effort, most people successfully adapt and even come to appreciate their new cultural environment.",
+        "questions": [
+          {
+            "question": "RC2-Q1: According to the passage, which is NOT mentioned as a cause of culture shock?",
+            "options": ["Language barriers", "Different climate", "Economic problems", "Strange food"],
+            "correct": 2
+          }
+        ],
+        "explanation": "Đoạn văn không đề cập đến vấn đề kinh tế như nguyên nhân gây sốc văn hóa."
+      },
+      {
+        "id": "p7-test-gf1",
+        "type": "mcq",
+        "question": "GAP FILLING 1: _____ sun rises in _____ east.",
+        "options": ["The / the", "A / the", "The / an", "Ø / the"],
+        "correct": 0,
+        "explanation": "Dùng 'the' trước danh từ duy nhất và phương hướng."
+      },
+      {
+        "id": "p7-test-gf2",
+        "type": "mcq",
+        "question": "GAP FILLING 2: The _____ of that custom is still a mystery to local people.",
+        "options": ["origin", "popularity", "festivity", "trend"],
+        "correct": 0,
+        "explanation": "'Origin' (nguồn gốc) phù hợp với ngữ cảnh về bí ẩn của phong tục."
+      },
+      {
+        "id": "p7-test-gf3",
+        "type": "mcq",
+        "question": "GAP FILLING 3: She has _____ unique talent for playing _____ piano.",
+        "options": ["a / the", "an / the", "a / Ø", "an / Ø"],
+        "correct": 0,
+        "explanation": "'Unique' bắt đầu bằng phụ âm /j/ nên dùng 'a', dùng 'the' trước nhạc cụ."
+      },
+      {
+        "id": "p7-test-gf4",
+        "type": "mcq",
+        "question": "GAP FILLING 4: Many students experience culture shock when they go to study in _____ US.",
+        "options": ["a", "an", "the", "Ø"],
+        "correct": 2,
+        "explanation": "Dùng 'the' trước tên quốc gia có từ viết tắt hoặc số nhiều."
+      },
+      {
+        "id": "p7-test-writing",
+        "type": "essay",
+        "question": "WRITING TASK: Write a paragraph (120-150 words) describing a cultural event you have experienced.\n\nYou should include:\n- What the event was\n- When and where it took place\n- What activities were involved\n- Why it was important to you\n\nUse:\n- Past tenses to describe the event\n- Linking words (First, Next, Also, Finally)\n- Specific details and examples\n- Personal feelings and reflections",
+        "answer_guide": "Sample Answer:\n\nLast year, I had the opportunity to attend the Tet Festival in Ho Chi Minh City. It took place during the first three days of the Lunar New Year in January. The festival was held at various locations throughout the city, including temples, parks, and cultural centers.\n\nDuring the festival, I participated in many traditional activities. I watched lion dances and traditional music performances. I also tried making banh chung, a traditional Vietnamese rice cake, with my family. We visited pagodas to pray for good luck and health in the new year. The streets were decorated with colorful flowers and red lanterns, creating a festive atmosphere.\n\nThis event was important to me because it helped me connect with my cultural roots and understand Vietnamese traditions better. It was also a wonderful time to spend with family and friends, strengthening our bonds. The Tet Festival reminded me of the importance of preserving our cultural heritage for future generations.\n\n(Word count: 157 words)\n\nEvaluation Criteria:\n✓ Content: Đầy đủ thông tin về sự kiện văn hóa (2 điểm)\n✓ Organization: Bố cục rõ ràng, mạch lạc (2 điểm)\n✓ Vocabulary: Sử dụng từ vựng phong phú, chính xác (2 điểm)\n✓ Grammar: Sử dụng ngữ pháp đúng, đặc biệt là mạo từ (2 điểm)\n✓ Language use: Diễn đạt tự nhiên, lưu loát (2 điểm)\n\nWriting Tips:\n- Sử dụng thì quá khứ để kể về sự kiện đã xảy ra\n- Dùng linking words để nối ý: First, Next, Also, Finally\n- Mô tả cụ thể các hoạt động và cảm xúc\n- Kết thúc bằng cảm nhận cá nhân về tầm quan trọng\n- Kiểm tra lại mạo từ (a, an, the) trước khi nộp bài",
+        "explanation": "Bài viết cần có cấu trúc rõ ràng với mở bài, thân bài và kết bài. Sử dụng thì quá khứ, linking words và từ vựng phong phú. Thể hiện cảm xúc và suy nghĩ cá nhân về sự kiện văn hóa."
+      }
+    ]
+  }
+}

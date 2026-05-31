@@ -1,0 +1,72 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-3-p2",
+  "name": "Part 2: Language - Vocabulary",
+  "slug": "p2-vocabulary",
+  "description": "Từ vựng về sống xanh và môi trường",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Vocabulary: Green Living",
+      "sections": [
+        {
+          "heading": "1. Từ vựng (Vocabulary)",
+          "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Sustainable</td><td class='px-4 py-2'>(adj) /səˈsteɪnəbl/</td><td class='px-4 py-2'>Bền vững</td><td class='px-4 py-2'>Use sustainable energy sources.</td></tr><tr><td class='px-4 py-2 font-bold'>Renewable</td><td class='px-4 py-2'>(adj) /rɪˈnjuːəbl/</td><td class='px-4 py-2'>Có thể tái tạo</td><td class='px-4 py-2'>Solar power is renewable energy.</td></tr><tr><td class='px-4 py-2 font-bold'>Recycle</td><td class='px-4 py-2'>(v) /ˌriːˈsaɪkl/</td><td class='px-4 py-2'>Tái chế</td><td class='px-4 py-2'>Recycle plastic bottles.</td></tr><tr><td class='px-4 py-2 font-bold'>Reduce</td><td class='px-4 py-2'>(v) /rɪˈdjuːs/</td><td class='px-4 py-2'>Giảm thiểu</td><td class='px-4 py-2'>Reduce waste and pollution.</td></tr><tr><td class='px-4 py-2 font-bold'>Reuse</td><td class='px-4 py-2'>(v) /ˌriːˈjuːz/</td><td class='px-4 py-2'>Tái sử dụng</td><td class='px-4 py-2'>Reuse shopping bags.</td></tr><tr><td class='px-4 py-2 font-bold'>Carbon footprint</td><td class='px-4 py-2'>(n) /ˈkɑːbən ˈfʊtprɪnt/</td><td class='px-4 py-2'>Dấu chân carbon</td><td class='px-4 py-2'>Reduce your carbon footprint.</td></tr><tr><td class='px-4 py-2 font-bold'>Emission</td><td class='px-4 py-2'>(n) /ɪˈmɪʃn/</td><td class='px-4 py-2'>Khí thải</td><td class='px-4 py-2'>Cut carbon emissions.</td></tr><tr><td class='px-4 py-2 font-bold'>Eco-friendly</td><td class='px-4 py-2'>(adj) /ˌiːkəʊ ˈfrendli/</td><td class='px-4 py-2'>Thân thiện môi trường</td><td class='px-4 py-2'>Use eco-friendly products.</td></tr><tr><td class='px-4 py-2 font-bold'>Conserve</td><td class='px-4 py-2'>(v) /kənˈsɜːv/</td><td class='px-4 py-2'>Bảo tồn</td><td class='px-4 py-2'>Conserve water and energy.</td></tr><tr><td class='px-4 py-2 font-bold'>Biodegradable</td><td class='px-4 py-2'>(adj) /ˌbaɪəʊdɪˈɡreɪdəbl/</td><td class='px-4 py-2'>Phân hủy sinh học</td><td class='px-4 py-2'>Use biodegradable packaging.</td></tr><tr><td class='px-4 py-2 font-bold'>Compost</td><td class='px-4 py-2'>(n, v) /ˈkɒmpɒst/</td><td class='px-4 py-2'>Phân compost</td><td class='px-4 py-2'>Make compost from food waste.</td></tr><tr><td class='px-4 py-2 font-bold'>Solar panel</td><td class='px-4 py-2'>(n) /ˈsəʊlə ˈpænl/</td><td class='px-4 py-2'>Tấm pin mặt trời</td><td class='px-4 py-2'>Install solar panels.</td></tr><tr><td class='px-4 py-2 font-bold'>Organic</td><td class='px-4 py-2'>(adj) /ɔːˈɡænɪk/</td><td class='px-4 py-2'>Hữu cơ</td><td class='px-4 py-2'>Buy organic food.</td></tr><tr><td class='px-4 py-2 font-bold'>Landfill</td><td class='px-4 py-2'>(n) /ˈlændfɪl/</td><td class='px-4 py-2'>Bãi rác</td><td class='px-4 py-2'>Reduce waste sent to landfills.</td></tr></tbody></table></div>"
+        },
+        {
+          "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+          "content": "<p><strong>The 3Rs (Ba chữ R):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Reduce:</strong> giảm thiểu (reduce waste, reduce consumption)</li><li><strong>Reuse:</strong> tái sử dụng (reuse bags, reuse containers)</li><li><strong>Recycle:</strong> tái chế (recycle paper, recycle plastic)</li></ul><p><strong>Energy and environment (Năng lượng và môi trường):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>renewable energy:</strong> năng lượng tái tạo</li><li><strong>solar power:</strong> năng lượng mặt trời</li><li><strong>wind power:</strong> năng lượng gió</li><li><strong>carbon footprint:</strong> dấu chân carbon</li><li><strong>carbon emissions:</strong> khí thải carbon</li><li><strong>greenhouse gases:</strong> khí nhà kính</li></ul><p><strong>Green products (Sản phẩm xanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>eco-friendly products:</strong> sản phẩm thân thiện môi trường</li><li><strong>biodegradable packaging:</strong> bao bì phân hủy sinh học</li><li><strong>organic food:</strong> thực phẩm hữu cơ</li><li><strong>reusable bags:</strong> túi tái sử dụng</li></ul><p><strong>Actions for green living (Hành động sống xanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>conserve energy:</strong> tiết kiệm năng lượng</li><li><strong>save water:</strong> tiết kiệm nước</li><li><strong>plant trees:</strong> trồng cây</li><li><strong>use public transport:</strong> sử dụng phương tiện công cộng</li><li><strong>turn off lights:</strong> tắt đèn</li><li><strong>avoid single-use plastic:</strong> tránh nhựa dùng một lần</li></ul><p><strong>Collocations về môi trường:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>sustainable lifestyle:</strong> lối sống bền vững</li><li><strong>environmental protection:</strong> bảo vệ môi trường</li><li><strong>green living:</strong> sống xanh</li><li><strong>climate change:</strong> biến đổi khí hậu</li><li><strong>ecological balance:</strong> cân bằng sinh thái</li></ul>"
+        },
+        {
+          "heading": "3. Ngữ âm: Liên kết âm",
+          "content": "<h3>Linking sounds</h3><p><strong>Quy tắc liên kết âm trong tiếng Anh:</strong></p><p><strong>1. Consonant + Vowel (Phụ âm + Nguyên âm):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khi từ kết thúc bằng phụ âm và từ tiếp theo bắt đầu bằng nguyên âm, ta liên kết chúng</li><li>Ex: turn <strong>off</strong> → tur<strong>noff</strong> /tɜːnɒf/</li><li>Ex: pick <strong>up</strong> → pi<strong>ckup</strong> /pɪkʌp/</li><li>Ex: an <strong>apple</strong> → a<strong>napple</strong> /ənæpl/</li></ul><p><strong>2. Vowel + Vowel (Nguyên âm + Nguyên âm):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khi hai nguyên âm gặp nhau, thêm âm /w/ hoặc /j/ để liên kết</li><li>Ex: go <strong>out</strong> → go<strong>/w/</strong>out /ɡəʊwaʊt/</li><li>Ex: see <strong>it</strong> → see<strong>/j/</strong>it /siːjɪt/</li></ul><p><strong>3. Ví dụ trong Unit 3:</strong></p><ul class='list-disc pl-5 space-y-2'><li>turn <strong>off</strong> the lights → tur<strong>noff</strong> the lights</li><li>pick <strong>up</strong> litter → pi<strong>ckup</strong> litter</li><li>cut <strong>down</strong> on waste → cu<strong>tdown</strong> on waste</li><li>give <strong>up</strong> plastic → gi<strong>veup</strong> plastic</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "mcq1",
+        "type": "mcq",
+        "question": "We need to ______ our consumption of natural resources.",
+        "options": ["reduce", "reduction", "reducing", "reduced"],
+        "correct": 0,
+        "explanation": "Reduce (v): giảm thiểu - động từ nguyên thể sau 'need to'."
+      },
+      {
+        "id": "mcq2",
+        "type": "mcq",
+        "question": "______ energy sources like solar and wind power are better for the environment.",
+        "options": ["Renew", "Renewable", "Renewal", "Renewing"],
+        "correct": 1,
+        "explanation": "Renewable (adj): có thể tái tạo."
+      },
+      {
+        "id": "mcq3",
+        "type": "mcq",
+        "question": "What does 'sustainable' mean?",
+        "options": ["Temporary", "Able to continue for a long time", "Expensive", "Difficult"],
+        "correct": 1,
+        "explanation": "Sustainable nghĩa là bền vững, có thể duy trì lâu dài."
+      },
+      {
+        "id": "mcq4",
+        "type": "mcq",
+        "question": "Choose the correct word: 'We should use ______ products to protect the environment.'",
+        "options": ["eco-friendly", "eco-friend", "ecology", "economic"],
+        "correct": 0,
+        "explanation": "Eco-friendly (adj): thân thiện với môi trường."
+      },
+      {
+        "id": "mcq5",
+        "type": "mcq",
+        "question": "What is 'compost'?",
+        "options": ["A type of plastic", "Decomposed organic matter used as fertilizer", "Chemical waste", "Metal recycling"],
+        "correct": 1,
+        "explanation": "Compost là phân hữu cơ từ chất hữu cơ phân hủy."
+      }
+    ]
+  }
+}

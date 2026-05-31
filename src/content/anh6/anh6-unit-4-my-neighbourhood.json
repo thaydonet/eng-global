@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-unit-4-my-neighbourhood",
+      "name": "Unit 4: My Neighbourhood",
+      "slug": "unit-4-my-neighbourhood",
+      "chapter": "Unit 4: My Neighbourhood",
+      "chapter_id": "A6",
+      "lesson_id": 4,
+      "description": "Learn about places in the neighbourhood, giving directions, and comparative adjectives.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=2644&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-4",
+          "name": "Neighbourhood Vocabulary",
+          "slug": "neighbourhood-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 4: My Neighbourhood",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Neighbourhood</td><td class='px-4 py-2'>(n) /ˈneɪbəhʊd/</td><td class='px-4 py-2'>Khu phố, vùng lân cận</td><td class='px-4 py-2'>I live in a quiet neighbourhood.</td></tr><tr><td class='px-4 py-2 font-bold'>Bank</td><td class='px-4 py-2'>(n) /bæŋk/</td><td class='px-4 py-2'>Ngân hàng</td><td class='px-4 py-2'>The bank is on the corner.</td></tr><tr><td class='px-4 py-2 font-bold'>Post office</td><td class='px-4 py-2'>(n) /ˈpəʊst ɒfɪs/</td><td class='px-4 py-2'>Bưu điện</td><td class='px-4 py-2'>I go to the post office to send letters.</td></tr><tr><td class='px-4 py-2 font-bold'>Restaurant</td><td class='px-4 py-2'>(n) /ˈrestrɒnt/</td><td class='px-4 py-2'>Nhà hàng</td><td class='px-4 py-2'>There is a restaurant near my house.</td></tr><tr><td class='px-4 py-2 font-bold'>Cinema</td><td class='px-4 py-2'>(n) /ˈsɪnəmə/</td><td class='px-4 py-2'>Rạp chiếu phim</td><td class='px-4 py-2'>We watch films at the cinema.</td></tr><tr><td class='px-4 py-2 font-bold'>Market</td><td class='px-4 py-2'>(n) /ˈmɑːkɪt/</td><td class='px-4 py-2'>Chợ</td><td class='px-4 py-2'>My mother buys food at the market.</td></tr><tr><td class='px-4 py-2 font-bold'>Museum</td><td class='px-4 py-2'>(n) /mjuˈziːəm/</td><td class='px-4 py-2'>Bảo tàng</td><td class='px-4 py-2'>We can see old things at the museum.</td></tr><tr><td class='px-4 py-2 font-bold'>Temple</td><td class='px-4 py-2'>(n) /ˈtempl/</td><td class='px-4 py-2'>Đền, chùa</td><td class='px-4 py-2'>There is an old temple in my neighbourhood.</td></tr><tr><td class='px-4 py-2 font-bold'>Square</td><td class='px-4 py-2'>(n) /skweə(r)/</td><td class='px-4 py-2'>Quảng trường</td><td class='px-4 py-2'>The square is in the city centre.</td></tr><tr><td class='px-4 py-2 font-bold'>Street</td><td class='px-4 py-2'>(n) /striːt/</td><td class='px-4 py-2'>Đường phố</td><td class='px-4 py-2'>I live on Main Street.</td></tr><tr><td class='px-4 py-2 font-bold'>Turn</td><td class='px-4 py-2'>(v) /tɜːn/</td><td class='px-4 py-2'>Rẽ, quẹo</td><td class='px-4 py-2'>Turn left at the corner.</td></tr><tr><td class='px-4 py-2 font-bold'>Cross</td><td class='px-4 py-2'>(v) /krɒs/</td><td class='px-4 py-2'>Băng qua</td><td class='px-4 py-2'>Cross the street carefully.</td></tr><tr><td class='px-4 py-2 font-bold'>Quiet</td><td class='px-4 py-2'>(adj) /ˈkwaɪət/</td><td class='px-4 py-2'>Yên tĩnh</td><td class='px-4 py-2'>My neighbourhood is very quiet.</td></tr><tr><td class='px-4 py-2 font-bold'>Noisy</td><td class='px-4 py-2'>(adj) /ˈnɔɪzi/</td><td class='px-4 py-2'>Ồn ào</td><td class='px-4 py-2'>The city centre is noisy.</td></tr><tr><td class='px-4 py-2 font-bold'>Modern</td><td class='px-4 py-2'>(adj) /ˈmɒdn/</td><td class='px-4 py-2'>Hiện đại</td><td class='px-4 py-2'>This is a modern building.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Places in the neighbourhood (Địa điểm trong khu phố):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>bank:</strong> ngân hàng</li><li><strong>post office:</strong> bưu điện</li><li><strong>restaurant:</strong> nhà hàng</li><li><strong>cinema:</strong> rạp chiếu phim</li><li><strong>theatre:</strong> rạp hát</li><li><strong>supermarket:</strong> siêu thị</li><li><strong>market:</strong> chợ</li><li><strong>hospital:</strong> bệnh viện</li><li><strong>pharmacy:</strong> hiệu thuốc</li><li><strong>museum:</strong> bảo tàng</li><li><strong>art gallery:</strong> phòng trưng bày nghệ thuật</li><li><strong>temple:</strong> đền, chùa</li><li><strong>square:</strong> quảng trường</li><li><strong>park:</strong> công viên</li><li><strong>police station:</strong> đồn cảnh sát</li></ul><p><strong>Directions (Chỉ đường):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>turn left:</strong> rẽ trái</li><li><strong>turn right:</strong> rẽ phải</li><li><strong>go straight:</strong> đi thẳng</li><li><strong>go along:</strong> đi dọc theo</li><li><strong>cross the street:</strong> băng qua đường</li><li><strong>at the corner:</strong> ở góc đường</li><li><strong>at the traffic lights:</strong> ở đèn giao thông</li><li><strong>take the first/second turning:</strong> rẽ ở ngã rẽ thứ nhất/thứ hai</li><li><strong>on the left/right:</strong> ở bên trái/phải</li><li><strong>opposite:</strong> đối diện</li><li><strong>next to:</strong> bên cạnh</li><li><strong>between:</strong> giữa</li></ul><p><strong>Adjectives to describe places (Tính từ mô tả địa điểm):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>quiet:</strong> yên tĩnh</li><li><strong>noisy:</strong> ồn ào</li><li><strong>busy:</strong> đông đúc, bận rộn</li><li><strong>crowded:</strong> đông đúc</li><li><strong>peaceful:</strong> yên bình</li><li><strong>modern:</strong> hiện đại</li><li><strong>historic:</strong> có tính lịch sử</li><li><strong>convenient:</strong> tiện lợi</li><li><strong>polluted:</strong> ô nhiễm</li><li><strong>clean:</strong> sạch sẽ</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /i:/ and /ɪ/</h3><p><strong>1. Sound /i:/ (âm dài):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Môi căng, lưỡi cao, âm dài</li><li><strong>Examples:</strong></li><li>cheap /tʃiːp/</li><li>street /striːt/</li><li>peaceful /ˈpiːsfl/</li><li>convenient /kənˈviːniənt/</li></ul><p><strong>2. Sound /ɪ/ (âm ngắn):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Môi hơi căng, lưỡi cao, âm ngắn</li><li><strong>Examples:</strong></li><li>city /ˈsɪti/</li><li>building /ˈbɪldɪŋ/</li><li>historic /hɪˈstɒrɪk/</li><li>cinema /ˈsɪnəmə/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Comparative Adjectives (So sánh hơn của tính từ)</h3><p><strong>1. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dùng để so sánh hai người, vật, hoặc địa điểm</li><li>Chỉ ra rằng một người/vật có đặc điểm nhiều hơn hoặc ít hơn người/vật khác</li></ul><p><strong>2. Cấu trúc:</strong></p><p><strong>a) Tính từ ngắn (1 âm tiết):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Adj + er + than</strong></li><li>Ex: My house is <strong>bigger than</strong> yours.</li><li>Ex: This street is <strong>longer than</strong> that one.</li><li><strong>Cách thêm -er:</strong></li><li>Thêm 'er': tall → taller, old → older</li><li>Tận cùng 'e' + r: large → larger, nice → nicer</li><li>Gấp đôi phụ âm + er: big → bigger, hot → hotter</li><li>Đổi 'y' thành 'ier': happy → happier, busy → busier</li></ul><p><strong>b) Tính từ dài (2 âm tiết trở lên):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>More + adj + than</strong></li><li>Ex: This building is <strong>more modern than</strong> that one.</li><li>Ex: The city is <strong>more crowded than</strong> the countryside.</li></ul><p><strong>c) Tính từ bất quy tắc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>good → better</li><li>Ex: This restaurant is <strong>better than</strong> that one.</li><li>bad → worse</li><li>Ex: The weather today is <strong>worse than</strong> yesterday.</li><li>far → farther/further</li><li>Ex: My house is <strong>farther than</strong> yours.</li></ul><p><strong>3. Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Một số tính từ 2 âm tiết có thể dùng cả hai cách:</li><li>quiet → quieter / more quiet</li><li>simple → simpler / more simple</li><li>clever → cleverer / more clever</li></ul><h3>B. Giving Directions (Chỉ đường)</h3><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Asking for directions:</strong></li><li>Excuse me, where is...?</li><li>Can you tell me the way to...?</li><li>How can I get to...?</li><li><strong>Giving directions:</strong></li><li>Go straight (ahead).</li><li>Turn left/right.</li><li>Go along this street.</li><li>Take the first/second turning on the left/right.</li><li>Cross the street.</li><li>It's on your left/right.</li><li>It's opposite/next to/between...</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Lost in the old town - Lạc đường ở phố cổ</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về việc hỏi đường</li><li>Giới thiệu về các địa điểm trong khu phố</li><li>Chỉ đường cho người khác</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Places and directions</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về địa điểm trong khu phố</li><li>Học từ vựng về chỉ đường</li></ul><p><strong>B. Pronunciation: /i:/ and /ɪ/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /i:/ và /ɪ/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Comparative adjectives</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học so sánh hơn của tính từ ngắn</li><li>Học so sánh hơn của tính từ dài</li><li>Học tính từ bất quy tắc</li><li>Luyện tập so sánh các địa điểm</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Asking for and giving directions</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Excuse me, where is the bank?</li><li>Can you tell me the way to the post office?</li><li>Go straight and turn left.</li><li>It's on your right.</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: A description of a neighbourhood</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về một khu phố</li><li>Tìm thông tin về các địa điểm</li></ul><p><strong>Speaking: Describing your neighbourhood</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả khu phố của bạn</li><li>So sánh các địa điểm</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: Directions to places</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hướng dẫn chỉ đường</li><li>Xác định vị trí trên bản đồ</li></ul><p><strong>Writing: An email about your neighbourhood</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết email mô tả khu phố</li><li>Sử dụng so sánh hơn</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Places, directions, adjectives</li><li><strong>Pronunciation:</strong> /i:/ and /ɪ/</li><li><strong>Grammar:</strong> Comparative adjectives</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> My ideal neighbourhood</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vẽ bản đồ khu phố lý tưởng</li><li>Viết mô tả (5-7 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: So sánh hơn với tính từ ngắn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Adj + er + than</li><li>Lưu ý: big → bigger, happy → happier, large → larger</li></ul>",
+            "examples": [
+              {
+                "question": "My house is ______ (big) than yours.",
+                "solution": "My house is <strong>bigger</strong> than yours.",
+                "explanation": "Tính từ 'big' kết thúc bằng 1 phụ âm, trước là 1 nguyên âm → gấp đôi 'g' + er."
+              },
+              {
+                "question": "This street is ______ (long) than that one.",
+                "solution": "This street is <strong>longer</strong> than that one.",
+                "explanation": "Tính từ 'long' (1 âm tiết) thêm 'er' → longer."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: So sánh hơn với tính từ dài",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>More + adj + than</li><li>Áp dụng cho tính từ 2 âm tiết trở lên</li></ul>",
+            "examples": [
+              {
+                "question": "The city is ______ (crowded) than the countryside.",
+                "solution": "The city is <strong>more crowded</strong> than the countryside.",
+                "explanation": "Tính từ 'crowded' (2 âm tiết) dùng 'more' + adj + than."
+              },
+              {
+                "question": "This building is ______ (modern) than that one.",
+                "solution": "This building is <strong>more modern</strong> than that one.",
+                "explanation": "Tính từ 'modern' (2 âm tiết) dùng 'more' + adj + than."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: So sánh hơn với tính từ bất quy tắc",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>good → better</li><li>bad → worse</li><li>far → farther/further</li></ul>",
+            "examples": [
+              {
+                "question": "This restaurant is ______ (good) than that one.",
+                "solution": "This restaurant is <strong>better</strong> than that one.",
+                "explanation": "Tính từ 'good' bất quy tắc → better."
+              },
+              {
+                "question": "The weather today is ______ (bad) than yesterday.",
+                "solution": "The weather today is <strong>worse</strong> than yesterday.",
+                "explanation": "Tính từ 'bad' bất quy tắc → worse."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Chỉ đường (Giving directions)",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Go straight / Turn left/right</li><li>Take the first/second turning</li><li>It's on your left/right</li><li>It's opposite/next to...</li></ul>",
+            "examples": [
+              {
+                "question": "How do I get to the bank? (go straight, turn left)",
+                "solution": "<strong>Go straight</strong> and <strong>turn left</strong>. The bank is on your right.",
+                "explanation": "Sử dụng cấu trúc chỉ đường: Go straight + turn left/right."
+              },
+              {
+                "question": "Where is the post office? (opposite the cinema)",
+                "solution": "The post office is <strong>opposite the cinema</strong>.",
+                "explanation": "Sử dụng 'opposite' để chỉ vị trí đối diện."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "My house is ______ than yours.",
+            "options": ["big", "bigger", "more big", "biggest"],
+            "correct": 1,
+            "explanation": "Tính từ 'big' (1 âm tiết) gấp đôi phụ âm + er → bigger."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The city is ______ than the countryside.",
+            "options": ["noisy", "noisier", "more noisy", "noisiest"],
+            "correct": 1,
+            "explanation": "Tính từ 'noisy' kết thúc bằng 'y' → đổi 'y' thành 'ier' → noisier."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "This building is ______ than that one.",
+            "options": ["modern", "moderner", "more modern", "most modern"],
+            "correct": 2,
+            "explanation": "Tính từ 'modern' (2 âm tiết) dùng 'more' + adj + than."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "This restaurant is ______ than that one.",
+            "options": ["good", "gooder", "better", "best"],
+            "correct": 2,
+            "explanation": "Tính từ 'good' bất quy tắc → better."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "Excuse me, ______ is the bank?",
+            "options": ["what", "where", "when", "who"],
+            "correct": 1,
+            "explanation": "Hỏi về vị trí dùng 'where'."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ left at the traffic lights.",
+            "options": ["Go", "Turn", "Cross", "Take"],
+            "correct": 1,
+            "explanation": "Chỉ đường: Turn left/right (rẽ trái/phải)."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "The post office is ______ the cinema.",
+            "options": ["opposite", "between", "under", "on"],
+            "correct": 0,
+            "explanation": "Opposite: đối diện."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "My neighbourhood is ______ than the city centre.",
+            "options": ["quiet", "quieter", "more quiet", "quietest"],
+            "correct": 1,
+            "explanation": "Tính từ 'quiet' có thể dùng 'quieter' hoặc 'more quiet', nhưng 'quieter' phổ biến hơn."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "This street is ______ than that one.",
+            "options": ["long", "longer", "more long", "longest"],
+            "correct": 1,
+            "explanation": "Tính từ 'long' (1 âm tiết) thêm 'er' → longer."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______ straight and you will see the museum.",
+            "options": ["Turn", "Go", "Cross", "Take"],
+            "correct": 1,
+            "explanation": "Chỉ đường: Go straight (đi thẳng)."
+          }
+        ]
+      }
+    }
+  ]
+}

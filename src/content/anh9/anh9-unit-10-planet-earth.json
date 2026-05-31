@@ -1,0 +1,309 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-unit-10-planet-earth",
+      "name": "Unit 10: Planet Earth",
+      "slug": "unit-10-planet-earth",
+      "chapter": "Unit 10: Planet Earth",
+      "chapter_id": "A9",
+      "lesson_id": 10,
+      "description": "Learn about Planet Earth with non-defining relative clauses.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?q=80&w=2674&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-10",
+          "name": "Planet Earth Vocabulary",
+          "slug": "planet-earth-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 10: Planet Earth",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Planet Earth:</strong> planet, Earth, globe, world, atmosphere, climate, weather, temperature, season, ecosystem, biodiversity</p><p><strong>Environmental issues:</strong> pollution, global warming, climate change, deforestation, greenhouse effect, carbon dioxide, fossil fuel, renewable energy, solar power, wind power</p><p><strong>Natural resources:</strong> water, air, soil, forest, ocean, mineral, oil, gas, coal, resource, conservation</p><p><strong>Actions:</strong> protect, preserve, conserve, save, reduce, reuse, recycle, prevent, combat, tackle</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng",
+              "content": "<p>Practice using vocabulary in context about Planet Earth, environmental issues, and conservation.</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>Non-defining Relative Clauses (Mệnh đề quan hệ không xác định)</h3><p><strong>A. Khái niệm:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Mệnh đề quan hệ không xác định:</strong> bổ sung thông tin thêm, không cần thiết để xác định danh từ</li><li><strong>Có dấu phẩy</strong> (,) ngăn cách</li><li>Có thể bỏ mệnh đề này mà câu vẫn có nghĩa</li><li>Ex: My brother, <strong>who lives in Hanoi</strong>, is a teacher. (đã biết anh trai nào)</li></ul><p><strong>B. So sánh Defining vs Non-defining:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Defining (Xác định):</strong></li><li>- Không có dấu phẩy</li><li>- Cần thiết để xác định</li><li>- Có thể dùng 'that'</li><li>Ex: The student <strong>who studies hard</strong> will pass. (học sinh nào?)</li><li><strong>Non-defining (Không xác định):</strong></li><li>- Có dấu phẩy</li><li>- Bổ sung thông tin</li><li>- KHÔNG dùng 'that'</li><li>Ex: My brother, <strong>who lives in Hanoi</strong>, is a teacher. (đã biết anh trai)</li></ul><p><strong>C. Đại từ quan hệ trong mệnh đề không xác định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>who:</strong> người</li><li>Ex: Mr. Smith, <strong>who</strong> is our teacher, is very kind.</li><li><strong>which:</strong> vật, động vật</li><li>Ex: Ha Long Bay, <strong>which</strong> is in Vietnam, is beautiful.</li><li><strong>whose:</strong> sở hữu</li><li>Ex: My friend, <strong>whose</strong> father is a doctor, lives here.</li><li><strong>where:</strong> nơi chốn</li><li>Ex: London, <strong>where</strong> I was born, is a big city.</li><li><strong>when:</strong> thời gian</li><li>Ex: Summer, <strong>when</strong> it's hot, is my favorite season.</li></ul><p><strong>D. Lưu ý quan trọng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>KHÔNG dùng 'that'</strong> trong mệnh đề không xác định</li><li>Sai: Ha Long Bay, <strong>that</strong> is in Vietnam, is beautiful. ✗</li><li>Đúng: Ha Long Bay, <strong>which</strong> is in Vietnam, is beautiful. ✓</li><li><strong>KHÔNG thể bỏ đại từ quan hệ</strong></li><li>Sai: My brother, lives in Hanoi, is a teacher. ✗</li><li>Đúng: My brother, <strong>who</strong> lives in Hanoi, is a teacher. ✓</li><li><strong>Luôn có dấu phẩy</strong></li><li>Trước mệnh đề: dấu phẩy mở (,)</li><li>Sau mệnh đề (nếu câu chưa kết thúc): dấu phẩy đóng (,)</li></ul><p><strong>E. Ví dụ chi tiết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>My mother, <strong>who is a teacher</strong>, loves reading.</li><li>The Earth, <strong>which is our planet</strong>, needs protection.</li><li>Vietnam, <strong>where I live</strong>, is a beautiful country.</li><li>My friend, <strong>whose name is John</strong>, speaks English well.</li><li>December, <strong>when it's cold</strong>, is the last month.</li></ul>"
+            },
+            {
+              "heading": "4-11. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Non-defining với Who/Which",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Có dấu phẩy</li><li>who (người), which (vật)</li><li>KHÔNG dùng 'that'</li></ul>",
+            "examples": [
+              {
+                "question": "My brother ______ lives in Hanoi is a teacher.",
+                "solution": "My brother, <strong>who</strong> lives in Hanoi, is a teacher.",
+                "explanation": "Non-defining: có dấu phẩy, dùng who (không dùng that)"
+              },
+              {
+                "question": "Ha Long Bay ______ is in Vietnam is beautiful.",
+                "solution": "Ha Long Bay, <strong>which</strong> is in Vietnam, is beautiful.",
+                "explanation": "Non-defining: có dấu phẩy, dùng which (không dùng that)"
+              },
+              {
+                "question": "The Earth ______ is our planet needs protection.",
+                "solution": "The Earth, <strong>which</strong> is our planet, needs protection.",
+                "explanation": "Non-defining: có dấu phẩy, dùng which"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Non-defining với Whose/Where/When",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>whose (sở hữu)</li><li>where (nơi chốn)</li><li>when (thời gian)</li><li>Có dấu phẩy</li></ul>",
+            "examples": [
+              {
+                "question": "My friend ______ father is a doctor lives here.",
+                "solution": "My friend, <strong>whose</strong> father is a doctor, lives here.",
+                "explanation": "Non-defining: whose = sở hữu"
+              },
+              {
+                "question": "Vietnam ______ I live is a beautiful country.",
+                "solution": "Vietnam, <strong>where</strong> I live, is a beautiful country.",
+                "explanation": "Non-defining: where = nơi chốn"
+              },
+              {
+                "question": "Summer ______ it's hot is my favorite season.",
+                "solution": "Summer, <strong>when</strong> it's hot, is my favorite season.",
+                "explanation": "Non-defining: when = thời gian"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Phân biệt Defining vs Non-defining",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Defining: không dấu phẩy, cần thiết, dùng 'that'</li><li>Non-defining: có dấu phẩy, bổ sung, KHÔNG dùng 'that'</li></ul>",
+            "examples": [
+              {
+                "question": "The student who studies hard will pass. (Defining hay Non-defining?)",
+                "solution": "<strong>Defining</strong> - không có dấu phẩy, cần thiết để xác định học sinh nào.",
+                "explanation": "Không có dấu phẩy → Defining"
+              },
+              {
+                "question": "My brother, who lives in Hanoi, is a teacher. (Defining hay Non-defining?)",
+                "solution": "<strong>Non-defining</strong> - có dấu phẩy, bổ sung thông tin về anh trai (đã biết anh trai nào).",
+                "explanation": "Có dấu phẩy → Non-defining"
+              },
+              {
+                "question": "Ha Long Bay, ______ is in Vietnam, is beautiful. (that hay which?)",
+                "solution": "Ha Long Bay, <strong>which</strong> is in Vietnam, is beautiful.",
+                "explanation": "Non-defining → dùng which (KHÔNG dùng that)"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Sửa lỗi Non-defining",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Kiểm tra dấu phẩy</li><li>Không dùng 'that'</li><li>Không bỏ đại từ quan hệ</li></ul>",
+            "examples": [
+              {
+                "question": "Sửa lỗi: My brother that lives in Hanoi is a teacher.",
+                "solution": "My brother, <strong>who</strong> lives in Hanoi, is a teacher.",
+                "explanation": "Sửa: thêm dấu phẩy, đổi 'that' → 'who'"
+              },
+              {
+                "question": "Sửa lỗi: Ha Long Bay that is in Vietnam is beautiful.",
+                "solution": "Ha Long Bay, <strong>which</strong> is in Vietnam, is beautiful.",
+                "explanation": "Sửa: thêm dấu phẩy, đổi 'that' → 'which'"
+              },
+              {
+                "question": "Sửa lỗi: My friend lives in Hanoi is a teacher. (thiếu đại từ quan hệ)",
+                "solution": "My friend, <strong>who</strong> lives in Hanoi, is a teacher.",
+                "explanation": "Sửa: thêm dấu phẩy và 'who'"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "My brother, ______ lives in Hanoi, is a teacher.",
+            "options": ["who", "which", "that", "where"],
+            "correct": 0,
+            "explanation": "Non-defining: dùng who (không dùng that)"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "Ha Long Bay, ______ is in Vietnam, is beautiful.",
+            "options": ["who", "which", "that", "whose"],
+            "correct": 1,
+            "explanation": "Non-defining: dùng which (không dùng that)"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "The Earth, ______ is our planet, needs protection.",
+            "options": ["who", "which", "that", "where"],
+            "correct": 1,
+            "explanation": "Non-defining: dùng which"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "My friend, ______ father is a doctor, lives here.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 2,
+            "explanation": "Non-defining: whose = sở hữu"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "Vietnam, ______ I live, is a beautiful country.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 3,
+            "explanation": "Non-defining: where = nơi chốn"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "Summer, ______ it's hot, is my favorite season.",
+            "options": ["who", "which", "where", "when"],
+            "correct": 3,
+            "explanation": "Non-defining: when = thời gian"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "My mother, ______ is a teacher, loves reading.",
+            "options": ["who", "which", "that", "where"],
+            "correct": 0,
+            "explanation": "Non-defining: dùng who"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "London, ______ I was born, is a big city.",
+            "options": ["who", "which", "that", "where"],
+            "correct": 3,
+            "explanation": "Non-defining: where = nơi chốn"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "December, ______ it's cold, is the last month.",
+            "options": ["who", "which", "where", "when"],
+            "correct": 3,
+            "explanation": "Non-defining: when = thời gian"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "My sister, ______ name is Mary, is a doctor.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 2,
+            "explanation": "Non-defining: whose = sở hữu"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which are non-defining relative clauses? (Select all that apply)",
+            "options": ["My brother, who lives in Hanoi, is a teacher.", "The student who studies hard will pass.", "Ha Long Bay, which is in Vietnam, is beautiful.", "The book that I read was good."],
+            "correct": [0, 2],
+            "explanation": "Đúng: có dấu phẩy (non-defining). Sai: không có dấu phẩy (defining)"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which are correct non-defining clauses? (Select all that apply)",
+            "options": ["My friend, who lives here, is kind.", "Ha Long Bay, that is beautiful, is in Vietnam.", "Vietnam, where I live, is nice.", "My brother, lives in Hanoi, is a teacher."],
+            "correct": [0, 2],
+            "explanation": "Đúng: who/where với dấu phẩy. Sai: 'that' trong non-defining, thiếu đại từ quan hệ"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which rules apply to non-defining clauses? (Select all that apply)",
+            "options": ["Must have commas", "Cannot use 'that'", "Cannot omit relative pronoun", "Can use 'who' for people"],
+            "correct": [0, 1, 2, 3],
+            "explanation": "Tất cả đều đúng: phải có dấu phẩy, không dùng 'that', không bỏ đại từ, dùng 'who' cho người"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: My brother, ______ lives in Hanoi, is a teacher.",
+            "correct": "who",
+            "explanation": "Non-defining: dùng who (không dùng that)"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: Ha Long Bay, ______ is in Vietnam, is beautiful.",
+            "correct": "which",
+            "explanation": "Non-defining: dùng which (không dùng that)"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Fill in: Vietnam, ______ I live, is a beautiful country.",
+            "correct": "where",
+            "explanation": "Non-defining: where = nơi chốn"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Correct the error: My brother that lives in Hanoi is a teacher. → My brother, ______ lives in Hanoi, is a teacher.",
+            "correct": "who",
+            "explanation": "Sửa: thêm dấu phẩy, đổi 'that' → 'who'"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange with commas: brother / My / who / lives / in / Hanoi / is / teacher / a / . / Bay / Ha Long / which / is / in / Vietnam / is / beautiful / .",
+            "sample_answer": "My brother, who lives in Hanoi, is a teacher. Ha Long Bay, which is in Vietnam, is beautiful.",
+            "explanation": "Sắp xếp: Non-defining clauses với dấu phẩy"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Add information: My brother is a teacher. (He lives in Hanoi) → Use non-defining clause",
+            "sample_answer": "My brother, who lives in Hanoi, is a teacher.",
+            "explanation": "Thêm thông tin: dùng non-defining clause với dấu phẩy"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Correct all errors: Ha Long Bay that is in Vietnam is beautiful. My friend lives in Hanoi is a teacher.",
+            "sample_answer": "Ha Long Bay, which is in Vietnam, is beautiful. My friend, who lives in Hanoi, is a teacher.",
+            "explanation": "Sửa: thêm dấu phẩy, đổi 'that' → 'which'/'who'"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange: friend / My / whose / father / is / doctor / a / lives / here / . / Vietnam / where / live / I / is / beautiful / country / a / .",
+            "sample_answer": "My friend, whose father is a doctor, lives here. Vietnam, where I live, is a beautiful country.",
+            "explanation": "Sắp xếp: Non-defining với whose (sở hữu) và where (nơi chốn)"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Compare and explain: 1) The student who studies hard will pass. 2) My brother, who lives in Hanoi, is a teacher. (Explain the difference between defining and non-defining)",
+            "sample_answer": "Sentence 1 is a defining relative clause (no commas, identifies which student). Sentence 2 is a non-defining relative clause (has commas, adds extra information about my brother who is already identified). Câu 1 là mệnh đề xác định (không dấu phẩy, xác định học sinh nào). Câu 2 là mệnh đề không xác định (có dấu phẩy, bổ sung thông tin).",
+            "explanation": "Giải thích sự khác biệt: Defining (không dấu phẩy, cần thiết) vs Non-defining (có dấu phẩy, bổ sung)"
+          }
+        ]
+      }
+    }
+  ]
+}

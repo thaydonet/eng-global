@@ -1,0 +1,377 @@
+{
+  "subject": "Tiếng Anh 7",
+  "subject_id": 44,
+  "lessons": [
+    {
+      "id": "anh7-review-1",
+      "name": "Review 1 (Units 1 - 2 - 3)",
+      "slug": "review-1-units-1-2-3",
+      "chapter": "Review 1 (Units 1 - 2 - 3)",
+      "chapter_id": "A7",
+      "lesson_id": 10,
+      "description": "Review of Units 1, 2, and 3 covering hobbies, healthy living, and community service.",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-1",
+          "name": "Review 1 Comprehensive",
+          "slug": "review-1-comprehensive",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 1 (Units 1 - 2 - 3)",
+          "sections": [
+            {
+              "heading": "1. Language - Vocabulary",
+              "content": "<h3>Unit 1: Hobbies</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Hobbies:</strong> collect, arrange, build, make, garden, paint, cycle, jog</li><li><strong>Adjectives:</strong> unusual, creative, relaxing, interesting</li><li><strong>Verbs of liking:</strong> like, love, enjoy, hate, prefer</li></ul><h3>Unit 2: Healthy Living</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Health:</strong> exercise, diet, vitamin, sleep, fit, active, fresh</li><li><strong>Problems:</strong> junk food, sunburn, acne, obesity</li><li><strong>Actions:</strong> prevent, avoid, relax</li></ul><h3>Unit 3: Community Service</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Activities:</strong> volunteer, donate, charity, clean up, plant, tutor, raise, provide</li><li><strong>People:</strong> homeless, elderly, disabled, orphan</li><li><strong>Adjectives:</strong> helpful, generous</li></ul>"
+            },
+            {
+              "heading": "2. Language - Grammar",
+              "content": "<h3>Unit 1: Present Simple and Verbs of liking + V-ing</h3><p><strong>1. Present Simple:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + V(s/es)</li><li>Ex: She collects stamps.</li></ul><p><strong>2. Verbs of liking + V-ing:</strong></p><ul class='list-disc pl-5 space-y-2'><li>like/love/enjoy/hate + V-ing</li><li>Ex: I like reading books.</li></ul><h3>Unit 2: Simple Sentences</h3><p><strong>Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + V (+ O/C)</li><li>Ex: I exercise every day.</li><li>Ex: She eats vegetables.</li></ul><h3>Unit 3: Past Simple Tense</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + V-ed/V2</li><li>Ex: I helped homeless people.</li><li>Ex: She went to the hospital.</li></ul><p><strong>2. Phủ định và nghi vấn:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + didn't + V</li><li>Did + S + V?</li></ul>"
+            },
+            {
+              "heading": "3. Skills - Reading Passage 1: My Hobbies and Healthy Life",
+              "content": "<p><strong>A Balanced Life</strong></p><p>My name is Mai, and I'm 13 years old. I have many hobbies that keep me happy and healthy. My favourite hobby is cycling. I love cycling in the park every morning. It's relaxing and good for my health. I also enjoy reading books in my free time. Reading helps me learn new things and reduces stress.</p><p>I try to live a healthy life. Every day, I exercise for 30 minutes. I eat lots of vegetables and fruits because they have many vitamins. I drink enough water and get 8 hours of sleep every night. I avoid junk food because it's bad for health. My mother always says, 'You should eat healthy food and exercise regularly.'</p><p>Last month, I started a new hobby - gardening. I planted some vegetables in our garden. It was hard work, but I enjoyed it. Gardening is creative and helps me stay active. Now I have fresh vegetables to eat!</p><p>I believe that having hobbies and living healthily make life better. When I do things I enjoy and take care of my health, I feel happy and energetic.</p>"
+            },
+            {
+              "heading": "4. Skills - Reading Passage 2: Our Community Service Project",
+              "content": "<p><strong>Helping Our Community</strong></p><p>Last Saturday, our class did a community service project. We volunteered at a local nursing home for elderly people. It was a wonderful experience that I will never forget.</p><p>In the morning, we arrived at the nursing home at 9 o'clock. First, we cleaned up the garden and planted some flowers. The elderly people were very happy to see the beautiful flowers. Then, we went inside and talked with them. Some students sang songs, and others played games with the elderly people. I helped an old lady read a book because her eyes were weak.</p><p>At lunchtime, we provided food for everyone. We made sandwiches and served fruit. The elderly people enjoyed the meal very much. After lunch, we donated some books and clothes that we collected from our families.</p><p>Before we left, an old man said to us, 'Thank you for coming. You made our day special.' We felt very happy and proud. Volunteering taught us that helping others makes us feel good too. We learned that even small actions can make a big difference in people's lives.</p><p>Our teacher said we will do more community service projects this year. I can't wait to help again!</p>"
+            },
+            {
+              "heading": "5. Skills - Practice Exercises",
+              "content": "<p><strong>Based on Reading Passage 1 (My Hobbies and Healthy Life):</strong></p><p>Answer these questions:</p><ol class='list-decimal pl-5 space-y-2'><li>What is Mai's favourite hobby?</li><li>Why does Mai enjoy reading books?</li><li>What does Mai do to stay healthy?</li><li>What new hobby did Mai start last month?</li></ol><p><strong>Based on Reading Passage 2 (Our Community Service Project):</strong></p><p>Answer these questions:</p><ol class='list-decimal pl-5 space-y-2'><li>Where did the class volunteer?</li><li>What did they do in the morning?</li><li>What did they provide at lunchtime?</li><li>What did the students learn from volunteering?</li></ol>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Thì hiện tại đơn và V-ing",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hiện tại đơn: S + V(s/es)</li><li>Verbs of liking + V-ing</li></ul>",
+            "examples": [
+              {
+                "question": "She ______ (collect) stamps. She ______ (enjoy) it.",
+                "solution": "She <strong>collects</strong> stamps. She <strong>enjoys</strong> it.",
+                "explanation": "She (ngôi thứ 3) → collects, enjoys."
+              },
+              {
+                "question": "I like ______ (read) books.",
+                "solution": "I like <strong>reading</strong> books.",
+                "explanation": "Like + V-ing → reading."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Câu đơn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu đơn: S + V (+ O/C)</li><li>Chỉ có một mệnh đề</li></ul>",
+            "examples": [
+              {
+                "question": "Write a simple sentence about exercise.",
+                "solution": "<strong>I exercise every day.</strong>",
+                "explanation": "Câu đơn: S + V + trạng ngữ."
+              },
+              {
+                "question": "Which is a simple sentence? A) I exercise. B) I exercise, but she doesn't.",
+                "solution": "<strong>A) I exercise.</strong>",
+                "explanation": "Câu A là câu đơn (một mệnh đề)."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Thì quá khứ đơn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + V-ed/V2</li><li>Phủ định: didn't + V</li><li>Nghi vấn: Did + S + V?</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (help) homeless people last week.",
+                "solution": "I <strong>helped</strong> homeless people last week.",
+                "explanation": "Thì quá khứ đơn: helped."
+              },
+              {
+                "question": "She ______ (go) to the hospital yesterday.",
+                "solution": "She <strong>went</strong> to the hospital yesterday.",
+                "explanation": "Go → went (bất quy tắc)."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Phân biệt hiện tại và quá khứ",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hiện tại: every day, always, usually</li><li>Quá khứ: yesterday, last week, ago</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (volunteer) every week.",
+                "solution": "I <strong>volunteer</strong> every week.",
+                "explanation": "Every week → hiện tại đơn."
+              },
+              {
+                "question": "I ______ (volunteer) last week.",
+                "solution": "I <strong>volunteered</strong> last week.",
+                "explanation": "Last week → quá khứ đơn."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "She ______ stamps every week.",
+            "options": ["collect", "collects", "collecting", "collected"],
+            "correct": 1,
+            "explanation": "She (ngôi thứ 3) + hiện tại đơn → collects."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "I like ______ books.",
+            "options": ["read", "reads", "reading", "to reading"],
+            "correct": 2,
+            "explanation": "Like + V-ing → reading."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "You should ______ every day.",
+            "options": ["exercise", "exercises", "exercising", "exercised"],
+            "correct": 0,
+            "explanation": "Should + V nguyên mẫu → exercise."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I ______ homeless people last week.",
+            "options": ["help", "helps", "helping", "helped"],
+            "correct": 3,
+            "explanation": "Last week → quá khứ đơn → helped."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She ______ to the hospital yesterday.",
+            "options": ["go", "goes", "went", "going"],
+            "correct": 2,
+            "explanation": "Yesterday → quá khứ, go → went."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "They enjoy ______ flowers.",
+            "options": ["arrange", "arranges", "arranging", "arranged"],
+            "correct": 2,
+            "explanation": "Enjoy + V-ing → arranging."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "You shouldn't ______ junk food.",
+            "options": ["eat", "eats", "eating", "ate"],
+            "correct": 0,
+            "explanation": "Shouldn't + V nguyên mẫu → eat."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "We ______ books to children last month.",
+            "options": ["donate", "donates", "donating", "donated"],
+            "correct": 3,
+            "explanation": "Last month → quá khứ đơn → donated."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "He ______ painting.",
+            "options": ["love", "loves", "loving", "loved"],
+            "correct": 1,
+            "explanation": "He (ngôi thứ 3) + hiện tại đơn → loves."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______ you volunteer yesterday?",
+            "options": ["Do", "Does", "Did", "Are"],
+            "correct": 2,
+            "explanation": "Yesterday → quá khứ → Did."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "I ______ every morning.",
+            "options": ["jog", "jogs", "jogging", "jogged"],
+            "correct": 0,
+            "explanation": "I + hiện tại đơn → jog."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "She ______ vegetables every day.",
+            "options": ["eat", "eats", "eating", "ate"],
+            "correct": 1,
+            "explanation": "She (ngôi thứ 3) + hiện tại đơn → eats."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "We ______ the park yesterday.",
+            "options": ["clean up", "cleans up", "cleaning up", "cleaned up"],
+            "correct": 3,
+            "explanation": "Yesterday → quá khứ đơn → cleaned up."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "They prefer ______ to watching TV.",
+            "options": ["read", "reads", "reading", "to reading"],
+            "correct": 2,
+            "explanation": "Prefer + V-ing → reading."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "______ is good for health.",
+            "options": ["Exercise", "Exercises", "Exercising", "Exercised"],
+            "correct": 2,
+            "explanation": "Chủ ngữ là V-ing → Exercising."
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "I ______ volunteer last week.",
+            "options": ["don't", "didn't", "doesn't", "wasn't"],
+            "correct": 1,
+            "explanation": "Last week → quá khứ → didn't."
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "She hates ______ up late.",
+            "options": ["stay", "stays", "staying", "stayed"],
+            "correct": 2,
+            "explanation": "Hate + V-ing → staying."
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "We ______ trees last month.",
+            "options": ["plant", "plants", "planting", "planted"],
+            "correct": 3,
+            "explanation": "Last month → quá khứ đơn → planted."
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "He ______ models in his free time.",
+            "options": ["build", "builds", "building", "built"],
+            "correct": 1,
+            "explanation": "He (ngôi thứ 3) + hiện tại đơn → builds."
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "______ they donate books?",
+            "options": ["Do", "Does", "Did", "Are"],
+            "correct": 2,
+            "explanation": "Ngữ cảnh quá khứ → Did."
+          },
+          {
+            "id": "tf1",
+            "type": "true-false",
+            "question": "Mai's favourite hobby is reading books.",
+            "correct": false,
+            "explanation": "Sai. Bài đọc nói 'My favourite hobby is cycling'."
+          },
+          {
+            "id": "tf2",
+            "type": "true-false",
+            "question": "Mai exercises for 30 minutes every day.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'Every day, I exercise for 30 minutes'."
+          },
+          {
+            "id": "tf3",
+            "type": "true-false",
+            "question": "The class volunteered at a hospital.",
+            "correct": false,
+            "explanation": "Sai. Bài đọc nói 'We volunteered at a local nursing home'."
+          },
+          {
+            "id": "tf4",
+            "type": "true-false",
+            "question": "The students planted flowers in the garden.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'we cleaned up the garden and planted some flowers'."
+          },
+          {
+            "id": "tf5",
+            "type": "true-false",
+            "question": "Mai started gardening last year.",
+            "correct": false,
+            "explanation": "Sai. Bài đọc nói 'Last month, I started a new hobby - gardening'."
+          },
+          {
+            "id": "short1",
+            "type": "short-answer",
+            "question": "What is Mai's favourite hobby?",
+            "answer": "Cycling",
+            "explanation": "Bài đọc nói 'My favourite hobby is cycling'."
+          },
+          {
+            "id": "short2",
+            "type": "short-answer",
+            "question": "How many hours does Mai sleep every night?",
+            "answer": "8 hours",
+            "explanation": "Bài đọc nói 'I get 8 hours of sleep every night'."
+          },
+          {
+            "id": "short3",
+            "type": "short-answer",
+            "question": "Where did the class volunteer?",
+            "answer": "At a local nursing home",
+            "explanation": "Bài đọc nói 'We volunteered at a local nursing home'."
+          },
+          {
+            "id": "short4",
+            "type": "short-answer",
+            "question": "What did the students donate?",
+            "answer": "Books and clothes",
+            "explanation": "Bài đọc nói 'we donated some books and clothes'."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write about your hobby (50-70 words). Include: what it is, how often you do it, and why you like it.",
+            "sample_answer": "My hobby is reading books. I read books every day before I go to bed. I love reading because it helps me learn new things and relax after a busy day. My favourite books are adventure stories. Reading also improves my vocabulary and imagination. I think reading is a wonderful hobby that everyone should try.",
+            "explanation": "Bài viết cần bao gồm: sở thích, tần suất, và lý do thích."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Write about how to stay healthy (50-70 words). Give at least 3 pieces of advice.",
+            "sample_answer": "To stay healthy, you should do several things. First, you should exercise regularly. Exercise keeps you fit and strong. Second, you should eat healthy food like vegetables and fruits. They have many vitamins. Third, you should get enough sleep, about 8 hours a night. You shouldn't eat junk food or stay up late. If you follow this advice, you will be healthy.",
+            "explanation": "Bài viết cần đưa ra ít nhất 3 lời khuyên về sức khỏe."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Write about a volunteer activity you did (50-70 words). Use past simple tense.",
+            "sample_answer": "Last month, I volunteered at a local orphanage. I went there with my classmates on Saturday morning. We cleaned the rooms and played games with the children. We also donated some books and toys. The children were very happy. After that, we sang songs together. I felt very happy because I helped others. It was a wonderful experience. I want to volunteer again soon.",
+            "explanation": "Bài viết cần sử dụng thì quá khứ đơn để kể về hoạt động tình nguyện."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Write about your hobbies and how they help you stay healthy (50-70 words).",
+            "sample_answer": "I have two hobbies that help me stay healthy. My first hobby is cycling. I cycle in the park every morning. It's good exercise and makes me feel energetic. My second hobby is gardening. I plant vegetables in my garden on weekends. Gardening keeps me active and gives me fresh food to eat. Both hobbies are relaxing and good for my health. I enjoy doing them very much.",
+            "explanation": "Bài viết cần kết hợp sở thích và sức khỏe."
+          }
+        ]
+      }
+    }
+  ]
+}

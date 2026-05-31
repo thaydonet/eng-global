@@ -1,0 +1,199 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-8-p2",
+  "name": "Part 2: Language - Vocabulary",
+  "slug": "p2-vocabulary",
+  "description": "Từ vựng về động vật hoang dã và bảo tồn",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Vocabulary: Wildlife Conservation",
+      "sections": [
+        {
+          "heading": "1. Từ vựng (Vocabulary)",
+          "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Wildlife</td><td class='px-4 py-2'>(n) /ˈwaɪldlaɪf/</td><td class='px-4 py-2'>Động vật hoang dã</td><td class='px-4 py-2'>We must protect wildlife.</td></tr><tr><td class='px-4 py-2 font-bold'>Conservation</td><td class='px-4 py-2'>(n) /ˌkɒnsəˈveɪʃn/</td><td class='px-4 py-2'>Bảo tồn</td><td class='px-4 py-2'>Wildlife conservation is important.</td></tr><tr><td class='px-4 py-2 font-bold'>Endangered</td><td class='px-4 py-2'>(adj) /ɪnˈdeɪndʒəd/</td><td class='px-4 py-2'>Có nguy cơ tuyệt chủng</td><td class='px-4 py-2'>Tigers are endangered species.</td></tr><tr><td class='px-4 py-2 font-bold'>Extinct</td><td class='px-4 py-2'>(adj) /ɪkˈstɪŋkt/</td><td class='px-4 py-2'>Tuyệt chủng</td><td class='px-4 py-2'>Dinosaurs are extinct.</td></tr><tr><td class='px-4 py-2 font-bold'>Habitat</td><td class='px-4 py-2'>(n) /ˈhæbɪtæt/</td><td class='px-4 py-2'>Môi trường sống</td><td class='px-4 py-2'>Protect animal habitats.</td></tr><tr><td class='px-4 py-2 font-bold'>Poaching</td><td class='px-4 py-2'>(n) /ˈpəʊtʃɪŋ/</td><td class='px-4 py-2'>Săn bắt trái phép</td><td class='px-4 py-2'>Poaching threatens wildlife.</td></tr><tr><td class='px-4 py-2 font-bold'>Deforestation</td><td class='px-4 py-2'>(n) /diːˌfɒrɪˈsteɪʃn/</td><td class='px-4 py-2'>Phá rừng</td><td class='px-4 py-2'>Deforestation destroys habitats.</td></tr><tr><td class='px-4 py-2 font-bold'>Biodiversity</td><td class='px-4 py-2'>(n) /ˌbaɪəʊdaɪˈvɜːsəti/</td><td class='px-4 py-2'>Đa dạng sinh học</td><td class='px-4 py-2'>Biodiversity is declining.</td></tr><tr><td class='px-4 py-2 font-bold'>Ecosystem</td><td class='px-4 py-2'>(n) /ˈiːkəʊsɪstəm/</td><td class='px-4 py-2'>Hệ sinh thái</td><td class='px-4 py-2'>Protect the ecosystem.</td></tr><tr><td class='px-4 py-2 font-bold'>Species</td><td class='px-4 py-2'>(n) /ˈspiːʃiːz/</td><td class='px-4 py-2'>Loài</td><td class='px-4 py-2'>Many species are at risk.</td></tr><tr><td class='px-4 py-2 font-bold'>Preserve</td><td class='px-4 py-2'>(v) /prɪˈzɜːv/</td><td class='px-4 py-2'>Bảo vệ, gìn giữ</td><td class='px-4 py-2'>We must preserve nature.</td></tr><tr><td class='px-4 py-2 font-bold'>Protect</td><td class='px-4 py-2'>(v) /prəˈtekt/</td><td class='px-4 py-2'>Bảo vệ</td><td class='px-4 py-2'>Protect endangered animals.</td></tr><tr><td class='px-4 py-2 font-bold'>Threaten</td><td class='px-4 py-2'>(v) /ˈθretn/</td><td class='px-4 py-2'>Đe dọa</td><td class='px-4 py-2'>Pollution threatens wildlife.</td></tr><tr><td class='px-4 py-2 font-bold'>Sustainable</td><td class='px-4 py-2'>(adj) /səˈsteɪnəbl/</td><td class='px-4 py-2'>Bền vững</td><td class='px-4 py-2'>Sustainable development is key.</td></tr><tr><td class='px-4 py-2 font-bold'>Sanctuary</td><td class='px-4 py-2'>(n) /ˈsæŋktʃuəri/</td><td class='px-4 py-2'>Khu bảo tồn</td><td class='px-4 py-2'>Wildlife sanctuary protects animals.</td></tr><tr><td class='px-4 py-2 font-bold'>Captivity</td><td class='px-4 py-2'>(n) /kæpˈtɪvəti/</td><td class='px-4 py-2'>Nuôi nhốt</td><td class='px-4 py-2'>Breed animals in captivity.</td></tr></tbody></table></div>"
+        },
+        {
+          "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+          "content": "<p><strong>Conservation Terms (Thuật ngữ bảo tồn):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>wildlife conservation:</strong> bảo tồn động vật hoang dã</li><li><strong>endangered species:</strong> loài có nguy cơ tuyệt chủng</li><li><strong>extinct species:</strong> loài đã tuyệt chủng</li><li><strong>threatened species:</strong> loài bị đe dọa</li><li><strong>protected area:</strong> khu vực được bảo vệ</li><li><strong>wildlife sanctuary:</strong> khu bảo tồn động vật hoang dã</li><li><strong>national park:</strong> vườn quốc gia</li><li><strong>nature reserve:</strong> khu bảo tồn thiên nhiên</li></ul><p><strong>Threats to Wildlife (Mối đe dọa):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>poaching:</strong> săn bắt trái phép</li><li><strong>illegal hunting:</strong> săn bắn bất hợp pháp</li><li><strong>habitat loss:</strong> mất môi trường sống</li><li><strong>deforestation:</strong> phá rừng</li><li><strong>climate change:</strong> biến đổi khí hậu</li><li><strong>pollution:</strong> ô nhiễm</li><li><strong>overfishing:</strong> đánh bắt cá quá mức</li><li><strong>illegal wildlife trade:</strong> buôn bán động vật hoang dã bất hợp pháp</li></ul><p><strong>Conservation Actions (Hành động bảo tồn):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>protect habitats:</strong> bảo vệ môi trường sống</li><li><strong>preserve biodiversity:</strong> bảo tồn đa dạng sinh học</li><li><strong>ban hunting:</strong> cấm săn bắn</li><li><strong>establish sanctuaries:</strong> thành lập khu bảo tồn</li><li><strong>breed in captivity:</strong> nhân giống trong điều kiện nuôi nhốt</li><li><strong>reintroduce to the wild:</strong> tái thả về tự nhiên</li><li><strong>raise awareness:</strong> nâng cao nhận thức</li><li><strong>enforce laws:</strong> thực thi luật pháp</li></ul><p><strong>Animals and Habitats (Động vật và môi trường):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>mammals:</strong> động vật có vú (tigers, elephants, rhinos)</li><li><strong>birds:</strong> chim (eagles, parrots)</li><li><strong>reptiles:</strong> bò sát (turtles, crocodiles)</li><li><strong>marine life:</strong> sinh vật biển (whales, dolphins)</li><li><strong>rainforest:</strong> rừng mưa nhiệt đới</li><li><strong>savanna:</strong> thảo nguyên</li><li><strong>wetland:</strong> vùng đất ngập nước</li><li><strong>coral reef:</strong> rạn san hô</li></ul><p><strong>Collocations:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>protect endangered species:</strong> bảo vệ loài có nguy cơ tuyệt chủng</li><li><strong>preserve natural habitats:</strong> bảo tồn môi trường sống tự nhiên</li><li><strong>prevent extinction:</strong> ngăn chặn tuyệt chủng</li><li><strong>combat poaching:</strong> chống săn bắt trái phép</li><li><strong>restore ecosystems:</strong> phục hồi hệ sinh thái</li><li><strong>promote sustainable practices:</strong> thúc đẩy thực hành bền vững</li></ul>"
+        },
+        {
+          "heading": "3. Ngữ âm: Sentence stress in conditional clauses",
+          "content": "<h3>Stress in conditional clauses</h3><p><strong>Quy tắc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Main clause:</strong> Nhấn vào động từ chính và từ quan trọng</li><li>Ex: Animals will <strong>SURVIVE</strong> if we <strong>PROTECT</strong> them.</li><li><strong>If-clause:</strong> Nhấn vào động từ và điều kiện</li><li>Ex: <strong>IF</strong> we <strong>STOP</strong> poaching, species will <strong>RECOVER</strong>.</li><li><strong>Unless-clause:</strong> Nhấn mạnh 'unless' và động từ</li><li>Ex: <strong>UNLESS</strong> we <strong>ACT</strong>, animals will <strong>DIE</strong>.</li><li><strong>Content words (nhấn):</strong> nouns, main verbs, adjectives</li><li><strong>Function words (không nhấn):</strong> articles, prepositions, conjunctions</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "vocab-ex1",
+        "type": "mcq",
+        "question": "Choose the correct word: 'Tigers are _____ species.'",
+        "options": ["danger", "endangered", "dangerous", "endanger"],
+        "correct": 1,
+        "explanation": "'Endangered' (adj) nghĩa là có nguy cơ tuyệt chủng."
+      },
+      {
+        "id": "vocab-ex2",
+        "type": "mcq",
+        "question": "What does 'poaching' mean?",
+        "options": ["Legal hunting", "Illegal hunting", "Protecting animals", "Feeding animals"],
+        "correct": 1,
+        "explanation": "Poaching là săn bắt trái phép, bất hợp pháp."
+      },
+      {
+        "id": "vocab-ex3",
+        "type": "mcq",
+        "question": "Complete: 'We must protect animal _____.'",
+        "options": ["habitat", "habitats", "habitation", "habitable"],
+        "correct": 1,
+        "explanation": "'Habitats' (số nhiều) là môi trường sống của động vật."
+      },
+      {
+        "id": "vocab-ex4",
+        "type": "mcq",
+        "question": "What is 'biodiversity'?",
+        "options": ["One species", "Variety of life forms", "Extinction", "Pollution"],
+        "correct": 1,
+        "explanation": "Biodiversity là đa dạng sinh học, sự đa dạng của các loài."
+      },
+      {
+        "id": "vocab-ex5",
+        "type": "mcq",
+        "question": "What does 'extinct' mean?",
+        "options": ["Alive", "No longer existing", "Endangered", "Protected"],
+        "correct": 1,
+        "explanation": "'Extinct' nghĩa là tuyệt chủng, không còn tồn tại."
+      },
+      {
+        "id": "vocab-ex6",
+        "type": "mcq",
+        "question": "Complete: 'We should _____ endangered animals.'",
+        "options": ["protection", "protect", "protective", "protector"],
+        "correct": 1,
+        "explanation": "'Protect' (v) là động từ đúng sau 'should'."
+      },
+      {
+        "id": "vocab-ex7",
+        "type": "mcq",
+        "question": "What is 'deforestation'?",
+        "options": ["Planting trees", "Cutting down forests", "Protecting forests", "Growing forests"],
+        "correct": 1,
+        "explanation": "Deforestation là phá rừng, chặt phá rừng."
+      },
+      {
+        "id": "vocab-ex8",
+        "type": "mcq",
+        "question": "Choose the correct form: 'Pollution _____ wildlife.'",
+        "options": ["threat", "threatens", "threatening", "threatened"],
+        "correct": 1,
+        "explanation": "'Threatens' là động từ ngôi thứ 3 số ít phù hợp với 'Pollution'."
+      },
+      {
+        "id": "vocab-ex9",
+        "type": "mcq",
+        "question": "What is a 'sanctuary'?",
+        "options": ["A zoo", "A protected area for wildlife", "A farm", "A pet shop"],
+        "correct": 1,
+        "explanation": "Sanctuary là khu bảo tồn, khu vực được bảo vệ cho động vật hoang dã."
+      },
+      {
+        "id": "vocab-ex10",
+        "type": "mcq",
+        "question": "Complete: 'We need _____ development.'",
+        "options": ["sustain", "sustainable", "sustainability", "sustained"],
+        "correct": 1,
+        "explanation": "'Sustainable' (adj) nghĩa là bền vững."
+      },
+      {
+        "id": "vocab-ex11",
+        "type": "mcq",
+        "question": "What does 'preserve' mean?",
+        "options": ["To destroy", "To protect and maintain", "To ignore", "To sell"],
+        "correct": 1,
+        "explanation": "'Preserve' nghĩa là bảo vệ và duy trì, gìn giữ."
+      },
+      {
+        "id": "vocab-ex12",
+        "type": "mcq",
+        "question": "Complete: 'Many _____ are at risk of extinction.'",
+        "options": ["specie", "species", "special", "specify"],
+        "correct": 1,
+        "explanation": "'Species' (số nhiều giống số ít) nghĩa là loài."
+      },
+      {
+        "id": "vocab-ex13",
+        "type": "mcq",
+        "question": "What is an 'ecosystem'?",
+        "options": ["A single animal", "A system of living things and their environment", "A building", "A machine"],
+        "correct": 1,
+        "explanation": "Ecosystem là hệ sinh thái, hệ thống sinh vật và môi trường."
+      },
+      {
+        "id": "vocab-ex14",
+        "type": "mcq",
+        "question": "Choose the correct collocation: '_____ extinction'",
+        "options": ["make", "do", "prevent", "take"],
+        "correct": 2,
+        "explanation": "'Prevent extinction' là cụm từ đúng nghĩa là ngăn chặn tuyệt chủng."
+      },
+      {
+        "id": "vocab-ex15",
+        "type": "mcq",
+        "question": "What is a major threat to wildlife?",
+        "options": ["Conservation", "Habitat loss", "Protection", "Sanctuaries"],
+        "correct": 1,
+        "explanation": "Habitat loss (mất môi trường sống) là mối đe dọa lớn."
+      },
+      {
+        "id": "vocab-ex16",
+        "type": "msq",
+        "question_text": "Decide True or False:",
+        "options": [
+          "'Endangered' means at risk of extinction.",
+          "'Poaching' is legal hunting.",
+          "'Habitat' is the natural living environment.",
+          "'Extinct' means still alive."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Endangered là có nguy cơ tuyệt chủng. b) False - Poaching là săn bắt trái phép. c) True - Habitat là môi trường sống. d) False - Extinct là tuyệt chủng."
+      },
+      {
+        "id": "vocab-ex17",
+        "type": "msq",
+        "question_text": "Match the words with meanings (True if correct):",
+        "options": [
+          "Conservation = protection of nature",
+          "Deforestation = planting trees",
+          "Biodiversity = variety of life",
+          "Sanctuary = a shopping mall"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Conservation là bảo tồn. b) False - Deforestation là phá rừng. c) True - Biodiversity là đa dạng sinh học. d) False - Sanctuary là khu bảo tồn."
+      },
+      {
+        "id": "vocab-ex18",
+        "type": "sa",
+        "question_text": "Complete: Animals at risk of extinction are _____. (one word)",
+        "correct": "endangered",
+        "explanation": "Endangered species - loài có nguy cơ tuyệt chủng."
+      },
+      {
+        "id": "vocab-ex19",
+        "type": "sa",
+        "question_text": "Fill in: Illegal hunting is called _____. (one word)",
+        "correct": "poaching",
+        "explanation": "Poaching - săn bắt trái phép."
+      },
+      {
+        "id": "vocab-ex20",
+        "type": "sa",
+        "question_text": "Complete the collocation: protect _____ species (one word)",
+        "correct": "endangered",
+        "explanation": "'Protect endangered species' - bảo vệ loài có nguy cơ tuyệt chủng."
+      }
+    ]
+  }
+}

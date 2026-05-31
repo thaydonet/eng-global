@@ -1,0 +1,214 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-10-p1",
+  "name": "Part 1: Getting Started",
+  "slug": "p1-getting-started",
+  "description": "Giới thiệu chủ đề về học tập suốt đời",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Getting Started: Lifelong Learning",
+      "sections": [
+        {
+          "heading": "1. Tóm tắt lý thuyết",
+          "content": "<div class='bg-gradient-to-r from-purple-50 to-pink-50 dark:from-purple-900/20 dark:to-pink-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-purple-900 dark:text-purple-300'>📚 Học tập suốt đời - Lifelong Learning</h3><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-purple-700 dark:text-purple-400 mb-3'>Khái niệm chính:</h4><ul class='list-disc pl-6 space-y-2'><li><strong>Lifelong Learning:</strong> Học tập suốt đời - quá trình học tập liên tục trong suốt cuộc đời</li><li><strong>Self-directed Learning:</strong> Tự học có định hướng - tự chủ trong việc học</li><li><strong>Online Learning:</strong> Học trực tuyến - học qua internet</li><li><strong>Professional Development:</strong> Phát triển chuyên môn - nâng cao kỹ năng nghề nghiệp</li><li><strong>Continuous Education:</strong> Giáo dục liên tục - không ngừng học hỏi</li></ul></div><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-pink-700 dark:text-pink-400 mb-3'>Lợi ích của học tập suốt đời:</h4><ol class='list-decimal pl-6 space-y-1'><li>Career advancement (Thăng tiến nghề nghiệp)</li><li>Personal growth (Phát triển bản thân)</li><li>Adaptability (Khả năng thích nghi)</li><li>Increased confidence (Tăng sự tự tin)</li><li>Better opportunities (Cơ hội tốt hơn)</li><li>Mental stimulation (Kích thích trí óc)</li><li>Social connections (Kết nối xã hội)</li></ol></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ về Lifelong Learning",
+          "content": "<div class='space-y-4'><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg border-l-4 border-purple-500'><p class='font-bold text-purple-800 dark:text-purple-300 mb-3'>Example 1: Online Learning Platforms</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> My teacher told me to explore online learning platforms like Coursera and edX. She advised me to start with beginner courses and recommended that I should dedicate at least one hour daily to learning. She also suggested joining study groups to stay motivated. My mentor offered to help me choose suitable courses and volunteered to review my progress monthly. He asked me not to give up when facing difficulties and encouraged me to celebrate small achievements. The course instructor ordered us to complete all assignments on time and requested that we participate actively in discussions. This structured approach helped me develop new skills systematically.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Giáo viên của tôi bảo tôi khám phá các nền tảng học trực tuyến như Coursera và edX. Cô ấy khuyên tôi bắt đầu với các khóa học dành cho người mới bắt đầu và đề nghị rằng tôi nên dành ít nhất một giờ mỗi ngày để học. Cô ấy cũng gợi ý tham gia các nhóm học tập để duy trì động lực. Người cố vấn của tôi đề nghị giúp tôi chọn các khóa học phù hợp và tự nguyện xem xét tiến độ của tôi hàng tháng. Ông ấy yêu cầu tôi đừng bỏ cuộc khi gặp khó khăn và khuyến khích tôi ăn mừng những thành tích nhỏ. Giảng viên khóa học ra lệnh chúng tôi hoàn thành tất cả bài tập đúng hạn và yêu cầu chúng tôi tham gia tích cực vào các cuộc thảo luận. Cách tiếp cận có cấu trúc này đã giúp tôi phát triển kỹ năng mới một cách có hệ thống.</p></div></div><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg border-l-4 border-blue-500'><p class='font-bold text-blue-800 dark:text-blue-300 mb-3'>Example 2: Professional Certifications</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> My manager told me to obtain professional certifications to advance my career. He advised me to research industry-recognized credentials and recommended that I should prioritize certifications relevant to my field. He offered to cover the course fees and suggested that I take the exam within six months. The training coordinator asked me to attend all workshop sessions and requested that I submit practice assignments weekly. She warned me not to underestimate the difficulty of the certification exam and encouraged me to form study partnerships with colleagues. My supervisor volunteered to provide study materials and offered to conduct mock interviews to prepare me for the practical assessment.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Quản lý của tôi bảo tôi lấy chứng chỉ chuyên môn để thăng tiến trong sự nghiệp. Ông ấy khuyên tôi nghiên cứu các chứng chỉ được công nhận trong ngành và đề nghị rằng tôi nên ưu tiên các chứng chỉ liên quan đến lĩnh vực của mình. Ông ấy đề nghị chi trả học phí và gợi ý rằng tôi nên thi trong vòng sáu tháng. Điều phối viên đào tạo yêu cầu tôi tham dự tất cả các buổi hội thảo và yêu cầu tôi nộp bài tập thực hành hàng tuần. Cô ấy cảnh báo tôi đừng đánh giá thấp độ khó của kỳ thi chứng chỉ và khuyến khích tôi hình thành quan hệ đối tác học tập với đồng nghiệp. Giám sát viên của tôi tự nguyện cung cấp tài liệu học tập và đề nghị tiến hành phỏng vấn thử để chuẩn bị cho tôi đánh giá thực hành.</p></div></div><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg border-l-4 border-green-500'><p class='font-bold text-green-800 dark:text-green-300 mb-3'>Example 3: Language Learning Journey</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> My language teacher told me to practice speaking every day, even if just for 15 minutes. She advised me to watch movies in the target language with subtitles and recommended that I should join language exchange programs. She suggested using language learning apps like Duolingo and Babbel for daily practice. My conversation partner offered to meet twice weekly for practice sessions and volunteered to correct my pronunciation errors. The teacher asked me not to be afraid of making mistakes and encouraged me to embrace errors as learning opportunities. She ordered us to keep vocabulary journals and requested that we write short essays weekly. This comprehensive approach significantly improved my language proficiency.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Giáo viên ngôn ngữ của tôi bảo tôi luyện nói mỗi ngày, dù chỉ 15 phút. Cô ấy khuyên tôi xem phim bằng ngôn ngữ mục tiêu có phụ đề và đề nghị rằng tôi nên tham gia các chương trình trao đổi ngôn ngữ. Cô ấy gợi ý sử dụng các ứng dụng học ngôn ngữ như Duolingo và Babbel để luyện tập hàng ngày. Đối tác hội thoại của tôi đề nghị gặp hai lần mỗi tuần để luyện tập và tự nguyện sửa lỗi phát âm của tôi. Giáo viên yêu cầu tôi đừng sợ mắc lỗi và khuyến khích tôi coi lỗi là cơ hội học tập. Cô ấy ra lệnh chúng tôi giữ nhật ký từ vựng và yêu cầu chúng tôi viết bài luận ngắn hàng tuần. Cách tiếp cận toàn diện này đã cải thiện đáng kể trình độ ngôn ngữ của tôi.</p></div></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg border-l-4 border-orange-500'><p class='font-bold text-orange-800 dark:text-orange-300 mb-3'>Example 4: Digital Skills Development</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> The IT director told our team to update our digital skills regularly to stay competitive. He advised us to learn programming languages like Python and JavaScript and recommended that we should complete at least one technical course per quarter. He offered to provide access to premium learning platforms and suggested that we dedicate Friday afternoons to skill development. The training manager asked us to share our learning progress in monthly meetings and requested that we mentor junior colleagues. She warned us not to neglect soft skills while focusing on technical abilities and encouraged us to develop both. My team leader volunteered to organize coding workshops and offered to review our projects. This initiative created a culture of continuous learning in our department.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Giám đốc IT bảo nhóm của chúng tôi cập nhật kỹ năng số thường xuyên để duy trì tính cạnh tranh. Ông ấy khuyên chúng tôi học các ngôn ngữ lập trình như Python và JavaScript và đề nghị rằng chúng tôi nên hoàn thành ít nhất một khóa học kỹ thuật mỗi quý. Ông ấy đề nghị cung cấp quyền truy cập vào các nền tảng học tập cao cấp và gợi ý rằng chúng tôi nên dành chiều thứ Sáu để phát triển kỹ năng. Quản lý đào tạo yêu cầu chúng tôi chia sẻ tiến độ học tập trong các cuộc họp hàng tháng và yêu cầu chúng tôi hướng dẫn đồng nghiệp mới. Cô ấy cảnh báo chúng tôi đừng bỏ qua kỹ năng mềm khi tập trung vào khả năng kỹ thuật và khuyến khích chúng tôi phát triển cả hai. Trưởng nhóm của tôi tự nguyện tổ chức các buổi hội thảo lập trình và đề nghị xem xét các dự án của chúng tôi. Sáng kiến này đã tạo ra văn hóa học tập liên tục trong phòng ban của chúng tôi.</p></div></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg border-l-4 border-pink-500'><p class='font-bold text-pink-800 dark:text-pink-300 mb-3'>Example 5: Personal Development Through MOOCs</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> My career counselor told me to explore MOOCs (Massive Open Online Courses) for personal development. She advised me to start with courses from top universities on platforms like Coursera and edX and recommended that I should focus on subjects that complement my career goals. She suggested creating a learning schedule to maintain consistency and offered to help me identify my learning style. The course facilitator asked us to engage with fellow learners in discussion forums and requested that we complete peer-reviewed assignments. He warned us not to enroll in too many courses simultaneously and encouraged us to finish what we start. My study buddy volunteered to keep me accountable and offered to discuss course materials weekly. This structured approach to MOOCs transformed my approach to lifelong learning and opened doors to new opportunities.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Cố vấn nghề nghiệp của tôi bảo tôi khám phá MOOC (Khóa học Trực tuyến Mở Đại chúng) để phát triển bản thân. Cô ấy khuyên tôi bắt đầu với các khóa học từ các trường đại học hàng đầu trên các nền tảng như Coursera và edX và đề nghị rằng tôi nên tập trung vào các môn học bổ sung cho mục tiêu nghề nghiệp của mình. Cô ấy gợi ý tạo lịch học để duy trì tính nhất quán và đề nghị giúp tôi xác định phong cách học tập của mình. Người hướng dẫn khóa học yêu cầu chúng tôi tương tác với những người học khác trong diễn đàn thảo luận và yêu cầu chúng tôi hoàn thành các bài tập được đánh giá ngang hàng. Ông ấy cảnh báo chúng tôi đừng đăng ký quá nhiều khóa học cùng lúc và khuyến khích chúng tôi hoàn thành những gì chúng tôi bắt đầu. Bạn học của tôi tự nguyện giữ tôi có trách nhiệm và đề nghị thảo luận tài liệu khóa học hàng tuần. Cách tiếp cận có cấu trúc này đối với MOOC đã biến đổi cách tiếp cận của tôi đối với học tập suốt đời và mở ra cánh cửa cho những cơ hội mới.</p></div></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p1-ex1",
+        "type": "mcq",
+        "question": "What is 'lifelong learning'?",
+        "options": ["Learning only in school", "Continuous learning throughout life", "Learning only when young", "Avoiding education"],
+        "correct": 1,
+        "explanation": "Lifelong learning là học tập liên tục trong suốt cuộc đời."
+      },
+      {
+        "id": "p1-ex2",
+        "type": "mcq",
+        "question": "In Example 1, what did the teacher tell the student to do?",
+        "options": ["Stop learning", "Explore online learning platforms", "Avoid online courses", "Give up studying"],
+        "correct": 1,
+        "explanation": "Giáo viên bảo học sinh khám phá các nền tảng học trực tuyến."
+      },
+      {
+        "id": "p1-ex3",
+        "type": "mcq",
+        "question": "What does 'advised' mean in reported speech?",
+        "options": ["Ordered", "Gave advice or recommendation", "Refused", "Ignored"],
+        "correct": 1,
+        "explanation": "'Advised' nghĩa là đưa ra lời khuyên hoặc đề xuất."
+      },
+      {
+        "id": "p1-ex4",
+        "type": "mcq",
+        "question": "In Example 2, what did the manager offer to do?",
+        "options": ["Nothing", "Cover the course fees", "Fire the employee", "Cancel training"],
+        "correct": 1,
+        "explanation": "Quản lý đề nghị chi trả học phí khóa học."
+      },
+      {
+        "id": "p1-ex5",
+        "type": "mcq",
+        "question": "What is a MOOC?",
+        "options": ["A type of book", "Massive Open Online Course", "A building", "A test"],
+        "correct": 1,
+        "explanation": "MOOC là Massive Open Online Course - Khóa học Trực tuyến Mở Đại chúng."
+      },
+      {
+        "id": "p1-ex6",
+        "type": "mcq",
+        "question": "In Example 3, what did the teacher ask the student NOT to do?",
+        "options": ["Practice speaking", "Be afraid of making mistakes", "Watch movies", "Join programs"],
+        "correct": 1,
+        "explanation": "Giáo viên yêu cầu học sinh đừng sợ mắc lỗi."
+      },
+      {
+        "id": "p1-ex7",
+        "type": "mcq",
+        "question": "What does 'volunteered' mean?",
+        "options": ["Refused", "Offered to do something willingly", "Was forced", "Complained"],
+        "correct": 1,
+        "explanation": "'Volunteered' nghĩa là tự nguyện, đề nghị làm gì đó một cách tự nguyện."
+      },
+      {
+        "id": "p1-ex8",
+        "type": "mcq",
+        "question": "According to Example 4, what did the IT director recommend?",
+        "options": ["Stop learning", "Learn programming languages", "Avoid technology", "Quit jobs"],
+        "correct": 1,
+        "explanation": "Giám đốc IT đề nghị học các ngôn ngữ lập trình."
+      },
+      {
+        "id": "p1-ex9",
+        "type": "mcq",
+        "question": "What is one benefit of lifelong learning mentioned?",
+        "options": ["Wasting time", "Career advancement", "Becoming lazy", "Avoiding work"],
+        "correct": 1,
+        "explanation": "Một lợi ích là thăng tiến nghề nghiệp (career advancement)."
+      },
+      {
+        "id": "p1-ex10",
+        "type": "mcq",
+        "question": "In Example 5, what did the counselor suggest?",
+        "options": ["Give up learning", "Create a learning schedule", "Avoid MOOCs", "Stop studying"],
+        "correct": 1,
+        "explanation": "Cố vấn gợi ý tạo lịch học để duy trì tính nhất quán."
+      },
+      {
+        "id": "p1-ex11",
+        "type": "msq",
+        "question_text": "Decide if these statements are True or False:",
+        "options": [
+          "Lifelong learning means continuous learning throughout life.",
+          "Online platforms like Coursera offer learning opportunities.",
+          "Making mistakes should be avoided completely.",
+          "Professional certifications can help career advancement."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - Học tập suốt đời. b) True - Nền tảng trực tuyến cung cấp cơ hội học. c) False - Lỗi là cơ hội học tập. d) True - Chứng chỉ giúp thăng tiến."
+      },
+      {
+        "id": "p1-ex12",
+        "type": "msq",
+        "question_text": "Mark True or False about reported speech verbs:",
+        "options": [
+          "'Told' is used for commands.",
+          "'Advised' is used for giving advice.",
+          "'Offered' is used for refusing.",
+          "'Volunteered' means to offer willingly."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - Told dùng cho mệnh lệnh. b) True - Advised dùng cho lời khuyên. c) False - Offered là đề nghị. d) True - Volunteered là tự nguyện."
+      },
+      {
+        "id": "p1-ex13",
+        "type": "msq",
+        "question_text": "Based on the examples, decide True or False:",
+        "options": [
+          "Teachers can advise students to use online platforms.",
+          "Managers never support employee learning.",
+          "Language learning requires daily practice.",
+          "Digital skills are not important."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Giáo viên có thể khuyên học sinh. b) False - Quản lý hỗ trợ học tập. c) True - Học ngôn ngữ cần luyện tập hàng ngày. d) False - Kỹ năng số quan trọng."
+      },
+      {
+        "id": "p1-ex14",
+        "type": "sa",
+        "question_text": "Complete: Learning throughout life is called _____ learning. (one word)",
+        "correct": "lifelong",
+        "explanation": "Lifelong learning - học tập suốt đời."
+      },
+      {
+        "id": "p1-ex15",
+        "type": "sa",
+        "question_text": "Complete: MOOC stands for Massive Open _____ Course. (one word)",
+        "correct": "Online",
+        "explanation": "MOOC = Massive Open Online Course."
+      },
+      {
+        "id": "p1-ex16",
+        "type": "sa",
+        "question_text": "What verb means 'to give advice'? (one word)",
+        "correct": "advise",
+        "explanation": "'Advise' nghĩa là đưa ra lời khuyên."
+      },
+      {
+        "id": "p1-ex17",
+        "type": "sa",
+        "question_text": "What verb means 'to offer to do something willingly'? (one word)",
+        "correct": "volunteer",
+        "explanation": "'Volunteer' nghĩa là tự nguyện."
+      },
+      {
+        "id": "p1-ex18",
+        "type": "mcq",
+        "question": "What platforms were mentioned for online learning?",
+        "options": [
+          "Facebook and Instagram",
+          "Coursera and edX",
+          "Twitter and TikTok",
+          "YouTube only"
+        ],
+        "correct": 1,
+        "explanation": "Coursera và edX được đề cập là nền tảng học trực tuyến."
+      },
+      {
+        "id": "p1-ex19",
+        "type": "mcq",
+        "question": "According to the examples, what should learners NOT do?",
+        "options": [
+          "Practice daily",
+          "Enroll in too many courses at once",
+          "Join study groups",
+          "Seek mentors"
+        ],
+        "correct": 1,
+        "explanation": "Người học không nên đăng ký quá nhiều khóa học cùng lúc."
+      },
+      {
+        "id": "p1-ex20",
+        "type": "mcq",
+        "question": "What is one way to stay motivated in learning?",
+        "options": [
+          "Study alone always",
+          "Join study groups",
+          "Avoid all help",
+          "Never practice"
+        ],
+        "correct": 1,
+        "explanation": "Tham gia nhóm học tập giúp duy trì động lực."
+      }
+    ]
+  }
+}

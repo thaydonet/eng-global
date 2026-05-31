@@ -1,0 +1,409 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-review-2",
+      "name": "Review 2 (Units 4 - 6)",
+      "slug": "review-2-units-4-6",
+      "chapter": "Review 2 (Units 4 - 6)",
+      "chapter_id": "A11",
+      "lesson_id": 7,
+      "description": "Ôn tập từ vựng và ngữ pháp từ Unit 4, 5 và 6 (Tiếng Anh 11 - Global Success).",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-2-mixed",
+          "name": "Mixed Review",
+          "slug": "mixed-review",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 2: Units 4-6",
+          "sections": [
+            {
+              "heading": "I. Language - Ôn tập ngôn ngữ",
+              "content": "<h3>A. Pronunciation (Phát âm)</h3><p><strong>Unit 4:</strong> Elision of weak vowels before /l/, /n/, and /r/</p><ul class='list-disc pl-5 space-y-2'><li>Lược bỏ nguyên âm yếu trước /l/, /n/, /r/ trong cách phát âm tự nhiên</li><li>Ex: <strong>int(e)resting</strong> /ˈɪntrəstɪŋ/, <strong>diff(e)rent</strong> /ˈdɪfrənt/, <strong>choc(o)late</strong> /ˈtʃɒklət/</li><li>Ex: <strong>cam(e)ra</strong> /ˈkæmrə/, <strong>sev(e)ral</strong> /ˈsevrəl/, <strong>fam(i)ly</strong> /ˈfæmli/</li></ul><p><strong>Unit 5:</strong> Sentence stress in statements showing contrast</p><ul class='list-disc pl-5 space-y-2'><li>Nhấn mạnh từ tương phản trong câu</li><li>Ex: I want <strong>TEA</strong>, not <strong>COFFEE</strong>.</li><li>Ex: She's from <strong>THAILAND</strong>, not <strong>VIETNAM</strong>.</li></ul><p><strong>Unit 6:</strong> Intonation in statements, commands, and lists</p><ul class='list-disc pl-5 space-y-2'><li>Câu trần thuật và mệnh lệnh: giọng xuống ↘</li><li>Liệt kê: các mục đầu giọng lên nhẹ ↗, mục cuối giọng xuống ↘</li><li>Ex: Our class is going on a field trip. ↘</li><li>Ex: You can see caves ↗, valleys ↗, and mountains. ↘</li></ul><h3>B. Vocabulary (Từ vựng)</h3><p><strong>Unit 4: ASEAN and Vietnam</strong></p><ul class='list-disc pl-5 space-y-2'><li>ASEAN: member states, cooperation, regional, integration, bloc</li><li>Relations: relations, partnership, solidarity, charter, summit</li><li>Development: economy, trade, culture, education, security</li></ul><p><strong>Unit 5: Global Warming</strong></p><ul class='list-disc pl-5 space-y-2'><li>Climate: global warming, climate change, greenhouse gas, emissions</li><li>Effects: temperature, sea level, extreme weather, polar ice</li><li>Solutions: renewable energy, carbon footprint, reduce, recycle, sustainable</li></ul><p><strong>Unit 6: Preserving Our Heritage</strong></p><ul class='list-disc pl-5 space-y-2'><li>Heritage: heritage, preserve, restore, ancient, historical, folk</li><li>Sites: monument, landscape, architecture, temple, pagoda</li><li>Actions: appreciate, promote, awareness, protect, well-preserved</li></ul><h3>C. Grammar (Ngữ pháp)</h3><p><strong>Unit 4: Gerunds as subjects and objects</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Gerund as subject:</strong> V-ing + V(singular)</li><li>Ex: <strong>Learning</strong> English is important.</li><li><strong>Gerund as object:</strong> V + V-ing (enjoy, avoid, finish, suggest...)</li><li>Ex: I enjoy <strong>reading</strong> books.</li><li><strong>After prepositions:</strong> prep + V-ing</li><li>Ex: She's good at <strong>singing</strong>.</li></ul><p><strong>Unit 5: Present Participle and Past Participle Clauses</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Present Participle (V-ing):</strong> active meaning</li><li>Ex: The girl <strong>wearing</strong> a red dress is my sister. (= who is wearing)</li><li><strong>Past Participle (V3/ed):</strong> passive meaning</li><li>Ex: The book <strong>written</strong> by Nguyen Du is famous. (= which was written)</li><li>Rút gọn mệnh đề trạng ngữ: When/While/Because + V-ing/V3</li><li>Ex: <strong>Feeling</strong> tired, I went to bed early. (= Because I felt tired)</li></ul><p><strong>Unit 6: To-infinitive clauses</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Purpose:</strong> S + V + to-infinitive (để làm gì)</li><li>Ex: I went there <strong>to see</strong> the monuments.</li><li><strong>After ordinals:</strong> the first/second/last + N + to-V</li><li>Ex: She was the first <strong>to arrive</strong>.</li><li><strong>After superlatives:</strong> the best/most + N + to-V</li><li>Ex: This is the best place <strong>to visit</strong>.</li><li><strong>After next/last/only:</strong></li><li>Ex: The next thing <strong>to do</strong> is...</li></ul>"
+            },
+            {
+              "heading": "II. Skills - Ôn tập kỹ năng",
+              "content": "<h3>A. Reading (Đọc hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc lướt để nắm ý chính (skimming)</li><li>Đọc kỹ để tìm thông tin chi tiết (scanning)</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li><li>Hiểu ý chính và ý phụ của đoạn văn</li><li>Xác định thông tin đúng/sai</li><li>Suy luận và rút ra kết luận</li></ul><p><strong>Chủ đề đã đọc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>ASEAN and regional cooperation</li><li>Global warming causes and effects</li><li>Heritage preservation methods</li></ul><h3>B. Speaking (Nói)</h3><p><strong>Chủ đề đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Talking about ASEAN countries and cooperation</li><li>Discussing global warming and solutions</li><li>Talking about heritage sites and preservation</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I enjoy/avoid/finish + V-ing</li><li>Feeling/Being/Having done..., S + V</li><li>I went there to see/learn/visit...</li><li>The first/best/next thing to do is...</li><li>In my opinion... / I think/believe...</li></ul><h3>C. Listening (Nghe hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe để nắm ý chính</li><li>Nghe để tìm thông tin cụ thể</li><li>Điền thông tin còn thiếu (gap-filling)</li><li>Trả lời câu hỏi chi tiết</li><li>Ghi chú các ý quan trọng (note-taking)</li><li>Hiểu thái độ và ý kiến của người nói</li></ul><p><strong>Chủ đề đã nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Talks about ASEAN activities and events</li><li>Discussions about climate change impacts</li><li>Presentations about heritage sites</li></ul><h3>D. Writing (Viết)</h3><p><strong>Dạng bài đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Writing about ASEAN and its importance</li><li>Writing about causes and effects of global warming</li><li>Writing leaflets about heritage preservation</li></ul><p><strong>Kỹ năng viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tổ chức bài viết: Introduction - Body - Conclusion</li><li>Sử dụng từ nối: First/Firstly, Second/Secondly, Moreover, In addition, However, Therefore, Finally, In conclusion</li><li>Sử dụng gerunds, participle clauses, to-infinitive đúng cách</li><li>Viết câu đa dạng và mạch lạc</li><li>Sử dụng từ vựng phong phú và chính xác</li></ul><p><strong>Cấu trúc bài viết mẫu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Introduction:</strong> Giới thiệu chủ đề (1-2 câu)</li><li><strong>Body:</strong> Trình bày ý chính (2-3 đoạn với supporting details)</li><li><strong>Conclusion:</strong> Kết luận và nhấn mạnh ý chính (1-2 câu)</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Mixed Exercise",
+            "method": "<p>Review all grammar points and vocabulary from Units 4-6.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "ASEAN, the Association of Southeast Asian Nations, was established in 1967 to promote regional cooperation and integration. Today, ASEAN has ten member states: Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam. The organization plays a crucial role in maintaining peace, stability, and prosperity in Southeast Asia.\n\nASEAN cooperation covers many areas including economics, trade, culture, education, and security. Member countries work together to reduce trade barriers and promote economic growth. They also collaborate on addressing regional challenges such as climate change, natural disasters, and terrorism. Cultural exchanges and educational programs help strengthen understanding among ASEAN peoples.\n\nVietnam joined ASEAN in 1995 and has actively participated in regional activities. Being a member of ASEAN has brought many benefits to Vietnam, including increased trade opportunities, foreign investment, and international recognition. Vietnam has hosted several important ASEAN summits and events, demonstrating its commitment to regional cooperation. Looking forward, ASEAN aims to build a more integrated and prosperous community for all its members.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "ASEAN was established in 1967",
+                  "ASEAN promotes regional cooperation in Southeast Asia",
+                  "Vietnam joined ASEAN in 1995",
+                  "ASEAN has ten member states"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về vai trò của ASEAN trong việc thúc đẩy hợp tác khu vực ở Đông Nam Á."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "How many member states does ASEAN have?",
+                "options": [
+                  "Eight",
+                  "Nine",
+                  "Ten",
+                  "Eleven"
+                ],
+                "correct": 2,
+                "explanation": "ASEAN có 10 quốc gia thành viên."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'prosperity' in paragraph 1 is closest in meaning to ______.",
+                "options": [
+                  "poverty",
+                  "wealth and success",
+                  "difficulty",
+                  "conflict"
+                ],
+                "correct": 1,
+                "explanation": "Prosperity = wealth and success (sự thịnh vượng, giàu có và thành công)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "When did Vietnam join ASEAN?",
+                "options": [
+                  "1967",
+                  "1985",
+                  "1995",
+                  "2005"
+                ],
+                "correct": 2,
+                "explanation": "Việt Nam gia nhập ASEAN năm 1995."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, what benefits has Vietnam gained from ASEAN membership?",
+                "options": [
+                  "Only cultural exchanges",
+                  "Increased trade, investment, and recognition",
+                  "Only security cooperation",
+                  "No benefits mentioned"
+                ],
+                "correct": 1,
+                "explanation": "Việt Nam nhận được nhiều lợi ích bao gồm tăng cơ hội thương mại, đầu tư nước ngoài và sự công nhận quốc tế."
+              }
+            ]
+          },
+          {
+            "id": "reading2",
+            "type": "reading",
+            "passage": "Global warming is one of the most serious environmental challenges facing humanity today. Caused primarily by greenhouse gas emissions from human activities, global warming is leading to rising temperatures, melting polar ice, and extreme weather events around the world.\n\nThe main causes of global warming include burning fossil fuels for energy, deforestation, and industrial processes. When we burn coal, oil, and gas, we release carbon dioxide and other greenhouse gases into the atmosphere. These gases trap heat from the sun, causing the Earth's temperature to rise. Deforestation reduces the number of trees that can absorb carbon dioxide, making the problem worse.\n\nThe effects of global warming are already visible. Sea levels are rising, threatening coastal communities. Extreme weather events such as hurricanes, droughts, and floods are becoming more frequent and severe. Many plant and animal species are struggling to adapt to changing conditions. To address this crisis, we must reduce our carbon footprint by using renewable energy, protecting forests, and adopting sustainable practices. Every individual can contribute by reducing energy consumption, recycling, and supporting environmental policies.",
+            "questions": [
+              {
+                "id": "reading2-q1",
+                "question": "What is the passage mainly about?",
+                "options": [
+                  "The benefits of fossil fuels",
+                  "Global warming causes, effects, and solutions",
+                  "Why deforestation is good",
+                  "The history of climate change"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về nguyên nhân, tác động và giải pháp cho vấn đề nóng lên toàn cầu."
+              },
+              {
+                "id": "reading2-q2",
+                "question": "What is the primary cause of global warming?",
+                "options": [
+                  "Natural disasters",
+                  "Greenhouse gas emissions from human activities",
+                  "Too much rain",
+                  "Animal migration"
+                ],
+                "correct": 1,
+                "explanation": "Nguyên nhân chính của nóng lên toàn cầu là khí thải nhà kính từ hoạt động của con người."
+              },
+              {
+                "id": "reading2-q3",
+                "question": "The word 'trap' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "release",
+                  "catch and hold",
+                  "free",
+                  "ignore"
+                ],
+                "correct": 1,
+                "explanation": "Trap = catch and hold (giữ lại, bẫy)."
+              },
+              {
+                "id": "reading2-q4",
+                "question": "Which of the following is NOT mentioned as an effect of global warming?",
+                "options": [
+                  "Rising sea levels",
+                  "Extreme weather events",
+                  "Increased rainfall everywhere",
+                  "Species struggling to adapt"
+                ],
+                "correct": 2,
+                "explanation": "Tăng lượng mưa ở khắp nơi không được đề cập trong bài."
+              },
+              {
+                "id": "reading2-q5",
+                "question": "What can individuals do to help address global warming?",
+                "options": [
+                  "Use more fossil fuels",
+                  "Cut down more trees",
+                  "Reduce energy consumption and recycle",
+                  "Ignore environmental policies"
+                ],
+                "correct": 2,
+                "explanation": "Cá nhân có thể giúp giải quyết nóng lên toàn cầu bằng cách giảm tiêu thụ năng lượng và tái chế."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ English is essential for ASEAN integration.",
+            "options": ["Learn", "Learning", "To learn", "Learned"],
+            "correct": 1,
+            "explanation": "Gerund làm chủ ngữ: Learning (V-ing) + V(singular)."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The book ______ by that author is very popular in ASEAN countries.",
+            "options": ["writing", "written", "wrote", "to write"],
+            "correct": 1,
+            "explanation": "Past participle (written) có nghĩa bị động: cuốn sách được viết bởi tác giả đó."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "We went to Trang An ______ the beautiful landscape.",
+            "options": ["seeing", "to see", "see", "saw"],
+            "correct": 1,
+            "explanation": "To-infinitive diễn tả mục đích: đi để xem."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I enjoy ______ about different cultures in ASEAN.",
+            "options": ["learn", "to learn", "learning", "learned"],
+            "correct": 2,
+            "explanation": "Sau 'enjoy' dùng gerund (V-ing)."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "______ tired, she went to bed early.",
+            "options": ["Feel", "Feeling", "Felt", "To feel"],
+            "correct": 1,
+            "explanation": "Present participle clause rút gọn mệnh đề trạng ngữ: Feeling tired = Because she felt tired."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "We need to reduce greenhouse gas ______ to fight global warming.",
+            "options": ["emission", "emissions", "emitting", "emit"],
+            "correct": 1,
+            "explanation": "Emissions (n, số nhiều): khí thải."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "She was the first person ______ at the ASEAN summit.",
+            "options": ["arriving", "to arrive", "arrive", "arrived"],
+            "correct": 1,
+            "explanation": "Sau 'the first' dùng to-infinitive."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "They finished ______ the report about climate change.",
+            "options": ["write", "to write", "writing", "wrote"],
+            "correct": 2,
+            "explanation": "Sau 'finish' dùng gerund (V-ing)."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "We must ______ our cultural heritage for future generations.",
+            "options": ["preserve", "preservation", "preserving", "preserved"],
+            "correct": 0,
+            "explanation": "Sau 'must' dùng động từ nguyên thể. Preserve: bảo tồn."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "The temple ______ in the 15th century is well-preserved.",
+            "options": ["building", "built", "build", "to build"],
+            "correct": 1,
+            "explanation": "Past participle (built) có nghĩa bị động: ngôi đền được xây dựng."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "This is the best way ______ the environment.",
+            "options": ["protecting", "to protect", "protect", "protected"],
+            "correct": 1,
+            "explanation": "Sau so sánh nhất 'the best' dùng to-infinitive."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "He avoids ______ plastic bags to reduce pollution.",
+            "options": ["use", "to use", "using", "used"],
+            "correct": 2,
+            "explanation": "Sau 'avoid' dùng gerund (V-ing)."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "______ in 1995, Vietnam has been an active ASEAN member.",
+            "options": ["Join", "Joining", "Joined", "Having joined"],
+            "correct": 3,
+            "explanation": "Perfect participle (Having joined) nhấn mạnh hành động xảy ra trước hành động chính."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "Renewable ______ is important for sustainable development.",
+            "options": ["energetic", "energy", "energize", "energetically"],
+            "correct": 1,
+            "explanation": "Energy (n): năng lượng. Renewable energy: năng lượng tái tạo."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "The next thing ______ is to raise awareness about heritage.",
+            "options": ["doing", "to do", "do", "done"],
+            "correct": 1,
+            "explanation": "Sau 'the next' dùng to-infinitive."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Gerunds can be used as subjects in sentences.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Danh động từ có thể làm chủ ngữ: Learning English is important."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "Present participle clauses always have passive meaning.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Present participle (V-ing) có nghĩa chủ động. Past participle (V3/ed) có nghĩa bị động."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "To-infinitive can be used to express purpose.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. To-infinitive diễn tả mục đích: I went there to see the monuments."
+          },
+          {
+            "id": "msq4",
+            "type": "msq",
+            "question_text": "ASEAN was established in 1967.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. ASEAN được thành lập năm 1967."
+          },
+          {
+            "id": "msq5",
+            "type": "msq",
+            "question_text": "Global warming is caused only by natural factors.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Nóng lên toàn cầu chủ yếu do hoạt động của con người gây ra."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "Complete: ______ about ASEAN helps students understand regional cooperation. (Learning)",
+            "correct": "Learning",
+            "explanation": "Gerund làm chủ ngữ: Learning (V-ing) + V(singular)."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "What do we call gases that trap heat in the atmosphere? (two words)",
+            "correct": "greenhouse gases",
+            "explanation": "Greenhouse gases: khí nhà kính - các khí giữ nhiệt trong khí quyển."
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question_text": "What do we call buildings, monuments, and traditions from the past? (one word)",
+            "correct": "heritage",
+            "explanation": "Heritage: di sản - các công trình, di tích và truyền thống từ quá khứ."
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question_text": "Complete: The girl ______ a red dress is my sister. (wearing)",
+            "correct": "wearing",
+            "explanation": "Present participle (wearing) rút gọn mệnh đề quan hệ chủ động: who is wearing."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) about the importance of ASEAN for Vietnam.",
+            "sample_answer": "ASEAN plays a crucial role in Vietnam's development and international integration. First, being a member of ASEAN has brought significant economic benefits to Vietnam. The organization promotes free trade among member countries, creating more opportunities for Vietnamese businesses to export their products and attract foreign investment. Second, ASEAN cooperation helps Vietnam address regional challenges such as climate change, natural disasters, and security threats. Working together with other member states makes it easier to find effective solutions. Third, cultural and educational exchanges within ASEAN strengthen understanding and friendship among peoples. Vietnamese students can study in other ASEAN countries, and cultural programs help preserve our shared heritage. Finally, ASEAN membership has enhanced Vietnam's position on the international stage. Participating in ASEAN summits and activities demonstrates Vietnam's commitment to regional peace and prosperity. In conclusion, ASEAN is essential for Vietnam's continued growth and development.",
+            "explanation": "Bài viết mẫu về tầm quan trọng của ASEAN đối với Việt Nam với cấu trúc: Introduction, Body (4 lợi ích: kinh tế, giải quyết thách thức, trao đổi văn hóa, vị thế quốc tế), Conclusion. Sử dụng gerunds (being, working) và linking words."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) about the causes and effects of global warming.",
+            "sample_answer": "Global warming is one of the most serious environmental problems facing our planet today. The main causes of global warming include burning fossil fuels, deforestation, and industrial activities. When we burn coal, oil, and gas for energy, we release large amounts of carbon dioxide and other greenhouse gases into the atmosphere. These gases trap heat from the sun, causing the Earth's temperature to rise. Deforestation makes the problem worse because trees absorb carbon dioxide, and cutting them down reduces this natural process. The effects of global warming are already visible around the world. Rising temperatures are melting polar ice, leading to higher sea levels that threaten coastal communities. Extreme weather events such as hurricanes, droughts, and floods are becoming more frequent and severe. Many plant and animal species cannot adapt quickly enough to changing conditions and face extinction. To address this crisis, we must reduce our carbon footprint by using renewable energy, protecting forests, and adopting sustainable practices in our daily lives.",
+            "explanation": "Bài viết mẫu về nguyên nhân và tác động của nóng lên toàn cầu với cấu trúc rõ ràng: Introduction, Causes (đốt nhiên liệu hóa thạch, phá rừng), Effects (nhiệt độ tăng, thời tiết cực đoan, loài bị đe dọa), Solutions. Sử dụng present participle clauses và gerunds."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) about ways to preserve cultural heritage.",
+            "sample_answer": "Preserving our cultural heritage is essential for maintaining our identity and passing it on to future generations. There are several effective ways to protect and promote heritage. First, we should restore and maintain ancient buildings, monuments, and historical sites. Regular maintenance prevents damage and keeps these structures in good condition. Second, promoting heritage on social media is an excellent way to raise awareness, especially among young people. Sharing photos, videos, and information about heritage sites can make them more popular and appreciated. Third, organizing cultural events and festivals helps keep traditional customs and arts alive. Inviting artists to perform folk music and dance introduces these art forms to new audiences. Fourth, educating young people about the importance of heritage is crucial. Schools should include heritage education in their curriculum to help students understand and value their cultural roots. Finally, supporting eco-tourism at heritage sites can generate income for preservation while educating visitors about conservation. By combining these approaches, we can ensure that our precious heritage survives for centuries to come.",
+            "explanation": "Bài viết mẫu về cách bảo tồn di sản văn hóa với cấu trúc: Introduction, Body (5 cách: phục hồi, mạng xã hội, sự kiện văn hóa, giáo dục, du lịch sinh thái), Conclusion. Sử dụng to-infinitive clauses và gerunds đúng cách."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) about what you can do to reduce your carbon footprint.",
+            "sample_answer": "Reducing my carbon footprint is something I take seriously because I want to help fight global warming. First, I avoid using plastic bags and bottles by bringing reusable ones when I go shopping. This simple habit reduces plastic waste significantly. Second, I save energy at home by turning off lights and electronic devices when not in use. I also encourage my family to use energy-efficient appliances. Third, I prefer walking or cycling for short distances instead of asking my parents to drive me. This not only reduces emissions but also keeps me healthy. Fourth, I practice recycling by separating paper, plastic, and glass waste. Our family has been recycling for two years, and it has become a natural habit. Fifth, I try to eat less meat because meat production contributes significantly to greenhouse gas emissions. Finally, I participate in tree-planting activities organized by my school. Trees absorb carbon dioxide and help clean the air. These actions may seem small, but if everyone does their part, we can make a real difference in protecting our planet.",
+            "explanation": "Bài viết mẫu về cách giảm dấu chân carbon cá nhân với cấu trúc: Introduction, Body (6 hành động cụ thể), Conclusion. Sử dụng gerunds (reducing, using, recycling), present participle clauses, và Present Perfect (have been recycling)."
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) about a heritage site in Vietnam that you would like to visit.",
+            "sample_answer": "Hoi An Ancient Town is a heritage site in Vietnam that I would love to visit. Located in Quang Nam Province, Hoi An was recognized as a UNESCO World Heritage Site in 1999. The town is famous for its well-preserved architecture that reflects a unique blend of Vietnamese, Chinese, Japanese, and European influences. Walking through the narrow streets lined with old houses, temples, and assembly halls would be like traveling back in time. I want to go there to experience the traditional atmosphere and learn about the town's rich history as an important trading port. The Japanese Covered Bridge, built in the 16th century, is one of the most iconic landmarks I hope to see. I also look forward to trying local specialties like cao lau and banh mi. Visiting Hoi An would not only be enjoyable but also educational, helping me appreciate our cultural heritage better. I believe preserving places like Hoi An is crucial for maintaining our national identity and sharing our history with future generations.",
+            "explanation": "Bài viết mẫu về di sản Hội An với cấu trúc: Introduction (giới thiệu), Body (đặc điểm, lý do muốn đi, điểm tham quan, món ăn), Conclusion (tầm quan trọng của bảo tồn). Sử dụng to-infinitive clauses (to visit, to experience, to see), past participle (preserved, built, recognized), và gerunds (walking, trying, preserving)."
+          }
+        ]
+      }
+    }
+  ]
+}

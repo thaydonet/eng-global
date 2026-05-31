@@ -1,0 +1,278 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-9-p7",
+  "name": "Part 7: Writing",
+  "slug": "p7-writing",
+  "description": "Viết về kế hoạch nghề nghiệp",
+  "duration_minutes": 60,
+  "difficulty_level": "hard",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Writing: Career Plan Essay",
+      "sections": [
+        {
+          "heading": "1. Cấu trúc bài viết về kế hoạch nghề nghiệp",
+          "content": "<div class='bg-gradient-to-r from-green-50 to-teal-50 dark:from-green-900/20 dark:to-teal-900/20 p-6 rounded-xl'><h4 class='font-bold text-lg mb-3'>Essay Structure:</h4><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h5 class='font-bold mb-2'>Introduction (Mở bài):</h5><ul class='list-disc pl-5 space-y-1'><li>State your career goal</li><li>Explain why you chose this career</li><li>Mention what you look forward to</li></ul></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h5 class='font-bold mb-2'>Body Paragraph 1 - Current Situation (Thân bài 1):</h5><ul class='list-disc pl-5 space-y-1'><li>Describe your current skills and qualifications</li><li>Mention what you need to catch up with</li><li>Discuss areas where you need to keep up with changes</li></ul></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h5 class='font-bold mb-2'>Body Paragraph 2 - Action Plan (Thân bài 2):</h5><ul class='list-disc pl-5 space-y-1'><li>Explain steps you've come up with</li><li>Mention how you'll get on with professionals</li><li>Discuss challenges you might put up with</li></ul></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h5 class='font-bold mb-2'>Body Paragraph 3 - Long-term Goals (Thân bài 3):</h5><ul class='list-disc pl-5 space-y-1'><li>Describe who you look up to</li><li>Explain how you'll face up to challenges</li><li>Mention how you'll live up to expectations</li></ul></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h5 class='font-bold mb-2'>Conclusion (Kết bài):</h5><ul class='list-disc pl-5 space-y-1'><li>Summarize your career plan</li><li>Express confidence in achieving goals</li><li>Mention commitment to continuous growth</li></ul></div></div></div>"
+        },
+        {
+          "heading": "2. Useful Phrases for Career Plan Writing",
+          "content": "<div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg'><h4 class='font-bold mb-3'>Introduction Phrases:</h4><ul class='list-disc pl-5 space-y-1'><li>I look forward to pursuing a career in...</li><li>My goal is to become...</li><li>I have always been interested in...</li><li>I aspire to work as...</li></ul><h4 class='font-bold mb-3 mt-4'>Describing Current Situation:</h4><ul class='list-disc pl-5 space-y-1'><li>Currently, I am developing skills in...</li><li>I need to catch up with...</li><li>I must keep up with...</li><li>I have experience in...</li></ul><h4 class='font-bold mb-3 mt-4'>Discussing Plans:</h4><ul class='list-disc pl-5 space-y-1'><li>I have come up with a plan to...</li><li>I plan to get on with professionals by...</li><li>I will face up to challenges by...</li><li>I aim to live up to...</li></ul><h4 class='font-bold mb-3 mt-4'>Mentioning Challenges:</h4><ul class='list-disc pl-5 space-y-1'><li>I may have to put up with...</li><li>I won't run out of motivation because...</li><li>I will make up for any gaps by...</li></ul><h4 class='font-bold mb-3 mt-4'>Conclusion Phrases:</h4><ul class='list-disc pl-5 space-y-1'><li>In conclusion, I am committed to...</li><li>I am confident that...</li><li>With dedication and hard work, I will...</li><li>I look forward to achieving...</li></ul></div>"
+        },
+        {
+          "heading": "3. Sample Essay",
+          "content": "<div class='bg-white dark:bg-gray-800 p-6 rounded-lg'><h4 class='font-bold mb-3 text-center'>My Career Plan: Becoming a Software Engineer</h4><p class='mb-3'><strong>Introduction:</strong></p><p class='mb-4'>I look forward to pursuing a career in software engineering. I have always been fascinated by technology and how it can solve real-world problems. My goal is to become a skilled software engineer who can come up with innovative solutions for complex challenges. I chose this career because it combines creativity with technical skills, and offers opportunities for continuous learning and growth.</p><p class='mb-3'><strong>Current Situation:</strong></p><p class='mb-4'>Currently, I am studying computer science and developing my programming skills. I have experience in several programming languages including Python and JavaScript. However, I need to catch up with the latest frameworks and technologies that are constantly emerging in the field. I must keep up with industry trends by reading technical blogs, attending webinars, and practicing coding regularly. I also need to improve my problem-solving skills and learn more about software architecture and design patterns.</p><p class='mb-3'><strong>Action Plan:</strong></p><p class='mb-4'>I have come up with a detailed plan to achieve my career goals. First, I will complete relevant online courses and obtain industry certifications. Second, I plan to get on with professionals in the tech industry by attending networking events and joining online communities. I will also seek internship opportunities to gain practical experience. I understand that I may have to put up with initial rejections and challenges, but I won't run out of motivation. If I make mistakes, I will make up for them by learning from the experience and improving my skills.</p><p class='mb-3'><strong>Long-term Goals:</strong></p><p class='mb-4'>I look up to successful software engineers who have made significant contributions to technology. I want to face up to complex technical challenges and develop solutions that make a difference. My performance will live up to professional standards through continuous learning and dedication. In five years, I aim to be working on innovative projects at a leading tech company. In ten years, I hope to be in a senior position where I can mentor junior engineers and contribute to important technological advancements.</p><p class='mb-3'><strong>Conclusion:</strong></p><p class='mb-4'>In conclusion, I am committed to building a successful career in software engineering. I am confident that with hard work, continuous learning, and the right strategies, I will achieve my goals. I look forward to the challenges and opportunities that lie ahead, and I am prepared to keep up with the rapid changes in technology. My career plan provides a clear roadmap, but I remain flexible and open to new opportunities that may arise along the way.</p></div>"
+        },
+        {
+          "heading": "4. Writing Tips",
+          "content": "<div class='bg-yellow-50 dark:bg-yellow-900/20 p-5 rounded-lg'><h4 class='font-bold mb-3'>Tips for Writing a Strong Career Plan Essay:</h4><ol class='list-decimal pl-5 space-y-2'><li><strong>Be specific:</strong> Don't just say 'I want to be successful.' Explain exactly what career you want and why.</li><li><strong>Use three-word phrasal verbs:</strong> Incorporate phrasal verbs like 'look forward to,' 'come up with,' 'get on with' naturally.</li><li><strong>Show self-awareness:</strong> Acknowledge your strengths and weaknesses honestly.</li><li><strong>Be realistic:</strong> Set achievable goals with clear timelines.</li><li><strong>Show commitment:</strong> Demonstrate that you're willing to work hard and face challenges.</li><li><strong>Proofread:</strong> Check for grammar, spelling, and punctuation errors.</li><li><strong>Use transitions:</strong> Connect ideas smoothly with words like 'however,' 'moreover,' 'in addition.'</li><li><strong>Be authentic:</strong> Write about your genuine interests and goals, not what you think others want to hear.</li></ol></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "writing-ex1",
+        "type": "mcq",
+        "question": "What should you include in the introduction of a career plan essay?",
+        "options": [
+          "Only your name",
+          "Your career goal and why you chose it",
+          "Your entire life story",
+          "Nothing important"
+        ],
+        "correct": 1,
+        "explanation": "Mở bài nên có mục tiêu nghề nghiệp và lý do chọn nghề đó."
+      },
+      {
+        "id": "writing-ex2",
+        "type": "mcq",
+        "question": "Which phrase is appropriate for introducing your career goal?",
+        "options": [
+          "I hate working",
+          "I look forward to pursuing a career in...",
+          "I don't know what I want",
+          "I will never work"
+        ],
+        "correct": 1,
+        "explanation": "'I look forward to pursuing a career in...' phù hợp để giới thiệu mục tiêu."
+      },
+      {
+        "id": "writing-ex3",
+        "type": "mcq",
+        "question": "What should Body Paragraph 1 focus on?",
+        "options": [
+          "Conclusion",
+          "Current skills and qualifications",
+          "Unrelated topics",
+          "Other people's careers"
+        ],
+        "correct": 1,
+        "explanation": "Thân bài 1 nên tập trung vào kỹ năng và trình độ hiện tại."
+      },
+      {
+        "id": "writing-ex4",
+        "type": "mcq",
+        "question": "Which phrasal verb means 'to create a plan'?",
+        "options": [
+          "Give up",
+          "Come up with",
+          "Run away",
+          "Fall behind"
+        ],
+        "correct": 1,
+        "explanation": "'Come up with' nghĩa là nghĩ ra, tạo ra kế hoạch."
+      },
+      {
+        "id": "writing-ex5",
+        "type": "mcq",
+        "question": "What should you mention in Body Paragraph 2?",
+        "options": [
+          "Nothing",
+          "Your action plan and steps",
+          "Other people's plans",
+          "Unrelated information"
+        ],
+        "correct": 1,
+        "explanation": "Thân bài 2 nên đề cập kế hoạch hành động và các bước."
+      },
+      {
+        "id": "writing-ex6",
+        "type": "mcq",
+        "question": "Which phrase shows you're willing to tolerate difficulties?",
+        "options": [
+          "I will give up",
+          "I may have to put up with...",
+          "I will avoid challenges",
+          "I will run away"
+        ],
+        "correct": 1,
+        "explanation": "'I may have to put up with...' cho thấy sẵn sàng chịu đựng khó khăn."
+      },
+      {
+        "id": "writing-ex7",
+        "type": "mcq",
+        "question": "What should Body Paragraph 3 discuss?",
+        "options": [
+          "Introduction",
+          "Long-term goals and role models",
+          "Nothing",
+          "Past experiences only"
+        ],
+        "correct": 1,
+        "explanation": "Thân bài 3 nên thảo luận về mục tiêu dài hạn và hình mẫu."
+      },
+      {
+        "id": "writing-ex8",
+        "type": "mcq",
+        "question": "Which phrase means 'to admire someone'?",
+        "options": [
+          "Look down on",
+          "Look up to",
+          "Ignore",
+          "Avoid"
+        ],
+        "correct": 1,
+        "explanation": "'Look up to' nghĩa là ngưỡng mộ ai đó."
+      },
+      {
+        "id": "writing-ex9",
+        "type": "mcq",
+        "question": "What should you do in the conclusion?",
+        "options": [
+          "Introduce new topics",
+          "Summarize and express confidence",
+          "Write about unrelated things",
+          "Leave it blank"
+        ],
+        "correct": 1,
+        "explanation": "Kết bài nên tóm tắt và thể hiện sự tự tin."
+      },
+      {
+        "id": "writing-ex10",
+        "type": "mcq",
+        "question": "According to the sample essay, what career does the writer want?",
+        "options": [
+          "Teacher",
+          "Software Engineer",
+          "Doctor",
+          "Lawyer"
+        ],
+        "correct": 1,
+        "explanation": "Người viết muốn trở thành Software Engineer - kỹ sư phần mềm."
+      },
+      {
+        "id": "writing-ex11",
+        "type": "msq",
+        "question_text": "Mark True or False about career plan essay structure:",
+        "options": [
+          "Introduction should state your career goal.",
+          "Body paragraphs are not necessary.",
+          "You should mention current skills.",
+          "Conclusion should introduce new topics."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Mở bài nêu mục tiêu. b) False - Thân bài cần thiết. c) True - Đề cập kỹ năng hiện tại. d) False - Kết bài không giới thiệu chủ đề mới."
+      },
+      {
+        "id": "writing-ex12",
+        "type": "msq",
+        "question_text": "Decide True or False about writing tips:",
+        "options": [
+          "Be specific about your career goals.",
+          "Ignore grammar and spelling errors.",
+          "Use three-word phrasal verbs naturally.",
+          "Copy other people's essays."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Cụ thể về mục tiêu. b) False - Phải kiểm tra lỗi. c) True - Dùng cụm động từ tự nhiên. d) False - Không sao chép."
+      },
+      {
+        "id": "writing-ex13",
+        "type": "msq",
+        "question_text": "Based on the sample essay, mark True or False:",
+        "options": [
+          "The writer looks forward to software engineering.",
+          "The writer has no plan.",
+          "The writer will give up if facing challenges.",
+          "The writer looks up to successful engineers."
+        ],
+        "correct": [0, 3],
+        "explanation": "a) True - Mong chờ nghề kỹ sư phần mềm. b) False - Có kế hoạch chi tiết. c) False - Không bỏ cuộc. d) True - Ngưỡng mộ kỹ sư thành công."
+      },
+      {
+        "id": "writing-ex14",
+        "type": "sa",
+        "question_text": "Complete: I _____ _____ to pursuing a career. (three words)",
+        "correct": "look forward to",
+        "explanation": "'Look forward to' - mong chờ."
+      },
+      {
+        "id": "writing-ex15",
+        "type": "sa",
+        "question_text": "Complete: I have _____ _____ _____ a plan. (four words)",
+        "correct": "come up with",
+        "explanation": "'Come up with' - nghĩ ra."
+      },
+      {
+        "id": "writing-ex16",
+        "type": "sa",
+        "question_text": "How many main body paragraphs should a career plan essay have? (write number)",
+        "correct": "3",
+        "explanation": "Nên có 3 đoạn thân bài chính."
+      },
+      {
+        "id": "writing-ex17",
+        "type": "mcq",
+        "question": "Which is NOT a good writing tip?",
+        "options": [
+          "Be specific",
+          "Show self-awareness",
+          "Copy others' work",
+          "Proofread carefully"
+        ],
+        "correct": 2,
+        "explanation": "Sao chép bài của người khác không phải là lời khuyên tốt."
+      },
+      {
+        "id": "writing-ex18",
+        "type": "mcq",
+        "question": "What does 'face up to challenges' mean in career writing?",
+        "options": [
+          "Avoid challenges",
+          "Confront and deal with challenges",
+          "Ignore challenges",
+          "Run from challenges"
+        ],
+        "correct": 1,
+        "explanation": "'Face up to challenges' nghĩa là đối mặt và giải quyết thách thức."
+      },
+      {
+        "id": "writing-ex19",
+        "type": "mcq",
+        "question": "According to the sample essay, what will the writer do if they make mistakes?",
+        "options": [
+          "Give up",
+          "Make up for them by learning",
+          "Blame others",
+          "Ignore them"
+        ],
+        "correct": 1,
+        "explanation": "Người viết sẽ 'make up for them by learning' - bù đắp bằng cách học hỏi."
+      },
+      {
+        "id": "writing-ex20",
+        "type": "mcq",
+        "question": "What should your performance do according to career writing?",
+        "options": [
+          "Be below standards",
+          "Live up to professional standards",
+          "Be inconsistent",
+          "Be mediocre"
+        ],
+        "correct": 1,
+        "explanation": "Hiệu suất nên 'live up to professional standards' - đáp ứng tiêu chuẩn chuyên nghiệp."
+      }
+    ]
+  }
+}

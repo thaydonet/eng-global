@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 7",
+  "subject_id": 44,
+  "lessons": [
+    {
+      "id": "anh7-unit-8-films",
+      "name": "Unit 8: Films",
+      "slug": "unit-8-films",
+      "chapter": "Unit 8: Films",
+      "chapter_id": "A7",
+      "lesson_id": 8,
+      "description": "Learn about films with although/though and however for contrast.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-8",
+          "name": "Films Vocabulary",
+          "slug": "films-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 8: Films",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Film</td><td class='px-4 py-2'>(n) /fɪlm/</td><td class='px-4 py-2'>Phim</td><td class='px-4 py-2'>I love watching films.</td></tr><tr><td class='px-4 py-2 font-bold'>Movie</td><td class='px-4 py-2'>(n) /ˈmuːvi/</td><td class='px-4 py-2'>Phim (Mỹ)</td><td class='px-4 py-2'>Let's watch a movie.</td></tr><tr><td class='px-4 py-2 font-bold'>Cinema</td><td class='px-4 py-2'>(n) /ˈsɪnəmə/</td><td class='px-4 py-2'>Rạp chiếu phim</td><td class='px-4 py-2'>We go to the cinema.</td></tr><tr><td class='px-4 py-2 font-bold'>Actor</td><td class='px-4 py-2'>(n) /ˈæktə(r)/</td><td class='px-4 py-2'>Diễn viên nam</td><td class='px-4 py-2'>He is a famous actor.</td></tr><tr><td class='px-4 py-2 font-bold'>Actress</td><td class='px-4 py-2'>(n) /ˈæktrəs/</td><td class='px-4 py-2'>Diễn viên nữ</td><td class='px-4 py-2'>She is a talented actress.</td></tr><tr><td class='px-4 py-2 font-bold'>Director</td><td class='px-4 py-2'>(n) /dəˈrektə(r)/</td><td class='px-4 py-2'>Đạo diễn</td><td class='px-4 py-2'>The director is creative.</td></tr><tr><td class='px-4 py-2 font-bold'>Character</td><td class='px-4 py-2'>(n) /ˈkærəktə(r)/</td><td class='px-4 py-2'>Nhân vật</td><td class='px-4 py-2'>The main character is brave.</td></tr><tr><td class='px-4 py-2 font-bold'>Plot</td><td class='px-4 py-2'>(n) /plɒt/</td><td class='px-4 py-2'>Cốt truyện</td><td class='px-4 py-2'>The plot is interesting.</td></tr><tr><td class='px-4 py-2 font-bold'>Scene</td><td class='px-4 py-2'>(n) /siːn/</td><td class='px-4 py-2'>Cảnh quay</td><td class='px-4 py-2'>That scene is exciting.</td></tr><tr><td class='px-4 py-2 font-bold'>Review</td><td class='px-4 py-2'>(n) /rɪˈvjuː/</td><td class='px-4 py-2'>Bài đánh giá</td><td class='px-4 py-2'>I read the film review.</td></tr><tr><td class='px-4 py-2 font-bold'>Critic</td><td class='px-4 py-2'>(n) /ˈkrɪtɪk/</td><td class='px-4 py-2'>Nhà phê bình</td><td class='px-4 py-2'>Critics love this film.</td></tr><tr><td class='px-4 py-2 font-bold'>Star</td><td class='px-4 py-2'>(v,n) /stɑː(r)/</td><td class='px-4 py-2'>Đóng vai chính, ngôi sao</td><td class='px-4 py-2'>He stars in the film.</td></tr><tr><td class='px-4 py-2 font-bold'>Gripping</td><td class='px-4 py-2'>(adj) /ˈɡrɪpɪŋ/</td><td class='px-4 py-2'>Hấp dẫn, lôi cuốn</td><td class='px-4 py-2'>It's a gripping film.</td></tr><tr><td class='px-4 py-2 font-bold'>Moving</td><td class='px-4 py-2'>(adj) /ˈmuːvɪŋ/</td><td class='px-4 py-2'>Cảm động</td><td class='px-4 py-2'>The film is very moving.</td></tr><tr><td class='px-4 py-2 font-bold'>Scary</td><td class='px-4 py-2'>(adj) /ˈskeəri/</td><td class='px-4 py-2'>Đáng sợ</td><td class='px-4 py-2'>Horror films are scary.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Types of films (Thể loại phim):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>action film:</strong> phim hành động</li><li><strong>comedy:</strong> phim hài</li><li><strong>horror film:</strong> phim kinh dị</li><li><strong>science fiction (sci-fi):</strong> phim khoa học viễn tưởng</li><li><strong>romantic film:</strong> phim lãng mạn</li><li><strong>thriller:</strong> phim ly kỳ</li><li><strong>documentary:</strong> phim tài liệu</li><li><strong>animation:</strong> phim hoạt hình</li><li><strong>fantasy:</strong> phim giả tưởng</li></ul><p><strong>People in films:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>actor/actress:</strong> diễn viên</li><li><strong>director:</strong> đạo diễn</li><li><strong>producer:</strong> nhà sản xuất</li><li><strong>screenwriter:</strong> biên kịch</li><li><strong>critic:</strong> nhà phê bình</li><li><strong>audience:</strong> khán giả</li></ul><p><strong>Adjectives to describe films:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>gripping:</strong> hấp dẫn</li><li><strong>moving:</strong> cảm động</li><li><strong>scary:</strong> đáng sợ</li><li><strong>boring:</strong> nhàm chán</li><li><strong>exciting:</strong> thú vị</li><li><strong>hilarious:</strong> vui nhộn</li><li><strong>violent:</strong> bạo lực</li><li><strong>entertaining:</strong> giải trí</li></ul><p><strong>Verbs related to films:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>watch:</strong> xem</li><li><strong>see:</strong> xem</li><li><strong>star:</strong> đóng vai chính</li><li><strong>direct:</strong> đạo diễn</li><li><strong>produce:</strong> sản xuất</li><li><strong>review:</strong> đánh giá</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /iː/ and /ɪ/</h3><p><strong>1. Sound /iː/ (âm dài):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Âm dài, môi căng</li><li><strong>Examples:</strong></li><li>scene /siːn/</li><li>see /siː/</li><li>feel /fiːl/</li><li>screen /skriːn/</li></ul><p><strong>2. Sound /ɪ/ (âm ngắn):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Âm ngắn, môi thả lỏng</li><li><strong>Examples:</strong></li><li>film /fɪlm/</li><li>critic /ˈkrɪtɪk/</li><li>gripping /ˈɡrɪpɪŋ/</li><li>cinema /ˈsɪnəmə/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Although/Though (Mặc dù)</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Although/Though + S + V, S + V</strong></li><li>Ex: <strong>Although</strong> the film was long, it was interesting.</li><li>Ex: <strong>Though</strong> he is young, he is talented.</li><li><strong>S + V + although/though + S + V</strong></li><li>Ex: The film was interesting <strong>although</strong> it was long.</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Diễn tả sự tương phản, đối lập</li><li>Although = Though (không có sự khác biệt)</li><li>Không dùng 'but' trong cùng câu với although/though</li><li>Sai: Although the film was long, but it was interesting. ✗</li><li>Đúng: Although the film was long, it was interesting. ✓</li></ul><h3>B. However (Tuy nhiên)</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>S + V. However, S + V.</strong></li><li>Ex: The film was long. <strong>However</strong>, it was interesting.</li><li><strong>S + V; however, S + V.</strong></li><li>Ex: The film was long; <strong>however</strong>, it was interesting.</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nối hai câu có ý nghĩa đối lập</li><li>However đứng đầu câu thứ hai, sau dấu chấm hoặc dấu chấm phẩy</li><li>Sau however có dấu phẩy</li></ul><p><strong>3. So sánh Although và However:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Although:</strong> nối hai mệnh đề trong một câu</li><li>Ex: <strong>Although</strong> the film was long, it was interesting.</li><li><strong>However:</strong> nối hai câu</li><li>Ex: The film was long. <strong>However</strong>, it was interesting.</li></ul><p><strong>4. Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Although/Though = liên từ (conjunction)</li><li>However = trạng từ liên kết (conjunctive adverb)</li><li>Không dùng although và however trong cùng một câu</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> What's on at the cinema? - Có gì ở rạp chiếu phim?</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về phim</li><li>Giới thiệu các thể loại phim</li><li>Nói về sở thích xem phim</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Films and cinema</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về phim</li><li>Học từ vựng về rạp chiếu phim</li></ul><p><strong>B. Pronunciation: /iː/ and /ɪ/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /iː/ và /ɪ/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Although/Though and However</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách dùng although/though</li><li>Học cách dùng however</li><li>Luyện tập nối câu</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about films</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What kind of film is it?</li><li>Who stars in it?</li><li>What do you think of...?</li><li>I think it's...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Film reviews</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về đánh giá phim</li><li>Tìm thông tin chi tiết</li></ul><p><strong>Speaking: Discussing favourite films</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về phim yêu thích</li><li>Đưa ra ý kiến về phim</li></ul>"
+            },
+            {
+              "heading": "10. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Films and cinema</li><li><strong>Pronunciation:</strong> /iː/ and /ɪ/</li><li><strong>Grammar:</strong> Although/Though, However</li></ul>"
+            },
+            {
+              "heading": "11. Project",
+              "content": "<p><strong>Đề tài:</strong> My favourite film</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một bộ phim yêu thích</li><li>Tìm thông tin và hình ảnh</li><li>Viết đánh giá (7-10 câu)</li><li>Trình bày trước lớp</li></ul>"
+            },
+            {
+              "heading": "12. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: About a film</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về một bộ phim</li><li>Ghi chú thông tin quan trọng</li></ul><p><strong>Writing: A film review</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đánh giá phim</li><li>Sử dụng although/though và however</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Sử dụng although/though",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Although/Though + S + V, S + V</li><li>Diễn tả sự tương phản trong một câu</li><li>Không dùng 'but' cùng although/though</li></ul>",
+            "examples": [
+              {
+                "question": "______ the film was long, it was interesting.",
+                "solution": "<strong>Although/Though</strong> the film was long, it was interesting.",
+                "explanation": "Hai ý đối lập trong một câu → although/though."
+              },
+              {
+                "question": "He is young. He is talented. (although)",
+                "solution": "<strong>Although he is young, he is talented.</strong>",
+                "explanation": "Nối hai câu đối lập bằng although."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Sử dụng however",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + V. However, S + V.</li><li>Nối hai câu có ý nghĩa đối lập</li><li>However đứng đầu câu thứ hai</li></ul>",
+            "examples": [
+              {
+                "question": "The film was long. It was interesting. (however)",
+                "solution": "The film was long. <strong>However</strong>, it was interesting.",
+                "explanation": "Nối hai câu đối lập bằng however."
+              },
+              {
+                "question": "He is young. ______, he is talented.",
+                "solution": "He is young. <strong>However</strong>, he is talented.",
+                "explanation": "However nối hai câu đối lập."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Phân biệt although và however",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Although: nối hai mệnh đề trong một câu</li><li>However: nối hai câu</li></ul>",
+            "examples": [
+              {
+                "question": "Choose: The film was long, ______ it was interesting. (although/however)",
+                "solution": "<strong>Although</strong> the film was long, it was interesting.",
+                "explanation": "Một câu → dùng although."
+              },
+              {
+                "question": "Choose: The film was long. ______, it was interesting. (Although/However)",
+                "solution": "The film was long. <strong>However</strong>, it was interesting.",
+                "explanation": "Hai câu → dùng However."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Viết lại câu",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chuyển đổi giữa although và however</li><li>Giữ nguyên nghĩa câu</li></ul>",
+            "examples": [
+              {
+                "question": "Although the film was long, it was interesting. (Rewrite with 'however')",
+                "solution": "The film was long. <strong>However</strong>, it was interesting.",
+                "explanation": "Chuyển although thành however, tách thành hai câu."
+              },
+              {
+                "question": "The film was boring. However, I watched it. (Rewrite with 'although')",
+                "solution": "<strong>Although</strong> the film was boring, I watched it.",
+                "explanation": "Chuyển however thành although, gộp thành một câu."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ the film was long, it was interesting.",
+            "options": ["Although", "However", "But", "Because"],
+            "correct": 0,
+            "explanation": "Một câu, hai mệnh đề đối lập → Although."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The film was long. ______, it was interesting.",
+            "options": ["Although", "However", "Though", "Because"],
+            "correct": 1,
+            "explanation": "Hai câu đối lập → However."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "______ he is young, he is talented.",
+            "options": ["Although", "However", "But", "Because"],
+            "correct": 0,
+            "explanation": "Một câu → Although."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "He is young. ______, he is talented.",
+            "options": ["Although", "However", "Though", "Because"],
+            "correct": 1,
+            "explanation": "Hai câu → However."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "The film was boring. ______, I watched it.",
+            "options": ["Although", "However", "Though", "Because"],
+            "correct": 1,
+            "explanation": "Hai câu đối lập → However."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ the film was scary, I enjoyed it.",
+            "options": ["Although", "However", "But", "Because"],
+            "correct": 0,
+            "explanation": "Một câu → Although."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "She is a good actress. ______, she is not famous.",
+            "options": ["Although", "However", "Though", "Because"],
+            "correct": 1,
+            "explanation": "Hai câu → However."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "______ the plot was simple, the film was moving.",
+            "options": ["Although", "However", "But", "Because"],
+            "correct": 0,
+            "explanation": "Một câu → Although."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "The film got bad reviews. ______, it was successful.",
+            "options": ["Although", "However", "Though", "Because"],
+            "correct": 1,
+            "explanation": "Hai câu → However."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______ critics loved it, the film was not popular.",
+            "options": ["Although", "However", "But", "Because"],
+            "correct": 0,
+            "explanation": "Một câu → Although."
+          }
+        ]
+      }
+    }
+  ]
+}

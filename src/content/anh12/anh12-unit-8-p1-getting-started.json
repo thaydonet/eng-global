@@ -1,0 +1,214 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-8-p1",
+  "name": "Part 1: Getting Started",
+  "slug": "p1-getting-started",
+  "description": "Giới thiệu chủ đề về bảo tồn động vật hoang dã",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Getting Started: Wildlife Conservation",
+      "sections": [
+        {
+          "heading": "1. Tóm tắt lý thuyết",
+          "content": "<div class='bg-gradient-to-r from-green-50 to-emerald-50 dark:from-green-900/20 dark:to-emerald-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-green-900 dark:text-green-300'>🦁 Bảo tồn động vật hoang dã - Wildlife Conservation</h3><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-green-700 dark:text-green-400 mb-3'>Khái niệm chính:</h4><ul class='list-disc pl-6 space-y-2'><li><strong>Wildlife Conservation:</strong> Bảo tồn động vật hoang dã - nỗ lực bảo vệ các loài động vật và môi trường sống của chúng</li><li><strong>Endangered Species:</strong> Loài có nguy cơ tuyệt chủng - loài đang đối mặt với nguy cơ biến mất</li><li><strong>Habitat:</strong> Môi trường sống tự nhiên của động vật</li><li><strong>Biodiversity:</strong> Đa dạng sinh học - sự đa dạng của các loài sinh vật</li><li><strong>Ecosystem:</strong> Hệ sinh thái - hệ thống các sinh vật và môi trường</li></ul></div><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-emerald-700 dark:text-emerald-400 mb-3'>Mối đe dọa chính:</h4><ol class='list-decimal pl-6 space-y-1'><li>Poaching (săn bắt trái phép)</li><li>Habitat loss (mất môi trường sống)</li><li>Deforestation (phá rừng)</li><li>Climate change (biến đổi khí hậu)</li><li>Pollution (ô nhiễm)</li></ol></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ về Wildlife Conservation",
+          "content": "<div class='space-y-4'><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg border-l-4 border-green-500'><p class='font-bold text-green-800 dark:text-green-300 mb-3'>Example 1: Tigers - The Endangered Big Cats</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Tigers are so endangered that fewer than 4,000 remain in the wild. If we don't protect their habitats, they will become extinct within our lifetime. Poaching is such a serious problem that tigers are killed for their skins and bones. Unless we enforce stricter laws, illegal hunting will continue. The more forests we destroy, the fewer places tigers have to live. Conservation efforts work as long as governments provide funding and support. Tigers are as important as any other species in maintaining ecosystem balance.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Hổ có nguy cơ tuyệt chủng đến mức chỉ còn dưới 4.000 con trong tự nhiên. Nếu chúng ta không bảo vệ môi trường sống của chúng, chúng sẽ tuyệt chủng trong đời chúng ta. Săn bắt trái phép là vấn đề nghiêm trọng đến mức hổ bị giết để lấy da và xương. Trừ khi chúng ta thực thi luật nghiêm ngặt hơn, săn bắn bất hợp pháp sẽ tiếp tục. Càng phá rừng nhiều, hổ càng có ít nơi để sống. Nỗ lực bảo tồn có hiệu quả miễn là chính phủ cung cấp kinh phí và hỗ trợ. Hổ quan trọng như bất kỳ loài nào khác trong việc duy trì cân bằng hệ sinh thái.</p></div></div><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg border-l-4 border-blue-500'><p class='font-bold text-blue-800 dark:text-blue-300 mb-3'>Example 2: Elephants and Ivory Trade</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> African elephants face threats so severe that their population has declined by 30% in recent years. Poachers kill elephants as if they were worthless, when in fact they are keystone species. If the ivory trade continues, elephants could disappear from many regions. The demand for ivory is as high as it has ever been, particularly in some Asian markets. Unless international cooperation increases, we cannot stop the illegal trade. Elephants are more intelligent than most people realize, showing emotions and complex social behaviors. Provided that we ban ivory sales globally, we can save these magnificent creatures.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Voi châu Phi đối mặt với mối đe dọa nghiêm trọng đến mức số lượng của chúng đã giảm 30% trong những năm gần đây. Những kẻ săn trộm giết voi như thể chúng vô giá trị, trong khi thực tế chúng là loài then chốt. Nếu buôn bán ngà voi tiếp tục, voi có thể biến mất khỏi nhiều khu vực. Nhu cầu về ngà voi cao như chưa từng có, đặc biệt ở một số thị trường châu Á. Trừ khi hợp tác quốc tế tăng cường, chúng ta không thể ngăn chặn buôn bán bất hợp pháp. Voi thông minh hơn hầu hết mọi người nhận ra, thể hiện cảm xúc và hành vi xã hội phức tạp. Với điều kiện chúng ta cấm bán ngà voi toàn cầu, chúng ta có thể cứu những sinh vật tráng lệ này.</p></div></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg border-l-4 border-purple-500'><p class='font-bold text-purple-800 dark:text-purple-300 mb-3'>Example 3: Coral Reefs - Underwater Rainforests</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Coral reefs are dying so rapidly that scientists predict 90% could disappear by 2050. Climate change affects corals in such devastating ways that entire ecosystems collapse. The warmer the ocean becomes, the more corals bleach and die. If we reduce carbon emissions now, some reefs can recover. Marine life depends on coral reefs as much as land animals depend on forests. Pollution is more harmful to reefs than many people understand. Unless we act immediately, we will lose these underwater treasures forever. Coral reefs are as biodiverse as rainforests, supporting thousands of species.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Rạn san hô đang chết nhanh đến mức các nhà khoa học dự đoán 90% có thể biến mất vào năm 2050. Biến đổi khí hậu ảnh hưởng đến san hô theo cách tàn phá đến mức toàn bộ hệ sinh thái sụp đổ. Đại dương càng ấm lên, san hô càng bị tẩy trắng và chết. Nếu chúng ta giảm phát thải carbon ngay bây giờ, một số rạn san hô có thể phục hồi. Sinh vật biển phụ thuộc vào rạn san hô nhiều như động vật trên cạn phụ thuộc vào rừng. Ô nhiễm có hại cho rạn san hô hơn nhiều người hiểu. Trừ khi chúng ta hành động ngay lập tức, chúng ta sẽ mất những kho báu dưới nước này mãi mãi. Rạn san hô đa dạng sinh học như rừng mưa nhiệt đới, hỗ trợ hàng nghìn loài.</p></div></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg border-l-4 border-orange-500'><p class='font-bold text-orange-800 dark:text-orange-300 mb-3'>Example 4: Rhinos - Fighting Extinction</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Rhinos are hunted so relentlessly that some subspecies have fewer than 100 individuals left. Poachers kill rhinos as though their horns were made of gold, when they're actually just keratin - the same material as human fingernails. If conservation programs continue to receive support, rhino populations can stabilize. The black market price for rhino horn is higher than gold, making poaching extremely profitable. Unless we change consumer attitudes in countries where rhino horn is valued, demand will persist. Rhinos are more vulnerable than ever before due to habitat fragmentation. As long as we maintain protected areas and anti-poaching patrols, some populations can survive.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Tê giác bị săn bắt không ngừng đến mức một số phân loài chỉ còn dưới 100 cá thể. Những kẻ săn trộm giết tê giác như thể sừng của chúng làm bằng vàng, trong khi thực tế chúng chỉ là keratin - cùng chất liệu như móng tay người. Nếu các chương trình bảo tồn tiếp tục nhận được hỗ trợ, quần thể tê giác có thể ổn định. Giá chợ đen của sừng tê giác cao hơn vàng, khiến săn bắt trái phép cực kỳ có lợi nhuận. Trừ khi chúng ta thay đổi thái độ người tiêu dùng ở các quốc gia coi trọng sừng tê giác, nhu cầu sẽ tồn tại. Tê giác dễ bị tổn thương hơn bao giờ hết do môi trường sống bị phân mảnh. Miễn là chúng ta duy trì các khu vực được bảo vệ và tuần tra chống săn bắt trái phép, một số quần thể có thể sống sót.</p></div></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg border-l-4 border-pink-500'><p class='font-bold text-pink-800 dark:text-pink-300 mb-3'>Example 5: Success Story - Giant Pandas</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Giant pandas were so close to extinction that only about 1,000 remained in the 1980s. China invested in conservation so heavily that panda numbers have now increased to over 1,800 in the wild. If other countries follow China's example, more species can be saved. The success came because the government protected bamboo forests as carefully as they protected the pandas themselves. Pandas are no longer as endangered as they once were, though they still need protection. The more we invest in conservation, the better the results. This success story proves that if we commit resources and political will, we can reverse species decline. Pandas are now a symbol of hope, showing that conservation works provided that we dedicate sufficient effort and funding.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Gấu trúc khổng lồ gần tuyệt chủng đến mức chỉ còn khoảng 1.000 con vào những năm 1980. Trung Quốc đầu tư vào bảo tồn mạnh mẽ đến mức số lượng gấu trúc hiện đã tăng lên hơn 1.800 con trong tự nhiên. Nếu các quốc gia khác làm theo ví dụ của Trung Quốc, nhiều loài có thể được cứu. Thành công đến vì chính phủ bảo vệ rừng tre cẩn thận như họ bảo vệ chính gấu trúc. Gấu trúc không còn có nguy cơ tuyệt chủng như trước đây, mặc dù chúng vẫn cần bảo vệ. Càng đầu tư vào bảo tồn, kết quả càng tốt. Câu chuyện thành công này chứng minh rằng nếu chúng ta cam kết nguồn lực và ý chí chính trị, chúng ta có thể đảo ngược sự suy giảm loài. Gấu trúc hiện là biểu tượng của hy vọng, cho thấy bảo tồn có hiệu quả với điều kiện chúng ta dành đủ nỗ lực và kinh phí.</p></div></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p1-ex1",
+        "type": "mcq",
+        "question": "What is 'wildlife conservation'?",
+        "options": ["Hunting animals", "Protecting animals and their habitats", "Selling animals", "Ignoring animals"],
+        "correct": 1,
+        "explanation": "Wildlife conservation là bảo tồn động vật hoang dã, bảo vệ động vật và môi trường sống của chúng."
+      },
+      {
+        "id": "p1-ex2",
+        "type": "mcq",
+        "question": "What does 'endangered species' mean?",
+        "options": ["Common animals", "Animals at risk of extinction", "Extinct animals", "Domestic animals"],
+        "correct": 1,
+        "explanation": "Endangered species là loài có nguy cơ tuyệt chủng."
+      },
+      {
+        "id": "p1-ex3",
+        "type": "mcq",
+        "question": "What is 'poaching'?",
+        "options": ["Legal hunting", "Illegal hunting", "Protecting animals", "Feeding animals"],
+        "correct": 1,
+        "explanation": "Poaching là săn bắt trái phép, bất hợp pháp."
+      },
+      {
+        "id": "p1-ex4",
+        "type": "mcq",
+        "question": "What is a 'habitat'?",
+        "options": ["A zoo", "Natural living environment", "A pet shop", "A farm"],
+        "correct": 1,
+        "explanation": "Habitat là môi trường sống tự nhiên của động vật."
+      },
+      {
+        "id": "p1-ex5",
+        "type": "mcq",
+        "question": "According to Example 1, how many tigers remain in the wild?",
+        "options": ["Over 10,000", "Fewer than 4,000", "About 100,000", "None"],
+        "correct": 1,
+        "explanation": "Chỉ còn dưới 4.000 con hổ trong tự nhiên."
+      },
+      {
+        "id": "p1-ex6",
+        "type": "mcq",
+        "question": "What is the main threat to elephants mentioned in Example 2?",
+        "options": ["Climate change", "Ivory trade and poaching", "Lack of food", "Disease"],
+        "correct": 1,
+        "explanation": "Buôn bán ngà voi và săn bắt trái phép là mối đe dọa chính."
+      },
+      {
+        "id": "p1-ex7",
+        "type": "mcq",
+        "question": "What percentage of coral reefs could disappear by 2050?",
+        "options": ["10%", "50%", "90%", "100%"],
+        "correct": 2,
+        "explanation": "90% rạn san hô có thể biến mất vào năm 2050."
+      },
+      {
+        "id": "p1-ex8",
+        "type": "mcq",
+        "question": "What is rhino horn made of?",
+        "options": ["Gold", "Keratin (like fingernails)", "Bone", "Ivory"],
+        "correct": 1,
+        "explanation": "Sừng tê giác làm từ keratin, cùng chất liệu như móng tay người."
+      },
+      {
+        "id": "p1-ex9",
+        "type": "mcq",
+        "question": "Which animal is mentioned as a conservation success story?",
+        "options": ["Tigers", "Elephants", "Giant pandas", "Rhinos"],
+        "correct": 2,
+        "explanation": "Gấu trúc khổng lồ là câu chuyện thành công trong bảo tồn."
+      },
+      {
+        "id": "p1-ex10",
+        "type": "mcq",
+        "question": "What does 'biodiversity' mean?",
+        "options": ["One species", "Variety of life forms", "Extinction", "Pollution"],
+        "correct": 1,
+        "explanation": "Biodiversity là đa dạng sinh học, sự đa dạng của các loài sinh vật."
+      },
+      {
+        "id": "p1-ex11",
+        "type": "msq",
+        "question_text": "Decide if these statements are True or False:",
+        "options": [
+          "Tigers are endangered with fewer than 4,000 in the wild.",
+          "Poaching is not a serious problem.",
+          "Coral reefs are dying rapidly.",
+          "Giant pandas have recovered thanks to conservation."
+        ],
+        "correct": [0, 2, 3],
+        "explanation": "a) True - Hổ có nguy cơ tuyệt chủng. b) False - Săn bắt trái phép là vấn đề nghiêm trọng. c) True - Rạn san hô đang chết nhanh. d) True - Gấu trúc đã phục hồi."
+      },
+      {
+        "id": "p1-ex12",
+        "type": "msq",
+        "question_text": "Mark True or False about threats to wildlife:",
+        "options": [
+          "Habitat loss threatens wildlife.",
+          "Climate change has no effect on animals.",
+          "Deforestation destroys animal homes.",
+          "Pollution is harmless to wildlife."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Mất môi trường sống đe dọa động vật. b) False - Biến đổi khí hậu ảnh hưởng lớn. c) True - Phá rừng phá hủy nhà của động vật. d) False - Ô nhiễm có hại."
+      },
+      {
+        "id": "p1-ex13",
+        "type": "msq",
+        "question_text": "Based on the examples, decide True or False:",
+        "options": [
+          "Elephants are keystone species.",
+          "Rhino horn is more valuable than gold on black market.",
+          "Coral reefs support few species.",
+          "Conservation can work if we invest enough."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - Voi là loài then chốt. b) True - Sừng tê giác đắt hơn vàng. c) False - Rạn san hô hỗ trợ hàng nghìn loài. d) True - Bảo tồn có hiệu quả nếu đầu tư đủ."
+      },
+      {
+        "id": "p1-ex14",
+        "type": "sa",
+        "question_text": "Complete: Animals at risk of extinction are called _____ species. (one word)",
+        "correct": "endangered",
+        "explanation": "Endangered species - loài có nguy cơ tuyệt chủng."
+      },
+      {
+        "id": "p1-ex15",
+        "type": "sa",
+        "question_text": "Complete: Illegal hunting is called _____. (one word)",
+        "correct": "poaching",
+        "explanation": "Poaching - săn bắt trái phép."
+      },
+      {
+        "id": "p1-ex16",
+        "type": "sa",
+        "question_text": "What is the Vietnamese meaning of 'habitat'?",
+        "correct": "môi trường sống",
+        "explanation": "'Habitat' nghĩa là môi trường sống tự nhiên."
+      },
+      {
+        "id": "p1-ex17",
+        "type": "sa",
+        "question_text": "Complete: The natural living environment of an animal is its _____. (one word)",
+        "correct": "habitat",
+        "explanation": "Habitat - môi trường sống tự nhiên."
+      },
+      {
+        "id": "p1-ex18",
+        "type": "mcq",
+        "question": "What is the main cause of tiger endangerment?",
+        "options": [
+          "Too much food",
+          "Habitat loss and poaching",
+          "Overpopulation",
+          "Natural disasters only"
+        ],
+        "correct": 1,
+        "explanation": "Mất môi trường sống và săn bắt trái phép là nguyên nhân chính."
+      },
+      {
+        "id": "p1-ex19",
+        "type": "mcq",
+        "question": "According to Example 5, how did China save giant pandas?",
+        "options": [
+          "By doing nothing",
+          "By heavy investment in conservation and protecting bamboo forests",
+          "By moving them to zoos only",
+          "By ignoring the problem"
+        ],
+        "correct": 1,
+        "explanation": "Trung Quốc đầu tư mạnh vào bảo tồn và bảo vệ rừng tre."
+      },
+      {
+        "id": "p1-ex20",
+        "type": "mcq",
+        "question": "What lesson can we learn from the panda success story?",
+        "options": [
+          "Conservation doesn't work",
+          "If we commit resources and effort, we can save species",
+          "Animals will save themselves",
+          "We should give up on conservation"
+        ],
+        "correct": 1,
+        "explanation": "Nếu chúng ta cam kết nguồn lực và nỗ lực, chúng ta có thể cứu các loài."
+      }
+    ]
+  }
+}

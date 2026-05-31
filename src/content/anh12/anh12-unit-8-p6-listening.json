@@ -1,0 +1,221 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-8-p6",
+  "name": "Part 6: Listening",
+  "slug": "p6-listening",
+  "description": "Nghe về nỗ lực bảo tồn",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Listening: Conservation Efforts",
+      "sections": [
+        {
+          "heading": "Listening Skills",
+          "content": "<p><strong>Chủ đề:</strong> A talk about conservation efforts</p><p><strong>Kỹ năng nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Listening for main ideas:</strong> Nghe để nắm ý chính</li><li><strong>Listening for specific information:</strong> Nghe để tìm thông tin cụ thể</li><li><strong>Note-taking:</strong> Ghi chú trong khi nghe</li><li><strong>Understanding conservation terms:</strong> Hiểu thuật ngữ bảo tồn</li></ul><p><strong>Tips for Listening:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc câu hỏi trước khi nghe</li><li>Tập trung vào từ khóa</li><li>Ghi chú thông tin quan trọng</li><li>Chú ý số liệu, tên loài, địa điểm</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "listening-ex1",
+        "type": "mcq",
+        "question": "What is the main topic of a conservation talk?",
+        "options": [
+          "Cooking",
+          "Protecting wildlife and habitats",
+          "Sports",
+          "Travel"
+        ],
+        "correct": 1,
+        "explanation": "Chủ đề chính là bảo vệ động vật hoang dã và môi trường sống."
+      },
+      {
+        "id": "listening-ex2",
+        "type": "mcq",
+        "question": "What does 'endangered' mean?",
+        "options": ["Safe", "At risk of extinction", "Extinct", "Common"],
+        "correct": 1,
+        "explanation": "Endangered = at risk of extinction."
+      },
+      {
+        "id": "listening-ex3",
+        "type": "mcq",
+        "question": "What is 'poaching'?",
+        "options": ["Legal hunting", "Illegal hunting", "Protecting animals", "Feeding animals"],
+        "correct": 1,
+        "explanation": "Poaching là săn bắt trái phép."
+      },
+      {
+        "id": "listening-ex4",
+        "type": "mcq",
+        "question": "What is a 'sanctuary'?",
+        "options": ["A zoo", "A protected area for wildlife", "A farm", "A pet shop"],
+        "correct": 1,
+        "explanation": "Sanctuary là khu bảo tồn cho động vật hoang dã."
+      },
+      {
+        "id": "listening-ex5",
+        "type": "mcq",
+        "question": "What should you do before listening?",
+        "options": ["Sleep", "Read the questions", "Close your eyes", "Talk loudly"],
+        "correct": 1,
+        "explanation": "Nên đọc câu hỏi trước khi nghe."
+      },
+      {
+        "id": "listening-ex6",
+        "type": "mcq",
+        "question": "If someone says 'species are declining', what does it mean?",
+        "options": [
+          "Species are increasing",
+          "Species numbers are decreasing",
+          "Species are safe",
+          "Species are extinct"
+        ],
+        "correct": 1,
+        "explanation": "Declining nghĩa là đang giảm."
+      },
+      {
+        "id": "listening-ex7",
+        "type": "mcq",
+        "question": "What is 'habitat loss'?",
+        "options": [
+          "Gaining habitat",
+          "Losing natural living environment",
+          "Building habitats",
+          "Protecting habitats"
+        ],
+        "correct": 1,
+        "explanation": "Habitat loss là mất môi trường sống tự nhiên."
+      },
+      {
+        "id": "listening-ex8",
+        "type": "mcq",
+        "question": "What is a conservation action you might hear about?",
+        "options": [
+          "Destroying forests",
+          "Creating wildlife sanctuaries",
+          "Hunting animals",
+          "Polluting rivers"
+        ],
+        "correct": 1,
+        "explanation": "Tạo khu bảo tồn là hành động bảo tồn."
+      },
+      {
+        "id": "listening-ex9",
+        "type": "mcq",
+        "question": "What does 'biodiversity' mean?",
+        "options": ["One species", "Variety of life forms", "Extinction", "Pollution"],
+        "correct": 1,
+        "explanation": "Biodiversity là đa dạng sinh học."
+      },
+      {
+        "id": "listening-ex10",
+        "type": "mcq",
+        "question": "If you hear 'currently', what does it mean?",
+        "options": ["In the past", "At the present time", "Never", "In the future"],
+        "correct": 1,
+        "explanation": "'Currently' nghĩa là hiện tại."
+      },
+      {
+        "id": "listening-ex11",
+        "type": "mcq",
+        "question": "What should you focus on while listening?",
+        "options": ["Background noise", "Keywords and main ideas", "Nothing", "Your phone"],
+        "correct": 1,
+        "explanation": "Nên tập trung vào từ khóa và ý chính."
+      },
+      {
+        "id": "listening-ex12",
+        "type": "mcq",
+        "question": "Which phrase shows contrast?",
+        "options": ["Moreover", "However", "Furthermore", "Additionally"],
+        "correct": 1,
+        "explanation": "'However' thể hiện sự tương phản."
+      },
+      {
+        "id": "listening-ex13",
+        "type": "mcq",
+        "question": "What is 'deforestation'?",
+        "options": ["Planting trees", "Cutting down forests", "Protecting forests", "Growing forests"],
+        "correct": 1,
+        "explanation": "Deforestation là phá rừng."
+      },
+      {
+        "id": "listening-ex14",
+        "type": "mcq",
+        "question": "If you miss an answer while listening, you should:",
+        "options": [
+          "Stop and give up",
+          "Keep listening for the next answer",
+          "Leave the room",
+          "Panic"
+        ],
+        "correct": 1,
+        "explanation": "Nên tiếp tục nghe để trả lời câu tiếp theo."
+      },
+      {
+        "id": "listening-ex15",
+        "type": "mcq",
+        "question": "What does 'ecosystem' mean?",
+        "options": [
+          "A single animal",
+          "A system of living things and their environment",
+          "A building",
+          "A machine"
+        ],
+        "correct": 1,
+        "explanation": "Ecosystem là hệ sinh thái."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide if these are good listening strategies (True/False):",
+        "options": [
+          "Read questions before listening",
+          "Try to understand every single word",
+          "Focus on keywords",
+          "Ignore numbers and species names"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Nên đọc câu hỏi trước. b) False - Không cần hiểu từng từ. c) True - Tập trung vào từ khóa. d) False - Số và tên loài quan trọng."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if the word relates to CONSERVATION:",
+        "options": [
+          "Protect",
+          "Destroy",
+          "Preserve",
+          "Pollute"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Protect là bảo vệ. b) False - Destroy là phá hủy. c) True - Preserve là bảo tồn. d) False - Pollute là gây ô nhiễm."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: Animals at risk of extinction are _____. (one word)",
+        "correct": "endangered",
+        "explanation": "Endangered - có nguy cơ tuyệt chủng."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "What does 'habitat' mean? (Write in Vietnamese)",
+        "correct": "môi trường sống",
+        "explanation": "'Habitat' nghĩa là môi trường sống."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: A protected area for wildlife is a _____. (one word)",
+        "correct": "sanctuary",
+        "explanation": "Sanctuary - khu bảo tồn."
+      }
+    ]
+  }
+}

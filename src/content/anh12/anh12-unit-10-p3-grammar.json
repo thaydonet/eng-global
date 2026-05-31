@@ -1,0 +1,213 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-10-p3",
+  "name": "Part 3: Language - Grammar",
+  "slug": "p3-grammar",
+  "description": "Câu tường thuật cho mệnh lệnh, yêu cầu, lời đề nghị và lời khuyên",
+  "duration_minutes": 60,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Grammar: Reported Speech for Commands, Requests, Offers, and Advice",
+      "sections": [
+        {
+          "heading": "A. Tường thuật mệnh lệnh (Reported Commands)",
+          "content": "<p><strong>1. Mệnh lệnh khẳng định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + told/ordered/commanded + O + to V</li><li><strong>Direct:</strong> \"Study harder!\" she said to me.</li><li><strong>Reported:</strong> She told me to study harder.</li><li><strong>Direct:</strong> \"Finish your homework!\" the teacher said.</li><li><strong>Reported:</strong> The teacher ordered us to finish our homework.</li></ul><p><strong>2. Mệnh lệnh phủ định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + told/ordered + O + not to V</li><li><strong>Direct:</strong> \"Don't be late!\" she said to me.</li><li><strong>Reported:</strong> She told me not to be late.</li><li><strong>Direct:</strong> \"Don't forget!\" he said.</li><li><strong>Reported:</strong> He ordered us not to forget.</li></ul>"
+        },
+        {
+          "heading": "B. Tường thuật yêu cầu (Reported Requests)",
+          "content": "<p><strong>1. Yêu cầu khẳng định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + asked/requested + O + to V</li><li><strong>Direct:</strong> \"Please help me,\" she said.</li><li><strong>Reported:</strong> She asked me to help her.</li><li><strong>Direct:</strong> \"Could you attend?\" he said.</li><li><strong>Reported:</strong> He requested us to attend.</li></ul><p><strong>2. Yêu cầu phủ định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + asked/requested + O + not to V</li><li><strong>Direct:</strong> \"Please don't tell anyone,\" she said.</li><li><strong>Reported:</strong> She asked me not to tell anyone.</li></ul>"
+        },
+        {
+          "heading": "C. Tường thuật lời đề nghị (Reported Offers)",
+          "content": "<p><strong>1. Đề nghị làm gì cho người khác:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + offered/volunteered + to V</li><li><strong>Direct:</strong> \"I'll help you,\" she said.</li><li><strong>Reported:</strong> She offered to help me.</li><li><strong>Direct:</strong> \"Shall I carry your bag?\" he said.</li><li><strong>Reported:</strong> He offered to carry my bag.</li></ul>"
+        },
+        {
+          "heading": "D. Tường thuật lời khuyên (Reported Advice)",
+          "content": "<p><strong>1. Lời khuyên khẳng định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + advised/recommended + O + to V</li><li><strong>Direct:</strong> \"You should take this course,\" she said.</li><li><strong>Reported:</strong> She advised me to take that course.</li></ul><p><strong>2. Lời khuyên phủ định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + advised/warned + O + not to V</li><li><strong>Direct:</strong> \"You shouldn't give up,\" she said.</li><li><strong>Reported:</strong> She advised me not to give up.</li></ul><p><strong>3. Suggest:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + suggested + V-ing</li><li><strong>Direct:</strong> \"Let's study together,\" she said.</li><li><strong>Reported:</strong> She suggested studying together.</li><li><strong>Hoặc:</strong> S + suggested + (that) + S + (should) + V</li><li><strong>Reported:</strong> She suggested that we (should) study together.</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "grammar-ex1",
+        "type": "mcq",
+        "question": "Choose: 'Study harder!' → She _____ me to study harder.",
+        "options": ["told", "said", "spoke", "talked"],
+        "correct": 0,
+        "explanation": "Told + O + to V cho mệnh lệnh."
+      },
+      {
+        "id": "grammar-ex2",
+        "type": "mcq",
+        "question": "Complete: 'Please help me.' → She _____ me to help her.",
+        "options": ["told", "asked", "ordered", "said"],
+        "correct": 1,
+        "explanation": "Asked + O + to V cho yêu cầu."
+      },
+      {
+        "id": "grammar-ex3",
+        "type": "mcq",
+        "question": "Choose: 'I'll help you.' → She _____ to help me.",
+        "options": ["told", "asked", "offered", "ordered"],
+        "correct": 2,
+        "explanation": "Offered + to V cho lời đề nghị."
+      },
+      {
+        "id": "grammar-ex4",
+        "type": "mcq",
+        "question": "Complete: 'You should study.' → She _____ me to study.",
+        "options": ["told", "asked", "advised", "ordered"],
+        "correct": 2,
+        "explanation": "Advised + O + to V cho lời khuyên."
+      },
+      {
+        "id": "grammar-ex5",
+        "type": "mcq",
+        "question": "Choose: 'Don't be late!' → She told me _____ late.",
+        "options": ["to not be", "not to be", "don't be", "not be"],
+        "correct": 1,
+        "explanation": "Not to V cho mệnh lệnh phủ định."
+      },
+      {
+        "id": "grammar-ex6",
+        "type": "mcq",
+        "question": "Complete: 'Let's study together.' → She suggested _____ together.",
+        "options": ["to study", "study", "studying", "studied"],
+        "correct": 2,
+        "explanation": "Suggested + V-ing."
+      },
+      {
+        "id": "grammar-ex7",
+        "type": "mcq",
+        "question": "Choose: 'Finish your work!' → The teacher _____ us to finish our work.",
+        "options": ["said", "told", "spoke", "talked"],
+        "correct": 1,
+        "explanation": "Told + O + to V."
+      },
+      {
+        "id": "grammar-ex8",
+        "type": "mcq",
+        "question": "Complete: 'Could you attend?' → He _____ us to attend.",
+        "options": ["told", "requested", "offered", "suggested"],
+        "correct": 1,
+        "explanation": "Requested + O + to V cho yêu cầu."
+      },
+      {
+        "id": "grammar-ex9",
+        "type": "mcq",
+        "question": "Choose: 'I'll teach you.' → He _____ to teach me.",
+        "options": ["told", "asked", "volunteered", "ordered"],
+        "correct": 2,
+        "explanation": "Volunteered + to V."
+      },
+      {
+        "id": "grammar-ex10",
+        "type": "mcq",
+        "question": "Complete: 'You shouldn't give up.' → She _____ me not to give up.",
+        "options": ["told", "asked", "advised", "offered"],
+        "correct": 2,
+        "explanation": "Advised + O + not to V."
+      },
+      {
+        "id": "grammar-ex11",
+        "type": "mcq",
+        "question": "Which is correct?",
+        "options": [
+          "She told me to study.",
+          "She told to me study.",
+          "She told me study.",
+          "She told studying me."
+        ],
+        "correct": 0,
+        "explanation": "Told + O + to V là cấu trúc đúng."
+      },
+      {
+        "id": "grammar-ex12",
+        "type": "mcq",
+        "question": "Choose: 'Please don't tell anyone.' → She asked me _____ anyone.",
+        "options": ["to not tell", "not to tell", "don't tell", "not tell"],
+        "correct": 1,
+        "explanation": "Not to V cho yêu cầu phủ định."
+      },
+      {
+        "id": "grammar-ex13",
+        "type": "mcq",
+        "question": "Complete: 'Shall I help you?' → He _____ to help me.",
+        "options": ["told", "asked", "offered", "ordered"],
+        "correct": 2,
+        "explanation": "Offered + to V."
+      },
+      {
+        "id": "grammar-ex14",
+        "type": "mcq",
+        "question": "Choose: 'You should take the course.' → She _____ me to take the course.",
+        "options": ["told", "recommended", "ordered", "asked"],
+        "correct": 1,
+        "explanation": "Recommended + O + to V."
+      },
+      {
+        "id": "grammar-ex15",
+        "type": "mcq",
+        "question": "Which sentence is correct?",
+        "options": [
+          "She suggested to study together.",
+          "She suggested studying together.",
+          "She suggested study together.",
+          "She suggested studied together."
+        ],
+        "correct": 1,
+        "explanation": "Suggested + V-ing."
+      },
+      {
+        "id": "grammar-ex16",
+        "type": "msq",
+        "question_text": "Decide if these are correct (True/False):",
+        "options": [
+          "She told me to study.",
+          "She asked me to help her.",
+          "She offered to helping me.",
+          "She advised me to take the course."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True. b) True. c) False - offered to help. d) True."
+      },
+      {
+        "id": "grammar-ex17",
+        "type": "msq",
+        "question_text": "Mark True if the grammar is correct:",
+        "options": [
+          "He ordered us to finish the work.",
+          "She requested us to attend.",
+          "He volunteered to teach me.",
+          "She suggested to study together."
+        ],
+        "correct": [0, 1, 2],
+        "explanation": "a) True. b) True. c) True. d) False - suggested studying."
+      },
+      {
+        "id": "grammar-ex18",
+        "type": "sa",
+        "question_text": "Complete: She _____ me to study. (told/said)",
+        "correct": "told",
+        "explanation": "Told + O + to V."
+      },
+      {
+        "id": "grammar-ex19",
+        "type": "sa",
+        "question_text": "Complete: She _____ me to help her. (asked/said)",
+        "correct": "asked",
+        "explanation": "Asked + O + to V."
+      },
+      {
+        "id": "grammar-ex20",
+        "type": "sa",
+        "question_text": "Complete: She _____ to help me. (offered/asked)",
+        "correct": "offered",
+        "explanation": "Offered + to V."
+      }
+    ]
+  }
+}

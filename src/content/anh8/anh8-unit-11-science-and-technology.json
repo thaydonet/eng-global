@@ -1,0 +1,305 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-unit-11-science-and-technology",
+      "name": "Unit 11: Science and Technology",
+      "slug": "unit-11-science-and-technology",
+      "chapter": "Unit 11: Science and Technology",
+      "chapter_id": "A8",
+      "lesson_id": 11,
+      "description": "Learn about science and technology with reported speech (statements).",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2672&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-11",
+          "name": "Science and Technology Vocabulary",
+          "slug": "science-technology-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 11: Science and Technology",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Science fields:</strong> biology, chemistry, physics, astronomy, genetics, robotics</p><p><strong>Technology:</strong> invention, innovation, discovery, experiment, research, laboratory, scientist, engineer</p><p><strong>Devices:</strong> robot, drone, 3D printer, smart device, wearable technology</p>"
+            },
+            {
+              "heading": "2-12. Các phần còn lại",
+              "content": "<p>Luyện tập từ vựng, Ngữ âm, Ngữ pháp, Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>Reported Speech - Statements (Câu tường thuật - Câu trần thuật)</h3><p><strong>A. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + said (that) + S + V (lùi thì)</li><li>S + told + O + (that) + S + V (lùi thì)</li></ul><p><strong>B. Quy tắc lùi thì:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Present Simple → Past Simple</li><li>Ex: \"I like science.\" → He said (that) he <strong>liked</strong> science.</li><li>Present Continuous → Past Continuous</li><li>Ex: \"I am studying.\" → She said (that) she <strong>was studying</strong>.</li><li>Past Simple → Past Perfect</li><li>Ex: \"I went there.\" → He said (that) he <strong>had gone</strong> there.</li><li>Will → Would</li><li>Ex: \"I will help.\" → She said (that) she <strong>would</strong> help.</li><li>Can → Could</li><li>Ex: \"I can do it.\" → He said (that) he <strong>could</strong> do it.</li></ul><p><strong>C. Thay đổi đại từ và trạng từ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I → he/she</li><li>we → they</li><li>my → his/her</li><li>here → there</li><li>now → then</li><li>today → that day</li><li>tomorrow → the next day</li><li>yesterday → the day before</li></ul><p><strong>D. Said vs Told:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Said:</strong> không có tân ngữ</li><li>Ex: He <strong>said</strong> (that) he was tired.</li><li><strong>Told:</strong> có tân ngữ</li><li>Ex: He <strong>told me</strong> (that) he was tired.</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Lùi thì Present → Past",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Present Simple → Past Simple</li><li>Present Continuous → Past Continuous</li><li>Thay đổi đại từ</li></ul>",
+            "examples": [
+              {
+                "question": "\"I like science.\" → He said ______.",
+                "solution": "He said (that) he <strong>liked</strong> science.",
+                "explanation": "like → liked (lùi thì); I → he"
+              },
+              {
+                "question": "\"I am studying.\" → She said ______.",
+                "solution": "She said (that) she <strong>was studying</strong>.",
+                "explanation": "am studying → was studying; I → she"
+              },
+              {
+                "question": "\"We love technology.\" → They said ______.",
+                "solution": "They said (that) they <strong>loved</strong> technology.",
+                "explanation": "love → loved; We → they"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Lùi thì với Will/Can",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Will → Would</li><li>Can → Could</li><li>Thay đổi đại từ và trạng từ</li></ul>",
+            "examples": [
+              {
+                "question": "\"I will help you.\" → She said ______.",
+                "solution": "She said (that) she <strong>would</strong> help me.",
+                "explanation": "will → would; I → she; you → me"
+              },
+              {
+                "question": "\"I can do it.\" → He said ______.",
+                "solution": "He said (that) he <strong>could</strong> do it.",
+                "explanation": "can → could; I → he"
+              },
+              {
+                "question": "\"We will come tomorrow.\" → They said ______.",
+                "solution": "They said (that) they <strong>would</strong> come <strong>the next day</strong>.",
+                "explanation": "will → would; We → they; tomorrow → the next day"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Said vs Told",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Said: không có tân ngữ</li><li>Told + tân ngữ (me, him, her, us, them)</li></ul>",
+            "examples": [
+              {
+                "question": "\"I am tired.\" → He ______ (that) he was tired.",
+                "solution": "He <strong>said</strong> (that) he was tired.",
+                "explanation": "Không có tân ngữ → said"
+              },
+              {
+                "question": "\"I am tired.\" → He ______ me (that) he was tired.",
+                "solution": "He <strong>told</strong> me (that) he was tired.",
+                "explanation": "Có tân ngữ 'me' → told"
+              },
+              {
+                "question": "\"I like robots.\" → She ______ us (that) she liked robots.",
+                "solution": "She <strong>told</strong> us (that) she liked robots.",
+                "explanation": "Có tân ngữ 'us' → told"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Thay đổi trạng từ thời gian/nơi chốn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>here → there</li><li>now → then</li><li>today → that day</li><li>tomorrow → the next day</li><li>yesterday → the day before</li></ul>",
+            "examples": [
+              {
+                "question": "\"I am here now.\" → He said ______.",
+                "solution": "He said (that) he was <strong>there then</strong>.",
+                "explanation": "here → there; now → then"
+              },
+              {
+                "question": "\"I will come tomorrow.\" → She said ______.",
+                "solution": "She said (that) she would come <strong>the next day</strong>.",
+                "explanation": "tomorrow → the next day"
+              },
+              {
+                "question": "\"I saw him yesterday.\" → He said ______.",
+                "solution": "He said (that) he had seen him <strong>the day before</strong>.",
+                "explanation": "saw → had seen; yesterday → the day before"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "\"I like science.\" → He said he ______ science.",
+            "options": ["like", "likes", "liked", "liking"],
+            "correct": 2,
+            "explanation": "Present Simple → Past Simple"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "\"I am studying.\" → She said she ______ studying.",
+            "options": ["am", "is", "was", "were"],
+            "correct": 2,
+            "explanation": "am → was"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "\"I will help.\" → She said she ______ help.",
+            "options": ["will", "would", "can", "could"],
+            "correct": 1,
+            "explanation": "will → would"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "\"I can do it.\" → He said he ______ do it.",
+            "options": ["can", "could", "will", "would"],
+            "correct": 1,
+            "explanation": "can → could"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "\"I am tired.\" → He ______ he was tired.",
+            "options": ["said", "told", "say", "tell"],
+            "correct": 0,
+            "explanation": "Không có tân ngữ → said"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "\"I am tired.\" → He ______ me he was tired.",
+            "options": ["said", "told", "say", "tell"],
+            "correct": 1,
+            "explanation": "Có tân ngữ → told"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "\"I am here.\" → He said he was ______.",
+            "options": ["here", "there", "this", "that"],
+            "correct": 1,
+            "explanation": "here → there"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "\"I will come tomorrow.\" → She said she would come ______.",
+            "options": ["tomorrow", "the next day", "yesterday", "today"],
+            "correct": 1,
+            "explanation": "tomorrow → the next day"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "\"We love robots.\" → They said they ______ robots.",
+            "options": ["love", "loves", "loved", "loving"],
+            "correct": 2,
+            "explanation": "love → loved"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "\"I saw him yesterday.\" → He said he ______ him the day before.",
+            "options": ["see", "saw", "had seen", "have seen"],
+            "correct": 2,
+            "explanation": "saw → had seen"
+          },
+          {
+            "id": "msq1",
+            "type": "multiple-select",
+            "question": "Which are correct reported speech transformations? (Select all that apply)",
+            "options": ["\"I like it.\" → He said he liked it.", "\"I will go.\" → She said she would go.", "\"I can help.\" → He said he can help.", "\"I am here.\" → She said she was there."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: liked, would go, was there. Sai: can → could (không phải can)"
+          },
+          {
+            "id": "msq2",
+            "type": "multiple-select",
+            "question": "Which time expressions change in reported speech? (Select all that apply)",
+            "options": ["tomorrow → the next day", "yesterday → the day before", "now → then", "always → always"],
+            "correct": [0, 1, 2],
+            "explanation": "tomorrow, yesterday, now đều thay đổi. 'always' không đổi."
+          },
+          {
+            "id": "msq3",
+            "type": "multiple-select",
+            "question": "Which sentences use 'told' correctly? (Select all that apply)",
+            "options": ["He told me he was tired.", "She told that she liked it.", "They told us they would come.", "I told him I could help."],
+            "correct": [0, 2, 3],
+            "explanation": "told + tân ngữ. Câu 2 sai vì 'told that' (thiếu tân ngữ)."
+          },
+          {
+            "id": "sa1",
+            "type": "short-answer",
+            "question": "Transform: \"I like science.\" → He said ______.",
+            "answer": "he liked science / (that) he liked science",
+            "explanation": "like → liked; I → he"
+          },
+          {
+            "id": "sa2",
+            "type": "short-answer",
+            "question": "Transform: \"I will help you.\" → She told me ______.",
+            "answer": "she would help me / (that) she would help me",
+            "explanation": "will → would; I → she; you → me"
+          },
+          {
+            "id": "sa3",
+            "type": "short-answer",
+            "question": "Transform: \"I am here now.\" → He said ______.",
+            "answer": "he was there then / (that) he was there then",
+            "explanation": "am → was; here → there; now → then"
+          },
+          {
+            "id": "sa4",
+            "type": "short-answer",
+            "question": "Choose: He ______ (said/told) me he was tired.",
+            "answer": "told",
+            "explanation": "Có tân ngữ 'me' → told"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Transform to reported speech: \"I love technology. I study it every day.\" (He said...)",
+            "sample_answer": "He said (that) he loved technology. He said (that) he studied it every day.",
+            "explanation": "love → loved; study → studied; I → he"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform to reported speech: \"I will invent a robot. I can do it.\" (She told me...)",
+            "sample_answer": "She told me (that) she would invent a robot. She told me (that) she could do it.",
+            "explanation": "will → would; can → could; I → she; told + me"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Rearrange and transform: said / He / he / liked / science / . / told / She / me / she / studying / was / .",
+            "sample_answer": "He said he liked science. She told me she was studying.",
+            "explanation": "Sắp xếp: said (không tân ngữ); told me (có tân ngữ)"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Transform: \"I am working here now. I will finish tomorrow.\" (He said...)",
+            "sample_answer": "He said (that) he was working there then. He said (that) he would finish the next day.",
+            "explanation": "am working → was working; here → there; now → then; will → would; tomorrow → the next day"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Transform and combine: \"I like robots.\" + \"I will buy one tomorrow.\" (She told us... Use 'and')",
+            "sample_answer": "She told us (that) she liked robots and (that) she would buy one the next day.",
+            "explanation": "like → liked; will buy → would buy; tomorrow → the next day; kết hợp bằng 'and'"
+          }
+        ]
+      }
+    }
+  ]
+}

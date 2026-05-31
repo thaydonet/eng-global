@@ -1,0 +1,174 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-unit-9-natural-disasters",
+      "name": "Unit 9: Natural Disasters",
+      "slug": "unit-9-natural-disasters",
+      "chapter": "Unit 9: Natural Disasters",
+      "chapter_id": "A8",
+      "lesson_id": 9,
+      "description": "Learn about natural disasters with past continuous tense.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-9",
+          "name": "Natural Disasters Vocabulary",
+          "slug": "natural-disasters-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 9: Natural Disasters",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Natural disasters:</strong> earthquake, tsunami, flood, drought, storm, typhoon, hurricane, tornado, volcanic eruption, landslide, avalanche, wildfire</p><p><strong>Actions:</strong> evacuate, rescue, damage, destroy, collapse, warn, predict, prepare, survive, recover</p><p><strong>Effects:</strong> victim, casualty, injury, death, homeless, damage, destruction, loss</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Disaster-related expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>natural disaster:</strong> thiên tai</li><li><strong>emergency kit:</strong> bộ dụng cụ khẩn cấp</li><li><strong>warning system:</strong> hệ thống cảnh báo</li><li><strong>rescue team:</strong> đội cứu hộ</li><li><strong>take shelter:</strong> trú ẩn</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Stress in words ending in -logy and -graphy</h3><p><strong>Nhấn trước -logy/-graphy:</strong></p><ul class='list-disc pl-5 space-y-2'><li>tech'nology /tekˈnɒlədʒi/</li><li>ge'ography /dʒiˈɒɡrəfi/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>Past Continuous Tense (Thì quá khứ tiếp diễn)</h3><p><strong>A. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + was/were + V-ing</li><li>Ex: I <strong>was sleeping</strong> when the earthquake happened.</li><li><strong>Phủ định:</strong> S + wasn't/weren't + V-ing</li><li>Ex: She <strong>wasn't watching</strong> TV.</li><li><strong>Nghi vấn:</strong> Was/Were + S + V-ing?</li><li>Ex: <strong>Were</strong> you <strong>studying</strong>?</li></ul><p><strong>B. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>1. Hành động đang xảy ra tại 1 thời điểm quá khứ:</strong></li><li>Ex: At 8 p.m. yesterday, I <strong>was watching</strong> TV.</li><li><strong>2. Hành động đang xảy ra thì có hành động khác xen vào:</strong></li><li>Ex: I <strong>was sleeping</strong> when the phone rang.</li><li>(Past continuous + when + past simple)</li><li><strong>3. Hai hành động đang xảy ra song song:</strong></li><li>Ex: While I <strong>was studying</strong>, she <strong>was cooking</strong>.</li><li>(While + past continuous, past continuous)</li></ul><p><strong>C. Dấu hiệu nhận biết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>at + thời gian + yesterday/last...</li><li>at this time yesterday</li><li>when, while</li></ul><p><strong>D. Past Continuous vs Past Simple:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Past Continuous:</strong> hành động đang xảy ra (dài)</li><li><strong>Past Simple:</strong> hành động xen vào (ngắn)</li><li>Ex: I <strong>was walking</strong> (dài) when it <strong>started</strong> to rain (ngắn).</li></ul>"
+            },
+            {
+              "heading": "5-12. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Past Continuous",
+            "method": "<p><strong>Phương pháp:</strong> S + was/were + V-ing</p>",
+            "examples": [
+              {
+                "question": "I ______ (sleep) at 8 p.m. yesterday.",
+                "solution": "I <strong>was sleeping</strong> at 8 p.m. yesterday.",
+                "explanation": "Hành động đang xảy ra tại thời điểm quá khứ"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: When + Past Simple",
+            "method": "<p><strong>Phương pháp:</strong> Past continuous + when + past simple</p>",
+            "examples": [
+              {
+                "question": "I ______ (sleep) when the earthquake ______ (happen).",
+                "solution": "I <strong>was sleeping</strong> when the earthquake <strong>happened</strong>.",
+                "explanation": "Hành động đang xảy ra + hành động xen vào"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: While + Past Continuous",
+            "method": "<p><strong>Phương pháp:</strong> While + past continuous, past continuous</p>",
+            "examples": [
+              {
+                "question": "While I ______ (study), she ______ (cook).",
+                "solution": "While I <strong>was studying</strong>, she <strong>was cooking</strong>.",
+                "explanation": "Hai hành động đang xảy ra song song"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I ______ at 8 p.m. yesterday.",
+            "options": ["sleep", "slept", "was sleeping", "am sleeping"],
+            "correct": 2,
+            "explanation": "Thời điểm quá khứ → past continuous"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "I was sleeping when the earthquake ______.",
+            "options": ["happen", "happens", "happened", "was happening"],
+            "correct": 2,
+            "explanation": "Hành động xen vào → past simple"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "While I ______, she was cooking.",
+            "options": ["study", "studied", "was studying", "am studying"],
+            "correct": 2,
+            "explanation": "While + past continuous"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "They ______ TV when the storm started.",
+            "options": ["watch", "watched", "were watching", "are watching"],
+            "correct": 2,
+            "explanation": "Hành động đang xảy ra → past continuous"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "______ you studying at 9 p.m.?",
+            "options": ["Was", "Were", "Did", "Do"],
+            "correct": 1,
+            "explanation": "You + past continuous → Were"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "She ______ when I called.",
+            "options": ["sleep", "slept", "was sleeping", "is sleeping"],
+            "correct": 2,
+            "explanation": "Hành động đang xảy ra → past continuous"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "While it ______, we stayed inside.",
+            "options": ["rain", "rained", "was raining", "is raining"],
+            "correct": 2,
+            "explanation": "While + past continuous"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "I ______ my homework when the lights went out.",
+            "options": ["do", "did", "was doing", "am doing"],
+            "correct": 2,
+            "explanation": "Hành động đang xảy ra → past continuous"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "______ she cooking at that time?",
+            "options": ["Was", "Were", "Did", "Does"],
+            "correct": 0,
+            "explanation": "She + past continuous → Was"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "They ______ when the tsunami hit.",
+            "options": ["evacuate", "evacuated", "were evacuating", "are evacuating"],
+            "correct": 2,
+            "explanation": "Hành động đang xảy ra → past continuous"
+          }
+        ]
+      }
+    }
+  ]
+}

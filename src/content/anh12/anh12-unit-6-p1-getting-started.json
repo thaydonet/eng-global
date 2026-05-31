@@ -1,0 +1,209 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-6-p1",
+  "name": "Part 1: Getting Started",
+  "slug": "p1-getting-started",
+  "description": "Giới thiệu chủ đề về trí tuệ nhân tạo",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Getting Started: AI in Our Lives",
+      "sections": [
+        {
+          "heading": "1. Tóm tắt lý thuyết",
+          "content": "<div class='bg-gradient-to-r from-blue-50 to-purple-50 dark:from-blue-900/20 dark:to-purple-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-blue-900 dark:text-blue-300'>🤖 Trí tuệ nhân tạo - Artificial Intelligence (AI)</h3><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-blue-700 dark:text-blue-400 mb-3'>Khái niệm chính:</h4><ul class='list-disc pl-6 space-y-2'><li><strong>Artificial Intelligence (AI):</strong> Trí tuệ nhân tạo - khả năng máy tính thực hiện các nhiệm vụ đòi hỏi trí thông minh của con người</li><li><strong>Machine Learning:</strong> Học máy - AI học từ dữ liệu và kinh nghiệm</li><li><strong>Algorithm:</strong> Thuật toán - tập hợp các quy tắc để giải quyết vấn đề</li><li><strong>Data:</strong> Dữ liệu - thông tin mà AI sử dụng để học</li><li><strong>Automation:</strong> Tự động hóa - sử dụng công nghệ để thực hiện công việc tự động</li></ul></div><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-purple-700 dark:text-purple-400 mb-3'>Ứng dụng AI:</h4><ol class='list-decimal pl-6 space-y-1'><li>Virtual assistants (Siri, Alexa, Google Assistant)</li><li>Facial recognition (Nhận dạng khuôn mặt)</li><li>Autonomous vehicles (Xe tự lái)</li><li>Recommendation systems (Hệ thống gợi ý)</li><li>Translation software (Phần mềm dịch thuật)</li><li>Medical diagnosis (Chẩn đoán y tế)</li></ol></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ về AI trong cuộc sống",
+          "content": "<div class='space-y-4'><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg border-l-4 border-blue-500'><p class='font-bold text-blue-800 dark:text-blue-300 mb-3'>Example 1: Virtual Assistants</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> I use Siri on my phone every day. I have Siri set reminders, send messages, and answer questions. When I say 'Hey Siri, what's the weather today?', it processes my voice and gives me accurate information. This AI technology makes my life more convenient.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Tôi sử dụng Siri trên điện thoại mỗi ngày. Tôi nhờ Siri đặt lời nhắc, gửi tin nhắn và trả lời câu hỏi. Khi tôi nói 'Hey Siri, thời tiết hôm nay thế nào?', nó xử lý giọng nói của tôi và cung cấp thông tin chính xác. Công nghệ AI này làm cuộc sống tôi tiện lợi hơn.</p></div></div><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg border-l-4 border-green-500'><p class='font-bold text-green-800 dark:text-green-300 mb-3'>Example 2: Facial Recognition</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> My smartphone uses facial recognition to unlock. I have my phone recognize my face instead of using a password. The AI analyzes my facial features and compares them with stored data. This technology is fast, secure, and very efficient.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Điện thoại thông minh của tôi sử dụng nhận dạng khuôn mặt để mở khóa. Tôi để điện thoại nhận dạng khuôn mặt thay vì dùng mật khẩu. AI phân tích các đặc điểm khuôn mặt và so sánh với dữ liệu đã lưu. Công nghệ này nhanh, an toàn và rất hiệu quả.</p></div></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg border-l-4 border-purple-500'><p class='font-bold text-purple-800 dark:text-purple-300 mb-3'>Example 3: Recommendation Systems</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> When I watch videos on YouTube or shop on Amazon, AI recommends content based on my preferences. The algorithm analyzes my viewing history and predicts what I might like. I get AI to suggest movies, products, and music that match my interests. This personalized experience is powered by machine learning.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Khi tôi xem video trên YouTube hoặc mua sắm trên Amazon, AI gợi ý nội dung dựa trên sở thích của tôi. Thuật toán phân tích lịch sử xem của tôi và dự đoán những gì tôi có thể thích. Tôi để AI gợi ý phim, sản phẩm và nhạc phù hợp với sở thích. Trải nghiệm cá nhân hóa này được hỗ trợ bởi học máy.</p></div></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg border-l-4 border-orange-500'><p class='font-bold text-orange-800 dark:text-orange-300 mb-3'>Example 4: Translation Technology</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Google Translate uses AI to translate text between languages instantly. I have Google Translate convert documents from English to Vietnamese. The AI recognizes patterns in language and provides accurate translations. This technology breaks down language barriers and helps people communicate globally.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Google Dịch sử dụng AI để dịch văn bản giữa các ngôn ngữ ngay lập tức. Tôi nhờ Google Dịch chuyển đổi tài liệu từ tiếng Anh sang tiếng Việt. AI nhận dạng các mẫu trong ngôn ngữ và cung cấp bản dịch chính xác. Công nghệ này phá vỡ rào cản ngôn ngữ và giúp mọi người giao tiếp toàn cầu.</p></div></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg border-l-4 border-pink-500'><p class='font-bold text-pink-800 dark:text-pink-300 mb-3'>Example 5: AI in Healthcare</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Hospitals are using AI to diagnose diseases more accurately. Doctors have AI analyze medical images like X-rays and MRI scans. The intelligent system can detect patterns that humans might miss. AI helps doctors make better decisions and saves lives. However, we must ensure that AI is used ethically and doesn't replace human judgment completely.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Các bệnh viện đang sử dụng AI để chẩn đoán bệnh chính xác hơn. Bác sĩ nhờ AI phân tích hình ảnh y tế như X quang và MRI. Hệ thống thông minh có thể phát hiện các mẫu mà con người có thể bỏ lỡ. AI giúp bác sĩ đưa ra quyết định tốt hơn và cứu sống nhiều người. Tuy nhiên, chúng ta phải đảm bảo AI được sử dụng có đạo đức và không thay thế hoàn toàn phán đoán của con người.</p></div></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p1-ex1",
+        "type": "mcq",
+        "question": "What is 'Artificial Intelligence'?",
+        "options": ["A type of robot", "Computer ability to perform tasks requiring human intelligence", "A video game", "A social media app"],
+        "correct": 1,
+        "explanation": "AI là khả năng máy tính thực hiện các nhiệm vụ đòi hỏi trí thông minh của con người."
+      },
+      {
+        "id": "p1-ex2",
+        "type": "mcq",
+        "question": "What is 'machine learning'?",
+        "options": ["Teaching machines to walk", "AI learning from data and experience", "Building machines", "Repairing computers"],
+        "correct": 1,
+        "explanation": "Machine learning là AI học từ dữ liệu và kinh nghiệm."
+      },
+      {
+        "id": "p1-ex3",
+        "type": "mcq",
+        "question": "Which is an example of a virtual assistant?",
+        "options": ["Microsoft Word", "Siri", "Calculator", "Camera"],
+        "correct": 1,
+        "explanation": "Siri là một trợ lý ảo (virtual assistant)."
+      },
+      {
+        "id": "p1-ex4",
+        "type": "mcq",
+        "question": "What does facial recognition do?",
+        "options": ["Takes photos", "Identifies people by their faces", "Edits pictures", "Deletes images"],
+        "correct": 1,
+        "explanation": "Facial recognition nhận dạng người qua khuôn mặt."
+      },
+      {
+        "id": "p1-ex5",
+        "type": "mcq",
+        "question": "What is an 'algorithm'?",
+        "options": ["A type of computer", "A set of rules to solve problems", "A programming language", "A website"],
+        "correct": 1,
+        "explanation": "Algorithm là tập hợp các quy tắc để giải quyết vấn đề."
+      },
+      {
+        "id": "p1-ex6",
+        "type": "mcq",
+        "question": "What does 'automation' mean?",
+        "options": ["Manual work", "Using technology to perform tasks automatically", "Stopping work", "Slowing down"],
+        "correct": 1,
+        "explanation": "Automation là sử dụng công nghệ để thực hiện công việc tự động."
+      },
+      {
+        "id": "p1-ex7",
+        "type": "mcq",
+        "question": "How does AI help in healthcare?",
+        "options": ["It replaces all doctors", "It analyzes medical images and helps diagnose diseases", "It only schedules appointments", "It doesn't help at all"],
+        "correct": 1,
+        "explanation": "AI phân tích hình ảnh y tế và giúp chẩn đoán bệnh."
+      },
+      {
+        "id": "p1-ex8",
+        "type": "mcq",
+        "question": "What is a recommendation system?",
+        "options": ["A system that deletes files", "AI that suggests content based on preferences", "A backup system", "An antivirus program"],
+        "correct": 1,
+        "explanation": "Recommendation system là AI gợi ý nội dung dựa trên sở thích."
+      },
+      {
+        "id": "p1-ex9",
+        "type": "mcq",
+        "question": "What does Google Translate use AI for?",
+        "options": ["To play games", "To translate text between languages", "To send emails", "To make phone calls"],
+        "correct": 1,
+        "explanation": "Google Translate sử dụng AI để dịch văn bản giữa các ngôn ngữ."
+      },
+      {
+        "id": "p1-ex10",
+        "type": "mcq",
+        "question": "What is 'data' in AI context?",
+        "options": ["Computer hardware", "Information that AI uses to learn", "A type of software", "Internet connection"],
+        "correct": 1,
+        "explanation": "Data là thông tin mà AI sử dụng để học."
+      },
+      {
+        "id": "p1-ex11",
+        "type": "msq",
+        "question_text": "Decide if these statements are True or False:",
+        "options": [
+          "AI can recognize faces.",
+          "Machine learning requires explicit programming for every task.",
+          "Virtual assistants like Siri use AI.",
+          "AI cannot help in medical diagnosis."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - AI có thể nhận dạng khuôn mặt. b) False - Machine learning học từ dữ liệu, không cần lập trình từng nhiệm vụ. c) True - Trợ lý ảo sử dụng AI. d) False - AI có thể giúp chẩn đoán y tế."
+      },
+      {
+        "id": "p1-ex12",
+        "type": "msq",
+        "question_text": "Mark True or False about AI applications:",
+        "options": [
+          "YouTube uses AI to recommend videos.",
+          "Autonomous vehicles drive themselves using AI.",
+          "AI cannot translate languages.",
+          "Facial recognition is an AI technology."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - YouTube dùng AI gợi ý video. b) True - Xe tự lái sử dụng AI. c) False - AI có thể dịch ngôn ngữ. d) True - Nhận dạng khuôn mặt là công nghệ AI."
+      },
+      {
+        "id": "p1-ex13",
+        "type": "msq",
+        "question_text": "Based on the examples, decide True or False:",
+        "options": [
+          "AI makes life more convenient.",
+          "AI is only used in smartphones.",
+          "AI can analyze patterns in data.",
+          "AI should be used without ethical considerations."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - AI làm cuộc sống tiện lợi hơn. b) False - AI được dùng trong nhiều lĩnh vực. c) True - AI có thể phân tích mẫu trong dữ liệu. d) False - AI cần được sử dụng có đạo đức."
+      },
+      {
+        "id": "p1-ex14",
+        "type": "sa",
+        "question_text": "Complete: Siri and Alexa are examples of virtual _____. (one word)",
+        "correct": "assistants",
+        "explanation": "Virtual assistants - trợ lý ảo."
+      },
+      {
+        "id": "p1-ex15",
+        "type": "sa",
+        "question_text": "Complete: AI learns from _____ and experience. (data/hardware)",
+        "correct": "data",
+        "explanation": "AI học từ dữ liệu (data) và kinh nghiệm."
+      },
+      {
+        "id": "p1-ex16",
+        "type": "sa",
+        "question_text": "What is the Vietnamese meaning of 'algorithm'?",
+        "correct": "thuật toán",
+        "explanation": "Algorithm nghĩa là thuật toán."
+      },
+      {
+        "id": "p1-ex17",
+        "type": "sa",
+        "question_text": "Complete: _____ recognition is used to unlock smartphones. (facial/voice)",
+        "correct": "facial",
+        "explanation": "Facial recognition (nhận dạng khuôn mặt) được dùng để mở khóa điện thoại."
+      },
+      {
+        "id": "p1-ex18",
+        "type": "mcq",
+        "question": "What does AI do in recommendation systems?",
+        "options": ["Deletes old files", "Suggests content based on user preferences", "Blocks websites", "Sends spam"],
+        "correct": 1,
+        "explanation": "AI gợi ý nội dung dựa trên sở thích người dùng."
+      },
+      {
+        "id": "p1-ex19",
+        "type": "mcq",
+        "question": "According to Example 5, what should we ensure about AI in healthcare?",
+        "options": [
+          "AI should replace all doctors",
+          "AI should be used ethically and not replace human judgment completely",
+          "AI should not be used at all",
+          "AI should only diagnose minor illnesses"
+        ],
+        "correct": 1,
+        "explanation": "Chúng ta phải đảm bảo AI được sử dụng có đạo đức và không thay thế hoàn toàn phán đoán của con người."
+      },
+      {
+        "id": "p1-ex20",
+        "type": "mcq",
+        "question": "What is the main benefit of AI translation technology?",
+        "options": [
+          "It makes computers faster",
+          "It breaks down language barriers and helps global communication",
+          "It creates new languages",
+          "It only works with English"
+        ],
+        "correct": 1,
+        "explanation": "Công nghệ dịch thuật AI phá vỡ rào cản ngôn ngữ và giúp giao tiếp toàn cầu."
+      }
+    ]
+  }
+}

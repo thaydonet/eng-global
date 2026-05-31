@@ -1,0 +1,270 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-5-p6",
+  "name": "Part 6: Listening",
+  "slug": "p6-listening",
+  "description": "Nghe về phỏng vấn xin việc",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Listening: A Job Interview",
+      "sections": [
+        {
+          "heading": "Listening Skills",
+          "content": "<p><strong>Chủ đề:</strong> A job interview</p><p><strong>Kỹ năng nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Listening for main ideas:</strong> Nghe để nắm ý chính</li><li><strong>Listening for specific information:</strong> Nghe để tìm thông tin cụ thể</li><li><strong>Note-taking:</strong> Ghi chú trong khi nghe</li><li><strong>Understanding questions and answers:</strong> Hiểu câu hỏi và câu trả lời</li><li><strong>Identifying speaker's attitude:</strong> Nhận biết thái độ người nói</li></ul><p><strong>Nội dung bài nghe về:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Interview questions:</strong> Câu hỏi phỏng vấn</li><li><strong>Candidate's responses:</strong> Câu trả lời của ứng viên</li><li><strong>Skills and qualifications:</strong> Kỹ năng và bằng cấp</li><li><strong>Work experience:</strong> Kinh nghiệm làm việc</li><li><strong>Career goals:</strong> Mục tiêu nghề nghiệp</li></ul><p><strong>Từ vựng quan trọng khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Interview phrases:</strong> Tell me about yourself, Why do you want this job?, What are your strengths?</li><li><strong>Skills:</strong> communication skills, teamwork, problem-solving, leadership</li><li><strong>Experience:</strong> previous job, internship, volunteer work</li><li><strong>Qualifications:</strong> degree, certificate, training</li></ul>"
+        },
+        {
+          "heading": "Tips for Listening to Interviews",
+          "content": "<p><strong>Trước khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc câu hỏi để biết cần nghe thông tin gì</li><li>Dự đoán loại câu hỏi phỏng vấn có thể xuất hiện</li><li>Chú ý từ khóa về kỹ năng, kinh nghiệm, bằng cấp</li></ul><p><strong>Trong khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chú ý câu hỏi của người phỏng vấn</li><li>Lắng nghe câu trả lời của ứng viên</li><li>Ghi chú các thông tin quan trọng: tên, số năm kinh nghiệm, kỹ năng</li><li>Chú ý ngữ điệu và thái độ của người nói</li></ul><p><strong>Sau khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Kiểm tra lại câu trả lời</li><li>Đảm bảo thông tin chính xác</li><li>Kiểm tra chính tả tên riêng, số liệu</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "listening-ex1",
+        "type": "mcq",
+        "question": "What is the main topic of a job interview?",
+        "options": [
+          "Cooking recipes",
+          "Assessing a candidate's suitability for a position",
+          "Sports",
+          "Travel"
+        ],
+        "correct": 1,
+        "explanation": "Phỏng vấn xin việc là đánh giá sự phù hợp của ứng viên."
+      },
+      {
+        "id": "listening-ex2",
+        "type": "mcq",
+        "question": "If you hear 'Tell me about yourself', what should you talk about?",
+        "options": [
+          "Your favorite food",
+          "Your education, experience, and skills",
+          "Your family's history",
+          "Your hobbies only"
+        ],
+        "correct": 1,
+        "explanation": "Nên nói về học vấn, kinh nghiệm và kỹ năng."
+      },
+      {
+        "id": "listening-ex3",
+        "type": "mcq",
+        "question": "What does 'previous job' mean?",
+        "options": [
+          "Future job",
+          "Job you had before",
+          "Dream job",
+          "No job"
+        ],
+        "correct": 1,
+        "explanation": "'Previous job' là công việc trước đây."
+      },
+      {
+        "id": "listening-ex4",
+        "type": "mcq",
+        "question": "Which is a common interview question?",
+        "options": [
+          "What's your favorite color?",
+          "What are your strengths?",
+          "Do you like pizza?",
+          "What's the weather?"
+        ],
+        "correct": 1,
+        "explanation": "'What are your strengths?' là câu hỏi phỏng vấn phổ biến."
+      },
+      {
+        "id": "listening-ex5",
+        "type": "mcq",
+        "question": "What should you do before listening to an interview?",
+        "options": [
+          "Sleep",
+          "Read the questions",
+          "Ignore everything",
+          "Talk loudly"
+        ],
+        "correct": 1,
+        "explanation": "Nên đọc câu hỏi trước khi nghe."
+      },
+      {
+        "id": "listening-ex6",
+        "type": "mcq",
+        "question": "If someone says 'I have three years of experience', what information is given?",
+        "options": [
+          "Age",
+          "Duration of work experience",
+          "Salary",
+          "Address"
+        ],
+        "correct": 1,
+        "explanation": "Thông tin về thời gian kinh nghiệm làm việc."
+      },
+      {
+        "id": "listening-ex7",
+        "type": "mcq",
+        "question": "What does 'teamwork' mean?",
+        "options": [
+          "Working alone",
+          "Working with others",
+          "Not working",
+          "Playing sports"
+        ],
+        "correct": 1,
+        "explanation": "'Teamwork' là làm việc nhóm, cùng người khác."
+      },
+      {
+        "id": "listening-ex8",
+        "type": "mcq",
+        "question": "Which skill is often mentioned in interviews?",
+        "options": [
+          "Cooking",
+          "Communication skills",
+          "Dancing",
+          "Singing"
+        ],
+        "correct": 1,
+        "explanation": "Communication skills (kỹ năng giao tiếp) thường được nhắc đến."
+      },
+      {
+        "id": "listening-ex9",
+        "type": "mcq",
+        "question": "What does 'qualification' refer to?",
+        "options": [
+          "Hobbies",
+          "Certificates and degrees",
+          "Friends",
+          "Pets"
+        ],
+        "correct": 1,
+        "explanation": "Qualification là bằng cấp và chứng chỉ."
+      },
+      {
+        "id": "listening-ex10",
+        "type": "mcq",
+        "question": "If you hear 'Why do you want this job?', what is being asked?",
+        "options": [
+          "Your age",
+          "Your motivation for applying",
+          "Your address",
+          "Your favorite food"
+        ],
+        "correct": 1,
+        "explanation": "Câu hỏi về động lực xin việc."
+      },
+      {
+        "id": "listening-ex11",
+        "type": "mcq",
+        "question": "What should you focus on while listening to an interview?",
+        "options": [
+          "Background noise",
+          "Questions and answers",
+          "Nothing",
+          "Your phone"
+        ],
+        "correct": 1,
+        "explanation": "Nên tập trung vào câu hỏi và câu trả lời."
+      },
+      {
+        "id": "listening-ex12",
+        "type": "mcq",
+        "question": "What does 'leadership' mean?",
+        "options": [
+          "Following others",
+          "Ability to lead and guide others",
+          "Being lazy",
+          "Avoiding work"
+        ],
+        "correct": 1,
+        "explanation": "'Leadership' là khả năng lãnh đạo và hướng dẫn người khác."
+      },
+      {
+        "id": "listening-ex13",
+        "type": "mcq",
+        "question": "If someone mentions 'internship', what are they talking about?",
+        "options": [
+          "A vacation",
+          "A temporary work experience for learning",
+          "A party",
+          "A sport"
+        ],
+        "correct": 1,
+        "explanation": "Internship là thực tập để học hỏi kinh nghiệm."
+      },
+      {
+        "id": "listening-ex14",
+        "type": "mcq",
+        "question": "What does 'problem-solving' mean?",
+        "options": [
+          "Creating problems",
+          "Finding solutions to problems",
+          "Ignoring problems",
+          "Complaining"
+        ],
+        "correct": 1,
+        "explanation": "'Problem-solving' là tìm giải pháp cho vấn đề."
+      },
+      {
+        "id": "listening-ex15",
+        "type": "mcq",
+        "question": "What should you do after listening?",
+        "options": [
+          "Forget everything",
+          "Check your answers",
+          "Sleep",
+          "Leave immediately"
+        ],
+        "correct": 1,
+        "explanation": "Nên kiểm tra lại câu trả lời sau khi nghe."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide if these are good listening strategies (True/False):",
+        "options": [
+          "Read questions before listening",
+          "Ignore all information",
+          "Take notes while listening",
+          "Don't check answers after"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Nên đọc câu hỏi trước. b) False - Không nên bỏ qua thông tin. c) True - Nên ghi chú. d) False - Nên kiểm tra sau khi nghe."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if these are common interview topics:",
+        "options": [
+          "Work experience",
+          "Favorite movies",
+          "Skills and qualifications",
+          "Pet names"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Kinh nghiệm làm việc là chủ đề phỏng vấn. b) False - Phim yêu thích không phải chủ đề phỏng vấn. c) True - Kỹ năng và bằng cấp là chủ đề phỏng vấn. d) False - Tên thú cưng không phải chủ đề phỏng vấn."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: Communication _____ are important for most jobs. (one word)",
+        "correct": "skills",
+        "explanation": "Communication skills - kỹ năng giao tiếp."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "What does 'previous job' mean in Vietnamese?",
+        "correct": "công việc trước đây",
+        "explanation": "'Previous job' nghĩa là công việc trước đây."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: I have three years of work _____. (experience/qualification)",
+        "correct": "experience",
+        "explanation": "Work experience - kinh nghiệm làm việc."
+      }
+    ]
+  }
+}

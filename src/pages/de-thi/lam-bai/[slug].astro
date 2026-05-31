@@ -1,0 +1,529 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import { getExamBySlug, formatDuration, countScoredQuestions } from '@/lib/de-thi';
+
+export async function getStaticPaths() { return []; }
+
+const { slug } = Astro.params;
+if (!slug) return Astro.redirect('/de-thi');
+
+const exam = await getExamBySlug(slug);
+if (!exam) return Astro.redirect('/de-thi');
+
+const totalScored = countScoredQuestions(exam.questions);
+const supabaseUrl = import.meta.env.PUBLIC_SUPABASE_URL || '';
+const supabaseKey = import.meta.env.PUBLIC_SUPABASE_ANON_KEY || '';
+---
+
+<Layout title={`Làm bài: ${exam.title}`}>
+  <!-- Exam Header (countdown + progress) -->
+  <div class="fixed top-0 left-0 right-0 z-50 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700 shadow-sm">
+    <div class="max-w-4xl mx-auto px-4 h-14 flex items-center justify-between gap-4">
+      <div class="flex items-center gap-3 min-w-0">
+        <a href={`/de-thi/${slug}`} class="text-gray-400 hover:text-gray-600 flex-shrink-0">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
+          </svg>
+        </a>
+        <h1 class="text-sm font-bold text-gray-800 dark:text-gray-200 truncate">{exam.title}</h1>
+      </div>
+      <div class="flex items-center gap-4 flex-shrink-0">
+        <!-- Progress -->
+        <div class="hidden sm:flex items-center gap-1.5 text-sm text-gray-600 dark:text-gray-400">
+          <span id="answered-count" class="font-bold text-purple-600 dark:text-purple-400">0</span>
+          <span>/</span>
+          <span>{totalScored}</span>
+          <span class="text-xs">câu</span>
+        </div>
+        <!-- Timer -->
+        <div id="timer" class="flex items-center gap-1.5 px-3 py-1.5 bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300 rounded-full text-sm font-mono font-bold">
+          ⏱ <span id="timer-display">{String(exam.duration_minutes).padStart(2,'0')}:00</span>
+        </div>
+        <!-- Submit -->
+        <button id="submit-btn"
+          class="px-4 py-1.5 bg-purple-600 hover:bg-purple-700 text-white text-sm font-bold rounded-xl transition-all shadow-sm hidden">
+          Nộp bài
+        </button>
+      </div>
+    </div>
+    <!-- Progress bar -->
+    <div class="h-1 bg-gray-100 dark:bg-gray-800">
+      <div id="progress-bar" class="h-1 bg-gradient-to-r from-purple-500 to-violet-500 transition-all duration-500" style="width: 0%"></div>
+    </div>
+  </div>
+
+  <!-- Name entry modal -->
+  <div id="name-modal" class="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm">
+    <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl p-8 max-w-sm w-full mx-4">
+      <div class="text-center mb-6">
+        <div class="text-4xl mb-3">📝</div>
+        <h2 class="text-2xl font-black text-gray-900 dark:text-gray-100">{exam.title}</h2>
+        <p class="text-gray-500 dark:text-gray-400 text-sm mt-2">{totalScored} câu · {formatDuration(exam.duration_minutes)}</p>
+      </div>
+      <div class="mb-4">
+        <label class="block text-sm font-semibold text-gray-700 dark:text-gray-300 mb-2">Họ và tên của bạn</label>
+        <input id="student-name" type="text" placeholder="Nguyễn Văn A..."
+          class="w-full px-4 py-3 border-2 border-gray-200 dark:border-gray-600 rounded-xl bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:border-purple-500 focus:ring-2 focus:ring-purple-200 outline-none transition-all text-base font-medium"/>
+      </div>
+      <button id="start-exam-btn"
+        class="w-full py-3.5 bg-gradient-to-r from-purple-600 to-violet-600 hover:from-purple-700 hover:to-violet-700 text-white font-black rounded-xl shadow-lg hover:shadow-xl transition-all hover:scale-105 text-lg">
+        🚀 Bắt đầu làm bài
+      </button>
+      <p class="text-xs text-center text-gray-400 mt-3">Có thể bỏ qua nếu không muốn lưu tên</p>
+    </div>
+  </div>
+
+  <!-- Exam Content -->
+  <div class="pt-20 pb-32 min-h-screen bg-[#f8faff] dark:bg-[#0d0f1a]">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 py-6">
+      <div id="quiz-container" class="space-y-5">
+        <!-- Questions rendered by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Fixed bottom submit -->
+  <div id="bottom-bar" class="fixed bottom-0 left-0 right-0 bg-white/95 dark:bg-gray-900/95 backdrop-blur border-t border-gray-200 dark:border-gray-700 p-4 hidden">
+    <div class="max-w-3xl mx-auto flex items-center justify-between gap-4">
+      <div class="text-sm text-gray-600 dark:text-gray-400">
+        Đã trả lời: <span id="answered-count-2" class="font-bold text-purple-600 dark:text-purple-400">0</span>/{totalScored}
+      </div>
+      <button id="submit-btn-2"
+        class="inline-flex items-center gap-2 px-8 py-3 bg-purple-600 hover:bg-purple-700 text-white font-bold rounded-xl transition-all shadow-md">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+        </svg>
+        Nộp bài
+      </button>
+    </div>
+  </div>
+
+  <!-- Results overlay -->
+  <div id="results-overlay" class="hidden fixed inset-0 z-50 overflow-y-auto bg-[#f8faff] dark:bg-[#0d0f1a] pt-10 pb-20">
+    <div class="max-w-3xl mx-auto px-4">
+      <!-- Score card -->
+      <div id="score-card" class="text-center py-10">
+        <div id="result-emoji" class="text-8xl mb-4">🎉</div>
+        <h2 id="result-title" class="text-3xl font-black mb-2 text-gray-900 dark:text-gray-100">Xuất sắc!</h2>
+        <p id="result-msg" class="text-gray-500 dark:text-gray-400 mb-6"></p>
+        <div class="inline-flex items-baseline gap-1 text-6xl font-black text-purple-600 dark:text-purple-400 mb-2">
+          <span id="result-score">0</span>
+          <span class="text-2xl text-gray-400">/</span>
+          <span id="result-max" class="text-2xl text-gray-600 dark:text-gray-400">10</span>
+        </div>
+        <p class="text-gray-500 dark:text-gray-400 text-sm mb-6">điểm</p>
+        <div class="w-64 mx-auto h-4 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden mb-8">
+          <div id="result-bar" class="h-full bg-gradient-to-r from-purple-500 to-violet-500 rounded-full transition-all duration-1000" style="width:0%"></div>
+        </div>
+        <div class="flex flex-wrap justify-center gap-3">
+          <button id="btn-retry" class="inline-flex items-center gap-2 px-5 py-2.5 bg-purple-600 hover:bg-purple-700 text-white font-semibold rounded-xl transition-all">
+            🔄 Làm lại
+          </button>
+          <a href={`/de-thi/${slug}`} class="inline-flex items-center gap-2 px-5 py-2.5 border-2 border-gray-200 dark:border-gray-600 text-gray-700 dark:text-gray-300 font-semibold rounded-xl hover:bg-gray-50 dark:hover:bg-gray-800 transition-all">
+            📄 Xem đề
+          </a>
+          <a href="/de-thi" class="inline-flex items-center gap-2 px-5 py-2.5 border-2 border-gray-200 dark:border-gray-600 text-gray-700 dark:text-gray-300 font-semibold rounded-xl hover:bg-gray-50 dark:hover:bg-gray-800 transition-all">
+            🏠 Kho đề
+          </a>
+        </div>
+      </div>
+      <!-- Answers review -->
+      <div id="answers-review" class="space-y-4 mt-6"></div>
+    </div>
+  </div>
+
+  <script define:vars={{ exam, totalScored, supabaseUrl, supabaseKey }}>
+    let userAnswers = {};
+    let startTime = null;
+    let timerInterval = null;
+    let studentName = '';
+    let examSubmitted = false;
+    let answeredCount = 0;
+
+    const questions = exam.questions || [];
+    const durationSeconds = (exam.duration_minutes || 45) * 60;
+
+    function updateAnsweredCount() {
+      const cnt = Object.keys(userAnswers).filter(k => {
+        const a = userAnswers[k];
+        if (typeof a === 'object' && !Array.isArray(a)) return Object.keys(a).length > 0;
+        return a !== undefined && a !== '' && a !== null;
+      }).length;
+      answeredCount = cnt;
+      document.getElementById('answered-count').textContent = cnt;
+      document.getElementById('answered-count-2').textContent = cnt;
+      const pct = totalScored > 0 ? (cnt / totalScored) * 100 : 0;
+      document.getElementById('progress-bar').style.width = pct + '%';
+    }
+
+    // ─── Timer ────────────────────────────────────────────────
+    function startTimer() {
+      let remaining = durationSeconds;
+      startTime = Date.now();
+
+      timerInterval = setInterval(() => {
+        remaining--;
+        const m = Math.floor(remaining / 60);
+        const s = remaining % 60;
+        const display = document.getElementById('timer-display');
+        display.textContent = `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+
+        const timerEl = document.getElementById('timer');
+        if (remaining <= 300) timerEl.classList.add('bg-red-100', 'text-red-700');
+        if (remaining <= 60) timerEl.classList.add('animate-pulse');
+        if (remaining <= 0) {
+          clearInterval(timerInterval);
+          submitExam();
+        }
+      }, 1000);
+    }
+
+    // ─── Render questions ─────────────────────────────────────
+    function renderQuiz() {
+      const container = document.getElementById('quiz-container');
+      container.innerHTML = '';
+      let qNum = 0;
+
+      questions.forEach((q, idx) => {
+        const div = document.createElement('div');
+        div.dataset.idx = idx;
+        userAnswers[q.id] = userAnswers[q.id] ?? undefined;
+
+        if (q.type === 'reading') {
+          qNum++;
+          div.className = 'bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 shadow-sm p-6';
+          const subQHtml = (q.questions || []).map((sub, si) => {
+            const localNum = qNum + si;
+            return `<div class="mb-5 p-4 bg-gray-50 dark:bg-gray-700/50 rounded-xl" data-sub="${si}">
+              <p class="text-sm font-semibold text-gray-800 dark:text-gray-200 mb-3">Câu ${localNum}. ${sub.question}</p>
+              <div class="space-y-2">
+                ${(sub.options || []).map((opt, oi) => `
+                  <label class="flex items-center gap-3 p-3 border-2 border-gray-200 dark:border-gray-700 rounded-xl cursor-pointer hover:border-purple-400 hover:bg-purple-50 dark:hover:bg-purple-900/20 transition-all reading-opt" data-parent="${q.id}" data-sub="${si}" data-oi="${oi}">
+                    <input type="radio" name="r-${q.id}-${si}" value="${oi}" class="w-4 h-4 accent-purple-600"/>
+                    <span class="text-sm text-gray-700 dark:text-gray-300">${['A','B','C','D'][oi]}. ${opt.replace(/^[ABCD]\.\s*/,'')}</span>
+                  </label>
+                `).join('')}
+              </div>
+            </div>`;
+          }).join('');
+          qNum += (q.questions || []).length - 1;
+
+          div.innerHTML = `
+            <div class="flex items-center gap-2 mb-4">
+              <span class="px-3 py-1 bg-indigo-100 dark:bg-indigo-900/30 text-indigo-700 dark:text-indigo-300 text-xs font-bold rounded-full">📖 Đọc hiểu</span>
+            </div>
+            <div class="bg-indigo-50 dark:bg-indigo-900/20 border border-indigo-200 dark:border-indigo-800 rounded-xl p-5 mb-5 text-sm text-gray-800 dark:text-gray-200 leading-relaxed whitespace-pre-line">${q.passage || ''}</div>
+            <div class="space-y-1">${subQHtml}</div>
+          `;
+
+          div.querySelectorAll('[data-parent]').forEach(lbl => {
+            lbl.addEventListener('click', () => {
+              const subIdx = parseInt(lbl.dataset.sub);
+              const oi = parseInt(lbl.dataset.oi);
+              if (!userAnswers[q.id]) userAnswers[q.id] = {};
+              userAnswers[q.id][subIdx] = oi;
+              div.querySelectorAll(`[data-sub="${subIdx}"].reading-opt`).forEach(l => {
+                l.classList.remove('border-purple-500','bg-purple-50','dark:bg-purple-900/20');
+              });
+              lbl.classList.add('border-purple-500','bg-purple-50','dark:bg-purple-900/20');
+              updateAnsweredCount();
+            });
+          });
+
+        } else if (q.type === 'listening') {
+          qNum++;
+          div.className = 'bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 shadow-sm p-6';
+          const subQHtml = (q.questions || []).map((sub, si) => {
+            const localNum = qNum + si;
+            return `<div class="mb-5 p-4 bg-gray-50 dark:bg-gray-700/50 rounded-xl" data-sub="${si}">
+              <p class="text-sm font-semibold text-gray-800 dark:text-gray-200 mb-3">Câu ${localNum}. ${sub.question}</p>
+              <div class="space-y-2">
+                ${(sub.options || []).map((opt, oi) => `
+                  <label class="flex items-center gap-3 p-3 border-2 border-gray-200 dark:border-gray-700 rounded-xl cursor-pointer hover:border-blue-400 hover:bg-blue-50 dark:hover:bg-blue-900/20 transition-all listening-opt" data-parent="${q.id}" data-sub="${si}" data-oi="${oi}">
+                    <input type="radio" name="l-${q.id}-${si}" value="${oi}" class="w-4 h-4 accent-blue-600"/>
+                    <span class="text-sm text-gray-700 dark:text-gray-300">${['A','B','C','D'][oi]}. ${opt.replace(/^[ABCD]\.\s*/,'')}</span>
+                  </label>
+                `).join('')}
+              </div>
+            </div>`;
+          }).join('');
+          qNum += (q.questions || []).length - 1;
+
+          div.innerHTML = `
+            <div class="flex items-center gap-2 mb-4">
+              <span class="px-3 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 text-xs font-bold rounded-full">🎧 Nghe hiểu</span>
+            </div>
+            ${q.audio_url ? `<audio controls class="w-full mb-4 rounded-xl"><source src="${q.audio_url}"/></audio>` : ''}
+            <div class="bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-xl p-5 mb-5">
+              <p class="text-xs font-semibold text-blue-700 dark:text-blue-300 mb-2">📄 Transcript (tham khảo):</p>
+              <p class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed">${q.transcript || ''}</p>
+            </div>
+            <div class="space-y-1">${subQHtml}</div>
+          `;
+
+          div.querySelectorAll('[data-parent]').forEach(lbl => {
+            lbl.addEventListener('click', () => {
+              const subIdx = parseInt(lbl.dataset.sub);
+              const oi = parseInt(lbl.dataset.oi);
+              if (!userAnswers[q.id]) userAnswers[q.id] = {};
+              userAnswers[q.id][subIdx] = oi;
+              div.querySelectorAll(`[data-sub="${subIdx}"].listening-opt`).forEach(l => {
+                l.classList.remove('border-blue-500','bg-blue-50','dark:bg-blue-900/20');
+              });
+              lbl.classList.add('border-blue-500','bg-blue-50','dark:bg-blue-900/20');
+              updateAnsweredCount();
+            });
+          });
+
+        } else if (q.type === 'essay' || q.type === 'tl') {
+          qNum++;
+          div.className = 'bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 shadow-sm p-6';
+          div.innerHTML = `
+            <div class="flex items-center gap-2 mb-4">
+              <span class="w-8 h-8 bg-purple-100 dark:bg-purple-900/40 text-purple-600 dark:text-purple-400 rounded-lg flex items-center justify-center text-sm font-bold">${qNum}</span>
+              <span class="px-3 py-1 bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300 text-xs font-bold rounded-full">✍️ Tự luận</span>
+            </div>
+            <p class="text-base font-semibold text-gray-800 dark:text-gray-200 mb-4 leading-relaxed whitespace-pre-line">${q.question || q.question_text}</p>
+            <textarea id="essay-${q.id}" rows="6"
+              class="w-full p-4 border-2 border-gray-200 dark:border-gray-700 rounded-xl bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 focus:border-purple-500 focus:ring-2 focus:ring-purple-200 outline-none transition-all resize-y text-sm"
+              placeholder="Nhập câu trả lời..."></textarea>
+          `;
+          div.querySelector(`#essay-${q.id}`)?.addEventListener('input', e => {
+            userAnswers[q.id] = e.target.value;
+          });
+
+        } else if (q.type === 'sa') {
+          qNum++;
+          div.className = 'bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 shadow-sm p-6';
+          div.innerHTML = `
+            <div class="flex items-center gap-2 mb-4">
+              <span class="w-8 h-8 bg-green-100 dark:bg-green-900/40 text-green-600 dark:text-green-400 rounded-lg flex items-center justify-center text-sm font-bold">${qNum}</span>
+              <span class="px-3 py-1 bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300 text-xs font-bold rounded-full">✏️ Điền đáp án</span>
+            </div>
+            <p class="text-base font-semibold text-gray-800 dark:text-gray-200 mb-4">${q.question_text || q.question}</p>
+            <input type="text" id="sa-${q.id}"
+              class="max-w-xs w-full p-3 border-2 border-gray-200 dark:border-gray-700 rounded-xl bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 focus:border-green-500 focus:ring-2 focus:ring-green-200 outline-none transition-all text-base font-medium"
+              placeholder="Nhập đáp án..." autocomplete="off"/>
+          `;
+          const inp = div.querySelector(`#sa-${q.id}`);
+          inp?.addEventListener('input', e => {
+            userAnswers[q.id] = e.target.value;
+            updateAnsweredCount();
+          });
+
+        } else {
+          // MCQ
+          qNum++;
+          div.className = 'bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 shadow-sm p-6';
+          const labels = ['A','B','C','D','E','F'];
+          div.innerHTML = `
+            <div class="flex items-start gap-3 mb-4">
+              <span class="flex-shrink-0 w-8 h-8 bg-purple-600 text-white rounded-lg flex items-center justify-center text-sm font-bold">${qNum}</span>
+              <p class="text-base font-semibold text-gray-800 dark:text-gray-200 leading-relaxed">${q.question || q.question_text}</p>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+              ${(q.options || []).map((opt, oi) => `
+                <label class="mcq-opt flex items-center gap-3 p-3.5 border-2 border-gray-200 dark:border-gray-700 rounded-xl cursor-pointer transition-all hover:border-purple-400 hover:bg-purple-50 dark:hover:bg-purple-900/20" data-qid="${q.id}" data-oi="${oi}">
+                  <input type="radio" name="q-${q.id}" value="${oi}" class="hidden"/>
+                  <span class="flex-shrink-0 w-7 h-7 bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-400 rounded-lg flex items-center justify-center text-xs font-bold mcq-letter">${labels[oi]}</span>
+                  <span class="text-sm text-gray-700 dark:text-gray-300 font-medium">${opt.replace(/^[ABCD]\.\s*/,'')}</span>
+                </label>
+              `).join('')}
+            </div>
+          `;
+          div.querySelectorAll('.mcq-opt').forEach(lbl => {
+            lbl.addEventListener('click', () => {
+              userAnswers[q.id] = parseInt(lbl.dataset.oi);
+              div.querySelectorAll('.mcq-opt').forEach(l => {
+                l.classList.remove('border-purple-500','bg-purple-50','dark:bg-purple-900/20');
+                l.querySelector('.mcq-letter')?.classList.remove('bg-purple-600','text-white');
+              });
+              lbl.classList.add('border-purple-500','bg-purple-50','dark:bg-purple-900/20');
+              lbl.querySelector('.mcq-letter')?.classList.add('bg-purple-600','text-white');
+              updateAnsweredCount();
+            });
+          });
+        }
+
+        container.appendChild(div);
+      });
+    }
+
+    // ─── Submit & Score ───────────────────────────────────────
+    async function submitExam() {
+      if (examSubmitted) return;
+      examSubmitted = true;
+      clearInterval(timerInterval);
+
+      const timeTaken = Math.round((Date.now() - (startTime || Date.now())) / 1000);
+      let totalScore = 0, maxScore = 0;
+      const labels = ['A','B','C','D','E','F'];
+
+      questions.forEach(q => {
+        if (q.type === 'essay' || q.type === 'tl') return;
+        if (q.type === 'reading' || q.type === 'listening') {
+          (q.questions || []).forEach((sub, si) => {
+            maxScore += 0.25;
+            const ua = userAnswers[q.id]?.[si];
+            if (ua === sub.correct) totalScore += 0.25;
+          });
+        } else if (q.type === 'sa') {
+          maxScore += 0.5;
+          const raw = (userAnswers[q.id] || '').toString().trim().toLowerCase();
+          const correct = (q.correct || '').toString().trim().toLowerCase();
+          if (raw === correct) totalScore += 0.5;
+        } else if (q.type === 'msq') {
+          const correctSet = Array.isArray(q.correct) ? q.correct : [];
+          (q.options || []).forEach((_, oi) => {
+            maxScore += 0.25;
+            const expected = correctSet.includes(oi);
+            const got = userAnswers[q.id]?.[oi];
+            if (got === expected && got !== undefined) totalScore += 0.25;
+          });
+        } else {
+          maxScore += 0.25;
+          if (userAnswers[q.id] === q.correct) totalScore += 0.25;
+        }
+      });
+
+      // Convert to 10 scale if maxScore > 10
+      const score10 = maxScore > 0 ? (totalScore / maxScore) * 10 : 0;
+      const pct = maxScore > 0 ? (totalScore / maxScore) * 100 : 0;
+
+      // Show results
+      const overlay = document.getElementById('results-overlay');
+      overlay.classList.remove('hidden');
+      document.getElementById('bottom-bar').classList.add('hidden');
+
+      const fmt = n => parseFloat(n.toFixed(2)).toString();
+      document.getElementById('result-score').textContent = fmt(score10);
+      document.getElementById('result-max').textContent = '10';
+      document.getElementById('result-bar').style.width = pct + '%';
+
+      let emoji, title, msg;
+      if (pct === 100) { emoji='🎉'; title='Xuất sắc! Điểm tuyệt đối!'; msg='Bạn trả lời đúng tất cả câu hỏi!'; }
+      else if (pct >= 80) { emoji='🌟'; title='Tốt lắm!'; msg='Bạn đã làm rất tốt! Hãy tiếp tục phát huy!'; }
+      else if (pct >= 60) { emoji='👍'; title='Khá!'; msg='Kết quả khá tốt. Ôn lại phần chưa hiểu nhé!'; }
+      else if (pct >= 40) { emoji='📚'; title='Cần cố gắng hơn!'; msg='Hãy xem lại bài học và thử lại!'; }
+      else { emoji='💪'; title='Cố lên!'; msg='Đừng nản, học thêm và làm lại nhé!'; }
+
+      document.getElementById('result-emoji').textContent = emoji;
+      document.getElementById('result-title').textContent = title;
+      document.getElementById('result-msg').textContent = msg;
+
+      // Render answer review
+      renderAnswerReview(totalScore, maxScore, labels);
+
+      // Save to Supabase
+      try {
+        const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm');
+        const sb = createClient(supabaseUrl, supabaseKey);
+        const { data: { session } } = await sb.auth.getSession();
+        await sb.from('exam_results').insert({
+          exam_id: exam.id,
+          user_id: session?.user?.id || null,
+          student_name: studentName || 'Ẩn danh',
+          answers: Object.entries(userAnswers).map(([id, ans]) => ({ id, ans })),
+          score: parseFloat(score10.toFixed(2)),
+          max_score: 10,
+          time_taken: timeTaken,
+        });
+      } catch(e) { console.warn('Could not save result:', e); }
+    }
+
+    function renderAnswerReview(totalScore, maxScore, labels) {
+      const container = document.getElementById('answers-review');
+      container.innerHTML = '<h3 class="text-lg font-bold text-gray-900 dark:text-gray-100 mb-4">📋 Đáp án chi tiết</h3>';
+      let qNum = 0;
+
+      questions.forEach(q => {
+        const div = document.createElement('div');
+        div.className = 'bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-5 shadow-sm';
+
+        if (q.type === 'reading' || q.type === 'listening') {
+          const icon = q.type === 'reading' ? '📖' : '🎧';
+          let html = `<div class="text-xs font-bold text-indigo-600 dark:text-indigo-400 mb-3">${icon} ${q.type === 'reading' ? 'Đọc hiểu' : 'Nghe hiểu'}</div>`;
+          (q.questions || []).forEach((sub, si) => {
+            qNum++;
+            const ua = userAnswers[q.id]?.[si];
+            const ok = ua === sub.correct;
+            html += `<div class="mb-3 pb-3 border-b border-gray-100 dark:border-gray-700 last:border-0">
+              <div class="flex items-start gap-2 mb-2">
+                <span class="flex-shrink-0 w-6 h-6 ${ok ? 'bg-green-100 text-green-600' : 'bg-red-100 text-red-600'} rounded-full flex items-center justify-center text-xs font-bold">${qNum}</span>
+                <p class="text-sm font-medium text-gray-800 dark:text-gray-200">${sub.question}</p>
+              </div>
+              <div class="ml-8 grid grid-cols-1 sm:grid-cols-2 gap-1">
+                ${(sub.options || []).map((opt, oi) => `
+                  <div class="text-xs px-2 py-1 rounded-lg ${oi === sub.correct ? 'bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-300 font-semibold' : oi === ua && !ok ? 'bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-300' : 'text-gray-500 dark:text-gray-400'}">
+                    ${labels[oi]}. ${opt.replace(/^[ABCD]\.\s*/,'')} ${oi === sub.correct ? '✅' : oi === ua && !ok ? '❌' : ''}
+                  </div>`).join('')}
+              </div>
+              ${sub.explanation ? `<p class="ml-8 mt-1 text-xs text-amber-700 dark:text-amber-300">💡 ${sub.explanation}</p>` : ''}
+            </div>`;
+          });
+          div.innerHTML = html;
+        } else if (q.type === 'essay' || q.type === 'tl') {
+          qNum++;
+          div.innerHTML = `<div class="flex items-center gap-2 mb-2">
+            <span class="w-6 h-6 bg-purple-100 dark:bg-purple-900/40 text-purple-600 dark:text-purple-400 rounded-full flex items-center justify-center text-xs font-bold">${qNum}</span>
+            <span class="text-xs font-bold text-purple-600 dark:text-purple-400">Tự luận</span>
+          </div>
+          <p class="text-sm font-medium text-gray-800 dark:text-gray-200 mb-3 whitespace-pre-line">${q.question || q.question_text}</p>
+          <div class="bg-purple-50 dark:bg-purple-900/20 rounded-xl p-3">
+            <p class="text-xs font-semibold text-purple-700 dark:text-purple-300 mb-1">Câu trả lời của bạn:</p>
+            <p class="text-sm text-gray-700 dark:text-gray-300">${userAnswers[q.id] || '(chưa trả lời)'}</p>
+          </div>
+          ${q.explanation || q.answer_guide ? `<div class="bg-green-50 dark:bg-green-900/20 rounded-xl p-3 mt-2">
+            <p class="text-xs font-semibold text-green-700 dark:text-green-300 mb-1">✅ Gợi ý đáp án:</p>
+            <p class="text-sm text-gray-700 dark:text-gray-300 whitespace-pre-line">${q.explanation || q.answer_guide}</p>
+          </div>` : ''}`;
+        } else {
+          qNum++;
+          const ua = userAnswers[q.id];
+          const ok = ua === q.correct;
+          div.innerHTML = `<div class="flex items-start gap-3">
+            <span class="flex-shrink-0 w-7 h-7 ${ok ? 'bg-green-100 text-green-600 dark:bg-green-900/40 dark:text-green-400' : 'bg-red-100 text-red-600 dark:bg-red-900/40 dark:text-red-400'} rounded-full flex items-center justify-center text-xs font-bold">${qNum}</span>
+            <div class="flex-1 min-w-0">
+              <p class="text-sm font-medium text-gray-800 dark:text-gray-200 mb-3">${q.question || q.question_text}</p>
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-1 mb-2">
+                ${(q.options || []).map((opt, oi) => `
+                  <div class="text-xs px-2.5 py-1.5 rounded-lg ${oi === q.correct ? 'bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-300 font-semibold' : oi === ua && !ok ? 'bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-300' : 'text-gray-500 dark:text-gray-400 opacity-60'}">
+                    ${labels[oi]}. ${opt.replace(/^[ABCD]\.\s*/,'')} ${oi === q.correct ? '✅' : oi === ua && !ok ? '❌' : ''}
+                  </div>`).join('')}
+              </div>
+              ${q.explanation ? `<p class="text-xs text-amber-700 dark:text-amber-300 bg-amber-50 dark:bg-amber-900/20 px-3 py-2 rounded-lg">💡 ${q.explanation}</p>` : ''}
+            </div>
+          </div>`;
+        }
+
+        container.appendChild(div);
+      });
+    }
+
+    // ─── Init ─────────────────────────────────────────────────
+    document.getElementById('start-exam-btn')?.addEventListener('click', () => {
+      studentName = document.getElementById('student-name')?.value?.trim() || '';
+      document.getElementById('name-modal').classList.add('hidden');
+      document.getElementById('submit-btn').classList.remove('hidden');
+      document.getElementById('bottom-bar').classList.remove('hidden');
+      renderQuiz();
+      startTimer();
+    });
+
+    document.getElementById('submit-btn')?.addEventListener('click', () => {
+      if (confirm('Bạn có chắc muốn nộp bài?')) submitExam();
+    });
+    document.getElementById('submit-btn-2')?.addEventListener('click', () => {
+      if (confirm('Bạn có chắc muốn nộp bài?')) submitExam();
+    });
+    document.getElementById('btn-retry')?.addEventListener('click', () => {
+      examSubmitted = false;
+      userAnswers = {};
+      answeredCount = 0;
+      document.getElementById('results-overlay').classList.add('hidden');
+      document.getElementById('bottom-bar').classList.remove('hidden');
+      renderQuiz();
+      startTimer();
+    });
+  </script>
+</Layout>

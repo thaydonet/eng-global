@@ -1,0 +1,231 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-8-p5",
+  "name": "Part 5: Speaking",
+  "slug": "p5-speaking",
+  "description": "Thảo luận về bảo tồn động vật hoang dã",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Speaking: Discussing Wildlife Conservation",
+      "sections": [
+        {
+          "heading": "Speaking Skills",
+          "content": "<p><strong>Chủ đề:</strong> Discussing wildlife conservation</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Talking about threats:</strong></li><li>If we don't protect habitats, animals will die.</li><li>Unless we stop poaching, species will disappear.</li><li>The more we destroy forests, the fewer animals survive.</li><li><strong>Discussing solutions:</strong></li><li>We should protect endangered species.</li><li>If we create more sanctuaries, we can save animals.</li><li>As long as we work together, there is hope.</li><li><strong>Making comparisons:</strong></li><li>Tigers are as endangered as rhinos.</li><li>Conservation is more important than ever.</li><li>The faster we act, the better the results.</li><li><strong>Expressing opinions:</strong></li><li>In my opinion, we should...</li><li>I think wildlife conservation is...</li><li>From my perspective...</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "speaking-ex1",
+        "type": "mcq",
+        "question": "Which expression discusses threats?",
+        "options": [
+          "I like animals",
+          "If we don't protect habitats, animals will die",
+          "Good morning",
+          "How are you?"
+        ],
+        "correct": 1,
+        "explanation": "Câu này thảo luận về mối đe dọa với mệnh đề điều kiện."
+      },
+      {
+        "id": "speaking-ex2",
+        "type": "mcq",
+        "question": "Complete: '_____ we stop poaching, species will disappear.'",
+        "options": ["If", "Unless", "When", "Because"],
+        "correct": 1,
+        "explanation": "Unless - trừ khi, nếu không."
+      },
+      {
+        "id": "speaking-ex3",
+        "type": "mcq",
+        "question": "Which phrase suggests a solution?",
+        "options": [
+          "Animals are dying",
+          "We should protect endangered species",
+          "It's too late",
+          "Nothing works"
+        ],
+        "correct": 1,
+        "explanation": "'We should...' đề xuất giải pháp."
+      },
+      {
+        "id": "speaking-ex4",
+        "type": "mcq",
+        "question": "Complete: 'Tigers are _____ endangered _____ rhinos.'",
+        "options": ["as / as", "more / than", "as / than", "more / as"],
+        "correct": 0,
+        "explanation": "As...as - so sánh bằng."
+      },
+      {
+        "id": "speaking-ex5",
+        "type": "mcq",
+        "question": "Which expresses an opinion?",
+        "options": [
+          "Hello",
+          "In my opinion, we should protect wildlife",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correct": 1,
+        "explanation": "'In my opinion...' bày tỏ ý kiến."
+      },
+      {
+        "id": "speaking-ex6",
+        "type": "mcq",
+        "question": "Complete: '_____ more we protect, _____ more species survive.'",
+        "options": ["The / the", "A / a", "The / a", "A / the"],
+        "correct": 0,
+        "explanation": "The...the - so sánh kép."
+      },
+      {
+        "id": "speaking-ex7",
+        "type": "mcq",
+        "question": "Which discusses conservation benefits?",
+        "options": [
+          "Conservation doesn't work",
+          "If we create sanctuaries, we can save animals",
+          "Animals will die anyway",
+          "It's hopeless"
+        ],
+        "correct": 1,
+        "explanation": "Câu này thảo luận về lợi ích của bảo tồn."
+      },
+      {
+        "id": "speaking-ex8",
+        "type": "mcq",
+        "question": "Complete: 'Conservation is _____ important _____ ever.'",
+        "options": ["as / as", "more / than", "as / than", "more / as"],
+        "correct": 1,
+        "explanation": "More...than - so sánh hơn."
+      },
+      {
+        "id": "speaking-ex9",
+        "type": "mcq",
+        "question": "What should we do for wildlife?",
+        "options": [
+          "Ignore them",
+          "Protect habitats and stop poaching",
+          "Hunt more",
+          "Do nothing"
+        ],
+        "correct": 1,
+        "explanation": "Chúng ta nên bảo vệ môi trường sống và ngăn săn bắt trái phép."
+      },
+      {
+        "id": "speaking-ex10",
+        "type": "mcq",
+        "question": "Complete: '_____ long as we work together, there is hope.'",
+        "options": ["If", "As", "Unless", "Because"],
+        "correct": 1,
+        "explanation": "As long as - miễn là."
+      },
+      {
+        "id": "speaking-ex11",
+        "type": "mcq",
+        "question": "Which is a conservation action?",
+        "options": [
+          "Destroying forests",
+          "Creating wildlife sanctuaries",
+          "Hunting animals",
+          "Polluting rivers"
+        ],
+        "correct": 1,
+        "explanation": "Tạo khu bảo tồn là hành động bảo tồn."
+      },
+      {
+        "id": "speaking-ex12",
+        "type": "mcq",
+        "question": "Complete: 'From my _____, conservation is essential.'",
+        "options": ["house", "perspective", "friend", "book"],
+        "correct": 1,
+        "explanation": "'From my perspective' - theo quan điểm của tôi."
+      },
+      {
+        "id": "speaking-ex13",
+        "type": "mcq",
+        "question": "What does 'endangered species' mean?",
+        "options": [
+          "Common animals",
+          "Animals at risk of extinction",
+          "Extinct animals",
+          "Domestic animals"
+        ],
+        "correct": 1,
+        "explanation": "Endangered species - loài có nguy cơ tuyệt chủng."
+      },
+      {
+        "id": "speaking-ex14",
+        "type": "mcq",
+        "question": "Complete: 'We need to be careful _____ habitat destruction.'",
+        "options": ["at", "in", "about", "for"],
+        "correct": 2,
+        "explanation": "'Be careful about' là cụm từ đúng."
+      },
+      {
+        "id": "speaking-ex15",
+        "type": "mcq",
+        "question": "Which phrase discusses urgency?",
+        "options": [
+          "We have plenty of time",
+          "The faster we act, the better",
+          "It doesn't matter",
+          "We can wait"
+        ],
+        "correct": 1,
+        "explanation": "Câu này nhấn mạnh sự cấp thiết."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide which are good ways to discuss conservation (True/False):",
+        "options": [
+          "If we protect habitats, animals will survive.",
+          "Conservation is useless.",
+          "We should create more sanctuaries.",
+          "Animals don't need protection."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Cách tốt dùng điều kiện. b) False - Quá tiêu cực. c) True - Đề xuất tốt. d) False - Động vật cần bảo vệ."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if the expression is correct:",
+        "options": [
+          "Unless we act, species will disappear.",
+          "Tigers are as endangered as rhinos.",
+          "The more we protect, the more species survive.",
+          "Conservation is more important than never."
+        ],
+        "correct": [0, 1, 2],
+        "explanation": "a) True - Unless + khẳng định. b) True - As...as. c) True - The...the. d) False - Phải là 'than ever'."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: _____ we protect habitats, animals will survive. (If/Unless)",
+        "correct": "If",
+        "explanation": "If - mệnh đề điều kiện."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "Complete: Tigers are _____ endangered _____ rhinos. (as...as/more...than)",
+        "correct": "as...as",
+        "explanation": "As...as - so sánh bằng."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: We should _____ endangered species. (protect/ignore)",
+        "correct": "protect",
+        "explanation": "Chúng ta nên bảo vệ (protect) loài có nguy cơ tuyệt chủng."
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-4-p2",
+  "name": "Part 2: Language - Vocabulary",
+  "slug": "p2-vocabulary",
+  "description": "Từ vựng về đô thị hóa",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Vocabulary: Urbanisation",
+      "sections": [
+        {
+          "heading": "1. Từ vựng (Vocabulary)",
+          "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Urbanisation</td><td class='px-4 py-2'>(n) /ˌɜːbənaɪˈzeɪʃn/</td><td class='px-4 py-2'>Đô thị hóa</td><td class='px-4 py-2'>Urbanisation is happening rapidly.</td></tr><tr><td class='px-4 py-2 font-bold'>Rural</td><td class='px-4 py-2'>(adj) /ˈrʊərəl/</td><td class='px-4 py-2'>Thuộc nông thôn</td><td class='px-4 py-2'>People move from rural areas.</td></tr><tr><td class='px-4 py-2 font-bold'>Urban</td><td class='px-4 py-2'>(adj) /ˈɜːbən/</td><td class='px-4 py-2'>Thuộc đô thị</td><td class='px-4 py-2'>Urban areas are crowded.</td></tr><tr><td class='px-4 py-2 font-bold'>Migrate</td><td class='px-4 py-2'>(v) /maɪˈɡreɪt/</td><td class='px-4 py-2'>Di cư</td><td class='px-4 py-2'>People migrate to cities.</td></tr><tr><td class='px-4 py-2 font-bold'>Infrastructure</td><td class='px-4 py-2'>(n) /ˈɪnfrəstrʌktʃə(r)/</td><td class='px-4 py-2'>Cơ sở hạ tầng</td><td class='px-4 py-2'>Improve city infrastructure.</td></tr><tr><td class='px-4 py-2 font-bold'>Overcrowding</td><td class='px-4 py-2'>(n) /ˌəʊvəˈkraʊdɪŋ/</td><td class='px-4 py-2'>Quá đông đúc</td><td class='px-4 py-2'>Overcrowding causes problems.</td></tr><tr><td class='px-4 py-2 font-bold'>Slum</td><td class='px-4 py-2'>(n) /slʌm/</td><td class='px-4 py-2'>Khu ổ chuột</td><td class='px-4 py-2'>Many people live in slums.</td></tr><tr><td class='px-4 py-2 font-bold'>Congestion</td><td class='px-4 py-2'>(n) /kənˈdʒestʃən/</td><td class='px-4 py-2'>Tắc nghẽn</td><td class='px-4 py-2'>Traffic congestion is terrible.</td></tr><tr><td class='px-4 py-2 font-bold'>Sanitation</td><td class='px-4 py-2'>(n) /ˌsænɪˈteɪʃn/</td><td class='px-4 py-2'>Vệ sinh công cộng</td><td class='px-4 py-2'>Improve sanitation systems.</td></tr><tr><td class='px-4 py-2 font-bold'>Affordable</td><td class='px-4 py-2'>(adj) /əˈfɔːdəbl/</td><td class='px-4 py-2'>Có khả năng chi trả</td><td class='px-4 py-2'>Housing should be affordable.</td></tr><tr><td class='px-4 py-2 font-bold'>Unemployment</td><td class='px-4 py-2'>(n) /ˌʌnɪmˈplɔɪmənt/</td><td class='px-4 py-2'>Thất nghiệp</td><td class='px-4 py-2'>Unemployment is rising.</td></tr><tr><td class='px-4 py-2 font-bold'>Poverty</td><td class='px-4 py-2'>(n) /ˈpɒvəti/</td><td class='px-4 py-2'>Nghèo đói</td><td class='px-4 py-2'>Reduce urban poverty.</td></tr><tr><td class='px-4 py-2 font-bold'>Expand</td><td class='px-4 py-2'>(v) /ɪkˈspænd/</td><td class='px-4 py-2'>Mở rộng</td><td class='px-4 py-2'>Cities continue to expand.</td></tr><tr><td class='px-4 py-2 font-bold'>Densely</td><td class='px-4 py-2'>(adv) /ˈdensli/</td><td class='px-4 py-2'>Dày đặc</td><td class='px-4 py-2'>Densely populated areas.</td></tr><tr><td class='px-4 py-2 font-bold'>Seek</td><td class='px-4 py-2'>(v) /siːk/</td><td class='px-4 py-2'>Tìm kiếm</td><td class='px-4 py-2'>Seek better opportunities.</td></tr><tr><td class='px-4 py-2 font-bold'>Housing</td><td class='px-4 py-2'>(n) /ˈhaʊzɪŋ/</td><td class='px-4 py-2'>Nhà ở</td><td class='px-4 py-2'>Housing shortage in cities.</td></tr></tbody></table></div>"
+        },
+        {
+          "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+          "content": "<p><strong>Urban and rural (Đô thị và nông thôn):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>urbanisation:</strong> đô thị hóa</li><li><strong>urban area:</strong> khu vực đô thị</li><li><strong>rural area:</strong> khu vực nông thôn</li><li><strong>migrate to cities:</strong> di cư đến thành phố</li><li><strong>urban population:</strong> dân số đô thị</li><li><strong>city dweller:</strong> cư dân thành phố</li></ul><p><strong>Urban problems (Vấn đề đô thị):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>overcrowding:</strong> quá đông đúc</li><li><strong>traffic congestion:</strong> tắc nghẽn giao thông</li><li><strong>air pollution:</strong> ô nhiễm không khí</li><li><strong>housing shortage:</strong> thiếu nhà ở</li><li><strong>slum:</strong> khu ổ chuột</li><li><strong>unemployment:</strong> thất nghiệp</li><li><strong>poverty:</strong> nghèo đói</li><li><strong>crime rate:</strong> tỷ lệ tội phạm</li></ul><p><strong>Infrastructure and services (Cơ sở hạ tầng và dịch vụ):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>infrastructure:</strong> cơ sở hạ tầng</li><li><strong>public transport:</strong> phương tiện công cộng</li><li><strong>sanitation:</strong> vệ sinh công cộng</li><li><strong>water supply:</strong> cung cấp nước</li><li><strong>healthcare facilities:</strong> cơ sở y tế</li><li><strong>educational facilities:</strong> cơ sở giáo dục</li></ul><p><strong>Solutions (Giải pháp):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>urban planning:</strong> quy hoạch đô thị</li><li><strong>affordable housing:</strong> nhà ở giá phải chăng</li><li><strong>improve infrastructure:</strong> cải thiện cơ sở hạ tầng</li><li><strong>create jobs:</strong> tạo việc làm</li><li><strong>expand public transport:</strong> mở rộng phương tiện công cộng</li></ul><p><strong>Collocations về đô thị hóa:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>rapid urbanisation:</strong> đô thị hóa nhanh</li><li><strong>densely populated:</strong> dân cư đông đúc</li><li><strong>urban sprawl:</strong> sự lan rộng đô thị</li><li><strong>sustainable development:</strong> phát triển bền vững</li><li><strong>quality of life:</strong> chất lượng cuộc sống</li></ul>"
+        },
+        {
+          "heading": "3. Ngữ âm: Unstressed words",
+          "content": "<h3>Unstressed words in connected speech</h3><p><strong>Quy tắc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Content words (nhấn mạnh):</strong> nouns, main verbs, adjectives, adverbs</li><li>Ex: <strong>CITIES</strong> are becoming <strong>MORE CROWDED</strong>.</li><li><strong>Function words (không nhấn):</strong> articles (a, an, the), prepositions (in, on, at), pronouns (he, she, it), auxiliary verbs (is, are, have)</li><li>Ex: There are a lot of problems in our cities.</li><li>Chỉ nhấn: <strong>LOT</strong>, <strong>PROBLEMS</strong>, <strong>CITIES</strong></li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "vocab-ex1",
+        "type": "mcq",
+        "question": "Choose the correct word: 'Many people _____ to cities for better jobs.'",
+        "options": ["migrate", "migration", "migrant", "migrating"],
+        "correct": 0,
+        "explanation": "'Migrate' (v) là động từ đúng sau chủ ngữ 'people'."
+      },
+      {
+        "id": "vocab-ex2",
+        "type": "mcq",
+        "question": "What does 'urbanisation' mean?",
+        "options": ["Building parks", "Process of cities growing", "Farming", "Reducing population"],
+        "correct": 1,
+        "explanation": "Urbanisation là quá trình thành phố phát triển và dân số đô thị tăng."
+      },
+      {
+        "id": "vocab-ex3",
+        "type": "mcq",
+        "question": "Complete: 'Traffic _____ is a serious problem in big cities.'",
+        "options": ["congestion", "congest", "congested", "congesting"],
+        "correct": 0,
+        "explanation": "'Congestion' (n) là danh từ nghĩa là tắc nghẽn."
+      },
+      {
+        "id": "vocab-ex4",
+        "type": "mcq",
+        "question": "Which word means 'able to pay for something'?",
+        "options": ["expensive", "affordable", "costly", "valuable"],
+        "correct": 1,
+        "explanation": "'Affordable' nghĩa là có khả năng chi trả được."
+      },
+      {
+        "id": "vocab-ex5",
+        "type": "mcq",
+        "question": "What is a 'slum'?",
+        "options": ["A luxury apartment", "A poor urban area with bad conditions", "A shopping mall", "A park"],
+        "correct": 1,
+        "explanation": "Slum là khu ổ chuột, khu vực nghèo với điều kiện sống tồi tệ."
+      },
+      {
+        "id": "vocab-ex6",
+        "type": "mcq",
+        "question": "Complete: 'The city needs to improve its _____.'",
+        "options": ["infrastructure", "infrastructures", "infrastructural", "infrastructuring"],
+        "correct": 0,
+        "explanation": "'Infrastructure' (n) là danh từ không đếm được."
+      },
+      {
+        "id": "vocab-ex7",
+        "type": "mcq",
+        "question": "What does 'densely populated' mean?",
+        "options": ["Few people living", "Many people living in a small area", "No people", "Empty area"],
+        "correct": 1,
+        "explanation": "'Densely populated' nghĩa là dân cư đông đúc."
+      },
+      {
+        "id": "vocab-ex8",
+        "type": "mcq",
+        "question": "Choose the correct form: 'Cities continue to _____.'",
+        "options": ["expand", "expansion", "expanded", "expanding"],
+        "correct": 0,
+        "explanation": "'Expand' (v) là động từ nguyên thể sau 'to'."
+      },
+      {
+        "id": "vocab-ex9",
+        "type": "mcq",
+        "question": "What is 'sanitation'?",
+        "options": ["Entertainment", "Public health and cleanliness systems", "Transportation", "Education"],
+        "correct": 1,
+        "explanation": "Sanitation là hệ thống vệ sinh công cộng."
+      },
+      {
+        "id": "vocab-ex10",
+        "type": "mcq",
+        "question": "Complete: 'Young people _____ better opportunities in cities.'",
+        "options": ["seek", "seeking", "sought", "seeks"],
+        "correct": 0,
+        "explanation": "'Seek' (v) là động từ nguyên thể phù hợp với chủ ngữ số nhiều."
+      },
+      {
+        "id": "vocab-ex11",
+        "type": "mcq",
+        "question": "What is the opposite of 'urban'?",
+        "options": ["modern", "rural", "crowded", "busy"],
+        "correct": 1,
+        "explanation": "'Rural' (nông thôn) là từ trái nghĩa với 'urban' (đô thị)."
+      },
+      {
+        "id": "vocab-ex12",
+        "type": "mcq",
+        "question": "Complete: '_____ is a major problem in cities.'",
+        "options": ["Unemploy", "Unemployment", "Unemployed", "Unemploying"],
+        "correct": 1,
+        "explanation": "'Unemployment' (n) là danh từ nghĩa là thất nghiệp."
+      },
+      {
+        "id": "vocab-ex13",
+        "type": "mcq",
+        "question": "What does 'overcrowding' mean?",
+        "options": ["Too few people", "Too many people in a space", "Empty space", "Quiet area"],
+        "correct": 1,
+        "explanation": "'Overcrowding' nghĩa là quá đông đúc."
+      },
+      {
+        "id": "vocab-ex14",
+        "type": "mcq",
+        "question": "Choose the correct collocation: '_____ housing'",
+        "options": ["expensive", "affordable", "costly", "high"],
+        "correct": 1,
+        "explanation": "'Affordable housing' là cụm từ đúng nghĩa là nhà ở giá phải chăng."
+      },
+      {
+        "id": "vocab-ex15",
+        "type": "mcq",
+        "question": "What is 'poverty'?",
+        "options": ["Being rich", "Being poor", "Being healthy", "Being educated"],
+        "correct": 1,
+        "explanation": "'Poverty' nghĩa là nghèo đói."
+      },
+      {
+        "id": "vocab-ex16",
+        "type": "msq",
+        "question_text": "Decide True or False:",
+        "options": [
+          "'Migrate' means to move from one place to another.",
+          "'Urban' means related to the countryside.",
+          "'Infrastructure' includes roads and public services.",
+          "'Affordable' means very expensive."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Migrate là di cư. b) False - Urban là đô thị, không phải nông thôn. c) True - Infrastructure bao gồm đường xá và dịch vụ công. d) False - Affordable là có thể chi trả được, không phải đắt."
+      },
+      {
+        "id": "vocab-ex17",
+        "type": "msq",
+        "question_text": "Match the words with their meanings (True if correct):",
+        "options": [
+          "Slum = poor urban area",
+          "Congestion = traffic jam",
+          "Expand = make smaller",
+          "Seek = look for"
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - Slum là khu ổ chuột. b) True - Congestion là tắc nghẽn. c) False - Expand là mở rộng, không phải thu nhỏ. d) True - Seek là tìm kiếm."
+      },
+      {
+        "id": "vocab-ex18",
+        "type": "sa",
+        "question_text": "Complete: People move from _____ areas to urban areas. (one word)",
+        "correct": "rural",
+        "explanation": "Rural areas (khu vực nông thôn)."
+      },
+      {
+        "id": "vocab-ex19",
+        "type": "sa",
+        "question_text": "Fill in: Traffic _____ is terrible during rush hour. (congestion/congest)",
+        "correct": "congestion",
+        "explanation": "'Congestion' (n) là danh từ đúng."
+      },
+      {
+        "id": "vocab-ex20",
+        "type": "sa",
+        "question_text": "Complete the collocation: _____ planning (related to cities)",
+        "correct": "urban",
+        "explanation": "'Urban planning' là quy hoạch đô thị."
+      }
+    ]
+  }
+}

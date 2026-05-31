@@ -1,0 +1,357 @@
+{
+  "subject": "Tiếng Anh 7",
+  "subject_id": 44,
+  "lessons": [
+    {
+      "id": "anh7-review-4",
+      "name": "Review 4 (Units 10 - 11 - 12)",
+      "slug": "review-4-units-10-11-12",
+      "chapter": "Review 4 (Units 10 - 11 - 12)",
+      "chapter_id": "A7",
+      "lesson_id": 40,
+      "description": "Review of Units 10, 11, and 12 covering energy sources, future travel, and English-speaking countries.",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2672&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-4",
+          "name": "Review 4 Comprehensive",
+          "slug": "review-4-comprehensive",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 4 (Units 10 - 11 - 12)",
+          "sections": [
+            {
+              "heading": "1. Language - Vocabulary",
+              "content": "<h3>Unit 10: Energy Sources</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Energy types:</strong> solar, wind, coal, oil, gas, hydro, biogas, nuclear</li><li><strong>Adjectives:</strong> renewable, non-renewable, clean, dirty, eco-friendly</li><li><strong>Verbs:</strong> save, waste, produce, use, run out, replace, pollute</li></ul><h3>Unit 11: Travelling in the Future</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Transport:</strong> flying car, driverless car, jet pack, spaceship, teleporter, high-speed train</li><li><strong>Features:</strong> eco-friendly, fast, comfortable, convenient, safe, modern</li><li><strong>Actions:</strong> fly, hover, teleport, travel</li></ul><h3>Unit 12: English-speaking Countries</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Countries:</strong> UK, USA, Australia, Canada, New Zealand, Ireland</li><li><strong>Places:</strong> capital, landmark, symbol, landscape</li><li><strong>Adjectives:</strong> famous, unique, diverse, iconic, official</li></ul>"
+            },
+            {
+              "heading": "2. Language - Grammar",
+              "content": "<h3>Unit 10: Present Continuous for Future</h3><p><strong>Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + am/is/are + V-ing + time expression</li><li>Dùng cho kế hoạch đã sắp xếp</li><li>Ex: I am meeting him tomorrow.</li></ul><h3>Unit 11: Simple Future & Possessive Pronouns</h3><p><strong>1. Simple Future:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + will + V (bare infinitive)</li><li>S + won't + V</li><li>Will + S + V...?</li></ul><p><strong>2. Possessive Pronouns:</strong></p><ul class='list-disc pl-5 space-y-2'><li>mine, yours, his, hers, ours, theirs</li><li>Thay thế possessive adjective + noun</li></ul><h3>Unit 12: Articles (a, an, the)</h3><p><strong>1. A/An:</strong></p><ul class='list-disc pl-5 space-y-2'><li>a + phụ âm: a book</li><li>an + nguyên âm: an apple</li></ul><p><strong>2. The:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vật duy nhất: the sun</li><li>Đã nhắc đến: the cat</li><li>Tên có: kingdom, states, republic</li></ul><p><strong>3. Không dùng mạo từ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tên quốc gia thông thường: Vietnam</li><li>Bữa ăn: breakfast</li><li>Môn thể thao: football</li></ul>"
+            },
+            {
+              "heading": "3. Skills - Reading Passage 1: Energy and Environment",
+              "content": "<p><strong>The Future of Energy</strong></p><p>Energy is essential for our daily lives. We use energy for cooking, heating, lighting, and transportation. However, the way we produce and use energy is changing.</p><p>Currently, most of the world's energy comes from non-renewable sources like coal, oil, and natural gas. These sources will run out in the future. Moreover, they pollute the environment and cause climate change. Coal power plants produce a lot of carbon dioxide. This gas makes the Earth warmer.</p><p>Scientists are working on renewable energy sources. Solar energy comes from the sun. It's clean and will never run out. Many countries are installing solar panels on houses and buildings. Wind energy is another clean source. Wind turbines can produce electricity without pollution. Hydro energy uses water to generate power. It's renewable and eco-friendly.</p><p>What are people doing to save energy? Many families are replacing old light bulbs with LED bulbs. They use less electricity. Some people are installing solar panels on their roofs. Others are using public transport instead of cars. These actions help reduce energy consumption.</p><p>Next month, our school is organizing an energy-saving campaign. We are putting up posters about saving energy. Students are learning how to reduce waste. Teachers are showing us how to turn off lights and computers when we don't use them.</p><p>In the future, renewable energy will replace fossil fuels. Cars will run on electricity or hydrogen. Houses will have solar panels. We will use energy more efficiently. Although changing to renewable energy is expensive now, it will save money and protect the environment in the long term.</p>"
+            },
+            {
+              "heading": "4. Skills - Reading Passage 2: Future Travel and English-speaking Countries",
+              "content": "<p><strong>Exploring the World</strong></p><p>Travelling is one of the most exciting activities. It helps us learn about different cultures and places. In the future, travelling will be very different from today.</p><p>How will people travel in the future? Scientists predict that we will have flying cars. These vehicles will fly above the traffic. They will be fast and convenient. Driverless cars will also be common. You won't need to drive. The car will take you to your destination automatically. Some people think we will have jet packs. You will be able to fly like a bird. Spaceships will take tourists to the moon and Mars. Although these ideas sound like science fiction, they might become reality soon.</p><p>Your car is old, but mine is new. Mine will be a flying car. It will be eco-friendly and comfortable. Yours might be a driverless car. His will probably be a spaceship. We will all have different vehicles in the future.</p><p>Where will people travel? Many people want to visit English-speaking countries. The United Kingdom is famous for Big Ben and the Tower of London. The capital is London. It's a historic city. The USA is a large country. The capital is Washington D.C., but New York is the most famous city. The Statue of Liberty is an iconic symbol of America.</p><p>Australia is known for the Sydney Opera House and kangaroos. The capital is Canberra, but Sydney is more popular with tourists. Canada has beautiful landscapes. The CN Tower in Toronto is very tall. The maple leaf is the national symbol. New Zealand is famous for its natural beauty. The kiwi bird is unique to New Zealand.</p><p>These countries have diverse cultures. English is the official language in all of them. However, they have different accents and traditions. Visiting these countries is a great way to practice English and learn about different cultures.</p><p>In the future, travelling to these countries will be easier and faster. We will fly there in a few hours. Some people might even teleport instantly. The world will become smaller, and we will all be closer together.</p>"
+            },
+            {
+              "heading": "5. Skills - Practice Exercises",
+              "content": "<p><strong>Based on Reading Passage 1 (Energy and Environment):</strong></p><ol class='list-decimal pl-5 space-y-2'><li>Why are non-renewable energy sources a problem?</li><li>What are three types of renewable energy mentioned?</li><li>What is the school doing next month?</li><li>Why is changing to renewable energy important?</li></ol><p><strong>Based on Reading Passage 2 (Future Travel and Countries):</strong></p><ol class='list-decimal pl-5 space-y-2'><li>What types of future transport are mentioned?</li><li>What is the capital of the United Kingdom?</li><li>What is Australia famous for?</li><li>What is the national symbol of Canada?</li></ol>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Present Continuous for Future",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + am/is/are + V-ing + time expression</li><li>Kế hoạch đã sắp xếp</li></ul>",
+            "examples": [
+              {
+                "question": "We ______ (install) solar panels next month.",
+                "solution": "We <strong>are installing</strong> solar panels next month.",
+                "explanation": "Kế hoạch đã sắp xếp → present continuous."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Will và Possessive Pronouns",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Will + V: tương lai</li><li>mine, yours, his, hers, ours, theirs</li></ul>",
+            "examples": [
+              {
+                "question": "Cars ______ fly. Your car is old, but ______ is new.",
+                "solution": "Cars <strong>will</strong> fly. Your car is old, but <strong>mine</strong> is new.",
+                "explanation": "Tương lai → will; Đại từ sở hữu → mine."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Articles (a, an, the)",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>a/an: lần đầu nhắc</li><li>the: đã nhắc, duy nhất</li><li>Không dùng: tên quốc gia thông thường</li></ul>",
+            "examples": [
+              {
+                "question": "I live in ______ Vietnam. ______ USA is big.",
+                "solution": "I live in Vietnam. <strong>The</strong> USA is big.",
+                "explanation": "Vietnam không dùng 'the'; USA có 'States' → the."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Kết hợp các dạng",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Xác định thì và cấu trúc</li><li>Áp dụng quy tắc phù hợp</li></ul>",
+            "examples": [
+              {
+                "question": "We ______ (visit) ______ UK next year. I ______ travel by flying car.",
+                "solution": "We <strong>are visiting</strong> <strong>the</strong> UK next year. I <strong>will</strong> travel by flying car.",
+                "explanation": "Kế hoạch → present continuous; UK → the; Dự đoán → will."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "We ______ solar panels next month.",
+            "options": ["install", "are installing", "installed", "will install"],
+            "correct": 1,
+            "explanation": "Kế hoạch đã sắp xếp → present continuous."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "Cars ______ fly in the future.",
+            "options": ["will", "won't", "do", "does"],
+            "correct": 0,
+            "explanation": "Dự đoán tương lai → will."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "Your car is old, but ______ is new.",
+            "options": ["my", "mine", "I", "me"],
+            "correct": 1,
+            "explanation": "Đại từ sở hữu → mine."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I live in ______ Vietnam.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 3,
+            "explanation": "Tên quốc gia thông thường không dùng mạo từ."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "______ USA is a big country.",
+            "options": ["A", "An", "The", "No article"],
+            "correct": 2,
+            "explanation": "USA có 'States' → the."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "Solar energy is ______.",
+            "options": ["renewable", "non-renewable", "dirty", "expensive"],
+            "correct": 0,
+            "explanation": "Năng lượng mặt trời có thể tái tạo."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "I ______ the engineer tomorrow.",
+            "options": ["meet", "am meeting", "met", "will meet"],
+            "correct": 1,
+            "explanation": "Kế hoạch đã sắp xếp → present continuous."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "She is ______ teacher.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 0,
+            "explanation": "Teacher bắt đầu bằng phụ âm → a."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "A car without a driver is ______.",
+            "options": ["flying", "driverless", "modern", "fast"],
+            "correct": 1,
+            "explanation": "Xe không người lái → driverless."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "We should ______ energy.",
+            "options": ["waste", "save", "pollute", "destroy"],
+            "correct": 1,
+            "explanation": "Tiết kiệm năng lượng → save."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "______ sun is hot.",
+            "options": ["A", "An", "The", "No article"],
+            "correct": 2,
+            "explanation": "Mặt trời là vật duy nhất → the."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "Her car is fast, but ______ is faster.",
+            "options": ["my", "mine", "I", "me"],
+            "correct": 1,
+            "explanation": "Đại từ sở hữu → mine."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "People ______ by spaceship in the future.",
+            "options": ["travel", "will travel", "travelled", "are travelling"],
+            "correct": 1,
+            "explanation": "Dự đoán tương lai → will."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "Coal is ______.",
+            "options": ["renewable", "clean", "non-renewable", "eco-friendly"],
+            "correct": 2,
+            "explanation": "Than đá không thể tái tạo."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "London is in ______ United Kingdom.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 2,
+            "explanation": "United Kingdom có 'Kingdom' → the."
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "They ______ a meeting about energy tomorrow.",
+            "options": ["have", "are having", "had", "will have"],
+            "correct": 1,
+            "explanation": "Kế hoạch đã sắp xếp → present continuous."
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "I saw ______ elephant.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 1,
+            "explanation": "Elephant bắt đầu bằng nguyên âm → an."
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "This car is ______. It doesn't pollute.",
+            "options": ["dirty", "expensive", "eco-friendly", "slow"],
+            "correct": 2,
+            "explanation": "Không gây ô nhiễm → eco-friendly."
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "I play ______ piano.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 2,
+            "explanation": "Nhạc cụ → the."
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "Oil will ______ in the future.",
+            "options": ["run out", "run in", "run up", "run down"],
+            "correct": 0,
+            "explanation": "Cạn kiệt → run out."
+          },
+          {
+            "id": "tf1",
+            "type": "true-false",
+            "question": "Non-renewable energy sources will run out in the future.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'These sources will run out in the future'."
+          },
+          {
+            "id": "tf2",
+            "type": "true-false",
+            "question": "Solar energy pollutes the environment.",
+            "correct": false,
+            "explanation": "Sai. Bài đọc nói solar energy 'It's clean'."
+          },
+          {
+            "id": "tf3",
+            "type": "true-false",
+            "question": "Flying cars will fly above the traffic.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'These vehicles will fly above the traffic'."
+          },
+          {
+            "id": "tf4",
+            "type": "true-false",
+            "question": "The capital of Australia is Sydney.",
+            "correct": false,
+            "explanation": "Sai. Bài đọc nói 'The capital is Canberra'."
+          },
+          {
+            "id": "tf5",
+            "type": "true-false",
+            "question": "English is the official language in all English-speaking countries mentioned.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'English is the official language in all of them'."
+          },
+          {
+            "id": "short1",
+            "type": "short-answer",
+            "question": "Why are non-renewable energy sources a problem?",
+            "answer": "Because they will run out and they pollute the environment",
+            "explanation": "Bài đọc nói 'These sources will run out' và 'they pollute the environment'."
+          },
+          {
+            "id": "short2",
+            "type": "short-answer",
+            "question": "What are three types of renewable energy mentioned?",
+            "answer": "Solar energy, wind energy, and hydro energy",
+            "explanation": "Bài đọc đề cập đến solar, wind, và hydro energy."
+          },
+          {
+            "id": "short3",
+            "type": "short-answer",
+            "question": "What is the capital of the United Kingdom?",
+            "answer": "London",
+            "explanation": "Bài đọc nói 'The capital is London'."
+          },
+          {
+            "id": "short4",
+            "type": "short-answer",
+            "question": "What is the national symbol of Canada?",
+            "answer": "The maple leaf",
+            "explanation": "Bài đọc nói 'The maple leaf is the national symbol'."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write about energy sources (50-70 words). Compare renewable and non-renewable energy. Use present continuous for a future plan.",
+            "sample_answer": "Energy is very important in our lives. There are two types of energy: renewable and non-renewable. Renewable energy like solar and wind is clean and will never run out. Non-renewable energy like coal and oil pollutes the environment. These sources will run out in the future. We should use more renewable energy. Next month, our school is organizing an energy-saving campaign. We are learning how to save energy. I think renewable energy is better for the environment.",
+            "explanation": "Bài viết cần so sánh hai loại năng lượng và sử dụng present continuous cho kế hoạch tương lai."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Write about future transport (50-70 words). Use will for predictions and possessive pronouns.",
+            "sample_answer": "In the future, transport will be very different. People will travel by flying cars and spaceships. Driverless cars will be common. You won't need to drive. The car will take you anywhere. My dream car is a flying car. It will be fast and eco-friendly. Your car might be different from mine. Yours will probably be a driverless car. His will be a spaceship. Although these ideas sound impossible now, they will become reality soon. Future transport will be amazing.",
+            "explanation": "Bài viết cần sử dụng will cho dự đoán và possessive pronouns (mine, yours, his)."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Write about an English-speaking country (50-70 words). Use articles (a, an, the) correctly.",
+            "sample_answer": "The United Kingdom is an English-speaking country in Europe. The capital is London. It's a historic city. The UK is famous for Big Ben and the Tower of London. These are iconic landmarks. The country has a rich culture and long history. English is the official language. The UK has a diverse population. Many tourists visit the country every year. Although the weather is often rainy, the UK is a beautiful place. I would like to visit the UK someday.",
+            "explanation": "Bài viết cần sử dụng mạo từ đúng: the UK, a historic city, the capital."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Write about saving energy (50-70 words). Use present continuous for future plans and should/shouldn't.",
+            "sample_answer": "Saving energy is very important for the environment. We should turn off lights when we don't use them. We shouldn't waste electricity. We should use LED bulbs because they use less energy. Next week, my family is installing solar panels on our roof. We are also replacing old appliances with energy-efficient ones. My school is organizing an energy-saving campaign next month. Students are learning how to reduce waste. We should all save energy to protect our planet.",
+            "explanation": "Bài viết cần sử dụng present continuous cho kế hoạch và should/shouldn't cho lời khuyên."
+          }
+        ]
+      }
+    }
+  ]
+}

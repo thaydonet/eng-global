@@ -1,0 +1,289 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import { getAllLessons, getSubjectGradeCombinations, parseSubjectGrade } from '@/lib/lessons';
+import type { SubLesson } from '@/lib/lessons';
+
+export async function getStaticPaths() {
+  const lessons = getAllLessons();
+  const combinations = getSubjectGradeCombinations();
+  const paths: any[] = [];
+
+  combinations.forEach(combo => {
+    const prefix = combo.subject.id + combo.grade.id;
+    const comboLessons = lessons.filter(l => l.id.startsWith(prefix));
+    
+    comboLessons.forEach((lesson) => {
+      if (lesson.has_sub_lessons && lesson.sub_lessons) {
+        lesson.sub_lessons.forEach((subLesson) => {
+          paths.push({
+            params: {
+              subjectGrade: combo.slug,
+              id: lesson.id,
+              subSlug: subLesson.slug
+            },
+            props: {
+              lesson,
+              subLesson
+            }
+          });
+        });
+      }
+    });
+  });
+
+  return paths;
+}
+
+const { lesson, subLesson } = Astro.props as { lesson: any; subLesson: SubLesson };
+const subjectGradeSlug = Astro.params.subjectGrade;
+
+// Find current sub-lesson index for navigation
+const currentIndex = lesson.sub_lessons.findIndex((sl: SubLesson) => sl.slug === subLesson.slug);
+const previousSubLesson = currentIndex > 0 ? lesson.sub_lessons[currentIndex - 1] : null;
+const nextSubLesson = currentIndex < lesson.sub_lessons.length - 1 ? lesson.sub_lessons[currentIndex + 1] : null;
+---
+
+<Layout title={`${subLesson.name} - ${lesson.name}`}>
+  <!-- Hero Section -->
+  <div class="relative bg-gradient-to-br from-blue-600 via-indigo-600 to-cyan-500 text-white py-12 overflow-hidden">
+    <div class="absolute inset-0 bg-black/10"></div>
+
+    <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center mb-4">
+        <a href={`/lessons/${subjectGradeSlug}/${lesson.id}`} class="text-white/90 hover:text-white transition-colors flex items-center text-sm font-medium group">
+          <svg class="w-4 h-4 mr-2 group-hover:-translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
+          </svg>
+          Quay lại {lesson.name}
+        </a>
+      </div>
+
+      <div class="mb-3">
+        <span class="inline-block text-xs bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full font-medium">{lesson.chapter}</span>
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl font-display font-bold mb-3 leading-tight">{subLesson.name}</h1>
+      <p class="text-lg text-white/90 mb-4 max-w-3xl leading-relaxed">{subLesson.description}</p>
+
+      <div class="flex flex-wrap items-center gap-3">
+        <span class={`px-3 py-1.5 rounded-lg text-xs font-semibold shadow-lg ${
+          subLesson.difficulty_level === 'easy' ? 'bg-green-500 text-white' :
+          subLesson.difficulty_level === 'medium' ? 'bg-yellow-500 text-white' :
+          'bg-red-500 text-white'
+        }`}>
+          {subLesson.difficulty_level === 'easy' ? '🟢 Dễ' : subLesson.difficulty_level === 'medium' ? '🟡 Trung bình' : '🔴 Khó'}
+        </span>
+        <span class="flex items-center text-white/90 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-lg font-medium text-sm">
+          <svg class="w-4 h-4 mr-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+          </svg>
+          {subLesson.duration_minutes} phút
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
+    <div class="flex flex-col lg:flex-row gap-8">
+      <!-- Sidebar -->
+      <aside class="lg:w-72 flex-shrink-0">
+        <div class="sticky top-24 space-y-4">
+          <!-- Sub-Lessons Navigation -->
+          <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-soft border border-gray-100 dark:border-gray-700 p-6">
+            <h2 class="text-lg font-bold mb-4 text-gray-900 dark:text-gray-100 flex items-center">
+              <svg class="w-5 h-5 mr-2 text-blue-600 dark:text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 10h16M4 14h16M4 18h16"/>
+              </svg>
+              Nội dung bài học
+            </h2>
+            <nav class="space-y-1">
+              {lesson.sub_lessons.sort((a: SubLesson, b: SubLesson) => a.order - b.order).map((sl: SubLesson) => (
+                <a
+                  href={`/lessons/${subjectGradeSlug}/${lesson.id}/${sl.slug}`}
+                  class={`block text-sm px-3 py-2.5 rounded-lg transition-colors ${
+                    sl.slug === subLesson.slug
+                      ? 'bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-400 font-semibold'
+                      : 'text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 hover:bg-blue-50 dark:hover:bg-blue-900/20'
+                  }`}
+                >
+                  <div class="flex items-center">
+                    <span class={`w-6 h-6 rounded-lg flex items-center justify-center text-xs font-bold mr-2 ${
+                      sl.slug === subLesson.slug
+                        ? 'bg-blue-600 text-white'
+                        : 'bg-gray-200 dark:bg-gray-600 text-gray-600 dark:text-gray-300'
+                    }`}>
+                      {sl.order}
+                    </span>
+                    <span class="flex-1">{sl.name.replace(/^\d+\.\d+\.\s*/, '')}</span>
+                  </div>
+                </a>
+              ))}
+            </nav>
+          </div>
+
+          <!-- Table of Contents -->
+          {subLesson.content.theory && subLesson.content.theory.sections && (
+            <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-soft border border-gray-100 dark:border-gray-700 p-6">
+              <h2 class="text-lg font-bold mb-4 text-gray-900 dark:text-gray-100 flex items-center">
+                <svg class="w-5 h-5 mr-2 text-blue-600 dark:text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                </svg>
+                Mục lục
+              </h2>
+              <nav class="space-y-1">
+                {subLesson.content.theory.sections.map((section, index) => (
+                  <a
+                    href={`#section-${index}`}
+                    class="block text-xs text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 hover:bg-blue-50 dark:hover:bg-blue-900/20 px-3 py-2 rounded-lg transition-colors"
+                  >
+                    {section.heading}
+                  </a>
+                ))}
+              </nav>
+            </div>
+          )}
+        </div>
+      </aside>
+
+      <!-- Main Content -->
+      <main class="flex-1 min-w-0">
+        <!-- Theory Content -->
+        {subLesson.content.theory && (
+          <section class="mb-12">
+            <div class="flex items-center mb-6">
+              <div class="w-1 h-8 bg-gradient-to-b from-blue-600 to-indigo-600 rounded-full mr-4"></div>
+              <h2 class="text-3xl font-display font-bold text-gray-900 dark:text-gray-100">
+                {subLesson.content.theory.title}
+              </h2>
+            </div>
+            <div class="space-y-6">
+              {subLesson.content.theory.sections.map((section, index) => (
+                <div id={`section-${index}`} class="bg-white dark:bg-gray-800 rounded-2xl shadow-soft border border-gray-100 dark:border-gray-700 p-8 scroll-mt-24 hover:shadow-soft-lg transition-shadow">
+                  <h3 class="text-2xl font-bold mb-5 text-blue-700 dark:text-blue-400 flex items-center">
+                    <span class="w-8 h-8 bg-gradient-to-br from-blue-500 to-indigo-500 rounded-lg flex items-center justify-center text-white text-sm font-bold mr-3">
+                      {index + 1}
+                    </span>
+                    {section.heading}
+                  </h3>
+                  <div class="prose prose-lg dark:prose-invert max-w-none lesson-content" set:html={section.content} />
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
+
+        <!-- Exercises -->
+        {subLesson.content.exercises && subLesson.content.exercises.length > 0 && (
+          <section class="mb-12">
+            <div class="bg-gradient-to-r from-green-600 via-blue-600 to-indigo-600 text-white rounded-2xl p-10 text-center shadow-soft-lg relative overflow-hidden">
+              <div class="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
+              <div class="absolute bottom-0 left-0 w-48 h-48 bg-white/10 rounded-full -ml-24 -mb-24"></div>
+              <div class="relative z-10">
+                <div class="w-16 h-16 bg-white/20 rounded-2xl flex items-center justify-center mx-auto mb-4">
+                  <svg class="w-10 h-10 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                  </svg>
+                </div>
+                <h2 class="text-3xl font-display font-bold mb-3">Thực hành ngay!</h2>
+                <p class="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
+                  Hoàn thành {subLesson.content.exercises.length} câu hỏi để củng cố kiến thức
+                </p>
+                <a
+                  href={`/quiz/${lesson.id}/${subLesson.slug}`}
+                  class="inline-flex items-center px-8 py-4 bg-white text-blue-700 font-bold rounded-xl shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 transition-all duration-200"
+                >
+                  <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+                  </svg>
+                  Làm bài tập
+                </a>
+              </div>
+            </div>
+          </section>
+        )}
+
+        <!-- Navigation -->
+        <section class="mt-12 pt-8 border-t-2 border-gray-200 dark:border-gray-700">
+          <div class="flex justify-between items-center gap-4">
+            {previousSubLesson ? (
+              <a
+                href={`/lessons/${subjectGradeSlug}/${lesson.id}/${previousSubLesson.slug}`}
+                class="flex-1 group bg-white dark:bg-gray-800 rounded-xl shadow-soft hover:shadow-soft-lg transition-all p-6 border-2 border-gray-100 dark:border-gray-700 hover:border-blue-300 dark:hover:border-blue-500"
+              >
+                <div class="flex items-center text-sm text-gray-500 dark:text-gray-400 mb-2">
+                  <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+                  </svg>
+                  Bài trước
+                </div>
+                <div class="font-bold text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                  {previousSubLesson.name}
+                </div>
+              </a>
+            ) : (
+              <div class="flex-1"></div>
+            )}
+
+            {nextSubLesson ? (
+              <a
+                href={`/lessons/${subjectGradeSlug}/${lesson.id}/${nextSubLesson.slug}`}
+                class="flex-1 group bg-white dark:bg-gray-800 rounded-xl shadow-soft hover:shadow-soft-lg transition-all p-6 border-2 border-gray-100 dark:border-gray-700 hover:border-blue-300 dark:hover:border-blue-500 text-right"
+              >
+                <div class="flex items-center justify-end text-sm text-gray-500 dark:text-gray-400 mb-2">
+                  Bài tiếp theo
+                  <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                  </svg>
+                </div>
+                <div class="font-bold text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                  {nextSubLesson.name}
+                </div>
+              </a>
+            ) : (
+              <div class="flex-1"></div>
+            )}
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .lesson-content {
+    @apply text-gray-700 dark:text-gray-300;
+  }
+
+  .lesson-content h3 {
+    @apply text-xl font-bold mt-4 mb-2 text-gray-800 dark:text-gray-200;
+  }
+
+  .lesson-content h4 {
+    @apply text-lg font-semibold mt-3 mb-2 text-gray-800 dark:text-gray-200;
+  }
+
+  .lesson-content p {
+    @apply mb-3 leading-relaxed;
+  }
+
+  .lesson-content ul,
+  .lesson-content ol {
+    @apply mb-4 ml-6 space-y-2;
+  }
+
+  .lesson-content li {
+    @apply leading-relaxed;
+  }
+
+  .lesson-content strong {
+    @apply font-semibold text-gray-900 dark:text-gray-100;
+  }
+
+  .lesson-content table {
+    @apply w-full my-4;
+  }
+
+  .lesson-content code {
+    @apply bg-gray-100 dark:bg-gray-700 px-1 py-0.5 rounded text-sm font-mono;
+  }
+</style>

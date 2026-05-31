@@ -1,0 +1,225 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-7-p5",
+  "name": "Part 5: Speaking",
+  "slug": "p5-speaking",
+  "description": "Thảo luận về ảnh hưởng của truyền thông",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Speaking: Discussing Media Influence",
+      "sections": [
+        {
+          "heading": "Speaking Skills",
+          "content": "<p><strong>Chủ đề:</strong> Discussing media influence and fake news</p><p><strong>Kỹ năng nói:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Talking about media types:</strong> Nói về các loại truyền thông</li><li><strong>Describing media influence:</strong> Mô tả ảnh hưởng của truyền thông</li><li><strong>Discussing fake news:</strong> Thảo luận về tin giả</li><li><strong>Expressing opinions:</strong> Bày tỏ ý kiến</li><li><strong>Using adverbial clauses:</strong> Sử dụng mệnh đề trạng ngữ</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Talking about media use:</strong></li><li>I get my news from...</li><li>I use social media to...</li><li>I follow... on Instagram/Twitter</li><li>I watch/read/listen to...</li><li><strong>Describing influence:</strong></li><li>Media influences people so much that...</li><li>Social media is so powerful that...</li><li>The news spread so quickly that...</li><li>It has such a strong influence that...</li><li><strong>Discussing fake news:</strong></li><li>Fake news is such a problem that...</li><li>People share information as if it were true.</li><li>We should verify news the way journalists do.</li><li>Misinformation spreads so fast that...</li><li><strong>Expressing concerns:</strong></li><li>I'm worried that...</li><li>One problem is that...</li><li>We need to be careful about...</li><li>It's concerning that...</li><li><strong>Giving opinions:</strong></li><li>In my opinion, ...</li><li>I think/believe that...</li><li>From my perspective...</li><li>I agree/disagree that...</li></ul>"
+        },
+        {
+          "heading": "Talking About Media Influence",
+          "content": "<p><strong>Types of media people use:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Traditional media:</strong> TV, radio, newspapers, magazines</li><li><strong>Digital media:</strong> news websites, online magazines</li><li><strong>Social media:</strong> Facebook, Instagram, Twitter, TikTok</li><li><strong>Streaming platforms:</strong> YouTube, Netflix</li></ul><p><strong>How media influences us:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Shapes opinions:</strong> Media influences what we think about issues</li><li><strong>Affects behavior:</strong> Advertising and influencers change how we act</li><li><strong>Spreads information:</strong> News reaches millions quickly</li><li><strong>Creates trends:</strong> Viral content shapes culture</li><li><strong>Impacts mental health:</strong> Social media affects self-esteem</li></ul><p><strong>Discussing fake news:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>What it is:</strong> False information presented as news</li><li><strong>How it spreads:</strong> Shared quickly on social media</li><li><strong>Why it's dangerous:</strong> Misleads people, affects decisions</li><li><strong>How to identify it:</strong> Check sources, verify facts, look for bias</li><li><strong>What we should do:</strong> Think critically, don't share unverified information</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "speaking-ex1",
+        "type": "mcq",
+        "question": "Which expression discusses media influence?",
+        "options": [
+          "I like pizza",
+          "Media influences people so much that it shapes opinions",
+          "Good morning",
+          "How are you?"
+        ],
+        "correct": 1,
+        "explanation": "Câu này thảo luận về ảnh hưởng của truyền thông."
+      },
+      {
+        "id": "speaking-ex2",
+        "type": "mcq",
+        "question": "Complete: 'Social media is _____ powerful _____ it changes behavior.'",
+        "options": ["such / that", "so / that", "as / that", "too / that"],
+        "correct": 1,
+        "explanation": "So + adj + that - mệnh đề kết quả."
+      },
+      {
+        "id": "speaking-ex3",
+        "type": "mcq",
+        "question": "Which phrase expresses a concern about fake news?",
+        "options": [
+          "Fake news is perfect",
+          "I'm worried that fake news misleads people",
+          "Fake news has no effect",
+          "Everything is fine"
+        ],
+        "correct": 1,
+        "explanation": "'I'm worried that...' thể hiện lo ngại."
+      },
+      {
+        "id": "speaking-ex4",
+        "type": "mcq",
+        "question": "Complete: 'People share information _____ it _____ true.'",
+        "options": ["as if / is", "as if / were", "so / that", "such / that"],
+        "correct": 1,
+        "explanation": "As if + Past Simple (were) - tình huống không có thật."
+      },
+      {
+        "id": "speaking-ex5",
+        "type": "mcq",
+        "question": "Which is a social media platform?",
+        "options": ["Newspaper", "Instagram", "Radio", "Magazine"],
+        "correct": 1,
+        "explanation": "Instagram là nền tảng mạng xã hội."
+      },
+      {
+        "id": "speaking-ex6",
+        "type": "mcq",
+        "question": "Complete: 'We should verify news _____ journalists do.'",
+        "options": ["as if", "the way", "so that", "such that"],
+        "correct": 1,
+        "explanation": "'The way' dùng để diễn tả cách thức thực tế."
+      },
+      {
+        "id": "speaking-ex7",
+        "type": "mcq",
+        "question": "Which describes media influence?",
+        "options": ["Weak", "Insignificant", "Powerful", "Useless"],
+        "correct": 2,
+        "explanation": "'Powerful' (mạnh mẽ) mô tả ảnh hưởng của truyền thông."
+      },
+      {
+        "id": "speaking-ex8",
+        "type": "mcq",
+        "question": "Complete: 'In my opinion, we _____ check sources before sharing.'",
+        "options": ["should", "shouldn't", "must not", "can't"],
+        "correct": 0,
+        "explanation": "'Should' thể hiện ý kiến rằng nên kiểm tra nguồn."
+      },
+      {
+        "id": "speaking-ex9",
+        "type": "mcq",
+        "question": "What should we do with unverified information?",
+        "options": [
+          "Share it immediately",
+          "Verify it before sharing",
+          "Ignore all information",
+          "Believe everything"
+        ],
+        "correct": 1,
+        "explanation": "Nên xác minh trước khi chia sẻ."
+      },
+      {
+        "id": "speaking-ex10",
+        "type": "mcq",
+        "question": "Complete: 'The news spread _____ quickly _____ millions saw it.'",
+        "options": ["such / that", "so / that", "as / that", "too / that"],
+        "correct": 1,
+        "explanation": "So + adv + that - mệnh đề kết quả."
+      },
+      {
+        "id": "speaking-ex11",
+        "type": "mcq",
+        "question": "Which is traditional media?",
+        "options": [
+          "Facebook",
+          "Television",
+          "Instagram",
+          "Twitter"
+        ],
+        "correct": 1,
+        "explanation": "Television (TV) là truyền thông truyền thống."
+      },
+      {
+        "id": "speaking-ex12",
+        "type": "mcq",
+        "question": "Complete: 'From my _____, media literacy is essential.'",
+        "options": ["house", "perspective", "friend", "book"],
+        "correct": 1,
+        "explanation": "'From my perspective' nghĩa là theo quan điểm của tôi."
+      },
+      {
+        "id": "speaking-ex13",
+        "type": "mcq",
+        "question": "What does 'go viral' mean?",
+        "options": [
+          "Get sick",
+          "Spread rapidly online",
+          "Disappear",
+          "Be deleted"
+        ],
+        "correct": 1,
+        "explanation": "'Go viral' nghĩa là lan truyền nhanh trên mạng."
+      },
+      {
+        "id": "speaking-ex14",
+        "type": "mcq",
+        "question": "Complete: 'We need to be careful _____ fake news.'",
+        "options": ["at", "in", "about", "for"],
+        "correct": 2,
+        "explanation": "'Be careful about' là cụm từ đúng."
+      },
+      {
+        "id": "speaking-ex15",
+        "type": "mcq",
+        "question": "Which phrase discusses media benefits?",
+        "options": [
+          "Media is terrible",
+          "Media connects people and spreads information",
+          "Media has no use",
+          "I hate media"
+        ],
+        "correct": 1,
+        "explanation": "Câu này thảo luận về lợi ích của truyền thông."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide which are good ways to discuss media (True/False):",
+        "options": [
+          "Social media is so powerful that it influences millions.",
+          "All media is completely useless.",
+          "We should verify information before sharing.",
+          "Fake news has no impact at all."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Cách tốt dùng mệnh đề kết quả. b) False - Quá tiêu cực. c) True - Ý kiến đúng. d) False - Tin giả có tác động lớn."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if the expression is correct:",
+        "options": [
+          "People share news as if it were verified.",
+          "Media influence people so much that it shapes opinions.",
+          "The news spread such quickly that millions saw it.",
+          "We should verify news the way journalists do."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - as if + were. b) True - so + adv + that. c) False - phải là 'so quickly'. d) True - the way + clause."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: Media is _____ powerful that it shapes opinions. (so/such)",
+        "correct": "so",
+        "explanation": "So + adj + that - mệnh đề kết quả."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "Complete the phrase: go _____ (related to spreading online)",
+        "correct": "viral",
+        "explanation": "'Go viral' - lan truyền nhanh."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: We should _____ sources before sharing. (verify/ignore)",
+        "correct": "verify",
+        "explanation": "Chúng ta nên xác minh (verify) nguồn trước khi chia sẻ."
+      }
+    ]
+  }
+}

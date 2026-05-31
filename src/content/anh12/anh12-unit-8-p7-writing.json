@@ -1,0 +1,246 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-8-p7",
+  "name": "Part 7: Writing",
+  "slug": "p7-writing",
+  "description": "Viết bài luận về bảo tồn động vật hoang dã",
+  "duration_minutes": 60,
+  "difficulty_level": "hard",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Writing: An Essay About Wildlife Conservation",
+      "sections": [
+        {
+          "heading": "Writing Skills",
+          "content": "<p><strong>Chủ đề:</strong> Writing an essay about wildlife conservation</p><p><strong>Cấu trúc bài luận:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Introduction:</strong> Giới thiệu vấn đề bảo tồn động vật hoang dã</li><li><strong>Body 1:</strong> Nguyên nhân (poaching, habitat loss, climate change)</li><li><strong>Body 2:</strong> Hậu quả và giải pháp</li><li><strong>Conclusion:</strong> Kết luận và kêu gọi hành động</li></ul><p><strong>Useful language:</strong></p><ul class='list-disc pl-5 space-y-2'><li>If we don't act, species will disappear.</li><li>Unless we protect habitats, animals will die.</li><li>The more we care, the more species survive.</li><li>Conservation is more important than ever.</li><li>We should protect wildlife as much as possible.</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "writing-ex1",
+        "type": "mcq",
+        "question": "What should the introduction include?",
+        "options": [
+          "Only examples",
+          "Introduction to the conservation problem",
+          "Only conclusion",
+          "Random ideas"
+        ],
+        "correct": 1,
+        "explanation": "Mở bài nên giới thiệu vấn đề bảo tồn."
+      },
+      {
+        "id": "writing-ex2",
+        "type": "mcq",
+        "question": "Which linking word shows contrast?",
+        "options": ["Moreover", "However", "Therefore", "Furthermore"],
+        "correct": 1,
+        "explanation": "'However' thể hiện sự tương phản."
+      },
+      {
+        "id": "writing-ex3",
+        "type": "mcq",
+        "question": "What should body paragraphs include?",
+        "options": [
+          "Only one sentence",
+          "Causes, effects, and solutions with examples",
+          "Only opinions",
+          "Random words"
+        ],
+        "correct": 1,
+        "explanation": "Đoạn thân bài cần nguyên nhân, hậu quả, giải pháp và ví dụ."
+      },
+      {
+        "id": "writing-ex4",
+        "type": "mcq",
+        "question": "Which phrase introduces an example?",
+        "options": ["However", "For example", "Therefore", "In conclusion"],
+        "correct": 1,
+        "explanation": "'For example' dùng để đưa ra ví dụ."
+      },
+      {
+        "id": "writing-ex5",
+        "type": "mcq",
+        "question": "How should you start a conclusion?",
+        "options": [
+          "With a new topic",
+          "With 'In conclusion' or 'To sum up'",
+          "With a question",
+          "With 'First'"
+        ],
+        "correct": 1,
+        "explanation": "Kết bài nên bắt đầu với 'In conclusion' hoặc 'To sum up'."
+      },
+      {
+        "id": "writing-ex6",
+        "type": "mcq",
+        "question": "Which is correct for discussing threats?",
+        "options": [
+          "If we don't protect habitats, animals will die.",
+          "If we don't protect habitats, animals dies.",
+          "If we doesn't protect habitats, animals will die.",
+          "If we don't protecting habitats, animals will die."
+        ],
+        "correct": 0,
+        "explanation": "If + Present Simple, will + V - điều kiện loại 1."
+      },
+      {
+        "id": "writing-ex7",
+        "type": "mcq",
+        "question": "Which linking word shows result?",
+        "options": ["Although", "However", "Therefore", "Moreover"],
+        "correct": 2,
+        "explanation": "'Therefore' thể hiện kết quả."
+      },
+      {
+        "id": "writing-ex8",
+        "type": "mcq",
+        "question": "What is a good thesis statement?",
+        "options": [
+          "I like animals",
+          "Wildlife conservation is urgent and requires immediate action",
+          "The end",
+          "Thank you"
+        ],
+        "correct": 1,
+        "explanation": "Luận điểm tốt nêu rõ vấn đề và tầm quan trọng."
+      },
+      {
+        "id": "writing-ex9",
+        "type": "mcq",
+        "question": "Which conditional form is correct?",
+        "options": [
+          "Unless we act, species will disappear.",
+          "Unless we don't act, species will disappear.",
+          "Unless we acts, species will disappear.",
+          "Unless we acting, species will disappear."
+        ],
+        "correct": 0,
+        "explanation": "Unless + khẳng định (không dùng 'not')."
+      },
+      {
+        "id": "writing-ex10",
+        "type": "mcq",
+        "question": "Which phrase adds information?",
+        "options": ["However", "Moreover", "Although", "But"],
+        "correct": 1,
+        "explanation": "'Moreover' dùng để thêm thông tin."
+      },
+      {
+        "id": "writing-ex11",
+        "type": "mcq",
+        "question": "What should you do in the conclusion?",
+        "options": [
+          "Introduce new topics",
+          "Summarize main points and call for action",
+          "Write examples only",
+          "Ask many questions"
+        ],
+        "correct": 1,
+        "explanation": "Kết bài nên tóm tắt và kêu gọi hành động."
+      },
+      {
+        "id": "writing-ex12",
+        "type": "mcq",
+        "question": "Which comparative form is correct?",
+        "options": [
+          "The more we protect, the more species survive.",
+          "The more we protect, the more species survives.",
+          "The more we protects, the more species survive.",
+          "The more we protecting, the more species survive."
+        ],
+        "correct": 0,
+        "explanation": "The...the - so sánh kép đúng."
+      },
+      {
+        "id": "writing-ex13",
+        "type": "mcq",
+        "question": "Which phrase discusses urgency?",
+        "options": [
+          "We have time",
+          "Conservation is more important than ever",
+          "It doesn't matter",
+          "We can wait"
+        ],
+        "correct": 1,
+        "explanation": "Câu này nhấn mạnh sự cấp thiết."
+      },
+      {
+        "id": "writing-ex14",
+        "type": "mcq",
+        "question": "What is a good supporting detail?",
+        "options": [
+          "I like tigers",
+          "Tigers are endangered due to habitat loss and poaching",
+          "Tigers are nice",
+          "I saw a tiger once"
+        ],
+        "correct": 1,
+        "explanation": "Chi tiết hỗ trợ tốt cung cấp thông tin cụ thể và nguyên nhân."
+      },
+      {
+        "id": "writing-ex15",
+        "type": "mcq",
+        "question": "Which sentence uses conditional correctly?",
+        "options": [
+          "If we protect habitats, animals will survive.",
+          "If we protects habitats, animals will survive.",
+          "If we protect habitats, animals survives.",
+          "If we protecting habitats, animals will survive."
+        ],
+        "correct": 0,
+        "explanation": "If + Present Simple, will + V - điều kiện loại 1 đúng."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide if these are good writing practices (True/False):",
+        "options": [
+          "Use linking words to connect ideas",
+          "Write very long sentences without punctuation",
+          "Support ideas with examples",
+          "Use conditional clauses when discussing conservation"
+        ],
+        "correct": [0, 2, 3],
+        "explanation": "a) True - Nên dùng từ nối. b) False - Không nên viết câu quá dài. c) True - Nên hỗ trợ bằng ví dụ. d) True - Nên dùng mệnh đề điều kiện."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if the sentence is correct:",
+        "options": [
+          "If we protect habitats, animals will survive.",
+          "Unless we act, species will disappear.",
+          "The more we protect, the more species survive.",
+          "Conservation is more important than never."
+        ],
+        "correct": [0, 1, 2],
+        "explanation": "a) True - If + Present, will + V. b) True - Unless + khẳng định. c) True - The...the. d) False - Phải là 'than ever'."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: In _____, wildlife conservation is urgent. (one word)",
+        "correct": "conclusion",
+        "explanation": "'In conclusion' - Tóm lại."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "Complete: _____ example, tigers are endangered. (one word)",
+        "correct": "For",
+        "explanation": "'For example' - Ví dụ."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: _____ we act, species will disappear. (Unless/If)",
+        "correct": "Unless",
+        "explanation": "Unless = If not - trừ khi."
+      }
+    ]
+  }
+}

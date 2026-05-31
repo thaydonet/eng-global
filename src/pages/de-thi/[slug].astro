@@ -1,0 +1,363 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import { getExamBySlug, getExamTypeLabel, getExamTypeColor, formatDuration, countScoredQuestions } from '@/lib/de-thi';
+import { getAllLessons } from '@/lib/lessons';
+
+export async function getStaticPaths() {
+  // Dynamic SSR — not pre-generated (exams are user-created)
+  return [];
+}
+
+const { slug } = Astro.params;
+if (!slug) return Astro.redirect('/de-thi');
+
+const exam = await getExamBySlug(slug);
+if (!exam) return Astro.redirect('/de-thi');
+
+const scoredQ = countScoredQuestions(exam.questions);
+const typeColorMap: Record<string, string> = {
+  blue:   'from-blue-600 to-cyan-600',
+  green:  'from-green-600 to-emerald-600',
+  orange: 'from-orange-500 to-amber-600',
+  red:    'from-red-600 to-rose-600',
+  purple: 'from-purple-600 to-violet-600',
+};
+const gradientClass = typeColorMap[getExamTypeColor(exam.exam_type)] || 'from-purple-600 to-indigo-600';
+---
+
+<Layout title={`${exam.title} | Đề thi Tiếng Anh`} description={`Đề thi: ${exam.title} — ${scoredQ} câu, ${formatDuration(exam.duration_minutes)}`}>
+  <!-- Hero Header -->
+  <div class={`relative bg-gradient-to-r ${gradientClass} text-white pt-28 pb-12 overflow-hidden`}>
+    <div class="absolute inset-0 opacity-20" style="background-image: url(\"data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffffff' fill-opacity='1' fill-rule='evenodd'%3E%3Ccircle cx='3' cy='3' r='1.5'/%3E%3C/g%3E%3C/svg%3E\");"></div>
+    <div class="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="mb-4">
+        <a href="/de-thi" class="inline-flex items-center gap-1.5 text-white/70 hover:text-white text-sm transition-colors">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/>
+          </svg>
+          Kho đề thi
+        </a>
+      </div>
+
+      <div class="flex flex-wrap gap-2 mb-4">
+        <span class="px-3 py-1 bg-white/20 backdrop-blur border border-white/30 rounded-full text-xs font-semibold">
+          {getExamTypeLabel(exam.exam_type)}
+        </span>
+        {exam.grade && (
+          <span class="px-3 py-1 bg-white/20 backdrop-blur border border-white/30 rounded-full text-xs font-semibold">
+            Lớp {exam.grade}
+          </span>
+        )}
+        {exam.semester && (
+          <span class="px-3 py-1 bg-white/20 backdrop-blur border border-white/30 rounded-full text-xs font-semibold">
+            Học kỳ {exam.semester}
+          </span>
+        )}
+      </div>
+
+      <h1 class="text-3xl md:text-4xl font-black mb-4">{exam.title}</h1>
+
+      <div class="flex flex-wrap gap-5 text-sm text-white/80">
+        <span class="flex items-center gap-1.5">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+          </svg>
+          {scoredQ} câu hỏi
+        </span>
+        <span class="flex items-center gap-1.5">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+          </svg>
+          {formatDuration(exam.duration_minutes)}
+        </span>
+        <span class="flex items-center gap-1.5">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+          </svg>
+          Chấm điểm tự động
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+      <!-- Main content: exam preview -->
+      <div class="lg:col-span-2">
+        <div class="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 shadow-sm p-6 mb-6">
+          <h2 class="text-lg font-bold text-gray-900 dark:text-gray-100 mb-4 flex items-center gap-2">
+            <span class="w-7 h-7 bg-purple-100 dark:bg-purple-900/40 text-purple-600 dark:text-purple-400 rounded-lg flex items-center justify-center text-sm">👁</span>
+            Xem trước đề thi
+          </h2>
+
+          <div class="space-y-4" id="exam-preview">
+            {exam.questions.slice(0, 5).map((q, i) => (
+              <div class="p-4 bg-gray-50 dark:bg-gray-700/50 rounded-xl border border-gray-100 dark:border-gray-600">
+                <div class="flex items-start gap-3">
+                  <span class="flex-shrink-0 w-7 h-7 bg-purple-600 text-white rounded-lg flex items-center justify-center text-xs font-bold">{i + 1}</span>
+                  <div class="flex-1 min-w-0">
+                    {q.type === 'reading' ? (
+                      <div>
+                        <span class="text-xs text-indigo-600 dark:text-indigo-400 font-semibold">📖 Đọc hiểu — {q.questions?.length || 0} câu hỏi</span>
+                        <p class="text-sm text-gray-600 dark:text-gray-300 mt-1 line-clamp-2">{q.passage}</p>
+                      </div>
+                    ) : q.type === 'listening' ? (
+                      <div>
+                        <span class="text-xs text-blue-600 dark:text-blue-400 font-semibold">🎧 Nghe hiểu — {q.questions?.length || 0} câu hỏi</span>
+                        <p class="text-sm text-gray-600 dark:text-gray-300 mt-1 line-clamp-2">{q.transcript}</p>
+                      </div>
+                    ) : (
+                      <p class="text-sm font-medium text-gray-800 dark:text-gray-200 mb-2">{q.question || q.question_text}</p>
+                    )}
+                    {q.options && (
+                      <div class="grid grid-cols-2 gap-1 mt-2">
+                        {q.options.slice(0, 4).map((opt: string, oi: number) => (
+                          <span class="text-xs text-gray-500 dark:text-gray-400 flex items-center gap-1">
+                            <span class="font-bold">{['A','B','C','D'][oi]}.</span>
+                            <span class="line-clamp-1">{opt.replace(/^[ABCD]\.\s*/, '')}</span>
+                          </span>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                </div>
+              </div>
+            ))}
+
+            {exam.questions.length > 5 && (
+              <div class="text-center py-3 text-sm text-gray-500 dark:text-gray-400">
+                ... và {exam.questions.length - 5} câu hỏi khác
+              </div>
+            )}
+          </div>
+        </div>
+
+        <!-- Offline export -->
+        <div class="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 shadow-sm p-6">
+          <h2 class="text-lg font-bold text-gray-900 dark:text-gray-100 mb-4 flex items-center gap-2">
+            <span class="w-7 h-7 bg-blue-100 dark:bg-blue-900/40 text-blue-600 dark:text-blue-400 rounded-lg flex items-center justify-center text-sm">📄</span>
+            Xuất đề giấy (Offline)
+          </h2>
+          <p class="text-sm text-gray-600 dark:text-gray-400 mb-4">Tải về đề thi để in ra giấy, sử dụng không cần mạng.</p>
+          <div class="flex flex-wrap gap-3">
+            <button id="btn-print-exam" class="inline-flex items-center gap-2 px-4 py-2.5 bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold rounded-xl transition-all">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"/>
+              </svg>
+              In đề thi
+            </button>
+            <button id="btn-print-answer" class="inline-flex items-center gap-2 px-4 py-2.5 bg-green-600 hover:bg-green-700 text-white text-sm font-semibold rounded-xl transition-all">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+              </svg>
+              In đáp án
+            </button>
+            <button id="btn-download-docx" class="inline-flex items-center gap-2 px-4 py-2.5 bg-gray-700 hover:bg-gray-800 text-white text-sm font-semibold rounded-xl transition-all">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+              </svg>
+              Tải .docx
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sidebar: Take exam -->
+      <div class="lg:col-span-1">
+        <div class="sticky top-24 space-y-4">
+          <!-- Start exam card -->
+          <div class={`relative overflow-hidden bg-gradient-to-br ${gradientClass} rounded-2xl p-6 text-white shadow-xl`}>
+            <div class="absolute inset-0 opacity-10" style="background-image: url(\"data:image/svg+xml,%3Csvg width='30' height='30' viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='15' cy='15' r='2' fill='%23fff'/%3E%3C/svg%3E\");"></div>
+            <div class="relative">
+              <div class="text-4xl mb-3">🎯</div>
+              <h3 class="text-xl font-black mb-1">Thi online ngay!</h3>
+              <p class="text-white/80 text-sm mb-5">Timer tự động · Chấm điểm ngay sau khi nộp bài</p>
+
+              <div class="space-y-2 mb-6 text-sm">
+                <div class="flex items-center gap-2">
+                  <svg class="w-4 h-4 text-yellow-300" fill="currentColor" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/></svg>
+                  <span>{scoredQ} câu hỏi</span>
+                </div>
+                <div class="flex items-center gap-2">
+                  <svg class="w-4 h-4 text-yellow-300" fill="currentColor" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/></svg>
+                  <span>Thời gian: {formatDuration(exam.duration_minutes)}</span>
+                </div>
+                <div class="flex items-center gap-2">
+                  <svg class="w-4 h-4 text-yellow-300" fill="currentColor" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/></svg>
+                  <span>Xem đáp án ngay sau nộp</span>
+                </div>
+              </div>
+
+              <a href={`/de-thi/lam-bai/${exam.slug}`}
+                class="flex items-center justify-center gap-2 w-full py-3.5 bg-white text-purple-700 font-black rounded-xl hover:bg-yellow-50 transition-all shadow-lg hover:scale-105">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"/>
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                </svg>
+                Bắt đầu làm bài
+              </a>
+            </div>
+          </div>
+
+          <!-- Info card -->
+          <div class="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-5">
+            <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-3 text-sm">Thông tin đề thi</h3>
+            <dl class="space-y-2 text-sm">
+              <div class="flex justify-between">
+                <dt class="text-gray-500 dark:text-gray-400">Loại đề</dt>
+                <dd class="font-medium text-gray-800 dark:text-gray-200">{getExamTypeLabel(exam.exam_type)}</dd>
+              </div>
+              {exam.grade && (
+                <div class="flex justify-between">
+                  <dt class="text-gray-500 dark:text-gray-400">Khối lớp</dt>
+                  <dd class="font-medium text-gray-800 dark:text-gray-200">Lớp {exam.grade}</dd>
+                </div>
+              )}
+              {exam.semester && (
+                <div class="flex justify-between">
+                  <dt class="text-gray-500 dark:text-gray-400">Học kỳ</dt>
+                  <dd class="font-medium text-gray-800 dark:text-gray-200">HK{exam.semester}</dd>
+                </div>
+              )}
+              <div class="flex justify-between">
+                <dt class="text-gray-500 dark:text-gray-400">Số câu</dt>
+                <dd class="font-medium text-gray-800 dark:text-gray-200">{scoredQ} câu</dd>
+              </div>
+              <div class="flex justify-between">
+                <dt class="text-gray-500 dark:text-gray-400">Thời gian</dt>
+                <dd class="font-medium text-gray-800 dark:text-gray-200">{formatDuration(exam.duration_minutes)}</dd>
+              </div>
+              <div class="flex justify-between">
+                <dt class="text-gray-500 dark:text-gray-400">Ngày tạo</dt>
+                <dd class="font-medium text-gray-800 dark:text-gray-200">{new Date(exam.created_at).toLocaleDateString('vi-VN')}</dd>
+              </div>
+            </dl>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hidden print area -->
+  <div id="print-area" class="hidden"></div>
+
+  <script define:vars={{ exam }}>
+    // Print exam
+    document.getElementById('btn-print-exam')?.addEventListener('click', () => {
+      printExam(false);
+    });
+    document.getElementById('btn-print-answer')?.addEventListener('click', () => {
+      printExam(true);
+    });
+    document.getElementById('btn-download-docx')?.addEventListener('click', () => {
+      generateDocx();
+    });
+
+    function printExam(showAnswers) {
+      const mcqLabels = ['A', 'B', 'C', 'D', 'E', 'F'];
+      let qNum = 1;
+      let html = `
+        <html><head>
+        <meta charset="UTF-8">
+        <title>${exam.title}</title>
+        <style>
+          body { font-family: 'Times New Roman', serif; font-size: 12pt; margin: 2cm; color: #000; }
+          h1 { text-align: center; font-size: 16pt; margin-bottom: 4pt; }
+          .meta { text-align: center; font-size: 11pt; color: #444; margin-bottom: 20pt; }
+          .question { margin-bottom: 14pt; page-break-inside: avoid; }
+          .question-text { font-weight: bold; margin-bottom: 5pt; }
+          .options { display: grid; grid-template-columns: 1fr 1fr; gap: 3pt; margin-left: 15pt; font-size: 11pt; }
+          .option { padding: 1pt 0; }
+          .correct { background: #e8f5e9; padding: 2pt 5pt; border-radius: 3pt; }
+          .passage { background: #f5f5f5; padding: 8pt; margin-bottom: 10pt; border-left: 3pt solid #666; font-size: 11pt; line-height: 1.6; }
+          .section-title { background: #333; color: #fff; padding: 5pt 10pt; margin: 15pt 0 10pt; font-size: 13pt; font-weight: bold; }
+          .answer-key { columns: 4; margin-top: 10pt; }
+          .answer-item { font-size: 11pt; margin-bottom: 3pt; }
+          @media print { body { margin: 1.5cm; } }
+        </style>
+        </head><body>
+        <h1>${exam.title}</h1>
+        <div class="meta">
+          Thời gian: ${exam.duration_minutes} phút &nbsp;|&nbsp; Số câu: ${exam.questions.length} &nbsp;|&nbsp;
+          ${new Date().toLocaleDateString('vi-VN')}
+          ${showAnswers ? '<br><strong style="color:red">HƯỚNG DẪN CHẤM / ĐÁP ÁN</strong>' : ''}
+        </div>
+        <hr>
+      `;
+
+      const answerKey = [];
+
+      exam.questions.forEach((q, i) => {
+        if (q.type === 'reading' || q.type === 'listening') {
+          const label = q.type === 'reading' ? '📖 ĐỌC HIỂU' : '🎧 NGHE HIỂU';
+          html += `<div class="section-title">${label}</div>`;
+          if (q.passage || q.transcript) {
+            html += `<div class="passage">${(q.passage || q.transcript || '').replace(/\n/g, '<br>')}</div>`;
+          }
+          (q.questions || []).forEach(sub => {
+            const ans = showAnswers ? mcqLabels[sub.correct] : '';
+            answerKey.push({ num: qNum, ans: mcqLabels[sub.correct] });
+            html += `<div class="question">
+              <div class="question-text">Câu ${qNum}. ${sub.question}</div>
+              <div class="options">
+                ${(sub.options || []).map((opt, oi) => `
+                  <div class="option ${showAnswers && oi === sub.correct ? 'correct' : ''}">
+                    ${mcqLabels[oi]}. ${opt.replace(/^[ABCD]\.\s*/,'')}
+                  </div>`).join('')}
+              </div>
+              ${showAnswers && sub.explanation ? `<div style="margin-left:15pt;margin-top:3pt;color:#333;font-size:10pt;font-style:italic">💡 ${sub.explanation}</div>` : ''}
+            </div>`;
+            qNum++;
+          });
+        } else if (q.type === 'essay' || q.type === 'tl') {
+          html += `<div class="question">
+            <div class="question-text">Câu ${qNum}. [Tự luận] ${q.question || q.question_text}</div>
+            ${showAnswers && q.explanation ? `<div style="margin-left:15pt;color:#0a0;font-size:11pt;margin-top:5pt">${q.explanation}</div>` : '<div style="height:80pt;border-bottom:1pt solid #ccc;margin:5pt 15pt;"></div>'}
+          </div>`;
+          qNum++;
+        } else {
+          const correct = typeof q.correct === 'number' ? q.correct : 0;
+          answerKey.push({ num: qNum, ans: mcqLabels[correct] });
+          html += `<div class="question">
+            <div class="question-text">Câu ${qNum}. ${q.question || q.question_text}</div>
+            <div class="options">
+              ${(q.options || []).map((opt, oi) => `
+                <div class="option ${showAnswers && oi === correct ? 'correct' : ''}">
+                  ${mcqLabels[oi]}. ${opt.replace(/^[ABCD]\.\s*/,'')}
+                </div>`).join('')}
+            </div>
+            ${showAnswers && q.explanation ? `<div style="margin-left:15pt;margin-top:3pt;color:#333;font-size:10pt;font-style:italic">💡 ${q.explanation}</div>` : ''}
+          </div>`;
+          qNum++;
+        }
+      });
+
+      if (!showAnswers && answerKey.length > 0) {
+        html += `<div style="page-break-before:always"><h2>ĐÁP ÁN (cắt rời)</h2><div class="answer-key">`;
+        answerKey.forEach(a => {
+          html += `<div class="answer-item">Câu ${a.num}: <strong>${a.ans}</strong></div>`;
+        });
+        html += `</div></div>`;
+      }
+
+      html += `</body></html>`;
+      const w = window.open('', '_blank');
+      w.document.write(html);
+      w.document.close();
+      setTimeout(() => w.print(), 500);
+    }
+
+    async function generateDocx() {
+      // Simple DOCX generation using blob
+      const notification = document.createElement('div');
+      notification.className = 'fixed top-4 right-4 bg-blue-600 text-white px-5 py-3 rounded-xl shadow-xl z-50 text-sm font-medium';
+      notification.textContent = '⏳ Đang tạo file Word...';
+      document.body.appendChild(notification);
+      setTimeout(() => {
+        // Fallback: just trigger print to PDF
+        notification.textContent = '💡 Dùng chức năng "In đề thi" → Lưu PDF trong Print dialog';
+        setTimeout(() => notification.remove(), 4000);
+      }, 1000);
+    }
+  </script>
+</Layout>

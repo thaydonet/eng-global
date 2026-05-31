@@ -1,0 +1,405 @@
+{
+  "subject": "Tiếng Anh 10",
+  "subject_id": 40,
+  "lessons": [
+    {
+      "id": "anh10-review-2",
+      "name": "Review 2 (Units 4 - 5)",
+      "slug": "review-1-units-4-5",
+      "chapter": "Review 2",
+      "chapter_id": "A10",
+      "lesson_id": 7,
+      "description": "Ôn tập từ vựng và ngữ pháp từ Unit 4 và 5 (Tiếng Anh 10 - Global Success).",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-2-mixed",
+          "name": "Mixed Review",
+          "slug": "mixed-review",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 2: Units 4-5",
+          "sections": [
+            {
+              "heading": "Summary of Units 4-5",
+              "content": "<p><strong>Unit 4:</strong> Volunteer work, past simple vs. past continuous.</p><p><strong>Unit 5:</strong> Inventions, technology, present perfect.</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Mixed Exercise",
+            "method": "<p>Review all grammar points and vocabulary from previous units.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Volunteer work plays a crucial role in building stronger communities. When people volunteer their time and skills, they help those in need while also developing personally. Many young people choose to volunteer during their summer holidays, working with children in orphanages, teaching disadvantaged students, or participating in environmental cleanup projects.\n\nVolunteering teaches important values such as compassion, responsibility, and teamwork. It helps volunteers understand the challenges others face and appreciate what they have. Moreover, volunteer experience looks good on college applications and resumes, showing that a person cares about their community.\n\nHowever, volunteering requires commitment and dedication. Volunteers must be reliable and willing to work hard, even when tasks are difficult or unglamorous. Despite the challenges, most volunteers find their work deeply rewarding and meaningful.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Volunteering is only for young people",
+                  "Volunteering benefits both volunteers and communities",
+                  "Volunteering is too difficult",
+                  "Only rich people can volunteer"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về lợi ích của tình nguyện cho cả người tham gia và cộng đồng."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, what does volunteering teach?",
+                "options": [
+                  "How to make money",
+                  "Compassion, responsibility, and teamwork",
+                  "How to be famous",
+                  "Nothing important"
+                ],
+                "correct": 1,
+                "explanation": "Tình nguyện dạy lòng compassion, trách nhiệm và làm việc nhóm."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'crucial' in paragraph 1 is closest in meaning to ______.",
+                "options": [
+                  "unimportant",
+                  "very important",
+                  "easy",
+                  "boring"
+                ],
+                "correct": 1,
+                "explanation": "Crucial = very important (rất quan trọng, thiết yếu)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What quality must volunteers have?",
+                "options": [
+                  "Wealth",
+                  "Fame",
+                  "Commitment and dedication",
+                  "Laziness"
+                ],
+                "correct": 2,
+                "explanation": "Tình nguyện viên phải có sự cam kết và cống hiến."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "Why is volunteer experience valuable?",
+                "options": [
+                  "It pays well",
+                  "It's easy work",
+                  "It looks good on applications and shows community care",
+                  "It requires no effort"
+                ],
+                "correct": 2,
+                "explanation": "Kinh nghiệm tình nguyện có giá trị vì nó tốt cho hồ sơ và thể hiện quan tâm cộng đồng."
+              }
+            ]
+          },
+          {
+            "id": "reading2",
+            "type": "reading",
+            "passage": "Technology has revolutionized the way we live and work. Smartphones, laptops, and tablets have become essential tools in modern life. These portable devices allow us to communicate instantly, access information, and complete tasks from anywhere.\n\nSince the invention of the internet, people have been able to connect with others around the world. Social media platforms have made it easier to stay in touch with friends and family. Online shopping has transformed retail, and streaming services have changed how we consume entertainment.\n\nHowever, technology also presents challenges. Many people have become too dependent on their devices and spend excessive time online. Privacy concerns and cybersecurity threats are growing issues. Despite these problems, technology continues to advance rapidly, bringing both opportunities and responsibilities.",
+            "questions": [
+              {
+                "id": "reading2-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Technology is only harmful",
+                  "Technology has transformed modern life with both benefits and challenges",
+                  "We should stop using technology",
+                  "Technology is perfect"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về cách công nghệ đã thay đổi cuộc sống với cả lợi ích và thách thức."
+              },
+              {
+                "id": "reading2-q2",
+                "question": "What have smartphones and tablets become?",
+                "options": [
+                  "Unnecessary items",
+                  "Essential tools",
+                  "Expensive luxuries",
+                  "Dangerous devices"
+                ],
+                "correct": 1,
+                "explanation": "Smartphone và tablet đã trở thành công cụ thiết yếu."
+              },
+              {
+                "id": "reading2-q3",
+                "question": "The word 'revolutionized' in paragraph 1 is closest in meaning to ______.",
+                "options": [
+                  "slightly changed",
+                  "completely transformed",
+                  "destroyed",
+                  "ignored"
+                ],
+                "correct": 1,
+                "explanation": "Revolutionized = completely transformed (cách mạng hóa, thay đổi hoàn toàn)."
+              },
+              {
+                "id": "reading2-q4",
+                "question": "What challenge does technology present?",
+                "options": [
+                  "It's too cheap",
+                  "People become too dependent on devices",
+                  "It's too simple",
+                  "Nobody uses it"
+                ],
+                "correct": 1,
+                "explanation": "Thách thức là mọi người trở nên quá phụ thuộc vào thiết bị."
+              },
+              {
+                "id": "reading2-q5",
+                "question": "According to the passage, what has the internet enabled?",
+                "options": [
+                  "Isolation from others",
+                  "Connecting with people worldwide",
+                  "Reducing communication",
+                  "Stopping progress"
+                ],
+                "correct": 1,
+                "explanation": "Internet cho phép kết nối với mọi người trên toàn thế giới."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "While I ______ for the bus, I saw a famous inventor.",
+            "options": ["wait", "was waiting", "waited", "am waiting"],
+            "correct": 1,
+            "explanation": "Hành động đang diễn ra (was waiting) thì hành động khác xen vào (saw)."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The ______ work has helped many people in the local community.",
+            "options": ["volunteer", "volunteered", "volunteers", "volunteering"],
+            "correct": 0,
+            "explanation": "Volunteer work: công việc tình nguyện."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "They ______ this technology since last year.",
+            "options": ["used", "have used", "use", "are using"],
+            "correct": 1,
+            "explanation": "Dấu hiệu 'since' -> dùng hiện tại hoàn thành."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "She ______ a lot of money to the charity yesterday.",
+            "options": ["donates", "donated", "has donated", "is donating"],
+            "correct": 1,
+            "explanation": "Dấu hiệu 'yesterday' -> dùng quá khứ đơn."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "The smartphone is a ______ device that can do many things.",
+            "options": ["heavy", "fixed", "versatile", "useless"],
+            "correct": 2,
+            "explanation": "Versatile: đa năng."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "I ______ my laptop, so I can't log in.",
+            "options": ["lost", "have lost", "lose", "was losing"],
+            "correct": 1,
+            "explanation": "Hành động vừa xảy ra để lại kết quả ở hiện tại -> hiện tại hoàn thành."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "When the teacher came into the classroom, the students ______ noise.",
+            "options": ["made", "were making", "are making", "make"],
+            "correct": 1,
+            "explanation": "Hành động đang diễn ra (were making) thì hành động khác xen vào (came)."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "E-books have ______ popular among young people.",
+            "options": ["become", "became", "becoming", "becomes"],
+            "correct": 0,
+            "explanation": "Sau 'have' dùng V3 (become - became - become)."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "The local council ______ to build a new community center.",
+            "options": ["decide", "has decided", "deciding", "was deciding"],
+            "correct": 1,
+            "explanation": "Hội đồng địa phương đã quyết định (diễn tả sự việc vừa mới xảy ra)."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "My father ______ in this factory for 20 years before he retired.",
+            "options": ["worked", "has worked", "works", "is working"],
+            "correct": 0,
+            "explanation": "Dùng quá khứ đơn vì hành động đã kết thúc hoàn toàn (before he retired)."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "We ______ to help disadvantaged children when we were students.",
+            "options": ["volunteer", "volunteered", "have volunteered", "are volunteering"],
+            "correct": 1,
+            "explanation": "Dấu hiệu 'when we were students' -> quá khứ đơn."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "______ you ever ______ a 3D printer?",
+            "options": ["Did - see", "Have - seen", "Do - see", "Are - seeing"],
+            "correct": 1,
+            "explanation": "Hỏi về trải nghiệm (Have you ever + V3?)."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "The invention of the internet ______ the world dramatically.",
+            "options": ["changes", "changed", "has changed", "is changing"],
+            "correct": 2,
+            "explanation": "Hành động trong quá khứ có ảnh hưởng đến hiện tại -> hiện tại hoàn thành."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "While they ______ the park, it started to rain.",
+            "options": ["clean", "cleaned", "were cleaning", "have cleaned"],
+            "correct": 2,
+            "explanation": "Sau 'while' dùng quá khứ tiếp diễn."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "This device is very ______, you can carry it anywhere.",
+            "options": ["heavy", "portable", "fixed", "large"],
+            "correct": 1,
+            "explanation": "Portable: có thể mang theo."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Past Continuous is used for actions happening at a specific time in the past.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Quá khứ tiếp diễn dùng cho hành động đang diễn ra tại thời điểm cụ thể trong quá khứ."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "Present Perfect is used with 'yesterday' and 'last week'.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Hiện tại hoàn thành không dùng với thời gian xác định như 'yesterday', 'last week'."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "When + Past Simple, Past Continuous shows an action interrupted by another.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. When + quá khứ đơn, quá khứ tiếp diễn chỉ hành động bị xen vào."
+          },
+          {
+            "id": "msq4",
+            "type": "msq",
+            "question_text": "Volunteering only benefits the people who receive help.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Tình nguyện có lợi cho cả người giúp và người được giúp."
+          },
+          {
+            "id": "msq5",
+            "type": "msq",
+            "question_text": "Smartphones are portable devices.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Smartphone là thiết bị di động có thể mang theo."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call people who work without payment to help others? (one word)",
+            "correct": "volunteers",
+            "explanation": "Volunteers: tình nguyện viên - người làm việc không công để giúp đỡ."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: I ______ ______ this book yet. (haven't finished)",
+            "correct": "haven't finished",
+            "explanation": "Present Perfect với 'yet' trong câu phủ định: haven't + V3."
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question_text": "What do we call a new thing that someone has made or designed? (one word)",
+            "correct": "invention",
+            "explanation": "Invention: phát minh - thứ mới được tạo ra hoặc thiết kế."
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question_text": "Complete: While I ______ TV, the phone rang. (was watching)",
+            "correct": "was watching",
+            "explanation": "While + Past Continuous: hành động đang diễn ra thì có hành động khác xen vào."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about a volunteer activity you participated in or would like to participate in. Describe what you did/would do and how it helped/would help the community.",
+            "sample_answer": "Last summer, I participated in a volunteer program to teach English to children in a remote village. Every weekend, my friends and I traveled to the village and spent three hours teaching basic English to about 20 children. While we were teaching, we realized how eager the children were to learn despite having limited resources. The experience was very meaningful because we helped improve their language skills and opened up new opportunities for their future. Through this volunteer work, I learned the importance of education and developed my teaching skills. I plan to continue volunteering because it makes a real difference in people's lives.",
+            "explanation": "Bài viết cần mô tả hoạt động tình nguyện cụ thể, những gì đã làm, và tác động đến cộng đồng."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about an invention that has changed your life. Explain what it is and how it has impacted you.",
+            "sample_answer": "The smartphone is an invention that has completely changed my life. Since I got my first smartphone three years ago, I have been able to stay connected with friends and family easily. I use it for many purposes: communicating through social media, studying with educational apps, taking photos, and listening to music. The smartphone has made my life more convenient and efficient. I can access information instantly and complete tasks on the go. However, I have learned to use it responsibly and not become too dependent on it. Overall, the smartphone is an amazing invention that has revolutionized how we live and communicate.",
+            "explanation": "Bài viết cần nêu rõ phát minh, cách nó thay đổi cuộc sống, và ví dụ cụ thể."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) describing what you were doing at different times yesterday. Use Past Simple and Past Continuous.",
+            "sample_answer": "Yesterday was a busy day for me. At 7 AM, I was having breakfast with my family when my friend called to discuss our homework. At 9 AM, I was studying Math while my sister was watching TV in the living room. When lunchtime came, my mother was cooking in the kitchen, so I helped her set the table. In the afternoon, I was doing my English homework when it started to rain heavily. At 6 PM, I was playing badminton with my neighbors. When I came home at 7 PM, my family was waiting for me to have dinner together. It was a productive and enjoyable day.",
+            "explanation": "Bài viết cần sử dụng cả Past Simple và Past Continuous để mô tả các hoạt động trong quá khứ."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about the benefits of doing volunteer work for young people.",
+            "sample_answer": "Volunteer work offers numerous benefits for young people. First, it helps them develop important life skills such as communication, teamwork, and problem-solving. When young people volunteer, they learn to work with diverse groups and handle challenging situations. Second, volunteering teaches compassion and social responsibility. It helps them understand the difficulties others face and appreciate what they have. Third, volunteer experience looks impressive on college applications and resumes, showing that they care about their community. Finally, volunteering provides a sense of fulfillment and purpose. Many young volunteers have said that helping others makes them feel happier and more confident. For these reasons, I believe all young people should try volunteering.",
+            "explanation": "Bài viết cần liệt kê và giải thích các lợi ích của công việc tình nguyện cho người trẻ."
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about how technology has changed education. Give specific examples.",
+            "sample_answer": "Technology has transformed education in remarkable ways. Students now have access to online courses and educational videos that make learning more flexible and convenient. Digital devices like tablets and laptops have replaced heavy textbooks, making it easier to carry study materials. Interactive learning apps and educational games make studying more engaging and fun. Teachers can use presentation software and online platforms to deliver lessons more effectively. During the pandemic, online learning platforms enabled students to continue their education from home. However, technology also presents challenges such as distractions from social media and the digital divide between students with and without access to devices. Despite these issues, technology has made education more accessible and interactive than ever before.",
+            "explanation": "Bài viết cần mô tả cách công nghệ thay đổi giáo dục với ví dụ cụ thể và cân bằng."
+          }
+        ]
+      }
+    }
+  ]
+}

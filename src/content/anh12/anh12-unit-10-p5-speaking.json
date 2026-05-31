@@ -1,0 +1,200 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-10-p5",
+  "name": "Part 5: Speaking",
+  "slug": "p5-speaking",
+  "description": "Thảo luận về kinh nghiệm và kế hoạch học tập",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Speaking: Discussing Learning Experiences and Plans",
+      "sections": [
+        {
+          "heading": "1. Useful Expressions",
+          "content": "<div class='bg-gradient-to-r from-blue-50 to-cyan-50 dark:from-blue-900/20 dark:to-cyan-900/20 p-6 rounded-xl'><h4 class='font-bold text-lg mb-3'>Reporting what others said:</h4><ul class='list-disc pl-5 space-y-2'><li>My teacher told me to...</li><li>She advised me to...</li><li>He asked me to...</li><li>They recommended that I should...</li><li>My mentor offered to...</li><li>The instructor suggested...</li></ul><h4 class='font-bold text-lg mb-3 mt-4'>Talking about learning:</h4><ul class='list-disc pl-5 space-y-2'><li>I'm currently taking...</li><li>I've enrolled in...</li><li>I'm planning to...</li><li>I'd like to learn...</li><li>I'm interested in...</li></ul></div>"
+        },
+        {
+          "heading": "2. Sample Dialogues",
+          "content": "<div class='space-y-4'><div class='bg-blue-50 dark:bg-blue-900/20 p-4 rounded-lg'><p class='font-bold mb-2'>Dialogue 1: Discussing Online Courses</p><p><strong>A:</strong> Are you taking any online courses?</p><p><strong>B:</strong> Yes, my manager told me to complete a digital marketing course. She advised me to dedicate at least two hours daily to studying.</p><p><strong>A:</strong> That sounds interesting. What platform are you using?</p><p><strong>B:</strong> I'm using Coursera. The instructor recommended that we should practice with real projects.</p></div><div class='bg-green-50 dark:bg-green-900/20 p-4 rounded-lg'><p class='font-bold mb-2'>Dialogue 2: Learning Plans</p><p><strong>A:</strong> What are your learning goals for this year?</p><p><strong>B:</strong> My career counselor advised me to learn Python programming. She also suggested joining coding bootcamps.</p><p><strong>A:</strong> Did she offer any help?</p><p><strong>B:</strong> Yes, she offered to review my progress monthly and volunteered to connect me with industry professionals.</p></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "speaking-ex1",
+        "type": "mcq",
+        "question": "How do you report a command?",
+        "options": ["She said me to study", "She told me to study", "She told to me study", "She said to study"],
+        "correct": 1,
+        "explanation": "Told + O + to V."
+      },
+      {
+        "id": "speaking-ex2",
+        "type": "mcq",
+        "question": "How do you report advice?",
+        "options": ["She advised me to take the course", "She advised to take", "She advised taking", "She advised me take"],
+        "correct": 0,
+        "explanation": "Advised + O + to V."
+      },
+      {
+        "id": "speaking-ex3",
+        "type": "mcq",
+        "question": "How do you report an offer?",
+        "options": ["She offered helping", "She offered to help", "She offered help", "She offered helped"],
+        "correct": 1,
+        "explanation": "Offered + to V."
+      },
+      {
+        "id": "speaking-ex4",
+        "type": "mcq",
+        "question": "How do you report a request?",
+        "options": ["She asked me to help", "She asked to help", "She asked helping", "She asked help"],
+        "correct": 0,
+        "explanation": "Asked + O + to V."
+      },
+      {
+        "id": "speaking-ex5",
+        "type": "mcq",
+        "question": "How do you report a suggestion?",
+        "options": ["She suggested to study", "She suggested study", "She suggested studying", "She suggested studied"],
+        "correct": 2,
+        "explanation": "Suggested + V-ing."
+      },
+      {
+        "id": "speaking-ex6",
+        "type": "mcq",
+        "question": "In Dialogue 1, what did the manager tell B to do?",
+        "options": ["Quit job", "Complete a digital marketing course", "Stop learning", "Avoid courses"],
+        "correct": 1,
+        "explanation": "Quản lý bảo hoàn thành khóa học digital marketing."
+      },
+      {
+        "id": "speaking-ex7",
+        "type": "mcq",
+        "question": "What platform is B using?",
+        "options": ["Facebook", "Coursera", "Instagram", "Twitter"],
+        "correct": 1,
+        "explanation": "B đang sử dụng Coursera."
+      },
+      {
+        "id": "speaking-ex8",
+        "type": "mcq",
+        "question": "In Dialogue 2, what did the counselor advise?",
+        "options": ["Stop learning", "Learn Python programming", "Avoid coding", "Give up"],
+        "correct": 1,
+        "explanation": "Cố vấn khuyên học lập trình Python."
+      },
+      {
+        "id": "speaking-ex9",
+        "type": "mcq",
+        "question": "What did the counselor offer to do?",
+        "options": ["Nothing", "Review progress monthly", "Pay for courses", "Do the work"],
+        "correct": 1,
+        "explanation": "Cố vấn đề nghị xem xét tiến độ hàng tháng."
+      },
+      {
+        "id": "speaking-ex10",
+        "type": "mcq",
+        "question": "Which expression is used to talk about current learning?",
+        "options": ["I was taking", "I'm currently taking", "I will take", "I took"],
+        "correct": 1,
+        "explanation": "'I'm currently taking' - hiện đang tham gia."
+      },
+      {
+        "id": "speaking-ex11",
+        "type": "msq",
+        "question_text": "Mark True or False about reported speech:",
+        "options": [
+          "'Told' is used for commands.",
+          "'Asked' is used for requests.",
+          "'Offered' is used for refusals.",
+          "'Advised' is used for advice."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True. b) True. c) False - Offered là đề nghị. d) True."
+      },
+      {
+        "id": "speaking-ex12",
+        "type": "msq",
+        "question_text": "Decide True or False:",
+        "options": [
+          "We use 'to V' after 'told'.",
+          "We use 'V-ing' after 'suggested'.",
+          "We use 'to V' after 'offered'.",
+          "We use 'V' after 'advised'."
+        ],
+        "correct": [0, 1, 2],
+        "explanation": "a) True. b) True. c) True. d) False - advised + O + to V."
+      },
+      {
+        "id": "speaking-ex13",
+        "type": "msq",
+        "question_text": "Based on dialogues, mark True or False:",
+        "options": [
+          "B is taking an online course.",
+          "The manager advised against learning.",
+          "The counselor offered to help.",
+          "B is using Instagram for learning."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True. b) False - Khuyến khích học. c) True. d) False - Dùng Coursera."
+      },
+      {
+        "id": "speaking-ex14",
+        "type": "sa",
+        "question_text": "Complete: She _____ me to study. (told/said)",
+        "correct": "told",
+        "explanation": "Told + O + to V."
+      },
+      {
+        "id": "speaking-ex15",
+        "type": "sa",
+        "question_text": "Complete: She _____ to help me. (offered/asked)",
+        "correct": "offered",
+        "explanation": "Offered + to V."
+      },
+      {
+        "id": "speaking-ex16",
+        "type": "sa",
+        "question_text": "Complete: She _____ studying together. (suggested/advised)",
+        "correct": "suggested",
+        "explanation": "Suggested + V-ing."
+      },
+      {
+        "id": "speaking-ex17",
+        "type": "mcq",
+        "question": "How do you express interest in learning?",
+        "options": ["I hate learning", "I'm interested in learning", "I avoid learning", "I never learn"],
+        "correct": 1,
+        "explanation": "'I'm interested in' - tôi quan tâm đến."
+      },
+      {
+        "id": "speaking-ex18",
+        "type": "mcq",
+        "question": "How do you talk about future learning plans?",
+        "options": ["I was planning", "I'm planning to", "I planned", "I plan"],
+        "correct": 1,
+        "explanation": "'I'm planning to' - tôi đang lên kế hoạch."
+      },
+      {
+        "id": "speaking-ex19",
+        "type": "mcq",
+        "question": "What did the instructor recommend in Dialogue 1?",
+        "options": ["Stop practicing", "Practice with real projects", "Avoid projects", "Give up"],
+        "correct": 1,
+        "explanation": "Giảng viên đề nghị luyện tập với dự án thực tế."
+      },
+      {
+        "id": "speaking-ex20",
+        "type": "mcq",
+        "question": "What did the counselor volunteer to do?",
+        "options": ["Nothing", "Connect B with professionals", "Pay for courses", "Do the work"],
+        "correct": 1,
+        "explanation": "Cố vấn tự nguyện kết nối B với các chuyên gia."
+      }
+    ]
+  }
+}

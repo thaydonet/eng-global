@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-unit-1-leisure-time",
+      "name": "Unit 1: Leisure Time",
+      "slug": "unit-1-leisure-time",
+      "chapter": "Unit 1: Leisure Time",
+      "chapter_id": "A8",
+      "lesson_id": 1,
+      "description": "Learn about leisure activities with verbs of liking/disliking + V-ing/to V.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2671&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-1",
+          "name": "Leisure Time Vocabulary",
+          "slug": "leisure-time-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 1: Leisure Time",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Leisure</td><td class='px-4 py-2'>(n) /ˈleʒə(r)/</td><td class='px-4 py-2'>Thời gian rảnh</td><td class='px-4 py-2'>I read in my leisure time.</td></tr><tr><td class='px-4 py-2 font-bold'>Activity</td><td class='px-4 py-2'>(n) /ækˈtɪvəti/</td><td class='px-4 py-2'>Hoạt động</td><td class='px-4 py-2'>Swimming is my favorite activity.</td></tr><tr><td class='px-4 py-2 font-bold'>Relax</td><td class='px-4 py-2'>(v) /rɪˈlæks/</td><td class='px-4 py-2'>Thư giãn</td><td class='px-4 py-2'>I relax by listening to music.</td></tr><tr><td class='px-4 py-2 font-bold'>Hang out</td><td class='px-4 py-2'>(phr.v) /hæŋ aʊt/</td><td class='px-4 py-2'>Đi chơi</td><td class='px-4 py-2'>I hang out with friends.</td></tr><tr><td class='px-4 py-2 font-bold'>Surf</td><td class='px-4 py-2'>(v) /sɜːf/</td><td class='px-4 py-2'>Lướt (web)</td><td class='px-4 py-2'>I surf the Internet.</td></tr><tr><td class='px-4 py-2 font-bold'>Browse</td><td class='px-4 py-2'>(v) /braʊz/</td><td class='px-4 py-2'>Duyệt web</td><td class='px-4 py-2'>I browse social media.</td></tr><tr><td class='px-4 py-2 font-bold'>DIY</td><td class='px-4 py-2'>(n) /ˌdiː aɪ ˈwaɪ/</td><td class='px-4 py-2'>Tự làm (Do It Yourself)</td><td class='px-4 py-2'>I enjoy DIY projects.</td></tr><tr><td class='px-4 py-2 font-bold'>Craft</td><td class='px-4 py-2'>(n) /krɑːft/</td><td class='px-4 py-2'>Thủ công</td><td class='px-4 py-2'>She does crafts.</td></tr><tr><td class='px-4 py-2 font-bold'>Origami</td><td class='px-4 py-2'>(n) /ˌɒrɪˈɡɑːmi/</td><td class='px-4 py-2'>Nghệ thuật gấp giấy</td><td class='px-4 py-2'>I like making origami.</td></tr><tr><td class='px-4 py-2 font-bold'>Adore</td><td class='px-4 py-2'>(v) /əˈdɔː(r)/</td><td class='px-4 py-2'>Yêu thích, mê</td><td class='px-4 py-2'>I adore reading books.</td></tr><tr><td class='px-4 py-2 font-bold'>Fancy</td><td class='px-4 py-2'>(v) /ˈfænsi/</td><td class='px-4 py-2'>Thích</td><td class='px-4 py-2'>Do you fancy going out?</td></tr><tr><td class='px-4 py-2 font-bold'>Detest</td><td class='px-4 py-2'>(v) /dɪˈtest/</td><td class='px-4 py-2'>Ghét</td><td class='px-4 py-2'>I detest doing housework.</td></tr><tr><td class='px-4 py-2 font-bold'>Keen on</td><td class='px-4 py-2'>(adj) /kiːn ɒn/</td><td class='px-4 py-2'>Thích, say mê</td><td class='px-4 py-2'>I'm keen on sports.</td></tr><tr><td class='px-4 py-2 font-bold'>Addicted to</td><td class='px-4 py-2'>(adj) /əˈdɪktɪd tuː/</td><td class='px-4 py-2'>Nghiện</td><td class='px-4 py-2'>He's addicted to games.</td></tr><tr><td class='px-4 py-2 font-bold'>Satisfied</td><td class='px-4 py-2'>(adj) /ˈsætɪsfaɪd/</td><td class='px-4 py-2'>Hài lòng</td><td class='px-4 py-2'>I'm satisfied with my hobby.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Leisure activities (Hoạt động giải trí):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Indoor activities:</strong> reading, watching TV, playing video games, doing DIY, making crafts, cooking, listening to music</li><li><strong>Outdoor activities:</strong> playing sports, cycling, swimming, hanging out with friends, going to the cinema</li><li><strong>Online activities:</strong> surfing the Internet, browsing social media, messaging friends, watching videos online</li></ul><p><strong>Verbs of liking (Động từ chỉ sự yêu thích):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Strong liking:</strong> love, adore, be crazy about, be fond of</li><li><strong>Medium liking:</strong> like, enjoy, prefer, fancy, be keen on, be interested in</li><li><strong>Disliking:</strong> dislike, hate, detest, can't stand, don't mind</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>in one's free/spare time:</strong> trong thời gian rảnh</li><li><strong>hang out with friends:</strong> đi chơi với bạn</li><li><strong>surf the net/Internet:</strong> lướt web</li><li><strong>do DIY:</strong> làm đồ thủ công</li><li><strong>be addicted to:</strong> nghiện</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /ʊ/ and /u:/</h3><p><strong>1. Sound /ʊ/ (short sound):</strong></p><ul class='list-disc pl-5 space-y-2'><li>book /bʊk/</li><li>good /ɡʊd/</li><li>look /lʊk/</li><li>put /pʊt/</li></ul><p><strong>2. Sound /u:/ (long sound):</strong></p><ul class='list-disc pl-5 space-y-2'><li>food /fuːd/</li><li>cool /kuːl/</li><li>school /skuːl/</li><li>choose /tʃuːz/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>Verbs of liking/disliking + V-ing/to V</h3><p><strong>A. Verbs + V-ing:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>enjoy, fancy, dislike, don't mind, detest, hate, love, like, prefer</strong></li><li>Ex: I <strong>enjoy reading</strong> books.</li><li>Ex: She <strong>dislikes doing</strong> housework.</li></ul><p><strong>B. Verbs + to V:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>want, would like, decide, plan, hope, expect, refuse</strong></li><li>Ex: I <strong>want to go</strong> out.</li><li>Ex: She <strong>decided to study</strong> harder.</li></ul><p><strong>C. Verbs + V-ing OR to V (same meaning):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>like, love, hate, prefer, start, begin, continue</strong></li><li>Ex: I <strong>like reading</strong> = I <strong>like to read</strong></li><li>Ex: She <strong>loves dancing</strong> = She <strong>loves to dance</strong></li></ul><p><strong>D. Verbs + V-ing OR to V (different meanings):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>remember + V-ing:</strong> nhớ đã làm gì (quá khứ)</li><li>Ex: I <strong>remember meeting</strong> him. (Tôi nhớ đã gặp anh ấy)</li><li><strong>remember + to V:</strong> nhớ phải làm gì (tương lai)</li><li>Ex: <strong>Remember to lock</strong> the door. (Nhớ khóa cửa nhé)</li><li><strong>forget + V-ing:</strong> quên đã làm gì</li><li>Ex: I'll never <strong>forget visiting</strong> Paris.</li><li><strong>forget + to V:</strong> quên phải làm gì</li><li>Ex: Don't <strong>forget to call</strong> me.</li></ul><p><strong>E. Adjectives + preposition + V-ing:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>be interested in, be fond of, be keen on, be crazy about, be good at, be bad at</strong></li><li>Ex: I'm <strong>interested in learning</strong> English.</li><li>Ex: She's <strong>good at playing</strong> the piano.</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Leisure time - Thời gian rảnh</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về hoạt động giải trí</li><li>Giới thiệu các hoạt động yêu thích</li><li>Nói về sở thích</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Leisure activities</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về hoạt động giải trí</li><li>Phân loại hoạt động trong nhà/ngoài trời</li></ul><p><strong>B. Pronunciation: Sounds /ʊ/ and /u:/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm ngắn và dài</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Verbs of liking/disliking + V-ing/to V</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học động từ theo sau bởi V-ing</li><li>Học động từ theo sau bởi to V</li><li>Phân biệt nghĩa khác nhau</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about leisure activities</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What do you do in your free time?</li><li>I enjoy/like/love...</li><li>I'm interested in...</li><li>How about you?</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Leisure activities of teenagers</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về hoạt động giải trí</li><li>Tìm thông tin chi tiết</li></ul><p><strong>Speaking: Discussing hobbies</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về sở thích</li><li>So sánh hoạt động giải trí</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: About leisure time</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về hoạt động giải trí</li><li>Ghi chú thông tin</li></ul><p><strong>Writing: About your leisure activities</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết về hoạt động yêu thích</li><li>Sử dụng verbs of liking</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Leisure activities</li><li><strong>Pronunciation:</strong> /ʊ/ and /u:/</li><li><strong>Grammar:</strong> Verbs + V-ing/to V</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> Leisure activities survey</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khảo sát hoạt động giải trí của bạn bè</li><li>Tạo biểu đồ thống kê</li><li>Viết báo cáo (100-120 từ)</li><li>Trình bày kết quả</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Verbs + V-ing",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>enjoy, fancy, dislike, don't mind, detest + V-ing</li><li>be interested in, be fond of, be keen on + V-ing</li></ul>",
+            "examples": [
+              {
+                "question": "I enjoy ______ (read) books.",
+                "solution": "I enjoy <strong>reading</strong> books.",
+                "explanation": "enjoy + V-ing"
+              },
+              {
+                "question": "She's interested in ______ (learn) English.",
+                "solution": "She's interested in <strong>learning</strong> English.",
+                "explanation": "be interested in + V-ing"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Verbs + to V",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>want, would like, decide, plan, hope + to V</li></ul>",
+            "examples": [
+              {
+                "question": "I want ______ (go) out.",
+                "solution": "I want <strong>to go</strong> out.",
+                "explanation": "want + to V"
+              },
+              {
+                "question": "She decided ______ (study) harder.",
+                "solution": "She decided <strong>to study</strong> harder.",
+                "explanation": "decide + to V"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Remember/Forget + V-ing/to V",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>remember/forget + V-ing: nhớ/quên đã làm (quá khứ)</li><li>remember/forget + to V: nhớ/quên phải làm (tương lai)</li></ul>",
+            "examples": [
+              {
+                "question": "I remember ______ (meet) him last year.",
+                "solution": "I remember <strong>meeting</strong> him last year.",
+                "explanation": "remember + V-ing (nhớ đã gặp)"
+              },
+              {
+                "question": "Remember ______ (lock) the door.",
+                "solution": "Remember <strong>to lock</strong> the door.",
+                "explanation": "remember + to V (nhớ phải khóa)"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Like/Love/Hate + V-ing/to V",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>like, love, hate, prefer + V-ing hoặc to V (cùng nghĩa)</li></ul>",
+            "examples": [
+              {
+                "question": "I like ______ (read) / ______ (read).",
+                "solution": "I like <strong>reading</strong> / <strong>to read</strong>.",
+                "explanation": "like + V-ing = like + to V"
+              },
+              {
+                "question": "She loves ______ (dance) / ______ (dance).",
+                "solution": "She loves <strong>dancing</strong> / <strong>to dance</strong>.",
+                "explanation": "love + V-ing = love + to V"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I enjoy ______ books.",
+            "options": ["read", "reading", "to read", "reads"],
+            "correct": 1,
+            "explanation": "enjoy + V-ing"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "She wants ______ out.",
+            "options": ["go", "going", "to go", "goes"],
+            "correct": 2,
+            "explanation": "want + to V"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I'm interested in ______ English.",
+            "options": ["learn", "learning", "to learn", "learns"],
+            "correct": 1,
+            "explanation": "be interested in + V-ing"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "Remember ______ the door.",
+            "options": ["lock", "locking", "to lock", "locks"],
+            "correct": 2,
+            "explanation": "remember + to V (nhớ phải làm)"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "I remember ______ him last year.",
+            "options": ["meet", "meeting", "to meet", "meets"],
+            "correct": 1,
+            "explanation": "remember + V-ing (nhớ đã làm)"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "She decided ______ harder.",
+            "options": ["study", "studying", "to study", "studies"],
+            "correct": 2,
+            "explanation": "decide + to V"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "I dislike ______ housework.",
+            "options": ["do", "doing", "to do", "does"],
+            "correct": 1,
+            "explanation": "dislike + V-ing"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "He's keen on ______ sports.",
+            "options": ["play", "playing", "to play", "plays"],
+            "correct": 1,
+            "explanation": "be keen on + V-ing"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I like ______ music.",
+            "options": ["listen", "listening to", "to listen", "listens"],
+            "correct": 1,
+            "explanation": "like + V-ing (hoặc to V)"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Don't forget ______ me.",
+            "options": ["call", "calling", "to call", "calls"],
+            "correct": 2,
+            "explanation": "forget + to V (quên phải làm)"
+          }
+        ]
+      }
+    }
+  ]
+}

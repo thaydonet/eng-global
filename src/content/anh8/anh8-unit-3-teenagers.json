@@ -1,0 +1,214 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-unit-3-teenagers",
+      "name": "Unit 3: Teenagers",
+      "slug": "unit-3-teenagers",
+      "chapter": "Unit 3: Teenagers",
+      "chapter_id": "A8",
+      "lesson_id": 3,
+      "description": "Learn about teenagers' lives with simple and compound sentences.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?q=80&w=2669&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-3",
+          "name": "Teenagers Vocabulary",
+          "slug": "teenagers-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 3: Teenagers",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Teenager</td><td class='px-4 py-2'>(n) /ˈtiːneɪdʒə(r)/</td><td class='px-4 py-2'>Thiếu niên</td><td class='px-4 py-2'>Teenagers love music.</td></tr><tr><td class='px-4 py-2 font-bold'>Pressure</td><td class='px-4 py-2'>(n) /ˈpreʃə(r)/</td><td class='px-4 py-2'>Áp lực</td><td class='px-4 py-2'>School pressure is high.</td></tr><tr><td class='px-4 py-2 font-bold'>Stress</td><td class='px-4 py-2'>(n) /stres/</td><td class='px-4 py-2'>Căng thẳng</td><td class='px-4 py-2'>I feel stress.</td></tr><tr><td class='px-4 py-2 font-bold'>Stressed</td><td class='px-4 py-2'>(adj) /strest/</td><td class='px-4 py-2'>Bị căng thẳng</td><td class='px-4 py-2'>She feels stressed.</td></tr><tr><td class='px-4 py-2 font-bold'>Bully</td><td class='px-4 py-2'>(v,n) /ˈbʊli/</td><td class='px-4 py-2'>Bắt nạt</td><td class='px-4 py-2'>Don't bully others.</td></tr><tr><td class='px-4 py-2 font-bold'>Peer pressure</td><td class='px-4 py-2'>(n) /pɪə(r) ˈpreʃə(r)/</td><td class='px-4 py-2'>Áp lực bạn bè</td><td class='px-4 py-2'>Peer pressure is common.</td></tr><tr><td class='px-4 py-2 font-bold'>Distract</td><td class='px-4 py-2'>(v) /dɪˈstrækt/</td><td class='px-4 py-2'>Làm sao nhãng</td><td class='px-4 py-2'>Don't distract me.</td></tr><tr><td class='px-4 py-2 font-bold'>Concentrate</td><td class='px-4 py-2'>(v) /ˈkɒnsntreɪt/</td><td class='px-4 py-2'>Tập trung</td><td class='px-4 py-2'>I can't concentrate.</td></tr><tr><td class='px-4 py-2 font-bold'>Counsellor</td><td class='px-4 py-2'>(n) /ˈkaʊnsələ(r)/</td><td class='px-4 py-2'>Cố vấn</td><td class='px-4 py-2'>Talk to a counsellor.</td></tr><tr><td class='px-4 py-2 font-bold'>Optimistic</td><td class='px-4 py-2'>(adj) /ˌɒptɪˈmɪstɪk/</td><td class='px-4 py-2'>Lạc quan</td><td class='px-4 py-2'>Be optimistic!</td></tr><tr><td class='px-4 py-2 font-bold'>Pessimistic</td><td class='px-4 py-2'>(adj) /ˌpesɪˈmɪstɪk/</td><td class='px-4 py-2'>Bi quan</td><td class='px-4 py-2'>Don't be pessimistic.</td></tr><tr><td class='px-4 py-2 font-bold'>Upload</td><td class='px-4 py-2'>(v) /ˌʌpˈləʊd/</td><td class='px-4 py-2'>Tải lên</td><td class='px-4 py-2'>Upload photos online.</td></tr><tr><td class='px-4 py-2 font-bold'>Connect</td><td class='px-4 py-2'>(v) /kəˈnekt/</td><td class='px-4 py-2'>Kết nối</td><td class='px-4 py-2'>Connect with friends.</td></tr><tr><td class='px-4 py-2 font-bold'>Forum</td><td class='px-4 py-2'>(n) /ˈfɔːrəm/</td><td class='px-4 py-2'>Diễn đàn</td><td class='px-4 py-2'>Join an online forum.</td></tr><tr><td class='px-4 py-2 font-bold'>Notification</td><td class='px-4 py-2'>(n) /ˌnəʊtɪfɪˈkeɪʃn/</td><td class='px-4 py-2'>Thông báo</td><td class='px-4 py-2'>I got a notification.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Teenagers' problems:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>school pressure:</strong> áp lực học tập</li><li><strong>peer pressure:</strong> áp lực bạn bè</li><li><strong>bullying:</strong> bắt nạt</li><li><strong>stress:</strong> căng thẳng</li><li><strong>lack of sleep:</strong> thiếu ngủ</li></ul><p><strong>Online activities:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>upload photos/videos:</strong> tải ảnh/video lên</li><li><strong>connect with friends:</strong> kết nối với bạn</li><li><strong>join forums:</strong> tham gia diễn đàn</li><li><strong>check notifications:</strong> kiểm tra thông báo</li></ul><p><strong>Solutions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>talk to counsellor:</strong> nói chuyện với cố vấn</li><li><strong>be optimistic:</strong> lạc quan</li><li><strong>concentrate on study:</strong> tập trung học</li><li><strong>manage time:</strong> quản lý thời gian</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /ʊə/ and /ɔɪ/</h3><p><strong>1. Sound /ʊə/:</strong></p><ul class='list-disc pl-5 space-y-2'><li>sure /ʃʊə(r)/</li><li>tour /tʊə(r)/</li><li>poor /pʊə(r)/</li></ul><p><strong>2. Sound /ɔɪ/:</strong></p><ul class='list-disc pl-5 space-y-2'><li>boy /bɔɪ/</li><li>enjoy /ɪnˈdʒɔɪ/</li><li>voice /vɔɪs/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>Simple Sentences and Compound Sentences</h3><p><strong>A. Simple Sentence (Câu đơn):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Có 1 mệnh đề độc lập (1 chủ ngữ + 1 động từ)</li><li>Ex: I <strong>like</strong> music.</li><li>Ex: Teenagers <strong>use</strong> social media.</li></ul><p><strong>B. Compound Sentence (Câu ghép):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Có 2+ mệnh đề độc lập nối bởi liên từ</li><li><strong>Coordinating conjunctions (FANBOYS):</strong></li><li><strong>for:</strong> vì (lý do)</li><li>Ex: I stayed home, <strong>for</strong> I was tired.</li><li><strong>and:</strong> và (thêm thông tin)</li><li>Ex: I like music, <strong>and</strong> she likes art.</li><li><strong>nor:</strong> cũng không</li><li>Ex: I don't like it, <strong>nor</strong> does she.</li><li><strong>but:</strong> nhưng (đối lập)</li><li>Ex: I'm tired, <strong>but</strong> I must study.</li><li><strong>or:</strong> hoặc (lựa chọn)</li><li>Ex: Study hard, <strong>or</strong> you'll fail.</li><li><strong>yet:</strong> nhưng (đối lập)</li><li>Ex: She's young, <strong>yet</strong> she's wise.</li><li><strong>so:</strong> vì vậy (kết quả)</li><li>Ex: I was tired, <strong>so</strong> I slept.</li></ul><p><strong>C. Punctuation (Dấu câu):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Clause 1<strong>,</strong> conjunction + clause 2</li><li>Ex: I like tea<strong>,</strong> but she likes coffee.</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Teenagers - Thiếu niên</p><p><strong>Nội dung:</strong> Hội thoại về cuộc sống thiếu niên, áp lực học tập, hoạt động online</p>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary:</strong> Teenagers' problems and solutions</p><p><strong>B. Pronunciation:</strong> Sounds /ʊə/ and /ɔɪ/</p>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar:</strong> Simple and compound sentences with coordinating conjunctions</p>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I feel stressed because...</li><li>I think teenagers should...</li><li>The problem is..., so...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading:</strong> Teenagers' lives</p><p><strong>Speaking:</strong> Discussing problems and solutions</p>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening:</strong> About teenagers' stress</p><p><strong>Writing:</strong> About a teenager's problem using compound sentences</p>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong> Vocabulary, Pronunciation, Grammar</p>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> Survey about teenagers' problems</p><p><strong>Nhiệm vụ:</strong> Khảo sát, tạo biểu đồ, viết báo cáo (100-120 từ)</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Simple Sentence",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>1 chủ ngữ + 1 động từ</li><li>Câu hoàn chỉnh, độc lập</li></ul>",
+            "examples": [
+              {
+                "question": "Identify: I like music.",
+                "solution": "<strong>Simple sentence</strong> (1 mệnh đề)",
+                "explanation": "Có 1 chủ ngữ (I) và 1 động từ (like)"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Compound Sentence with 'and'",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Clause 1, and + clause 2</li><li>Dùng 'and' để thêm thông tin</li></ul>",
+            "examples": [
+              {
+                "question": "Combine: I like music. She likes art.",
+                "solution": "I like music<strong>, and</strong> she likes art.",
+                "explanation": "Dùng 'and' để nối 2 mệnh đề"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Compound Sentence with 'but'",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Clause 1, but + clause 2</li><li>Dùng 'but' cho ý đối lập</li></ul>",
+            "examples": [
+              {
+                "question": "Combine: I'm tired. I must study.",
+                "solution": "I'm tired<strong>, but</strong> I must study.",
+                "explanation": "Dùng 'but' cho ý đối lập"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Compound Sentence with 'so'",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Clause 1, so + clause 2</li><li>Dùng 'so' cho kết quả</li></ul>",
+            "examples": [
+              {
+                "question": "Combine: I was tired. I slept.",
+                "solution": "I was tired<strong>, so</strong> I slept.",
+                "explanation": "Dùng 'so' cho kết quả"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I like music, ______ she likes art.",
+            "options": ["for", "and", "but", "so"],
+            "correct": 1,
+            "explanation": "Thêm thông tin → and"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "I'm tired, ______ I must study.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 1,
+            "explanation": "Đối lập → but"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I was tired, ______ I slept.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 3,
+            "explanation": "Kết quả → so"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "Study hard, ______ you'll fail.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 2,
+            "explanation": "Lựa chọn/cảnh báo → or"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "I stayed home, ______ I was sick.",
+            "options": ["for", "and", "but", "so"],
+            "correct": 0,
+            "explanation": "Lý do → for"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "She's young, ______ she's wise.",
+            "options": ["and", "yet", "or", "so"],
+            "correct": 1,
+            "explanation": "Đối lập → yet"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "I called him, ______ he didn't answer.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 1,
+            "explanation": "Đối lập → but"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "It rained, ______ we stayed inside.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 3,
+            "explanation": "Kết quả → so"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I like tea, ______ I don't like coffee.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 1,
+            "explanation": "Đối lập → but"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "He studied hard, ______ he passed.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 0,
+            "explanation": "Thêm thông tin → and (hoặc so)"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-unit-3-healthy-living-for-teens",
+      "name": "Unit 3: Healthy Living for Teens",
+      "slug": "unit-3-healthy-living-for-teens",
+      "chapter": "Unit 3: Healthy Living for Teens",
+      "chapter_id": "A9",
+      "lesson_id": 3,
+      "description": "Learn about healthy living with modal verbs in conditional sentences type 1.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-3",
+          "name": "Healthy Living Vocabulary",
+          "slug": "healthy-living-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 3: Healthy Living for Teens",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Health:</strong> healthy, fit, strong, energetic, active, exercise, workout, gym, yoga, meditation, sleep, rest, relax</p><p><strong>Food:</strong> balanced diet, nutrition, vitamin, protein, carbohydrate, fat, vegetable, fruit, junk food, fast food, soft drink</p><p><strong>Problems:</strong> stress, pressure, anxiety, depression, tired, exhausted, overweight, obesity, disease, illness</p><p><strong>Activities:</strong> play sports, go jogging, do exercise, eat healthy, drink water, get enough sleep, avoid stress, stay positive</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng",
+              "content": "<p>Practice using vocabulary in context about healthy lifestyle, nutrition, exercise, and mental health.</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>Modal Verbs in Conditional Sentences Type 1 (Động từ khuyết thiếu trong câu điều kiện loại 1)</h3><p><strong>A. Câu điều kiện loại 1 cơ bản:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> If + S + V (present simple), S + will + V (infinitive)</li><li>Ex: If you <strong>eat</strong> healthy food, you <strong>will be</strong> strong.</li></ul><p><strong>B. Với động từ khuyết thiếu (Modal verbs):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> If + S + V (present simple), S + modal verb + V (infinitive)</li><li><strong>Modal verbs:</strong> can, may, might, should, must, have to, ought to</li></ul><p><strong>1. Can (có thể):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: If you exercise regularly, you <strong>can</strong> stay fit.</li><li>Diễn tả khả năng</li></ul><p><strong>2. May/Might (có thể, có lẽ):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: If you don't sleep enough, you <strong>may/might</strong> feel tired.</li><li>Diễn tả khả năng xảy ra (không chắc chắn)</li></ul><p><strong>3. Should (nên):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: If you feel stressed, you <strong>should</strong> relax.</li><li>Diễn tả lời khuyên</li></ul><p><strong>4. Must/Have to (phải):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: If you are sick, you <strong>must/have to</strong> see a doctor.</li><li>Diễn tả sự cần thiết, bắt buộc</li></ul><p><strong>C. Đảo ngữ (Unless = If not):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Unless + S + V, S + modal + V</li><li>Ex: <strong>Unless</strong> you exercise, you <strong>can't</strong> stay fit.</li><li>= If you <strong>don't</strong> exercise, you can't stay fit.</li></ul>"
+            },
+            {
+              "heading": "4-11. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Conditional Type 1 với Can",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>If + S + V (present), S + can + V (infinitive)</li><li>Diễn tả khả năng</li></ul>",
+            "examples": [
+              {
+                "question": "If you exercise regularly, you ______ (can / stay) fit.",
+                "solution": "If you exercise regularly, you <strong>can stay</strong> fit.",
+                "explanation": "can + V (infinitive) = có thể"
+              },
+              {
+                "question": "If you eat healthy food, you ______ (can / be) strong.",
+                "solution": "If you eat healthy food, you <strong>can be</strong> strong.",
+                "explanation": "can + be = có thể khỏe mạnh"
+              },
+              {
+                "question": "If you drink enough water, you ______ (can / avoid) dehydration.",
+                "solution": "If you drink enough water, you <strong>can avoid</strong> dehydration.",
+                "explanation": "can + avoid = có thể tránh"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Conditional Type 1 với May/Might",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>If + S + V (present), S + may/might + V</li><li>Diễn tả khả năng không chắc chắn</li></ul>",
+            "examples": [
+              {
+                "question": "If you don't sleep enough, you ______ (may / feel) tired.",
+                "solution": "If you don't sleep enough, you <strong>may feel</strong> tired.",
+                "explanation": "may + feel = có thể cảm thấy"
+              },
+              {
+                "question": "If you eat junk food, you ______ (might / gain) weight.",
+                "solution": "If you eat junk food, you <strong>might gain</strong> weight.",
+                "explanation": "might + gain = có thể tăng cân"
+              },
+              {
+                "question": "If you don't exercise, you ______ (may / become) weak.",
+                "solution": "If you don't exercise, you <strong>may become</strong> weak.",
+                "explanation": "may + become = có thể trở nên"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Conditional Type 1 với Should/Must",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>If + S + V, S + should/must + V</li><li>should = lời khuyên; must = bắt buộc</li></ul>",
+            "examples": [
+              {
+                "question": "If you feel stressed, you ______ (should / relax).",
+                "solution": "If you feel stressed, you <strong>should relax</strong>.",
+                "explanation": "should + relax = nên thư giãn"
+              },
+              {
+                "question": "If you are sick, you ______ (must / see) a doctor.",
+                "solution": "If you are sick, you <strong>must see</strong> a doctor.",
+                "explanation": "must + see = phải gặp"
+              },
+              {
+                "question": "If you want to be healthy, you ______ (should / eat) well.",
+                "solution": "If you want to be healthy, you <strong>should eat</strong> well.",
+                "explanation": "should + eat = nên ăn"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Unless (If not)",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Unless + S + V (khẳng định), S + modal + V</li><li>Unless = If not</li></ul>",
+            "examples": [
+              {
+                "question": "Unless you exercise, you ______ (can't / stay) fit.",
+                "solution": "Unless you exercise, you <strong>can't stay</strong> fit.",
+                "explanation": "Unless = If you don't; can't = không thể"
+              },
+              {
+                "question": "Unless you eat healthy, you ______ (may / get) sick.",
+                "solution": "Unless you eat healthy, you <strong>may get</strong> sick.",
+                "explanation": "Unless = If you don't; may get = có thể bị"
+              },
+              {
+                "question": "Unless you sleep enough, you ______ (should / rest) more.",
+                "solution": "Unless you sleep enough, you <strong>should rest</strong> more.",
+                "explanation": "Unless = If you don't; should rest = nên nghỉ"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "If you exercise regularly, you ______ stay fit.",
+            "options": ["can", "will can", "could", "cans"],
+            "correct": 0,
+            "explanation": "can + V (infinitive) = có thể"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "If you don't sleep enough, you ______ feel tired.",
+            "options": ["can", "may", "will", "must"],
+            "correct": 1,
+            "explanation": "may = có thể (không chắc chắn)"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "If you feel stressed, you ______ relax.",
+            "options": ["can", "may", "should", "might"],
+            "correct": 2,
+            "explanation": "should = nên (lời khuyên)"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "If you are sick, you ______ see a doctor.",
+            "options": ["can", "may", "should", "must"],
+            "correct": 3,
+            "explanation": "must = phải (bắt buộc)"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "If you eat junk food, you ______ gain weight.",
+            "options": ["can", "might", "should", "must"],
+            "correct": 1,
+            "explanation": "might = có thể (không chắc chắn)"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "Unless you exercise, you ______ stay fit.",
+            "options": ["can", "can't", "should", "must"],
+            "correct": 1,
+            "explanation": "Unless = If not; can't = không thể"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "If you want to be healthy, you ______ eat well.",
+            "options": ["can", "may", "should", "might"],
+            "correct": 2,
+            "explanation": "should = nên"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "If you drink enough water, you ______ avoid dehydration.",
+            "options": ["can", "may", "should", "must"],
+            "correct": 0,
+            "explanation": "can = có thể (khả năng)"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "If you don't exercise, you ______ become weak.",
+            "options": ["can", "may", "should", "must"],
+            "correct": 1,
+            "explanation": "may = có thể"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Unless you eat healthy, you ______ get sick.",
+            "options": ["can", "may", "should", "must"],
+            "correct": 1,
+            "explanation": "Unless = If not; may = có thể"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which modal verbs can be used in conditional type 1? (Select all that apply)",
+            "options": ["can", "may", "should", "must"],
+            "correct": [0, 1, 2, 3],
+            "explanation": "Tất cả đều có thể dùng: can (khả năng), may (có thể), should (nên), must (phải)"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which sentences are correct? (Select all that apply)",
+            "options": ["If you exercise, you can stay fit.", "If you don't sleep, you may feel tired.", "If you are sick, you will must see a doctor.", "Unless you eat healthy, you may get sick."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: can stay, may feel, Unless...may get. Sai: will must (không dùng 2 modal verbs)"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which express advice or recommendation? (Select all that apply)",
+            "options": ["should", "must", "can", "ought to"],
+            "correct": [0, 3],
+            "explanation": "should và ought to = nên (lời khuyên). must = phải (bắt buộc); can = có thể (khả năng)"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: If you exercise regularly, you ______ (can / stay) fit.",
+            "correct": "can stay",
+            "explanation": "can + V (infinitive)"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: If you feel stressed, you ______ (should / relax).",
+            "correct": "should relax",
+            "explanation": "should + V (lời khuyên)"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Fill in: Unless you exercise, you ______ (can't / stay) fit.",
+            "correct": "can't stay",
+            "explanation": "Unless = If not; can't + V"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Rewrite: If you don't eat healthy, you may get sick. → Unless ______.",
+            "correct": "Unless you eat healthy, you may get sick",
+            "explanation": "If not = Unless (bỏ 'don't')"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: exercise / If / you / regularly / , / can / you / stay / fit / .",
+            "sample_answer": "If you exercise regularly, you can stay fit.",
+            "explanation": "Sắp xếp: If + S + V, S + can + V"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: You should relax if you feel stressed. → If ______.",
+            "sample_answer": "If you feel stressed, you should relax.",
+            "explanation": "Biến đổi: Đảo mệnh đề If lên trước"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Transform: If you don't exercise, you can't stay fit. → Unless ______.",
+            "sample_answer": "Unless you exercise, you can't stay fit.",
+            "explanation": "Biến đổi: If not = Unless (bỏ 'don't')"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange: stressed / If / feel / you / , / should / you / relax / . / sick / are / you / If / , / must / you / see / doctor / a / .",
+            "sample_answer": "If you feel stressed, you should relax. If you are sick, you must see a doctor.",
+            "explanation": "Sắp xếp: If + S + V, S + should/must + V"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Transform and combine: You exercise regularly. You can stay fit. + You don't sleep enough. You may feel tired. (Use conditional type 1 with modal verbs)",
+            "sample_answer": "If you exercise regularly, you can stay fit. If you don't sleep enough, you may feel tired.",
+            "explanation": "Biến đổi: Câu 1 dùng 'can' (khả năng), Câu 2 dùng 'may' (có thể)"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-review-3",
+      "name": "Review 3 (Units 7 - 8 - 9)",
+      "slug": "review-3-units-7-8-9",
+      "chapter": "Review 3 (Units 7 - 8 - 9)",
+      "chapter_id": "A9",
+      "lesson_id": 30,
+      "description": "Review of Units 7, 8, and 9 covering natural wonders, tourism, and World Englishes.",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-3",
+          "name": "Review 3 Comprehensive",
+          "slug": "review-3-comprehensive",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 3 (Units 7 - 8 - 9)",
+          "sections": [
+            {
+              "heading": "1. Language - Vocabulary",
+              "content": "<h3>Unit 7: Natural Wonders of the World</h3><p><strong>Key vocabulary:</strong> mountain, volcano, waterfall, canyon, cave, desert, forest, glacier, coral reef, magnificent, spectacular, breathtaking, explore, discover</p><h3>Unit 8: Tourism</h3><p><strong>Key vocabulary:</strong> tourist, traveler, sightseeing, tour, destination, hotel, resort, accommodation, flight, attraction, landmark, monument</p><h3>Unit 9: World Englishes</h3><p><strong>Key vocabulary:</strong> British English, American English, accent, dialect, pronunciation, fluent, native speaker, bilingual, communicate, international, global</p>"
+            },
+            {
+              "heading": "2. Language - Grammar",
+              "content": "<h3>Unit 7: Reported Yes/No Questions</h3><p><strong>Structure:</strong> S + asked (+ O) + if/whether + S + V (lùi thì)</p><p><strong>Tense changes:</strong> Present → Past; Will → Would; Can → Could; Did → had + V3</p><h3>Unit 8: Relative Pronouns</h3><p><strong>Pronouns:</strong> who/whom (người), which (vật), that (người/vật), whose (sở hữu), where (nơi), when (thời gian)</p><p><strong>Usage:</strong> Chủ ngữ (không thể bỏ), Tân ngữ (có thể bỏ)</p><h3>Unit 9: Defining Relative Clauses</h3><p><strong>Defining:</strong> Không có dấu phẩy, cần thiết để xác định</p><p><strong>Reduction:</strong> V-ing (chủ động), V3/ed (bị động), to-infinitive (the first/only/last)</p>"
+            },
+            {
+              "heading": "3. Skills - Reading Passages",
+              "content": "<p><strong>Passage 1: Natural Wonders and Tourism</strong></p><p>\"Do you like mountains?\" he asked me. He asked me if I liked mountains. I told him about Ha Long Bay, which is one of the most beautiful places in Vietnam. The tourists who visit Ha Long Bay are always amazed by its beauty.</p><p>The hotel where we stayed was near the beach. The guide whose knowledge was impressive showed us around. Everything that he said about the caves was interesting. It's the best place that I've ever visited.</p><p><strong>Passage 2: World Englishes</strong></p><p>\"Can you speak English?\" she asked me. She asked me if I could speak English. I explained that English is a language which is spoken worldwide. The people who speak English come from many countries.</p><p>The student whose English is good will have more opportunities. The country where English is the official language attracts many tourists. The time when we learn English is important for our future.</p>"
+            },
+            {
+              "heading": "4. Skills - Practice",
+              "content": "<p><strong>Comprehension Questions:</strong></p><ol class='list-decimal pl-5 space-y-2'><li>What did he ask about mountains?</li><li>Which place is one of the most beautiful in Vietnam?</li><li>Who are always amazed by Ha Long Bay?</li><li>What language is spoken worldwide?</li></ol>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Reported Yes/No Questions",
+            "method": "<p><strong>Phương pháp:</strong> S + asked + if/whether + S + V (lùi thì)</p>",
+            "examples": [
+              {
+                "question": "\"Do you like mountains?\" → He asked me ______.",
+                "solution": "He asked me <strong>if/whether I liked</strong> mountains.",
+                "explanation": "Do you like → if/whether I liked"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Relative Pronouns",
+            "method": "<p><strong>Phương pháp:</strong> who (người), which (vật), that (người/vật)</p>",
+            "examples": [
+              {
+                "question": "The tourist ______ visited us was friendly.",
+                "solution": "The tourist <strong>who/that</strong> visited us was friendly.",
+                "explanation": "who/that thay thế cho người"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Defining Relative Clauses",
+            "method": "<p><strong>Phương pháp:</strong> Không dấu phẩy, cần thiết</p>",
+            "examples": [
+              {
+                "question": "The man ______ speaks English is a teacher.",
+                "solution": "The man <strong>who/that</strong> speaks English is a teacher.",
+                "explanation": "Mệnh đề xác định (không dấu phẩy)"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Reduction",
+            "method": "<p><strong>Phương pháp:</strong> V-ing, V3/ed, to-V</p>",
+            "examples": [
+              {
+                "question": "The man who speaks English → The man ______.",
+                "solution": "The man <strong>speaking</strong> English.",
+                "explanation": "Rút gọn: who speaks → speaking"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "\"Do you like mountains?\" → He asked me ______ I liked mountains.",
+            "options": ["that", "if", "what", "where"],
+            "correct": 1,
+            "explanation": "Yes/No question → if/whether"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "\"Will you go there?\" → She asked me if I ______ there.",
+            "options": ["will go", "would go", "go", "went"],
+            "correct": 1,
+            "explanation": "Will you go → I would go"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "\"Can you see the waterfall?\" → He asked me if I ______ the waterfall.",
+            "options": ["can see", "could see", "see", "saw"],
+            "correct": 1,
+            "explanation": "Can you see → I could see"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "\"Did you climb the mountain?\" → He asked me if I ______ the mountain.",
+            "options": ["climb", "climbed", "had climbed", "have climbed"],
+            "correct": 2,
+            "explanation": "Did you climb → I had climbed"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "The tourist ______ visited us was friendly.",
+            "options": ["who", "which", "where", "when"],
+            "correct": 0,
+            "explanation": "who thay thế cho người"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "The hotel ______ we stayed at was nice.",
+            "options": ["who", "which", "where", "whose"],
+            "correct": 1,
+            "explanation": "which thay thế cho vật"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "The tourist ______ bag was lost is upset.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 2,
+            "explanation": "whose = sở hữu"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "The city ______ I was born is beautiful.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 3,
+            "explanation": "where = nơi chốn"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "It's the best hotel ______ I've ever stayed at.",
+            "options": ["who", "which", "that", "where"],
+            "correct": 2,
+            "explanation": "Sau so sánh nhất → dùng that"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "The man ______ speaks English is a teacher.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 0,
+            "explanation": "who thay thế cho người (chủ ngữ)"
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "The book ______ I read was interesting.",
+            "options": ["who", "which", "whose", "when"],
+            "correct": 1,
+            "explanation": "which thay thế cho vật (tân ngữ)"
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "The student ______ English is good will win.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 2,
+            "explanation": "whose = sở hữu"
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "The man who speaks English → The man ______ English.",
+            "options": ["speak", "speaks", "speaking", "spoken"],
+            "correct": 2,
+            "explanation": "Rút gọn: who speaks → speaking"
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "The book which was written by him → The book ______ by him.",
+            "options": ["write", "writes", "writing", "written"],
+            "correct": 3,
+            "explanation": "Rút gọn: which was written → written"
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "The first person who came → The first person ______.",
+            "options": ["come", "comes", "coming", "to come"],
+            "correct": 3,
+            "explanation": "Rút gọn: who came → to come"
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "\"Are you here now?\" → He asked me if I was ______ ______.",
+            "options": ["here now", "there then", "here then", "there now"],
+            "correct": 1,
+            "explanation": "here → there; now → then"
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "Everything ______ he said was true.",
+            "options": ["who", "which", "that", "where"],
+            "correct": 2,
+            "explanation": "Sau everything → dùng that"
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "The country ______ English is spoken is the UK.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 3,
+            "explanation": "where = nơi chốn"
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "The woman ______ I met speaks three languages.",
+            "options": ["who", "whom", "which", "where"],
+            "correct": 1,
+            "explanation": "whom thay thế cho người (tân ngữ)"
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "\"Did you visit the cave?\" → He asked if I ______ the cave.",
+            "options": ["visit", "visited", "had visited", "have visited"],
+            "correct": 2,
+            "explanation": "Did you visit → I had visited"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which are correct reported Yes/No questions? (Select all that apply)",
+            "options": ["He asked if I liked mountains.", "She asked whether I was visiting.", "He asked if did I go.", "She asked if I could help."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: if I liked, whether I was visiting, if I could. Sai: if did I go (không đảo)"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which relative pronouns can replace people? (Select all that apply)",
+            "options": ["who", "which", "whom", "that"],
+            "correct": [0, 2, 3],
+            "explanation": "Đúng: who, whom, that (cho người). Sai: which (cho vật)"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which are defining relative clauses? (Select all that apply)",
+            "options": ["The man who speaks English is a teacher.", "My brother, who lives in Hanoi, is a teacher.", "The book that I read was good.", "London, which is in England, is big."],
+            "correct": [0, 2],
+            "explanation": "Đúng: không có dấu phẩy (xác định). Sai: có dấu phẩy (không xác định)"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Transform: \"Do you like mountains?\" → He asked me ______.",
+            "correct": "if/whether I liked mountains / if I liked mountains / whether I liked mountains",
+            "explanation": "Do you like → if/whether I liked"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: The tourist ______ visited us was friendly.",
+            "correct": "who / that / who/that",
+            "explanation": "who/that thay thế cho người"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Fill in: The man ______ speaks English is a teacher.",
+            "correct": "who / that / who/that",
+            "explanation": "who/that thay thế cho người (chủ ngữ)"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Reduce: The man who speaks English → The man ______.",
+            "correct": "speaking English",
+            "explanation": "Rút gọn: who speaks → speaking"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: asked / He / me / if / liked / I / mountains / . / tourist / The / who / visited / us / was / friendly / .",
+            "sample_answer": "He asked me if I liked mountains. The tourist who visited us was friendly.",
+            "explanation": "Sắp xếp: reported question với if; relative clause với who"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: \"Can you speak English?\" → She asked me ______.",
+            "sample_answer": "She asked me if/whether I could speak English.",
+            "explanation": "Biến đổi: Can you speak → if/whether I could speak"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Combine: The man is a teacher. The man speaks English. → The man ______.",
+            "sample_answer": "The man who/that speaks English is a teacher.",
+            "explanation": "Kết hợp: dùng who/that thay thế cho 'the man'"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange and reduce: man / The / who / speaks / English / → / man / The / ______ / English / . / book / The / which / was / written / → / book / The / ______ / .",
+            "sample_answer": "The man who speaks English → The man speaking English. The book which was written → The book written.",
+            "explanation": "Rút gọn: who speaks → speaking; which was written → written"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Combine all grammar: \"Do you like natural wonders?\" He asked me. The place is beautiful. I visited the place. The tourist speaks English. → Transform the question and combine the sentences using relative clauses.",
+            "sample_answer": "He asked me if/whether I liked natural wonders. The place (which/that) I visited is beautiful. The tourist who/that speaks English...",
+            "explanation": "Kết hợp: reported question (if/whether I liked) + relative clauses (which/that I visited, who/that speaks)"
+          }
+        ]
+      }
+    }
+  ]
+}

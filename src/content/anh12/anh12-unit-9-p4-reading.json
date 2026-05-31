@@ -1,0 +1,266 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-9-p4",
+  "name": "Part 4: Reading",
+  "slug": "p4-reading",
+  "description": "Đọc hiểu về lập kế hoạch nghề nghiệp",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Reading: Career Planning and Development",
+      "sections": [
+        {
+          "heading": "Reading Passage: Planning Your Career Path",
+          "content": "<div class='bg-white dark:bg-gray-800 p-6 rounded-lg'><p class='mb-4'>Career planning is a lifelong process that involves making decisions about your professional future. It's not just about choosing a job; it's about creating a roadmap for your entire working life. Many young people look forward to starting their careers but often don't know where to begin. The key is to come up with a clear plan that aligns with your interests, skills, and values.</p><p class='mb-4'>The first step in career planning is self-assessment. You need to face up to your strengths and weaknesses honestly. What are you good at? What do you enjoy doing? What kind of work environment would you get on with best? These questions help you understand yourself better and identify suitable career paths. It's important to look up to professionals in fields that interest you and learn from their experiences.</p><p class='mb-4'>Once you've identified potential careers, you need to catch up with the requirements for those fields. What qualifications do you need? What skills are employers looking for? In today's fast-paced world, you must keep up with industry trends and technological changes. Many careers require continuous learning and professional development. Don't run out of motivation when faced with challenges - persistence is key to success.</p><p class='mb-4'>Networking is another crucial aspect of career development. Building professional relationships can open doors to opportunities you might never have discovered otherwise. Attend industry events, join professional associations, and connect with people in your field. Sometimes you'll have to put up with boring networking events, but the connections you make can be invaluable for your career growth.</p><p class='mb-4'>Setting realistic goals is essential for career success. Your goals should live up to your abilities while also challenging you to grow. Break down long-term goals into smaller, achievable steps. If you make mistakes along the way, don't worry - you can always make up for them by learning from the experience and adjusting your approach. Remember that career paths are rarely linear; most people change direction several times throughout their working lives.</p><p class='mb-4'>Finally, work-life balance is crucial for long-term career satisfaction. While ambition is important, you shouldn't have to put up with a job that makes you miserable or leaves no time for personal life. A successful career should enhance your life, not consume it entirely. Come up with strategies to maintain balance, such as setting boundaries, managing your time effectively, and making time for hobbies and relationships outside of work.</p></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "reading-ex1",
+        "type": "mcq",
+        "question": "According to the passage, career planning is:",
+        "options": [
+          "A one-time decision",
+          "A lifelong process",
+          "Only for young people",
+          "Not important"
+        ],
+        "correct": 1,
+        "explanation": "Đoạn văn nói career planning là 'a lifelong process' - quá trình suốt đời."
+      },
+      {
+        "id": "reading-ex2",
+        "type": "mcq",
+        "question": "What is the first step in career planning?",
+        "options": [
+          "Networking",
+          "Job search",
+          "Self-assessment",
+          "Setting goals"
+        ],
+        "correct": 2,
+        "explanation": "Bước đầu tiên là 'self-assessment' - tự đánh giá."
+      },
+      {
+        "id": "reading-ex3",
+        "type": "mcq",
+        "question": "What does 'face up to' mean in the passage?",
+        "options": [
+          "Ignore",
+          "Confront honestly",
+          "Avoid",
+          "Forget"
+        ],
+        "correct": 1,
+        "explanation": "'Face up to' nghĩa là đối mặt một cách trung thực."
+      },
+      {
+        "id": "reading-ex4",
+        "type": "mcq",
+        "question": "According to the passage, why is networking important?",
+        "options": [
+          "It's not important",
+          "It can open doors to opportunities",
+          "It's only for extroverts",
+          "It wastes time"
+        ],
+        "correct": 1,
+        "explanation": "Networking 'can open doors to opportunities' - mở ra cơ hội."
+      },
+      {
+        "id": "reading-ex5",
+        "type": "mcq",
+        "question": "What should you do if you make mistakes in your career?",
+        "options": [
+          "Give up",
+          "Blame others",
+          "Learn from them and adjust",
+          "Ignore them"
+        ],
+        "correct": 2,
+        "explanation": "Bạn có thể 'make up for them by learning from the experience' - học hỏi và điều chỉnh."
+      },
+      {
+        "id": "reading-ex6",
+        "type": "mcq",
+        "question": "What does the passage say about career paths?",
+        "options": [
+          "They are always straight",
+          "They are rarely linear",
+          "They never change",
+          "They are the same for everyone"
+        ],
+        "correct": 1,
+        "explanation": "Career paths 'are rarely linear' - hiếm khi thẳng, thường thay đổi."
+      },
+      {
+        "id": "reading-ex7",
+        "type": "mcq",
+        "question": "According to the passage, what is crucial for long-term career satisfaction?",
+        "options": [
+          "High salary only",
+          "Work-life balance",
+          "Working overtime",
+          "Avoiding challenges"
+        ],
+        "correct": 1,
+        "explanation": "'Work-life balance is crucial for long-term career satisfaction' - cân bằng công việc-cuộc sống quan trọng."
+      },
+      {
+        "id": "reading-ex8",
+        "type": "mcq",
+        "question": "What does 'keep up with' mean in the context?",
+        "options": [
+          "Fall behind",
+          "Stay current with",
+          "Ignore",
+          "Avoid"
+        ],
+        "correct": 1,
+        "explanation": "'Keep up with' nghĩa là theo kịp, cập nhật."
+      },
+      {
+        "id": "reading-ex9",
+        "type": "mcq",
+        "question": "What should your career goals do?",
+        "options": [
+          "Be impossible to achieve",
+          "Live up to your abilities while challenging you",
+          "Be too easy",
+          "Be someone else's goals"
+        ],
+        "correct": 1,
+        "explanation": "Goals should 'live up to your abilities while also challenging you' - phù hợp năng lực nhưng cũng thách thức."
+      },
+      {
+        "id": "reading-ex10",
+        "type": "mcq",
+        "question": "What does the passage suggest about continuous learning?",
+        "options": [
+          "It's not necessary",
+          "It's only for students",
+          "Many careers require it",
+          "It's a waste of time"
+        ],
+        "correct": 2,
+        "explanation": "'Many careers require continuous learning' - nhiều nghề đòi hỏi học tập liên tục."
+      },
+      {
+        "id": "reading-ex11",
+        "type": "msq",
+        "question_text": "According to the passage, mark True or False:",
+        "options": [
+          "Career planning is a lifelong process.",
+          "Self-assessment is the first step.",
+          "Networking is not important.",
+          "Career paths are rarely linear."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - Quá trình suốt đời. b) True - Bước đầu tiên. c) False - Networking rất quan trọng. d) True - Hiếm khi thẳng."
+      },
+      {
+        "id": "reading-ex12",
+        "type": "msq",
+        "question_text": "Decide True or False based on the passage:",
+        "options": [
+          "You should face up to your strengths and weaknesses.",
+          "Mistakes cannot be corrected.",
+          "Work-life balance is crucial.",
+          "You should ignore industry trends."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Đối mặt với điểm mạnh/yếu. b) False - Có thể học hỏi và điều chỉnh. c) True - Cân bằng quan trọng. d) False - Phải theo kịp xu hướng."
+      },
+      {
+        "id": "reading-ex13",
+        "type": "msq",
+        "question_text": "Mark True or False:",
+        "options": [
+          "Career planning involves making decisions about professional future.",
+          "You should only focus on salary.",
+          "Networking can open doors to opportunities.",
+          "A successful career should consume your entire life."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Đưa ra quyết định về tương lai nghề nghiệp. b) False - Không chỉ lương. c) True - Mở ra cơ hội. d) False - Không nên chiếm toàn bộ cuộc sống."
+      },
+      {
+        "id": "reading-ex14",
+        "type": "sa",
+        "question_text": "What is the first step in career planning? (two words)",
+        "correct": "self-assessment",
+        "explanation": "Self-assessment - tự đánh giá là bước đầu tiên."
+      },
+      {
+        "id": "reading-ex15",
+        "type": "sa",
+        "question_text": "Complete: Career planning is a _____ process. (one word)",
+        "correct": "lifelong",
+        "explanation": "Lifelong process - quá trình suốt đời."
+      },
+      {
+        "id": "reading-ex16",
+        "type": "sa",
+        "question_text": "What is crucial for long-term career satisfaction? (three words with hyphens)",
+        "correct": "work-life balance",
+        "explanation": "Work-life balance - cân bằng công việc-cuộc sống."
+      },
+      {
+        "id": "reading-ex17",
+        "type": "mcq",
+        "question": "What questions should you ask during self-assessment?",
+        "options": [
+          "Only about salary",
+          "About strengths, interests, and work environment",
+          "Nothing important",
+          "Only about others"
+        ],
+        "correct": 1,
+        "explanation": "Hỏi về điểm mạnh, sở thích và môi trường làm việc phù hợp."
+      },
+      {
+        "id": "reading-ex18",
+        "type": "mcq",
+        "question": "What does 'come up with' mean in 'come up with a clear plan'?",
+        "options": [
+          "Forget",
+          "Create or think of",
+          "Avoid",
+          "Ignore"
+        ],
+        "correct": 1,
+        "explanation": "'Come up with' nghĩa là tạo ra, nghĩ ra."
+      },
+      {
+        "id": "reading-ex19",
+        "type": "mcq",
+        "question": "According to the passage, what should you do when faced with challenges?",
+        "options": [
+          "Give up immediately",
+          "Don't run out of motivation",
+          "Blame others",
+          "Avoid them"
+        ],
+        "correct": 1,
+        "explanation": "'Don't run out of motivation' - đừng mất động lực khi đối mặt thách thức."
+      },
+      {
+        "id": "reading-ex20",
+        "type": "mcq",
+        "question": "What does the passage suggest about long-term goals?",
+        "options": [
+          "Keep them vague",
+          "Break them into smaller achievable steps",
+          "Ignore them",
+          "Make them impossible"
+        ],
+        "correct": 1,
+        "explanation": "'Break down long-term goals into smaller, achievable steps' - chia nhỏ mục tiêu dài hạn."
+      }
+    ]
+  }
+}

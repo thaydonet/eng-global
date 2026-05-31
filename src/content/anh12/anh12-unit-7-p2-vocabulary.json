@@ -1,0 +1,199 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-7-p2",
+  "name": "Part 2: Language - Vocabulary",
+  "slug": "p2-vocabulary",
+  "description": "Từ vựng về truyền thông và báo chí",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Vocabulary: Mass Media and Journalism",
+      "sections": [
+        {
+          "heading": "1. Từ vựng (Vocabulary)",
+          "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Mass media</td><td class='px-4 py-2'>(n) /mæs ˈmiːdiə/</td><td class='px-4 py-2'>Truyền thông đại chúng</td><td class='px-4 py-2'>Mass media influences public opinion.</td></tr><tr><td class='px-4 py-2 font-bold'>Journalism</td><td class='px-4 py-2'>(n) /ˈdʒɜːnəlɪzəm/</td><td class='px-4 py-2'>Nghề báo chí</td><td class='px-4 py-2'>She studied journalism at university.</td></tr><tr><td class='px-4 py-2 font-bold'>Journalist</td><td class='px-4 py-2'>(n) /ˈdʒɜːnəlɪst/</td><td class='px-4 py-2'>Nhà báo</td><td class='px-4 py-2'>The journalist reported the news.</td></tr><tr><td class='px-4 py-2 font-bold'>Headline</td><td class='px-4 py-2'>(n) /ˈhedlaɪn/</td><td class='px-4 py-2'>Tiêu đề (bài báo)</td><td class='px-4 py-2'>The headline caught my attention.</td></tr><tr><td class='px-4 py-2 font-bold'>Article</td><td class='px-4 py-2'>(n) /ˈɑːtɪkl/</td><td class='px-4 py-2'>Bài báo</td><td class='px-4 py-2'>I read an interesting article today.</td></tr><tr><td class='px-4 py-2 font-bold'>Broadcast</td><td class='px-4 py-2'>(v, n) /ˈbrɔːdkɑːst/</td><td class='px-4 py-2'>Phát sóng</td><td class='px-4 py-2'>The news is broadcast at 7 PM.</td></tr><tr><td class='px-4 py-2 font-bold'>Audience</td><td class='px-4 py-2'>(n) /ˈɔːdiəns/</td><td class='px-4 py-2'>Khán giả, thính giả</td><td class='px-4 py-2'>The show has a large audience.</td></tr><tr><td class='px-4 py-2 font-bold'>Viewer</td><td class='px-4 py-2'>(n) /ˈvjuːə(r)/</td><td class='px-4 py-2'>Người xem</td><td class='px-4 py-2'>Millions of viewers watched the program.</td></tr><tr><td class='px-4 py-2 font-bold'>Fake news</td><td class='px-4 py-2'>(n) /feɪk njuːz/</td><td class='px-4 py-2'>Tin giả</td><td class='px-4 py-2'>Fake news spreads quickly online.</td></tr><tr><td class='px-4 py-2 font-bold'>Viral</td><td class='px-4 py-2'>(adj) /ˈvaɪrəl/</td><td class='px-4 py-2'>Lan truyền nhanh</td><td class='px-4 py-2'>The video went viral.</td></tr><tr><td class='px-4 py-2 font-bold'>Bias</td><td class='px-4 py-2'>(n) /ˈbaɪəs/</td><td class='px-4 py-2'>Thiên kiến, thiên vị</td><td class='px-4 py-2'>Media bias affects reporting.</td></tr><tr><td class='px-4 py-2 font-bold'>Reliable</td><td class='px-4 py-2'>(adj) /rɪˈlaɪəbl/</td><td class='px-4 py-2'>Đáng tin cậy</td><td class='px-4 py-2'>Use reliable sources of information.</td></tr><tr><td class='px-4 py-2 font-bold'>Credible</td><td class='px-4 py-2'>(adj) /ˈkredəbl/</td><td class='px-4 py-2'>Đáng tin</td><td class='px-4 py-2'>The witness is credible.</td></tr><tr><td class='px-4 py-2 font-bold'>Influence</td><td class='px-4 py-2'>(v, n) /ˈɪnfluəns/</td><td class='px-4 py-2'>Ảnh hưởng</td><td class='px-4 py-2'>Media influences public opinion.</td></tr><tr><td class='px-4 py-2 font-bold'>Report</td><td class='px-4 py-2'>(v, n) /rɪˈpɔːt/</td><td class='px-4 py-2'>Đưa tin, báo cáo</td><td class='px-4 py-2'>Journalists report the news.</td></tr><tr><td class='px-4 py-2 font-bold'>Coverage</td><td class='px-4 py-2'>(n) /ˈkʌvərɪdʒ/</td><td class='px-4 py-2'>Sự đưa tin</td><td class='px-4 py-2'>The event received wide coverage.</td></tr></tbody></table></div>"
+        },
+        {
+          "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+          "content": "<p><strong>Types of Media (Các loại truyền thông):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>print media:</strong> báo in (newspapers, magazines)</li><li><strong>broadcast media:</strong> truyền thông phát sóng (TV, radio)</li><li><strong>digital media:</strong> truyền thông kỹ thuật số (websites, apps)</li><li><strong>social media:</strong> mạng xã hội (Facebook, Twitter, Instagram)</li><li><strong>online media:</strong> truyền thông trực tuyến</li></ul><p><strong>Journalism Terms (Thuật ngữ báo chí):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>journalist:</strong> nhà báo</li><li><strong>reporter:</strong> phóng viên</li><li><strong>editor:</strong> biên tập viên</li><li><strong>headline:</strong> tiêu đề</li><li><strong>article:</strong> bài báo</li><li><strong>news story:</strong> tin tức</li><li><strong>press:</strong> báo chí</li><li><strong>coverage:</strong> sự đưa tin</li></ul><p><strong>Media Actions (Hành động truyền thông):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>broadcast:</strong> phát sóng</li><li><strong>report:</strong> đưa tin</li><li><strong>publish:</strong> xuất bản</li><li><strong>share:</strong> chia sẻ</li><li><strong>spread:</strong> lan truyền</li><li><strong>influence:</strong> ảnh hưởng</li><li><strong>verify:</strong> xác minh</li><li><strong>fact-check:</strong> kiểm tra sự thật</li></ul><p><strong>Media Issues (Vấn đề truyền thông):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>fake news:</strong> tin giả</li><li><strong>misinformation:</strong> thông tin sai lệch</li><li><strong>bias:</strong> thiên kiến</li><li><strong>censorship:</strong> kiểm duyệt</li><li><strong>privacy:</strong> quyền riêng tư</li><li><strong>credibility:</strong> độ tin cậy</li></ul><p><strong>Collocations về Media:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>go viral:</strong> lan truyền nhanh</li><li><strong>break news:</strong> đưa tin nóng</li><li><strong>media coverage:</strong> sự đưa tin của truyền thông</li><li><strong>reliable source:</strong> nguồn đáng tin cậy</li><li><strong>spread information:</strong> lan truyền thông tin</li><li><strong>influence public opinion:</strong> ảnh hưởng dư luận</li></ul>"
+        },
+        {
+          "heading": "3. Ngữ âm: Sentence stress in adverbial clauses",
+          "content": "<h3>Stress in adverbial clauses</h3><p><strong>Quy tắc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Main clause:</strong> Nhấn vào từ quan trọng (content words)</li><li>Ex: The news <strong>SPREADS</strong> so <strong>QUICKLY</strong>.</li><li><strong>Adverbial clause:</strong> Nhấn vào từ khóa</li><li>Ex: It spreads as if it were <strong>FIRE</strong>.</li><li><strong>Content words (nhấn):</strong> nouns, main verbs, adjectives, adverbs</li><li><strong>Function words (không nhấn):</strong> articles, prepositions, conjunctions</li><li>Ex: The <strong>VIDEO</strong> was so <strong>POPULAR</strong> that it went <strong>VIRAL</strong>.</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "vocab-ex1",
+        "type": "mcq",
+        "question": "Choose the correct word: 'The _____ reported the breaking news.'",
+        "options": ["journalist", "journalism", "journal", "journey"],
+        "correct": 0,
+        "explanation": "'Journalist' (nhà báo) là danh từ chỉ người."
+      },
+      {
+        "id": "vocab-ex2",
+        "type": "mcq",
+        "question": "What does 'headline' mean?",
+        "options": ["The end of an article", "The title of a news story", "A photo", "An advertisement"],
+        "correct": 1,
+        "explanation": "Headline là tiêu đề của tin tức."
+      },
+      {
+        "id": "vocab-ex3",
+        "type": "mcq",
+        "question": "Complete: 'The video went _____.'",
+        "options": ["virus", "viral", "viruses", "virally"],
+        "correct": 1,
+        "explanation": "'Viral' (adj) nghĩa là lan truyền nhanh."
+      },
+      {
+        "id": "vocab-ex4",
+        "type": "mcq",
+        "question": "What is 'fake news'?",
+        "options": ["Real information", "False information", "Entertainment", "Advertising"],
+        "correct": 1,
+        "explanation": "Fake news là thông tin sai, tin giả."
+      },
+      {
+        "id": "vocab-ex5",
+        "type": "mcq",
+        "question": "What does 'broadcast' mean?",
+        "options": ["Write", "Transmit by TV or radio", "Read", "Delete"],
+        "correct": 1,
+        "explanation": "'Broadcast' nghĩa là phát sóng qua TV hoặc radio."
+      },
+      {
+        "id": "vocab-ex6",
+        "type": "mcq",
+        "question": "Complete: 'We should use _____ sources of information.'",
+        "options": ["reliable", "rely", "reliance", "reliably"],
+        "correct": 0,
+        "explanation": "'Reliable' (adj) nghĩa là đáng tin cậy."
+      },
+      {
+        "id": "vocab-ex7",
+        "type": "mcq",
+        "question": "What is 'bias'?",
+        "options": ["Objectivity", "Prejudice or favoritism", "Accuracy", "Truth"],
+        "correct": 1,
+        "explanation": "Bias là thiên kiến hoặc thiên vị."
+      },
+      {
+        "id": "vocab-ex8",
+        "type": "mcq",
+        "question": "Choose the correct form: 'Media _____ public opinion.'",
+        "options": ["influence", "influences", "influencing", "influenced"],
+        "correct": 1,
+        "explanation": "'Influences' là động từ ngôi thứ 3 số ít phù hợp với 'Media'."
+      },
+      {
+        "id": "vocab-ex9",
+        "type": "mcq",
+        "question": "What is an 'audience'?",
+        "options": ["A journalist", "People who watch or listen", "A newspaper", "A TV station"],
+        "correct": 1,
+        "explanation": "Audience là khán giả, thính giả."
+      },
+      {
+        "id": "vocab-ex10",
+        "type": "mcq",
+        "question": "Complete: 'The event received wide _____.'",
+        "options": ["cover", "coverage", "covering", "covered"],
+        "correct": 1,
+        "explanation": "'Coverage' (n) nghĩa là sự đưa tin."
+      },
+      {
+        "id": "vocab-ex11",
+        "type": "mcq",
+        "question": "What does 'verify' mean?",
+        "options": ["To ignore", "To check if something is true", "To delete", "To copy"],
+        "correct": 1,
+        "explanation": "'Verify' nghĩa là xác minh, kiểm tra tính đúng đắn."
+      },
+      {
+        "id": "vocab-ex12",
+        "type": "mcq",
+        "question": "Complete: 'Journalists _____ the news.'",
+        "options": ["report", "reports", "reporting", "reported"],
+        "correct": 0,
+        "explanation": "'Report' là động từ nguyên mẫu phù hợp với 'Journalists'."
+      },
+      {
+        "id": "vocab-ex13",
+        "type": "mcq",
+        "question": "What is 'social media'?",
+        "options": ["Newspapers", "Online platforms like Facebook and Twitter", "Radio", "Magazines"],
+        "correct": 1,
+        "explanation": "Social media là các nền tảng trực tuyến như Facebook và Twitter."
+      },
+      {
+        "id": "vocab-ex14",
+        "type": "mcq",
+        "question": "Choose the correct collocation: '_____ news'",
+        "options": ["make", "do", "break", "take"],
+        "correct": 2,
+        "explanation": "'Break news' là cụm từ đúng nghĩa là đưa tin nóng."
+      },
+      {
+        "id": "vocab-ex15",
+        "type": "mcq",
+        "question": "What is a concern about mass media?",
+        "options": ["It's too cheap", "Fake news and bias", "It's too slow", "It's too simple"],
+        "correct": 1,
+        "explanation": "Các lo ngại về truyền thông bao gồm tin giả và thiên kiến."
+      },
+      {
+        "id": "vocab-ex16",
+        "type": "msq",
+        "question_text": "Decide True or False:",
+        "options": [
+          "'Journalist' is a person who reports news.",
+          "'Viral' means spreading slowly.",
+          "'Bias' is prejudice in reporting.",
+          "'Reliable' means untrustworthy."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Journalist là người đưa tin. b) False - Viral là lan nhanh. c) True - Bias là thiên kiến. d) False - Reliable là đáng tin cậy."
+      },
+      {
+        "id": "vocab-ex17",
+        "type": "msq",
+        "question_text": "Match the words with their meanings (True if correct):",
+        "options": [
+          "Broadcast = to transmit by TV or radio",
+          "Headline = the end of an article",
+          "Audience = people who watch or listen",
+          "Coverage = to ignore news"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Broadcast là phát sóng. b) False - Headline là tiêu đề. c) True - Audience là khán giả. d) False - Coverage là sự đưa tin."
+      },
+      {
+        "id": "vocab-ex18",
+        "type": "sa",
+        "question_text": "Complete: The video went _____. (viral/virus)",
+        "correct": "viral",
+        "explanation": "'Viral' nghĩa là lan truyền nhanh."
+      },
+      {
+        "id": "vocab-ex19",
+        "type": "sa",
+        "question_text": "Fill in: _____ news is false information. (Fake/Real)",
+        "correct": "Fake",
+        "explanation": "Fake news là thông tin sai."
+      },
+      {
+        "id": "vocab-ex20",
+        "type": "sa",
+        "question_text": "Complete the collocation: reliable _____ (related to information)",
+        "correct": "source",
+        "explanation": "'Reliable source' - nguồn đáng tin cậy."
+      }
+    ]
+  }
+}

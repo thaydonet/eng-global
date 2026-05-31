@@ -1,0 +1,349 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-review-4",
+      "name": "Review 4 (Units 10 - 11 - 12)",
+      "slug": "review-4-units-10-11-12",
+      "chapter": "Review 4 (Units 10 - 11 - 12)",
+      "chapter_id": "A8",
+      "lesson_id": 40,
+      "description": "Review of Units 10, 11, and 12 covering communication, science and technology, and life on other planets.",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-4",
+          "name": "Review 4 Comprehensive",
+          "slug": "review-4-comprehensive",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 4 (Units 10 - 11 - 12)",
+          "sections": [
+            {
+              "heading": "1. Language - Vocabulary",
+              "content": "<h3>Unit 10: Communication in the Future</h3><p><strong>Key vocabulary:</strong> video call, hologram, telepathy, social media, email, text message, smartphone, tablet, smartwatch, virtual reality, augmented reality, artificial intelligence, communicate, connect, contact, send, receive, share</p><h3>Unit 11: Science and Technology</h3><p><strong>Key vocabulary:</strong> biology, chemistry, physics, astronomy, genetics, robotics, invention, innovation, discovery, experiment, research, laboratory, scientist, engineer, robot, drone, 3D printer</p><h3>Unit 12: Life on Other Planets</h3><p><strong>Key vocabulary:</strong> planet, star, moon, galaxy, universe, solar system, asteroid, comet, meteor, astronaut, spaceship, rocket, space station, satellite, telescope, UFO, alien, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune</p>"
+            },
+            {
+              "heading": "2. Language - Grammar",
+              "content": "<h3>Unit 10: Prepositions of Place and Time & Possessive Pronouns</h3><p><strong>1. Prepositions of Place:</strong> in (trong), on (trên bề mặt), at (tại điểm cụ thể)</p><p><strong>2. Prepositions of Time:</strong> in (tháng, năm, buổi), on (ngày, thứ), at (giờ, thời điểm)</p><p><strong>3. Possessive Pronouns:</strong> mine, yours, his, hers, ours, theirs</p><h3>Unit 11: Reported Speech - Statements</h3><p><strong>Structure:</strong> S + said (that) + S + V (lùi thì) / S + told + O + (that) + S + V (lùi thì)</p><p><strong>Tense changes:</strong> Present → Past; Will → Would; Can → Could</p><p><strong>Changes:</strong> I → he/she; here → there; now → then; today → that day; tomorrow → the next day</p><h3>Unit 12: Reported Speech - Questions</h3><p><strong>Yes/No Questions:</strong> S + asked (+ O) + if/whether + S + V (lùi thì)</p><p><strong>Wh-questions:</strong> S + asked (+ O) + Wh-word + S + V (lùi thì)</p><p><strong>Note:</strong> Không đảo trợ động từ trong câu tường thuật</p>"
+            },
+            {
+              "heading": "3. Skills - Reading Passages",
+              "content": "<p><strong>Passage 1: Future Communication and Technology</strong></p><p>In the future, communication will be very different. People will use holograms to talk to each other. Scientists say that telepathy might be possible. \"We are working on new technology,\" Dr. Smith said. He told us that they were developing brain-computer interfaces. \"This will change everything,\" he added.</p><p>My phone is old, but yours is new. Mine doesn't have AI, but hers does. We will communicate in ways we can't imagine now. The conference starts at 9 a.m. on Monday. It will be held in Tokyo. Many scientists will present their inventions there.</p><p><strong>Passage 2: Space Exploration</strong></p><p>Last week, I met an astronaut. I asked him if he had been to space. He said that he had visited the International Space Station. \"Do you believe in aliens?\" I asked. He told me that he thought life might exist on other planets. \"Where would they live?\" I wondered. He explained that Mars could have water.</p><p>Scientists are searching for life on other planets. They use powerful telescopes. The spaceship will launch at 6 p.m. tomorrow. It will travel to Mars. This mission is ours, not theirs. We hope to find answers about life in the universe.</p>"
+            },
+            {
+              "heading": "4. Skills - Practice",
+              "content": "<p><strong>Comprehension Questions:</strong></p><ol class='list-decimal pl-5 space-y-2'><li>What did Dr. Smith say about new technology?</li><li>What did the astronaut tell you about aliens?</li><li>When does the conference start?</li><li>Where will the spaceship go?</li></ol>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Prepositions",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>in: không gian kín, tháng, năm, buổi</li><li>on: bề mặt, ngày, thứ</li><li>at: điểm cụ thể, giờ, thời điểm</li></ul>",
+            "examples": [
+              {
+                "question": "The meeting is ______ Monday ______ 9 a.m.",
+                "solution": "The meeting is <strong>on</strong> Monday <strong>at</strong> 9 a.m.",
+                "explanation": "Thứ → on; Giờ → at"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Possessive Pronouns",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Thay thế tính từ sở hữu + danh từ</li><li>mine, yours, his, hers, ours, theirs</li></ul>",
+            "examples": [
+              {
+                "question": "This is my phone. That is ______. (your phone)",
+                "solution": "That is <strong>yours</strong>.",
+                "explanation": "your phone → yours"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Reported Speech - Statements",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + said/told + (that) + S + V (lùi thì)</li><li>Thay đổi đại từ và trạng từ</li></ul>",
+            "examples": [
+              {
+                "question": "\"I like science.\" → He said ______.",
+                "solution": "He said (that) he <strong>liked</strong> science.",
+                "explanation": "like → liked; I → he"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Reported Speech - Questions",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Yes/No: S + asked + if/whether + S + V (lùi thì)</li><li>Wh-: S + asked + Wh-word + S + V (lùi thì)</li><li>Không đảo trợ động từ</li></ul>",
+            "examples": [
+              {
+                "question": "\"Do you like space?\" → He asked me ______.",
+                "solution": "He asked me <strong>if/whether I liked</strong> space.",
+                "explanation": "Do you like → if/whether I liked"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I live ______ Vietnam.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 0,
+            "explanation": "Quốc gia → in"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The meeting is ______ Monday.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 1,
+            "explanation": "Thứ → on"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I wake up ______ 6 o'clock.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 2,
+            "explanation": "Giờ → at"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "This is my phone. That is ______.",
+            "options": ["my", "mine", "yours", "your"],
+            "correct": 2,
+            "explanation": "your phone → yours"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "My car is red, but ______ is blue.",
+            "options": ["her", "hers", "she", "his"],
+            "correct": 1,
+            "explanation": "her car → hers"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "\"I like science.\" → He said he ______ science.",
+            "options": ["like", "likes", "liked", "liking"],
+            "correct": 2,
+            "explanation": "Present Simple → Past Simple"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "\"I will help.\" → She said she ______ help.",
+            "options": ["will", "would", "can", "could"],
+            "correct": 1,
+            "explanation": "will → would"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "\"I am here.\" → He said he was ______.",
+            "options": ["here", "there", "this", "that"],
+            "correct": 1,
+            "explanation": "here → there"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "\"I am tired.\" → He ______ he was tired.",
+            "options": ["said", "told", "say", "tell"],
+            "correct": 0,
+            "explanation": "Không có tân ngữ → said"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "\"I am tired.\" → He ______ me he was tired.",
+            "options": ["said", "told", "say", "tell"],
+            "correct": 1,
+            "explanation": "Có tân ngữ → told"
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "\"Do you like space?\" → He asked me ______ I liked space.",
+            "options": ["that", "if", "what", "where"],
+            "correct": 1,
+            "explanation": "Yes/No question → if/whether"
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "\"Where do you live?\" → He asked me where I ______.",
+            "options": ["live", "lived", "living", "lives"],
+            "correct": 1,
+            "explanation": "do you live → I lived (lùi thì)"
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "\"Can you help?\" → She asked me ______ I could help.",
+            "options": ["that", "if", "what", "who"],
+            "correct": 1,
+            "explanation": "Can you → if/whether I could"
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "\"What are you doing?\" → She asked him what he ______.",
+            "options": ["is doing", "was doing", "does", "did"],
+            "correct": 1,
+            "explanation": "are you doing → he was doing"
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "The book is ______ the table.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 1,
+            "explanation": "Bề mặt → on"
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "I was born ______ May.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 0,
+            "explanation": "Tháng → in"
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "Our house is big, but ______ is small.",
+            "options": ["their", "theirs", "they", "them"],
+            "correct": 1,
+            "explanation": "their house → theirs"
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "\"I will come tomorrow.\" → She said she would come ______.",
+            "options": ["tomorrow", "the next day", "yesterday", "today"],
+            "correct": 1,
+            "explanation": "tomorrow → the next day"
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "\"Did you see the UFO?\" → He asked me if I ______ the UFO.",
+            "options": ["see", "saw", "had seen", "have seen"],
+            "correct": 2,
+            "explanation": "Did you see → I had seen"
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "\"Where did you go?\" → She asked him where he ______.",
+            "options": ["go", "went", "had gone", "have gone"],
+            "correct": 2,
+            "explanation": "did you go → he had gone"
+          },
+          {
+            "id": "msq1",
+            "type": "multiple-select",
+            "question": "Which prepositions are used for TIME? (Select all that apply)",
+            "options": ["in the morning", "on Monday", "at 6 o'clock", "on the table"],
+            "correct": [0, 1, 2],
+            "explanation": "in the morning, on Monday, at 6 o'clock là giới từ chỉ thời gian. 'on the table' là giới từ chỉ địa điểm."
+          },
+          {
+            "id": "msq2",
+            "type": "multiple-select",
+            "question": "Which are correct reported speech transformations? (Select all that apply)",
+            "options": ["\"I like it.\" → He said he liked it.", "\"I will go.\" → She said she would go.", "\"I can help.\" → He said he can help.", "\"I am here.\" → She said she was there."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: liked, would go, was there. Sai: can → could (không phải can)"
+          },
+          {
+            "id": "msq3",
+            "type": "multiple-select",
+            "question": "Which are correct reported questions? (Select all that apply)",
+            "options": ["He asked if I liked space.", "She asked where did I live.", "He asked what I was doing.", "She asked if could I help."],
+            "correct": [0, 2],
+            "explanation": "Đúng: if I liked, what I was doing. Sai: where did I live (không đảo), if could I (sai thứ tự)"
+          },
+          {
+            "id": "sa1",
+            "type": "short-answer",
+            "question": "Fill in: The meeting is ______ Monday ______ 3 p.m.",
+            "answer": "on, at",
+            "explanation": "Thứ → on; Giờ → at"
+          },
+          {
+            "id": "sa2",
+            "type": "short-answer",
+            "question": "Replace with possessive pronoun: This is my phone. That is your phone. → This is ______, that is ______.",
+            "answer": "mine, yours",
+            "explanation": "my phone → mine; your phone → yours"
+          },
+          {
+            "id": "sa3",
+            "type": "short-answer",
+            "question": "Transform: \"I like robots.\" → He said ______.",
+            "answer": "he liked robots / (that) he liked robots",
+            "explanation": "like → liked; I → he"
+          },
+          {
+            "id": "sa4",
+            "type": "short-answer",
+            "question": "Transform: \"Do you believe in aliens?\" → He asked me ______.",
+            "answer": "if/whether I believed in aliens / if I believed in aliens / whether I believed in aliens",
+            "explanation": "Do you believe → if/whether I believed"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: in / I / live / Hanoi / . / meeting / The / is / on / Monday / at / 3 p.m. / .",
+            "sample_answer": "I live in Hanoi. The meeting is on Monday at 3 p.m.",
+            "explanation": "Sắp xếp: S + V + in + địa điểm. S + is + on + thứ + at + giờ."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: This is my phone. That is your phone. (Use possessive pronouns)",
+            "sample_answer": "This is mine. That is yours. / This phone is mine. That phone is yours.",
+            "explanation": "Biến đổi: my phone → mine; your phone → yours"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Transform to reported speech: \"I love technology. I will study it.\" (He said...)",
+            "sample_answer": "He said (that) he loved technology. He said (that) he would study it.",
+            "explanation": "love → loved; will → would; I → he"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Transform to reported questions: \"Do you like space?\" + \"Where do you live?\" (He asked me...)",
+            "sample_answer": "He asked me if/whether I liked space. He asked me where I lived.",
+            "explanation": "Yes/No → if/whether; Wh-question → where + S + V (lùi thì)"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Rearrange and transform: said / He / he / liked / science / . / asked / She / me / if / believed / I / aliens / in / . / phone / My / is / old / , / but / is / yours / new / .",
+            "sample_answer": "He said he liked science. She asked me if I believed in aliens. My phone is old, but yours is new.",
+            "explanation": "Sắp xếp: reported statement (said), reported question (asked if), possessive pronoun (yours)"
+          }
+        ]
+      }
+    }
+  ]
+}

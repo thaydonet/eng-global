@@ -1,0 +1,349 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-review-1",
+      "name": "Review 1 (Units 1 - 2 - 3)",
+      "slug": "review-1-units-1-2-3",
+      "chapter": "Review 1 (Units 1 - 2 - 3)",
+      "chapter_id": "A9",
+      "lesson_id": 10,
+      "description": "Review of Units 1, 2, and 3 covering local community, city life, and healthy living.",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-1",
+          "name": "Review 1 Comprehensive",
+          "slug": "review-1-comprehensive",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 1 (Units 1 - 2 - 3)",
+          "sections": [
+            {
+              "heading": "1. Language - Vocabulary",
+              "content": "<h3>Unit 1: Local Community</h3><p><strong>Key vocabulary:</strong> community center, library, craft village, pottery, weaving, embroidery, volunteer, donate, preserve, traditional, cultural, historical</p><h3>Unit 2: City Life</h3><p><strong>Key vocabulary:</strong> skyscraper, traffic, public transport, metro, pollution, crowded, convenient, modern, opportunity, infrastructure</p><h3>Unit 3: Healthy Living for Teens</h3><p><strong>Key vocabulary:</strong> healthy, fit, exercise, balanced diet, nutrition, stress, pressure, anxiety, junk food, sleep, relax</p>"
+            },
+            {
+              "heading": "2. Language - Grammar",
+              "content": "<h3>Unit 1: Question Words + to-infinitive & Phrasal Verbs</h3><p><strong>Structure:</strong> Wh-word + to-infinitive (what to do, where to go, how to use)</p><p><strong>Phrasal verbs:</strong> look after, look for, set up, find out, carry out</p><h3>Unit 2: Double Comparatives & Phrasal Verbs</h3><p><strong>Structure:</strong> The + comparative + S + V, the + comparative + S + V</p><p><strong>Phrasal verbs:</strong> get around, grow up, deal with, run out of, keep up with</p><h3>Unit 3: Modal Verbs in Conditional Type 1</h3><p><strong>Structure:</strong> If + S + V (present), S + modal verb + V</p><p><strong>Modal verbs:</strong> can, may, might, should, must</p><p><strong>Unless:</strong> Unless = If not</p>"
+            },
+            {
+              "heading": "3. Skills - Reading Passages",
+              "content": "<p><strong>Passage 1: Community and City Life</strong></p><p>I grew up in a small village with a traditional craft community. People made pottery and embroidery. I didn't know what to do after school, so I learned how to make pottery. My teacher showed me where to find clay and how to use the wheel.</p><p>Now I live in a big city. The bigger the city is, the more opportunities there are. However, the more crowded it becomes, the more difficult it is to get around. I often look for quiet places to relax. It's hard to keep up with the fast pace of city life.</p><p><strong>Passage 2: Healthy Living</strong></p><p>If you want to stay healthy, you should exercise regularly and eat a balanced diet. If you don't sleep enough, you may feel tired and stressed. The more you exercise, the stronger you become.</p><p>Unless you take care of your health, you can't enjoy life. If you feel stressed, you should find out ways to relax. Many teens don't know how to deal with pressure. They should learn what to do when they feel anxious.</p>"
+            },
+            {
+              "heading": "4. Skills - Practice",
+              "content": "<p><strong>Comprehension Questions:</strong></p><ol class='list-decimal pl-5 space-y-2'><li>What did the writer learn in the village?</li><li>What happens when the city becomes more crowded?</li><li>What should you do if you want to stay healthy?</li><li>What happens if you don't sleep enough?</li></ol>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Question Words + to-infinitive",
+            "method": "<p><strong>Phương pháp:</strong> Wh-word + to + V</p>",
+            "examples": [
+              {
+                "question": "I don't know ______ (what / do).",
+                "solution": "I don't know <strong>what to do</strong>.",
+                "explanation": "what + to + do"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Double Comparatives",
+            "method": "<p><strong>Phương pháp:</strong> The + comparative, the + comparative</p>",
+            "examples": [
+              {
+                "question": "The bigger the city, the ______ (crowded) it is.",
+                "solution": "The bigger the city, the <strong>more crowded</strong> it is.",
+                "explanation": "crowded → more crowded"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Modal Verbs in Conditional Type 1",
+            "method": "<p><strong>Phương pháp:</strong> If + S + V, S + modal + V</p>",
+            "examples": [
+              {
+                "question": "If you exercise, you ______ (can / stay) fit.",
+                "solution": "If you exercise, you <strong>can stay</strong> fit.",
+                "explanation": "can + V"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Phrasal Verbs",
+            "method": "<p><strong>Phương pháp:</strong> Học thuộc nghĩa phrasal verbs</p>",
+            "examples": [
+              {
+                "question": "She ______ (chăm sóc) her brother.",
+                "solution": "She <strong>looks after</strong> her brother.",
+                "explanation": "look after = chăm sóc"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I don't know ______ to do.",
+            "options": ["what", "why", "which", "whose"],
+            "correct": 0,
+            "explanation": "what to do = làm gì"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "She asked me ______ to go.",
+            "options": ["what", "where", "why", "whose"],
+            "correct": 1,
+            "explanation": "where to go = đi đâu"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "He showed me ______ to use it.",
+            "options": ["what", "how", "why", "whose"],
+            "correct": 1,
+            "explanation": "how to use = cách sử dụng"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "The bigger the city is, the ______ it is.",
+            "options": ["crowded", "more crowded", "most crowded", "crowdeder"],
+            "correct": 1,
+            "explanation": "crowded → more crowded"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "The ______ you drive, the more dangerous it is.",
+            "options": ["fast", "faster", "fastest", "more fast"],
+            "correct": 1,
+            "explanation": "fast → faster"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "The more expensive the city is, the ______ life is.",
+            "options": ["difficult", "more difficult", "most difficult", "difficulter"],
+            "correct": 1,
+            "explanation": "difficult → more difficult"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "If you exercise regularly, you ______ stay fit.",
+            "options": ["can", "will can", "could", "cans"],
+            "correct": 0,
+            "explanation": "can + V"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "If you don't sleep enough, you ______ feel tired.",
+            "options": ["can", "may", "will", "must"],
+            "correct": 1,
+            "explanation": "may = có thể"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "If you feel stressed, you ______ relax.",
+            "options": ["can", "may", "should", "might"],
+            "correct": 2,
+            "explanation": "should = nên"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Unless you exercise, you ______ stay fit.",
+            "options": ["can", "can't", "should", "must"],
+            "correct": 1,
+            "explanation": "Unless = If not; can't"
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "She ______ her younger brother.",
+            "options": ["looks after", "looks for", "looks at", "looks up"],
+            "correct": 0,
+            "explanation": "look after = chăm sóc"
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "I'm ______ my keys.",
+            "options": ["looking after", "looking for", "looking at", "looking up"],
+            "correct": 1,
+            "explanation": "look for = tìm kiếm"
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "I ______ in Hanoi.",
+            "options": ["grew up", "grew down", "grow up", "growing up"],
+            "correct": 0,
+            "explanation": "grow up = lớn lên (quá khứ)"
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "It's easy to ______ in this city.",
+            "options": ["get around", "get up", "get on", "get off"],
+            "correct": 0,
+            "explanation": "get around = đi lại"
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "We need to ______ this problem.",
+            "options": ["deal with", "deal in", "deal on", "deal at"],
+            "correct": 0,
+            "explanation": "deal with = giải quyết"
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "They ______ a new business.",
+            "options": ["set up", "set off", "set out", "set down"],
+            "correct": 0,
+            "explanation": "set up = thành lập"
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "I can't decide ______ to choose.",
+            "options": ["what", "which", "why", "whose"],
+            "correct": 1,
+            "explanation": "which to choose = chọn cái nào"
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "The older I get, the ______ I become.",
+            "options": ["experience", "experienced", "more experienced", "most experienced"],
+            "correct": 2,
+            "explanation": "experienced → more experienced"
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "If you are sick, you ______ see a doctor.",
+            "options": ["can", "may", "should", "must"],
+            "correct": 3,
+            "explanation": "must = phải"
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "We need to ______ the truth.",
+            "options": ["find out", "find in", "find at", "find on"],
+            "correct": 0,
+            "explanation": "find out = tìm ra"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which are correct question words + to-infinitive? (Select all that apply)",
+            "options": ["what to do", "where to go", "why to come", "how to use"],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: what to do, where to go, how to use. Sai: why to come"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which are correct double comparatives? (Select all that apply)",
+            "options": ["The bigger, the better.", "The more expensive, the more difficult.", "The faster, the dangerouser.", "The hotter, the more tired."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: bigger/better, more expensive/more difficult, hotter/more tired. Sai: dangerouser"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which modal verbs express advice? (Select all that apply)",
+            "options": ["should", "must", "can", "ought to"],
+            "correct": [0, 3],
+            "explanation": "should và ought to = nên (lời khuyên)"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: I don't know ______ (what / do).",
+            "correct": "what to do",
+            "explanation": "what + to + do"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: The ______ (big) the city, the ______ (crowded) it is.",
+            "correct": "bigger, more crowded",
+            "explanation": "big → bigger; crowded → more crowded"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Fill in: If you exercise, you ______ (can / stay) fit.",
+            "correct": "can stay",
+            "explanation": "can + V"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Fill in phrasal verb: She ______ (chăm sóc) her brother.",
+            "correct": "looks after",
+            "explanation": "look after = chăm sóc"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: know / I / don't / what / do / to / . / bigger / The / city / the / is / , / more / the / crowded / is / it / .",
+            "sample_answer": "I don't know what to do. The bigger the city is, the more crowded it is.",
+            "explanation": "Sắp xếp: question word + to V; double comparative"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: I don't know. What should I do? → I don't know ______.",
+            "sample_answer": "I don't know what to do.",
+            "explanation": "Biến đổi: What should I do? → what to do"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Transform: The city is big. It is crowded. → The ______, the ______.",
+            "sample_answer": "The bigger the city is, the more crowded it is.",
+            "explanation": "Biến đổi: big → bigger; crowded → more crowded"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Transform: If you don't exercise, you can't stay fit. → Unless ______.",
+            "sample_answer": "Unless you exercise, you can't stay fit.",
+            "explanation": "Biến đổi: If not = Unless (bỏ 'don't')"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Combine all grammar: I don't know how to get around. The bigger the city, the harder it is. If you exercise, you can stay fit. (Keep all three sentences)",
+            "sample_answer": "I don't know how to get around. The bigger the city, the harder it is. If you exercise, you can stay fit.",
+            "explanation": "Kết hợp: question word + to V, double comparative, conditional type 1 với modal verb"
+          }
+        ]
+      }
+    }
+  ]
+}

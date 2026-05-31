@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-unit-10-our-houses-in-the-future",
+      "name": "Unit 10: Our Houses in the Future",
+      "slug": "unit-10-our-houses-in-the-future",
+      "chapter": "Unit 10: Our Houses in the Future",
+      "chapter_id": "A6",
+      "lesson_id": 10,
+      "description": "Learn about future houses, will for future predictions, and might for future possibilities.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1518005020951-eccb494ad742?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-10",
+          "name": "Future Houses Vocabulary",
+          "slug": "future-houses-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 10: Our Houses in the Future",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Apartment</td><td class='px-4 py-2'>(n) /əˈpɑːtmənt/</td><td class='px-4 py-2'>Căn hộ</td><td class='px-4 py-2'>I live in an apartment.</td></tr><tr><td class='px-4 py-2 font-bold'>UFO</td><td class='px-4 py-2'>(n) /ˌjuː ef ˈəʊ/</td><td class='px-4 py-2'>Đĩa bay</td><td class='px-4 py-2'>My house will look like a UFO.</td></tr><tr><td class='px-4 py-2 font-bold'>Houseboat</td><td class='px-4 py-2'>(n) /ˈhaʊsbəʊt/</td><td class='px-4 py-2'>Nhà thuyền</td><td class='px-4 py-2'>A houseboat is on the water.</td></tr><tr><td class='px-4 py-2 font-bold'>Motorhome</td><td class='px-4 py-2'>(n) /ˈməʊtəhəʊm/</td><td class='px-4 py-2'>Nhà di động</td><td class='px-4 py-2'>We can travel in a motorhome.</td></tr><tr><td class='px-4 py-2 font-bold'>Skyscraper</td><td class='px-4 py-2'>(n) /ˈskaɪskreɪpə(r)/</td><td class='px-4 py-2'>Nhà chọc trời</td><td class='px-4 py-2'>There are many skyscrapers in the city.</td></tr><tr><td class='px-4 py-2 font-bold'>Space</td><td class='px-4 py-2'>(n) /speɪs/</td><td class='px-4 py-2'>Không gian, vũ trụ</td><td class='px-4 py-2'>My house will be in space.</td></tr><tr><td class='px-4 py-2 font-bold'>Ocean</td><td class='px-4 py-2'>(n) /ˈəʊʃn/</td><td class='px-4 py-2'>Đại dương</td><td class='px-4 py-2'>My house will be under the ocean.</td></tr><tr><td class='px-4 py-2 font-bold'>Moon</td><td class='px-4 py-2'>(n) /muːn/</td><td class='px-4 py-2'>Mặt trăng</td><td class='px-4 py-2'>Will people live on the Moon?</td></tr><tr><td class='px-4 py-2 font-bold'>Robot</td><td class='px-4 py-2'>(n) /ˈrəʊbɒt/</td><td class='px-4 py-2'>Người máy</td><td class='px-4 py-2'>Robots will do the housework.</td></tr><tr><td class='px-4 py-2 font-bold'>Solar energy</td><td class='px-4 py-2'>(n) /ˈsəʊlə(r) ˈenədʒi/</td><td class='px-4 py-2'>Năng lượng mặt trời</td><td class='px-4 py-2'>My house will use solar energy.</td></tr><tr><td class='px-4 py-2 font-bold'>Wireless</td><td class='px-4 py-2'>(adj) /ˈwaɪələs/</td><td class='px-4 py-2'>Không dây</td><td class='px-4 py-2'>I have a wireless TV.</td></tr><tr><td class='px-4 py-2 font-bold'>Automatic</td><td class='px-4 py-2'>(adj) /ˌɔːtəˈmætɪk/</td><td class='px-4 py-2'>Tự động</td><td class='px-4 py-2'>The door is automatic.</td></tr><tr><td class='px-4 py-2 font-bold'>Modern</td><td class='px-4 py-2'>(adj) /ˈmɒdn/</td><td class='px-4 py-2'>Hiện đại</td><td class='px-4 py-2'>My house will be very modern.</td></tr><tr><td class='px-4 py-2 font-bold'>Comfortable</td><td class='px-4 py-2'>(adj) /ˈkʌmftəbl/</td><td class='px-4 py-2'>Thoải mái</td><td class='px-4 py-2'>The house is comfortable.</td></tr><tr><td class='px-4 py-2 font-bold'>Surround</td><td class='px-4 py-2'>(v) /səˈraʊnd/</td><td class='px-4 py-2'>Bao quanh</td><td class='px-4 py-2'>Trees surround my house.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Types of houses (Các loại nhà):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>apartment:</strong> căn hộ</li><li><strong>villa:</strong> biệt thự</li><li><strong>UFO:</strong> đĩa bay</li><li><strong>houseboat:</strong> nhà thuyền</li><li><strong>motorhome:</strong> nhà di động</li><li><strong>skyscraper:</strong> nhà chọc trời</li><li><strong>palace:</strong> cung điện</li><li><strong>cottage:</strong> nhà tranh</li></ul><p><strong>Locations (Vị trí):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>in space:</strong> trong vũ trụ</li><li><strong>on the Moon:</strong> trên Mặt trăng</li><li><strong>under the ocean:</strong> dưới đại dương</li><li><strong>on the sea:</strong> trên biển</li><li><strong>in the mountains:</strong> trên núi</li><li><strong>in the city:</strong> trong thành phố</li><li><strong>in the countryside:</strong> ở nông thôn</li></ul><p><strong>Appliances and technology (Thiết bị và công nghệ):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>robot:</strong> người máy</li><li><strong>solar energy:</strong> năng lượng mặt trời</li><li><strong>wireless TV:</strong> TV không dây</li><li><strong>automatic door:</strong> cửa tự động</li><li><strong>smart home:</strong> nhà thông minh</li><li><strong>hi-tech:</strong> công nghệ cao</li></ul><p><strong>Adjectives to describe houses:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>modern:</strong> hiện đại</li><li><strong>comfortable:</strong> thoải mái</li><li><strong>automatic:</strong> tự động</li><li><strong>wireless:</strong> không dây</li><li><strong>eco-friendly:</strong> thân thiện với môi trường</li><li><strong>spacious:</strong> rộng rãi</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Stress in two-syllable words (Trọng âm từ có hai âm tiết)</h3><p><strong>1. Danh từ và tính từ thường nhấn âm tiết thứ nhất:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Examples:</strong></li><li>'robot /ˈrəʊbɒt/</li><li>'modern /ˈmɒdn/</li><li>'palace /ˈpæləs/</li><li>'solar /ˈsəʊlə(r)/</li></ul><p><strong>2. Động từ thường nhấn âm tiết thứ hai:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Examples:</strong></li><li>sur'round /səˈraʊnd/</li><li>re'peat /rɪˈpiːt/</li><li>be'lieve /bɪˈliːv/</li></ul><p><strong>3. Một số ngoại lệ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>'answer /ˈɑːnsə(r)/ (động từ nhưng nhấn âm 1)</li><li>'enter /ˈentə(r)/ (động từ nhưng nhấn âm 1)</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Future Simple with 'will' (Thì tương lai đơn với 'will')</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + will + V (nguyên mẫu)</li><li>Ex: I <strong>will live</strong> in a big house.</li><li><strong>Phủ định:</strong> S + will not (won't) + V</li><li>Ex: I <strong>won't live</strong> in the city.</li><li><strong>Nghi vấn:</strong> Will + S + V?</li><li>Ex: <strong>Will</strong> you <strong>live</strong> on the Moon?</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dự đoán về tương lai</li><li>Ex: People <strong>will live</strong> in space.</li><li>Quyết định tức thời</li><li>Ex: I <strong>will help</strong> you.</li><li>Lời hứa</li><li>Ex: I <strong>will call</strong> you later.</li></ul><p><strong>3. Dấu hiệu nhận biết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>tomorrow, next week/month/year</li><li>in the future, soon, someday</li><li>in + số năm (in 2050)</li></ul><h3>B. Future Simple with 'might' (Thì tương lai với 'might')</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + might + V (nguyên mẫu)</li><li>Ex: I <strong>might live</strong> in a UFO.</li><li><strong>Phủ định:</strong> S + might not + V</li><li>Ex: I <strong>might not have</strong> a robot.</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Diễn tả khả năng có thể xảy ra trong tương lai (không chắc chắn)</li><li>Ex: My house <strong>might be</strong> in space. (Có thể là)</li><li>Might có độ chắc chắn thấp hơn will</li></ul><p><strong>3. So sánh Will và Might:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Will:</strong> chắc chắn sẽ xảy ra (100%)</li><li>Ex: I <strong>will</strong> go to school tomorrow. (Chắc chắn)</li><li><strong>Might:</strong> có thể xảy ra (50%)</li><li>Ex: I <strong>might</strong> go to the cinema. (Không chắc)</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> What will your dream house be like? - Ngôi nhà mơ ước của bạn sẽ như thế nào?</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về ngôi nhà trong tương lai</li><li>Giới thiệu các loại nhà đặc biệt</li><li>Nói về vị trí và thiết bị trong nhà</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Types of houses and appliances</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về các loại nhà</li><li>Học từ vựng về thiết bị trong nhà tương lai</li></ul><p><strong>B. Pronunciation: Stress in two-syllable words</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách nhấn trọng âm từ có hai âm tiết</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Future Simple with 'will' and 'might'</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách dùng 'will' để nói về tương lai</li><li>Học cách dùng 'might' để nói về khả năng</li><li>Luyện tập đặt câu về tương lai</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about future houses</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What will your house be like?</li><li>Where will it be?</li><li>It will be...</li><li>It might have...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: An e-mail about a dream house</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về ngôi nhà mơ ước</li><li>Tìm thông tin chi tiết</li></ul><p><strong>Speaking: Describing your dream house</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về ngôi nhà mơ ước</li><li>Mô tả vị trí và thiết bị</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: About houses in the future</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về các ngôi nhà trong tương lai</li><li>Ghi chú thông tin quan trọng</li></ul><p><strong>Writing: About your dream house</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết về ngôi nhà mơ ước</li><li>Sử dụng will và might</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Types of houses, appliances</li><li><strong>Pronunciation:</strong> Stress in two-syllable words</li><li><strong>Grammar:</strong> Future Simple with will and might</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> My future house</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Thiết kế ngôi nhà tương lai</li><li>Vẽ hoặc tìm hình ảnh</li><li>Viết mô tả (7-10 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Sử dụng 'will' cho dự đoán tương lai",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng: S + will + V (nguyên mẫu)</li><li>Phủ định: S + won't + V</li><li>Nghi vấn: Will + S + V?</li><li>Dùng khi chắc chắn về tương lai</li></ul>",
+            "examples": [
+              {
+                "question": "People ______ (live) in space in the future.",
+                "solution": "People <strong>will live</strong> in space in the future.",
+                "explanation": "Dự đoán chắc chắn về tương lai → dùng 'will + V'."
+              },
+              {
+                "question": "______ robots ______ (do) the housework? - Yes, they will.",
+                "solution": "<strong>Will</strong> robots <strong>do</strong> the housework?",
+                "explanation": "Câu hỏi về tương lai → dùng 'Will + S + V?'."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Sử dụng 'might' cho khả năng",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng: S + might + V (nguyên mẫu)</li><li>Phủ định: S + might not + V</li><li>Dùng khi không chắc chắn (có thể xảy ra)</li></ul>",
+            "examples": [
+              {
+                "question": "My house ______ (be) in space.",
+                "solution": "My house <strong>might be</strong> in space.",
+                "explanation": "Không chắc chắn (có thể) → dùng 'might + V'."
+              },
+              {
+                "question": "I ______ (not have) a robot in my house.",
+                "solution": "I <strong>might not have</strong> a robot in my house.",
+                "explanation": "Phủ định không chắc chắn → dùng 'might not + V'."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Phân biệt Will và Might",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Will: chắc chắn (100%)</li><li>Might: có thể (50%)</li><li>Xem ngữ cảnh để chọn từ phù hợp</li></ul>",
+            "examples": [
+              {
+                "question": "I'm sure. People ______ live on the Moon.",
+                "solution": "People <strong>will</strong> live on the Moon.",
+                "explanation": "Chắc chắn (I'm sure) → dùng 'will'."
+              },
+              {
+                "question": "I'm not sure. My house ______ be under the ocean.",
+                "solution": "My house <strong>might</strong> be under the ocean.",
+                "explanation": "Không chắc chắn (I'm not sure) → dùng 'might'."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Đặt câu hỏi với Will",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Cấu trúc: Will + S + V?</li><li>Trả lời: Yes, S + will. / No, S + won't.</li></ul>",
+            "examples": [
+              {
+                "question": "______ your house ______ (have) a garden?",
+                "solution": "<strong>Will</strong> your house <strong>have</strong> a garden?",
+                "explanation": "Câu hỏi về tương lai → dùng 'Will + S + V?'."
+              },
+              {
+                "question": "Will you live in a UFO? - Yes, ______.",
+                "solution": "Yes, <strong>I will</strong>.",
+                "explanation": "Trả lời Yes với will → Yes, S + will."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "People ______ in space in the future.",
+            "options": ["will live", "live", "are living", "lived"],
+            "correct": 0,
+            "explanation": "Dự đoán về tương lai → dùng 'will + V'."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "My house ______ be under the ocean.",
+            "options": ["will", "might", "is", "was"],
+            "correct": 1,
+            "explanation": "Không chắc chắn (có thể) → dùng 'might'."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "______ robots do the housework? - Yes, they will.",
+            "options": ["Do", "Are", "Will", "Might"],
+            "correct": 2,
+            "explanation": "Câu hỏi về tương lai → dùng 'Will'."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I ______ have a wireless TV in my room.",
+            "options": ["will", "am", "do", "was"],
+            "correct": 0,
+            "explanation": "Dự đoán về tương lai → dùng 'will'."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "My house ______ not be in the city.",
+            "options": ["will", "is", "does", "was"],
+            "correct": 0,
+            "explanation": "Phủ định tương lai → dùng 'will not'."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "I'm not sure. I ______ live in a motorhome.",
+            "options": ["will", "might", "am", "do"],
+            "correct": 1,
+            "explanation": "Không chắc chắn → dùng 'might'."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ your house have solar energy?",
+            "options": ["Do", "Is", "Will", "Does"],
+            "correct": 2,
+            "explanation": "Câu hỏi về tương lai → dùng 'Will'."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "Houses in the future ______ be very modern.",
+            "options": ["will", "are", "do", "were"],
+            "correct": 0,
+            "explanation": "Dự đoán về tương lai → dùng 'will'."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I ______ not have a robot. I'm not sure.",
+            "options": ["will", "might", "am", "do"],
+            "correct": 1,
+            "explanation": "Không chắc chắn → dùng 'might not'."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Will people live on the Moon? - Yes, ______.",
+            "options": ["they do", "they are", "they will", "they might"],
+            "correct": 2,
+            "explanation": "Trả lời Yes với Will → Yes, they will."
+          }
+        ]
+      }
+    }
+  ]
+}

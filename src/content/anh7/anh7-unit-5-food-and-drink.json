@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 7",
+  "subject_id": 44,
+  "lessons": [
+    {
+      "id": "anh7-unit-5-food-and-drink",
+      "name": "Unit 5: Food and Drink",
+      "slug": "unit-5-food-and-drink",
+      "chapter": "Unit 5: Food and Drink",
+      "chapter_id": "A7",
+      "lesson_id": 5,
+      "description": "Learn about food and drink with quantifiers: some, a lot of/lots of.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-5",
+          "name": "Food and Drink Vocabulary",
+          "slug": "food-and-drink-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 5: Food and Drink",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Food</td><td class='px-4 py-2'>(n) /fuːd/</td><td class='px-4 py-2'>Thức ăn</td><td class='px-4 py-2'>I like Vietnamese food.</td></tr><tr><td class='px-4 py-2 font-bold'>Drink</td><td class='px-4 py-2'>(n) /drɪŋk/</td><td class='px-4 py-2'>Đồ uống</td><td class='px-4 py-2'>Water is a healthy drink.</td></tr><tr><td class='px-4 py-2 font-bold'>Rice</td><td class='px-4 py-2'>(n) /raɪs/</td><td class='px-4 py-2'>Cơm, gạo</td><td class='px-4 py-2'>We eat rice every day.</td></tr><tr><td class='px-4 py-2 font-bold'>Noodles</td><td class='px-4 py-2'>(n) /ˈnuːdlz/</td><td class='px-4 py-2'>Mì, bún, phở</td><td class='px-4 py-2'>I love eating noodles.</td></tr><tr><td class='px-4 py-2 font-bold'>Bread</td><td class='px-4 py-2'>(n) /bred/</td><td class='px-4 py-2'>Bánh mì</td><td class='px-4 py-2'>I have bread for breakfast.</td></tr><tr><td class='px-4 py-2 font-bold'>Meat</td><td class='px-4 py-2'>(n) /miːt/</td><td class='px-4 py-2'>Thịt</td><td class='px-4 py-2'>She doesn't eat meat.</td></tr><tr><td class='px-4 py-2 font-bold'>Fish</td><td class='px-4 py-2'>(n) /fɪʃ/</td><td class='px-4 py-2'>Cá</td><td class='px-4 py-2'>Fish is good for health.</td></tr><tr><td class='px-4 py-2 font-bold'>Vegetable</td><td class='px-4 py-2'>(n) /ˈvedʒtəbl/</td><td class='px-4 py-2'>Rau</td><td class='px-4 py-2'>Eat more vegetables.</td></tr><tr><td class='px-4 py-2 font-bold'>Fruit</td><td class='px-4 py-2'>(n) /fruːt/</td><td class='px-4 py-2'>Trái cây</td><td class='px-4 py-2'>Fruit has many vitamins.</td></tr><tr><td class='px-4 py-2 font-bold'>Egg</td><td class='px-4 py-2'>(n) /eɡ/</td><td class='px-4 py-2'>Trứng</td><td class='px-4 py-2'>I eat eggs for breakfast.</td></tr><tr><td class='px-4 py-2 font-bold'>Milk</td><td class='px-4 py-2'>(n) /mɪlk/</td><td class='px-4 py-2'>Sữa</td><td class='px-4 py-2'>Drink milk every day.</td></tr><tr><td class='px-4 py-2 font-bold'>Water</td><td class='px-4 py-2'>(n) /ˈwɔːtə(r)/</td><td class='px-4 py-2'>Nước</td><td class='px-4 py-2'>Drink enough water.</td></tr><tr><td class='px-4 py-2 font-bold'>Dish</td><td class='px-4 py-2'>(n) /dɪʃ/</td><td class='px-4 py-2'>Món ăn</td><td class='px-4 py-2'>This is a traditional dish.</td></tr><tr><td class='px-4 py-2 font-bold'>Ingredient</td><td class='px-4 py-2'>(n) /ɪnˈɡriːdiənt/</td><td class='px-4 py-2'>Nguyên liệu</td><td class='px-4 py-2'>What ingredients do you need?</td></tr><tr><td class='px-4 py-2 font-bold'>Recipe</td><td class='px-4 py-2'>(n) /ˈresəpi/</td><td class='px-4 py-2'>Công thức nấu ăn</td><td class='px-4 py-2'>Follow the recipe carefully.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Vietnamese dishes (Món ăn Việt Nam):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>phở:</strong> phở</li><li><strong>bánh mì:</strong> bánh mì</li><li><strong>spring rolls:</strong> nem/chả giò</li><li><strong>rice noodles:</strong> bún</li><li><strong>sticky rice:</strong> xôi</li></ul><p><strong>Countable nouns (Danh từ đếm được):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>an apple, apples:</strong> táo</li><li><strong>an egg, eggs:</strong> trứng</li><li><strong>a banana, bananas:</strong> chuối</li><li><strong>a tomato, tomatoes:</strong> cà chua</li><li><strong>an orange, oranges:</strong> cam</li></ul><p><strong>Uncountable nouns (Danh từ không đếm được):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>rice:</strong> cơm/gạo</li><li><strong>bread:</strong> bánh mì</li><li><strong>meat:</strong> thịt</li><li><strong>fish:</strong> cá</li><li><strong>water:</strong> nước</li><li><strong>milk:</strong> sữa</li><li><strong>sugar:</strong> đường</li><li><strong>salt:</strong> muối</li></ul><p><strong>Verbs related to cooking:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>cook:</strong> nấu</li><li><strong>boil:</strong> luộc</li><li><strong>fry:</strong> chiên</li><li><strong>grill:</strong> nướng</li><li><strong>steam:</strong> hấp</li><li><strong>mix:</strong> trộn</li><li><strong>cut:</strong> cắt</li><li><strong>add:</strong> thêm</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /ɒ/ and /ɔː/</h3><p><strong>1. Sound /ɒ/ (âm ngắn):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Mở miệng rộng, âm ngắn</li><li><strong>Examples:</strong></li><li>hot /hɒt/</li><li>pot /pɒt/</li><li>shop /ʃɒp/</li><li>bottle /ˈbɒtl/</li></ul><p><strong>2. Sound /ɔː/ (âm dài):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Mở miệng vừa, môi tròn, âm dài</li><li><strong>Examples:</strong></p><li>water /ˈwɔːtə(r)/</li><li>salt /sɔːlt/</li><li>pork /pɔːk/</li><li>sauce /sɔːs/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>Quantifiers: some, a lot of/lots of</h3><p><strong>1. Some (một vài, một ít):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dùng với danh từ đếm được số nhiều và danh từ không đếm được</li><li>Thường dùng trong câu khẳng định và lời mời</li><li><strong>Với danh từ đếm được:</strong></li><li>Ex: I have <strong>some</strong> apples.</li><li>Ex: There are <strong>some</strong> eggs in the fridge.</li><li><strong>Với danh từ không đếm được:</strong></li><li>Ex: I need <strong>some</strong> water.</li><li>Ex: Would you like <strong>some</strong> tea? (lời mời)</li></ul><p><strong>2. A lot of / Lots of (nhiều):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dùng với danh từ đếm được số nhiều và danh từ không đếm được</li><li>Dùng trong câu khẳng định, phủ định, và nghi vấn</li><li>A lot of = Lots of (không có sự khác biệt)</li><li><strong>Với danh từ đếm được:</strong></li><li>Ex: She has <strong>a lot of</strong> friends.</li><li>Ex: There are <strong>lots of</strong> vegetables.</li><li><strong>Với danh từ không đếm được:</strong></li><li>Ex: I drink <strong>a lot of</strong> water.</li><li>Ex: He eats <strong>lots of</strong> rice.</li></ul><p><strong>3. Any (một vài, một ít):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dùng trong câu phủ định và nghi vấn</li><li>Ex: I don't have <strong>any</strong> apples.</li><li>Ex: Do you have <strong>any</strong> water?</li></ul><p><strong>4. Much và Many:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Much:</strong> dùng với danh từ không đếm được (câu phủ định và nghi vấn)</li><li>Ex: I don't have <strong>much</strong> time.</li><li>Ex: How <strong>much</strong> water do you need?</li><li><strong>Many:</strong> dùng với danh từ đếm được số nhiều (câu phủ định và nghi vấn)</li><li>Ex: I don't have <strong>many</strong> friends.</li><li>Ex: How <strong>many</strong> apples do you want?</li></ul><p><strong>5. How much và How many:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>How much + N không đếm được:</strong> hỏi về số lượng</li><li>Ex: <strong>How much</strong> rice do you need?</li><li><strong>How many + N đếm được số nhiều:</strong> hỏi về số lượng</li><li>Ex: <strong>How many</strong> eggs do you need?</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Vietnamese food - Món ăn Việt Nam</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về món ăn</li><li>Giới thiệu món ăn Việt Nam</li><li>Nói về nguyên liệu</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Food and drink</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về thức ăn</li><li>Học từ vựng về đồ uống</li></ul><p><strong>B. Pronunciation: /ɒ/ and /ɔː/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /ɒ/ và /ɔː/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Quantifiers</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách dùng some, a lot of/lots of</li><li>Học cách dùng much, many, any</li><li>Luyện tập hỏi về số lượng</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Ordering food and drink</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What would you like?</li><li>I'd like...</li><li>How much is it?</li><li>Can I have...?</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Vietnamese cuisine</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về ẩm thực Việt Nam</li><li>Tìm thông tin chi tiết</li></ul><p><strong>Speaking: Discussing favourite food</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về món ăn yêu thích</li><li>Mô tả món ăn</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: A recipe</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về công thức nấu ăn</li><li>Ghi chú nguyên liệu</li></ul><p><strong>Writing: A recipe for a dish</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết công thức nấu ăn</li><li>Sử dụng quantifiers</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Food and drink</li><li><strong>Pronunciation:</strong> /ɒ/ and /ɔː/</li><li><strong>Grammar:</strong> Quantifiers</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> My favourite Vietnamese dish</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một món ăn Việt Nam</li><li>Viết công thức nấu ăn</li><li>Sử dụng hình ảnh minh họa</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Sử dụng some",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Some + N đếm được số nhiều / N không đếm được</li><li>Dùng trong câu khẳng định và lời mời</li></ul>",
+            "examples": [
+              {
+                "question": "I have ______ apples.",
+                "solution": "I have <strong>some</strong> apples.",
+                "explanation": "Câu khẳng định + N đếm được → some."
+              },
+              {
+                "question": "Would you like ______ tea?",
+                "solution": "Would you like <strong>some</strong> tea?",
+                "explanation": "Lời mời + N không đếm được → some."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Sử dụng a lot of/lots of",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>A lot of/Lots of + N đếm được số nhiều / N không đếm được</li><li>Dùng trong câu khẳng định, phủ định, nghi vấn</li></ul>",
+            "examples": [
+              {
+                "question": "She has ______ friends.",
+                "solution": "She has <strong>a lot of</strong> friends.",
+                "explanation": "N đếm được số nhiều → a lot of."
+              },
+              {
+                "question": "I drink ______ water.",
+                "solution": "I drink <strong>a lot of</strong> water.",
+                "explanation": "N không đếm được → a lot of."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Phân biệt much và many",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Much + N không đếm được (phủ định, nghi vấn)</li><li>Many + N đếm được số nhiều (phủ định, nghi vấn)</li></ul>",
+            "examples": [
+              {
+                "question": "I don't have ______ time.",
+                "solution": "I don't have <strong>much</strong> time.",
+                "explanation": "N không đếm được + phủ định → much."
+              },
+              {
+                "question": "How ______ apples do you want?",
+                "solution": "How <strong>many</strong> apples do you want?",
+                "explanation": "N đếm được + nghi vấn → many."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: How much và How many",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>How much + N không đếm được</li><li>How many + N đếm được số nhiều</li></ul>",
+            "examples": [
+              {
+                "question": "______ rice do you need?",
+                "solution": "<strong>How much</strong> rice do you need?",
+                "explanation": "Rice (không đếm được) → How much."
+              },
+              {
+                "question": "______ eggs do you need?",
+                "solution": "<strong>How many</strong> eggs do you need?",
+                "explanation": "Eggs (đếm được) → How many."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I have ______ apples.",
+            "options": ["some", "any", "much", "many"],
+            "correct": 0,
+            "explanation": "Câu khẳng định + N đếm được → some."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "She has ______ friends.",
+            "options": ["some", "a lot of", "much", "any"],
+            "correct": 1,
+            "explanation": "Nhiều + N đếm được → a lot of."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I drink ______ water every day.",
+            "options": ["some", "a lot of", "many", "few"],
+            "correct": 1,
+            "explanation": "Nhiều + N không đếm được → a lot of."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I don't have ______ time.",
+            "options": ["some", "many", "much", "a lot of"],
+            "correct": 2,
+            "explanation": "Phủ định + N không đếm được → much."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "______ rice do you need?",
+            "options": ["How much", "How many", "How some", "How a lot"],
+            "correct": 0,
+            "explanation": "Rice (không đếm được) → How much."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ eggs do you need?",
+            "options": ["How much", "How many", "How some", "How a lot"],
+            "correct": 1,
+            "explanation": "Eggs (đếm được) → How many."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "Would you like ______ tea?",
+            "options": ["some", "any", "much", "many"],
+            "correct": 0,
+            "explanation": "Lời mời → some."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "There are ______ vegetables in the fridge.",
+            "options": ["some", "lots of", "much", "a and b"],
+            "correct": 3,
+            "explanation": "Cả some và lots of đều đúng với N đếm được."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I don't have ______ apples.",
+            "options": ["some", "any", "much", "a lot"],
+            "correct": 1,
+            "explanation": "Phủ định → any."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "He eats ______ rice.",
+            "options": ["some", "lots of", "many", "a and b"],
+            "correct": 3,
+            "explanation": "Cả some và lots of đều đúng với N không đếm được."
+          }
+        ]
+      }
+    }
+  ]
+}

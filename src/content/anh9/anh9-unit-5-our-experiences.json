@@ -1,0 +1,309 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-unit-5-our-experiences",
+      "name": "Unit 5: Our Experiences",
+      "slug": "unit-5-our-experiences",
+      "chapter": "Unit 5: Our Experiences",
+      "chapter_id": "A9",
+      "lesson_id": 5,
+      "description": "Learn about experiences with present perfect tense.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-5",
+          "name": "Experiences Vocabulary",
+          "slug": "experiences-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 5: Our Experiences",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Experiences:</strong> experience, adventure, journey, trip, travel, visit, explore, discover, try, taste, enjoy</p><p><strong>Activities:</strong> climb, hike, camp, swim, dive, surf, ski, skydive, bungee jump, ride, drive</p><p><strong>Places:</strong> mountain, beach, forest, desert, island, cave, waterfall, temple, museum, market</p><p><strong>Feelings:</strong> exciting, amazing, wonderful, fantastic, incredible, unforgettable, memorable, scary, challenging, rewarding</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng",
+              "content": "<p>Practice using vocabulary in context about travel experiences, adventures, and memorable moments.</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>Present Perfect Tense (Thì hiện tại hoàn thành)</h3><p><strong>A. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + have/has + V3/ed</li><li>Ex: I <strong>have visited</strong> Paris.</li><li>Ex: She <strong>has eaten</strong> sushi.</li><li><strong>Phủ định:</strong> S + have/has + not + V3/ed</li><li>Ex: I <strong>haven't been</strong> to Japan.</li><li><strong>Nghi vấn:</strong> Have/Has + S + V3/ed?</li><li>Ex: <strong>Have you ever tried</strong> skydiving?</li></ul><p><strong>B. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>1. Kinh nghiệm, trải nghiệm (đã từng)</strong></li><li>Ex: I <strong>have been</strong> to London. (Tôi đã từng đến London)</li><li>Ex: She <strong>has never eaten</strong> Thai food.</li><li><strong>2. Hành động vừa mới xảy ra</strong></li><li>Ex: I <strong>have just finished</strong> my homework.</li><li><strong>3. Hành động bắt đầu trong quá khứ, kéo dài đến hiện tại</strong></li><li>Ex: I <strong>have lived</strong> here for 5 years.</li><li><strong>4. Hành động đã hoàn thành, nhưng thời gian chưa kết thúc</strong></li><li>Ex: I <strong>have read</strong> 3 books this month.</li></ul><p><strong>C. Dấu hiệu nhận biết:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>ever</strong> (đã từng) - dùng trong câu hỏi</li><li>Ex: Have you <strong>ever</strong> been to Paris?</li><li><strong>never</strong> (chưa bao giờ) - dùng trong câu phủ định</li><li>Ex: I have <strong>never</strong> seen a ghost.</li><li><strong>just</strong> (vừa mới)</li><li>Ex: I have <strong>just</strong> arrived.</li><li><strong>already</strong> (đã...rồi)</li><li>Ex: I have <strong>already</strong> done it.</li><li><strong>yet</strong> (chưa) - dùng cuối câu phủ định/nghi vấn</li><li>Ex: I haven't finished <strong>yet</strong>.</li><li><strong>for</strong> + khoảng thời gian (for 3 years)</li><li><strong>since</strong> + mốc thời gian (since 2020)</li><li><strong>so far, up to now, recently, lately</strong></li></ul><p><strong>D. So sánh Present Perfect vs Past Simple:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Present Perfect:</strong> Không có thời gian cụ thể</li><li>Ex: I <strong>have visited</strong> Paris. (không rõ khi nào)</li><li><strong>Past Simple:</strong> Có thời gian cụ thể</li><li>Ex: I <strong>visited</strong> Paris last year. (thời gian cụ thể)</li></ul>"
+            },
+            {
+              "heading": "4-11. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Present Perfect - Kinh nghiệm với Ever/Never",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Have/Has + S + ever + V3?</li><li>S + have/has + never + V3</li><li>Diễn tả kinh nghiệm</li></ul>",
+            "examples": [
+              {
+                "question": "______ you ever ______ (be) to Paris?",
+                "solution": "<strong>Have</strong> you ever <strong>been</strong> to Paris?",
+                "explanation": "Have + ever + V3 (kinh nghiệm)"
+              },
+              {
+                "question": "I ______ never ______ (eat) sushi.",
+                "solution": "I <strong>have never eaten</strong> sushi.",
+                "explanation": "have + never + V3"
+              },
+              {
+                "question": "She ______ never ______ (see) the ocean.",
+                "solution": "She <strong>has never seen</strong> the ocean.",
+                "explanation": "has + never + V3"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Present Perfect với Just/Already/Yet",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>just: vừa mới (giữa have/has và V3)</li><li>already: đã...rồi (giữa have/has và V3)</li><li>yet: chưa (cuối câu phủ định/nghi vấn)</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ just ______ (finish) my homework.",
+                "solution": "I <strong>have just finished</strong> my homework.",
+                "explanation": "have + just + V3 (vừa mới)"
+              },
+              {
+                "question": "She ______ already ______ (leave).",
+                "solution": "She <strong>has already left</strong>.",
+                "explanation": "has + already + V3 (đã...rồi)"
+              },
+              {
+                "question": "I ______ (not finish) yet.",
+                "solution": "I <strong>haven't finished</strong> yet.",
+                "explanation": "haven't + V3 + yet (chưa)"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Present Perfect với For/Since",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>for + khoảng thời gian (for 3 years)</li><li>since + mốc thời gian (since 2020)</li><li>Hành động kéo dài đến hiện tại</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (live) here for 5 years.",
+                "solution": "I <strong>have lived</strong> here for 5 years.",
+                "explanation": "have + V3 + for + khoảng thời gian"
+              },
+              {
+                "question": "She ______ (work) here since 2020.",
+                "solution": "She <strong>has worked</strong> here since 2020.",
+                "explanation": "has + V3 + since + mốc thời gian"
+              },
+              {
+                "question": "They ______ (be) friends for 10 years.",
+                "solution": "They <strong>have been</strong> friends for 10 years.",
+                "explanation": "have + been + for"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Present Perfect vs Past Simple",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Present Perfect: không có thời gian cụ thể</li><li>Past Simple: có thời gian cụ thể (yesterday, last year, ago)</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (visit) Paris. (không rõ khi nào)",
+                "solution": "I <strong>have visited</strong> Paris.",
+                "explanation": "Không có thời gian cụ thể → present perfect"
+              },
+              {
+                "question": "I ______ (visit) Paris last year. (thời gian cụ thể)",
+                "solution": "I <strong>visited</strong> Paris last year.",
+                "explanation": "Có thời gian cụ thể (last year) → past simple"
+              },
+              {
+                "question": "She ______ (eat) sushi before. / She ______ (eat) sushi yesterday.",
+                "solution": "She <strong>has eaten</strong> sushi before. / She <strong>ate</strong> sushi yesterday.",
+                "explanation": "before (không cụ thể) → present perfect; yesterday (cụ thể) → past simple"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ you ever been to Paris?",
+            "options": ["Do", "Did", "Have", "Has"],
+            "correct": 2,
+            "explanation": "Have + ever + V3 (kinh nghiệm)"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "I ______ never eaten sushi.",
+            "options": ["do", "did", "have", "has"],
+            "correct": 2,
+            "explanation": "have + never + V3"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "She ______ never seen the ocean.",
+            "options": ["do", "did", "have", "has"],
+            "correct": 3,
+            "explanation": "has + never + V3"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I have ______ finished my homework.",
+            "options": ["just", "yet", "ago", "yesterday"],
+            "correct": 0,
+            "explanation": "just = vừa mới (giữa have và V3)"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She has ______ left.",
+            "options": ["just", "already", "yet", "ago"],
+            "correct": 1,
+            "explanation": "already = đã...rồi"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "I haven't finished ______.",
+            "options": ["just", "already", "yet", "ago"],
+            "correct": 2,
+            "explanation": "yet = chưa (cuối câu phủ định)"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "I ______ here for 5 years.",
+            "options": ["live", "lived", "have lived", "has lived"],
+            "correct": 2,
+            "explanation": "have + V3 + for + khoảng thời gian"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "She ______ here since 2020.",
+            "options": ["work", "worked", "have worked", "has worked"],
+            "correct": 3,
+            "explanation": "has + V3 + since + mốc thời gian"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I ______ Paris. (không rõ khi nào)",
+            "options": ["visit", "visited", "have visited", "has visited"],
+            "correct": 2,
+            "explanation": "Không có thời gian cụ thể → present perfect"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "I ______ Paris last year.",
+            "options": ["visit", "visited", "have visited", "has visited"],
+            "correct": 1,
+            "explanation": "Có thời gian cụ thể (last year) → past simple"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which sentences use present perfect correctly? (Select all that apply)",
+            "options": ["I have visited Paris.", "She has never eaten sushi.", "I have visited Paris yesterday.", "They have lived here for 5 years."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: have visited, has never eaten, have lived for. Sai: have visited yesterday (phải dùng past simple với 'yesterday')"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which words are used with present perfect? (Select all that apply)",
+            "options": ["ever", "never", "yesterday", "just"],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: ever, never, just. Sai: yesterday (dùng với past simple)"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which indicate duration with present perfect? (Select all that apply)",
+            "options": ["for 3 years", "since 2020", "yesterday", "ago"],
+            "correct": [0, 1],
+            "explanation": "Đúng: for + khoảng thời gian, since + mốc thời gian. Sai: yesterday, ago (dùng với past simple)"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: ______ you ever ______ (be) to Paris?",
+            "correct": "Have, been",
+            "explanation": "Have + ever + V3"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: I ______ just ______ (finish) my homework.",
+            "correct": "have just finished / have, finished",
+            "explanation": "have + just + V3"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Fill in: I ______ (live) here ______ 5 years.",
+            "correct": "have lived, for",
+            "explanation": "have + V3 + for + khoảng thời gian"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Fill in: She ______ (work) here ______ 2020.",
+            "correct": "has worked, since",
+            "explanation": "has + V3 + since + mốc thời gian"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: you / Have / ever / been / to / Paris / ? / never / I / have / eaten / sushi / .",
+            "sample_answer": "Have you ever been to Paris? I have never eaten sushi.",
+            "explanation": "Sắp xếp: Have + S + ever + V3? S + have + never + V3."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: I went to Paris. (không rõ khi nào) → I ______.",
+            "sample_answer": "I have been to Paris. / I have visited Paris.",
+            "explanation": "Biến đổi: Không có thời gian cụ thể → present perfect"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Transform: I started living here 5 years ago. I still live here. → I ______.",
+            "sample_answer": "I have lived here for 5 years.",
+            "explanation": "Biến đổi: Hành động kéo dài đến hiện tại → present perfect + for"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange: just / I / have / finished / homework / my / . / lived / have / I / here / for / 5 years / .",
+            "sample_answer": "I have just finished my homework. I have lived here for 5 years.",
+            "explanation": "Sắp xếp: have + just + V3; have + V3 + for"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Transform and compare: I visited Paris. (last year) vs I visited Paris. (không rõ khi nào) - Rewrite both sentences correctly",
+            "sample_answer": "I visited Paris last year. (Past Simple) I have visited Paris. (Present Perfect)",
+            "explanation": "Biến đổi: Có thời gian cụ thể → past simple; Không có thời gian cụ thể → present perfect"
+          }
+        ]
+      }
+    }
+  ]
+}

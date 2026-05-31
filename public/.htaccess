@@ -1,0 +1,27 @@
+RewriteEngine On
+RewriteBase /
+RewriteBase /app/
+
+# Force HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# React SPA Routes
+# Rewrite /blog/* and /courses/* to their index files if file implies a sub-path
+# Actually, since Astro builds folders like blog/index.html, we just need to ensure sub-paths load that file.
+
+# Handle Blog SPA
+RewriteRule ^blog/(.*)$ /blog/index.html [L]
+
+# Handle Courses SPA (NEW)
+RewriteRule ^courses/(.*)$ /courses/index.html [L]
+
+# Handle specific static files
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+RewriteRule . /app/index.html [L]
+
+# Fallback? Astro is mostly Multi-Page App (MPA) with some SPA islands.
+# So we generally don't want a catch-all rewrite to root index.html unless it's a true SPA.
+# The specific rules for blog and courses above are safer.

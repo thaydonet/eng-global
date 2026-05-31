@@ -1,0 +1,214 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-7-p1",
+  "name": "Part 1: Getting Started",
+  "slug": "p1-getting-started",
+  "description": "Giới thiệu chủ đề về truyền thông đại chúng",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Getting Started: Mass Media in Modern Life",
+      "sections": [
+        {
+          "heading": "1. Tóm tắt lý thuyết",
+          "content": "<div class='bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-900/20 dark:to-blue-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-indigo-900 dark:text-indigo-300'>📰 Phương tiện truyền thông đại chúng - Mass Media</h3><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-indigo-700 dark:text-indigo-400 mb-3'>Khái niệm chính:</h4><ul class='list-disc pl-6 space-y-2'><li><strong>Mass Media:</strong> Phương tiện truyền thông đại chúng - các kênh truyền thông tiếp cận số lượng lớn người</li><li><strong>Print Media:</strong> Báo in, tạp chí, sách</li><li><strong>Broadcast Media:</strong> TV, radio</li><li><strong>Digital Media:</strong> Website, mạng xã hội, blog</li><li><strong>Social Media:</strong> Facebook, Twitter, Instagram, TikTok</li></ul></div><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-blue-700 dark:text-blue-400 mb-3'>Vai trò của truyền thông:</h4><ol class='list-decimal pl-6 space-y-1'><li>Cung cấp thông tin và tin tức</li><li>Giáo dục và nâng cao nhận thức</li><li>Giải trí</li><li>Ảnh hưởng đến dư luận</li><li>Kết nối mọi người</li></ol></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ về Mass Media trong cuộc sống",
+          "content": "<div class='space-y-4'><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg border-l-4 border-blue-500'><p class='font-bold text-blue-800 dark:text-blue-300 mb-3'>Example 1: Social Media Influence</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Social media has become so influential that it shapes how people think and behave. Platforms like Facebook and Instagram have billions of users who share news, opinions, and personal updates. Information spreads so quickly on social media that a story can reach millions within hours. However, this rapid spread means fake news can go viral just as fast as accurate information.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Mạng xã hội đã trở nên ảnh hưởng đến mức nó định hình cách mọi người suy nghĩ và hành động. Các nền tảng như Facebook và Instagram có hàng tỷ người dùng chia sẻ tin tức, ý kiến và cập nhật cá nhân. Thông tin lan truyền nhanh đến mức một câu chuyện có thể tiếp cận hàng triệu người trong vài giờ. Tuy nhiên, sự lan truyền nhanh này có nghĩa là tin giả có thể lan nhanh như thông tin chính xác.</p></div></div><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg border-l-4 border-green-500'><p class='font-bold text-green-800 dark:text-green-300 mb-3'>Example 2: Traditional vs Digital News</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Traditional newspapers and TV news still exist, but digital media has changed how people consume news. Many people now get their news from online sources because digital media is so convenient that they can access it anytime, anywhere. Journalists report news as if they are providing objective facts, but media bias exists in both traditional and digital platforms.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Báo in và tin tức TV truyền thống vẫn tồn tại, nhưng truyền thông kỹ thuật số đã thay đổi cách mọi người tiêu thụ tin tức. Nhiều người giờ lấy tin từ nguồn trực tuyến vì truyền thông kỹ thuật số tiện lợi đến mức họ có thể truy cập bất cứ lúc nào, ở đâu. Nhà báo đưa tin như thể họ đang cung cấp sự thật khách quan, nhưng thiên kiến truyền thông tồn tại ở cả nền tảng truyền thống và kỹ thuật số.</p></div></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg border-l-4 border-purple-500'><p class='font-bold text-purple-800 dark:text-purple-300 mb-3'>Example 3: The Power of Viral Content</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> A video or post can become so popular that it goes viral, reaching millions of people worldwide. Content creators and influencers have such large followings that they can shape trends and consumer behavior. The video was so entertaining that everyone shared it with their friends. This viral nature of content has made social media such a powerful marketing tool that companies invest billions in digital advertising.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Một video hoặc bài đăng có thể trở nên phổ biến đến mức nó lan truyền, tiếp cận hàng triệu người trên toàn thế giới. Người tạo nội dung và influencer có lượng người theo dõi lớn đến mức họ có thể định hình xu hướng và hành vi tiêu dùng. Video giải trí đến mức mọi người đều chia sẻ với bạn bè. Bản chất lan truyền của nội dung đã làm cho mạng xã hội trở thành công cụ marketing mạnh mẽ đến mức các công ty đầu tư hàng tỷ vào quảng cáo kỹ thuật số.</p></div></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg border-l-4 border-orange-500'><p class='font-bold text-orange-800 dark:text-orange-300 mb-3'>Example 4: Fake News Challenge</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Fake news has become such a serious problem that it threatens democracy and public trust. Some people share false information as if it were verified fact, without checking sources. Misinformation spreads so rapidly that millions can see it before fact-checkers identify it as false. We should not believe everything we read as though it were automatically true. Instead, we need to verify information from multiple reliable sources.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Tin giả đã trở thành vấn đề nghiêm trọng đến mức nó đe dọa dân chủ và niềm tin công chúng. Một số người chia sẻ thông tin sai như thể nó là sự thật đã được xác minh, mà không kiểm tra nguồn. Thông tin sai lệch lan nhanh đến mức hàng triệu người có thể thấy nó trước khi người kiểm tra sự thật xác định nó là sai. Chúng ta không nên tin mọi thứ đọc được như thể nó tự động đúng. Thay vào đó, chúng ta cần xác minh thông tin từ nhiều nguồn đáng tin cậy.</p></div></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg border-l-4 border-pink-500'><p class='font-bold text-pink-800 dark:text-pink-300 mb-3'>Example 5: Media Literacy</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Media literacy is so important that schools are teaching students how to critically evaluate information. The media's influence is so strong that it can shape public opinion and even affect elections. Young people spend so much time on social media that it affects their mental health and relationships. Therefore, we must develop critical thinking skills and learn to distinguish between reliable and unreliable sources. The way we consume media today is completely different from how our parents did.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Hiểu biết về truyền thông quan trọng đến mức các trường học đang dạy học sinh cách đánh giá thông tin một cách phản biện. Ảnh hưởng của truyền thông mạnh đến mức nó có thể định hình dư luận và thậm chí ảnh hưởng đến bầu cử. Giới trẻ dành nhiều thời gian trên mạng xã hội đến mức nó ảnh hưởng đến sức khỏe tinh thần và các mối quan hệ của họ. Do đó, chúng ta phải phát triển kỹ năng tư duy phản biện và học cách phân biệt giữa nguồn đáng tin cậy và không đáng tin cậy. Cách chúng ta tiêu thụ truyền thông ngày nay hoàn toàn khác với cách cha mẹ chúng ta đã làm.</p></div></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p1-ex1",
+        "type": "mcq",
+        "question": "What is 'mass media'?",
+        "options": ["A type of food", "Communication channels reaching large audiences", "A sport", "A building"],
+        "correct": 1,
+        "explanation": "Mass media là các kênh truyền thông tiếp cận số lượng lớn người."
+      },
+      {
+        "id": "p1-ex2",
+        "type": "mcq",
+        "question": "Which is an example of print media?",
+        "options": ["Facebook", "Newspaper", "TV", "Radio"],
+        "correct": 1,
+        "explanation": "Newspaper (báo in) là ví dụ của print media."
+      },
+      {
+        "id": "p1-ex3",
+        "type": "mcq",
+        "question": "What does 'go viral' mean?",
+        "options": ["Get sick", "Spread rapidly online", "Disappear", "Be deleted"],
+        "correct": 1,
+        "explanation": "'Go viral' nghĩa là lan truyền nhanh trên mạng."
+      },
+      {
+        "id": "p1-ex4",
+        "type": "mcq",
+        "question": "What is 'fake news'?",
+        "options": ["Real information", "False information", "Entertainment", "Advertising"],
+        "correct": 1,
+        "explanation": "Fake news là thông tin sai, tin giả."
+      },
+      {
+        "id": "p1-ex5",
+        "type": "mcq",
+        "question": "Which is a social media platform?",
+        "options": ["Newspaper", "Instagram", "Radio", "Magazine"],
+        "correct": 1,
+        "explanation": "Instagram là nền tảng mạng xã hội."
+      },
+      {
+        "id": "p1-ex6",
+        "type": "mcq",
+        "question": "What is 'media literacy'?",
+        "options": ["Reading newspapers", "Ability to critically evaluate information", "Watching TV", "Using social media"],
+        "correct": 1,
+        "explanation": "Media literacy là khả năng đánh giá thông tin một cách phản biện."
+      },
+      {
+        "id": "p1-ex7",
+        "type": "mcq",
+        "question": "What does 'broadcast' mean?",
+        "options": ["Write", "Transmit by TV or radio", "Read", "Delete"],
+        "correct": 1,
+        "explanation": "'Broadcast' nghĩa là phát sóng qua TV hoặc radio."
+      },
+      {
+        "id": "p1-ex8",
+        "type": "mcq",
+        "question": "What is 'bias' in media?",
+        "options": ["Objectivity", "Prejudice or favoritism", "Accuracy", "Truth"],
+        "correct": 1,
+        "explanation": "Bias là thiên kiến hoặc thiên vị trong truyền thông."
+      },
+      {
+        "id": "p1-ex9",
+        "type": "mcq",
+        "question": "Which is broadcast media?",
+        "options": ["Book", "Magazine", "Television", "Website"],
+        "correct": 2,
+        "explanation": "Television (TV) là broadcast media."
+      },
+      {
+        "id": "p1-ex10",
+        "type": "mcq",
+        "question": "What should we do with information online?",
+        "options": ["Believe everything", "Verify from reliable sources", "Ignore it all", "Share without checking"],
+        "correct": 1,
+        "explanation": "Chúng ta nên xác minh thông tin từ các nguồn đáng tin cậy."
+      },
+      {
+        "id": "p1-ex11",
+        "type": "msq",
+        "question_text": "Decide if these statements are True or False:",
+        "options": [
+          "Social media can spread information quickly.",
+          "All news online is fake.",
+          "Media literacy is important.",
+          "We should believe everything we read."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Mạng xã hội lan thông tin nhanh. b) False - Không phải tất cả tin đều giả. c) True - Hiểu biết truyền thông quan trọng. d) False - Không nên tin mọi thứ."
+      },
+      {
+        "id": "p1-ex12",
+        "type": "msq",
+        "question_text": "Mark True or False about mass media:",
+        "options": [
+          "Mass media includes TV, radio, and newspapers.",
+          "Digital media is not part of mass media.",
+          "Fake news is a problem.",
+          "Media has no influence on people."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Mass media bao gồm TV, radio, báo. b) False - Digital media là một phần. c) True - Tin giả là vấn đề. d) False - Truyền thông có ảnh hưởng lớn."
+      },
+      {
+        "id": "p1-ex13",
+        "type": "msq",
+        "question_text": "Based on the examples, decide True or False:",
+        "options": [
+          "Content can go viral on social media.",
+          "Traditional media has completely disappeared.",
+          "We should verify information from multiple sources.",
+          "Media bias doesn't exist."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Nội dung có thể lan truyền. b) False - Truyền thông truyền thống vẫn tồn tại. c) True - Nên xác minh từ nhiều nguồn. d) False - Thiên kiến truyền thông tồn tại."
+      },
+      {
+        "id": "p1-ex14",
+        "type": "sa",
+        "question_text": "Complete: Information spreads so _____ on social media. (quickly/slowly)",
+        "correct": "quickly",
+        "explanation": "Thông tin lan nhanh (quickly) trên mạng xã hội."
+      },
+      {
+        "id": "p1-ex15",
+        "type": "sa",
+        "question_text": "Complete: _____ news is false information. (Fake/Real)",
+        "correct": "Fake",
+        "explanation": "Fake news là thông tin sai, tin giả."
+      },
+      {
+        "id": "p1-ex16",
+        "type": "sa",
+        "question_text": "What is the Vietnamese meaning of 'broadcast'?",
+        "correct": "phát sóng",
+        "explanation": "'Broadcast' nghĩa là phát sóng."
+      },
+      {
+        "id": "p1-ex17",
+        "type": "sa",
+        "question_text": "Complete: Facebook and Instagram are _____ media platforms. (social/print)",
+        "correct": "social",
+        "explanation": "Facebook và Instagram là nền tảng mạng xã hội (social media)."
+      },
+      {
+        "id": "p1-ex18",
+        "type": "mcq",
+        "question": "What role does mass media play?",
+        "options": [
+          "Only entertainment",
+          "Providing information, education, and influencing opinion",
+          "Nothing important",
+          "Only advertising"
+        ],
+        "correct": 1,
+        "explanation": "Truyền thông đại chúng cung cấp thông tin, giáo dục và ảnh hưởng dư luận."
+      },
+      {
+        "id": "p1-ex19",
+        "type": "mcq",
+        "question": "According to Example 5, why is media literacy important?",
+        "options": [
+          "It's not important",
+          "To critically evaluate information and distinguish reliable sources",
+          "To watch more TV",
+          "To use more social media"
+        ],
+        "correct": 1,
+        "explanation": "Media literacy quan trọng để đánh giá thông tin và phân biệt nguồn đáng tin."
+      },
+      {
+        "id": "p1-ex20",
+        "type": "mcq",
+        "question": "What is the main challenge with rapid information spread?",
+        "options": [
+          "Information is too slow",
+          "Fake news can spread as fast as real news",
+          "Nobody reads news",
+          "There's no information"
+        ],
+        "correct": 1,
+        "explanation": "Thách thức chính là tin giả có thể lan nhanh như tin thật."
+      }
+    ]
+  }
+}

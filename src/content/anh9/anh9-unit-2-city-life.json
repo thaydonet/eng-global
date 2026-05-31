@@ -1,0 +1,309 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-unit-2-city-life",
+      "name": "Unit 2: City Life",
+      "slug": "unit-2-city-life",
+      "chapter": "Unit 2: City Life",
+      "chapter_id": "A9",
+      "lesson_id": 2,
+      "description": "Learn about city life with double comparatives and phrasal verbs.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-2",
+          "name": "City Life Vocabulary",
+          "slug": "city-life-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 2: City Life",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>City features:</strong> skyscraper, building, traffic, public transport, metro, subway, bus, taxi, shopping mall, entertainment, facilities, infrastructure</p><p><strong>City problems:</strong> pollution, noise, traffic jam, crowded, expensive, stressful, crime, poverty</p><p><strong>City advantages:</strong> convenient, modern, developed, opportunity, job, education, healthcare, entertainment</p><p><strong>Adjectives:</strong> busy, crowded, noisy, polluted, expensive, modern, convenient, exciting, stressful, fast-paced</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng",
+              "content": "<p>Practice using vocabulary in context about city life, urban problems, and city advantages.</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Double Comparatives (So sánh kép)</h3><p><strong>Cấu trúc:</strong> The + comparative + S + V, the + comparative + S + V</p><p><strong>Nghĩa:</strong> Càng... càng...</p><p><strong>1. Với tính từ/trạng từ ngắn:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The + adj/adv-er + S + V, the + adj/adv-er + S + V</li><li>Ex: The <strong>bigger</strong> the city is, the <strong>more crowded</strong> it is.</li><li>Ex: The <strong>faster</strong> you drive, the <strong>more dangerous</strong> it is.</li></ul><p><strong>2. Với tính từ/trạng từ dài:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The more + adj/adv + S + V, the more + adj/adv + S + V</li><li>Ex: The <strong>more expensive</strong> the city is, the <strong>more difficult</strong> life is.</li></ul><p><strong>3. Kết hợp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The + adj-er + S + V, the more + adj + S + V</li><li>Ex: The <strong>older</strong> I get, the <strong>more experienced</strong> I become.</li></ul><p><strong>4. Với danh từ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The more + N + S + V, the more + N + S + V</li><li>Ex: The <strong>more money</strong> you have, the <strong>more problems</strong> you face.</li></ul><h3>B. Phrasal Verbs (Cụm động từ)</h3><p><strong>Common phrasal verbs:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>get around:</strong> đi lại, di chuyển</li><li><strong>grow up:</strong> lớn lên</li><li><strong>come back:</strong> quay lại</li><li><strong>go on:</strong> tiếp tục</li><li><strong>take off:</strong> cất cánh (máy bay)</li><li><strong>put on:</strong> mặc vào</li><li><strong>take over:</strong> tiếp quản</li><li><strong>deal with:</strong> giải quyết</li><li><strong>run out of:</strong> hết, cạn kiệt</li><li><strong>keep up with:</strong> theo kịp</li></ul>"
+            },
+            {
+              "heading": "4-11. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Double Comparatives - Tính từ ngắn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The + adj-er + S + V, the + adj-er + S + V</li><li>Tính từ ngắn: 1-2 âm tiết</li></ul>",
+            "examples": [
+              {
+                "question": "The city is big. It is crowded. → The ______ the city is, the ______ it is.",
+                "solution": "The <strong>bigger</strong> the city is, the <strong>more crowded</strong> it is.",
+                "explanation": "big → bigger; crowded (dài) → more crowded"
+              },
+              {
+                "question": "You drive fast. It is dangerous. → The ______ you drive, the ______ it is.",
+                "solution": "The <strong>faster</strong> you drive, the <strong>more dangerous</strong> it is.",
+                "explanation": "fast → faster; dangerous (dài) → more dangerous"
+              },
+              {
+                "question": "The weather is hot. I feel tired. → The ______ the weather is, the ______ I feel.",
+                "solution": "The <strong>hotter</strong> the weather is, the <strong>more tired</strong> I feel.",
+                "explanation": "hot → hotter (nhân đôi phụ âm); tired (dài) → more tired"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Double Comparatives - Tính từ dài",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The more + adj + S + V, the more + adj + S + V</li><li>Tính từ dài: 3+ âm tiết</li></ul>",
+            "examples": [
+              {
+                "question": "The city is expensive. Life is difficult. → The ______ the city is, the ______ life is.",
+                "solution": "The <strong>more expensive</strong> the city is, the <strong>more difficult</strong> life is.",
+                "explanation": "expensive → more expensive; difficult → more difficult"
+              },
+              {
+                "question": "You are careful. You make fewer mistakes. → The ______ you are, the ______ mistakes you make.",
+                "solution": "The <strong>more careful</strong> you are, the <strong>fewer</strong> mistakes you make.",
+                "explanation": "careful → more careful; few → fewer"
+              },
+              {
+                "question": "It is polluted. It is unhealthy. → The ______ it is, the ______ it is.",
+                "solution": "The <strong>more polluted</strong> it is, the <strong>more unhealthy</strong> it is.",
+                "explanation": "polluted → more polluted; unhealthy → more unhealthy"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Phrasal Verbs - Meaning",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học thuộc nghĩa của phrasal verbs</li><li>Chọn phrasal verb phù hợp với ngữ cảnh</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ in Hanoi. (lớn lên)",
+                "solution": "I <strong>grew up</strong> in Hanoi.",
+                "explanation": "grow up = lớn lên"
+              },
+              {
+                "question": "It's easy to ______ in this city. (đi lại)",
+                "solution": "It's easy to <strong>get around</strong> in this city.",
+                "explanation": "get around = đi lại, di chuyển"
+              },
+              {
+                "question": "We need to ______ this problem. (giải quyết)",
+                "solution": "We need to <strong>deal with</strong> this problem.",
+                "explanation": "deal with = giải quyết"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Kết hợp Double Comparatives và Phrasal Verbs",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng cả so sánh kép và phrasal verbs</li><li>Chú ý ngữ cảnh câu</li></ul>",
+            "examples": [
+              {
+                "question": "The city grows. It is harder to ______. (get around)",
+                "solution": "The <strong>more</strong> the city <strong>grows</strong>, the <strong>harder</strong> it is to <strong>get around</strong>.",
+                "explanation": "So sánh kép + phrasal verb 'get around'"
+              },
+              {
+                "question": "You ______ problems. You become stronger. (deal with)",
+                "solution": "The <strong>more</strong> problems you <strong>deal with</strong>, the <strong>stronger</strong> you become.",
+                "explanation": "So sánh kép + phrasal verb 'deal with'"
+              },
+              {
+                "question": "The city is big. It's difficult to ______ changes. (keep up with)",
+                "solution": "The <strong>bigger</strong> the city is, the <strong>more difficult</strong> it is to <strong>keep up with</strong> changes.",
+                "explanation": "So sánh kép + phrasal verb 'keep up with'"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "The bigger the city is, the ______ it is.",
+            "options": ["crowded", "more crowded", "most crowded", "crowdeder"],
+            "correct": 1,
+            "explanation": "crowded (dài) → more crowded"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The ______ you drive, the more dangerous it is.",
+            "options": ["fast", "faster", "fastest", "more fast"],
+            "correct": 1,
+            "explanation": "fast → faster"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "The more expensive the city is, the ______ life is.",
+            "options": ["difficult", "more difficult", "most difficult", "difficulter"],
+            "correct": 1,
+            "explanation": "difficult (dài) → more difficult"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "The ______ the weather is, the more tired I feel.",
+            "options": ["hot", "hotter", "hottest", "more hot"],
+            "correct": 1,
+            "explanation": "hot → hotter (nhân đôi phụ âm)"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "I ______ in Hanoi.",
+            "options": ["grew up", "grew down", "grow up", "growing up"],
+            "correct": 0,
+            "explanation": "grow up = lớn lên (quá khứ: grew up)"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "It's easy to ______ in this city.",
+            "options": ["get around", "get up", "get on", "get off"],
+            "correct": 0,
+            "explanation": "get around = đi lại, di chuyển"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "We need to ______ this problem.",
+            "options": ["deal with", "deal in", "deal on", "deal at"],
+            "correct": 0,
+            "explanation": "deal with = giải quyết"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "The older I get, the ______ I become.",
+            "options": ["experience", "experienced", "more experienced", "most experienced"],
+            "correct": 2,
+            "explanation": "experienced (dài) → more experienced"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "We are ______ time.",
+            "options": ["running out of", "running in", "running on", "running at"],
+            "correct": 0,
+            "explanation": "run out of = hết, cạn kiệt"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "It's hard to ______ the changes.",
+            "options": ["keep up with", "keep on", "keep in", "keep at"],
+            "correct": 0,
+            "explanation": "keep up with = theo kịp"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which are correct double comparatives? (Select all that apply)",
+            "options": ["The bigger, the better.", "The more expensive, the more difficult.", "The faster, the dangerouser.", "The hotter, the more tired."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: bigger/better, more expensive/more difficult, hotter/more tired. Sai: dangerouser (phải là 'more dangerous')"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which phrasal verbs mean 'đi lại' or 'di chuyển'? (Select all that apply)",
+            "options": ["get around", "grow up", "come back", "go on"],
+            "correct": [0],
+            "explanation": "get around = đi lại. grow up = lớn lên; come back = quay lại; go on = tiếp tục"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which sentences are correct? (Select all that apply)",
+            "options": ["The bigger the city, the more crowded it is.", "The more fast you drive, the dangerous it is.", "The older I get, the wiser I become.", "The more money, the more problems."],
+            "correct": [0, 2, 3],
+            "explanation": "Đúng: bigger/more crowded, older/wiser, more money/more problems. Sai: more fast (phải là 'faster'), the dangerous (thiếu 'more')"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: The ______ (big) the city is, the ______ (crowded) it is.",
+            "correct": "bigger, more crowded",
+            "explanation": "big → bigger; crowded → more crowded"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: The ______ (expensive) the city is, the ______ (difficult) life is.",
+            "correct": "more expensive, more difficult",
+            "explanation": "expensive → more expensive; difficult → more difficult"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Fill in phrasal verb: I ______ (lớn lên) in Hanoi.",
+            "correct": "grew up",
+            "explanation": "grow up = lớn lên (quá khứ: grew up)"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Fill in phrasal verb: We need to ______ (giải quyết) this problem.",
+            "correct": "deal with",
+            "explanation": "deal with = giải quyết"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: bigger / The / city / the / is / , / more / the / crowded / is / it / .",
+            "sample_answer": "The bigger the city is, the more crowded it is.",
+            "explanation": "Sắp xếp: The + comparative + S + V, the + comparative + S + V"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: The city is big. It is crowded. → The ______, the ______.",
+            "sample_answer": "The bigger the city is, the more crowded it is.",
+            "explanation": "Biến đổi: big → bigger; crowded → more crowded"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Transform: You drive fast. It is dangerous. → The ______, the ______.",
+            "sample_answer": "The faster you drive, the more dangerous it is.",
+            "explanation": "Biến đổi: fast → faster; dangerous → more dangerous"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange with phrasal verb: up / I / grew / in / Hanoi / . / around / easy / It's / get / to / in / city / this / .",
+            "sample_answer": "I grew up in Hanoi. It's easy to get around in this city.",
+            "explanation": "Sắp xếp: grew up (lớn lên), get around (đi lại)"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Transform and combine: The city grows. It is harder to get around. (Use double comparative)",
+            "sample_answer": "The more the city grows, the harder it is to get around.",
+            "explanation": "Biến đổi: grows → more...grows; harder → harder. Kết hợp với phrasal verb 'get around'"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "anh12-unit-2-p6",
+  "name": "Part 6: Listening - Cultural Communication",
+  "content": {
+    "theory": {
+      "title": "Listening Skills: Understanding Cultural Communication",
+      "sections": [
+        {
+          "heading": "1. Listening Strategies",
+          "content": "<div class='bg-gradient-to-r from-amber-50 to-yellow-50 dark:from-amber-900/20 dark:to-yellow-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-amber-900 dark:text-amber-300'>🎧 Listening Skills</h3><div class='space-y-3'><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold'>Predicting content</h4><p class='text-sm'>Dự đoán nội dung trước khi nghe</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold'>Listening for main ideas</h4><p class='text-sm'>Nghe để nắm ý chính</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold'>Listening for specific information</h4><p class='text-sm'>Nghe để tìm thông tin cụ thể</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold'>Note-taking</h4><p class='text-sm'>Ghi chú trong khi nghe</p></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ Listening Topics",
+          "content": "<div class='space-y-4'><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 1: Communication Distance</p><p>In the Middle East, people stand about 20 centimeters apart during conversation, while in North America, the average distance is 45 centimeters.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-2'>Ở Trung Đông, mọi người đứng cách nhau khoảng 20 cm khi trò chuyện, trong khi ở Bắc Mỹ là 45 cm.</p></div><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 2: Silence in Communication</p><p>In some parts of East Asia, silences in conversation are considered positive, showing respect and thoughtfulness.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-2'>Ở một số khu vực Đông Á, im lặng trong cuộc trò chuyện được coi là tích cực.</p></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 3: Sensitive Topics</p><p>In some countries, it's acceptable to ask about someone's salary, but in many Western countries, this is considered rude and personal.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-2'>Ở một số quốc gia, việc hỏi về lương là chấp nhận được, nhưng ở nhiều nước phương Tây thì không.</p></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 4: Cultural Laws</p><p>In the Philippines, you can be arrested for singing karaoke late at night because it disturbs the peace.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-2'>Ở Philippines, bạn có thể bị bắt vì hát karaoke muộn vào ban đêm.</p></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 5: Successful Communication</p><p>To have successful communication across cultures, we need to be aware of others' rules of conversation and show respect for their customs.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-2'>Để có giao tiếp thành công giữa các nền văn hóa, chúng ta cần nhận thức về quy tắc trò chuyện của người khác.</p></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p6-ex1",
+        "type": "mcq",
+        "question": "What is the average conversation distance in North America?",
+        "options": ["20 cm", "30 cm", "45 cm", "60 cm"],
+        "correct": 2,
+        "explanation": "Khoảng cách trung bình ở Bắc Mỹ là 45 cm."
+      },
+      {
+        "id": "p6-ex2",
+        "type": "mcq",
+        "question": "In East Asia, silence in conversation shows:",
+        "options": ["Rudeness", "Respect and thoughtfulness", "Anger", "Confusion"],
+        "correct": 1,
+        "explanation": "Im lặng thể hiện sự tôn trọng và suy nghĩ."
+      },
+      {
+        "id": "p6-ex3",
+        "type": "mcq",
+        "question": "What is important for successful cross-cultural communication?",
+        "options": ["Speaking loudly", "Being aware of cultural rules", "Avoiding eye contact", "Staying silent"],
+        "correct": 1,
+        "explanation": "Nhận thức về quy tắc văn hóa là quan trọng."
+      }
+    ]
+  }
+}

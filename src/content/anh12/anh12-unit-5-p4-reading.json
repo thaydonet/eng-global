@@ -1,0 +1,245 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-5-p4",
+  "name": "Part 4: Reading",
+  "slug": "p4-reading",
+  "description": "Đọc hiểu về lập kế hoạch nghề nghiệp và tìm việc",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Reading: Career Planning and Job Hunting",
+      "sections": [
+        {
+          "heading": "Reading Skills",
+          "content": "<p><strong>Chủ đề:</strong> Career planning and job hunting</p><p><strong>Kỹ năng đọc hiểu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Skimming:</strong> Đọc lướt để nắm ý chính</li><li><strong>Scanning:</strong> Tìm thông tin cụ thể</li><li><strong>Guessing meaning from context:</strong> Đoán nghĩa từ ngữ cảnh</li><li><strong>Identifying main ideas:</strong> Xác định ý chính của đoạn văn</li><li><strong>Understanding references:</strong> Hiểu các từ thay thế (it, they, this, that)</li></ul><p><strong>Nội dung bài đọc về:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Career planning:</strong> Lập kế hoạch nghề nghiệp</li><li><strong>Job search strategies:</strong> Chiến lược tìm việc</li><li><strong>CV and cover letter:</strong> Sơ yếu lý lịch và thư xin việc</li><li><strong>Interview preparation:</strong> Chuẩn bị phỏng vấn</li><li><strong>Skills employers want:</strong> Kỹ năng nhà tuyển dụng cần</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "reading-ex1",
+        "type": "reading",
+        "passage": "Career Planning: Your Path to Success\n\nChoosing the right career is one of the most important decisions you will make in your life. A well-planned career can bring not only financial security but also personal satisfaction and a sense of purpose. However, many young people struggle with career planning because they don't know where to start.\n\nThe first step in career planning is self-assessment. You need to understand your interests, skills, values, and personality. What subjects do you enjoy? What are you good at? What kind of work environment suits you? These questions will help you identify careers that match your profile. For example, if you enjoy working with people and have good communication skills, you might consider careers in teaching, sales, or human resources.\n\nThe second step is research. Once you have identified potential careers, you need to learn more about them. What qualifications do you need? What is the job market like? What are the salary expectations? You can find this information through career websites, talking to professionals in the field, or doing internships. The more you know about a career, the better prepared you will be.\n\nThe third step is setting goals and making a plan. Where do you want to be in five or ten years? What steps do you need to take to get there? Your plan should include education and training requirements, work experience you need to gain, and skills you need to develop. Remember that career planning is not a one-time activity. As you grow and change, your career goals may also change, so you should review and update your plan regularly.\n\nFinally, take action. Apply for internships, volunteer in your field of interest, network with professionals, and never stop learning. The more proactive you are, the more opportunities you will create for yourself. With careful planning and hard work, you can build a successful and fulfilling career.",
+        "questions": [
+          {
+            "id": "r1-q1",
+            "question": "What is the main idea of the passage?",
+            "options": [
+              "Career planning is impossible",
+              "Career planning is important and involves several steps",
+              "Everyone should be a teacher",
+              "Money is the only important thing"
+            ],
+            "correct": 1,
+            "explanation": "Bài đọc nói về tầm quan trọng và các bước lập kế hoạch nghề nghiệp."
+          },
+          {
+            "id": "r1-q2",
+            "question": "What is the first step in career planning?",
+            "options": [
+              "Apply for jobs",
+              "Self-assessment",
+              "Write a CV",
+              "Attend interviews"
+            ],
+            "correct": 1,
+            "explanation": "Bước đầu tiên là tự đánh giá (self-assessment)."
+          },
+          {
+            "id": "r1-q3",
+            "question": "What does 'proactive' in the last paragraph mean?",
+            "options": [
+              "Lazy",
+              "Taking initiative and action",
+              "Waiting for others",
+              "Passive"
+            ],
+            "correct": 1,
+            "explanation": "'Proactive' nghĩa là chủ động, tích cực hành động."
+          },
+          {
+            "id": "r1-q4",
+            "question": "According to the passage, what should you do during the research step?",
+            "options": [
+              "Ignore information",
+              "Learn about qualifications, job market, and salary",
+              "Only read books",
+              "Do nothing"
+            ],
+            "correct": 1,
+            "explanation": "Cần tìm hiểu về bằng cấp, thị trường việc làm và lương."
+          },
+          {
+            "id": "r1-q5",
+            "question": "Why should you review your career plan regularly?",
+            "options": [
+              "Because it's boring",
+              "Because your goals may change as you grow",
+              "Because you have nothing else to do",
+              "Because it's required by law"
+            ],
+            "correct": 1,
+            "explanation": "Mục tiêu có thể thay đổi khi bạn trưởng thành."
+          }
+        ]
+      },
+      {
+        "id": "reading-ex2",
+        "type": "reading",
+        "passage": "The Art of Job Hunting in the Digital Age\n\nFinding a job in today's competitive market requires more than just sending out CVs and waiting for responses. Job hunting has evolved significantly with the rise of digital technology, and job seekers need to adapt their strategies to succeed.\n\nIn the past, people found jobs mainly through newspaper advertisements or personal connections. Today, the internet has transformed the job search process. Online job boards like LinkedIn, Indeed, and Glassdoor have become essential tools for job seekers. These platforms allow you to search for jobs by location, industry, and salary range. Moreover, many companies now prefer to receive applications online rather than through traditional mail.\n\nYour online presence is crucial in modern job hunting. Employers often search for candidates on social media and professional networking sites. Therefore, it's important to maintain a professional online profile. Your LinkedIn profile should be complete and up-to-date, highlighting your skills, experience, and achievements. Be careful about what you post on social media, as inappropriate content can harm your chances of getting hired.\n\nNetworking remains one of the most effective ways to find a job. Many positions are filled through referrals before they are even advertised publicly. Attend industry events, join professional associations, and connect with people in your field. Don't be afraid to reach out to professionals for informational interviews. These conversations can provide valuable insights and may lead to job opportunities.\n\nWhen applying for jobs, customize your CV and cover letter for each position. Generic applications rarely succeed. Research the company and the role, and explain specifically why you are a good fit. Use keywords from the job description in your application, as many companies use applicant tracking systems (ATS) that scan for relevant terms.\n\nFinally, prepare thoroughly for interviews. Research the company, practice common interview questions, and prepare questions to ask the interviewer. Dress professionally, arrive on time, and follow up with a thank-you email after the interview. Remember that job hunting is a skill that improves with practice. Don't get discouraged by rejections – each application and interview is a learning opportunity that brings you closer to your ideal job.",
+        "questions": [
+          {
+            "id": "r2-q1",
+            "question": "How has job hunting changed according to the passage?",
+            "options": [
+              "It hasn't changed",
+              "It has become digital and online",
+              "It's now easier",
+              "It's now impossible"
+            ],
+            "correct": 1,
+            "explanation": "Tìm việc đã chuyển sang kỹ thuật số và trực tuyến."
+          },
+          {
+            "id": "r2-q2",
+            "question": "What are LinkedIn, Indeed, and Glassdoor?",
+            "options": [
+              "Social media for fun",
+              "Online job boards",
+              "Shopping websites",
+              "News websites"
+            ],
+            "correct": 1,
+            "explanation": "Đây là các trang web tìm việc trực tuyến."
+          },
+          {
+            "id": "r2-q3",
+            "question": "Why is your online presence important?",
+            "options": [
+              "It's not important",
+              "Employers search for candidates online",
+              "To play games",
+              "To waste time"
+            ],
+            "correct": 1,
+            "explanation": "Nhà tuyển dụng tìm kiếm ứng viên trực tuyến."
+          },
+          {
+            "id": "r2-q4",
+            "question": "What does 'referrals' mean in the passage?",
+            "options": [
+              "Rejections",
+              "Recommendations from people you know",
+              "Advertisements",
+              "Salaries"
+            ],
+            "correct": 1,
+            "explanation": "'Referrals' là sự giới thiệu từ người quen."
+          },
+          {
+            "id": "r2-q5",
+            "question": "What should you do when applying for jobs?",
+            "options": [
+              "Send the same CV to everyone",
+              "Customize your CV and cover letter for each position",
+              "Don't research the company",
+              "Use very long sentences"
+            ],
+            "correct": 1,
+            "explanation": "Nên tùy chỉnh CV và thư xin việc cho từng vị trí."
+          }
+        ]
+      },
+      {
+        "id": "mcq1",
+        "type": "mcq",
+        "question": "What does 'self-assessment' mean?",
+        "options": ["Ignoring yourself", "Evaluating your own skills and interests", "Asking others", "Doing nothing"],
+        "correct": 1,
+        "explanation": "Self-assessment là tự đánh giá kỹ năng và sở thích."
+      },
+      {
+        "id": "mcq2",
+        "type": "mcq",
+        "question": "The word 'customize' in the passage means:",
+        "options": ["Copy", "Adapt to specific needs", "Delete", "Ignore"],
+        "correct": 1,
+        "explanation": "'Customize' nghĩa là tùy chỉnh theo nhu cầu cụ thể."
+      },
+      {
+        "id": "mcq3",
+        "type": "mcq",
+        "question": "What is 'networking'?",
+        "options": ["Playing games", "Building professional relationships", "Sleeping", "Eating"],
+        "correct": 1,
+        "explanation": "Networking là xây dựng mối quan hệ nghề nghiệp."
+      },
+      {
+        "id": "mcq4",
+        "type": "mcq",
+        "question": "According to the passages, what is important for career success?",
+        "options": ["Only luck", "Planning, research, and action", "Doing nothing", "Complaining"],
+        "correct": 1,
+        "explanation": "Cần lập kế hoạch, nghiên cứu và hành động."
+      },
+      {
+        "id": "mcq5",
+        "type": "mcq",
+        "question": "What should you do after an interview?",
+        "options": ["Forget about it", "Send a thank-you email", "Complain", "Do nothing"],
+        "correct": 1,
+        "explanation": "Nên gửi email cảm ơn sau phỏng vấn."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Based on the passages, decide True or False:",
+        "options": [
+          "Career planning involves self-assessment and research.",
+          "You should never update your career plan.",
+          "Online presence is important for job hunting.",
+          "Generic CVs work best for all jobs."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Lập kế hoạch nghề nghiệp cần tự đánh giá và nghiên cứu. b) False - Nên cập nhật kế hoạch thường xuyên. c) True - Hình ảnh trực tuyến quan trọng. d) False - Nên tùy chỉnh CV cho từng công việc."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True or False about job hunting:",
+        "options": [
+          "Networking can help you find jobs.",
+          "Social media doesn't matter for job hunting.",
+          "You should research companies before applying.",
+          "Rejections mean you should give up."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Networking giúp tìm việc. b) False - Mạng xã hội quan trọng. c) True - Nên nghiên cứu công ty trước khi nộp đơn. d) False - Không nên bỏ cuộc khi bị từ chối."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: The first step in career planning is _____. (one word)",
+        "correct": "self-assessment",
+        "explanation": "Self-assessment - tự đánh giá."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "What is the Vietnamese meaning of 'proactive'?",
+        "correct": "chủ động",
+        "explanation": "Proactive nghĩa là chủ động, tích cực."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: You should _____ your CV for each job. (customize/copy)",
+        "correct": "customize",
+        "explanation": "Customize - tùy chỉnh CV cho từng công việc."
+      }
+    ]
+  }
+}

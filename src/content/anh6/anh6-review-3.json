@@ -1,0 +1,442 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-review-3",
+      "name": "Review 3 (Units 7 - 9)",
+      "slug": "review-3-units-7-8-9",
+      "chapter": "Review 3",
+      "chapter_id": "A6",
+      "lesson_id": 10,
+      "description": "Consolidation of vocabulary and grammar from Units 7, 8, and 9.",
+      "duration_minutes": 60,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-3-mixed",
+          "name": "Mixed Review",
+          "slug": "mixed-review",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 3: Units 7-9",
+          "sections": [
+            {
+              "heading": "I. Language - Ôn tập ngôn ngữ",
+              "content": "<h3>A. Pronunciation (Phát âm)</h3><p><strong>Unit 7:</strong> Sounds /θ/ and /ð/</p><ul class='list-disc pl-5 space-y-2'><li><strong>/θ/:</strong> theatre, think, three, both</li><li><strong>/ð/:</strong> there, this, that, weather</li></ul><p><strong>Unit 8:</strong> Sounds /e/ and /æ/</p><ul class='list-disc pl-5 space-y-2'><li><strong>/e/:</strong> tennis, chess, exercise, get</li><li><strong>/æ/:</strong> badminton, match, racket, active</li></ul><p><strong>Unit 9:</strong> Sounds /əʊ/ and /aʊ/</p><ul class='list-disc pl-5 space-y-2'><li><strong>/əʊ/:</strong> Rome, Tokyo, old, cold</li><li><strong>/aʊ/:</strong> tower, crowded, house, town</li></ul><h3>B. Vocabulary (Từ vựng)</h3><p><strong>Unit 7: Television</strong></p><ul class='list-disc pl-5 space-y-2'><li>TV programmes: cartoon, news, game show, comedy, documentary, sports programme</li><li>People on TV: viewer, MC, comedian, newsreader, weatherman/weathergirl</li><li>TV equipment: television, remote control, screen, channel</li><li>Adjectives: interesting, boring, exciting, funny, educational, entertaining</li></ul><p><strong>Unit 8: Sports and Games</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sports: football, basketball, volleyball, badminton, tennis, swimming, cycling, running</li><li>Equipment: ball, racket, bat, net, goal, bicycle, skateboard</li><li>Verbs: play, go, do, win, lose, score, kick, throw, catch, hit</li><li>Places: stadium, gym, swimming pool, sports centre, playground</li></ul><p><strong>Unit 9: Cities of the World</strong></p><ul class='list-disc pl-5 space-y-2'><li>Places: city, capital, country, continent, tower, bridge, palace, statue, landmark</li><li>Famous cities: London, Paris, New York, Tokyo, Sydney, Rome</li><li>Famous landmarks: Big Ben, Eiffel Tower, Statue of Liberty, Sydney Opera House</li><li>Adjectives: famous, exciting, crowded, busy, peaceful, modern, ancient</li></ul><h3>C. Grammar (Ngữ pháp)</h3><p><strong>Unit 7: Wh-questions</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Question words:</strong> What, Where, When, Who, Why, How, Which</li><li><strong>Structure:</strong> Wh-word + do/does + S + V? / Wh-word + is/are + S?</li><li>Ex: <strong>What do</strong> you watch? / <strong>When is</strong> the programme?</li></ul><p><strong>Unit 7: Conjunctions</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>and:</strong> và (nối hai ý tương đương)</li><li><strong>but:</strong> nhưng (nối hai ý đối lập)</li><li><strong>or:</strong> hoặc (nối hai lựa chọn)</li><li><strong>so:</strong> vì vậy (chỉ kết quả)</li><li><strong>because:</strong> bởi vì (chỉ nguyên nhân)</li><li><strong>although:</strong> mặc dù (chỉ sự nhượng bộ)</li></ul><p><strong>Unit 8: Past Simple</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Regular verbs:</strong> V + ed (played, watched, studied)</li><li><strong>Irregular verbs:</strong> go→went, win→won, have→had</li><li><strong>Negative:</strong> S + didn't + V</li><li><strong>Question:</strong> Did + S + V?</li><li><strong>Time expressions:</strong> yesterday, last week, ago, in 2020</li></ul><p><strong>Unit 8: Imperatives</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Positive:</strong> V (Run faster!)</li><li><strong>Negative:</strong> Don't + V (Don't run!)</li><li><strong>Polite:</strong> Please + V (Please sit down.)</li></ul><p><strong>Unit 9: Possessive Adjectives and Pronouns</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Possessive Adjectives:</strong> my, your, his, her, its, our, their + noun</li><li>Ex: This is <strong>my</strong> city.</li><li><strong>Possessive Pronouns:</strong> mine, yours, his, hers, ours, theirs (đứng một mình)</li><li>Ex: This city is <strong>mine</strong>.</li></ul>"
+            },
+            {
+              "heading": "II. Skills - Ôn tập kỹ năng",
+              "content": "<h3>A. Reading (Đọc hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc lướt để nắm ý chính (skimming)</li><li>Đọc kỹ để tìm thông tin chi tiết (scanning)</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li><li>Hiểu ý chính của đoạn văn</li><li>Xác định thông tin đúng/sai</li><li>Trả lời câu hỏi về bài đọc</li></ul><p><strong>Chủ đề đã đọc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>TV programmes and viewing habits</li><li>Sports and games</li><li>Famous cities and landmarks</li></ul><h3>B. Speaking (Nói)</h3><p><strong>Chủ đề đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Talking about TV programmes</li><li>Discussing sports and games</li><li>Describing cities and landmarks</li><li>Asking and answering Wh-questions</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What do you watch on TV?</li><li>I like... because... / I don't like... but...</li><li>Did you watch the match? / Who won?</li><li>What sport do you play?</li><li>What's your favourite city?</li><li>My city is... / Mine is...</li></ul><h3>C. Listening (Nghe hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe để nắm ý chính</li><li>Nghe để tìm thông tin cụ thể</li><li>Điền thông tin còn thiếu (gap-filling)</li><li>Trả lời câu hỏi chi tiết</li><li>Hiểu mô tả và hướng dẫn</li></ul><p><strong>Chủ đề đã nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>TV schedules and programmes</li><li>Sports events and matches</li><li>Travel guides about cities</li></ul><h3>D. Writing (Viết)</h3><p><strong>Dạng bài đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Writing about TV habits</li><li>Writing about sports events</li><li>Writing postcards from cities</li></ul><p><strong>Kỹ năng viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tổ chức bài viết: Introduction - Body - Conclusion</li><li>Sử dụng Wh-questions để đặt câu hỏi</li><li>Sử dụng conjunctions để nối câu</li><li>Sử dụng Past Simple để kể về quá khứ</li><li>Sử dụng imperatives để ra lệnh, hướng dẫn</li><li>Sử dụng possessive adjectives/pronouns để chỉ sở hữu</li><li>Viết câu rõ ràng và mạch lạc</li></ul><p><strong>Cấu trúc bài viết mẫu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Introduction:</strong> Giới thiệu chủ đề (1-2 câu)</li><li><strong>Body:</strong> Trình bày chi tiết (3-5 câu)</li><li><strong>Conclusion:</strong> Kết luận (1 câu)</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Mixed Exercise",
+            "method": "<p>Review all grammar points and vocabulary from Units 7-9.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "My name is Tom and I love watching television. My favourite programme is a game show called 'Who Wants to Win?'. It's on Channel 5 every Saturday evening. I like it because it's very exciting and educational. The MC is very funny and the questions are interesting.\n\nI also like watching sports programmes, but my sister doesn't. She prefers cartoons and comedies. Yesterday, we watched a football match together. Our team won 3-1. It was amazing! After the match, we watched a comedy. Although it was late, we enjoyed it very much.\n\nI don't like news programmes because they are boring. My parents watch the news every evening, but I usually do my homework or play games during that time.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is Tom's favourite programme?",
+                "options": [
+                  "A cartoon",
+                  "A game show",
+                  "A sports programme",
+                  "The news"
+                ],
+                "correct": 1,
+                "explanation": "Tom's favourite programme is a game show called 'Who Wants to Win?'."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "When is the game show on TV?",
+                "options": [
+                  "Every day",
+                  "Every Saturday evening",
+                  "Every Sunday",
+                  "Every Friday"
+                ],
+                "correct": 1,
+                "explanation": "The game show is on every Saturday evening."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "Why does Tom like the game show?",
+                "options": [
+                  "Because it's boring",
+                  "Because it's short",
+                  "Because it's exciting and educational",
+                  "Because his sister likes it"
+                ],
+                "correct": 2,
+                "explanation": "Tom likes it because it's very exciting and educational."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What did Tom and his sister watch yesterday?",
+                "options": [
+                  "Only a football match",
+                  "Only a comedy",
+                  "A football match and a comedy",
+                  "The news"
+                ],
+                "correct": 2,
+                "explanation": "They watched a football match and then a comedy."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "What does Tom do when his parents watch the news?",
+                "options": [
+                  "He watches with them",
+                  "He goes to bed",
+                  "He does homework or plays games",
+                  "He watches cartoons"
+                ],
+                "correct": 2,
+                "explanation": "Tom usually does his homework or plays games during that time."
+              }
+            ]
+          },
+          {
+            "id": "reading2",
+            "type": "reading",
+            "passage": "Last weekend, I went to London with my family. London is the capital of England and it's one of the most famous cities in the world. We visited many interesting places.\n\nOn Saturday, we saw Big Ben and the Tower Bridge. Big Ben is a famous clock tower and it's very tall. The Tower Bridge is beautiful, especially at night. We took many photos there. My favourite place was Buckingham Palace. It's where the Queen lives. The palace is very big and beautiful.\n\nOn Sunday, we went to a sports centre. I played football with my brother. He is very good at football, so his team won. Although I lost, I enjoyed the game very much. After that, we went shopping. My mother bought some souvenirs. Mine was a small model of Big Ben.\n\nLondon is an exciting city. I want to visit it again.",
+            "questions": [
+              {
+                "id": "reading2-q1",
+                "question": "Where did the writer go last weekend?",
+                "options": [
+                  "Paris",
+                  "New York",
+                  "London",
+                  "Tokyo"
+                ],
+                "correct": 2,
+                "explanation": "The writer went to London last weekend."
+              },
+              {
+                "id": "reading2-q2",
+                "question": "What is Big Ben?",
+                "options": [
+                  "A bridge",
+                  "A palace",
+                  "A clock tower",
+                  "A sports centre"
+                ],
+                "correct": 2,
+                "explanation": "Big Ben is a famous clock tower."
+              },
+              {
+                "id": "reading2-q3",
+                "question": "What is the writer's favourite place?",
+                "options": [
+                  "Big Ben",
+                  "Tower Bridge",
+                  "Buckingham Palace",
+                  "The sports centre"
+                ],
+                "correct": 2,
+                "explanation": "The writer's favourite place was Buckingham Palace."
+              },
+              {
+                "id": "reading2-q4",
+                "question": "What did the writer do on Sunday?",
+                "options": [
+                  "Visited Big Ben",
+                  "Played football and went shopping",
+                  "Visited the Queen",
+                  "Took photos at Tower Bridge"
+                ],
+                "correct": 1,
+                "explanation": "On Sunday, the writer played football and went shopping."
+              },
+              {
+                "id": "reading2-q5",
+                "question": "What souvenir did the writer buy?",
+                "options": [
+                  "A photo of the Queen",
+                  "A model of Tower Bridge",
+                  "A model of Big Ben",
+                  "A football"
+                ],
+                "correct": 2,
+                "explanation": "The writer bought a small model of Big Ben."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ do you watch on TV?",
+            "options": ["What", "Where", "When", "Who"],
+            "correct": 0,
+            "explanation": "Hỏi về vật (chương trình) → dùng 'What'."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "I like cartoons ______ comedies.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 0,
+            "explanation": "Nối hai ý tương đương → dùng 'and'."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I like this show ______ it's funny.",
+            "options": ["because", "although", "but", "so"],
+            "correct": 0,
+            "explanation": "Chỉ nguyên nhân → dùng 'because'."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I ______ football yesterday.",
+            "options": ["play", "played", "plays", "playing"],
+            "correct": 1,
+            "explanation": "Có 'yesterday' → Past Simple. Play + ed → played."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She ______ swimming last week.",
+            "options": ["go", "goes", "went", "going"],
+            "correct": 2,
+            "explanation": "Có 'last week' → Past Simple. Go (bất quy tắc) → went."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ you watch the match?",
+            "options": ["Do", "Does", "Did", "Are"],
+            "correct": 2,
+            "explanation": "Câu hỏi ở quá khứ đơn: Did + S + V?"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ faster!",
+            "options": ["Run", "Runs", "Running", "To run"],
+            "correct": 0,
+            "explanation": "Câu mệnh lệnh: V (nguyên mẫu)."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "______ play in the street!",
+            "options": ["Not", "Don't", "Doesn't", "Didn't"],
+            "correct": 1,
+            "explanation": "Câu mệnh lệnh phủ định: Don't + V."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "This is ______ city.",
+            "options": ["I", "my", "mine", "me"],
+            "correct": 1,
+            "explanation": "Tính từ sở hữu đứng trước danh từ → my."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "This city is ______.",
+            "options": ["I", "my", "mine", "me"],
+            "correct": 2,
+            "explanation": "Đại từ sở hữu đứng một mình → mine."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "______ country is beautiful.",
+            "options": ["She", "Her", "Hers", "She's"],
+            "correct": 1,
+            "explanation": "Tính từ sở hữu đứng trước danh từ → Her."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "That book is ______.",
+            "options": ["you", "your", "yours", "you're"],
+            "correct": 2,
+            "explanation": "Đại từ sở hữu đứng một mình → yours."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "The programme is boring, ______ I don't watch it.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 3,
+            "explanation": "Chỉ kết quả → dùng 'so'."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "______ the film is long, it's interesting.",
+            "options": ["Because", "Although", "But", "So"],
+            "correct": 1,
+            "explanation": "Chỉ sự nhượng bộ → dùng 'Although'."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "I ______ play football yesterday.",
+            "options": ["don't", "doesn't", "didn't", "not"],
+            "correct": 2,
+            "explanation": "Phủ định ở quá khứ đơn: didn't + V."
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "I ______ football every day.",
+            "options": ["play", "go", "do", "make"],
+            "correct": 0,
+            "explanation": "Football là ball sport → dùng 'play'."
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "She ______ swimming on Sundays.",
+            "options": ["plays", "goes", "does", "makes"],
+            "correct": 1,
+            "explanation": "Swimming là -ing sport → dùng 'go'."
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "______ is your favourite MC?",
+            "options": ["What", "Where", "When", "Who"],
+            "correct": 3,
+            "explanation": "Hỏi về người → dùng 'Who'."
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "London is famous ______ Big Ben.",
+            "options": ["for", "with", "of", "at"],
+            "correct": 0,
+            "explanation": "Famous for: nổi tiếng về..."
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "Our team ______ the match yesterday.",
+            "options": ["win", "wins", "won", "winning"],
+            "correct": 2,
+            "explanation": "Có 'yesterday' → Past Simple. Win (bất quy tắc) → won."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Wh-questions are used to ask for information.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Câu hỏi Wh- dùng để hỏi thông tin."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "'Because' is used to show result.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. 'Because' chỉ nguyên nhân, 'so' chỉ kết quả."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Past Simple is used for actions that happened in the past.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Thì quá khứ đơn dùng cho hành động đã xảy ra trong quá khứ."
+          },
+          {
+            "id": "msq4",
+            "type": "msq",
+            "question_text": "Imperatives always use 'please'.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. 'Please' làm câu mệnh lệnh lịch sự hơn nhưng không bắt buộc."
+          },
+          {
+            "id": "msq5",
+            "type": "msq",
+            "question_text": "Possessive pronouns stand alone without a noun.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Đại từ sở hữu đứng một mình, không cần danh từ theo sau."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What question word do we use to ask about time? (one word)",
+            "correct": "When",
+            "explanation": "When: dùng để hỏi về thời gian."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "What is the past form of 'go'? (one word)",
+            "correct": "went",
+            "explanation": "Go (bất quy tắc) → went."
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question_text": "Complete: This is ______ book. (I - possessive adjective)",
+            "correct": "my",
+            "explanation": "I → my (tính từ sở hữu)."
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question_text": "What conjunction means 'although' in English? (one word)",
+            "correct": "although",
+            "explanation": "Although: mặc dù (chỉ sự nhượng bộ)."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question_text": "Write a short paragraph (50-70 words) about your TV habits. Use Wh-questions and conjunctions.",
+            "sample_answer": "I love watching television. My favourite programme is a game show because it's very exciting. I watch TV every evening after dinner. I usually watch cartoons and comedies, but I don't like news programmes. My brother likes sports programmes, so we sometimes watch football matches together. Although we have different tastes, we enjoy watching TV together. What do you like watching on TV?",
+            "explanation": "Bài viết sử dụng: Wh-questions (What do you like watching?), Conjunctions (because, but, so, although), Present Simple tense."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question_text": "Write a short paragraph (50-70 words) about a sports event you watched or played. Use Past Simple and imperatives.",
+            "sample_answer": "Last Saturday, I played football with my friends at the sports centre. Our team played very well. I scored two goals and we won 4-2. It was amazing! My coach said, 'Run faster! Pass the ball!' We followed his instructions. After the match, he said, 'Well done! Don't give up!' I was very happy. Although I was tired, I enjoyed the game very much. I want to play again next weekend.",
+            "explanation": "Bài viết sử dụng: Past Simple (played, scored, won, was, said, followed, enjoyed), Imperatives (Run faster! Pass the ball! Don't give up!), Conjunctions (Although)."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question_text": "Write a short paragraph (50-70 words) about your favourite city. Use possessive adjectives and pronouns.",
+            "sample_answer": "My favourite city is Paris. It's the capital of France. Paris is famous for the Eiffel Tower. My dream is to visit it one day. My sister's favourite city is London, but mine is Paris. I think Paris is more beautiful than other cities. Its landmarks are amazing. My parents visited Paris last year. Their photos are wonderful. I hope our family can go there together soon.",
+            "explanation": "Bài viết sử dụng: Possessive adjectives (My favourite, My dream, My sister's, Its landmarks, Their photos, our family), Possessive pronouns (mine), Comparative adjectives (more beautiful than)."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question_text": "Write a short paragraph (50-70 words) combining topics from Units 7-9. Use various grammar structures.",
+            "sample_answer": "Last weekend was amazing! On Saturday, I watched a sports programme on TV. My favourite team won the match 3-1. I was very excited because they played very well. On Sunday, my family went to the city centre. We visited the museum and took many photos. My brother's camera is better than mine, so his photos are clearer. Although we were tired, we enjoyed our weekend very much. What did you do last weekend?",
+            "explanation": "Bài viết kết hợp: Past Simple (watched, won, was, played, went, visited, took, were, enjoyed, did), Conjunctions (because, so, although), Possessive adjectives/pronouns (My favourite, My brother's, mine), Wh-questions (What did you do?), Comparative adjectives (better than, clearer)."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://hoc.io.vn/sitemap-index.xml
+
+# RSS Feeds
+# Main feed: https://hoc.io.vn/rss.xml
+# Lessons feed: https://hoc.io.vn/rss/lessons.xml
+# Blog feed: https://hoc.io.vn/rss/blog.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow
+Disallow: /api/
+Disallow: /.astro/

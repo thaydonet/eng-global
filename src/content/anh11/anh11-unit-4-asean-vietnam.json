@@ -1,0 +1,351 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-unit-4",
+      "name": "Unit 4: ASEAN and Vietnam",
+      "slug": "unit-4-asean-vietnam",
+      "chapter": "Unit 4: ASEAN and Vietnam",
+      "chapter_id": "A11",
+      "lesson_id": 4,
+      "description": "Học về ASEAN, hợp tác khu vực, và danh động từ làm chủ ngữ và tân ngữ.",
+      "duration_minutes": 300,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2672&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh11-unit-4-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về ASEAN và vai trò của Việt Nam trong cộng đồng ASEAN",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh11-unit-4-p1-getting-started.json"
+        },
+        {
+          "id": "anh11-unit-4-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về ASEAN và hợp tác khu vực",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh11-unit-4-p2-vocabulary.json"
+        },
+        {
+          "id": "anh11-unit-4-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Danh động từ làm chủ ngữ và tân ngữ (Gerunds as subjects and objects)",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh11-unit-4-p3-grammar.json"
+        },
+        {
+          "id": "anh11-unit-4-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về ASEAN và hợp tác vì hòa bình và thịnh vượng",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh11-unit-4-p4-reading.json"
+        },
+        {
+          "id": "anh11-unit-4-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về ASEAN và lợi ích của hợp tác khu vực",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh11-unit-4-p5-speaking.json"
+        },
+        {
+          "id": "anh11-unit-4-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về học bổng và chương trình trao đổi ASEAN",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh11-unit-4-p6-listening.json"
+        },
+        {
+          "id": "anh11-unit-4-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về lợi ích của việc gia nhập ASEAN",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh11-unit-4-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-4",
+          "name": "ASEAN Vocabulary",
+          "slug": "asean-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 4: ASEAN and Vietnam",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>ASEAN</td><td class='px-4 py-2'>(n) /ˈæziæn/</td><td class='px-4 py-2'>Hiệp hội các quốc gia Đông Nam Á</td><td class='px-4 py-2'>Vietnam joined ASEAN in 1995.</td></tr><tr><td class='px-4 py-2 font-bold'>Member state</td><td class='px-4 py-2'>(n) /ˈmembə steɪt/</td><td class='px-4 py-2'>Quốc gia thành viên</td><td class='px-4 py-2'>There are 10 ASEAN member states.</td></tr><tr><td class='px-4 py-2 font-bold'>Cooperation</td><td class='px-4 py-2'>(n) /kəʊˌɒpəˈreɪʃn/</td><td class='px-4 py-2'>Sự hợp tác</td><td class='px-4 py-2'>Promote regional cooperation.</td></tr><tr><td class='px-4 py-2 font-bold'>Regional</td><td class='px-4 py-2'>(adj) /ˈriːdʒənl/</td><td class='px-4 py-2'>Thuộc về khu vực</td><td class='px-4 py-2'>Regional integration is important.</td></tr><tr><td class='px-4 py-2 font-bold'>Charter</td><td class='px-4 py-2'>(n) /ˈtʃɑːtə(r)/</td><td class='px-4 py-2'>Hiến chương</td><td class='px-4 py-2'>The ASEAN Charter was signed in 2007.</td></tr><tr><td class='px-4 py-2 font-bold'>Summit</td><td class='px-4 py-2'>(n) /ˈsʌmɪt/</td><td class='px-4 py-2'>Hội nghị thượng đỉnh</td><td class='px-4 py-2'>Attend the ASEAN Summit.</td></tr><tr><td class='px-4 py-2 font-bold'>Community</td><td class='px-4 py-2'>(n) /kəˈmjuːnəti/</td><td class='px-4 py-2'>Cộng đồng</td><td class='px-4 py-2'>Build the ASEAN Community.</td></tr><tr><td class='px-4 py-2 font-bold'>Integration</td><td class='px-4 py-2'>(n) /ˌɪntɪˈɡreɪʃn/</td><td class='px-4 py-2'>Sự hội nhập</td><td class='px-4 py-2'>Economic integration benefits all.</td></tr><tr><td class='px-4 py-2 font-bold'>Solidarity</td><td class='px-4 py-2'>(n) /ˌsɒlɪˈdærəti/</td><td class='px-4 py-2'>Sự đoàn kết</td><td class='px-4 py-2'>Show solidarity among nations.</td></tr><tr><td class='px-4 py-2 font-bold'>Diversity</td><td class='px-4 py-2'>(n) /daɪˈvɜːsəti/</td><td class='px-4 py-2'>Sự đa dạng</td><td class='px-4 py-2'>Respect cultural diversity.</td></tr><tr><td class='px-4 py-2 font-bold'>Promote</td><td class='px-4 py-2'>(v) /prəˈməʊt/</td><td class='px-4 py-2'>Thúc đẩy</td><td class='px-4 py-2'>Promote peace and stability.</td></tr><tr><td class='px-4 py-2 font-bold'>Strengthen</td><td class='px-4 py-2'>(v) /ˈstreŋθn/</td><td class='px-4 py-2'>Tăng cường</td><td class='px-4 py-2'>Strengthen regional ties.</td></tr><tr><td class='px-4 py-2 font-bold'>Exchange</td><td class='px-4 py-2'>(n, v) /ɪksˈtʃeɪndʒ/</td><td class='px-4 py-2'>Trao đổi</td><td class='px-4 py-2'>Cultural exchange programs.</td></tr><tr><td class='px-4 py-2 font-bold'>Scholarship</td><td class='px-4 py-2'>(n) /ˈskɒləʃɪp/</td><td class='px-4 py-2'>Học bổng</td><td class='px-4 py-2'>Apply for ASEAN scholarships.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>ASEAN member states (Các nước thành viên ASEAN):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Brunei:</strong> Brunei Darussalam</li><li><strong>Cambodia:</strong> Campuchia</li><li><strong>Indonesia:</strong> Indonesia</li><li><strong>Laos:</strong> Lào</li><li><strong>Malaysia:</strong> Malaysia</li><li><strong>Myanmar:</strong> Myanmar</li><li><strong>Philippines:</strong> Philippines</li><li><strong>Singapore:</strong> Singapore</li><li><strong>Thailand:</strong> Thái Lan</li><li><strong>Vietnam:</strong> Việt Nam</li></ul><p><strong>Collocations về ASEAN:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>join ASEAN:</strong> gia nhập ASEAN</li><li><strong>promote cooperation:</strong> thúc đẩy hợp tác</li><li><strong>strengthen ties:</strong> tăng cường mối quan hệ</li><li><strong>foster unity:</strong> thúc đẩy sự đoàn kết</li><li><strong>enhance integration:</strong> nâng cao hội nhập</li><li><strong>maintain peace:</strong> duy trì hòa bình</li><li><strong>boost economic growth:</strong> thúc đẩy tăng trưởng kinh tế</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ pháp: Danh động từ có vai trò như chủ ngữ và tân ngữ",
+              "content": "<h3>A. Gerund (Danh động từ) - Định nghĩa</h3><p><strong>Gerund = V-ing</strong> (có chức năng như danh từ)</p><p>Danh động từ được tạo bằng cách thêm <strong>-ing</strong> vào động từ và có vai trò như một danh từ trong câu.</p><h3>B. Gerund làm chủ ngữ (Gerund as Subject)</h3><p><strong>Công thức:</strong> V-ing + V (singular) + ...</p><p><strong>Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Joining</strong> ASEAN <strong>brings</strong> many benefits to Vietnam.<br>(Gia nhập ASEAN mang lại nhiều lợi ích cho Việt Nam.)</li><li><strong>Promoting</strong> regional cooperation <strong>is</strong> important.<br>(Thúc đẩy hợp tác khu vực là quan trọng.)</li><li><strong>Learning</strong> about ASEAN <strong>helps</strong> students understand the region better.<br>(Học về ASEAN giúp học sinh hiểu khu vực tốt hơn.)</li><li><strong>Strengthening</strong> ties among member states <strong>requires</strong> effort.<br>(Tăng cường mối quan hệ giữa các nước thành viên đòi hỏi nỗ lực.)</li></ul><p><strong>Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Gerund làm chủ ngữ → động từ chia số ít (is, brings, helps...)</li><li>Có thể thay thế bằng 'It + be + adj + to V':<br>Joining ASEAN is important. = It is important to join ASEAN.</li></ul><h3>C. Gerund làm tân ngữ (Gerund as Object)</h3><p><strong>1. Gerund sau động từ (Verb + Gerund)</strong></p><p>Một số động từ luôn theo sau bởi gerund:</p><ul class='list-disc pl-5 space-y-2'><li><strong>enjoy, love, like, hate, dislike, mind, avoid, finish, stop, quit, keep, suggest, recommend, practice, consider, delay, deny, admit, miss, risk</strong></li></ul><p><strong>Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vietnam <strong>enjoys participating</strong> in ASEAN activities.<br>(Việt Nam thích tham gia các hoạt động ASEAN.)</li><li>We should <strong>avoid making</strong> the same mistakes.<br>(Chúng ta nên tránh mắc những sai lầm tương tự.)</li><li>They <strong>finished discussing</strong> the agreement.<br>(Họ đã thảo luận xong thỏa thuận.)</li><li>I <strong>suggest holding</strong> the meeting next week.<br>(Tôi đề nghị tổ chức cuộc họp vào tuần sau.)</li></ul><p><strong>2. Gerund sau giới từ (Preposition + Gerund)</strong></p><p>Sau giới từ (in, on, at, of, for, about, by, without, before, after...) luôn dùng gerund:</p><ul class='list-disc pl-5 space-y-2'><li>Vietnam is interested <strong>in promoting</strong> trade.<br>(Việt Nam quan tâm đến việc thúc đẩy thương mại.)</li><li>Thank you <strong>for coming</strong> to the summit.<br>(Cảm ơn vì đã đến hội nghị thượng đỉnh.)</li><li>We succeeded <strong>by working</strong> together.<br>(Chúng ta thành công bằng cách làm việc cùng nhau.)</li><li>Think carefully <strong>before making</strong> a decision.<br>(Suy nghĩ cẩn thận trước khi đưa ra quyết định.)</li></ul><p><strong>3. Gerund sau một số cụm từ cố định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>be good at, be interested in, be fond of, be tired of, be afraid of, be worried about, look forward to, be used to, get used to, it's worth, it's no use, can't help, can't stand, feel like, spend time/money</strong></li></ul><p><strong>Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>She is <strong>good at speaking</strong> English.<br>(Cô ấy giỏi nói tiếng Anh.)</li><li>We look forward to <strong>working</strong> with you.<br>(Chúng tôi mong được làm việc với bạn.)</li><li>It's worth <strong>visiting</strong> ASEAN countries.<br>(Đáng để thăm các nước ASEAN.)</li><li>I spend a lot of time <strong>learning</strong> about ASEAN.<br>(Tôi dành nhiều thời gian học về ASEAN.)</li></ul><h3>D. Phân biệt Gerund và To-infinitive</h3><table class='min-w-full divide-y divide-gray-200 mt-4'><thead><tr><th class='px-4 py-2 text-left'>Gerund (V-ing)</th><th class='px-4 py-2 text-left'>To-infinitive (to V)</th></tr></thead><tbody><tr><td class='px-4 py-2'>Sau: enjoy, avoid, finish, mind, suggest, practice, keep, stop (ngừng hẳn)</td><td class='px-4 py-2'>Sau: want, decide, hope, plan, agree, promise, refuse, offer, manage, fail, learn, seem, appear</td></tr><tr><td class='px-4 py-2'>I enjoy <strong>learning</strong> languages.</td><td class='px-4 py-2'>I want <strong>to learn</strong> French.</td></tr><tr><td class='px-4 py-2'>She finished <strong>writing</strong> the report.</td><td class='px-4 py-2'>She decided <strong>to write</strong> a book.</td></tr><tr><td class='px-4 py-2'>Stop <strong>talking</strong>! (ngừng nói)</td><td class='px-4 py-2'>Stop <strong>to talk</strong>. (dừng lại để nói)</td></tr></tbody></table><p class='mt-4'><strong>Một số động từ dùng cả gerund và to-infinitive với nghĩa khác nhau:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>stop + V-ing:</strong> ngừng hẳn việc gì / <strong>stop + to V:</strong> dừng lại để làm gì</li><li><strong>remember + V-ing:</strong> nhớ đã làm gì / <strong>remember + to V:</strong> nhớ phải làm gì</li><li><strong>forget + V-ing:</strong> quên đã làm gì / <strong>forget + to V:</strong> quên phải làm gì</li><li><strong>try + V-ing:</strong> thử làm gì / <strong>try + to V:</strong> cố gắng làm gì</li></ul><p><strong>Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I stopped <strong>smoking</strong>. (Tôi đã bỏ hút thuốc.)</li><li>I stopped <strong>to smoke</strong>. (Tôi dừng lại để hút thuốc.)</li><li>Remember <strong>to lock</strong> the door. (Nhớ khóa cửa nhé.)</li><li>I remember <strong>locking</strong> the door. (Tôi nhớ là đã khóa cửa rồi.)</li></ul>"
+            },
+            {
+              "heading": "4. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Giới thiệu về ASEAN và vai trò của Việt Nam.</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về ASEAN và các nước thành viên</li><li>Thảo luận về lợi ích của việc gia nhập ASEAN</li><li>Từ vựng về hợp tác khu vực</li><li>Chia sẻ về vai trò của Việt Nam trong ASEAN</li></ul>"
+            },
+            {
+              "heading": "5. II. Language",
+              "content": "<p><strong>A. Pronunciation: Elision of weak vowels before /l/, /n/, and /r/</strong></p><p>Luyện phát âm lược bỏ nguyên âm yếu trước /l/, /n/, và /r/</p><p><strong>B. Vocabulary:</strong> ASEAN and regional cooperation</p><ul class='list-disc pl-5 space-y-2'><li>Words related to ASEAN</li><li>Regional integration vocabulary</li><li>International cooperation terms</li><li>Cultural exchange and education</li></ul><p><strong>C. Grammar:</strong> Gerunds as subjects and objects</p>"
+            },
+            {
+              "heading": "6. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> ASEAN: Working together for peace and prosperity</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu văn bản về ASEAN</li><li>Tìm thông tin chi tiết về lịch sử và mục tiêu của ASEAN</li><li>Hiểu vai trò của các nước thành viên</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li></ul><p><strong>Nội dung:</strong> Bài đọc giới thiệu về lịch sử thành lập ASEAN (1967), 10 nước thành viên, các trụ cột của Cộng đồng ASEAN (chính trị-an ninh, kinh tế, văn hóa-xã hội), và vai trò ngày càng quan trọng của ASEAN trong khu vực và thế giới.</p>"
+            },
+            {
+              "heading": "7. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Talking about ASEAN and its benefits</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả các nước thành viên ASEAN</li><li>Nói về lợi ích của hợp tác khu vực</li><li>Thảo luận về vai trò của Việt Nam</li><li>Đưa ra ý kiến về tương lai của ASEAN</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Joining ASEAN has brought...</li><li>Promoting cooperation is important because...</li><li>I think strengthening ties will...</li><li>Vietnam enjoys participating in...</li><li>It's worth learning about...</li><li>We look forward to working with...</li></ul>"
+            },
+            {
+              "heading": "8. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> A talk about ASEAN scholarships and exchange programs</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu thông tin về học bổng ASEAN</li><li>Điền thông tin còn thiếu về chương trình trao đổi</li><li>Trả lời câu hỏi chi tiết về cơ hội giáo dục</li><li>Ghi chú các ý quan trọng về hợp tác giáo dục</li></ul>"
+            },
+            {
+              "heading": "9. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing about the benefits of ASEAN membership</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đoạn văn về lợi ích của việc gia nhập ASEAN</li><li>Sử dụng gerunds làm chủ ngữ và tân ngữ</li><li>Trình bày các lợi ích về kinh tế, chính trị, văn hóa</li><li>Sử dụng từ nối để liên kết ý</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Introduction: Giới thiệu về ASEAN và Việt Nam</li><li>Body: Trình bày các lợi ích (sử dụng gerunds: Joining ASEAN..., Promoting cooperation...)</li><li>Conclusion: Kết luận về tầm quan trọng của ASEAN</li></ul><p><strong>Useful structures:</strong> Joining... brings..., Promoting... is important, We enjoy..., It's worth..., We look forward to...</p>"
+            },
+            {
+              "heading": "10. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Discussing regional cooperation and integration</p><p><strong>Culture:</strong> ASEAN countries and their cultures</p><ul class='list-disc pl-5 space-y-2'><li>So sánh văn hóa của các nước ASEAN</li><li>Tìm hiểu về lễ hội và truyền thống khu vực</li><li>Thảo luận về đa dạng văn hóa trong ASEAN</li><li>Các chương trình trao đổi văn hóa và giáo dục</li></ul><p><strong>CLIL (Social Studies/Geography):</strong> Understanding regional cooperation</p><ul class='list-disc pl-5 space-y-2'><li>Lịch sử thành lập và phát triển của ASEAN</li><li>Ba trụ cột của Cộng đồng ASEAN</li><li>Vai trò của ASEAN trong khu vực và thế giới</li></ul>"
+            },
+            {
+              "heading": "11. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vocabulary: ASEAN, cooperation, integration, member states</li><li>Pronunciation: Elision of weak vowels</li><li>Grammar: Gerunds as subjects and objects</li><li>Skills: Reading, Speaking, Listening, Writing</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng sử dụng từ vựng và ngữ pháp đã học, khả năng nói và viết về ASEAN và hợp tác khu vực</p>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> Discover ASEAN Countries</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một nước thành viên ASEAN để nghiên cứu</li><li>Tìm hiểu về lịch sử, văn hóa, kinh tế của nước đó</li><li>Nghiên cứu mối quan hệ giữa nước đó và Việt Nam</li><li>Tìm hiểu về các chương trình hợp tác và trao đổi</li><li>Tạo presentation hoặc poster về nước đã chọn</li><li>Trình bày và chia sẻ thông tin với lớp</li></ul><p><strong>Yêu cầu:</strong> Sử dụng gerunds trong bài thuyết trình (Learning about... is interesting, Visiting... would be exciting, Promoting cooperation between...)</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Gerunds",
+            "method": "<p>Choose the correct form (gerund or infinitive) of the verb.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "ASEAN, the Association of Southeast Asian Nations, was established on August 8, 1967, in Bangkok, Thailand. The founding members were Indonesia, Malaysia, the Philippines, Singapore, and Thailand. Today, ASEAN has ten member states, including Brunei, Cambodia, Laos, Myanmar, and Vietnam, which joined in 1995.\n\nThe main goals of ASEAN are promoting peace, stability, and economic growth in Southeast Asia. The organization works to strengthen cooperation among member states in various fields such as trade, education, culture, and security. In 2015, ASEAN established the ASEAN Community, which consists of three pillars: the Political-Security Community, the Economic Community, and the Socio-Cultural Community.\n\nJoining ASEAN has brought many benefits to Vietnam. It has helped the country integrate into the regional and global economy. Vietnamese businesses now have better access to markets in other ASEAN countries. Students and young people enjoy participating in exchange programs and scholarships. Moreover, being an ASEAN member has strengthened Vietnam's position in international relations. The country looks forward to continuing its active role in promoting regional cooperation and development.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "ASEAN was founded in 1967",
+                  "ASEAN promotes cooperation and brings benefits to member states",
+                  "Vietnam is the most important ASEAN member",
+                  "ASEAN only focuses on economic issues"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về ASEAN thúc đẩy hợp tác và mang lại lợi ích cho các nước thành viên."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "When did Vietnam join ASEAN?",
+                "options": [
+                  "In 1967",
+                  "In 1995",
+                  "In 2015",
+                  "In 2007"
+                ],
+                "correct": 1,
+                "explanation": "Việt Nam gia nhập ASEAN năm 1995."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'established' in paragraph 1 is closest in meaning to ______.",
+                "options": [
+                  "destroyed",
+                  "founded",
+                  "ignored",
+                  "forgotten"
+                ],
+                "correct": 1,
+                "explanation": "Established = founded (thành lập)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "How many pillars does the ASEAN Community have?",
+                "options": [
+                  "One",
+                  "Two",
+                  "Three",
+                  "Four"
+                ],
+                "correct": 2,
+                "explanation": "Cộng đồng ASEAN có ba trụ cột: chính trị-an ninh, kinh tế, và văn hóa-xã hội."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, what benefit has Vietnam gained from ASEAN membership?",
+                "options": [
+                  "Vietnam has become isolated",
+                  "Vietnamese businesses have lost market access",
+                  "Vietnam has integrated into the regional economy",
+                  "Vietnam has left ASEAN"
+                ],
+                "correct": 2,
+                "explanation": "Việt Nam đã hội nhập vào nền kinh tế khu vực nhờ gia nhập ASEAN."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ ASEAN brings many benefits to member countries.",
+            "options": ["Join", "Joining", "To join", "Joined"],
+            "correct": 1,
+            "explanation": "Gerund (Joining) làm chủ ngữ trong câu."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "Vietnam enjoys ______ in ASEAN activities.",
+            "options": ["participate", "participating", "to participate", "participated"],
+            "correct": 1,
+            "explanation": "Sau 'enjoy' dùng gerund (participating)."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "There are 10 ______ states in ASEAN.",
+            "options": ["member", "members", "membership", "membering"],
+            "correct": 0,
+            "explanation": "Member states: các nước thành viên (member là tính từ bổ nghĩa cho states)."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "We should avoid ______ the same mistakes.",
+            "options": ["make", "making", "to make", "made"],
+            "correct": 1,
+            "explanation": "Sau 'avoid' dùng gerund (making)."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "Regional ______ is important for economic growth.",
+            "options": ["cooperate", "cooperation", "cooperative", "cooperatively"],
+            "correct": 1,
+            "explanation": "Cooperation (n): sự hợp tác - cần danh từ làm chủ ngữ."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ about different cultures is interesting.",
+            "options": ["Learn", "Learning", "To learn", "Learned"],
+            "correct": 1,
+            "explanation": "Gerund (Learning) làm chủ ngữ trong câu."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "They finished ______ the ASEAN Charter in 2007.",
+            "options": ["sign", "signing", "to sign", "signed"],
+            "correct": 1,
+            "explanation": "Sau 'finish' dùng gerund (signing)."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "We are interested in ______ regional cooperation.",
+            "options": ["promote", "promoting", "to promote", "promoted"],
+            "correct": 1,
+            "explanation": "Sau giới từ 'in' dùng gerund (promoting)."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "The ASEAN ______ was held in Bangkok last year.",
+            "options": ["summit", "summits", "summiting", "summited"],
+            "correct": 0,
+            "explanation": "Summit (n): hội nghị thượng đỉnh."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "It's worth ______ ASEAN countries to learn about their cultures.",
+            "options": ["visit", "visiting", "to visit", "visited"],
+            "correct": 1,
+            "explanation": "Sau 'It's worth' dùng gerund (visiting)."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Gerunds can be used as subjects in sentences.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Danh động từ có thể làm chủ ngữ (Joining ASEAN brings benefits)."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "After prepositions, we always use gerunds, not infinitives.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Sau giới từ luôn dùng gerund (interested in learning, good at speaking)."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "ASEAN was established in 1995.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. ASEAN được thành lập năm 1967. Việt Nam gia nhập năm 1995."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What does ASEAN stand for? (full name - 6 words)",
+            "correct": "Association of Southeast Asian Nations",
+            "explanation": "ASEAN = Association of Southeast Asian Nations (Hiệp hội các quốc gia Đông Nam Á)."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: ______ ASEAN has brought many benefits. (Joining)",
+            "correct": "Joining",
+            "explanation": "Gerund (Joining) làm chủ ngữ trong câu."
+          }
+        ]
+      }
+    }
+  ]
+}

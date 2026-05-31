@@ -1,0 +1,329 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-review-3",
+      "name": "Review 3 (Units 7 - 8 - 9)",
+      "slug": "review-3-units-7-8-9",
+      "chapter": "Review 3 (Units 7 - 8 - 9)",
+      "chapter_id": "A8",
+      "lesson_id": 30,
+      "description": "Review of Units 7, 8, and 9 covering environment, shopping, and natural disasters.",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=2672&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-3",
+          "name": "Review 3 Comprehensive",
+          "slug": "review-3-comprehensive",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 3 (Units 7 - 8 - 9)",
+          "sections": [
+            {
+              "heading": "1. Language - Vocabulary",
+              "content": "<h3>Unit 7: Environmental Protection</h3><p><strong>Key vocabulary:</strong> environment, pollution, recycle, reuse, reduce, waste, damage, protect, conserve, ecosystem, deforestation, endangered, sustainable</p><h3>Unit 8: Shopping</h3><p><strong>Key vocabulary:</strong> shopping mall, supermarket, buy, sell, pay, bargain, price, discount, sale, receipt, goods, product, brand</p><h3>Unit 9: Natural Disasters</h3><p><strong>Key vocabulary:</strong> earthquake, tsunami, flood, storm, typhoon, evacuate, rescue, damage, destroy, victim, casualty, warning, survive</p>"
+            },
+            {
+              "heading": "2. Language - Grammar",
+              "content": "<h3>Unit 7: Complex Sentences with Time Clauses</h3><p><strong>Structure:</strong> When/While/Before/After/As soon as/Until + S + V, S + V</p><p><strong>Note:</strong> Tương lai dùng hiện tại đơn trong time clause</p><h3>Unit 8: Adverbs of Frequency & Present Simple for Future</h3><p><strong>1. Adverbs:</strong> always, usually, often, sometimes, rarely, never</p><p><strong>2. Present Simple for Future:</strong> Lịch trình cố định</p><h3>Unit 9: Past Continuous</h3><p><strong>Structure:</strong> S + was/were + V-ing</p><p><strong>Usage:</strong> Past continuous + when + past simple; While + past continuous, past continuous</p>"
+            },
+            {
+              "heading": "3. Skills - Reading Passages",
+              "content": "<p><strong>Passage 1: Environmental Protection</strong></p><p>When I see litter on the street, I always pick it up. Before I throw away anything, I think about recycling. I often recycle plastic bottles and paper. While I'm at home, I turn off lights to save energy. As soon as I finish using water, I turn off the tap. We should protect our environment because it's important for our future.</p><p><strong>Passage 2: Shopping and Disasters</strong></p><p>Yesterday at 3 p.m., I was shopping at the mall when suddenly the building started shaking. It was an earthquake! While people were running out, I was trying to stay calm. The store usually opens at 9 a.m., but it will close tomorrow for safety checks. After the earthquake stopped, rescue teams arrived quickly. Everyone was scared, but fortunately, no one was seriously injured.</p>"
+            },
+            {
+              "heading": "4. Skills - Practice",
+              "content": "<p><strong>Questions:</strong></p><ol class='list-decimal pl-5 space-y-2'><li>What do you do when you see litter?</li><li>What were you doing at 3 p.m. yesterday?</li><li>What happened during the earthquake?</li></ol>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Time Clauses",
+            "method": "<p><strong>Phương pháp:</strong> When/Before/After + S + V, S + V</p>",
+            "examples": [
+              {
+                "question": "When I see litter, I ______ (pick) it up.",
+                "solution": "When I see litter, I <strong>pick</strong> it up.",
+                "explanation": "Cùng hiện tại đơn"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Past Continuous",
+            "method": "<p><strong>Phương pháp:</strong> S + was/were + V-ing</p>",
+            "examples": [
+              {
+                "question": "I ______ (shop) when the earthquake happened.",
+                "solution": "I <strong>was shopping</strong> when the earthquake happened.",
+                "explanation": "Past continuous + when + past simple"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "When I see litter, I ______ it up.",
+            "options": ["pick", "picks", "picked", "was picking"],
+            "correct": 0,
+            "explanation": "Cùng hiện tại đơn"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "I ______ shopping when the earthquake happened.",
+            "options": ["shop", "shopped", "was shopping", "am shopping"],
+            "correct": 2,
+            "explanation": "Past continuous + when + past simple"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I ______ go shopping on weekends.",
+            "options": ["always", "am always", "always am", "was always"],
+            "correct": 0,
+            "explanation": "Trước động từ thường → always go"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "The shop ______ at 9 tomorrow.",
+            "options": ["open", "opens", "will open", "is opening"],
+            "correct": 1,
+            "explanation": "Lịch trình → hiện tại đơn"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "Before you leave, ______ off the lights.",
+            "options": ["turn", "turns", "turned", "turning"],
+            "correct": 0,
+            "explanation": "Câu mệnh lệnh → turn"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "While I ______, she was cooking.",
+            "options": ["study", "studied", "was studying", "am studying"],
+            "correct": 2,
+            "explanation": "While + past continuous"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "When I ______ school, I will recycle more.",
+            "options": ["finish", "finishes", "will finish", "finished"],
+            "correct": 0,
+            "explanation": "Time clause với tương lai → hiện tại đơn"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "They ______ TV when the storm started.",
+            "options": ["watch", "watched", "were watching", "are watching"],
+            "correct": 2,
+            "explanation": "Past continuous + when + past simple"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "She ______ shops online.",
+            "options": ["often", "is often", "often is", "was often"],
+            "correct": 0,
+            "explanation": "Trước động từ thường → often shops"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "After we ______, we can relax.",
+            "options": ["recycle", "recycled", "will recycle", "were recycling"],
+            "correct": 0,
+            "explanation": "Cùng hiện tại đơn"
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "______ you studying at 9 p.m.?",
+            "options": ["Was", "Were", "Did", "Do"],
+            "correct": 1,
+            "explanation": "You + past continuous → Were"
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "The train ______ at 6 p.m.",
+            "options": ["leave", "leaves", "will leave", "is leaving"],
+            "correct": 1,
+            "explanation": "Lịch trình → hiện tại đơn"
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "I will help as soon as I ______ home.",
+            "options": ["get", "gets", "will get", "got"],
+            "correct": 0,
+            "explanation": "Time clause → hiện tại đơn"
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "She ______ when I called.",
+            "options": ["sleep", "slept", "was sleeping", "is sleeping"],
+            "correct": 2,
+            "explanation": "Past continuous + when + past simple"
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "We ______ buy organic products.",
+            "options": ["sometimes", "are sometimes", "sometimes are", "were sometimes"],
+            "correct": 0,
+            "explanation": "Trước động từ thường → sometimes buy"
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "______ it was raining, we stayed inside.",
+            "options": ["When", "While", "Before", "After"],
+            "correct": 1,
+            "explanation": "Trong khi → While"
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "I ______ my homework when the lights went out.",
+            "options": ["do", "did", "was doing", "am doing"],
+            "correct": 2,
+            "explanation": "Past continuous + when + past simple"
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "The sale ______ next week.",
+            "options": ["start", "starts", "will start", "is starting"],
+            "correct": 1,
+            "explanation": "Lịch trình → hiện tại đơn"
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "I will wait until you ______.",
+            "options": ["come", "comes", "will come", "came"],
+            "correct": 0,
+            "explanation": "Time clause → hiện tại đơn"
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "They ______ when the tsunami hit.",
+            "options": ["evacuate", "evacuated", "were evacuating", "are evacuating"],
+            "correct": 2,
+            "explanation": "Past continuous + when + past simple"
+          },
+          {
+            "id": "tf1",
+            "type": "true-false",
+            "question": "We should recycle to protect the environment.",
+            "correct": true,
+            "explanation": "Đúng. Recycling helps protect environment."
+          },
+          {
+            "id": "tf2",
+            "type": "true-false",
+            "question": "The store always opens at different times.",
+            "correct": false,
+            "explanation": "Sai. Stores have fixed schedules."
+          },
+          {
+            "id": "tf3",
+            "type": "true-false",
+            "question": "Past continuous describes actions happening at a specific time in the past.",
+            "correct": true,
+            "explanation": "Đúng. Past continuous for actions in progress."
+          },
+          {
+            "id": "tf4",
+            "type": "true-false",
+            "question": "We use 'will' in time clauses for future.",
+            "correct": false,
+            "explanation": "Sai. Use present simple in time clauses."
+          },
+          {
+            "id": "tf5",
+            "type": "true-false",
+            "question": "Adverbs of frequency come before main verbs.",
+            "correct": true,
+            "explanation": "Đúng. They come before main verbs."
+          },
+          {
+            "id": "short1",
+            "type": "short-answer",
+            "question": "What do you do when you see litter?",
+            "answer": "I pick it up / I recycle it",
+            "explanation": "Actions to protect environment"
+          },
+          {
+            "id": "short2",
+            "type": "short-answer",
+            "question": "What were you doing at 3 p.m. yesterday?",
+            "answer": "I was shopping / studying / working (any past continuous answer)",
+            "explanation": "Past continuous for specific time"
+          },
+          {
+            "id": "short3",
+            "type": "short-answer",
+            "question": "When does the shop open?",
+            "answer": "It opens at 9 a.m. / at a specific time",
+            "explanation": "Present simple for schedules"
+          },
+          {
+            "id": "short4",
+            "type": "short-answer",
+            "question": "What happened during the earthquake?",
+            "answer": "People were running out / The building was shaking",
+            "explanation": "Past continuous for ongoing actions"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write about protecting the environment (80-100 words). Use time clauses.",
+            "sample_answer": "When I see litter, I always pick it up. Before I throw anything away, I think about recycling. I recycle plastic bottles and paper. As soon as I finish using water, I turn off the tap. While I'm at home, I turn off lights to save energy. After I go shopping, I reuse the bags. When I finish school, I will plant more trees. We should protect our environment because it's important. If everyone helps, we will have a cleaner planet.",
+            "explanation": "Use time clauses: when, before, after, as soon as, while"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Write about your shopping habits (80-100 words). Use adverbs of frequency and present simple for future.",
+            "sample_answer": "I often go shopping on weekends. I usually shop at the supermarket because it's convenient. I sometimes buy things online. I always compare prices before buying. I never buy things I don't need. The mall opens at 9 a.m. and closes at 10 p.m. The sale starts next week, so I will wait. I rarely use cash; I usually pay by card. Shopping is fun, but I try to be careful with money.",
+            "explanation": "Use adverbs of frequency and present simple for schedules"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Write about a natural disaster experience (80-100 words). Use past continuous.",
+            "sample_answer": "Last year, I experienced an earthquake. At 3 p.m., I was studying at home when suddenly everything started shaking. My family was having lunch in the kitchen. While the earthquake was happening, we were running outside. My neighbors were screaming. After the earthquake stopped, we were checking if everyone was safe. Rescue teams were arriving quickly. People were helping each other. It was scary, but we survived. Now I always keep an emergency kit ready.",
+            "explanation": "Use past continuous for actions in progress during the disaster"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Combine all topics (80-100 words). Use all grammar from Units 7-9.",
+            "sample_answer": "When I go shopping, I always bring reusable bags to protect the environment. The supermarket opens at 8 a.m. every day. Last week, while I was shopping, there was a small earthquake. People were running out, but I was staying calm. After the earthquake stopped, I continued shopping. I often buy eco-friendly products. Before I buy anything, I check if it's sustainable. As soon as I get home, I recycle the packaging. We should protect our environment and be prepared for disasters.",
+            "explanation": "Combine time clauses, adverbs of frequency, present simple for future, and past continuous"
+          }
+        ]
+      }
+    }
+  ]
+}

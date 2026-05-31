@@ -1,0 +1,228 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-5-p3",
+  "name": "Part 3: Language - Grammar",
+  "slug": "p3-grammar",
+  "description": "Các loại câu: đơn, ghép, phức",
+  "duration_minutes": 60,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Grammar: Simple, Compound, and Complex Sentences",
+      "sections": [
+        {
+          "heading": "A. Simple Sentences (Câu đơn)",
+          "content": "<p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>S + V (+ O/C)</strong></li><li>Câu đơn chỉ có MỘT mệnh đề độc lập (independent clause)</li><li>Có một chủ ngữ và một động từ chính</li></ul><p><strong>2. Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I <strong>applied</strong> for a job. (Tôi đã nộp đơn xin việc)</li><li>She <strong>works</strong> at a tech company. (Cô ấy làm việc tại công ty công nghệ)</li><li>The interview <strong>went</strong> well. (Cuộc phỏng vấn diễn ra tốt)</li><li>My brother <strong>is</strong> a software developer. (Anh trai tôi là lập trình viên)</li></ul><p><strong>3. Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu đơn có thể có nhiều chủ ngữ hoặc động từ song song</li><li>Ex: Tom and Jerry <strong>work</strong> together. (2 chủ ngữ)</li><li>Ex: She <strong>graduated</strong> and <strong>found</strong> a job. (2 động từ)</li></ul>"
+        },
+        {
+          "heading": "B. Compound Sentences (Câu ghép)",
+          "content": "<p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Independent clause + coordinating conjunction + Independent clause</strong></li><li>Câu ghép có HAI hoặc nhiều mệnh đề độc lập ngang hàng</li><li>Nối bằng liên từ kết hợp (coordinating conjunctions)</li></ul><p><strong>2. Coordinating Conjunctions - FANBOYS:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>F</strong>or (vì, bởi vì)</li><li><strong>A</strong>nd (và)</li><li><strong>N</strong>or (cũng không)</li><li><strong>B</strong>ut (nhưng)</li><li><strong>O</strong>r (hoặc)</li><li><strong>Y</strong>et (nhưng, tuy nhiên)</li><li><strong>S</strong>o (vì vậy, nên)</li></ul><p><strong>3. Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I sent my CV, <strong>and</strong> they called me for an interview.</li><li>(Tôi gửi CV, và họ gọi tôi đến phỏng vấn)</li><li>She has experience, <strong>but</strong> she lacks qualifications.</li><li>(Cô ấy có kinh nghiệm, nhưng thiếu bằng cấp)</li><li>You can apply online, <strong>or</strong> you can visit the office.</li><li>(Bạn có thể nộp đơn trực tuyến, hoặc đến văn phòng)</li><li>He worked hard, <strong>so</strong> he got a promotion.</li><li>(Anh ấy làm việc chăm chỉ, vì vậy được thăng chức)</li><li>The job is challenging, <strong>yet</strong> it is rewarding.</li><li>(Công việc thách thức, nhưng đáng giá)</li></ul><p><strong>4. Dấu câu:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dùng dấu phẩy (,) trước liên từ kết hợp</li><li>Ex: I applied for the job<strong>,</strong> and I got an interview.</li></ul>"
+        },
+        {
+          "heading": "C. Complex Sentences (Câu phức)",
+          "content": "<p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Independent clause + Dependent clause</strong></li><li>HOẶC: <strong>Dependent clause + Independent clause</strong></li><li>Câu phức có MỘT mệnh đề độc lập và MỘT hoặc nhiều mệnh đề phụ thuộc</li><li>Nối bằng liên từ phụ thuộc (subordinating conjunctions)</li></ul><p><strong>2. Subordinating Conjunctions (Liên từ phụ thuộc):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Time (Thời gian):</strong> when, while, before, after, until, since, as soon as</li><li><strong>Reason (Lý do):</strong> because, since, as</li><li><strong>Condition (Điều kiện):</strong> if, unless, provided that</li><li><strong>Contrast (Tương phản):</strong> although, though, even though, whereas, while</li><li><strong>Purpose (Mục đích):</strong> so that, in order that</li><li><strong>Result (Kết quả):</strong> so...that, such...that</li></ul><p><strong>3. Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Because</strong> I have experience, I got the job.</li><li>(Vì tôi có kinh nghiệm, tôi được nhận việc)</li><li>I will apply for the job <strong>if</strong> the salary is good.</li><li>(Tôi sẽ nộp đơn nếu lương tốt)</li><li><strong>Although</strong> she is young, she is very professional.</li><li>(Mặc dù cô ấy trẻ, cô ấy rất chuyên nghiệp)</li><li>He studied hard <strong>so that</strong> he could get a good job.</li><li>(Anh ấy học chăm để có thể có công việc tốt)</li><li><strong>When</strong> I graduated, I started looking for a job.</li><li>(Khi tốt nghiệp, tôi bắt đầu tìm việc)</li></ul><p><strong>4. Dấu câu:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nếu mệnh đề phụ thuộc đứng TRƯỚC: dùng dấu phẩy</li><li>Ex: <strong>If you work hard,</strong> you will succeed.</li><li>Nếu mệnh đề phụ thuộc đứng SAU: KHÔNG dùng dấu phẩy</li><li>Ex: You will succeed <strong>if you work hard.</strong></li></ul>"
+        },
+        {
+          "heading": "D. So sánh ba loại câu",
+          "content": "<table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2'>Type</th><th class='px-4 py-2'>Structure</th><th class='px-4 py-2'>Example</th></tr></thead><tbody><tr><td class='px-4 py-2'><strong>Simple</strong></td><td class='px-4 py-2'>1 independent clause</td><td class='px-4 py-2'>I work at a bank.</td></tr><tr><td class='px-4 py-2'><strong>Compound</strong></td><td class='px-4 py-2'>2+ independent clauses</td><td class='px-4 py-2'>I work at a bank, and my sister works at a hospital.</td></tr><tr><td class='px-4 py-2'><strong>Complex</strong></td><td class='px-4 py-2'>1 independent + 1+ dependent</td><td class='px-4 py-2'>I work at a bank because I like finance.</td></tr></tbody></table>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "grammar-ex1",
+        "type": "mcq",
+        "question": "Identify the sentence type: 'I applied for a job.'",
+        "options": ["Simple", "Compound", "Complex", "None"],
+        "correct": 0,
+        "explanation": "Câu đơn vì chỉ có một mệnh đề độc lập."
+      },
+      {
+        "id": "grammar-ex2",
+        "type": "mcq",
+        "question": "Complete: 'I sent my CV, _____ they called me for an interview.'",
+        "options": ["because", "and", "although", "if"],
+        "correct": 1,
+        "explanation": "'And' là liên từ kết hợp nối hai mệnh đề độc lập (compound sentence)."
+      },
+      {
+        "id": "grammar-ex3",
+        "type": "mcq",
+        "question": "Which is a complex sentence?",
+        "options": [
+          "She works hard.",
+          "She works hard, and she succeeds.",
+          "Because she works hard, she succeeds.",
+          "She works hard every day."
+        ],
+        "correct": 2,
+        "explanation": "Câu phức có mệnh đề phụ thuộc 'Because she works hard'."
+      },
+      {
+        "id": "grammar-ex4",
+        "type": "mcq",
+        "question": "What does FANBOYS stand for?",
+        "options": [
+          "Coordinating conjunctions",
+          "Subordinating conjunctions",
+          "Adjectives",
+          "Adverbs"
+        ],
+        "correct": 0,
+        "explanation": "FANBOYS là các liên từ kết hợp (coordinating conjunctions)."
+      },
+      {
+        "id": "grammar-ex5",
+        "type": "mcq",
+        "question": "Complete: 'He has experience, _____ he lacks qualifications.'",
+        "options": ["and", "but", "so", "or"],
+        "correct": 1,
+        "explanation": "'But' thể hiện sự tương phản trong câu ghép."
+      },
+      {
+        "id": "grammar-ex6",
+        "type": "mcq",
+        "question": "Identify: 'Although she is young, she is professional.'",
+        "options": ["Simple", "Compound", "Complex", "Fragment"],
+        "correct": 2,
+        "explanation": "Câu phức với mệnh đề phụ thuộc 'Although she is young'."
+      },
+      {
+        "id": "grammar-ex7",
+        "type": "mcq",
+        "question": "Which conjunction shows reason?",
+        "options": ["and", "but", "because", "or"],
+        "correct": 2,
+        "explanation": "'Because' là liên từ chỉ lý do."
+      },
+      {
+        "id": "grammar-ex8",
+        "type": "mcq",
+        "question": "Complete: 'I will apply _____ the salary is good.'",
+        "options": ["and", "but", "if", "so"],
+        "correct": 2,
+        "explanation": "'If' là liên từ chỉ điều kiện trong câu phức."
+      },
+      {
+        "id": "grammar-ex9",
+        "type": "mcq",
+        "question": "Which is a compound sentence?",
+        "options": [
+          "I work at a bank.",
+          "I work at a bank, and my sister works at a hospital.",
+          "I work at a bank because I like finance.",
+          "Working at a bank."
+        ],
+        "correct": 1,
+        "explanation": "Câu ghép có hai mệnh đề độc lập nối bằng 'and'."
+      },
+      {
+        "id": "grammar-ex10",
+        "type": "mcq",
+        "question": "Where should the comma go? 'If you work hard you will succeed.'",
+        "options": [
+          "No comma needed",
+          "After 'hard'",
+          "After 'you'",
+          "After 'will'"
+        ],
+        "correct": 1,
+        "explanation": "Dấu phẩy sau mệnh đề phụ thuộc đứng trước: 'If you work hard, you will succeed.'"
+      },
+      {
+        "id": "grammar-ex11",
+        "type": "mcq",
+        "question": "Complete: 'He worked hard, _____ he got a promotion.'",
+        "options": ["because", "although", "so", "if"],
+        "correct": 2,
+        "explanation": "'So' chỉ kết quả trong câu ghép."
+      },
+      {
+        "id": "grammar-ex12",
+        "type": "mcq",
+        "question": "Which is NOT a coordinating conjunction?",
+        "options": ["and", "but", "because", "or"],
+        "correct": 2,
+        "explanation": "'Because' là liên từ phụ thuộc, không phải liên từ kết hợp."
+      },
+      {
+        "id": "grammar-ex13",
+        "type": "mcq",
+        "question": "Identify: 'She graduated and found a job.'",
+        "options": ["Simple", "Compound", "Complex", "Fragment"],
+        "correct": 0,
+        "explanation": "Câu đơn với hai động từ song song (graduated and found)."
+      },
+      {
+        "id": "grammar-ex14",
+        "type": "mcq",
+        "question": "Complete: '_____ I graduated, I started looking for a job.'",
+        "options": ["And", "But", "When", "So"],
+        "correct": 2,
+        "explanation": "'When' là liên từ chỉ thời gian trong câu phức."
+      },
+      {
+        "id": "grammar-ex15",
+        "type": "mcq",
+        "question": "Which sentence needs a comma?",
+        "options": [
+          "I work hard every day.",
+          "I work hard and I succeed.",
+          "Because I work hard I succeed.",
+          "I work hard because I want to succeed."
+        ],
+        "correct": 2,
+        "explanation": "Cần dấu phẩy: 'Because I work hard, I succeed.'"
+      },
+      {
+        "id": "grammar-ex16",
+        "type": "msq",
+        "question_text": "Decide if these are Simple sentences (True/False):",
+        "options": [
+          "I applied for a job.",
+          "I applied for a job, and I got an interview.",
+          "She works at a tech company.",
+          "Although she is young, she is professional."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Câu đơn. b) False - Câu ghép. c) True - Câu đơn. d) False - Câu phức."
+      },
+      {
+        "id": "grammar-ex17",
+        "type": "msq",
+        "question_text": "Mark True if the conjunction is used correctly:",
+        "options": [
+          "I work hard, and I succeed.",
+          "I work hard, because I succeed.",
+          "Because I work hard, I succeed.",
+          "I work hard and, I succeed."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Đúng câu ghép. b) False - Không dùng dấu phẩy trước 'because' trong câu phức. c) True - Đúng câu phức. d) False - Sai vị trí dấu phẩy."
+      },
+      {
+        "id": "grammar-ex18",
+        "type": "sa",
+        "question_text": "Complete: I sent my CV, _____ they called me. (use a coordinating conjunction)",
+        "correct": "and",
+        "explanation": "'And' nối hai mệnh đề độc lập trong câu ghép."
+      },
+      {
+        "id": "grammar-ex19",
+        "type": "sa",
+        "question_text": "Complete: _____ I have experience, I got the job. (use a subordinating conjunction)",
+        "correct": "Because",
+        "explanation": "'Because' chỉ lý do trong câu phức."
+      },
+      {
+        "id": "grammar-ex20",
+        "type": "sa",
+        "question_text": "What type of sentence is this? 'She works hard, but she needs more training.' (Simple/Compound/Complex)",
+        "correct": "Compound",
+        "explanation": "Câu ghép với hai mệnh đề độc lập nối bằng 'but'."
+      }
+    ]
+  }
+}

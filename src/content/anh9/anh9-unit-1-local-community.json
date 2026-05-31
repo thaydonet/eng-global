@@ -1,0 +1,309 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-unit-1-local-community",
+      "name": "Unit 1: Local Community",
+      "slug": "unit-1-local-community",
+      "chapter": "Unit 1: Local Community",
+      "chapter_id": "A9",
+      "lesson_id": 1,
+      "description": "Learn about local community with question words + to-infinitive and phrasal verbs.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-1",
+          "name": "Local Community Vocabulary",
+          "slug": "local-community-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 1: Local Community",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Community places:</strong> community center, library, park, market, temple, pagoda, workshop, craft village, pottery, weaving, embroidery</p><p><strong>Community activities:</strong> volunteer, donate, help, support, organize, participate, contribute, preserve, maintain, develop</p><p><strong>Adjectives:</strong> local, traditional, cultural, historical, modern, crowded, peaceful, busy, friendly, helpful</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng",
+              "content": "<p>Practice using vocabulary in context about local community, traditional crafts, and community activities.</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Question Words + to-infinitive (Từ để hỏi + to V)</h3><p><strong>Cấu trúc:</strong> Wh-word + to-infinitive</p><p><strong>Các từ để hỏi:</strong> what, where, when, how, who, which (không dùng why)</p><ul class='list-disc pl-5 space-y-2'><li><strong>what to do:</strong> làm gì</li><li>Ex: I don't know <strong>what to do</strong>.</li><li><strong>where to go:</strong> đi đâu</li><li>Ex: She asked me <strong>where to go</strong>.</li><li><strong>when to start:</strong> khi nào bắt đầu</li><li>Ex: Tell me <strong>when to start</strong>.</li><li><strong>how to use:</strong> cách sử dụng</li><li>Ex: He showed me <strong>how to use</strong> it.</li><li><strong>who to ask:</strong> hỏi ai</li><li>Ex: I wonder <strong>who to ask</strong>.</li><li><strong>which to choose:</strong> chọn cái nào</li><li>Ex: I can't decide <strong>which to choose</strong>.</li></ul><p><strong>Vị trí:</strong> Sau động từ: know, understand, decide, wonder, ask, tell, show, learn, remember, forget</p><h3>B. Phrasal Verbs (Cụm động từ)</h3><p><strong>Common phrasal verbs:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>look after:</strong> chăm sóc</li><li><strong>look for:</strong> tìm kiếm</li><li><strong>look forward to:</strong> mong đợi</li><li><strong>turn up:</strong> xuất hiện, đến</li><li><strong>turn down:</strong> từ chối, giảm âm lượng</li><li><strong>get on with:</strong> hòa thuận với</li><li><strong>get over:</strong> vượt qua</li><li><strong>carry out:</strong> thực hiện</li><li><strong>find out:</strong> tìm ra, khám phá</li><li><strong>set up:</strong> thành lập</li></ul>"
+            },
+            {
+              "heading": "4-11. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Question Words + to-infinitive",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Xác định từ để hỏi phù hợp</li><li>Thêm to + V (nguyên mẫu)</li><li>Không dùng why</li></ul>",
+            "examples": [
+              {
+                "question": "I don't know ______ (what / do).",
+                "solution": "I don't know <strong>what to do</strong>.",
+                "explanation": "what + to + do = làm gì"
+              },
+              {
+                "question": "She asked me ______ (where / go).",
+                "solution": "She asked me <strong>where to go</strong>.",
+                "explanation": "where + to + go = đi đâu"
+              },
+              {
+                "question": "Tell me ______ (when / start).",
+                "solution": "Tell me <strong>when to start</strong>.",
+                "explanation": "when + to + start = khi nào bắt đầu"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: How to + V",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>how to + V = cách làm gì</li><li>Dùng sau: show, tell, learn, know, understand</li></ul>",
+            "examples": [
+              {
+                "question": "He showed me ______ (how / use) it.",
+                "solution": "He showed me <strong>how to use</strong> it.",
+                "explanation": "how + to + use = cách sử dụng"
+              },
+              {
+                "question": "I learned ______ (how / make) pottery.",
+                "solution": "I learned <strong>how to make</strong> pottery.",
+                "explanation": "how + to + make = cách làm"
+              },
+              {
+                "question": "Can you tell me ______ (how / get) there?",
+                "solution": "Can you tell me <strong>how to get</strong> there?",
+                "explanation": "how + to + get = cách đến"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Phrasal Verbs - Meaning",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học thuộc nghĩa của phrasal verbs</li><li>Chọn phrasal verb phù hợp với ngữ cảnh</li></ul>",
+            "examples": [
+              {
+                "question": "She ______ her younger brother. (chăm sóc)",
+                "solution": "She <strong>looks after</strong> her younger brother.",
+                "explanation": "look after = chăm sóc"
+              },
+              {
+                "question": "I'm ______ my keys. (tìm kiếm)",
+                "solution": "I'm <strong>looking for</strong> my keys.",
+                "explanation": "look for = tìm kiếm"
+              },
+              {
+                "question": "They ______ a new business. (thành lập)",
+                "solution": "They <strong>set up</strong> a new business.",
+                "explanation": "set up = thành lập"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Kết hợp Grammar và Phrasal Verbs",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng cả question words + to V và phrasal verbs</li><li>Chú ý ngữ cảnh câu</li></ul>",
+            "examples": [
+              {
+                "question": "I don't know ______ (how / look after) plants.",
+                "solution": "I don't know <strong>how to look after</strong> plants.",
+                "explanation": "how to + phrasal verb"
+              },
+              {
+                "question": "She asked me ______ (where / find out) information.",
+                "solution": "She asked me <strong>where to find out</strong> information.",
+                "explanation": "where to + phrasal verb"
+              },
+              {
+                "question": "Tell me ______ (when / carry out) the plan.",
+                "solution": "Tell me <strong>when to carry out</strong> the plan.",
+                "explanation": "when to + phrasal verb"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I don't know ______ to do.",
+            "options": ["what", "why", "which", "whose"],
+            "correct": 0,
+            "explanation": "what to do = làm gì"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "She asked me ______ to go.",
+            "options": ["what", "where", "why", "whose"],
+            "correct": 1,
+            "explanation": "where to go = đi đâu"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "Tell me ______ to start.",
+            "options": ["what", "where", "when", "why"],
+            "correct": 2,
+            "explanation": "when to start = khi nào bắt đầu"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "He showed me ______ to use it.",
+            "options": ["what", "how", "why", "whose"],
+            "correct": 1,
+            "explanation": "how to use = cách sử dụng"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "I wonder ______ to ask.",
+            "options": ["what", "who", "why", "whose"],
+            "correct": 1,
+            "explanation": "who to ask = hỏi ai"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "She ______ her younger brother.",
+            "options": ["looks after", "looks for", "looks at", "looks up"],
+            "correct": 0,
+            "explanation": "look after = chăm sóc"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "I'm ______ my keys.",
+            "options": ["looking after", "looking for", "looking at", "looking up"],
+            "correct": 1,
+            "explanation": "look for = tìm kiếm"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "They ______ a new business.",
+            "options": ["set up", "set off", "set out", "set down"],
+            "correct": 0,
+            "explanation": "set up = thành lập"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I can't decide ______ to choose.",
+            "options": ["what", "which", "why", "whose"],
+            "correct": 1,
+            "explanation": "which to choose = chọn cái nào"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "We need to ______ the truth.",
+            "options": ["find out", "find in", "find at", "find on"],
+            "correct": 0,
+            "explanation": "find out = tìm ra, khám phá"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which are correct question words + to-infinitive? (Select all that apply)",
+            "options": ["what to do", "where to go", "why to come", "how to use"],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: what to do, where to go, how to use. Sai: why to come (không dùng why + to V)"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which phrasal verbs mean 'tìm kiếm' or 'tìm ra'? (Select all that apply)",
+            "options": ["look for", "find out", "look after", "carry out"],
+            "correct": [0, 1],
+            "explanation": "look for = tìm kiếm; find out = tìm ra. look after = chăm sóc; carry out = thực hiện"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which sentences are correct? (Select all that apply)",
+            "options": ["I know how to swim.", "She asked where to go.", "Tell me why to do it.", "He showed me what to buy."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: how to swim, where to go, what to buy. Sai: why to do (không dùng why + to V)"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: I don't know ______ (what / do).",
+            "correct": "what to do",
+            "explanation": "what + to + do = làm gì"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: He showed me ______ (how / make) pottery.",
+            "correct": "how to make",
+            "explanation": "how + to + make = cách làm"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Fill in phrasal verb: She ______ (chăm sóc) her younger brother.",
+            "correct": "looks after",
+            "explanation": "look after = chăm sóc"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Fill in phrasal verb: They ______ (thành lập) a new business.",
+            "correct": "set up / set up",
+            "explanation": "set up = thành lập"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: know / I / don't / what / do / to / . / asked / She / me / where / go / to / .",
+            "sample_answer": "I don't know what to do. She asked me where to go.",
+            "explanation": "Sắp xếp: S + V + Wh-word + to V"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: I don't know. What should I do? → I don't know ______.",
+            "sample_answer": "I don't know what to do.",
+            "explanation": "Biến đổi: What should I do? → what to do"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Transform: She asked me. Where should I go? → She asked me ______.",
+            "sample_answer": "She asked me where to go.",
+            "explanation": "Biến đổi: Where should I go? → where to go"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange with phrasal verb: after / She / looks / her / brother / younger / . / for / I'm / looking / keys / my / .",
+            "sample_answer": "She looks after her younger brother. I'm looking for my keys.",
+            "explanation": "Sắp xếp: look after (chăm sóc), look for (tìm kiếm)"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Transform and combine: He showed me. How can I use it? + They set up a business. (Use question word + to V and keep the second sentence)",
+            "sample_answer": "He showed me how to use it. They set up a business.",
+            "explanation": "Biến đổi câu 1: How can I use it? → how to use it. Giữ nguyên câu 2 với phrasal verb 'set up'"
+          }
+        ]
+      }
+    }
+  ]
+}

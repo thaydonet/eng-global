@@ -1,0 +1,274 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-9-p6",
+  "name": "Part 6: Listening",
+  "slug": "p6-listening",
+  "description": "Nghe về phát triển sự nghiệp",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Listening: Career Development Talk",
+      "sections": [
+        {
+          "heading": "Listening Script: A Career Counselor's Advice",
+          "content": "<div class='bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-900/20 dark:to-blue-900/20 p-6 rounded-xl'><p class='mb-4'><strong>Career Counselor:</strong> Good morning, everyone. Today, I want to talk about career development and how you can plan for a successful professional future. Many students look forward to starting their careers but feel overwhelmed by the choices ahead. Let me share some practical advice.</p><p class='mb-4'>First, you need to come up with a clear vision of what you want to achieve. Don't just think about your first job - think about where you want to be in five, ten, or even twenty years. This long-term perspective will help you make better decisions along the way.</p><p class='mb-4'>Second, it's crucial to get on with people from different backgrounds and industries. Networking isn't just about collecting business cards - it's about building genuine relationships. You never know when a connection might lead to an opportunity. I've seen many students catch up with industry professionals at conferences and end up with amazing job offers.</p><p class='mb-4'>Third, you must keep up with changes in your field. Technology is evolving rapidly, and the skills that are valuable today might be obsolete tomorrow. Continuous learning is no longer optional - it's essential. Take online courses, attend workshops, and read industry publications regularly.</p><p class='mb-4'>Now, let's talk about challenges. You'll inevitably have to put up with setbacks and rejections. Every successful person I know has faced numerous failures before achieving their goals. The key is not to run out of motivation. When you face difficulties, remember why you started and keep pushing forward.</p><p class='mb-4'>It's also important to look up to mentors who can guide you. Find someone in your field who has achieved what you aspire to achieve. Learn from their experiences, both successes and failures. A good mentor can help you avoid common mistakes and accelerate your career growth.</p><p class='mb-4'>You also need to face up to your weaknesses. We all have areas where we need improvement. Instead of hiding from them, acknowledge them and work on developing those skills. Your performance should live up to professional standards, and that requires honest self-assessment and continuous improvement.</p><p class='mb-4'>If you make mistakes - and you will - don't worry. You can always make up for them by learning from the experience and doing better next time. Mistakes are valuable learning opportunities if you approach them with the right mindset.</p><p class='mb-4'>Finally, remember that career success isn't just about climbing the corporate ladder. It's about finding work that's meaningful to you and maintaining a healthy work-life balance. Don't sacrifice your health, relationships, or personal happiness for career advancement. A truly successful career enhances your life rather than consuming it.</p><p class='mb-4'>In conclusion, career development is a journey, not a destination. Stay curious, stay connected, and stay committed to your growth. With the right attitude and strategies, you can build a career that's both successful and fulfilling. Thank you, and I'm happy to answer any questions.</p></div>"
+        },
+        {
+          "heading": "Key Vocabulary from the Listening",
+          "content": "<div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><ul class='list-disc pl-5 space-y-2'><li><strong>overwhelmed:</strong> choáng ngợp, quá tải</li><li><strong>perspective:</strong> quan điểm, góc nhìn</li><li><strong>genuine:</strong> chân thành, thật</li><li><strong>obsolete:</strong> lỗi thời</li><li><strong>inevitable:</strong> không thể tránh khỏi</li><li><strong>setback:</strong> trở ngại, thất bại tạm thời</li><li><strong>aspire:</strong> khao khát, mong muốn</li><li><strong>accelerate:</strong> tăng tốc</li><li><strong>acknowledge:</strong> thừa nhận</li><li><strong>corporate ladder:</strong> nấc thang công danh</li><li><strong>fulfilling:</strong> mang lại sự thỏa mãn</li></ul></div>"
+        },
+        {
+          "heading": "Listening Strategies",
+          "content": "<div class='bg-yellow-50 dark:bg-yellow-900/20 p-5 rounded-lg'><h4 class='font-bold mb-3'>Tips for Better Listening Comprehension:</h4><ol class='list-decimal pl-5 space-y-2'><li><strong>Preview questions:</strong> Read questions before listening to know what to focus on.</li><li><strong>Listen for key words:</strong> Pay attention to phrasal verbs and important vocabulary.</li><li><strong>Take notes:</strong> Write down main ideas and supporting details.</li><li><strong>Don't panic:</strong> If you miss something, keep listening - the answer might be repeated.</li><li><strong>Context clues:</strong> Use context to understand unfamiliar words.</li><li><strong>Listen multiple times:</strong> First for general understanding, then for specific details.</li></ol></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "listening-ex1",
+        "type": "mcq",
+        "question": "What is the main topic of the talk?",
+        "options": [
+          "How to find a job",
+          "Career development and planning",
+          "University courses",
+          "Retirement planning"
+        ],
+        "correct": 1,
+        "explanation": "Chủ đề chính là 'career development and planning' - phát triển và lập kế hoạch nghề nghiệp."
+      },
+      {
+        "id": "listening-ex2",
+        "type": "mcq",
+        "question": "According to the speaker, what should students do first?",
+        "options": [
+          "Find a job immediately",
+          "Come up with a clear vision",
+          "Give up their dreams",
+          "Avoid planning"
+        ],
+        "correct": 1,
+        "explanation": "Học sinh cần 'come up with a clear vision' - có tầm nhìn rõ ràng."
+      },
+      {
+        "id": "listening-ex3",
+        "type": "mcq",
+        "question": "What does the speaker say about networking?",
+        "options": [
+          "It's not important",
+          "It's about building genuine relationships",
+          "It's only about business cards",
+          "It's a waste of time"
+        ],
+        "correct": 1,
+        "explanation": "Networking là về 'building genuine relationships' - xây dựng mối quan hệ chân thành."
+      },
+      {
+        "id": "listening-ex4",
+        "type": "mcq",
+        "question": "Why is continuous learning essential?",
+        "options": [
+          "It's not essential",
+          "Because skills can become obsolete",
+          "Just for fun",
+          "To waste time"
+        ],
+        "correct": 1,
+        "explanation": "Kỹ năng có thể trở nên 'obsolete' - lỗi thời, nên học tập liên tục là cần thiết."
+      },
+      {
+        "id": "listening-ex5",
+        "type": "mcq",
+        "question": "What does the speaker say about setbacks?",
+        "options": [
+          "Avoid them completely",
+          "You'll have to put up with them",
+          "They never happen",
+          "Give up when they occur"
+        ],
+        "correct": 1,
+        "explanation": "Bạn sẽ phải 'put up with setbacks' - chịu đựng thất bại."
+      },
+      {
+        "id": "listening-ex6",
+        "type": "mcq",
+        "question": "What should you do when facing difficulties?",
+        "options": [
+          "Give up immediately",
+          "Don't run out of motivation",
+          "Blame others",
+          "Avoid challenges"
+        ],
+        "correct": 1,
+        "explanation": "'Don't run out of motivation' - đừng mất động lực khi gặp khó khăn."
+      },
+      {
+        "id": "listening-ex7",
+        "type": "mcq",
+        "question": "Why should you find a mentor?",
+        "options": [
+          "To copy them",
+          "To learn from their experiences",
+          "To compete with them",
+          "To avoid work"
+        ],
+        "correct": 1,
+        "explanation": "Để 'learn from their experiences' - học hỏi từ kinh nghiệm của họ."
+      },
+      {
+        "id": "listening-ex8",
+        "type": "mcq",
+        "question": "What should you do with your weaknesses?",
+        "options": [
+          "Hide them",
+          "Face up to them",
+          "Ignore them",
+          "Deny them"
+        ],
+        "correct": 1,
+        "explanation": "'Face up to your weaknesses' - đối mặt với điểm yếu."
+      },
+      {
+        "id": "listening-ex9",
+        "type": "mcq",
+        "question": "What does the speaker say about mistakes?",
+        "options": [
+          "Never make them",
+          "You can make up for them by learning",
+          "Hide them",
+          "Blame others"
+        ],
+        "correct": 1,
+        "explanation": "Bạn có thể 'make up for them by learning' - bù đắp bằng cách học hỏi."
+      },
+      {
+        "id": "listening-ex10",
+        "type": "mcq",
+        "question": "According to the speaker, what is true career success?",
+        "options": [
+          "Only climbing the corporate ladder",
+          "Finding meaningful work and maintaining balance",
+          "Working 24/7",
+          "Ignoring personal life"
+        ],
+        "correct": 1,
+        "explanation": "Thành công thực sự là 'finding meaningful work and maintaining balance' - công việc ý nghĩa và cân bằng."
+      },
+      {
+        "id": "listening-ex11",
+        "type": "msq",
+        "question_text": "According to the talk, mark True or False:",
+        "options": [
+          "Students should have a long-term perspective.",
+          "Networking is just about collecting business cards.",
+          "Continuous learning is essential.",
+          "You should avoid mentors."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Cần có tầm nhìn dài hạn. b) False - Networking là xây dựng mối quan hệ thật. c) True - Học tập liên tục cần thiết. d) False - Nên tìm người cố vấn."
+      },
+      {
+        "id": "listening-ex12",
+        "type": "msq",
+        "question_text": "Decide True or False based on the listening:",
+        "options": [
+          "Technology is evolving rapidly.",
+          "Setbacks should make you give up.",
+          "You should face up to your weaknesses.",
+          "Career success means sacrificing everything."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Công nghệ phát triển nhanh. b) False - Không nên bỏ cuộc. c) True - Đối mặt với điểm yếu. d) False - Không nên hy sinh mọi thứ."
+      },
+      {
+        "id": "listening-ex13",
+        "type": "msq",
+        "question_text": "Mark True or False:",
+        "options": [
+          "You need to come up with a clear vision.",
+          "Skills never become obsolete.",
+          "Mistakes are learning opportunities.",
+          "Career development is a destination, not a journey."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Cần có tầm nhìn rõ ràng. b) False - Kỹ năng có thể lỗi thời. c) True - Sai lầm là cơ hội học hỏi. d) False - Là hành trình, không phải đích đến."
+      },
+      {
+        "id": "listening-ex14",
+        "type": "sa",
+        "question_text": "What should students do first according to the speaker? (five words)",
+        "correct": "come up with clear vision",
+        "explanation": "Come up with a clear vision - có tầm nhìn rõ ràng."
+      },
+      {
+        "id": "listening-ex15",
+        "type": "sa",
+        "question_text": "Complete: Networking is about building _____ relationships. (one word)",
+        "correct": "genuine",
+        "explanation": "Genuine relationships - mối quan hệ chân thành."
+      },
+      {
+        "id": "listening-ex16",
+        "type": "sa",
+        "question_text": "What word means 'out of date' or 'no longer useful'? (one word)",
+        "correct": "obsolete",
+        "explanation": "Obsolete - lỗi thời."
+      },
+      {
+        "id": "listening-ex17",
+        "type": "mcq",
+        "question": "How long should you think ahead when planning your career?",
+        "options": [
+          "Only about your first job",
+          "Five, ten, or twenty years",
+          "Just one year",
+          "Don't plan ahead"
+        ],
+        "correct": 1,
+        "explanation": "Nên nghĩ về 'five, ten, or even twenty years' - 5, 10, hoặc 20 năm."
+      },
+      {
+        "id": "listening-ex18",
+        "type": "mcq",
+        "question": "What does the speaker say about successful people?",
+        "options": [
+          "They never face failures",
+          "They have faced numerous failures",
+          "They are just lucky",
+          "They never work hard"
+        ],
+        "correct": 1,
+        "explanation": "Người thành công đã 'faced numerous failures' - đối mặt nhiều thất bại."
+      },
+      {
+        "id": "listening-ex19",
+        "type": "mcq",
+        "question": "What should your performance do?",
+        "options": [
+          "Be below standards",
+          "Live up to professional standards",
+          "Be mediocre",
+          "Be inconsistent"
+        ],
+        "correct": 1,
+        "explanation": "Hiệu suất nên 'live up to professional standards' - đáp ứng tiêu chuẩn chuyên nghiệp."
+      },
+      {
+        "id": "listening-ex20",
+        "type": "mcq",
+        "question": "According to the conclusion, what should you stay?",
+        "options": [
+          "Lazy and disconnected",
+          "Curious, connected, and committed",
+          "Unmotivated",
+          "Isolated"
+        ],
+        "correct": 1,
+        "explanation": "Nên 'stay curious, connected, and committed' - tò mò, kết nối và cam kết."
+      }
+    ]
+  }
+}

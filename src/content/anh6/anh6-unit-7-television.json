@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-unit-7-television",
+      "name": "Unit 7: Television",
+      "slug": "unit-7-television",
+      "chapter": "Unit 7: Television",
+      "chapter_id": "A6",
+      "lesson_id": 7,
+      "description": "Learn about TV programs, Wh-questions, and conjunctions.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-7",
+          "name": "Television Vocabulary",
+          "slug": "television-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 7: Television",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Television / TV</td><td class='px-4 py-2'>(n) /ˈtelɪvɪʒn/</td><td class='px-4 py-2'>Ti vi, truyền hình</td><td class='px-4 py-2'>I watch television every evening.</td></tr><tr><td class='px-4 py-2 font-bold'>Channel</td><td class='px-4 py-2'>(n) /ˈtʃænl/</td><td class='px-4 py-2'>Kênh</td><td class='px-4 py-2'>What channel is the news on?</td></tr><tr><td class='px-4 py-2 font-bold'>Programme</td><td class='px-4 py-2'>(n) /ˈprəʊɡræm/</td><td class='px-4 py-2'>Chương trình</td><td class='px-4 py-2'>This is my favourite programme.</td></tr><tr><td class='px-4 py-2 font-bold'>Cartoon</td><td class='px-4 py-2'>(n) /kɑːˈtuːn/</td><td class='px-4 py-2'>Phim hoạt hình</td><td class='px-4 py-2'>Children love watching cartoons.</td></tr><tr><td class='px-4 py-2 font-bold'>News</td><td class='px-4 py-2'>(n) /njuːz/</td><td class='px-4 py-2'>Tin tức</td><td class='px-4 py-2'>I watch the news every day.</td></tr><tr><td class='px-4 py-2 font-bold'>Game show</td><td class='px-4 py-2'>(n) /ɡeɪm ʃəʊ/</td><td class='px-4 py-2'>Trò chơi truyền hình</td><td class='px-4 py-2'>Game shows are very exciting.</td></tr><tr><td class='px-4 py-2 font-bold'>Comedy</td><td class='px-4 py-2'>(n) /ˈkɒmədi/</td><td class='px-4 py-2'>Phim hài</td><td class='px-4 py-2'>I like watching comedies.</td></tr><tr><td class='px-4 py-2 font-bold'>Documentary</td><td class='px-4 py-2'>(n) /ˌdɒkjuˈmentri/</td><td class='px-4 py-2'>Phim tài liệu</td><td class='px-4 py-2'>Documentaries are educational.</td></tr><tr><td class='px-4 py-2 font-bold'>Viewer</td><td class='px-4 py-2'>(n) /ˈvjuːə(r)/</td><td class='px-4 py-2'>Người xem</td><td class='px-4 py-2'>The programme has many viewers.</td></tr><tr><td class='px-4 py-2 font-bold'>Remote control</td><td class='px-4 py-2'>(n) /rɪˈməʊt kənˈtrəʊl/</td><td class='px-4 py-2'>Điều khiển từ xa</td><td class='px-4 py-2'>Where is the remote control?</td></tr><tr><td class='px-4 py-2 font-bold'>Watch</td><td class='px-4 py-2'>(v) /wɒtʃ/</td><td class='px-4 py-2'>Xem</td><td class='px-4 py-2'>I watch TV every evening.</td></tr><tr><td class='px-4 py-2 font-bold'>Educate</td><td class='px-4 py-2'>(v) /ˈedʒukeɪt/</td><td class='px-4 py-2'>Giáo dục</td><td class='px-4 py-2'>TV can educate children.</td></tr><tr><td class='px-4 py-2 font-bold'>Entertain</td><td class='px-4 py-2'>(v) /ˌentəˈteɪn/</td><td class='px-4 py-2'>Giải trí</td><td class='px-4 py-2'>TV programmes entertain people.</td></tr><tr><td class='px-4 py-2 font-bold'>Interesting</td><td class='px-4 py-2'>(adj) /ˈɪntrəstɪŋ/</td><td class='px-4 py-2'>Thú vị</td><td class='px-4 py-2'>This programme is very interesting.</td></tr><tr><td class='px-4 py-2 font-bold'>Boring</td><td class='px-4 py-2'>(adj) /ˈbɔːrɪŋ/</td><td class='px-4 py-2'>Nhàm chán</td><td class='px-4 py-2'>That show is boring.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Types of TV programmes (Các loại chương trình TV):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>cartoon:</strong> phim hoạt hình</li><li><strong>news:</strong> tin tức</li><li><strong>game show:</strong> trò chơi truyền hình</li><li><strong>comedy:</strong> phim hài</li><li><strong>documentary:</strong> phim tài liệu</li><li><strong>sports programme:</strong> chương trình thể thao</li><li><strong>music show:</strong> chương trình âm nhạc</li><li><strong>weather forecast:</strong> dự báo thời tiết</li><li><strong>talk show:</strong> chương trình trò chuyện</li><li><strong>reality show:</strong> chương trình thực tế</li><li><strong>drama:</strong> phim truyền hình</li><li><strong>quiz show:</strong> chương trình đố vui</li></ul><p><strong>People on TV (Người trên TV):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>viewer:</strong> người xem</li><li><strong>MC (Master of Ceremonies):</strong> người dẫn chương trình</li><li><strong>comedian:</strong> diễn viên hài</li><li><strong>newsreader:</strong> người đọc tin tức</li><li><strong>weatherman/weathergirl:</strong> người dự báo thời tiết</li><li><strong>actor/actress:</strong> diễn viên</li><li><strong>character:</strong> nhân vật</li></ul><p><strong>TV equipment (Thiết bị TV):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>television/TV:</strong> ti vi</li><li><strong>remote control:</strong> điều khiển từ xa</li><li><strong>screen:</strong> màn hình</li><li><strong>channel:</strong> kênh</li><li><strong>volume:</strong> âm lượng</li></ul><p><strong>Adjectives to describe TV programmes:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>interesting:</strong> thú vị</li><li><strong>boring:</strong> nhàm chán</li><li><strong>exciting:</strong> hấp dẫn</li><li><strong>funny:</strong> vui nhộn</li><li><strong>educational:</strong> mang tính giáo dục</li><li><strong>entertaining:</strong> giải trí</li><li><strong>informative:</strong> cung cấp thông tin</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /θ/ and /ð/</h3><p><strong>1. Sound /θ/ (âm vô thanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Lưỡi chạm vào răng trên, không rung thanh quản</li><li><strong>Examples:</strong></li><li>theatre /ˈθɪətə(r)/</li><li>think /θɪŋk/</li><li>three /θriː/</li><li>both /bəʊθ/</li></ul><p><strong>2. Sound /ð/ (âm hữu thanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Lưỡi chạm vào răng trên, rung thanh quản</li><li><strong>Examples:</strong></li><li>there /ðeə(r)/</li><li>this /ðɪs/</li><li>that /ðæt/</li><li>weather /ˈweðə(r)/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Wh-questions (Câu hỏi với từ để hỏi)</h3><p><strong>1. Các từ để hỏi (Question words):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>What:</strong> Cái gì (hỏi về vật, sự việc)</li><li>Ex: <strong>What</strong> do you watch on TV?</li><li><strong>Where:</strong> Ở đâu (hỏi về nơi chốn)</li><li>Ex: <strong>Where</strong> is the remote control?</li><li><strong>When:</strong> Khi nào (hỏi về thời gian)</li><li>Ex: <strong>When</strong> do you watch TV?</li><li><strong>Who:</strong> Ai (hỏi về người)</li><li>Ex: <strong>Who</strong> is your favourite MC?</li><li><strong>Why:</strong> Tại sao (hỏi về lý do)</li><li>Ex: <strong>Why</strong> do you like this programme?</li><li><strong>How:</strong> Như thế nào (hỏi về cách thức)</li><li>Ex: <strong>How</strong> often do you watch TV?</li><li><strong>Which:</strong> Cái nào (hỏi về sự lựa chọn)</li><li>Ex: <strong>Which</strong> channel do you like?</li></ul><p><strong>2. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Với động từ 'to be':</strong></li><li>Wh-word + am/is/are + S?</li><li>Ex: <strong>What is</strong> your favourite programme?</li><li><strong>Với động từ thường:</strong></li><li>Wh-word + do/does + S + V?</li><li>Ex: <strong>What do</strong> you <strong>watch</strong> on TV?</li><li>Ex: <strong>When does</strong> the programme <strong>start</strong>?</li></ul><h3>B. Conjunctions (Liên từ)</h3><p><strong>1. Các liên từ thường dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>and:</strong> và (nối hai ý tương đương)</li><li>Ex: I like cartoons <strong>and</strong> comedies.</li><li><strong>but:</strong> nhưng (nối hai ý đối lập)</li><li>Ex: I like game shows, <strong>but</strong> my sister doesn't.</li><li><strong>or:</strong> hoặc (nối hai lựa chọn)</li><li>Ex: Do you want to watch news <strong>or</strong> sports?</li><li><strong>so:</strong> vì vậy, nên (chỉ kết quả)</li><li>Ex: The programme is boring, <strong>so</strong> I don't watch it.</li><li><strong>because:</strong> bởi vì (chỉ nguyên nhân)</li><li>Ex: I like this show <strong>because</strong> it's funny.</li><li><strong>although:</strong> mặc dù (chỉ sự nhượng bộ)</li><li>Ex: <strong>Although</strong> the film is long, it's interesting.</li></ul><p><strong>2. Cách sử dụng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Liên từ nối hai mệnh đề hoặc hai từ/cụm từ</li><li>And, but, or, so thường đứng giữa hai mệnh đề</li><li>Because, although có thể đứng đầu hoặc giữa câu</li><li>Ex: I watch TV <strong>because</strong> I'm bored.</li><li>Ex: <strong>Because</strong> I'm bored, I watch TV.</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> What's on TV? - Có gì trên TV?</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về chương trình TV</li><li>Giới thiệu các loại chương trình</li><li>Nói về sở thích xem TV</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: TV programmes and people</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về chương trình TV</li><li>Học từ vựng về người trên TV</li></ul><p><strong>B. Pronunciation: /θ/ and /ð/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /θ/ và /ð/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Wh-questions and Conjunctions</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách đặt câu hỏi với từ để hỏi</li><li>Học cách sử dụng liên từ</li><li>Luyện tập nối câu</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about TV programmes</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What's your favourite programme?</li><li>When do you watch TV?</li><li>I like... because...</li><li>I don't like... but...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: TV programmes</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về chương trình TV</li><li>Tìm thông tin cụ thể</li></ul><p><strong>Speaking: Discussing TV habits</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về thói quen xem TV</li><li>Thảo luận về chương trình yêu thích</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: A TV schedule</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe lịch phát sóng TV</li><li>Ghi chú thông tin</li></ul><p><strong>Writing: About your TV habits</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết về thói quen xem TV</li><li>Sử dụng Wh-questions và conjunctions</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> TV programmes, people on TV</li><li><strong>Pronunciation:</strong> /θ/ and /ð/</li><li><strong>Grammar:</strong> Wh-questions, Conjunctions</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> My favourite TV programme</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn chương trình TV yêu thích</li><li>Tìm thông tin về chương trình</li><li>Viết mô tả (5-7 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Đặt câu hỏi với từ để hỏi",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Xác định thông tin cần hỏi (vật, người, nơi chốn, thời gian, lý do...)</li><li>Chọn từ để hỏi phù hợp (What, Who, Where, When, Why, How...)</li><li>Sử dụng cấu trúc: Wh-word + do/does + S + V? hoặc Wh-word + is/are + S?</li></ul>",
+            "examples": [
+              {
+                "question": "Make a question for: I watch cartoons. (What)",
+                "solution": "<strong>What do you watch?</strong>",
+                "explanation": "Hỏi về vật (chương trình) → dùng 'What', động từ thường → dùng 'do'."
+              },
+              {
+                "question": "Make a question for: I watch TV in the evening. (When)",
+                "solution": "<strong>When do you watch TV?</strong>",
+                "explanation": "Hỏi về thời gian → dùng 'When', động từ thường → dùng 'do'."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Sử dụng liên từ nối câu",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>And: nối hai ý tương đương</li><li>But: nối hai ý đối lập</li><li>Or: nối hai lựa chọn</li><li>So: chỉ kết quả</li><li>Because: chỉ nguyên nhân</li><li>Although: chỉ sự nhượng bộ</li></ul>",
+            "examples": [
+              {
+                "question": "I like cartoons. I like comedies. (and)",
+                "solution": "I like cartoons <strong>and</strong> comedies.",
+                "explanation": "Hai ý tương đương → dùng 'and'."
+              },
+              {
+                "question": "The programme is boring. I don't watch it. (so)",
+                "solution": "The programme is boring, <strong>so</strong> I don't watch it.",
+                "explanation": "Chỉ kết quả → dùng 'so'."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Phân biệt Because và Although",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Because: bởi vì (chỉ nguyên nhân)</li><li>Although: mặc dù (chỉ sự nhượng bộ, đối lập)</li></ul>",
+            "examples": [
+              {
+                "question": "I like this show ______ it's funny.",
+                "solution": "I like this show <strong>because</strong> it's funny.",
+                "explanation": "Chỉ nguyên nhân (vui → thích) → dùng 'because'."
+              },
+              {
+                "question": "______ the film is long, it's interesting.",
+                "solution": "<strong>Although</strong> the film is long, it's interesting.",
+                "explanation": "Hai ý đối lập (dài nhưng thú vị) → dùng 'although'."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Chọn từ để hỏi phù hợp",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What: hỏi về vật, sự việc</li><li>Who: hỏi về người</li><li>Where: hỏi về nơi chốn</li><li>When: hỏi về thời gian</li><li>Why: hỏi về lý do</li><li>How: hỏi về cách thức</li></ul>",
+            "examples": [
+              {
+                "question": "______ is your favourite MC? - It's Mr. Bean.",
+                "solution": "<strong>Who</strong> is your favourite MC?",
+                "explanation": "Hỏi về người → dùng 'Who'."
+              },
+              {
+                "question": "______ do you like this programme? - Because it's funny.",
+                "solution": "<strong>Why</strong> do you like this programme?",
+                "explanation": "Hỏi về lý do (trả lời bằng 'because') → dùng 'Why'."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ do you watch on TV?",
+            "options": ["What", "Where", "When", "Who"],
+            "correct": 0,
+            "explanation": "Hỏi về vật (chương trình) → dùng 'What'."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "______ do you watch TV? - In the evening.",
+            "options": ["What", "Where", "When", "Who"],
+            "correct": 2,
+            "explanation": "Hỏi về thời gian → dùng 'When'."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I like cartoons ______ comedies.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 0,
+            "explanation": "Nối hai ý tương đương → dùng 'and'."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I like game shows, ______ my sister doesn't.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 1,
+            "explanation": "Nối hai ý đối lập → dùng 'but'."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "The programme is boring, ______ I don't watch it.",
+            "options": ["and", "but", "or", "so"],
+            "correct": 3,
+            "explanation": "Chỉ kết quả → dùng 'so'."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "I like this show ______ it's funny.",
+            "options": ["because", "although", "but", "so"],
+            "correct": 0,
+            "explanation": "Chỉ nguyên nhân → dùng 'because'."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ the film is long, it's interesting.",
+            "options": ["Because", "Although", "But", "So"],
+            "correct": 1,
+            "explanation": "Chỉ sự nhượng bộ (dài nhưng thú vị) → dùng 'Although'."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "______ is your favourite MC?",
+            "options": ["What", "Where", "When", "Who"],
+            "correct": 3,
+            "explanation": "Hỏi về người → dùng 'Who'."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "______ do you like this programme? - Because it's educational.",
+            "options": ["What", "Where", "When", "Why"],
+            "correct": 3,
+            "explanation": "Hỏi về lý do → dùng 'Why'."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Do you want to watch news ______ sports?",
+            "options": ["and", "but", "or", "so"],
+            "correct": 2,
+            "explanation": "Nối hai lựa chọn → dùng 'or'."
+          }
+        ]
+      }
+    }
+  ]
+}

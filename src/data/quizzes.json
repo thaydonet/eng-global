@@ -1,0 +1,132 @@
+{
+  "quizzes": [
+    {
+      "id": "quiz-1",
+      "lessonId": "lesson-1",
+      "title": "Kiểm tra kiến thức: Hàm số lượng giác",
+      "questions": [
+        {
+          "id": "q1-1",
+          "question": "Giá trị của sin(90°) là bao nhiêu?",
+          "options": ["0", "1", "√2/2", "-1"],
+          "correctAnswer": 1,
+          "explanation": "sin(90°) = 1 vì trên đường tròn lượng giác, tại góc 90° tung độ đạt giá trị cực đại là 1."
+        },
+        {
+          "id": "q1-2",
+          "question": "Đẳng thức nào sau đây đúng?",
+          "options": [
+            "sin²(x) - cos²(x) = 1",
+            "sin²(x) + cos²(x) = 1",
+            "tan²(x) + cot²(x) = 1",
+            "sin(x) + cos(x) = 1"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Đẳng thức lượng giác cơ bản: sin²(x) + cos²(x) = 1, đúng với mọi giá trị x."
+        },
+        {
+          "id": "q1-3",
+          "question": "Hàm số tan(x) không xác định khi:",
+          "options": [
+            "x = kπ",
+            "x = π/2 + kπ",
+            "x = π/4 + kπ",
+            "x = 2kπ"
+          ],
+          "correctAnswer": 1,
+          "explanation": "tan(x) = sin(x)/cos(x), không xác định khi cos(x) = 0, tức là x = π/2 + kπ (k ∈ Z)."
+        },
+        {
+          "id": "q1-4",
+          "question": "Giá trị của cos(60°) là:",
+          "options": ["1/2", "√3/2", "√2/2", "1"],
+          "correctAnswer": 0,
+          "explanation": "cos(60°) = 1/2. Đây là một trong những giá trị lượng giác đặc biệt cần nhớ."
+        }
+      ]
+    },
+    {
+      "id": "quiz-2",
+      "lessonId": "lesson-2",
+      "title": "Kiểm tra: Phương trình lượng giác",
+      "questions": [
+        {
+          "id": "q2-1",
+          "question": "Phương trình sin(x) = 0 có nghiệm là:",
+          "options": [
+            "x = kπ/2",
+            "x = kπ",
+            "x = π/2 + kπ",
+            "x = 2kπ"
+          ],
+          "correctAnswer": 1,
+          "explanation": "sin(x) = 0 khi x = kπ (k ∈ Z), tức là tại các điểm 0, ±π, ±2π,..."
+        },
+        {
+          "id": "q2-2",
+          "question": "Điều kiện để phương trình cos(x) = a có nghiệm là:",
+          "options": [
+            "a > 0",
+            "|a| ≤ 1",
+            "a ≠ 0",
+            "a ∈ R"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Hàm cos có giá trị trong khoảng [-1, 1], nên phương trình cos(x) = a có nghiệm khi và chỉ khi |a| ≤ 1."
+        },
+        {
+          "id": "q2-3",
+          "question": "Nghiệm của phương trình cos(x) = 1 là:",
+          "options": [
+            "x = π + 2kπ",
+            "x = 2kπ",
+            "x = π/2 + 2kπ",
+            "x = kπ"
+          ],
+          "correctAnswer": 1,
+          "explanation": "cos(x) = 1 khi x = 2kπ (k ∈ Z), tức là tại các điểm 0, ±2π, ±4π,..."
+        }
+      ]
+    },
+    {
+      "id": "quiz-3",
+      "lessonId": "lesson-3",
+      "title": "Kiểm tra: Đạo hàm",
+      "questions": [
+        {
+          "id": "q3-1",
+          "question": "Đạo hàm của hàm số f(x) = x³ là:",
+          "options": ["x²", "3x²", "3x", "x³/3"],
+          "correctAnswer": 1,
+          "explanation": "Áp dụng công thức (xⁿ)' = n·xⁿ⁻¹, ta có (x³)' = 3x²."
+        },
+        {
+          "id": "q3-2",
+          "question": "Đạo hàm của hằng số là:",
+          "options": ["1", "0", "x", "Không xác định"],
+          "correctAnswer": 1,
+          "explanation": "Đạo hàm của hằng số luôn bằng 0, vì hằng số không thay đổi."
+        },
+        {
+          "id": "q3-3",
+          "question": "Quy tắc đạo hàm tích (u·v)' bằng:",
+          "options": [
+            "u'·v'",
+            "u'·v + u·v'",
+            "u·v'",
+            "(u'+v')"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Quy tắc đạo hàm tích: (u·v)' = u'·v + u·v'."
+        },
+        {
+          "id": "q3-4",
+          "question": "Đạo hàm của f(x) = 5x + 3 là:",
+          "options": ["5", "5x", "8", "3"],
+          "correctAnswer": 0,
+          "explanation": "f'(x) = (5x)' + (3)' = 5 + 0 = 5."
+        }
+      ]
+    }
+  ]
+}

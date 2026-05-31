@@ -1,0 +1,162 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-unit-8-shopping",
+      "name": "Unit 8: Shopping",
+      "slug": "unit-8-shopping",
+      "chapter": "Unit 8: Shopping",
+      "chapter_id": "A8",
+      "lesson_id": 8,
+      "description": "Learn about shopping with adverbs of frequency and present simple for future.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-8",
+          "name": "Shopping Vocabulary",
+          "slug": "shopping-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 8: Shopping",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Shopping places:</strong> shopping mall, supermarket, convenience store, market, online shop, department store</p><p><strong>Shopping actions:</strong> buy, sell, pay, bargain, exchange, return, try on, look for, shop around</p><p><strong>Money:</strong> price, cost, discount, sale, receipt, change, cash, credit card</p><p><strong>Products:</strong> goods, item, product, brand, quality, size, color</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Shopping expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>go shopping:</strong> đi mua sắm</li><li><strong>window shopping:</strong> ngắm đồ</li><li><strong>on sale:</strong> giảm giá</li><li><strong>try on clothes:</strong> thử quần áo</li><li><strong>pay by card:</strong> trả bằng thẻ</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Stress in words with -er and -or</h3><p><strong>Nhấn âm tiết đầu:</strong></p><ul class='list-disc pl-5 space-y-2'><li>'customer /ˈkʌstəmə(r)/</li><li>'visitor /ˈvɪzɪtə(r)/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Adverbs of Frequency (Trạng từ tần suất)</h3><p><strong>1. Các trạng từ:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>always:</strong> luôn luôn (100%)</li><li><strong>usually:</strong> thường xuyên (80%)</li><li><strong>often:</strong> thường (60%)</li><li><strong>sometimes:</strong> thỉnh thoảng (40%)</li><li><strong>rarely/seldom:</strong> hiếm khi (20%)</li><li><strong>never:</strong> không bao giờ (0%)</li></ul><p><strong>2. Vị trí:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Trước động từ thường:</strong> I <strong>often</strong> go shopping.</li><li><strong>Sau 'to be':</strong> She <strong>is always</strong> late.</li><li><strong>Giữa trợ động từ và động từ chính:</strong> I <strong>have never</strong> been there.</li></ul><h3>B. Present Simple for Future (Hiện tại đơn cho tương lai)</h3><p><strong>Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Lịch trình, thời gian biểu cố định</li><li>Ex: The shop <strong>opens</strong> at 9 tomorrow.</li><li>Ex: The train <strong>leaves</strong> at 6 p.m.</li><li>Ex: The sale <strong>starts</strong> next week.</li></ul>"
+            },
+            {
+              "heading": "5-12. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Adverbs of Frequency",
+            "method": "<p><strong>Phương pháp:</strong> Đặt trạng từ đúng vị trí</p>",
+            "examples": [
+              {
+                "question": "I ______ go shopping. (often)",
+                "solution": "I <strong>often</strong> go shopping.",
+                "explanation": "Trước động từ thường"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Present Simple for Future",
+            "method": "<p><strong>Phương pháp:</strong> Dùng hiện tại đơn cho lịch trình</p>",
+            "examples": [
+              {
+                "question": "The shop ______ (open) at 9 tomorrow.",
+                "solution": "The shop <strong>opens</strong> at 9 tomorrow.",
+                "explanation": "Lịch trình → hiện tại đơn"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I ______ go shopping on weekends.",
+            "options": ["always", "am always", "always am", "be always"],
+            "correct": 0,
+            "explanation": "Trước động từ thường → always go"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The shop ______ at 9 tomorrow.",
+            "options": ["open", "opens", "will open", "is opening"],
+            "correct": 1,
+            "explanation": "Lịch trình → hiện tại đơn"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "She ______ late for shopping.",
+            "options": ["is never", "never is", "never", "never be"],
+            "correct": 0,
+            "explanation": "Sau 'to be' → is never"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "The sale ______ next week.",
+            "options": ["start", "starts", "will start", "is starting"],
+            "correct": 1,
+            "explanation": "Lịch trình → hiện tại đơn"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "I ______ shop online.",
+            "options": ["sometimes", "am sometimes", "sometimes am", "be sometimes"],
+            "correct": 0,
+            "explanation": "Trước động từ thường → sometimes shop"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "The train ______ at 6 p.m.",
+            "options": ["leave", "leaves", "will leave", "is leaving"],
+            "correct": 1,
+            "explanation": "Lịch trình → hiện tại đơn"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "We ______ go to the mall.",
+            "options": ["often", "are often", "often are", "be often"],
+            "correct": 0,
+            "explanation": "Trước động từ thường → often go"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "The store ______ at 10 tonight.",
+            "options": ["close", "closes", "will close", "is closing"],
+            "correct": 1,
+            "explanation": "Lịch trình → hiện tại đơn"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "He ______ buys expensive things.",
+            "options": ["rarely", "is rarely", "rarely is", "be rarely"],
+            "correct": 0,
+            "explanation": "Trước động từ thường → rarely buys"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "The market ______ early tomorrow.",
+            "options": ["open", "opens", "will open", "is opening"],
+            "correct": 1,
+            "explanation": "Lịch trình → hiện tại đơn"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "lessons": [
+    {
+      "id": "lesson-1",
+      "title": "Hàm số lượng giác",
+      "chapter": 1,
+      "description": "Tìm hiểu về các hàm số lượng giác cơ bản: sin, cos, tan, cot",
+      "duration": 45,
+      "difficulty": "medium",
+      "content": {
+        "theory": [
+          "Hàm số lượng giác là các hàm số được định nghĩa thông qua tỉ số các cạnh trong tam giác vuông hoặc trên đường tròn lượng giác.",
+          "Các hàm số lượng giác cơ bản: sin(x), cos(x), tan(x), cot(x)",
+          "Tập xác định: sin(x) và cos(x) có tập xác định là R, tan(x) xác định khi x ≠ π/2 + kπ, cot(x) xác định khi x ≠ kπ"
+        ],
+        "formulas": [
+          {
+            "name": "Công thức cơ bản",
+            "latex": "\\sin^2(x) + \\cos^2(x) = 1",
+            "description": "Đẳng thức lượng giác cơ bản"
+          },
+          {
+            "name": "Công thức tan",
+            "latex": "\\tan(x) = \\frac{\\sin(x)}{\\cos(x)}",
+            "description": "Định nghĩa hàm tan"
+          },
+          {
+            "name": "Công thức cot",
+            "latex": "\\cot(x) = \\frac{\\cos(x)}{\\sin(x)} = \\frac{1}{\\tan(x)}",
+            "description": "Định nghĩa hàm cot"
+          }
+        ],
+        "examples": [
+          {
+            "title": "Tính giá trị lượng giác",
+            "problem": "Tính sin(30°), cos(45°), tan(60°)",
+            "solution": "sin(30°) = 1/2, cos(45°) = √2/2, tan(60°) = √3",
+            "steps": [
+              "Sử dụng bảng giá trị lượng giác đặc biệt",
+              "sin(30°) = 1/2",
+              "cos(45°) = √2/2 ≈ 0.707",
+              "tan(60°) = √3 ≈ 1.732"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lesson-2",
+      "title": "Phương trình lượng giác cơ bản",
+      "chapter": 1,
+      "description": "Giải các phương trình lượng giác cơ bản",
+      "duration": 50,
+      "difficulty": "medium",
+      "content": {
+        "theory": [
+          "Phương trình lượng giác cơ bản có dạng: sin(x) = a, cos(x) = a, tan(x) = a, cot(x) = a",
+          "Điều kiện có nghiệm: |a| ≤ 1 đối với sin và cos",
+          "Công thức nghiệm tổng quát sử dụng chu kỳ của hàm lượng giác"
+        ],
+        "formulas": [
+          {
+            "name": "Nghiệm sin(x) = a",
+            "latex": "x = \\arcsin(a) + 2k\\pi \\text{ hoặc } x = \\pi - \\arcsin(a) + 2k\\pi",
+            "description": "Công thức nghiệm phương trình sin"
+          },
+          {
+            "name": "Nghiệm cos(x) = a",
+            "latex": "x = \\pm \\arccos(a) + 2k\\pi",
+            "description": "Công thức nghiệm phương trình cos"
+          }
+        ],
+        "examples": [
+          {
+            "title": "Giải phương trình sin",
+            "problem": "Giải phương trình sin(x) = 1/2",
+            "solution": "x = π/6 + 2kπ hoặc x = 5π/6 + 2kπ (k ∈ Z)",
+            "steps": [
+              "Xác định arcsin(1/2) = π/6",
+              "Nghiệm thứ nhất: x = π/6 + 2kπ",
+              "Nghiệm thứ hai: x = π - π/6 + 2kπ = 5π/6 + 2kπ"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "lesson-3",
+      "title": "Đạo hàm",
+      "chapter": 2,
+      "description": "Khái niệm và quy tắc tính đạo hàm",
+      "duration": 60,
+      "difficulty": "hard",
+      "content": {
+        "theory": [
+          "Đạo hàm của hàm số y = f(x) tại điểm x₀ là giới hạn của tỉ số Δy/Δx khi Δx → 0",
+          "Đạo hàm biểu diễn tốc độ thay đổi của hàm số",
+          "Ý nghĩa hình học: đạo hàm tại một điểm là hệ số góc của tiếp tuyến tại điểm đó"
+        ],
+        "formulas": [
+          {
+            "name": "Định nghĩa đạo hàm",
+            "latex": "f'(x) = \\lim_{\\Delta x \\to 0} \\frac{f(x + \\Delta x) - f(x)}{\\Delta x}",
+            "description": "Định nghĩa đạo hàm bằng giới hạn"
+          },
+          {
+            "name": "Đạo hàm hàm hợp",
+            "latex": "(f(g(x)))' = f'(g(x)) \\cdot g'(x)",
+            "description": "Quy tắc đạo hàm hàm hợp"
+          },
+          {
+            "name": "Đạo hàm tích",
+            "latex": "(u \\cdot v)' = u' \\cdot v + u \\cdot v'",
+            "description": "Quy tắc đạo hàm tích"
+          }
+        ],
+        "examples": [
+          {
+            "title": "Tính đạo hàm hàm đa thức",
+            "problem": "Tính đạo hàm của f(x) = 3x² + 2x - 5",
+            "solution": "f'(x) = 6x + 2",
+            "steps": [
+              "Áp dụng công thức (xⁿ)' = n·xⁿ⁻¹",
+              "(3x²)' = 6x",
+              "(2x)' = 2",
+              "(5)' = 0",
+              "Kết quả: f'(x) = 6x + 2"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

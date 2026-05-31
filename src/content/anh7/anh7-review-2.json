@@ -1,0 +1,372 @@
+{
+  "subject": "Tiếng Anh 7",
+  "subject_id": 44,
+  "lessons": [
+    {
+      "id": "anh7-review-2",
+      "name": "Review 2 (Units 4 - 5 - 6)",
+      "slug": "review-2-units-4-5-6",
+      "chapter": "Review 2 (Units 4 - 5 - 6)",
+      "chapter_id": "A7",
+      "lesson_id": 20,
+      "description": "Review of Units 4, 5, and 6 covering music and arts, food and drink, and schools.",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=2622&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-2",
+          "name": "Review 2 Comprehensive",
+          "slug": "review-2-comprehensive",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 2 (Units 4 - 5 - 6)",
+          "sections": [
+            {
+              "heading": "1. Language - Vocabulary",
+              "content": "<h3>Unit 4: Music and Arts</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Music:</strong> musician, composer, instrument, guitar, piano, perform</li><li><strong>Arts:</strong> painting, drawing, sculpture, photography, artist, painter, exhibition, gallery</li></ul><h3>Unit 5: Food and Drink</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Food:</strong> rice, noodles, bread, meat, fish, vegetable, fruit, egg</li><li><strong>Drink:</strong> milk, water, tea, juice</li><li><strong>Cooking:</strong> dish, ingredient, recipe, cook, boil, fry, grill</li></ul><h3>Unit 6: A Visit to a School</h3><p><strong>Key vocabulary:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Facilities:</strong> classroom, library, laboratory, playground, gym, canteen, building, gate, garden</li><li><strong>School:</strong> facility, equipment, uniform, timetable, subject</li></ul>"
+            },
+            {
+              "heading": "2. Language - Grammar",
+              "content": "<h3>Unit 4: Comparisons</h3><p><strong>1. Like and different from:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + V + like + N (giống như)</li><li>S + be + different from + N (khác với)</li></ul><p><strong>2. (not) as...as:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + V + (not) as + adj/adv + as + N</li></ul><p><strong>3. Too and Either:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Too: câu khẳng định</li><li>Either: câu phủ định</li></ul><h3>Unit 5: Quantifiers</h3><p><strong>1. Some, a lot of/lots of:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Some: một vài (khẳng định, lời mời)</li><li>A lot of/Lots of: nhiều</li></ul><p><strong>2. Much, Many, Any:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Much + N không đếm được (phủ định, nghi vấn)</li><li>Many + N đếm được (phủ định, nghi vấn)</li><li>Any: phủ định, nghi vấn</li></ul><h3>Unit 6: Prepositions</h3><p><strong>Time:</strong></p><ul class='list-disc pl-5 space-y-2'><li>IN: tháng, năm, mùa, buổi</li><li>ON: ngày trong tuần, ngày tháng</li><li>AT: giờ, thời điểm đặc biệt</li></ul><p><strong>Place:</strong></p><ul class='list-disc pl-5 space-y-2'><li>IN: không gian kín, địa điểm lớn</li><li>ON: bề mặt, tầng, đường</li><li>AT: địa điểm cụ thể</li></ul>"
+            },
+            {
+              "heading": "3. Skills - Reading Passage 1: Music and Food in Vietnam",
+              "content": "<p><strong>Vietnamese Culture</strong></p><p>Vietnam has a rich culture with beautiful music and delicious food. Traditional Vietnamese music is different from Western music. It uses special instruments like the đàn bầu and đàn tranh. These instruments sound very unique. Vietnamese folk music is as beautiful as classical music from other countries.</p><p>Vietnamese food is famous around the world. We have many delicious dishes like phở, bánh mì, and spring rolls. Phở is a traditional noodle soup. To make phở, you need a lot of ingredients: rice noodles, beef or chicken, herbs, and spices. The recipe is not as simple as it looks. You must cook the broth for many hours.</p><p>Vietnamese people eat rice at almost every meal. We also eat lots of vegetables and fruits because they are healthy. In the morning, many people have phở or bánh mì for breakfast. At lunch and dinner, we usually have rice with meat, fish, and vegetables.</p><p>Both music and food are important parts of Vietnamese culture. They bring people together and make life more enjoyable.</p>"
+            },
+            {
+              "heading": "4. Skills - Reading Passage 2: My School",
+              "content": "<p><strong>A Great Place to Learn</strong></p><p>My school is located in the center of the city. It's a big school with three buildings. The main building has classrooms on three floors. My classroom is on the second floor. It's bright and comfortable.</p><p>Our school has excellent facilities. We have a large library with lots of books. Students can study in the library in the afternoon. We also have a modern computer room and a science laboratory. In the laboratory, we do experiments on Wednesdays and Fridays.</p><p>The school has a big playground where we play sports at break time. There's also a gym for P.E. classes. Behind the school, there's a beautiful garden with many trees and flowers. Students often sit in the garden to read or chat with friends.</p><p>We study many subjects at school. I have English classes on Mondays, Wednesdays, and Fridays at 8 o'clock. My favourite subject is Music. We have Music class in a special music room on Tuesdays. The music teacher is very talented. She plays the piano as well as a professional musician.</p><p>I love my school because it has good facilities and friendly teachers. I feel happy when I'm at school.</p>"
+            },
+            {
+              "heading": "5. Skills - Practice Exercises",
+              "content": "<p><strong>Based on Reading Passage 1:</strong></p><ol class='list-decimal pl-5 space-y-2'><li>How is Vietnamese music different from Western music?</li><li>What ingredients do you need to make phở?</li><li>What do Vietnamese people usually eat for breakfast?</li><li>Why are music and food important in Vietnamese culture?</li></ol><p><strong>Based on Reading Passage 2:</strong></p><ol class='list-decimal pl-5 space-y-2'><li>Where is the school located?</li><li>What facilities does the school have?</li><li>When do students do experiments?</li><li>What is the writer's favourite subject?</li></ol>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: So sánh",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Like: giống như</li><li>Different from: khác với</li><li>(not) as...as: (không) bằng</li></ul>",
+            "examples": [
+              {
+                "question": "Pop music is ______ rock music.",
+                "solution": "Pop music is <strong>like</strong> rock music.",
+                "explanation": "Giống nhau → like."
+              },
+              {
+                "question": "This song is ______ good ______ that one.",
+                "solution": "This song is <strong>as good as</strong> that one.",
+                "explanation": "Bằng nhau → as...as."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Quantifiers",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Some: khẳng định, lời mời</li><li>A lot of/Lots of: nhiều</li><li>Much/Many: phủ định, nghi vấn</li></ul>",
+            "examples": [
+              {
+                "question": "I have ______ apples.",
+                "solution": "I have <strong>some</strong> apples.",
+                "explanation": "Khẳng định → some."
+              },
+              {
+                "question": "How ______ rice do you need?",
+                "solution": "How <strong>much</strong> rice do you need?",
+                "explanation": "N không đếm được → much."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Giới từ",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>IN: tháng, năm, mùa, buổi, không gian kín</li><li>ON: ngày, tầng, đường</li><li>AT: giờ, địa điểm cụ thể</li></ul>",
+            "examples": [
+              {
+                "question": "I go to school ______ 7 o'clock.",
+                "solution": "I go to school <strong>at</strong> 7 o'clock.",
+                "explanation": "Giờ → at."
+              },
+              {
+                "question": "I have English ______ Monday.",
+                "solution": "I have English <strong>on</strong> Monday.",
+                "explanation": "Ngày trong tuần → on."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Kết hợp các dạng",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Xác định loại câu (so sánh, số lượng, thời gian/địa điểm)</li><li>Áp dụng quy tắc phù hợp</li></ul>",
+            "examples": [
+              {
+                "question": "She has ______ friends. They study ______ the library ______ the afternoon.",
+                "solution": "She has <strong>a lot of</strong> friends. They study <strong>in</strong> the library <strong>in</strong> the afternoon.",
+                "explanation": "Nhiều → a lot of; không gian kín → in; buổi → in."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "Pop music is ______ rock music.",
+            "options": ["like", "as", "from", "than"],
+            "correct": 0,
+            "explanation": "Giống nhau → like."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "I have ______ apples.",
+            "options": ["some", "any", "much", "many"],
+            "correct": 0,
+            "explanation": "Khẳng định + N đếm được → some."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I go to school ______ 7 o'clock.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 2,
+            "explanation": "Giờ → at."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "This song is ______ good ______ that one.",
+            "options": ["as/as", "as/than", "like/as", "from/as"],
+            "correct": 0,
+            "explanation": "Bằng nhau → as...as."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She has ______ friends.",
+            "options": ["some", "a lot of", "much", "any"],
+            "correct": 1,
+            "explanation": "Nhiều + N đếm được → a lot of."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "I have English ______ Monday.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 1,
+            "explanation": "Ngày trong tuần → on."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "Classical music is ______ pop music.",
+            "options": ["like from", "different from", "as from", "than from"],
+            "correct": 1,
+            "explanation": "Khác nhau → different from."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "How ______ rice do you need?",
+            "options": ["much", "many", "some", "a lot"],
+            "correct": 0,
+            "explanation": "N không đếm được → much."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "We study ______ the morning.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 0,
+            "explanation": "Buổi trong ngày → in."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "I like music. She likes music, ______.",
+            "options": ["too", "either", "neither", "so"],
+            "correct": 0,
+            "explanation": "Câu khẳng định → too."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "I drink ______ water every day.",
+            "options": ["some", "a lot of", "many", "few"],
+            "correct": 1,
+            "explanation": "Nhiều + N không đếm được → a lot of."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "My classroom is ______ the second floor.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 1,
+            "explanation": "Tầng → on."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "She sings ______ well ______ a professional.",
+            "options": ["as/as", "as/than", "like/as", "from/as"],
+            "correct": 0,
+            "explanation": "Bằng nhau → as...as."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "Would you like ______ tea?",
+            "options": ["some", "any", "much", "many"],
+            "correct": 0,
+            "explanation": "Lời mời → some."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "I live ______ Vietnam.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 0,
+            "explanation": "Địa điểm lớn → in."
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "I don't like jazz. She doesn't like jazz, ______.",
+            "options": ["too", "either", "neither", "so"],
+            "correct": 1,
+            "explanation": "Câu phủ định → either."
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "How ______ eggs do you need?",
+            "options": ["much", "many", "some", "a lot"],
+            "correct": 1,
+            "explanation": "N đếm được → many."
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "We have a holiday ______ summer.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 0,
+            "explanation": "Mùa → in."
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "My guitar is ______ yours.",
+            "options": ["the same as", "the same from", "same as", "same from"],
+            "correct": 0,
+            "explanation": "Hoàn toàn giống → the same as."
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "I study ______ the library.",
+            "options": ["in", "on", "at", "to"],
+            "correct": 0,
+            "explanation": "Không gian kín → in."
+          },
+          {
+            "id": "tf1",
+            "type": "true-false",
+            "question": "Vietnamese music uses instruments like đàn bầu and đàn tranh.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'It uses special instruments like the đàn bầu and đàn tranh'."
+          },
+          {
+            "id": "tf2",
+            "type": "true-false",
+            "question": "The recipe for phở is very simple.",
+            "correct": false,
+            "explanation": "Sai. Bài đọc nói 'The recipe is not as simple as it looks'."
+          },
+          {
+            "id": "tf3",
+            "type": "true-false",
+            "question": "The school has two buildings.",
+            "correct": false,
+            "explanation": "Sai. Bài đọc nói 'It's a big school with three buildings'."
+          },
+          {
+            "id": "tf4",
+            "type": "true-false",
+            "question": "Students do experiments on Wednesdays and Fridays.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'we do experiments on Wednesdays and Fridays'."
+          },
+          {
+            "id": "tf5",
+            "type": "true-false",
+            "question": "The writer's classroom is on the third floor.",
+            "correct": false,
+            "explanation": "Sai. Bài đọc nói 'My classroom is on the second floor'."
+          },
+          {
+            "id": "short1",
+            "type": "short-answer",
+            "question": "What instruments does Vietnamese music use?",
+            "answer": "Đàn bầu and đàn tranh",
+            "explanation": "Bài đọc nói 'It uses special instruments like the đàn bầu and đàn tranh'."
+          },
+          {
+            "id": "short2",
+            "type": "short-answer",
+            "question": "What do Vietnamese people usually eat at meals?",
+            "answer": "Rice with meat, fish, and vegetables",
+            "explanation": "Bài đọc nói 'we usually have rice with meat, fish, and vegetables'."
+          },
+          {
+            "id": "short3",
+            "type": "short-answer",
+            "question": "Where is the writer's classroom?",
+            "answer": "On the second floor",
+            "explanation": "Bài đọc nói 'My classroom is on the second floor'."
+          },
+          {
+            "id": "short4",
+            "type": "short-answer",
+            "question": "What is the writer's favourite subject?",
+            "answer": "Music",
+            "explanation": "Bài đọc nói 'My favourite subject is Music'."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write about your favourite type of music or art (50-70 words). Use comparisons.",
+            "sample_answer": "My favourite type of music is pop music. I think pop music is more exciting than classical music. It's as popular as rock music among young people. Pop music is different from traditional music because it uses modern instruments. I like pop music because it makes me feel happy and energetic. I listen to pop music every day. It's not as serious as classical music, but it's very enjoyable.",
+            "explanation": "Bài viết cần sử dụng cấu trúc so sánh: like, different from, as...as."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Write a recipe for a simple Vietnamese dish (50-70 words). Use quantifiers.",
+            "sample_answer": "To make fried rice, you need some rice, some eggs, and lots of vegetables. First, cook the rice and let it cool. Then, heat some oil in a pan. Add the eggs and scramble them. Next, add the rice and vegetables. Mix everything together. Add a little salt and pepper. Fry for a few minutes. The dish is ready to serve. It's delicious and easy to make.",
+            "explanation": "Bài viết cần sử dụng quantifiers: some, a lot of/lots of, a little, a few."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Write about your school (50-70 words). Use prepositions of time and place.",
+            "sample_answer": "My school is located in the city center. It has many facilities. There's a library on the first floor and a computer room on the second floor. We have classes from Monday to Friday. School starts at 7 o'clock in the morning. I have English on Mondays and Wednesdays. At break time, we play in the playground. I study in the library in the afternoon. I love my school.",
+            "explanation": "Bài viết cần sử dụng giới từ: in, on, at cho thời gian và địa điểm."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Compare two types of food or two schools (50-70 words).",
+            "sample_answer": "Vietnamese food is different from Western food. Vietnamese food uses lots of vegetables and herbs. It's not as oily as Western food. Rice is more important in Vietnamese cuisine than bread. However, both types of food are delicious. Vietnamese phở is like Italian pasta - they are both noodle dishes. I prefer Vietnamese food because it's healthier and tastier. It has more flavours than Western food.",
+            "explanation": "Bài viết cần sử dụng cấu trúc so sánh để so sánh hai loại thức ăn hoặc hai trường học."
+          }
+        ]
+      }
+    }
+  ]
+}

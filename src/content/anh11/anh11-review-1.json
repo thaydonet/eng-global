@@ -1,0 +1,410 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-review-1",
+      "name": "Review 1 (Units 1 - 3)",
+      "slug": "review-1-units-1-3",
+      "chapter": "Review 1 (Units 1 - 3)",
+      "chapter_id": "A11",
+      "lesson_id": 4,
+      "description": "Ôn tập từ vựng và ngữ pháp từ Unit 1, 2 và 3 (Tiếng Anh 11 - Global Success).",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-1-mixed",
+          "name": "Mixed Review",
+          "slug": "mixed-review",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 1: Units 1-3",
+          "sections": [
+            {
+              "heading": "I. Language - Ôn tập ngôn ngữ",
+              "content": "<h3>A. Pronunciation (Phát âm)</h3><p><strong>Unit 1:</strong> Sentence stress and rhythm</p><ul class='list-disc pl-5 space-y-2'><li>Nhấn mạnh content words: nouns, main verbs, adjectives, adverbs</li><li>Không nhấn: articles (a, an, the), prepositions, pronouns, auxiliary verbs</li><li>Ex: <strong>STUDENTS</strong> should <strong>EAT</strong> a <strong>BALANCED DIET</strong> every <strong>DAY</strong>.</li></ul><p><strong>Unit 2:</strong> Strong and weak forms of modal verbs</p><ul class='list-disc pl-5 space-y-2'><li>Strong form: nhấn mạnh khi đứng cuối câu hoặc nhấn mạnh</li><li>Weak form: không nhấn trong câu bình thường</li><li>Ex: You <strong>must</strong> /məst/ go. vs. Yes, I <strong>must</strong> /mʌst/.</li></ul><p><strong>Unit 3:</strong> Sentence stress in statements and questions</p><ul class='list-disc pl-5 space-y-2'><li>Statements: nhấn từ quan trọng nhất (thường ở cuối)</li><li>Questions: nhấn từ để hỏi và từ quan trọng</li><li>Ex: <strong>WHERE</strong> will you <strong>GO</strong>? / The city is <strong>SMART</strong>.</li></ul><h3>B. Vocabulary (Từ vựng)</h3><p><strong>Unit 1: A Long and Healthy Life</strong></p><ul class='list-disc pl-5 space-y-2'><li>Health: nutrition, exercise, balanced diet, life expectancy</li><li>Lifestyle: healthy lifestyle, mental health, physical health, immune system</li><li>Habits: meditation, fitness, obesity, chronic disease, well-being</li></ul><p><strong>Unit 2: The Generation Gap</strong></p><ul class='list-disc pl-5 space-y-2'><li>Family: generation gap, conflict, argue, viewpoint, respect</li><li>Values: traditional, modern, expectation, independence, obey</li><li>Communication: understand, compromise, rebel, communication</li></ul><p><strong>Unit 3: Cities of the Future</strong></p><ul class='list-disc pl-5 space-y-2'><li>Smart cities: smart city, sustainable, infrastructure, urban</li><li>Technology: renewable energy, public transport, eco-friendly, sensor</li><li>Urban issues: efficient, congestion, pollution, green space, liveable</li></ul><h3>C. Grammar (Ngữ pháp)</h3><p><strong>Unit 1: Past Simple vs. Present Perfect</strong></p><ul class='list-disc pl-5 space-y-2'><li>Past Simple: hành động đã hoàn thành, có thời gian xác định (yesterday, last week, ago)</li><li>Present Perfect: hành động không rõ thời gian, liên quan đến hiện tại (already, yet, just, ever, never, for, since)</li><li>Ex: I <strong>started</strong> yoga last year. / I <strong>have done</strong> yoga for 3 years.</li></ul><p><strong>Unit 2: Modal Verbs (must, have to, should)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Must:</strong> bắt buộc (người nói quyết định) / Mustn't: cấm</li><li><strong>Have to:</strong> bắt buộc (quy định bên ngoài) / Don't have to: không cần</li><li><strong>Should:</strong> nên (lời khuyên) / Shouldn't: không nên</li><li>Ex: You <strong>must</strong> respect elders. / You <strong>have to</strong> wear uniform. / You <strong>should</strong> exercise.</li></ul><p><strong>Unit 3: Stative Verbs & Linking Verbs</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Stative verbs:</strong> không dùng continuous (know, believe, like, have, see, belong...)</li><li><strong>Linking verbs:</strong> + adjective (be, look, seem, appear, sound, feel, taste, smell, become, get, remain...)</li><li>Ex: I <strong>know</strong> the answer. (NOT: am knowing) / The city <strong>looks</strong> beautiful. (NOT: beautifully)</li></ul>"
+            },
+            {
+              "heading": "II. Skills - Ôn tập kỹ năng",
+              "content": "<h3>A. Reading (Đọc hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc lướt để nắm ý chính (skimming)</li><li>Đọc kỹ để tìm thông tin chi tiết (scanning)</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li><li>Hiểu ý chính và ý phụ của đoạn văn</li><li>Xác định thông tin đúng/sai</li><li>Suy luận và rút ra kết luận</li></ul><p><strong>Chủ đề đã đọc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Secrets to a long and healthy life (Blue Zones)</li><li>Understanding the generation gap</li><li>Smart cities and sustainable development</li></ul><h3>B. Speaking (Nói)</h3><p><strong>Chủ đề đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Talking about healthy habits and lifestyle choices</li><li>Discussing generation gap and family conflicts</li><li>Talking about cities of the future</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I have been... for... / I started... ago</li><li>You should/must/have to...</li><li>The city looks/seems/appears...</li><li>In my opinion... / I think/believe...</li><li>It's important to... / We need to...</li></ul><h3>C. Listening (Nghe hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe để nắm ý chính</li><li>Nghe để tìm thông tin cụ thể</li><li>Điền thông tin còn thiếu (gap-filling)</li><li>Trả lời câu hỏi chi tiết</li><li>Ghi chú các ý quan trọng (note-taking)</li><li>Hiểu thái độ và ý kiến của người nói</li></ul><p><strong>Chủ đề đã nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Talks about maintaining a healthy lifestyle</li><li>Conversations about family rules and conflicts</li><li>Presentations about sustainable urban development</li></ul><h3>D. Writing (Viết)</h3><p><strong>Dạng bài đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Writing about ways to live a long and healthy life</li><li>Writing about the generation gap and how to bridge it</li><li>Writing about your ideal city of the future</li></ul><p><strong>Kỹ năng viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tổ chức bài viết: Introduction - Body - Conclusion</li><li>Sử dụng từ nối: First/Firstly, Second/Secondly, Moreover, In addition, However, Therefore, Finally, In conclusion</li><li>Sử dụng các thì phù hợp (Past Simple, Present Perfect, modal verbs)</li><li>Sử dụng stative verbs và linking verbs đúng cách</li><li>Viết câu đa dạng và mạch lạc</li></ul><p><strong>Cấu trúc bài viết mẫu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Introduction:</strong> Giới thiệu chủ đề (1-2 câu)</li><li><strong>Body:</strong> Trình bày ý chính (2-3 đoạn với supporting details)</li><li><strong>Conclusion:</strong> Kết luận và nhấn mạnh ý chính (1-2 câu)</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Mixed Exercise",
+            "method": "<p>Review all grammar points and vocabulary from Units 1-3.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Living a healthy lifestyle has become increasingly important in modern society. People who maintain good health habits tend to live longer and enjoy better quality of life. Research shows that a balanced diet, regular exercise, and adequate sleep are the three pillars of a healthy life.\n\nFirst, eating a balanced diet provides the body with essential nutrients. People should eat plenty of fruits, vegetables, whole grains, and lean proteins. They must avoid junk food and sugary drinks, which can lead to obesity and chronic diseases. Second, regular physical activity strengthens the immune system and reduces stress. Experts recommend at least 30 minutes of exercise daily. Finally, getting 7-8 hours of sleep each night helps the body recover and maintain mental health.\n\nHowever, many young people today have unhealthy habits. They often stay up late using smartphones and eat fast food regularly. Parents should encourage their children to adopt healthier lifestyles. The generation gap sometimes makes it difficult for parents and children to agree on health matters, but both sides must communicate and find compromises. After all, good health is the foundation for a successful and happy life.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Young people are healthier than older people",
+                  "Maintaining a healthy lifestyle is important for quality of life",
+                  "Exercise is the only way to stay healthy",
+                  "The generation gap causes health problems"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về tầm quan trọng của việc duy trì lối sống lành mạnh cho chất lượng cuộc sống."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, what are the three pillars of a healthy life?",
+                "options": [
+                  "Money, fame, and power",
+                  "Balanced diet, regular exercise, and adequate sleep",
+                  "Work, study, and entertainment",
+                  "Family, friends, and career"
+                ],
+                "correct": 1,
+                "explanation": "Ba trụ cột của cuộc sống khỏe mạnh là chế độ ăn cân bằng, tập thể dục đều đặn và ngủ đủ giấc."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'adequate' in paragraph 1 is closest in meaning to ______.",
+                "options": [
+                  "insufficient",
+                  "enough",
+                  "excessive",
+                  "little"
+                ],
+                "correct": 1,
+                "explanation": "Adequate = enough (đủ, thỏa đáng)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What unhealthy habits do many young people have?",
+                "options": [
+                  "Exercising too much",
+                  "Eating too many vegetables",
+                  "Staying up late and eating fast food",
+                  "Sleeping too much"
+                ],
+                "correct": 2,
+                "explanation": "Nhiều người trẻ có thói quen thức khuya và ăn đồ ăn nhanh."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, why is communication important between parents and children?",
+                "options": [
+                  "To argue more effectively",
+                  "To avoid talking about health",
+                  "To find compromises despite the generation gap",
+                  "To ignore each other's opinions"
+                ],
+                "correct": 2,
+                "explanation": "Giao tiếp quan trọng để tìm ra sự thỏa hiệp mặc dù có khoảng cách thế hệ."
+              }
+            ]
+          },
+          {
+            "id": "reading2",
+            "type": "reading",
+            "passage": "Smart cities are transforming urban life around the world. These cities use advanced technology to improve services, reduce pollution, and enhance the quality of life for residents. Singapore, Barcelona, and Dubai are examples of cities that have successfully implemented smart city solutions.\n\nIn smart cities, sensors and cameras collect data about traffic, energy use, and air quality. This information helps city managers make better decisions. For example, smart traffic lights adjust automatically based on traffic flow, reducing congestion. Smart buildings use energy more efficiently, lowering costs and carbon emissions. Public transport systems become more reliable with real-time tracking and digital payment options.\n\nHowever, building smart cities requires significant investment in infrastructure and technology. Cities must also address concerns about privacy and data security. Despite these challenges, the benefits of smart cities seem clear. They look promising for creating more sustainable and liveable urban environments. As technology continues to advance, more cities will become smarter, making urban life better for everyone.",
+            "questions": [
+              {
+                "id": "reading2-q1",
+                "question": "What is the passage mainly about?",
+                "options": [
+                  "The problems of modern cities",
+                  "How smart cities use technology to improve urban life",
+                  "Why cities should not use technology",
+                  "The history of urban development"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về cách thành phố thông minh sử dụng công nghệ để cải thiện cuộc sống đô thị."
+              },
+              {
+                "id": "reading2-q2",
+                "question": "Which cities are mentioned as examples of smart cities?",
+                "options": [
+                  "London, Paris, and New York",
+                  "Singapore, Barcelona, and Dubai",
+                  "Tokyo, Seoul, and Beijing",
+                  "Sydney, Toronto, and Berlin"
+                ],
+                "correct": 1,
+                "explanation": "Singapore, Barcelona và Dubai được đề cập là ví dụ về thành phố thông minh."
+              },
+              {
+                "id": "reading2-q3",
+                "question": "The word 'enhance' in paragraph 1 is closest in meaning to ______.",
+                "options": [
+                  "reduce",
+                  "improve",
+                  "destroy",
+                  "ignore"
+                ],
+                "correct": 1,
+                "explanation": "Enhance = improve (cải thiện, nâng cao)."
+              },
+              {
+                "id": "reading2-q4",
+                "question": "What do smart traffic lights do?",
+                "options": [
+                  "They never change color",
+                  "They adjust automatically based on traffic flow",
+                  "They cause more congestion",
+                  "They don't work at night"
+                ],
+                "correct": 1,
+                "explanation": "Đèn giao thông thông minh tự động điều chỉnh dựa trên lưu lượng giao thông."
+              },
+              {
+                "id": "reading2-q5",
+                "question": "What challenges do smart cities face?",
+                "options": [
+                  "Too many people want to live there",
+                  "Investment costs and privacy concerns",
+                  "Lack of technology",
+                  "Too much green space"
+                ],
+                "correct": 1,
+                "explanation": "Thành phố thông minh đối mặt với chi phí đầu tư và lo ngại về quyền riêng tư."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I ______ yoga for three years and I feel much healthier now.",
+            "options": ["do", "did", "have done", "am doing"],
+            "correct": 2,
+            "explanation": "Dùng Present Perfect với 'for three years' để chỉ hành động bắt đầu trong quá khứ và còn tiếp tục."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "You ______ respect your parents even when you disagree with them.",
+            "options": ["should", "must", "have to", "can"],
+            "correct": 1,
+            "explanation": "Dùng 'must' để diễn tả sự bắt buộc mạnh mẽ về đạo đức."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "The plan ______ very practical and effective.",
+            "options": ["sounds", "is sounding", "sound", "sounded"],
+            "correct": 0,
+            "explanation": "Sound là linking verb, không dùng ở thì tiếp diễn."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "She ______ smoking last year and feels much better now.",
+            "options": ["quits", "quit", "has quit", "is quitting"],
+            "correct": 1,
+            "explanation": "Dùng Past Simple với 'last year' (thời gian xác định trong quá khứ)."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "Students ______ wear uniforms at school. It's a school rule.",
+            "options": ["should", "must", "have to", "ought to"],
+            "correct": 2,
+            "explanation": "Dùng 'have to' cho quy định bắt buộc từ bên ngoài (quy định của trường)."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "I ______ that smart cities are the future of urban development.",
+            "options": ["am believing", "believe", "believes", "believed"],
+            "correct": 1,
+            "explanation": "Believe là stative verb, không dùng ở thì tiếp diễn."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "A ______ diet includes a variety of healthy foods from all food groups.",
+            "options": ["balanced", "balance", "balancing", "balances"],
+            "correct": 0,
+            "explanation": "Balanced diet: chế độ ăn cân bằng (cần tính từ)."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "There is a big ______ between my parents and me about using social media.",
+            "options": ["generation gap", "generation", "gap", "different"],
+            "correct": 0,
+            "explanation": "Generation gap: khoảng cách thế hệ."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "The city is becoming more ______.",
+            "options": ["liveable", "live", "living", "lively"],
+            "correct": 0,
+            "explanation": "Liveable (adj): đáng sống - sau linking verb 'becoming' cần tính từ."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Have you ever ______ meditation to reduce stress?",
+            "options": ["try", "tried", "trying", "tries"],
+            "correct": 1,
+            "explanation": "Dùng V3 (tried) sau 'Have you ever' trong Present Perfect."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "You ______ lie to your parents. It's wrong.",
+            "options": ["shouldn't", "mustn't", "don't have to", "haven't"],
+            "correct": 1,
+            "explanation": "Dùng 'mustn't' để diễn tả sự cấm đoán mạnh mẽ."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "This solution ______ good for reducing traffic congestion.",
+            "options": ["looks", "is looking", "look", "looking"],
+            "correct": 0,
+            "explanation": "Look là linking verb + adjective (good), không dùng tiếp diễn."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "They ______ to the gym three times a week since January.",
+            "options": ["go", "went", "have gone", "are going"],
+            "correct": 2,
+            "explanation": "Dùng Present Perfect với 'since January' để chỉ hành động bắt đầu từ tháng 1 và còn tiếp tục."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "Good ______ between parents and children can help solve conflicts.",
+            "options": ["communicate", "communication", "communicative", "communicator"],
+            "correct": 1,
+            "explanation": "Communication (n): sự giao tiếp - cần danh từ làm chủ ngữ."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "We need to develop ______ infrastructure for the city.",
+            "options": ["sustain", "sustainable", "sustainability", "sustainably"],
+            "correct": 1,
+            "explanation": "Sustainable (adj): bền vững - cần tính từ bổ nghĩa cho danh từ 'infrastructure'."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Present Perfect is used for actions that happened at a specific time in the past.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Present Perfect dùng cho hành động không có thời gian cụ thể hoặc liên quan đến hiện tại. Past Simple dùng cho thời gian cụ thể."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "'Must' and 'have to' have the same meaning in negative sentences.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. 'Mustn't' = cấm, 'don't have to' = không cần thiết. Ý nghĩa khác nhau."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Stative verbs can be used in continuous tenses.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Động từ trạng thái thường KHÔNG dùng ở thì tiếp diễn."
+          },
+          {
+            "id": "msq4",
+            "type": "msq",
+            "question_text": "After linking verbs, we use adjectives, not adverbs.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Sau động từ nối dùng tính từ (The city looks beautiful, NOT beautifully)."
+          },
+          {
+            "id": "msq5",
+            "type": "msq",
+            "question_text": "A balanced diet is important for maintaining good health.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Chế độ ăn cân bằng quan trọng để duy trì sức khỏe tốt."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "Complete: I ______ exercised regularly since last month. (have)",
+            "correct": "have",
+            "explanation": "Present Perfect: have/has + V3. Dùng 'have' với chủ ngữ 'I' và 'since last month'."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "What do we call the differences between younger and older generations? (two words)",
+            "correct": "generation gap",
+            "explanation": "Generation gap: khoảng cách thế hệ - sự khác biệt giữa thế hệ trẻ và thế hệ lớn tuổi."
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question_text": "What type of city uses technology to improve quality of life? (two words)",
+            "correct": "smart city",
+            "explanation": "Smart city: thành phố thông minh - thành phố sử dụng công nghệ để cải thiện chất lượng cuộc sống."
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question_text": "Complete: You ______ respect your elders. (must/should)",
+            "correct": "must",
+            "explanation": "Dùng 'must' hoặc 'should' đều được, nhưng 'must' thể hiện sự bắt buộc mạnh hơn."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) about what you do to stay healthy.",
+            "sample_answer": "Staying healthy is very important to me, so I have developed several good habits. First, I eat a balanced diet with plenty of fruits, vegetables, and whole grains. I avoid junk food and sugary drinks because they can lead to health problems. Second, I exercise regularly. I have been jogging every morning for two years, and it helps me stay fit and energetic. Third, I make sure to get enough sleep, usually 7-8 hours each night. Sleep is essential for both physical and mental health. Finally, I practice meditation to reduce stress and maintain a positive mindset. These habits have helped me feel healthier and happier. I believe that taking care of your health should be everyone's priority.",
+            "explanation": "Bài viết mẫu bao gồm: Introduction (tầm quan trọng của sức khỏe), Body (các thói quen: ăn uống, tập luyện, ngủ, thiền), Conclusion (kết luận). Sử dụng Present Simple cho thói quen hiện tại và Present Perfect (have been jogging) cho hành động bắt đầu trong quá khứ và còn tiếp tục."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) about how to bridge the generation gap in your family.",
+            "sample_answer": "The generation gap exists in many families, including mine, but there are ways to bridge it. First, both parents and children must communicate openly and honestly. We should share our thoughts and feelings without fear of judgment. Second, parents should try to understand modern trends and technology that young people use. They don't have to agree with everything, but understanding helps. Third, children must respect their parents' experience and wisdom. We should listen to their advice even if we don't always follow it. Fourth, both sides have to compromise. Parents should give children some freedom, while children should follow important family rules. In my family, we have regular family meetings where everyone can express their opinions. This has helped us understand each other better and reduce conflicts. With effort from both sides, any family can bridge the generation gap.",
+            "explanation": "Bài viết mẫu bao gồm: Introduction (khoảng cách thế hệ tồn tại), Body (các cách: giao tiếp, hiểu biết, tôn trọng, thỏa hiệp, họp gia đình), Conclusion (kết luận). Sử dụng modal verbs (must, should, have to) để đưa ra lời khuyên."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) describing your ideal smart city of the future.",
+            "sample_answer": "My ideal smart city of the future would be a place where technology and nature exist in harmony. The city would have efficient public transportation powered by renewable energy, reducing both traffic congestion and air pollution. Smart sensors would monitor air quality, energy use, and waste management, helping the city run more efficiently. Buildings would be eco-friendly with green roofs and solar panels. There would be plenty of green spaces and parks where people could relax and exercise. The city would look modern but feel liveable and comfortable. Technology would make daily life easier, with digital services for healthcare, education, and government. Most importantly, the city would be sustainable, ensuring a better future for the next generation. I believe such cities will become a reality as technology continues to advance.",
+            "explanation": "Bài viết mẫu bao gồm: Introduction (thành phố lý tưởng), Body (các đặc điểm: giao thông, năng lượng, cảm biến, tòa nhà xanh, không gian xanh, công nghệ), Conclusion (kết luận). Sử dụng would cho tương lai giả định, linking verbs (look, feel, be) và stative verbs đúng cách."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) about the importance of exercise for a healthy life.",
+            "sample_answer": "Regular exercise is essential for maintaining a healthy life. First, it strengthens the immune system and helps prevent chronic diseases such as heart disease, diabetes, and obesity. People who exercise regularly have lower risks of developing these conditions. Second, physical activity improves mental health by reducing stress, anxiety, and depression. When we exercise, our body releases endorphins, which make us feel happier and more relaxed. Third, exercise helps maintain a healthy weight and improves physical fitness. It builds strong muscles and bones, which is especially important as we age. Finally, regular physical activity improves sleep quality and increases energy levels throughout the day. I have been exercising for several years, and I have noticed significant improvements in both my physical and mental health. Everyone should make exercise a regular part of their daily routine.",
+            "explanation": "Bài viết mẫu về tầm quan trọng của tập thể dục với cấu trúc rõ ràng: Introduction, Body (4 lợi ích chính), Personal experience (Present Perfect), Conclusion. Sử dụng linking words (First, Second, Third, Finally) và Present Perfect để nói về kinh nghiệm."
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question_text": "Write a paragraph (100-120 words) about the benefits of smart cities for residents.",
+            "sample_answer": "Smart cities offer numerous benefits for their residents. First, they improve the quality of life through better public services. Smart traffic systems reduce congestion, making commutes faster and less stressful. Second, smart cities are more sustainable and environmentally friendly. They use renewable energy sources and have efficient waste management systems, which help reduce pollution and protect the environment. Third, smart technology makes daily life more convenient. Residents can access digital services for healthcare, education, and government easily through their smartphones. Fourth, smart cities are safer with advanced security systems and emergency response capabilities. Finally, these cities seem more liveable because they balance modern technology with green spaces and community areas. As more cities become smarter, urban living will continue to improve. I believe smart cities represent the future of sustainable urban development.",
+            "explanation": "Bài viết mẫu về lợi ích của thành phố thông minh với cấu trúc: Introduction, Body (5 lợi ích: dịch vụ công, bền vững, tiện lợi, an toàn, đáng sống), Conclusion. Sử dụng linking verbs (seem) và stative verbs (believe) đúng cách."
+          }
+        ]
+      }
+    }
+  ]
+}

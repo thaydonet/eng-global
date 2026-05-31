@@ -1,0 +1,354 @@
+{
+  "subject": "Tiếng Anh 10",
+  "subject_id": 40,
+  "lessons": [
+    {
+      "id": "anh10-unit-3-music",
+      "name": "Unit 3: Music",
+      "slug": "unit-3-music",
+      "chapter": "Unit 3: Music",
+      "chapter_id": "A10",
+      "lesson_id": 3,
+      "description": "Học về âm nhạc, ca sĩ nổi tiếng, câu ghép và động từ nguyên thể có 'to' và không 'to'.",
+      "duration_minutes": 300,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=2670&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh10-unit-3-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về âm nhạc và các chương trình tài năng âm nhạc",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh10-unit-3-p1-getting-started.json"
+        },
+        {
+          "id": "anh10-unit-3-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về âm nhạc và các chương trình biểu diễn",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh10-unit-3-p2-vocabulary.json"
+        },
+        {
+          "id": "anh10-unit-3-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Câu ghép và động từ nguyên thể có 'to' và không 'to'",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh10-unit-3-p3-grammar.json"
+        },
+        {
+          "id": "anh10-unit-3-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về các chương trình tài năng âm nhạc",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh10-unit-3-p4-reading.json"
+        },
+        {
+          "id": "anh10-unit-3-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về âm nhạc và ca sĩ yêu thích",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh10-unit-3-p5-speaking.json"
+        },
+        {
+          "id": "anh10-unit-3-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe phỏng vấn ca sĩ nổi tiếng",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh10-unit-3-p6-listening.json"
+        },
+        {
+          "id": "anh10-unit-3-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về nhạc sĩ hoặc ca sĩ nổi tiếng",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh10-unit-3-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-3",
+          "name": "Music Vocabulary",
+          "slug": "music-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 3: Music",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Audience</td><td class='px-4 py-2'>(n) /ˈɔːdiəns/</td><td class='px-4 py-2'>Khán giả</td><td class='px-4 py-2'>The audience cheered loudly.</td></tr><tr><td class='px-4 py-2 font-bold'>Performance</td><td class='px-4 py-2'>(n) /pəˈfɔːməns/</td><td class='px-4 py-2'>Buổi biểu diễn</td><td class='px-4 py-2'>Her performance was amazing.</td></tr><tr><td class='px-4 py-2 font-bold'>Composer</td><td class='px-4 py-2'>(n) /kəmˈpəʊzə(r)/</td><td class='px-4 py-2'>Nhà soạn nhạc</td><td class='px-4 py-2'>Beethoven was a great composer.</td></tr><tr><td class='px-4 py-2 font-bold'>Talented</td><td class='px-4 py-2'>(adj) /ˈtæləntɪd/</td><td class='px-4 py-2'>Tài năng</td><td class='px-4 py-2'>She is a talented singer.</td></tr><tr><td class='px-4 py-2 font-bold'>Musical instrument</td><td class='px-4 py-2'>(n) /ˌmjuːzɪkl ˈɪnstrəmənt/</td><td class='px-4 py-2'>Nhạc cụ</td><td class='px-4 py-2'>He plays many musical instruments.</td></tr><tr><td class='px-4 py-2 font-bold'>Contest</td><td class='px-4 py-2'>(n) /ˈkɒntest/</td><td class='px-4 py-2'>Cuộc thi</td><td class='px-4 py-2'>She won the singing contest.</td></tr><tr><td class='px-4 py-2 font-bold'>Participant</td><td class='px-4 py-2'>(n) /pɑːˈtɪsɪpənt/</td><td class='px-4 py-2'>Người tham gia</td><td class='px-4 py-2'>All participants performed well.</td></tr><tr><td class='px-4 py-2 font-bold'>Judge</td><td class='px-4 py-2'>(n) /dʒʌdʒ/</td><td class='px-4 py-2'>Giám khảo</td><td class='px-4 py-2'>The judges gave high scores.</td></tr><tr><td class='px-4 py-2 font-bold'>Award</td><td class='px-4 py-2'>(n) /əˈwɔːd/</td><td class='px-4 py-2'>Giải thưởng</td><td class='px-4 py-2'>He received an award.</td></tr><tr><td class='px-4 py-2 font-bold'>Celebrity</td><td class='px-4 py-2'>(n) /səˈlebrəti/</td><td class='px-4 py-2'>Người nổi tiếng</td><td class='px-4 py-2'>She became a celebrity.</td></tr><tr><td class='px-4 py-2 font-bold'>Talent</td><td class='px-4 py-2'>(n) /ˈtælənt/</td><td class='px-4 py-2'>Tài năng</td><td class='px-4 py-2'>She has a talent for music.</td></tr><tr><td class='px-4 py-2 font-bold'>Perform</td><td class='px-4 py-2'>(v) /pəˈfɔːm/</td><td class='px-4 py-2'>Biểu diễn</td><td class='px-4 py-2'>They will perform tonight.</td></tr><tr><td class='px-4 py-2 font-bold'>Inspire</td><td class='px-4 py-2'>(v) /ɪnˈspaɪə(r)/</td><td class='px-4 py-2'>Truyền cảm hứng</td><td class='px-4 py-2'>Music inspires me.</td></tr><tr><td class='px-4 py-2 font-bold'>Original</td><td class='px-4 py-2'>(adj) /əˈrɪdʒənl/</td><td class='px-4 py-2'>Nguyên bản, độc đáo</td><td class='px-4 py-2'>This is an original song.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Music genres (Thể loại âm nhạc):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Pop music:</strong> nhạc pop</li><li><strong>Rock music:</strong> nhạc rock</li><li><strong>Classical music:</strong> nhạc cổ điển</li><li><strong>Jazz:</strong> nhạc jazz</li><li><strong>Hip-hop:</strong> nhạc hip-hop</li><li><strong>Folk music:</strong> nhạc dân gian</li><li><strong>Country music:</strong> nhạc đồng quê</li></ul><p><strong>Collocations về âm nhạc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>play an instrument:</strong> chơi nhạc cụ</li><li><strong>compose music:</strong> sáng tác nhạc</li><li><strong>release an album:</strong> phát hành album</li><li><strong>win an award:</strong> giành giải thưởng</li><li><strong>give a performance:</strong> biểu diễn</li><li><strong>attend a concert:</strong> tham dự buổi hòa nhạc</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm: Trọng âm từ có hai âm tiết",
+              "content": "<h3>Quy tắc trọng âm từ có 2 âm tiết:</h3><p><strong>1. Danh từ và tính từ 2 âm tiết:</strong> Thường nhấn âm tiết thứ nhất</p><ul class='list-disc pl-5 space-y-2'><li><strong>'music</strong> /ˈmjuːzɪk/</li><li><strong>'singer</strong> /ˈsɪŋə(r)/</li><li><strong>'talent</strong> /ˈtælənt/</li><li><strong>'famous</strong> /ˈfeɪməs/</li></ul><p><strong>2. Động từ 2 âm tiết:</strong> Thường nhấn âm tiết thứ hai</p><ul class='list-disc pl-5 space-y-2'><li>per<strong>'form</strong> /pəˈfɔːm/</li><li>in<strong>'spire</strong> /ɪnˈspaɪə(r)/</li><li>re<strong>'lax</strong> /rɪˈlæks/</li><li>en<strong>'joy</strong> /ɪnˈdʒɔɪ/</li></ul><p><strong>Ngoại lệ:</strong> Một số từ có trọng âm đặc biệt cần ghi nhớ</p>"
+            },
+            {
+              "heading": "4. Ngữ pháp: Câu ghép & to V và động từ nguyên thể",
+              "content": "<h3>A. Compound Sentences (Câu ghép)</h3><p><strong>Công thức:</strong> Mệnh đề 1 + liên từ + Mệnh đề 2</p><p><strong>Các liên từ kết hợp (FANBOYS):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>For:</strong> bởi vì (lý do)</li><li><strong>And:</strong> và (thêm thông tin)</li><li><strong>Nor:</strong> cũng không</li><li><strong>But:</strong> nhưng (đối lập)</li><li><strong>Or:</strong> hoặc (lựa chọn)</li><li><strong>Yet:</strong> nhưng, tuy nhiên (đối lập)</li><li><strong>So:</strong> vì vậy (kết quả)</li></ul><p><strong>Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I love music, <strong>and</strong> I play the guitar every day.</li><li>She sings well, <strong>but</strong> she is shy on stage.</li><li>We can go to the concert, <strong>or</strong> we can watch it online.</li><li>He practiced hard, <strong>so</strong> he won the contest.</li></ul><h3>B. To-infinitives and Bare infinitives</h3><p><strong>1. To-infinitives (to + V):</strong></p><p><strong>Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sau các động từ: want, decide, hope, plan, agree, promise, expect, refuse, offer, learn, manage...</li><li>Chỉ mục đích: I study hard to pass the exam.</li><li>Sau tính từ: It's easy to learn.</li><li>Sau wh-words: I don't know what to do.</li></ul><p><strong>Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>She wants <strong>to become</strong> a singer.</li><li>They decided <strong>to participate</strong> in the contest.</li></ul><p><strong>2. Bare infinitives (V không 'to'):</strong></p><p><strong>Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sau modal verbs: can, could, will, would, shall, should, may, might, must</li><li>Sau make, let: make/let + O + V(bare)</li><li>Sau help: help + O + V(bare) hoặc to-V</li></ul><p><strong>Ví dụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>She can <strong>sing</strong> very well.</li><li>My parents let me <strong>go</strong> to the concert.</li><li>He made us <strong>wait</strong> for an hour.</li></ul>"
+            },
+            {
+              "heading": "5. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Giới thiệu về âm nhạc và các chương trình tài năng âm nhạc.</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về các chương trình thi tài năng âm nhạc trên TV</li><li>Thảo luận về các ca sĩ, nhạc sĩ nổi tiếng</li><li>Từ vựng về âm nhạc và biểu diễn</li><li>Chia sẻ sở thích âm nhạc cá nhân</li></ul>"
+            },
+            {
+              "heading": "6. II. Language",
+              "content": "<p><strong>A. Pronunciation: Stress in two-syllable words</strong></p><p>Luyện phát âm trọng âm của từ có 2 âm tiết (danh từ, tính từ, động từ)</p><p><strong>B. Vocabulary:</strong> Music and music shows</p><ul class='list-disc pl-5 space-y-2'><li>Words related to music genres</li><li>Talent shows and competitions</li><li>Musical instruments</li><li>Performers and audience</li></ul><p><strong>C. Grammar:</strong> Compound sentences with conjunctions & To-infinitives and bare infinitives</p>"
+            },
+            {
+              "heading": "7. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Talent shows - Music competitions on TV</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu văn bản về các chương trình tài năng âm nhạc</li><li>Tìm thông tin chi tiết về các cuộc thi</li><li>Hiểu ý chính và ý phụ của đoạn văn</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li></ul><p><strong>Nội dung:</strong> Bài đọc giới thiệu về các chương trình tìm kiếm tài năng âm nhạc như Vietnam Idol, The Voice, và tác động của chúng đến ngành công nghiệp âm nhạc.</p>"
+            },
+            {
+              "heading": "8. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Talking about your favorite music and musicians</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả thể loại nhạc yêu thích</li><li>Nói về ca sĩ/nhạc sĩ ưa thích</li><li>Giải thích lý do tại sao thích loại nhạc đó</li><li>Thảo luận về tác động của âm nhạc</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>My favorite type of music is...</li><li>I'm a big fan of...</li><li>I like this music because...</li><li>Music helps me (to)...</li><li>When I listen to music, I feel...</li></ul>"
+            },
+            {
+              "heading": "9. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> An interview with a famous singer</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu thông tin về sự nghiệp của ca sĩ</li><li>Điền thông tin còn thiếu</li><li>Trả lời câu hỏi chi tiết về cuộc phỏng vấn</li><li>Ghi chú các ý chính</li></ul>"
+            },
+            {
+              "heading": "10. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing about a famous musician or singer</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đoạn văn giới thiệu về một nhạc sĩ/ca sĩ nổi tiếng</li><li>Sử dụng câu ghép để nối ý</li><li>Sử dụng to-infinitives để diễn đạt mục đích</li><li>Tổ chức bài viết logic và mạch lạc</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Introduction: Giới thiệu tên và nghề nghiệp</li><li>Body: Sự nghiệp, thành tựu, phong cách âm nhạc</li><li>Conclusion: Tác động và ý nghĩa của người đó</li></ul>"
+            },
+            {
+              "heading": "11. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Discussing the role of music in daily life</p><p><strong>Culture:</strong> Music around the world</p><ul class='list-disc pl-5 space-y-2'><li>So sánh âm nhạc truyền thống Việt Nam và các nước khác</li><li>Tìm hiểu về các lễ hội âm nhạc nổi tiếng thế giới</li><li>Thảo luận về ảnh hưởng của âm nhạc đến văn hóa</li><li>Các nhạc cụ truyền thống của các quốc gia</li></ul><p><strong>CLIL (Music):</strong> The benefits of music education</p>"
+            },
+            {
+              "heading": "12. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vocabulary: Music, talent shows, musical instruments</li><li>Pronunciation: Stress in two-syllable words</li><li>Grammar: Compound sentences, To-infinitives and bare infinitives</li><li>Skills: Reading, Speaking, Listening, Writing</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng sử dụng từ vựng và ngữ pháp đã học</p>"
+            },
+            {
+              "heading": "13. IX. Project",
+              "content": "<p><strong>Đề tài:</strong> My Favorite Singer/Band</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghiên cứu về ca sĩ/ban nhạc yêu thích</li><li>Tạo poster hoặc presentation giới thiệu</li><li>Bao gồm: tiểu sử, sự nghiệp, thành tựu, phong cách âm nhạc</li><li>Trình bày trước lớp và giải thích tại sao thích họ</li><li>Phát một đoạn nhạc đại diện</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Identifying infinitives",
+            "method": "<p>Choose the correct form of the verb (to-V or V bare).</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Music plays an important role in our daily lives. It can help us relax, express our emotions, and connect with others. Different people enjoy different types of music, from pop and rock to classical and jazz.\n\nMany young people dream of becoming professional musicians. To achieve this goal, they need talent, hard work, and dedication. They must practice their instruments every day and learn music theory. Some participate in talent shows and competitions to gain experience and recognition.\n\nMusic education is also valuable for everyone, not just future musicians. Learning to play an instrument teaches discipline, patience, and creativity. It helps students develop better concentration and memory skills. That's why many schools include music in their curriculum.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "According to the passage, music can help us ______.",
+                "options": [
+                  "earn a lot of money",
+                  "relax and express emotions",
+                  "become famous quickly",
+                  "avoid studying"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn đầu nói music can help us relax, express our emotions."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "What do young musicians need to become professional?",
+                "options": [
+                  "Only talent",
+                  "Only luck",
+                  "Talent, hard work, and dedication",
+                  "Money and fame"
+                ],
+                "correct": 2,
+                "explanation": "Đoạn 2 nói 'they need talent, hard work, and dedication'."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'recognition' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "being known and appreciated",
+                  "being ignored",
+                  "being criticized",
+                  "being forgotten"
+                ],
+                "correct": 0,
+                "explanation": "Recognition = being known and appreciated (được công nhận)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "Learning music helps students develop ______.",
+                "options": [
+                  "laziness",
+                  "concentration and memory",
+                  "bad habits",
+                  "nothing useful"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn cuối nói 'It helps students develop better concentration and memory skills'."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "Why do many schools include music in their curriculum?",
+                "options": [
+                  "Because it's easy to teach",
+                  "Because it's valuable for all students",
+                  "Because it's not important",
+                  "Because students don't like other subjects"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn cuối nói music education is valuable for everyone."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "The ______ cheered loudly after the amazing performance.",
+            "options": ["audience", "composer", "instrument", "judge"],
+            "correct": 0,
+            "explanation": "Audience: khán giả."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "She is a very ______ musician; she can play four instruments.",
+            "options": ["bad", "talented", "boring", "slow"],
+            "correct": 1,
+            "explanation": "Talented: tài năng."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "Beethoven was a famous ______ who wrote many classical pieces.",
+            "options": ["singer", "composer", "dancer", "actor"],
+            "correct": 1,
+            "explanation": "Composer: nhà soạn nhạc."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "The band's ______ was broadcast live on TV.",
+            "options": ["perform", "performer", "performance", "performing"],
+            "correct": 2,
+            "explanation": "Cần danh từ 'performance' (buổi biểu diễn)."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She decided ______ for the singing contest.",
+            "options": ["apply", "to apply", "applying", "applied"],
+            "correct": 1,
+            "explanation": "Decide + to-V: quyết định làm gì."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "My parents let me ______ to the pop concert.",
+            "options": ["go", "to go", "going", "went"],
+            "correct": 0,
+            "explanation": "Let + O + V(bare): để cho ai làm gì."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "I love rock music, ______ my sister prefers classical music.",
+            "options": ["and", "or", "but", "so"],
+            "correct": 2,
+            "explanation": "Dùng 'but' để chỉ sự đối lập."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "The music was too loud, ______ we had to leave early.",
+            "options": ["but", "or", "so", "and"],
+            "correct": 2,
+            "explanation": "Dùng 'so' để chỉ kết quả."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "He made us ______ for over an hour.",
+            "options": ["wait", "to wait", "waiting", "waited"],
+            "correct": 0,
+            "explanation": "Make + O + V(bare): bắt ai làm gì."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "She can ______ the piano very well.",
+            "options": ["play", "to play", "playing", "played"],
+            "correct": 0,
+            "explanation": "Modal verb (can) + V(bare)."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Compound sentences use conjunctions like 'and', 'but', 'or', and 'so'.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Câu ghép sử dụng các liên từ kết hợp."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "To-infinitives are used after modal verbs like 'can' and 'must'.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Sau modal verbs dùng bare infinitive (không 'to')."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "The word 'perform' (verb) has stress on the second syllable.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Động từ 2 âm tiết thường nhấn âm 2: per'form."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do you call a person who writes music? (one word)",
+            "correct": "composer",
+            "explanation": "Composer: nhà soạn nhạc."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: She wants ______ a professional singer. (to become)",
+            "correct": "to become",
+            "explanation": "Want + to-V: muốn làm gì."
+          }
+        ]
+      }
+    }
+  ]
+}

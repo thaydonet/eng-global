@@ -1,0 +1,245 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-4-p4",
+  "name": "Part 4: Reading",
+  "slug": "p4-reading",
+  "description": "Đọc hiểu về lợi ích và thách thức của đô thị hóa",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Reading: Urbanisation - Benefits and Challenges",
+      "sections": [
+        {
+          "heading": "Reading Skills",
+          "content": "<p><strong>Chủ đề:</strong> Urbanisation: benefits and challenges</p><p><strong>Kỹ năng đọc hiểu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Skimming:</strong> Đọc lướt để nắm ý chính</li><li><strong>Scanning:</strong> Tìm thông tin cụ thể</li><li><strong>Guessing meaning from context:</strong> Đoán nghĩa từ ngữ cảnh</li><li><strong>Identifying main ideas:</strong> Xác định ý chính của đoạn văn</li><li><strong>Understanding references:</strong> Hiểu các từ thay thế (it, they, this, that)</li></ul><p><strong>Nội dung bài đọc về:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Causes of urbanisation:</strong> Nguyên nhân đô thị hóa</li><li><strong>Benefits:</strong> Cơ hội việc làm, giáo dục, y tế tốt hơn</li><li><strong>Challenges:</strong> Quá tải, ô nhiễm, khu ổ chuột</li><li><strong>Solutions:</strong> Quy hoạch đô thị, cải thiện cơ sở hạ tầng</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "reading-ex1",
+        "type": "reading",
+        "passage": "Urbanisation has become one of the most significant trends of the 21st century. More and more people have moved from rural areas to cities in search of better opportunities. This rapid migration has transformed cities around the world, bringing both benefits and challenges.\n\nThe main reason people migrate to cities is economic opportunity. Cities offer more jobs, higher salaries, and better access to education and healthcare. For example, in Vietnam, millions of people have relocated to Ho Chi Minh City and Hanoi over the past two decades. The more people move to cities, the more diverse and dynamic these urban centers become.\n\nHowever, rapid urbanisation has created serious problems. The bigger cities grow, the more crowded they become. Traffic congestion has worsened significantly. Many cities have struggled with inadequate infrastructure - the more rapidly cities expand, the harder it is to provide sufficient housing, water, and sanitation services. Slums have appeared in many urban areas where poor migrants cannot afford proper housing.\n\nTo address these challenges, governments must invest in urban planning and infrastructure. The more money invested in public transportation, the less traffic congestion there will be. Building affordable housing and improving sanitation systems are also essential. With proper planning, cities can continue to grow while maintaining a good quality of life for all residents.",
+        "questions": [
+          {
+            "id": "r1-q1",
+            "question": "What is the main idea of the passage?",
+            "options": [
+              "Cities are perfect places to live",
+              "Urbanisation brings both benefits and challenges",
+              "Everyone should move to cities",
+              "Rural life is better than urban life"
+            ],
+            "correct": 1,
+            "explanation": "Bài đọc nói về cả lợi ích và thách thức của đô thị hóa."
+          },
+          {
+            "id": "r1-q2",
+            "question": "Why do people migrate to cities?",
+            "options": [
+              "To enjoy fresh air",
+              "To work on farms",
+              "For better economic opportunities",
+              "To avoid modern life"
+            ],
+            "correct": 2,
+            "explanation": "Người dân di cư đến thành phố vì cơ hội kinh tế tốt hơn."
+          },
+          {
+            "id": "r1-q3",
+            "question": "What does 'inadequate' in paragraph 3 mean?",
+            "options": [
+              "Sufficient",
+              "Not enough",
+              "Too much",
+              "Perfect"
+            ],
+            "correct": 1,
+            "explanation": "'Inadequate' nghĩa là không đủ, thiếu."
+          },
+          {
+            "id": "r1-q4",
+            "question": "According to the passage, what is a problem of rapid urbanisation?",
+            "options": [
+              "Too much fresh air",
+              "Empty streets",
+              "Traffic congestion",
+              "Too many parks"
+            ],
+            "correct": 2,
+            "explanation": "Tắc nghẽn giao thông là vấn đề của đô thị hóa nhanh."
+          },
+          {
+            "id": "r1-q5",
+            "question": "What solution does the passage suggest?",
+            "options": [
+              "Stop urbanisation completely",
+              "Invest in urban planning and infrastructure",
+              "Move everyone back to rural areas",
+              "Build more slums"
+            ],
+            "correct": 1,
+            "explanation": "Giải pháp là đầu tư vào quy hoạch đô thị và cơ sở hạ tầng."
+          }
+        ]
+      },
+      {
+        "id": "reading-ex2",
+        "type": "reading",
+        "passage": "Hanoi: A City of Transformation\n\nHanoi, the capital of Vietnam, has undergone remarkable changes over the past few decades. With a history spanning over 1,000 years, the city has evolved from a small settlement into a bustling metropolis of more than 8 million people.\n\nIn the past, Hanoi was known for its narrow streets, traditional architecture, and peaceful atmosphere. The Old Quarter, with its 36 ancient streets, each specializing in a particular trade, represented the heart of the city. Low-rise buildings and French colonial villas dominated the skyline. Transportation was simple - bicycles and cyclos were the main means of getting around.\n\nToday's Hanoi presents a striking contrast. Modern high-rise buildings and shopping malls have sprung up across the city. The infrastructure has expanded dramatically, with new roads, bridges, and a metro system currently under construction. While the Old Quarter still retains its charm, the city has grown far beyond its historical boundaries.\n\nThis rapid development has brought both opportunities and challenges. On one hand, Hanoi has become an economic hub, attracting foreign investment and creating millions of jobs. The city now offers world-class healthcare facilities, international schools, and diverse entertainment options. On the other hand, the city faces serious issues such as air pollution, traffic congestion during rush hours, and a shortage of affordable housing for low-income residents.\n\nDespite these challenges, Hanoi continues to develop. The government has implemented various urban planning projects to improve the quality of life. Green spaces and parks are being created, public transportation is being expanded, and efforts are being made to preserve the city's cultural heritage while embracing modernization.",
+        "questions": [
+          {
+            "id": "r2-q1",
+            "question": "What is the population of Hanoi mentioned in the passage?",
+            "options": [
+              "More than 5 million",
+              "More than 8 million",
+              "More than 10 million",
+              "More than 12 million"
+            ],
+            "correct": 1,
+            "explanation": "Hà Nội có hơn 8 triệu dân."
+          },
+          {
+            "id": "r2-q2",
+            "question": "What was the main transportation in old Hanoi?",
+            "options": [
+              "Cars and buses",
+              "Metro and trains",
+              "Bicycles and cyclos",
+              "Motorbikes"
+            ],
+            "correct": 2,
+            "explanation": "Xe đạp và xích lô là phương tiện chính ở Hà Nội xưa."
+          },
+          {
+            "id": "r2-q3",
+            "question": "The word 'striking' in paragraph 3 is closest in meaning to:",
+            "options": [
+              "Similar",
+              "Boring",
+              "Remarkable",
+              "Slight"
+            ],
+            "correct": 2,
+            "explanation": "'Striking' nghĩa là nổi bật, đáng chú ý (remarkable)."
+          },
+          {
+            "id": "r2-q4",
+            "question": "What is NOT mentioned as a benefit of Hanoi's development?",
+            "options": [
+              "Job creation",
+              "Better healthcare",
+              "Cleaner air",
+              "International schools"
+            ],
+            "correct": 2,
+            "explanation": "Không khí sạch hơn không được đề cập là lợi ích."
+          },
+          {
+            "id": "r2-q5",
+            "question": "What is the government doing to improve Hanoi?",
+            "options": [
+              "Stopping all development",
+              "Removing all old buildings",
+              "Implementing urban planning projects",
+              "Closing the Old Quarter"
+            ],
+            "correct": 2,
+            "explanation": "Chính phủ đang thực hiện các dự án quy hoạch đô thị."
+          }
+        ]
+      },
+      {
+        "id": "mcq1",
+        "type": "mcq",
+        "question": "What does 'metropolis' mean?",
+        "options": ["A small village", "A large city", "A farm", "A mountain"],
+        "correct": 1,
+        "explanation": "'Metropolis' nghĩa là đô thị lớn."
+      },
+      {
+        "id": "mcq2",
+        "type": "mcq",
+        "question": "The word 'retain' in the passage means:",
+        "options": ["Lose", "Keep", "Destroy", "Forget"],
+        "correct": 1,
+        "explanation": "'Retain' nghĩa là giữ lại, duy trì."
+      },
+      {
+        "id": "mcq3",
+        "type": "mcq",
+        "question": "What is 'cultural heritage'?",
+        "options": ["Modern buildings", "Traditional values and customs passed down", "New technology", "Shopping malls"],
+        "correct": 1,
+        "explanation": "Cultural heritage là di sản văn hóa được truyền lại."
+      },
+      {
+        "id": "mcq4",
+        "type": "mcq",
+        "question": "According to the passages, urbanisation leads to:",
+        "options": ["Only benefits", "Only problems", "Both benefits and problems", "No changes"],
+        "correct": 2,
+        "explanation": "Đô thị hóa mang lại cả lợi ích và vấn đề."
+      },
+      {
+        "id": "mcq5",
+        "type": "mcq",
+        "question": "What is the main purpose of urban planning?",
+        "options": ["To make cities smaller", "To improve quality of life", "To stop development", "To remove all people"],
+        "correct": 1,
+        "explanation": "Quy hoạch đô thị nhằm cải thiện chất lượng cuộc sống."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Based on the passages, decide True or False:",
+        "options": [
+          "Cities offer better job opportunities than rural areas.",
+          "Urbanisation has no negative effects.",
+          "Infrastructure development is important for cities.",
+          "All migrants can easily afford housing in cities."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Thành phố có cơ hội việc làm tốt hơn. b) False - Đô thị hóa có tác động tiêu cực. c) True - Phát triển cơ sở hạ tầng quan trọng. d) False - Nhiều người di cư không đủ tiền mua nhà."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True or False about Hanoi:",
+        "options": [
+          "Hanoi has a history of over 1,000 years.",
+          "The Old Quarter has disappeared completely.",
+          "Modern high-rise buildings have been built.",
+          "Hanoi has no challenges from development."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Hà Nội có lịch sử hơn 1000 năm. b) False - Phố cổ vẫn còn. c) True - Có nhiều tòa nhà cao tầng. d) False - Hà Nội có nhiều thách thức."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: People migrate to cities for better _____ opportunities. (one word)",
+        "correct": "economic",
+        "explanation": "Economic opportunities - cơ hội kinh tế."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "What is the Vietnamese meaning of 'slum'?",
+        "correct": "khu ổ chuột",
+        "explanation": "Slum nghĩa là khu ổ chuột."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: The government must invest in urban _____ and infrastructure.",
+        "correct": "planning",
+        "explanation": "Urban planning - quy hoạch đô thị."
+      }
+    ]
+  }
+}

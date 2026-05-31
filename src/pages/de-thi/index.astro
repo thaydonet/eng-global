@@ -1,0 +1,259 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import { getPublishedExams, getExamTypeLabel, getExamTypeColor, formatDuration, type ExamType } from '@/lib/de-thi';
+
+const grades = ['12', '11', '10', '9', '8', '7', '6'];
+const examTypes: { value: ExamType | ''; label: string }[] = [
+  { value: '', label: 'Tất cả loại' },
+  { value: 'bai', label: 'Theo bài học' },
+  { value: 'lop', label: 'Tổng hợp lớp' },
+  { value: 'hoc-ky', label: 'Kiểm tra HK' },
+  { value: 'thpt', label: 'Thi TN THPT 2026' },
+  { value: 'ma-tran', label: 'Theo ma trận' },
+];
+
+const filterGrade = Astro.url.searchParams.get('grade') || '';
+const filterType = (Astro.url.searchParams.get('type') || '') as ExamType | '';
+
+const exams = await getPublishedExams({
+  grade: filterGrade || undefined,
+  exam_type: filterType || undefined,
+});
+
+const typeColorMap: Record<string, string> = {
+  blue: 'bg-blue-100 text-blue-800 dark:bg-blue-900/30 dark:text-blue-300',
+  green: 'bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-300',
+  orange: 'bg-orange-100 text-orange-800 dark:bg-orange-900/30 dark:text-orange-300',
+  red: 'bg-red-100 text-red-800 dark:bg-red-900/30 dark:text-red-300',
+  purple: 'bg-purple-100 text-purple-800 dark:bg-purple-900/30 dark:text-purple-300',
+  gray: 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-300',
+};
+---
+
+<Layout title="Đề thi Tiếng Anh | Global Success" description="Kho đề thi Tiếng Anh lớp 6-12 theo chương trình Global Success. Thi online, tải offline, đề thi TN THPT 2026.">
+  <!-- Hero -->
+  <div class="relative bg-gradient-to-br from-violet-700 via-purple-700 to-indigo-700 text-white pt-28 pb-16 overflow-hidden">
+    <div class="absolute inset-0">
+      <div class="absolute top-0 right-0 w-96 h-96 bg-pink-500/20 rounded-full blur-[100px]"></div>
+      <div class="absolute bottom-0 left-0 w-80 h-80 bg-blue-500/20 rounded-full blur-[80px]"></div>
+      <div class="absolute inset-0" style="background-image: url(\"data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E\");"></div>
+    </div>
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-10">
+        <span class="inline-flex items-center gap-2 px-4 py-1.5 bg-white/15 backdrop-blur border border-white/20 rounded-full text-sm font-medium mb-5">
+          📝 Kho đề thi Global Success
+        </span>
+        <h1 class="text-4xl md:text-5xl font-black tracking-tight mb-4">
+          Đề thi <span class="text-yellow-300">Tiếng Anh</span> Online
+        </h1>
+        <p class="text-lg text-white/80 max-w-2xl mx-auto mb-8">
+          Thi online ngay trên web · Xuất đề giấy · AI tạo đề theo yêu cầu · Chuẩn đề thi TN THPT 2026
+        </p>
+        <div class="flex flex-wrap justify-center gap-3">
+          <a href="/de-thi/tao-de" class="inline-flex items-center gap-2 px-6 py-3 bg-yellow-400 hover:bg-yellow-300 text-gray-900 font-bold rounded-xl shadow-lg shadow-yellow-400/30 transition-all hover:scale-105">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
+            </svg>
+            Tạo đề mới (AI)
+          </a>
+          <a href="#exam-list" class="inline-flex items-center gap-2 px-6 py-3 bg-white/15 hover:bg-white/25 border border-white/30 text-white font-medium rounded-xl transition-all">
+            Xem tất cả đề thi ↓
+          </a>
+        </div>
+      </div>
+
+      <!-- Stats bar -->
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-3 max-w-3xl mx-auto">
+        {[
+          { label: 'Loại đề', value: '5' },
+          { label: 'Khối lớp', value: '7' },
+          { label: 'Thi Online', value: '✓' },
+          { label: 'Chi phí', value: '0đ' },
+        ].map(s => (
+          <div class="bg-white/10 backdrop-blur border border-white/20 rounded-xl px-4 py-3 text-center">
+            <div class="text-2xl font-black text-white">{s.value}</div>
+            <div class="text-xs text-white/70 mt-0.5">{s.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <!-- Filter Bar -->
+  <div class="sticky top-[72px] z-40 bg-white/95 dark:bg-gray-900/95 backdrop-blur border-b border-gray-200 dark:border-gray-700 shadow-sm">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
+      <form method="GET" class="flex flex-wrap gap-3 items-center">
+        <span class="text-sm font-semibold text-gray-600 dark:text-gray-400 flex-shrink-0">Lọc:</span>
+
+        <!-- Grade filter -->
+        <div class="flex flex-wrap gap-1.5">
+          <a href="/de-thi" class={`filter-chip ${!filterGrade ? 'active' : ''}`}>Tất cả lớp</a>
+          {grades.map(g => (
+            <a href={`/de-thi?grade=${g}${filterType ? `&type=${filterType}` : ''}`}
+              class={`filter-chip ${filterGrade === g ? 'active' : ''}`}>
+              Lớp {g}
+            </a>
+          ))}
+        </div>
+
+        <div class="w-px h-6 bg-gray-200 dark:bg-gray-700 hidden md:block"></div>
+
+        <!-- Type filter -->
+        <div class="flex flex-wrap gap-1.5">
+          {examTypes.map(t => (
+            <a href={`/de-thi?${filterGrade ? `grade=${filterGrade}&` : ''}${t.value ? `type=${t.value}` : ''}`}
+              class={`filter-chip ${filterType === t.value ? 'active' : ''}`}>
+              {t.label}
+            </a>
+          ))}
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Exam List -->
+  <div id="exam-list" class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <!-- THPT 2026 Banner -->
+    <div class="relative overflow-hidden bg-gradient-to-r from-red-600 to-rose-700 rounded-2xl p-6 mb-10 text-white">
+      <div class="absolute right-0 top-0 h-full w-1/3 bg-white/5 transform skew-x-12"></div>
+      <div class="relative flex flex-col md:flex-row items-center justify-between gap-4">
+        <div>
+          <div class="flex items-center gap-2 mb-2">
+            <span class="px-2 py-0.5 bg-yellow-400 text-red-900 text-xs font-bold rounded-full">MỚI</span>
+            <span class="text-white/80 text-sm">Cấu trúc đề 2025-2026</span>
+          </div>
+          <h2 class="text-2xl font-black mb-1">Đề thi TN THPT 2026 🎓</h2>
+          <p class="text-white/80 text-sm">100 câu MCQ • 120 phút • Listening + Reading + Language Focus</p>
+        </div>
+        <a href="/de-thi/tao-de?type=thpt" class="flex-shrink-0 inline-flex items-center gap-2 px-6 py-3 bg-yellow-400 hover:bg-yellow-300 text-red-900 font-bold rounded-xl transition-all hover:scale-105 shadow-lg">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+          </svg>
+          Tạo đề THPT ngay
+        </a>
+      </div>
+    </div>
+
+    {exams.length === 0 ? (
+      <!-- Empty State -->
+      <div class="text-center py-20">
+        <div class="w-20 h-20 bg-purple-100 dark:bg-purple-900/30 rounded-2xl flex items-center justify-center mx-auto mb-5">
+          <svg class="w-10 h-10 text-purple-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+          </svg>
+        </div>
+        <h3 class="text-xl font-bold text-gray-800 dark:text-gray-200 mb-2">Chưa có đề thi nào</h3>
+        <p class="text-gray-500 dark:text-gray-400 mb-6">Hãy là người đầu tiên tạo đề thi với AI Gemini!</p>
+        <a href="/de-thi/tao-de" class="inline-flex items-center gap-2 px-6 py-3 bg-purple-600 hover:bg-purple-700 text-white font-semibold rounded-xl transition-all">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
+          </svg>
+          Tạo đề thi đầu tiên
+        </a>
+      </div>
+    ) : (
+      <div>
+        <div class="flex items-center justify-between mb-6">
+          <h2 class="text-xl font-bold text-gray-800 dark:text-gray-200">
+            {exams.length} đề thi
+            {filterGrade && <span class="text-purple-600 dark:text-purple-400"> lớp {filterGrade}</span>}
+          </h2>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+          {exams.map(exam => {
+            const color = getExamTypeColor(exam.exam_type);
+            const colorClass = typeColorMap[color] || typeColorMap.gray;
+            const qCount = exam.questions?.length || 0;
+            return (
+              <a href={`/de-thi/${exam.slug}`}
+                class="group bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+                <!-- Card header color bar -->
+                <div class={`h-1.5 bg-gradient-to-r ${
+                  color === 'blue' ? 'from-blue-500 to-cyan-500' :
+                  color === 'green' ? 'from-green-500 to-emerald-500' :
+                  color === 'orange' ? 'from-orange-500 to-amber-500' :
+                  color === 'red' ? 'from-red-500 to-rose-500' :
+                  color === 'purple' ? 'from-purple-500 to-violet-500' :
+                  'from-gray-400 to-gray-500'
+                }`}></div>
+                <div class="p-5">
+                  <div class="flex items-start justify-between gap-2 mb-3">
+                    <span class={`text-xs font-semibold px-2.5 py-1 rounded-full ${colorClass}`}>
+                      {getExamTypeLabel(exam.exam_type)}
+                    </span>
+                    {exam.grade && (
+                      <span class="text-xs text-gray-500 dark:text-gray-400 flex items-center gap-1">
+                        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
+                        </svg>
+                        Lớp {exam.grade}
+                      </span>
+                    )}
+                  </div>
+
+                  <h3 class="font-bold text-gray-900 dark:text-gray-100 mb-2 leading-snug group-hover:text-purple-600 dark:group-hover:text-purple-400 transition-colors line-clamp-2">
+                    {exam.title}
+                  </h3>
+
+                  <div class="flex items-center gap-3 text-xs text-gray-500 dark:text-gray-400 mt-3 pt-3 border-t border-gray-100 dark:border-gray-700">
+                    <span class="flex items-center gap-1">
+                      <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                      </svg>
+                      {qCount} câu
+                    </span>
+                    <span class="flex items-center gap-1">
+                      <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                      </svg>
+                      {formatDuration(exam.duration_minutes)}
+                    </span>
+                    <span class="ml-auto flex items-center gap-1 text-purple-600 dark:text-purple-400 font-medium group-hover:gap-2 transition-all">
+                      Làm bài
+                      <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                      </svg>
+                    </span>
+                  </div>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    )}
+
+    <!-- How it works -->
+    <div class="mt-16 bg-gradient-to-br from-purple-50 to-indigo-50 dark:from-purple-900/10 dark:to-indigo-900/10 rounded-2xl p-8 border border-purple-100 dark:border-purple-800">
+      <h2 class="text-2xl font-black text-gray-900 dark:text-gray-100 text-center mb-8">Cách sử dụng</h2>
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
+        {[
+          { step: '1', icon: '⚡', title: 'Chọn loại đề', desc: 'Theo bài, theo lớp, học kỳ hay THPT 2026' },
+          { step: '2', icon: '🤖', title: 'AI tạo câu hỏi', desc: 'Gemini AI sinh đề chất lượng cao trong vài giây' },
+          { step: '3', icon: '✏️', title: 'Chỉnh sửa & lưu', desc: 'Preview, sửa câu hỏi, công bố cho học sinh' },
+          { step: '4', icon: '🎯', title: 'Thi & xem kết quả', desc: 'Thi online có timer, chấm điểm tự động ngay' },
+        ].map(s => (
+          <div class="text-center">
+            <div class="w-12 h-12 bg-purple-600 text-white rounded-xl flex items-center justify-center text-xl font-black mx-auto mb-3 shadow-lg shadow-purple-300 dark:shadow-purple-900">
+              {s.icon}
+            </div>
+            <h3 class="font-bold text-gray-900 dark:text-gray-100 mb-1">{s.title}</h3>
+            <p class="text-sm text-gray-600 dark:text-gray-400">{s.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .filter-chip {
+      @apply px-3 py-1.5 text-xs font-medium rounded-full border transition-all;
+      @apply border-gray-200 dark:border-gray-700 text-gray-600 dark:text-gray-400;
+      @apply hover:border-purple-400 hover:text-purple-600 dark:hover:border-purple-500 dark:hover:text-purple-400;
+    }
+    .filter-chip.active {
+      @apply bg-purple-600 border-purple-600 text-white dark:bg-purple-600 dark:border-purple-600 dark:text-white;
+    }
+  </style>
+</Layout>

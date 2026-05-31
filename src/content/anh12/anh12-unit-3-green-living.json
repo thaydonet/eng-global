@@ -1,0 +1,92 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lessons": [
+    {
+      "id": "anh12-unit-3",
+      "name": "Unit 3: Green Living",
+      "slug": "unit-3-green-living",
+      "chapter": "Unit 3: Green Living",
+      "chapter_id": "A12",
+      "lesson_id": 3,
+      "description": "Học về bảo vệ môi trường, động từ với giới từ và đại từ quan hệ which.",
+      "duration_minutes": 300,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=2613&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh12-unit-3-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu chủ đề về sống xanh và bảo vệ môi trường",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh12-unit-3-p1-getting-started.json"
+        },
+        {
+          "id": "anh12-unit-3-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về sống xanh và môi trường",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh12-unit-3-p2-vocabulary.json"
+        },
+        {
+          "id": "anh12-unit-3-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Động từ với giới từ và đại từ quan hệ which",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh12-unit-3-p3-grammar.json"
+        },
+        {
+          "id": "anh12-unit-3-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về sống xanh và phát triển bền vững",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh12-unit-3-p4-reading.json"
+        },
+        {
+          "id": "anh12-unit-3-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Thảo luận về các hành động bảo vệ môi trường",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh12-unit-3-p5-speaking.json"
+        },
+        {
+          "id": "anh12-unit-3-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về các mẹo sống xanh",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh12-unit-3-p6-listening.json"
+        },
+        {
+          "id": "anh12-unit-3-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết đề xuất về sống xanh",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh12-unit-3-p7-writing.json"
+        }
+      ]
+    }
+  ]
+}

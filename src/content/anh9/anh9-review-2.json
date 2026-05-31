@@ -1,0 +1,349 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-review-2",
+      "name": "Review 2 (Units 4 - 5 - 6)",
+      "slug": "review-2-units-4-5-6",
+      "chapter": "Review 2 (Units 4 - 5 - 6)",
+      "chapter_id": "A9",
+      "lesson_id": 20,
+      "description": "Review of Units 4, 5, and 6 covering the past, experiences, and Vietnamese lifestyles.",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-2",
+          "name": "Review 2 Comprehensive",
+          "slug": "review-2-comprehensive",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 2 (Units 4 - 5 - 6)",
+          "sections": [
+            {
+              "heading": "1. Language - Vocabulary",
+              "content": "<h3>Unit 4: Remembering the Past</h3><p><strong>Key vocabulary:</strong> memory, remember, recall, forget, nostalgia, childhood, ancestor, heritage, tradition, history, ancient, war, peace</p><h3>Unit 5: Our Experiences</h3><p><strong>Key vocabulary:</strong> experience, adventure, journey, travel, explore, discover, climb, hike, exciting, amazing, unforgettable, memorable</p><h3>Unit 6: Vietnamese Lifestyles: Then and Now</h3><p><strong>Key vocabulary:</strong> traditional, modern, rural, urban, agricultural, industrial, simple, convenient, change, develop, improve, transform</p>"
+            },
+            {
+              "heading": "2. Language - Grammar",
+              "content": "<h3>Unit 4: Past Continuous & Wish + Past Simple</h3><p><strong>Past Continuous:</strong> S + was/were + V-ing (at 8 p.m. yesterday, when, while)</p><p><strong>Wish:</strong> S + wish(es) + S + V (past simple) - ước điều không có thật ở hiện tại</p><h3>Unit 5: Present Perfect</h3><p><strong>Structure:</strong> S + have/has + V3/ed</p><p><strong>Usage:</strong> Kinh nghiệm (ever, never), vừa mới (just, already, yet), kéo dài (for, since)</p><h3>Unit 6: Verb + to V & Verb + V-ing</h3><p><strong>Verb + to V:</strong> want, need, decide, hope, plan</p><p><strong>Verb + V-ing:</strong> enjoy, love, finish, avoid, mind</p><p><strong>Khác nghĩa:</strong> remember/forget/stop/try + to V hoặc V-ing</p>"
+            },
+            {
+              "heading": "3. Skills - Reading Passages",
+              "content": "<p><strong>Passage 1: Memories and Experiences</strong></p><p>When I was young, I was living in a small village. At that time, life was simple and peaceful. I remember playing with my friends every day. I wish I were young again.</p><p>I have visited many places in my life. I have never been to Europe, but I have traveled around Asia. I have just returned from Thailand. It was an amazing experience. I'll never forget visiting the temples there.</p><p><strong>Passage 2: Vietnamese Lifestyles</strong></p><p>Vietnamese lifestyles have changed a lot. In the past, people enjoyed working on farms and living in rural areas. They wanted to preserve their traditions. Now, many people decide to move to cities. They hope to find better jobs and enjoy modern conveniences.</p><p>I remember living in the countryside when I was a child. I stopped going there after I moved to the city. But I'll never forget playing in the rice fields. I wish I could visit my hometown more often.</p>"
+            },
+            {
+              "heading": "4. Skills - Practice",
+              "content": "<p><strong>Comprehension Questions:</strong></p><ol class='list-decimal pl-5 space-y-2'><li>What was the writer doing when they were young?</li><li>Has the writer been to Europe?</li><li>What do people want to do with their traditions?</li><li>What does the writer wish?</li></ol>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Past Continuous",
+            "method": "<p><strong>Phương pháp:</strong> S + was/were + V-ing</p>",
+            "examples": [
+              {
+                "question": "I ______ (study) at 8 p.m. yesterday.",
+                "solution": "I <strong>was studying</strong> at 8 p.m. yesterday.",
+                "explanation": "Past continuous với thời điểm cụ thể"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Wish + Past Simple",
+            "method": "<p><strong>Phương pháp:</strong> S + wish(es) + S + V (past)</p>",
+            "examples": [
+              {
+                "question": "I wish I ______ (have) a car.",
+                "solution": "I wish I <strong>had</strong> a car.",
+                "explanation": "wish + past simple"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Present Perfect",
+            "method": "<p><strong>Phương pháp:</strong> S + have/has + V3</p>",
+            "examples": [
+              {
+                "question": "I ______ (visit) Paris.",
+                "solution": "I <strong>have visited</strong> Paris.",
+                "explanation": "Present perfect (kinh nghiệm)"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Verb + to V / V-ing",
+            "method": "<p><strong>Phương pháp:</strong> Chọn to V hoặc V-ing</p>",
+            "examples": [
+              {
+                "question": "I want ______ (learn) English.",
+                "solution": "I want <strong>to learn</strong> English.",
+                "explanation": "want + to V"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I ______ at 8 p.m. yesterday.",
+            "options": ["study", "studied", "was studying", "am studying"],
+            "correct": 2,
+            "explanation": "Past continuous với thời điểm cụ thể"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "I ______ TV when he called.",
+            "options": ["watch", "watched", "was watching", "am watching"],
+            "correct": 2,
+            "explanation": "Past continuous + when + past simple"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "While I ______, she was cleaning.",
+            "options": ["cook", "cooked", "was cooking", "am cooking"],
+            "correct": 2,
+            "explanation": "While + past continuous"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I wish I ______ a car.",
+            "options": ["have", "has", "had", "having"],
+            "correct": 2,
+            "explanation": "wish + past simple"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She wishes she ______ taller.",
+            "options": ["is", "was", "were", "be"],
+            "correct": 2,
+            "explanation": "wish + were"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ you ever been to Paris?",
+            "options": ["Do", "Did", "Have", "Has"],
+            "correct": 2,
+            "explanation": "Have + ever + V3"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "I ______ never eaten sushi.",
+            "options": ["do", "did", "have", "has"],
+            "correct": 2,
+            "explanation": "have + never + V3"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "I have ______ finished my homework.",
+            "options": ["just", "yet", "ago", "yesterday"],
+            "correct": 0,
+            "explanation": "just = vừa mới"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I ______ here for 5 years.",
+            "options": ["live", "lived", "have lived", "has lived"],
+            "correct": 2,
+            "explanation": "have + V3 + for"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "I want ______ English.",
+            "options": ["learn", "to learn", "learning", "learned"],
+            "correct": 1,
+            "explanation": "want + to V"
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "I enjoy ______ books.",
+            "options": ["read", "to read", "reading", "reads"],
+            "correct": 2,
+            "explanation": "enjoy + V-ing"
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "She finished ______ homework.",
+            "options": ["do", "to do", "doing", "does"],
+            "correct": 2,
+            "explanation": "finish + V-ing"
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "Remember ______ the door. (nhớ phải khóa)",
+            "options": ["lock", "to lock", "locking", "locked"],
+            "correct": 1,
+            "explanation": "remember + to V (chưa làm)"
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "I remember ______ the door. (nhớ đã khóa)",
+            "options": ["lock", "to lock", "locking", "locked"],
+            "correct": 2,
+            "explanation": "remember + V-ing (đã làm)"
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "I stopped ______ . (bỏ hút thuốc)",
+            "options": ["smoke", "to smoke", "smoking", "smoked"],
+            "correct": 2,
+            "explanation": "stop + V-ing"
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "When I arrived, they ______ dinner.",
+            "options": ["have", "had", "were having", "are having"],
+            "correct": 2,
+            "explanation": "When + past simple, past continuous"
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "I wish I ______ fly.",
+            "options": ["can", "could", "will", "would"],
+            "correct": 1,
+            "explanation": "wish + could"
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "She ______ here since 2020.",
+            "options": ["work", "worked", "have worked", "has worked"],
+            "correct": 3,
+            "explanation": "has + V3 + since"
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "They decided ______ abroad.",
+            "options": ["go", "to go", "going", "went"],
+            "correct": 1,
+            "explanation": "decide + to V"
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "I haven't finished ______.",
+            "options": ["just", "already", "yet", "ago"],
+            "correct": 2,
+            "explanation": "yet = chưa (cuối câu)"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which sentences use past continuous correctly? (Select all that apply)",
+            "options": ["I was studying at 8 p.m.", "They were playing when it rained.", "She was cook dinner.", "While I was working, he was reading."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: was studying, were playing when, was working/was reading. Sai: was cook"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which are correct wish sentences? (Select all that apply)",
+            "options": ["I wish I had a car.", "She wishes she were taller.", "I wish I can fly.", "He wishes he could speak English."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: had, were, could. Sai: can (phải là 'could')"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which verbs are followed by V-ing? (Select all that apply)",
+            "options": ["enjoy", "want", "finish", "avoid"],
+            "correct": [0, 2, 3],
+            "explanation": "Đúng: enjoy + V-ing, finish + V-ing, avoid + V-ing. Sai: want + to V"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: I ______ (watch) TV when he ______ (call).",
+            "correct": "was watching, called",
+            "explanation": "Past continuous + when + past simple"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: I wish I ______ (have) more time.",
+            "correct": "had",
+            "explanation": "wish + past simple"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Fill in: ______ you ever ______ (be) to Paris?",
+            "correct": "Have, been",
+            "explanation": "Have + ever + V3"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Fill in: I want ______ (learn) and I enjoy ______ (practice) English.",
+            "correct": "to learn, practicing",
+            "explanation": "want + to V; enjoy + V-ing"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: studying / I / was / at / 8 p.m. / yesterday / . / wish / I / had / I / time / more / .",
+            "sample_answer": "I was studying at 8 p.m. yesterday. I wish I had more time.",
+            "explanation": "Sắp xếp: past continuous; wish + past simple"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: I don't have a car. → I wish ______.",
+            "sample_answer": "I wish I had a car.",
+            "explanation": "Biến đổi: don't have → wish + had"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Transform: I started living here 5 years ago. I still live here. → I ______.",
+            "sample_answer": "I have lived here for 5 years.",
+            "explanation": "Biến đổi: Hành động kéo dài → present perfect + for"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange: want / I / to / learn / English / . / enjoy / I / reading / books / . / finished / have / I / homework / my / .",
+            "sample_answer": "I want to learn English. I enjoy reading books. I have finished my homework.",
+            "explanation": "Sắp xếp: want + to V; enjoy + V-ing; have + V3"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Combine all grammar: I was studying when my friend called. I wish I had more free time. I have lived here for 5 years. I want to learn English and I enjoy reading. (Keep all four sentences)",
+            "sample_answer": "I was studying when my friend called. I wish I had more free time. I have lived here for 5 years. I want to learn English and I enjoy reading.",
+            "explanation": "Kết hợp: past continuous + when, wish + past simple, present perfect + for, verb + to V/V-ing"
+          }
+        ]
+      }
+    }
+  ]
+}

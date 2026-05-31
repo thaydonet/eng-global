@@ -1,0 +1,900 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import { getAllLessons } from '@/lib/lessons';
+
+export async function getStaticPaths() {
+  const lessons = getAllLessons();
+  return lessons.map((lesson) => ({
+    params: { id: lesson.id },
+    props: { lesson },
+  }));
+}
+
+const { lesson } = Astro.props;
+
+// Check if lesson has exercises
+const hasExercises = lesson.content.exercises && lesson.content.exercises.length > 0;
+---
+
+<Layout title={`Bài tập: ${lesson.name}`}>
+  <div class="bg-gradient-to-r from-green-500 to-teal-600 text-white py-12">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center mb-4">
+        <a href={`/lessons/${lesson.id}`} class="text-white hover:underline flex items-center">
+          ← Quay lại bài học
+        </a>
+      </div>
+      <h1 class="text-4xl font-bold">Bài tập: {lesson.name}</h1>
+      <p class="mt-2 text-xl">Kiểm tra kiến thức của bạn</p>
+    </div>
+  </div>
+
+  {!hasExercises ? (
+    <div class="max-w-4xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
+      <div class="bg-yellow-50 border-l-4 border-yellow-400 p-6 rounded">
+        <div class="flex items-center">
+          <span class="text-4xl mr-4">📝</span>
+          <div>
+            <h3 class="text-lg font-semibold text-yellow-800">Chưa có bài tập</h3>
+            <p class="text-yellow-700">Bài học này chưa có bài tập thực hành. Vui lòng quay lại sau.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  ) : (
+    <div class="max-w-4xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
+      <div id="quiz-container" class="space-y-6">
+        <!-- Quiz will be rendered here by JavaScript -->
+      </div>
+
+      <div id="quiz-controls" class="mt-8 flex justify-center gap-4 hidden">
+        <button
+          id="submit-btn"
+          class="bg-primary-600 hover:bg-primary-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-all transform hover:scale-105"
+        >
+          Nộp bài
+        </button>
+      </div>
+
+      <!-- Results -->
+      <div id="quiz-results" class="mt-8 hidden">
+        <div class="bg-white rounded-lg shadow-xl p-8">
+          <div class="text-center">
+            <div id="result-icon" class="text-8xl mb-4"></div>
+            <h2 id="result-title" class="text-3xl font-bold mb-2"></h2>
+            <p id="result-message" class="text-xl text-gray-600 mb-4"></p>
+            <div class="text-5xl font-bold mb-6">
+              <span id="result-score" class="text-primary"></span>
+              <span class="text-gray-400">/</span>
+              <span id="result-total" class="text-gray-600"></span>
+            </div>
+            <div class="mb-6">
+              <div class="w-full bg-gray-200 rounded-full h-4">
+                <div id="result-bar" class="bg-gradient-to-r from-green-400 to-green-600 h-4 rounded-full transition-all duration-1000"></div>
+              </div>
+            </div>
+            <div class="flex justify-center gap-4">
+              <button
+                id="retry-btn"
+                class="bg-primary-600 hover:bg-primary-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-all transform hover:scale-105"
+              >
+                🔄 Làm lại
+              </button>
+              <a
+                href={`/lessons/${lesson.id}`}
+                class="bg-gray-600 hover:bg-gray-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-all transform hover:scale-105 inline-block"
+              >
+                📚 Học lại
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  )}
+
+  <script define:vars={{ exercises: lesson.content.exercises || [], subjectSlug: lesson.subject_slug || '' }}>
+    function initQuiz() {
+      if (exercises && exercises.length > 0) {
+        const quizContainer = document.getElementById('quiz-container');
+        const quizControls = document.getElementById('quiz-controls');
+        const submitBtn = document.getElementById('submit-btn');
+        const resultsDiv = document.getElementById('quiz-results');
+        const retryBtn = document.getElementById('retry-btn');
+
+        let userAnswers = {};
+        let currentExercises = [];
+
+        // Simple text renderer (KaTeX removed)
+        function renderLatex(text) {
+          return text || '';
+        }
+
+        function shuffleArray(array) {
+          const newArray = [...array];
+          for (let i = newArray.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+          }
+          return newArray;
+        }
+
+        function prepareQuizData() {
+          // Separate question types
+          const mcqQuestions = exercises.filter(ex => ex.type === 'mcq' || !ex.type);
+          const msqQuestions = exercises.filter(ex => ex.type === 'msq');
+          const saQuestions = exercises.filter(ex => ex.type === 'sa');
+          const essayQuestions = exercises.filter(ex => ex.type === 'essay');
+          const readingQuestions = exercises.filter(ex => ex.type === 'reading');
+
+          // Shuffle MCQ questions
+          const shuffledMCQ = shuffleArray(mcqQuestions).map(exercise => {
+            // Create array of objects with original index to track correct answer
+            const optionsWithIndex = exercise.options.map((opt, index) => ({
+              text: opt,
+              originalIndex: index
+            }));
+
+            const shuffledOptions = shuffleArray(optionsWithIndex);
+
+            // Find new index of the correct answer
+            const newCorrectIndex = shuffledOptions.findIndex(opt => opt.originalIndex === exercise.correct);
+
+            return {
+              ...exercise,
+              options: shuffledOptions.map(opt => opt.text),
+              correct: newCorrectIndex
+            };
+          });
+
+          // Prepare MSQ questions - keep correct[] array as-is, no option shuffling
+          const preparedMSQ = shuffleArray(msqQuestions).map(exercise => ({
+            ...exercise
+            // exercise.correct is already the array of correct indices — do NOT overwrite
+          }));
+
+          // Shuffle SA questions
+          const shuffledSA = shuffleArray(saQuestions);
+
+          // Shuffle essay questions
+          const shuffledEssay = shuffleArray(essayQuestions);
+
+          // Shuffle reading passages (but keep questions in order within each passage)
+          const shuffledReading = shuffleArray(readingQuestions);
+
+          // Combine: MCQ -> MSQ -> SA -> Reading -> Essay
+          currentExercises = [...shuffledMCQ, ...preparedMSQ, ...shuffledSA, ...shuffledReading, ...shuffledEssay];
+        }
+
+        function renderQuiz() {
+          userAnswers = {};
+          quizContainer.innerHTML = '';
+          resultsDiv.classList.add('hidden');
+          quizControls.classList.remove('hidden');
+
+          let questionCount = 0;
+
+          currentExercises.forEach((exercise, index) => {
+            const questionDiv = document.createElement('div');
+            questionCount++;
+
+            // Render based on exercise type
+            if (exercise.type === 'reading') {
+              // Reading Comprehension - Passage with multiple questions
+              questionDiv.className = 'bg-gradient-to-br from-indigo-50 to-violet-50 rounded-2xl shadow-lg p-8 transition-all hover:shadow-xl border-2 border-indigo-200';
+              questionDiv.dataset.id = exercise.id;
+              questionDiv.dataset.type = 'reading';
+
+              // Render passage and questions
+              const questionsHTML = exercise.questions.map((q, qIndex) => `
+                <div class="mb-6 p-5 bg-white rounded-xl shadow-sm border border-indigo-100">
+                  <div class="flex items-start mb-4">
+                    <span class="flex-shrink-0 w-8 h-8 bg-indigo-600 text-white rounded-lg flex items-center justify-center font-bold mr-3 text-sm">
+                      ${qIndex + 1}
+                    </span>
+                    <div class="flex-1">
+                      <div class="text-base font-semibold text-gray-900 mb-3">${renderLatex(q.question)}</div>
+                      <div class="space-y-2">
+                        ${q.options.map((option, optIndex) => `
+                          <label class="flex items-start p-3 border-2 border-indigo-100 rounded-lg cursor-pointer transition-all hover:border-indigo-300 hover:bg-indigo-50 option-label-reading group">
+                            <input
+                              type="radio"
+                              name="reading-${exercise.id}-q${qIndex}"
+                              value="${optIndex}"
+                              data-question-index="${qIndex}"
+                              class="mt-1 mr-3 w-4 h-4 text-indigo-600 border-indigo-300 focus:ring-2 focus:ring-indigo-500"
+                            />
+                            <span class="flex-1 option-text text-gray-700 group-hover:text-indigo-900">${renderLatex(option)}</span>
+                          </label>
+                        `).join('')}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              `).join('');
+
+              questionDiv.innerHTML = `
+                <div class="mb-6">
+                  <div class="flex items-center mb-4">
+                    <span class="inline-block px-4 py-2 bg-gradient-to-r from-indigo-600 to-violet-600 text-white text-sm font-bold rounded-full shadow-md">
+                      📖 Đọc hiểu
+                    </span>
+                  </div>
+                  
+                  <!-- Passage -->
+                  <div class="bg-white p-6 rounded-xl shadow-sm border-2 border-indigo-200 mb-6">
+                    <div class="prose prose-indigo max-w-none">
+                      <div class="text-gray-800 leading-relaxed whitespace-pre-line">${renderLatex(exercise.passage)}</div>
+                    </div>
+                  </div>
+
+                  <!-- Questions -->
+                  <div class="space-y-4">
+                    <h3 class="text-lg font-bold text-indigo-900 mb-3">Câu hỏi:</h3>
+                    ${questionsHTML}
+                  </div>
+                </div>
+              `;
+
+              // Add event listeners for reading questions
+              questionDiv.querySelectorAll('input[type="radio"]').forEach(radio => {
+                radio.addEventListener('change', (e) => {
+                  const questionIndex = parseInt(e.target.dataset.questionIndex);
+                  if (!userAnswers[exercise.id]) {
+                    userAnswers[exercise.id] = {};
+                  }
+                  userAnswers[exercise.id][questionIndex] = parseInt(e.target.value);
+                });
+              });
+
+            } else if (exercise.type === 'essay') {
+              questionDiv.className = 'bg-gradient-to-br from-purple-50 to-pink-50 rounded-2xl shadow-lg p-8 transition-all hover:shadow-xl border-2 border-purple-200';
+              questionDiv.dataset.id = exercise.id;
+              questionDiv.dataset.type = 'essay';
+
+              // Essay question - show question with textarea for answer
+              questionDiv.innerHTML = `
+                <div class="flex items-start mb-6">
+                  <span class="flex-shrink-0 w-10 h-10 bg-gradient-to-br from-purple-600 to-pink-600 text-white rounded-xl flex items-center justify-center font-bold mr-4 shadow-lg">
+                    ${index + 1}
+                  </span>
+                  <div class="flex-1">
+                    <div class="flex items-center mb-4">
+                      <span class="inline-block px-4 py-2 bg-gradient-to-r from-purple-600 to-pink-600 text-white text-sm font-bold rounded-full shadow-md">
+                        ✍️ Câu hỏi tự luận
+                      </span>
+                    </div>
+                    <div class="text-lg font-bold text-gray-900 mb-6 leading-relaxed">${renderLatex(exercise.question)}</div>
+
+                    <!-- Student answer textarea -->
+                    <div class="mb-6">
+                      <label class="block text-sm font-semibold text-purple-800 mb-3">📝 Câu trả lời của bạn:</label>
+                      <textarea
+                        id="essay-answer-${exercise.id}"
+                        rows="8"
+                        class="w-full p-4 border-2 border-purple-300 rounded-xl focus:border-purple-500 focus:ring-2 focus:ring-purple-200 transition-all resize-y"
+                        placeholder="Nhập câu trả lời của bạn vào đây..."
+                      ></textarea>
+                      ${exercise.answer_guide ? `
+                      <div class="mt-3 p-3 bg-blue-50 border-l-4 border-blue-400 rounded">
+                        <p class="text-xs font-semibold text-blue-800 mb-1">💡 Gợi ý:</p>
+                        <div class="text-xs text-gray-700 leading-relaxed">${renderLatex(exercise.answer_guide)}</div>
+                      </div>` : ''}
+                    </div>
+
+                    <!-- Answer guide and explanation (hidden initially) -->
+                    <div id="essay-solution-${exercise.id}" class="hidden space-y-4">
+                      <div class="bg-purple-50 border-l-4 border-purple-500 rounded-lg p-5 shadow-md">
+                        <div class="flex items-center mb-3">
+                          <svg class="w-5 h-5 text-purple-600 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.232 5.232l3.536 3.536m-2.036-5.036a2.5 2.5 0 113.536 3.536L6.5 21.036H3v-3.572L16.732 3.732z"/>
+                          </svg>
+                          <span class="font-bold text-purple-900">📝 Câu trả lời của bạn</span>
+                        </div>
+                        <div class="text-sm text-gray-800 leading-relaxed whitespace-pre-wrap student-essay-answer"></div>
+                      </div>
+
+                      <div class="bg-green-50 border-l-4 border-green-500 rounded-lg p-5 shadow-md">
+                        <div class="flex items-center mb-3">
+                          <svg class="w-5 h-5 text-green-600 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                          </svg>
+                          <span class="font-bold text-green-900">✅ Đáp án chuẩn</span>
+                        </div>
+                        <div class="text-sm text-gray-800 leading-relaxed">${renderLatex(exercise.explanation)}</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              `;
+            } else if (exercise.type === 'sa') {
+              // Short Answer Question
+              questionDiv.className = 'bg-gradient-to-br from-green-50 to-emerald-50 rounded-2xl shadow-lg p-8 transition-all hover:shadow-xl border-2 border-green-200';
+              questionDiv.dataset.id = exercise.id;
+              questionDiv.dataset.type = 'sa';
+
+              // Allow both number and text input for all subjects
+              const inputType = 'text';
+              const inputPlaceholder = 'Nhập số hoặc từ...';
+              const inputAttrs = 'autocomplete="off"';
+
+              questionDiv.innerHTML = `
+                 <div class="flex items-start mb-6">
+                  <span class="flex-shrink-0 w-10 h-10 bg-gradient-to-br from-green-600 to-emerald-600 text-white rounded-xl flex items-center justify-center font-bold mr-4 shadow-lg">
+                    ${index + 1}
+                  </span>
+                  <div class="flex-1">
+                    <div class="flex items-center mb-4">
+                      <span class="inline-block px-4 py-2 bg-gradient-to-r from-green-600 to-emerald-600 text-white text-sm font-bold rounded-full shadow-md">
+                        ✏️ Trả lời ngắn
+                      </span>
+                    </div>
+                    <div class="text-lg font-bold text-gray-900 mb-6 leading-relaxed">${renderLatex(exercise.question_text || exercise.question)}</div>
+
+                    <div class="mb-6">
+                      <input
+                        type="${inputType}"
+                        id="sa-input-${exercise.id}"
+                        class="w-full max-w-xs p-3 border-2 border-green-300 rounded-lg focus:border-green-500 focus:ring-2 focus:ring-green-200 transition-all font-medium text-lg"
+                        placeholder="${inputPlaceholder}"
+                        ${inputAttrs}
+                      />
+                    </div>
+
+                    <!-- Result container -->
+                    <div id="sa-result-${exercise.id}" class="hidden mt-4"></div>
+                  </div>
+                </div>
+              `;
+
+              // Add event listener for SA
+              const input = questionDiv.querySelector(`#sa-input-${exercise.id}`);
+              input.addEventListener('change', (e) => {
+                userAnswers[exercise.id] = e.target.value;
+              });
+              input.addEventListener('input', (e) => {
+                 userAnswers[exercise.id] = e.target.value;
+              });
+
+            } else if (exercise.type === 'msq') {
+               // True/False per statement Question
+              questionDiv.className = 'bg-gradient-to-br from-orange-50 to-amber-50 rounded-2xl shadow-lg p-8 transition-all hover:shadow-xl border-2 border-orange-200';
+              questionDiv.dataset.id = exercise.id;
+              questionDiv.dataset.type = 'msq';
+
+              const optionLabels = ['a', 'b', 'c', 'd', 'e', 'f'];
+              const correctSet = Array.isArray(exercise.correct) ? exercise.correct : [];
+
+               questionDiv.innerHTML = `
+                <div class="flex items-start mb-6">
+                  <span class="flex-shrink-0 w-10 h-10 bg-gradient-to-br from-orange-500 to-amber-600 text-white rounded-xl flex items-center justify-center font-bold mr-4 shadow-lg">
+                    ${index + 1}
+                  </span>
+                  <div class="flex-1">
+                    <div class="flex items-center mb-4">
+                      <span class="inline-block px-4 py-2 bg-gradient-to-r from-orange-500 to-amber-600 text-white text-sm font-bold rounded-full shadow-md">
+                        ⚖️ Đúng / Sai
+                      </span>
+                    </div>
+                    <div class="text-base font-bold text-gray-900 mb-5 leading-relaxed">${renderLatex(exercise.question_text || exercise.question)}</div>
+
+                    <div class="space-y-3">
+                      ${exercise.options.map((option, optIndex) => `
+                        <div class="msq-row flex items-center gap-3 p-4 border-2 border-orange-200 rounded-xl bg-white hover:border-orange-300 transition-all" data-opt-index="${optIndex}">
+                          <span class="flex-shrink-0 w-7 h-7 bg-orange-100 text-orange-700 rounded-lg flex items-center justify-center font-bold text-sm">${optionLabels[optIndex]})</span>
+                          <span class="flex-1 text-gray-800 text-sm leading-relaxed">${renderLatex(option)}</span>
+                          <div class="flex items-center gap-2 flex-shrink-0">
+                            <label class="msq-choice flex items-center gap-1.5 px-3 py-1.5 border-2 border-gray-200 rounded-lg cursor-pointer hover:border-green-400 hover:bg-green-50 transition-all text-sm font-medium text-gray-600">
+                              <input type="radio" name="msq-${exercise.id}-opt${optIndex}" value="true" class="w-3.5 h-3.5 text-green-600 accent-green-500" />
+                              Đúng
+                            </label>
+                            <label class="msq-choice flex items-center gap-1.5 px-3 py-1.5 border-2 border-gray-200 rounded-lg cursor-pointer hover:border-red-400 hover:bg-red-50 transition-all text-sm font-medium text-gray-600">
+                              <input type="radio" name="msq-${exercise.id}-opt${optIndex}" value="false" class="w-3.5 h-3.5 text-red-600 accent-red-500" />
+                              Sai
+                            </label>
+                          </div>
+                        </div>
+                      `).join('')}
+                    </div>
+                  </div>
+                </div>
+              `;
+
+              // Initialize userAnswers for this msq as an object per sub-option
+              userAnswers[exercise.id] = {};
+
+              // Add event listeners for each sub-option
+              exercise.options.forEach((_, optIndex) => {
+                questionDiv.querySelectorAll(`input[name="msq-${exercise.id}-opt${optIndex}"]`).forEach(radio => {
+                  radio.addEventListener('change', (e) => {
+                    userAnswers[exercise.id][optIndex] = e.target.value === 'true';
+                    // Visual feedback
+                    const row = questionDiv.querySelector(`.msq-row[data-opt-index="${optIndex}"]`);
+                    const choiceLabels = row.querySelectorAll('.msq-choice');
+                    choiceLabels.forEach(lbl => {
+                      lbl.classList.remove('border-green-400', 'bg-green-100', 'border-red-400', 'bg-red-100');
+                    });
+                    const selectedLabel = e.target.closest('label');
+                    if (e.target.value === 'true') {
+                      selectedLabel.classList.add('border-green-400', 'bg-green-100');
+                    } else {
+                      selectedLabel.classList.add('border-red-400', 'bg-red-100');
+                    }
+                  });
+                });
+              });
+
+            } else {
+              // Standard MCQ
+              questionDiv.className = 'bg-gradient-to-br from-blue-50 to-cyan-50 rounded-2xl shadow-lg p-8 transition-all hover:shadow-xl border-2 border-blue-200';
+              questionDiv.dataset.id = exercise.id;
+              questionDiv.dataset.type = 'mcq';
+
+              // MCQ question - show options
+              const mcqLabels = ['A', 'B', 'C', 'D', 'E', 'F'];
+              questionDiv.innerHTML = `
+                <div class="flex items-start mb-6">
+                  <span class="flex-shrink-0 w-10 h-10 bg-gradient-to-br from-blue-600 to-cyan-600 text-white rounded-xl flex items-center justify-center font-bold mr-4 shadow-lg">
+                    ${index + 1}
+                  </span>
+                  <div class="flex-1">
+                    <div class="flex items-center mb-4">
+                      <span class="inline-block px-4 py-2 bg-gradient-to-r from-blue-600 to-cyan-600 text-white text-sm font-bold rounded-full shadow-md">
+                        ☑️ Trắc nghiệm
+                      </span>
+                    </div>
+                    <div class="text-lg font-bold text-gray-900 mb-5 leading-relaxed">${renderLatex(exercise.question)}</div>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                      ${exercise.options.map((option, optIndex) => `
+                        <label class="flex items-center gap-3 p-4 border-2 border-blue-200 rounded-xl cursor-pointer transition-all hover:border-blue-400 hover:bg-blue-100 hover:shadow-md option-label group">
+                          <input
+                            type="radio"
+                            name="question-${exercise.id}"
+                            value="${optIndex}"
+                            class="hidden"
+                          />
+                          <span class="flex-shrink-0 w-8 h-8 bg-blue-100 group-hover:bg-blue-200 text-blue-700 rounded-lg flex items-center justify-center font-bold text-sm transition-all mcq-letter">${mcqLabels[optIndex]}.</span>
+                          <span class="flex-1 option-text text-gray-800 group-hover:text-blue-900 font-medium text-sm leading-snug">${renderLatex(option)}</span>
+                        </label>
+                      `).join('')}
+                    </div>
+                  </div>
+                </div>
+              `;
+
+              // Visual selected state for MCQ (since radio is hidden)
+              questionDiv.querySelectorAll('.option-label').forEach(lbl => {
+                lbl.addEventListener('click', () => {
+                  questionDiv.querySelectorAll('.option-label').forEach(l => {
+                    l.classList.remove('border-blue-500', 'bg-blue-100');
+                    l.querySelector('.mcq-letter').classList.remove('bg-blue-600', 'text-white');
+                    l.querySelector('.mcq-letter').classList.add('bg-blue-100', 'text-blue-700');
+                  });
+                  lbl.classList.add('border-blue-500', 'bg-blue-100');
+                  const letter = lbl.querySelector('.mcq-letter');
+                  letter.classList.remove('bg-blue-100', 'text-blue-700');
+                  letter.classList.add('bg-blue-600', 'text-white');
+                });
+              });
+
+              // Add event listeners for MCQ
+              questionDiv.querySelectorAll('input[type="radio"]').forEach(radio => {
+                radio.addEventListener('change', (e) => {
+                  userAnswers[exercise.id] = parseInt(e.target.value);
+                });
+              });
+            }
+
+            quizContainer.appendChild(questionDiv);
+          });
+        }
+
+      function showResults() {
+        quizControls.classList.add('hidden');
+
+        // Scoring: MCQ = 0.25pt each, MSQ = 0.25pt per sub-option, SA = not scored
+        let totalScore = 0;      // accumulated decimal points
+        let maxScore = 0;        // maximum possible decimal points
+
+        currentExercises.forEach((exercise, index) => {
+          const questionDiv = quizContainer.children[index];
+
+          if (exercise.type === 'reading') {
+            // Reading Comprehension Scoring
+            const userReadingAnswers = userAnswers[exercise.id] || {};
+            let correctCount = 0;
+            
+            exercise.questions.forEach((q, qIndex) => {
+              const userAnswer = userReadingAnswers[qIndex];
+              const isCorrect = userAnswer === q.correct;
+              
+              if (isCorrect) {
+                correctCount++;
+                totalScore += 0.25;
+              }
+              maxScore += 0.25;
+
+              // Find the question container
+              const questionContainers = questionDiv.querySelectorAll('.mb-6.p-5');
+              const questionContainer = questionContainers[qIndex];
+              
+              if (questionContainer) {
+                const labels = questionContainer.querySelectorAll('.option-label-reading');
+                labels.forEach((label, optIndex) => {
+                  const radio = label.querySelector('input');
+                  radio.disabled = true;
+
+                  // Reset styles
+                  label.classList.remove('hover:border-indigo-300', 'hover:bg-indigo-50');
+
+                  if (optIndex === q.correct) {
+                    label.classList.add('bg-green-100', 'border-green-500', 'text-green-900');
+                    label.querySelector('.option-text').innerHTML += ' ✅';
+                  } else if (optIndex === userAnswer && !isCorrect) {
+                    label.classList.add('bg-red-100', 'border-red-500', 'text-red-900');
+                    label.querySelector('.option-text').innerHTML += ' ❌';
+                  } else {
+                    label.classList.add('opacity-50');
+                  }
+                });
+
+                const explanationDiv = document.createElement('div');
+                explanationDiv.className = 'mt-4 p-4 bg-amber-50 border-l-4 border-amber-500 rounded-lg';
+                explanationDiv.innerHTML = `
+                  <div class="flex items-center mb-2">
+                    <span class="text-lg mr-2">💡</span>
+                    <span class="font-bold text-amber-900">Giải thích</span>
+                  </div>
+                  <div class="text-sm text-gray-800">${renderLatex(q.explanation)}</div>
+                `;
+                questionContainer.appendChild(explanationDiv);
+              }
+            });
+
+            const summaryDiv = document.createElement('div');
+            summaryDiv.className = 'mt-6 p-5 bg-indigo-100 border-2 border-indigo-300 rounded-xl';
+            summaryDiv.innerHTML = `
+              <div class="text-center">
+                <span class="text-2xl font-bold text-indigo-900">
+                  Kết quả đọc hiểu: ${correctCount}/${exercise.questions.length} câu đúng
+                </span>
+              </div>
+            `;
+            questionDiv.appendChild(summaryDiv);
+            return;
+          }
+
+          if (exercise.type === 'essay') {
+            const solutionDiv = questionDiv.querySelector(`#essay-solution-${exercise.id}`);
+            if (solutionDiv) {
+              solutionDiv.classList.remove('hidden');
+              const textarea = questionDiv.querySelector(`#essay-answer-${exercise.id}`);
+              if (textarea) {
+                const studentAnswer = textarea.value || "Bạn chưa nhập câu trả lời.";
+                const answerDisplay = solutionDiv.querySelector('.student-essay-answer');
+                if (answerDisplay) {
+                  answerDisplay.textContent = studentAnswer;
+                }
+                textarea.parentElement.classList.add('hidden');
+              }
+              questionDiv.classList.add('ring-2', 'ring-purple-300');
+            }
+            return;
+          }
+
+          // ── SA: 0.5pt per correct answer ──
+          if (exercise.type === 'sa') {
+            const rawUser = (userAnswers[exercise.id] || '').toString().trim();
+            const rawCorrect = (exercise.correct || '').toString().trim();  // field is 'correct' in JSON
+            let saCorrect = false;
+
+            // Try numeric comparison first, fallback to case-insensitive string
+            const normalise = (s) => parseFloat(s.replace(',', '.'));
+            const numUser = normalise(rawUser);
+            const numCorrect = normalise(rawCorrect);
+            if (!isNaN(numUser) && !isNaN(numCorrect) && rawUser !== '' && rawCorrect !== '') {
+              saCorrect = Math.abs(numUser - numCorrect) < 1e-9;
+            } else {
+              saCorrect = rawUser.toLowerCase() === rawCorrect.toLowerCase();
+            }
+
+            // Score: 0.5pt per SA
+            maxScore += 0.5;
+            if (saCorrect) totalScore += 0.5;
+
+            const resultContainer = questionDiv.querySelector(`#sa-result-${exercise.id}`);
+            const input = questionDiv.querySelector(`#sa-input-${exercise.id}`);
+            input.disabled = true;
+            resultContainer.classList.remove('hidden');
+
+            if (saCorrect) {
+              input.classList.add('border-green-500', 'bg-green-50', 'text-green-900');
+              resultContainer.innerHTML = `
+                <div class="p-3 bg-green-100 text-green-800 rounded-lg flex items-center">
+                  <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+                  <span class="font-bold">Chính xác! +0.5 điểm</span>
+                </div>
+              `;
+            } else {
+              input.classList.add('border-red-500', 'bg-red-50', 'text-red-900');
+              resultContainer.innerHTML = `
+                <div class="p-3 bg-red-100 text-red-800 rounded-lg mb-2 flex items-center">
+                  <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                  <span class="font-bold">Chưa chính xác</span>
+                </div>
+                <div class="p-3 bg-green-100 text-green-800 rounded-lg">
+                  <span class="font-bold">Đáp án đúng:</span> ${rawCorrect}
+                </div>
+              `;
+            }
+
+            // Add explanation with score badge
+            if (exercise.explanation) {
+              const explanationDiv = document.createElement('div');
+              explanationDiv.className = 'mt-4 p-5 bg-gradient-to-r from-amber-50 to-orange-50 border-l-4 border-amber-500 rounded-xl shadow-md';
+              explanationDiv.innerHTML = `
+                <div class="flex items-center mb-2">
+                  <span class="text-xl mr-2">💡</span>
+                  <span class="font-bold text-amber-900">Giải thích</span>
+                  <span class="ml-auto px-3 py-1 rounded-full text-sm font-bold ${
+                    saCorrect ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'
+                  }">${saCorrect ? '+0.5' : '0'} điểm</span>
+                </div>
+                <div class="text-gray-800 leading-relaxed">${renderLatex(exercise.explanation)}</div>
+              `;
+              const contentArea = questionDiv.querySelector('.flex-1');
+              if (contentArea) contentArea.appendChild(explanationDiv);
+            }
+            return;
+          }
+
+          // ── MSQ: 0.25pt per sub-option ──
+          if (exercise.type === 'msq') {
+            const correctSet = Array.isArray(exercise.correct) ? exercise.correct : [];
+            const userSubAnswers = userAnswers[exercise.id] || {};
+            let msqEarned = 0;
+            const msqMax = exercise.options.length * 0.25;
+            maxScore += msqMax;
+
+            exercise.options.forEach((_, optIndex) => {
+              const expectedTrue = correctSet.includes(optIndex);
+              const userChose = userSubAnswers[optIndex];
+              const subIsCorrect = (userChose === expectedTrue) && (userChose !== undefined);
+              if (subIsCorrect) {
+                msqEarned += 0.25;
+                totalScore += 0.25;
+              }
+
+              const row = questionDiv.querySelector(`.msq-row[data-opt-index="${optIndex}"]`);
+              if (!row) return;
+
+              row.querySelectorAll('input[type="radio"]').forEach(r => r.disabled = true);
+              row.classList.remove('hover:border-orange-300');
+
+              if (userChose === undefined) {
+                row.classList.add('border-gray-400', 'opacity-60');
+              } else if (subIsCorrect) {
+                row.classList.remove('border-orange-200');
+                row.classList.add('border-green-500', 'bg-green-50');
+                const selectedInput = row.querySelector(`input[value="${userChose ? 'true' : 'false'}"]:checked`);
+                if (selectedInput) selectedInput.closest('label').innerHTML += ' ✅';
+              } else {
+                row.classList.remove('border-orange-200');
+                row.classList.add('border-red-400', 'bg-red-50');
+                const selectedInput = row.querySelector('input:checked');
+                if (selectedInput) selectedInput.closest('label').innerHTML += ' ❌';
+                const correctValue = expectedTrue ? 'true' : 'false';
+                const correctInput = row.querySelector(`input[value="${correctValue}"]`);
+                if (correctInput) {
+                  const correctLbl = correctInput.closest('label');
+                  correctLbl.classList.add('border-green-500', 'bg-green-100');
+                  correctLbl.innerHTML += ' ✅';
+                }
+              }
+            });
+
+            // Explanation with score badge
+            const explanationDiv = document.createElement('div');
+            explanationDiv.className = 'mt-6 p-5 bg-gradient-to-r from-amber-50 to-orange-50 border-l-4 border-amber-500 rounded-xl shadow-md';
+            explanationDiv.innerHTML = `
+              <div class="flex items-center mb-3">
+                <span class="text-2xl mr-2">💡</span>
+                <span class="font-bold text-amber-900 text-lg">Giải thích</span>
+                <span class="ml-auto px-3 py-1 rounded-full text-sm font-bold ${
+                  msqEarned === msqMax ? 'bg-green-100 text-green-800' :
+                  msqEarned > 0 ? 'bg-yellow-100 text-yellow-800' : 'bg-red-100 text-red-800'
+                }">${msqEarned.toFixed(2).replace(/\.?0+$/, '')} / ${msqMax.toFixed(2).replace(/\.?0+$/, '')} điểm</span>
+              </div>
+              <div class="text-gray-800 leading-relaxed">${renderLatex(exercise.explanation)}</div>
+            `;
+            const contentArea = questionDiv.querySelector('.flex-1');
+            if (contentArea) contentArea.appendChild(explanationDiv);
+            return;
+          }
+
+          // ── MCQ: 0.25pt per question ──
+          const mcqLabels = ['A', 'B', 'C', 'D', 'E', 'F'];
+          const userAnswer = userAnswers[exercise.id];
+          const isCorrect = userAnswer === exercise.correct;
+          maxScore += 0.25;
+          if (isCorrect) totalScore += 0.25;
+
+          // Update question display
+          const options = questionDiv.querySelectorAll('.option-label');
+          options.forEach((label, optIndex) => {
+            const radio = label.querySelector('input');
+            radio.disabled = true;
+            label.style.cursor = 'default';
+            label.style.pointerEvents = 'none';
+
+            const letterBadge = mcqLabels[optIndex] ? mcqLabels[optIndex] + '.' : '';
+
+            if (optIndex === exercise.correct) {
+              label.classList.remove('border-blue-200', 'hover:border-blue-400', 'hover:bg-blue-100', 'border-blue-500', 'bg-blue-100');
+              label.classList.add('border-green-500', 'bg-green-50', 'ring-2', 'ring-green-200');
+              const optionText = label.querySelector('.option-text');
+              label.innerHTML = `
+                <span class="flex-shrink-0 w-8 h-8 bg-green-500 text-white rounded-lg flex items-center justify-center font-bold text-sm">${letterBadge}</span>
+                <span class="flex-1 option-text text-green-900 font-bold text-sm leading-snug">${optionText.innerHTML}</span>
+                <span class="text-xl ml-1">✅</span>
+              `;
+            } else if (optIndex === userAnswer && !isCorrect) {
+              label.classList.remove('border-blue-200', 'hover:border-blue-400', 'hover:bg-blue-100', 'border-blue-500', 'bg-blue-100');
+              label.classList.add('border-red-500', 'bg-red-50', 'ring-2', 'ring-red-200');
+              const optionText = label.querySelector('.option-text');
+              label.innerHTML = `
+                <span class="flex-shrink-0 w-8 h-8 bg-red-400 text-white rounded-lg flex items-center justify-center font-bold text-sm">${letterBadge}</span>
+                <span class="flex-1 option-text text-red-900 font-bold text-sm leading-snug">${optionText.innerHTML}</span>
+                <span class="text-xl ml-1">❌</span>
+              `;
+            } else {
+              label.classList.add('opacity-50');
+            }
+          });
+
+          // Explanation with score badge
+          const explanationDiv = document.createElement('div');
+          explanationDiv.className = 'mt-6 p-5 bg-gradient-to-r from-amber-50 to-orange-50 border-l-4 border-amber-500 rounded-xl shadow-md';
+          explanationDiv.innerHTML = `
+            <div class="flex items-center mb-3">
+              <span class="text-2xl mr-2">💡</span>
+              <span class="font-bold text-amber-900 text-lg">Giải thích</span>
+              <span class="ml-auto px-3 py-1 rounded-full text-sm font-bold ${
+                isCorrect ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'
+              }">${isCorrect ? '+0.25' : '0'} điểm</span>
+            </div>
+            <div class="text-gray-800 leading-relaxed">${renderLatex(exercise.explanation)}</div>
+          `;
+          const contentArea = questionDiv.querySelector('.flex-1');
+          if (contentArea) contentArea.appendChild(explanationDiv);
+
+        });
+
+        // ── Show results summary ──
+        if (maxScore > 0) {
+          const percentage = (totalScore / maxScore) * 100;
+          const resultIcon = document.getElementById('result-icon');
+          const resultTitle = document.getElementById('result-title');
+          const resultMessage = document.getElementById('result-message');
+          const resultScore = document.getElementById('result-score');
+          const resultTotal = document.getElementById('result-total');
+          const resultBar = document.getElementById('result-bar');
+
+          // Format scores: trim trailing zeros
+          const fmtScore = (n) => parseFloat(n.toFixed(2)).toString();
+          resultScore.textContent = fmtScore(totalScore);
+          resultTotal.textContent = fmtScore(maxScore) + ' điểm';
+          resultBar.style.width = `${percentage}%`;
+
+          if (percentage === 100) {
+            resultIcon.textContent = '🎉';
+            resultTitle.textContent = 'Xuất sắc!';
+            resultTitle.className = 'text-3xl font-bold mb-2 text-green-600';
+            resultMessage.textContent = 'Bạn đã trả lời đúng tất cả câu hỏi! Bạn thật tuyệt vời!';
+            resultBar.className = 'bg-gradient-to-r from-green-400 to-green-600 h-4 rounded-full transition-all duration-1000';
+          } else if (percentage >= 80) {
+            resultIcon.textContent = '🌟';
+            resultTitle.textContent = 'Tốt lắm!';
+            resultTitle.className = 'text-3xl font-bold mb-2 text-blue-600';
+            resultMessage.textContent = 'Bạn đã làm rất tốt! Hãy tiếp tục phát huy!';
+            resultBar.className = 'bg-gradient-to-r from-blue-400 to-blue-600 h-4 rounded-full transition-all duration-1000';
+          } else if (percentage >= 60) {
+            resultIcon.textContent = '👍';
+            resultTitle.textContent = 'Khá tốt!';
+            resultTitle.className = 'text-3xl font-bold mb-2 text-yellow-600';
+            resultMessage.textContent = 'Bạn đã hiểu phần lớn bài học. Hãy xem lại phần lý thuyết nhé!';
+            resultBar.className = 'bg-gradient-to-r from-yellow-400 to-yellow-600 h-4 rounded-full transition-all duration-1000';
+          } else {
+            resultIcon.textContent = '📚';
+            resultTitle.textContent = 'Cố gắng lên!';
+            resultTitle.className = 'text-3xl font-bold mb-2 text-orange-600';
+            resultMessage.textContent = 'Hãy học lại bài và thử lại nhé. Bạn sẽ làm tốt hơn!';
+            resultBar.className = 'bg-gradient-to-r from-orange-400 to-orange-600 h-4 rounded-full transition-all duration-1000';
+          }
+
+          resultsDiv.classList.remove('hidden');
+        }
+
+        resultsDiv.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+
+      submitBtn.addEventListener('click', () => {
+        // Check if all SCORED questions are answered (essay skipped, SA included)
+        let totalScoredQuestions = 0;
+        let answeredQuestions = 0;
+
+        currentExercises.forEach(ex => {
+          if (ex.type === 'essay') {
+            return; // Only essay is skipped
+          } else if (ex.type === 'reading') {
+            totalScoredQuestions += ex.questions.length;
+            const readingAnswers = userAnswers[ex.id] || {};
+            answeredQuestions += Object.keys(readingAnswers).length;
+          } else if (ex.type === 'msq') {
+            totalScoredQuestions++;
+            const subAnswers = userAnswers[ex.id] || {};
+            if (Object.keys(subAnswers).length === ex.options.length) {
+              answeredQuestions++;
+            }
+          } else {
+            // MCQ, SA
+            totalScoredQuestions++;
+            if (userAnswers[ex.id] !== undefined && userAnswers[ex.id] !== '') {
+              answeredQuestions++;
+            }
+          }
+        });
+
+        if (answeredQuestions < totalScoredQuestions) {
+          const confirmSubmit = confirm(`Bạn chưa trả lời hết! Còn ${totalScoredQuestions - answeredQuestions} câu hỏi chưa làm. Bạn có chắc chắn muốn nộp bài không?`);
+          if (!confirmSubmit) return;
+        }
+        showResults();
+      });
+
+      retryBtn.addEventListener('click', () => {
+        prepareQuizData(); // Reshuffle on retry
+        renderQuiz();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+
+      // Initial render
+      prepareQuizData(); // Shuffle on first load too
+      renderQuiz();
+    }
+  }
+
+  // Initialize quiz when DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initQuiz);
+  } else {
+    initQuiz();
+  }
+  </script>
+</Layout>
+
+<style>
+  .option-label {
+    transition: all 0.2s ease;
+  }
+
+  .option-label:has(input:checked) {
+    border-color: #2563eb;
+    background-color: #dbeafe;
+  }
+
+  #quiz-results {
+    animation: slideUp 0.5s ease-out;
+  }
+
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>

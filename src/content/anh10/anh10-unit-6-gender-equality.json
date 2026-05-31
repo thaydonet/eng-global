@@ -1,0 +1,354 @@
+{
+  "subject": "Tiếng Anh 10",
+  "subject_id": 40,
+  "lessons": [
+    {
+      "id": "anh10-unit-6-gender-equality",
+      "name": "Unit 6: Gender Equality",
+      "slug": "unit-6-gender-equality",
+      "chapter": "Unit 6: Gender Equality",
+      "chapter_id": "A10",
+      "lesson_id": 6,
+      "description": "Học về bình đẳng giới, quyền phụ nữ và câu bị động với động từ khuyết thiếu.",
+      "duration_minutes": 300,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1573164713988-8665fc963095?q=80&w=2669&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh10-unit-6-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về bình đẳng giới và các vấn đề liên quan",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh10-unit-6-p1-getting-started.json"
+        },
+        {
+          "id": "anh10-unit-6-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về bình đẳng giới và quyền phụ nữ",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh10-unit-6-p2-vocabulary.json"
+        },
+        {
+          "id": "anh10-unit-6-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Câu bị động với động từ khuyết thiếu",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh10-unit-6-p3-grammar.json"
+        },
+        {
+          "id": "anh10-unit-6-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về tiến bộ và thách thức trong bình đẳng giới",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh10-unit-6-p4-reading.json"
+        },
+        {
+          "id": "anh10-unit-6-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về các vấn đề bình đẳng giới",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh10-unit-6-p5-speaking.json"
+        },
+        {
+          "id": "anh10-unit-6-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về thành tựu của phụ nữ",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh10-unit-6-p6-listening.json"
+        },
+        {
+          "id": "anh10-unit-6-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về bình đẳng giới",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh10-unit-6-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-6",
+          "name": "Equality Vocabulary",
+          "slug": "equality-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 6: Gender Equality",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Gender equality</td><td class='px-4 py-2'>(n) /ˈdʒendə(r) ɪˈkwɒləti/</td><td class='px-4 py-2'>Bình đẳng giới</td><td class='px-4 py-2'>We must promote gender equality.</td></tr><tr><td class='px-4 py-2 font-bold'>Discrimination</td><td class='px-4 py-2'>(n) /dɪˌskrɪmɪˈneɪʃn/</td><td class='px-4 py-2'>Sự phân biệt đối xử</td><td class='px-4 py-2'>Gender discrimination is illegal.</td></tr><tr><td class='px-4 py-2 font-bold'>Discriminate</td><td class='px-4 py-2'>(v) /dɪˈskrɪmɪneɪt/</td><td class='px-4 py-2'>Phân biệt đối xử</td><td class='px-4 py-2'>Don't discriminate against women.</td></tr><tr><td class='px-4 py-2 font-bold'>Right</td><td class='px-4 py-2'>(n) /raɪt/</td><td class='px-4 py-2'>Quyền lợi</td><td class='px-4 py-2'>Everyone has equal rights.</td></tr><tr><td class='px-4 py-2 font-bold'>Opportunity</td><td class='px-4 py-2'>(n) /ˌɒpəˈtjuːnəti/</td><td class='px-4 py-2'>Cơ hội</td><td class='px-4 py-2'>Women deserve equal opportunities.</td></tr><tr><td class='px-4 py-2 font-bold'>Eliminate</td><td class='px-4 py-2'>(v) /ɪˈlɪmɪneɪt/</td><td class='px-4 py-2'>Loại bỏ</td><td class='px-4 py-2'>We must eliminate inequality.</td></tr><tr><td class='px-4 py-2 font-bold'>Enrol</td><td class='px-4 py-2'>(v) /ɪnˈrəʊl/</td><td class='px-4 py-2'>Đăng ký học, nhập học</td><td class='px-4 py-2'>Girls should enrol in school.</td></tr><tr><td class='px-4 py-2 font-bold'>Force</td><td class='px-4 py-2'>(v) /fɔːs/</td><td class='px-4 py-2'>Bắt buộc, ép buộc</td><td class='px-4 py-2'>Don't force girls to marry early.</td></tr><tr><td class='px-4 py-2 font-bold'>Wage</td><td class='px-4 py-2'>(n) /weɪdʒ/</td><td class='px-4 py-2'>Tiền lương</td><td class='px-4 py-2'>Equal wages for equal work.</td></tr><tr><td class='px-4 py-2 font-bold'>Wage gap</td><td class='px-4 py-2'>(n) /weɪdʒ ɡæp/</td><td class='px-4 py-2'>Khoảng cách tiền lương</td><td class='px-4 py-2'>The wage gap must be closed.</td></tr><tr><td class='px-4 py-2 font-bold'>Domestic violence</td><td class='px-4 py-2'>(n) /dəˈmestɪk ˈvaɪələns/</td><td class='px-4 py-2'>Bạo lực gia đình</td><td class='px-4 py-2'>Stop domestic violence.</td></tr><tr><td class='px-4 py-2 font-bold'>Socio-economic</td><td class='px-4 py-2'>(adj) /ˌsəʊsiəʊ ˌekəˈnɒmɪk/</td><td class='px-4 py-2'>Thuộc kinh tế - xã hội</td><td class='px-4 py-2'>Socio-economic development.</td></tr><tr><td class='px-4 py-2 font-bold'>Inequality</td><td class='px-4 py-2'>(n) /ˌɪnɪˈkwɒləti/</td><td class='px-4 py-2'>Sự bất bình đẳng</td><td class='px-4 py-2'>Fight against inequality.</td></tr><tr><td class='px-4 py-2 font-bold'>Empower</td><td class='px-4 py-2'>(v) /ɪmˈpaʊə(r)/</td><td class='px-4 py-2'>Trao quyền, làm mạnh mẽ</td><td class='px-4 py-2'>Empower women and girls.</td></tr><tr><td class='px-4 py-2 font-bold'>Stereotype</td><td class='px-4 py-2'>(n) /ˈsteriətaɪp/</td><td class='px-4 py-2'>Định kiến</td><td class='px-4 py-2'>Break gender stereotypes.</td></tr><tr><td class='px-4 py-2 font-bold'>Prejudice</td><td class='px-4 py-2'>(n) /ˈpredʒudɪs/</td><td class='px-4 py-2'>Thành kiến</td><td class='px-4 py-2'>Overcome prejudice.</td></tr><tr><td class='px-4 py-2 font-bold'>Career</td><td class='px-4 py-2'>(n) /kəˈrɪə(r)/</td><td class='px-4 py-2'>Sự nghiệp</td><td class='px-4 py-2'>Women can have successful careers.</td></tr><tr><td class='px-4 py-2 font-bold'>Leadership</td><td class='px-4 py-2'>(n) /ˈliːdəʃɪp/</td><td class='px-4 py-2'>Khả năng lãnh đạo</td><td class='px-4 py-2'>Women in leadership positions.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Gender issues (Vấn đề giới):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>gender gap:</strong> khoảng cách giới</li><li><strong>gender role:</strong> vai trò giới</li><li><strong>gender stereotype:</strong> định kiến giới</li><li><strong>gender-based violence:</strong> bạo lực dựa trên giới</li><li><strong>equal pay:</strong> trả lương công bằng</li><li><strong>women's rights:</strong> quyền phụ nữ</li><li><strong>glass ceiling:</strong> rào cản vô hình (ngăn phụ nữ thăng tiến)</li></ul><p><strong>Collocations về bình đẳng giới:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>promote gender equality:</strong> thúc đẩy bình đẳng giới</li><li><strong>achieve equality:</strong> đạt được bình đẳng</li><li><strong>eliminate discrimination:</strong> loại bỏ phân biệt đối xử</li><li><strong>empower women:</strong> trao quyền cho phụ nữ</li><li><strong>break stereotypes:</strong> phá vỡ định kiến</li><li><strong>close the wage gap:</strong> thu hẹp khoảng cách tiền lương</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm: Trọng âm của tính từ & động từ có 3 âm tiết",
+              "content": "<h3>Quy tắc trọng âm tính từ và động từ 3 âm tiết:</h3><p><strong>1. Động từ 3 âm tiết - Thường nhấn âm 2:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>E'liminate</strong> /ɪˈlɪmɪneɪt/ - loại bỏ</li><li><strong>Dis'criminate</strong> /dɪˈskrɪmɪneɪt/ - phân biệt đối xử</li><li><strong>De'termine</strong> /dɪˈtɜːmɪn/ - xác định</li><li><strong>Con'tribute</strong> /kənˈtrɪbjuːt/ - đóng góp</li><li><strong>Par'ticipate</strong> /pɑːˈtɪsɪpeɪt/ - tham gia</li></ul><p><strong>2. Tính từ 3 âm tiết - Thường nhấn âm 1:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>'Difficult</strong> /ˈdɪfɪkəlt/ - khó khăn</li><li><strong>'Different</strong> /ˈdɪfrənt/ - khác biệt</li><li><strong>'Excellent</strong> /ˈeksələnt/ - xuất sắc</li><li><strong>'Important</strong> /ɪmˈpɔːtnt/ (ngoại lệ - nhấn âm 2)</li></ul><p><strong>3. Tính từ có đuôi đặc biệt:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Đuôi -ic:</strong> nhấn âm trước đuôi<br>eco'nomic, scien'tific, demo'cratic</li><li><strong>Đuôi -ical:</strong> nhấn âm trước đuôi<br>po'litical, 'practical, 'typical</li><li><strong>Đuôi -ous:</strong> nhấn âm trước đuôi<br>'generous, 'dangerous, am'bitious</li></ul><p><strong>4. Một số ngoại lệ quan trọng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Im'portant</strong> /ɪmˈpɔːtnt/ (tính từ nhưng nhấn âm 2)</li><li><strong>'Organize</strong> /ˈɔːɡənaɪz/ (động từ nhưng nhấn âm 1)</li><li><strong>'Advertise</strong> /ˈædvətaɪz/ (động từ nhưng nhấn âm 1)</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp: Câu bị động với động từ khuyết thiếu",
+              "content": "<h3>A. Cấu trúc (Structure)</h3><p><strong>Modal verb + be + V3/ed (+ by O)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Can/Could + be + V3/ed</li><li>May/Might + be + V3/ed</li><li>Must/Have to + be + V3/ed</li><li>Should/Ought to + be + V3/ed</li><li>Will/Would + be + V3/ed</li></ul><h3>B. Cách chuyển từ chủ động sang bị động</h3><p><strong>Bước 1:</strong> Xác định tân ngữ (O) trong câu chủ động</p><p><strong>Bước 2:</strong> Đưa tân ngữ lên làm chủ ngữ câu bị động</p><p><strong>Bước 3:</strong> Thêm modal verb + be + V3/ed</p><p><strong>Bước 4:</strong> Đưa chủ ngữ câu chủ động xuống sau 'by' (có thể bỏ nếu không quan trọng)</p><h3>C. Ví dụ chuyển đổi</h3><ul class='list-disc pl-5 space-y-2'><li><strong>Active:</strong> We must eliminate gender discrimination.<br><strong>Passive:</strong> Gender discrimination must be eliminated (by us).</li><li><strong>Active:</strong> They should provide equal opportunities.<br><strong>Passive:</strong> Equal opportunities should be provided (by them).</li><li><strong>Active:</strong> The government can solve this problem.<br><strong>Passive:</strong> This problem can be solved by the government.</li><li><strong>Active:</strong> People may change their attitudes.<br><strong>Passive:</strong> Attitudes may be changed (by people).</li><li><strong>Active:</strong> We will achieve gender equality.<br><strong>Passive:</strong> Gender equality will be achieved (by us).</li></ul><h3>D. Các trường hợp đặc biệt</h3><p><strong>1. Bỏ 'by + O' khi:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chủ ngữ là đại từ bất định: someone, people, they, we...<br>Ex: People should respect women. → Women should be respected.</li><li>Chủ ngữ không quan trọng hoặc không rõ ràng<br>Ex: They must stop violence. → Violence must be stopped.</li></ul><p><strong>2. Giữ 'by + O' khi:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chủ ngữ quan trọng, cần nhấn mạnh<br>Ex: The government should implement new policies.<br>→ New policies should be implemented by the government.</li></ul><h3>E. Lưu ý quan trọng</h3><ul class='list-disc pl-5 space-y-2'><li>Modal verb không chia theo ngôi (không thêm s/es)</li><li>Sau modal verb luôn dùng 'be', không dùng 'been' hay 'being'</li><li>V3/ed phải đúng dạng (regular hoặc irregular verb)</li><li>Thời gian trong câu không thay đổi</li></ul><h3>F. Bài tập mẫu</h3><p><strong>Chuyển sang bị động:</strong></p><ul class='list-disc pl-5 space-y-2'><li>They can solve the problem. → The problem can be solved.</li><li>We must protect women's rights. → Women's rights must be protected.</li><li>People should change their attitudes. → Attitudes should be changed.</li><li>The law will guarantee equal pay. → Equal pay will be guaranteed by the law.</li></ul>"
+            },
+            {
+              "heading": "5. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Giới thiệu về bình đẳng giới và các vấn đề liên quan.</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về vai trò của nam và nữ trong xã hội</li><li>Thảo luận về bình đẳng giới trong gia đình và nơi làm việc</li><li>Từ vựng về quyền lợi và cơ hội</li><li>Chia sẻ quan điểm về bình đẳng giới</li></ul>"
+            },
+            {
+              "heading": "6. II. Language",
+              "content": "<p><strong>A. Pronunciation: Stress in three-syllable adjectives and verbs</strong></p><p>Luyện phát âm trọng âm của tính từ và động từ có 3 âm tiết</p><p><strong>B. Vocabulary:</strong> Gender equality and women's rights</p><ul class='list-disc pl-5 space-y-2'><li>Words related to gender equality</li><li>Discrimination and prejudice</li><li>Rights and opportunities</li><li>Career and leadership</li></ul><p><strong>C. Grammar:</strong> Passive voice with modal verbs</p>"
+            },
+            {
+              "heading": "7. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Gender Equality - Progress and Challenges</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu văn bản về bình đẳng giới</li><li>Tìm thông tin chi tiết về tiến bộ và thách thức</li><li>Hiểu tầm quan trọng của bình đẳng giới</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li></ul><p><strong>Nội dung:</strong> Bài đọc giới thiệu về tình hình bình đẳng giới trên thế giới, những tiến bộ đã đạt được trong giáo dục và việc làm, cũng như những thách thức còn tồn tại như khoảng cách tiền lương và bạo lực giới.</p>"
+            },
+            {
+              "heading": "8. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Discussing gender equality issues</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Thảo luận về vai trò giới trong xã hội</li><li>Nói về các vấn đề bất bình đẳng giới</li><li>Đề xuất giải pháp cho bình đẳng giới</li><li>Bày tỏ quan điểm về quyền phụ nữ</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I believe that men and women should...</li><li>In my opinion, gender equality means...</li><li>One of the main problems is...</li><li>We should/must/can...</li><li>It's important to eliminate...</li></ul>"
+            },
+            {
+              "heading": "9. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> A talk about women's achievements</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu thông tin về thành tựu của phụ nữ</li><li>Điền thông tin còn thiếu về bình đẳng giới</li><li>Trả lời câu hỏi chi tiết về quyền phụ nữ</li><li>Ghi chú các ý quan trọng</li></ul>"
+            },
+            {
+              "heading": "10. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing about gender equality</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đoạn văn về bình đẳng giới</li><li>Sử dụng câu bị động với động từ khuyết thiếu</li><li>Trình bày vấn đề và giải pháp</li><li>Sử dụng từ nối phù hợp</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Introduction: Giới thiệu chủ đề bình đẳng giới</li><li>Body: Mô tả vấn đề và đề xuất giải pháp (dùng passive with modals)</li><li>Conclusion: Tầm quan trọng của bình đẳng giới</li></ul>"
+            },
+            {
+              "heading": "11. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Expressing opinions about gender roles</p><p><strong>Culture:</strong> Gender equality in different countries</p><ul class='list-disc pl-5 space-y-2'><li>So sánh tình hình bình đẳng giới ở các nước</li><li>Tìm hiểu về phong trào nữ quyền</li><li>Thảo luận về vai trò giới trong các nền văn hóa khác nhau</li><li>Các chính sách thúc đẩy bình đẳng giới</li></ul><p><strong>CLIL (Citizenship):</strong> Women's rights and empowerment</p>"
+            },
+            {
+              "heading": "12. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vocabulary: Gender equality, discrimination, rights, opportunities</li><li>Pronunciation: Stress in three-syllable adjectives and verbs</li><li>Grammar: Passive voice with modal verbs</li><li>Skills: Reading, Speaking, Listening, Writing</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng sử dụng từ vựng và ngữ pháp đã học</p>"
+            },
+            {
+              "heading": "13. IX. Project",
+              "content": "<p><strong>Đề tài:</strong> Gender Equality in Our Community</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khảo sát tình hình bình đẳng giới trong cộng đồng</li><li>Phỏng vấn người dân về quan điểm bình đẳng giới</li><li>Xác định các vấn đề bất bình đẳng còn tồn tại</li><li>Đề xuất giải pháp cụ thể</li><li>Tạo poster hoặc presentation về kết quả khảo sát</li><li>Trình bày và thảo luận về cách thúc đẩy bình đẳng giới</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Passive Voice",
+            "method": "<p>Rewrite sentences in passive voice using modal verbs.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Gender equality means that men and women have equal rights, responsibilities, and opportunities. It is a fundamental human right and essential for peaceful and prosperous societies. However, gender inequality still exists in many parts of the world.\n\nIn education, many countries have made progress in ensuring equal access for boys and girls. However, in some regions, girls still face barriers to education. They may be forced to stay at home to help with housework or get married at a young age. This prevents them from developing their full potential.\n\nIn the workplace, women often earn less than men for doing the same job. This wage gap is a clear example of gender discrimination. Many organizations are working to eliminate this inequality by promoting equal pay policies. When women have equal opportunities in education and employment, everyone benefits. Studies show that gender equality leads to stronger economies and healthier communities.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Gender equality only benefits women",
+                  "Gender inequality still exists despite progress",
+                  "Men and women are completely equal now",
+                  "Education is not important for girls"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về sự bất bình đẳng giới vẫn tồn tại mặc dù đã có tiến bộ."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, why do some girls not go to school?",
+                "options": [
+                  "They don't like studying",
+                  "Schools are too far away",
+                  "They must help with housework or get married early",
+                  "They prefer working"
+                ],
+                "correct": 2,
+                "explanation": "Một số bé gái phải ở nhà làm việc nhà hoặc kết hôn sớm."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'barriers' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "opportunities",
+                  "obstacles",
+                  "benefits",
+                  "advantages"
+                ],
+                "correct": 1,
+                "explanation": "Barriers = obstacles (rào cản, trở ngại)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What is an example of gender discrimination in the workplace?",
+                "options": [
+                  "Women work harder than men",
+                  "Women earn less than men for the same job",
+                  "Women have more opportunities",
+                  "Men do all the housework"
+                ],
+                "correct": 1,
+                "explanation": "Phụ nữ kiếm ít tiền hơn nam giới cho cùng công việc là ví dụ về phân biệt giới."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, gender equality leads to ______.",
+                "options": [
+                  "weaker economies",
+                  "more problems",
+                  "stronger economies and healthier communities",
+                  "fewer opportunities"
+                ],
+                "correct": 2,
+                "explanation": "Bình đẳng giới dẫn đến nền kinh tế mạnh hơn và cộng đồng khỏe mạnh hơn."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ means that men and women have the same rights and opportunities.",
+            "options": ["Gender gap", "Gender equality", "Gender role", "Gender difference"],
+            "correct": 1,
+            "explanation": "Gender equality: bình đẳng giới."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "Domestic violence ______ by everyone in society.",
+            "options": ["must stop", "must be stopped", "should stop", "is stopping"],
+            "correct": 1,
+            "explanation": "Bạo lực gia đình 'phải được' ngăn chặn (bị động với động từ khuyết thiếu)."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "Women should be given more ______ to succeed in their careers.",
+            "options": ["obstacles", "problems", "opportunities", "challenges"],
+            "correct": 2,
+            "explanation": "Opportunities: cơ hội."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "This law ______ to protect women's rights.",
+            "options": ["can used", "can be used", "could use", "can using"],
+            "correct": 1,
+            "explanation": "Luật này 'có thể được' sử dụng (bị động)."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "We need to ______ gender discrimination in the workplace.",
+            "options": ["increase", "encourage", "eliminate", "support"],
+            "correct": 2,
+            "explanation": "Eliminate: loại bỏ."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "Equal wages ______ to both male and female workers.",
+            "options": ["should pay", "should be paid", "must pay", "will pay"],
+            "correct": 1,
+            "explanation": "Tiền lương công bằng 'nên được' chi trả (bị động)."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "In the past, women were often ______ against.",
+            "options": ["discriminated", "discrimination", "discriminating", "discriminates"],
+            "correct": 0,
+            "explanation": "Be discriminated against: bị phân biệt đối xử."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "Both men and women ______ to do the housework.",
+            "options": ["should encourage", "should be encouraged", "must encourage", "encourage"],
+            "correct": 1,
+            "explanation": "Cả nam và nữ 'nên được' khuyến khích (bị động)."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "Gender ______ remains a serious issue in some parts of the world.",
+            "options": ["equality", "inequality", "equal", "unequally"],
+            "correct": 1,
+            "explanation": "Gender inequality: bất bình đẳng giới."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "New policies ______ to support female entrepreneurs.",
+            "options": ["will create", "will be created", "create", "creating"],
+            "correct": 1,
+            "explanation": "Các chính sách mới 'sẽ được' tạo ra (bị động)."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Passive voice with modals uses the structure: modal + be + V3/ed.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Cấu trúc bị động với động từ khuyết thiếu: modal + be + V3/ed."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "Gender equality means women have more rights than men.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Bình đẳng giới có nghĩa là nam và nữ có quyền lợi ngang nhau, không phải nhiều hơn."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "The wage gap is an example of gender discrimination.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Khoảng cách về tiền lương là một ví dụ về phân biệt đối xử giới tính."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call unfair treatment based on gender? (one word)",
+            "correct": "discrimination",
+            "explanation": "Discrimination: sự phân biệt đối xử - đối xử không công bằng dựa trên giới tính."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: Women ______ ______ given equal opportunities. (should be)",
+            "correct": "should be",
+            "explanation": "Passive voice with modal: should be given (nên được trao)."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 7",
+  "subject_id": 44,
+  "lessons": [
+    {
+      "id": "anh7-unit-7-traffic",
+      "name": "Unit 7: Traffic",
+      "slug": "unit-7-traffic",
+      "chapter": "Unit 7: Traffic",
+      "chapter_id": "A7",
+      "lesson_id": 7,
+      "description": "Learn about traffic with 'it' for distance and should/shouldn't for advice.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-7",
+          "name": "Traffic Vocabulary",
+          "slug": "traffic-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 7: Traffic",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Traffic</td><td class='px-4 py-2'>(n) /ˈtræfɪk/</td><td class='px-4 py-2'>Giao thông</td><td class='px-4 py-2'>The traffic is heavy today.</td></tr><tr><td class='px-4 py-2 font-bold'>Vehicle</td><td class='px-4 py-2'>(n) /ˈviːəkl/</td><td class='px-4 py-2'>Phương tiện</td><td class='px-4 py-2'>Cars are vehicles.</td></tr><tr><td class='px-4 py-2 font-bold'>Bicycle</td><td class='px-4 py-2'>(n) /ˈbaɪsɪkl/</td><td class='px-4 py-2'>Xe đạp</td><td class='px-4 py-2'>I ride a bicycle to school.</td></tr><tr><td class='px-4 py-2 font-bold'>Motorbike</td><td class='px-4 py-2'>(n) /ˈməʊtəbaɪk/</td><td class='px-4 py-2'>Xe máy</td><td class='px-4 py-2'>He goes by motorbike.</td></tr><tr><td class='px-4 py-2 font-bold'>Car</td><td class='px-4 py-2'>(n) /kɑː(r)/</td><td class='px-4 py-2'>Ô tô</td><td class='px-4 py-2'>My father drives a car.</td></tr><tr><td class='px-4 py-2 font-bold'>Bus</td><td class='px-4 py-2'>(n) /bʌs/</td><td class='px-4 py-2'>Xe buýt</td><td class='px-4 py-2'>I take the bus to work.</td></tr><tr><td class='px-4 py-2 font-bold'>Train</td><td class='px-4 py-2'>(n) /treɪn/</td><td class='px-4 py-2'>Tàu hỏa</td><td class='px-4 py-2'>We travel by train.</td></tr><tr><td class='px-4 py-2 font-bold'>Plane</td><td class='px-4 py-2'>(n) /pleɪn/</td><td class='px-4 py-2'>Máy bay</td><td class='px-4 py-2'>I go by plane.</td></tr><tr><td class='px-4 py-2 font-bold'>Road</td><td class='px-4 py-2'>(n) /rəʊd/</td><td class='px-4 py-2'>Đường</td><td class='px-4 py-2'>Cross the road carefully.</td></tr><tr><td class='px-4 py-2 font-bold'>Street</td><td class='px-4 py-2'>(n) /striːt/</td><td class='px-4 py-2'>Phố</td><td class='px-4 py-2'>I live on this street.</td></tr><tr><td class='px-4 py-2 font-bold'>Traffic light</td><td class='px-4 py-2'>(n) /ˈtræfɪk laɪt/</td><td class='px-4 py-2'>Đèn giao thông</td><td class='px-4 py-2'>Stop at the traffic light.</td></tr><tr><td class='px-4 py-2 font-bold'>Traffic jam</td><td class='px-4 py-2'>(n) /ˈtræfɪk dʒæm/</td><td class='px-4 py-2'>Tắc đường</td><td class='px-4 py-2'>There's a traffic jam.</td></tr><tr><td class='px-4 py-2 font-bold'>Helmet</td><td class='px-4 py-2'>(n) /ˈhelmɪt/</td><td class='px-4 py-2'>Mũ bảo hiểm</td><td class='px-4 py-2'>Wear a helmet.</td></tr><tr><td class='px-4 py-2 font-bold'>Seatbelt</td><td class='px-4 py-2'>(n) /ˈsiːtbelt/</td><td class='px-4 py-2'>Dây an toàn</td><td class='px-4 py-2'>Fasten your seatbelt.</td></tr><tr><td class='px-4 py-2 font-bold'>Distance</td><td class='px-4 py-2'>(n) /ˈdɪstəns/</td><td class='px-4 py-2'>Khoảng cách</td><td class='px-4 py-2'>The distance is 5 km.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Means of transport (Phương tiện giao thông):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>bicycle/bike:</strong> xe đạp</li><li><strong>motorbike/motorcycle:</strong> xe máy</li><li><strong>car:</strong> ô tô</li><li><strong>bus:</strong> xe buýt</li><li><strong>train:</strong> tàu hỏa</li><li><strong>plane/airplane:</strong> máy bay</li><li><strong>ship:</strong> tàu thủy</li><li><strong>taxi:</strong> taxi</li><li><strong>subway/metro:</strong> tàu điện ngầm</li></ul><p><strong>Traffic signs and rules (Biển báo và luật giao thông):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>traffic light:</strong> đèn giao thông</li><li><strong>traffic sign:</strong> biển báo giao thông</li><li><strong>zebra crossing:</strong> vạch kẻ đường</li><li><strong>speed limit:</strong> giới hạn tốc độ</li><li><strong>parking:</strong> đỗ xe</li><li><strong>no parking:</strong> cấm đỗ xe</li></ul><p><strong>Traffic problems:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>traffic jam:</strong> tắc đường</li><li><strong>accident:</strong> tai nạn</li><li><strong>rush hour:</strong> giờ cao điểm</li></ul><p><strong>Safety equipment:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>helmet:</strong> mũ bảo hiểm</li><li><strong>seatbelt:</strong> dây an toàn</li><li><strong>airbag:</strong> túi khí</li></ul><p><strong>Verbs related to traffic:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>ride:</strong> đi (xe đạp, xe máy)</li><li><strong>drive:</strong> lái (ô tô)</li><li><strong>take:</strong> đi (phương tiện công cộng)</li><li><strong>go by:</strong> đi bằng</li><li><strong>walk:</strong> đi bộ</li><li><strong>cross:</strong> băng qua</li><li><strong>obey:</strong> tuân theo</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /eɪ/ and /aɪ/</h3><p><strong>1. Sound /eɪ/ (âm đôi):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Từ /e/ chuyển sang /ɪ/</li><li><strong>Examples:</strong></li><li>plane /pleɪn/</li><li>train /treɪn/</li><li>way /weɪ/</li><li>safe /seɪf/</li></ul><p><strong>2. Sound /aɪ/ (âm đôi):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Từ /a/ chuyển sang /ɪ/</li><li><strong>Examples:</strong></li><li>bike /baɪk/</li><li>ride /raɪd/</li><li>light /laɪt/</li><li>sign /saɪn/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. 'It' indicating distance (Dùng 'it' chỉ khoảng cách)</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>It + is + (about) + distance + from + place A + to + place B</strong></li><li>Ex: <strong>It is</strong> 5 km <strong>from</strong> my house <strong>to</strong> school.</li><li>Ex: <strong>It is about</strong> 100 km <strong>from</strong> Hanoi <strong>to</strong> Hai Phong.</li></ul><p><strong>2. Hỏi về khoảng cách:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>How far is it from + place A + to + place B?</strong></li><li>Ex: <strong>How far is it from</strong> your house <strong>to</strong> school?</li><li>→ It is 5 km.</li></ul><p><strong>3. Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>'It' là chủ ngữ giả, không có nghĩa cụ thể</li><li>Dùng 'about' khi khoảng cách không chính xác</li><li>Có thể dùng 'far' thay cho khoảng cách cụ thể</li><li>Ex: It is <strong>far</strong> from here to the airport.</li></ul><h3>B. Should/Shouldn't for advice (Nên/không nên)</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + should + V (nguyên mẫu)</li><li>Ex: You <strong>should wear</strong> a helmet.</li><li><strong>Phủ định:</strong> S + shouldn't + V (nguyên mẫu)</li><li>Ex: You <strong>shouldn't drive</strong> fast.</li><li><strong>Nghi vấn:</strong> Should + S + V?</li><li>Ex: <strong>Should</strong> I <strong>take</strong> the bus?</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đưa ra lời khuyên</li><li>Ex: You <strong>should</strong> obey traffic rules.</li><li>Nói về điều đúng đắn nên làm</li><li>Ex: We <strong>should</strong> protect the environment.</li></ul><p><strong>3. Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Should = ought to (nên)</li><li>Shouldn't = ought not to (không nên)</li><li>Sau should/shouldn't luôn là động từ nguyên mẫu</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Road safety - An toàn giao thông</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về giao thông</li><li>Giới thiệu các phương tiện</li><li>Nói về an toàn giao thông</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Means of transport and traffic</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về phương tiện giao thông</li><li>Học từ vựng về giao thông</li></ul><p><strong>B. Pronunciation: /eɪ/ and /aɪ/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /eɪ/ và /aɪ/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: 'It' for distance and Should/Shouldn't</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách dùng 'it' chỉ khoảng cách</li><li>Học cách dùng should/shouldn't</li><li>Luyện tập đưa ra lời khuyên</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about traffic and giving advice</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>How far is it from...to...?</li><li>It's about...</li><li>You should...</li><li>You shouldn't...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Traffic problems</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về vấn đề giao thông</li><li>Tìm thông tin chi tiết</li></ul><p><strong>Speaking: Discussing traffic safety</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về an toàn giao thông</li><li>Đưa ra lời khuyên</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: About traffic rules</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về luật giao thông</li><li>Ghi chú thông tin quan trọng</li></ul><p><strong>Writing: About traffic in your area</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết về giao thông ở khu vực bạn</li><li>Sử dụng should/shouldn't</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Means of transport, traffic</li><li><strong>Pronunciation:</strong> /eɪ/ and /aɪ/</li><li><strong>Grammar:</strong> 'It' for distance, Should/Shouldn't</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> Traffic safety poster</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Thiết kế poster về an toàn giao thông</li><li>Đưa ra 5-7 lời khuyên</li><li>Sử dụng hình ảnh minh họa</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Dùng 'it' chỉ khoảng cách",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>It + is + (about) + distance + from + A + to + B</li><li>How far is it from + A + to + B?</li></ul>",
+            "examples": [
+              {
+                "question": "______ is 5 km from my house to school.",
+                "solution": "<strong>It</strong> is 5 km from my house to school.",
+                "explanation": "Dùng 'It' chỉ khoảng cách."
+              },
+              {
+                "question": "______ is it from Hanoi to Hai Phong?",
+                "solution": "<strong>How far</strong> is it from Hanoi to Hai Phong?",
+                "explanation": "Hỏi về khoảng cách → How far."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Sử dụng should/shouldn't",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Should + V: nên làm gì</li><li>Shouldn't + V: không nên làm gì</li><li>Dùng để đưa ra lời khuyên</li></ul>",
+            "examples": [
+              {
+                "question": "You ______ wear a helmet.",
+                "solution": "You <strong>should</strong> wear a helmet.",
+                "explanation": "Lời khuyên tích cực → should."
+              },
+              {
+                "question": "You ______ drive fast.",
+                "solution": "You <strong>shouldn't</strong> drive fast.",
+                "explanation": "Lời khuyên tiêu cực → shouldn't."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Hỏi và trả lời về khoảng cách",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Q: How far is it from A to B?</li><li>A: It is (about) + distance.</li></ul>",
+            "examples": [
+              {
+                "question": "How far is it from your house to school? (5 km)",
+                "solution": "<strong>It is 5 km.</strong> / <strong>It is about 5 km.</strong>",
+                "explanation": "Trả lời về khoảng cách: It is + distance."
+              },
+              {
+                "question": "Make a question: It is 100 km from Hanoi to Hai Phong.",
+                "solution": "<strong>How far is it from Hanoi to Hai Phong?</strong>",
+                "explanation": "Đặt câu hỏi về khoảng cách → How far."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Đưa ra lời khuyên về an toàn giao thông",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng should/shouldn't</li><li>Nêu rõ hành động cụ thể</li></ul>",
+            "examples": [
+              {
+                "question": "Give advice about wearing a helmet.",
+                "solution": "<strong>You should wear a helmet when riding a motorbike.</strong>",
+                "explanation": "Lời khuyên về an toàn → should + V."
+              },
+              {
+                "question": "Give advice about traffic lights.",
+                "solution": "<strong>You should stop at red traffic lights.</strong>",
+                "explanation": "Lời khuyên tuân theo luật → should + V."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ is 5 km from my house to school.",
+            "options": ["It", "There", "This", "That"],
+            "correct": 0,
+            "explanation": "Dùng 'It' chỉ khoảng cách."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "You ______ wear a helmet.",
+            "options": ["should", "shouldn't", "can", "must"],
+            "correct": 0,
+            "explanation": "Lời khuyên tích cực → should."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "______ is it from Hanoi to Hai Phong?",
+            "options": ["How far", "How long", "How much", "How many"],
+            "correct": 0,
+            "explanation": "Hỏi về khoảng cách → How far."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "You ______ drive fast in the city.",
+            "options": ["should", "shouldn't", "can", "must"],
+            "correct": 1,
+            "explanation": "Lời khuyên tiêu cực → shouldn't."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "It is about 100 km ______ Hanoi ______ Hai Phong.",
+            "options": ["from/to", "to/from", "in/to", "at/to"],
+            "correct": 0,
+            "explanation": "Cấu trúc: from...to..."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "You ______ obey traffic rules.",
+            "options": ["should", "shouldn't", "can't", "mustn't"],
+            "correct": 0,
+            "explanation": "Lời khuyên tuân theo luật → should."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ I take the bus?",
+            "options": ["Should", "Do", "Am", "Can"],
+            "correct": 0,
+            "explanation": "Hỏi ý kiến → Should."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "It ______ far from here to the airport.",
+            "options": ["is", "are", "am", "be"],
+            "correct": 0,
+            "explanation": "It (số ít) → is."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "You ______ use your phone while driving.",
+            "options": ["should", "shouldn't", "can", "must"],
+            "correct": 1,
+            "explanation": "Lời khuyên tiêu cực về an toàn → shouldn't."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______ is it from your house to the bus stop? - About 500 meters.",
+            "options": ["How far", "How long", "How much", "How often"],
+            "correct": 0,
+            "explanation": "Hỏi về khoảng cách → How far."
+          }
+        ]
+      }
+    }
+  ]
+}

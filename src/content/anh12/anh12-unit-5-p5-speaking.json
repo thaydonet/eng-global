@@ -1,0 +1,230 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-5-p5",
+  "name": "Part 5: Speaking",
+  "slug": "p5-speaking",
+  "description": "Thảo luận về nghề nghiệp và xin việc",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Speaking: Discussing Careers and Job Applications",
+      "sections": [
+        {
+          "heading": "Speaking Skills",
+          "content": "<p><strong>Chủ đề:</strong> Discussing careers and job applications</p><p><strong>Kỹ năng nói:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Talking about career plans:</strong> Nói về kế hoạch nghề nghiệp</li><li><strong>Describing skills and qualifications:</strong> Mô tả kỹ năng và bằng cấp</li><li><strong>Discussing job preferences:</strong> Thảo luận về sở thích công việc</li><li><strong>Giving advice:</strong> Đưa ra lời khuyên</li><li><strong>Expressing opinions:</strong> Bày tỏ ý kiến</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Talking about career plans:</strong></li><li>I'm planning to become...</li><li>I'm interested in a career in...</li><li>My goal is to work as...</li><li>I hope to get a job in...</li><li>After graduation, I want to...</li><li><strong>Describing skills:</strong></li><li>I'm good at...</li><li>I have experience in...</li><li>My strengths include...</li><li>I've developed skills in...</li><li>I'm proficient in...</li><li><strong>Discussing job preferences:</strong></li><li>I prefer working in...</li><li>I'd like a job that...</li><li>The ideal job for me would be...</li><li>I'm looking for a position that offers...</li><li><strong>Giving advice:</strong></li><li>You should...</li><li>It's important to...</li><li>I recommend that you...</li><li>If I were you, I would...</li><li>Make sure you...</li><li><strong>Expressing opinions:</strong></li><li>In my opinion, ...</li><li>I think/believe that...</li><li>From my perspective, ...</li><li>It seems to me that...</li></ul>"
+        },
+        {
+          "heading": "Talking About Jobs and Careers",
+          "content": "<p><strong>Từ vựng về loại công việc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>full-time job:</strong> công việc toàn thời gian</li><li><strong>part-time job:</strong> công việc bán thời gian</li><li><strong>permanent position:</strong> vị trí cố định</li><li><strong>temporary job:</strong> công việc tạm thời</li><li><strong>freelance work:</strong> công việc tự do</li><li><strong>remote work:</strong> làm việc từ xa</li></ul><p><strong>Từ vựng về đặc điểm công việc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>challenging:</strong> thách thức</li><li><strong>rewarding:</strong> đáng giá, bổ ích</li><li><strong>stressful:</strong> căng thẳng</li><li><strong>flexible:</strong> linh hoạt</li><li><strong>well-paid:</strong> được trả lương cao</li><li><strong>secure:</strong> ổn định</li><li><strong>demanding:</strong> đòi hỏi cao</li></ul><p><strong>Câu hỏi phỏng vấn thường gặp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tell me about yourself.</li><li>Why do you want this job?</li><li>What are your strengths and weaknesses?</li><li>Where do you see yourself in 5 years?</li><li>Why should we hire you?</li><li>Do you have any questions for us?</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "speaking-ex1",
+        "type": "mcq",
+        "question": "Which expression is used to talk about career plans?",
+        "options": [
+          "I like pizza",
+          "I'm planning to become a doctor",
+          "Good morning",
+          "How are you?"
+        ],
+        "correct": 1,
+        "explanation": "'I'm planning to become...' nói về kế hoạch nghề nghiệp."
+      },
+      {
+        "id": "speaking-ex2",
+        "type": "mcq",
+        "question": "Complete: 'I'm _____ at problem-solving.'",
+        "options": ["bad", "good", "terrible", "poor"],
+        "correct": 1,
+        "explanation": "'Good at' dùng để mô tả kỹ năng tốt."
+      },
+      {
+        "id": "speaking-ex3",
+        "type": "mcq",
+        "question": "Which phrase gives advice?",
+        "options": [
+          "I don't know",
+          "You should prepare well for the interview",
+          "I'm tired",
+          "What time is it?"
+        ],
+        "correct": 1,
+        "explanation": "'You should...' dùng để đưa ra lời khuyên."
+      },
+      {
+        "id": "speaking-ex4",
+        "type": "mcq",
+        "question": "Complete: 'My goal is to _____ as a software engineer.'",
+        "options": ["work", "working", "worked", "works"],
+        "correct": 0,
+        "explanation": "'To work' là động từ nguyên thể sau 'is to'."
+      },
+      {
+        "id": "speaking-ex5",
+        "type": "mcq",
+        "question": "What does 'full-time job' mean?",
+        "options": [
+          "Working a few hours",
+          "Working all standard hours",
+          "Not working",
+          "Volunteering"
+        ],
+        "correct": 1,
+        "explanation": "Full-time job là công việc toàn thời gian."
+      },
+      {
+        "id": "speaking-ex6",
+        "type": "mcq",
+        "question": "Complete: 'I _____ working in a team environment.'",
+        "options": ["hate", "prefer", "dislike", "avoid"],
+        "correct": 1,
+        "explanation": "'Prefer' thể hiện sở thích tích cực."
+      },
+      {
+        "id": "speaking-ex7",
+        "type": "mcq",
+        "question": "Which describes a positive job characteristic?",
+        "options": ["Stressful", "Boring", "Rewarding", "Difficult"],
+        "correct": 2,
+        "explanation": "'Rewarding' (đáng giá) là đặc điểm tích cực."
+      },
+      {
+        "id": "speaking-ex8",
+        "type": "mcq",
+        "question": "Complete: 'If I were you, I _____ apply for that position.'",
+        "options": ["will", "would", "can", "may"],
+        "correct": 1,
+        "explanation": "'Would' dùng trong câu điều kiện loại 2 để khuyên."
+      },
+      {
+        "id": "speaking-ex9",
+        "type": "mcq",
+        "question": "What is 'remote work'?",
+        "options": [
+          "Working in an office",
+          "Working from home or anywhere",
+          "Not working",
+          "Working overtime"
+        ],
+        "correct": 1,
+        "explanation": "Remote work là làm việc từ xa (từ nhà hoặc bất kỳ đâu)."
+      },
+      {
+        "id": "speaking-ex10",
+        "type": "mcq",
+        "question": "Complete: 'I have experience _____ customer service.'",
+        "options": ["at", "in", "on", "for"],
+        "correct": 1,
+        "explanation": "'Experience in' là cụm từ đúng."
+      },
+      {
+        "id": "speaking-ex11",
+        "type": "mcq",
+        "question": "Which is a common interview question?",
+        "options": [
+          "What's your favorite color?",
+          "Tell me about yourself",
+          "Do you like pizza?",
+          "What's the weather like?"
+        ],
+        "correct": 1,
+        "explanation": "'Tell me about yourself' là câu hỏi phỏng vấn phổ biến."
+      },
+      {
+        "id": "speaking-ex12",
+        "type": "mcq",
+        "question": "Complete: 'From my _____, this job is perfect for me.'",
+        "options": ["house", "perspective", "friend", "book"],
+        "correct": 1,
+        "explanation": "'From my perspective' nghĩa là theo quan điểm của tôi."
+      },
+      {
+        "id": "speaking-ex13",
+        "type": "mcq",
+        "question": "What does 'well-paid' mean?",
+        "options": [
+          "Low salary",
+          "High salary",
+          "No salary",
+          "Volunteer work"
+        ],
+        "correct": 1,
+        "explanation": "'Well-paid' nghĩa là được trả lương cao."
+      },
+      {
+        "id": "speaking-ex14",
+        "type": "mcq",
+        "question": "Complete: 'It's important _____ prepare for interviews.'",
+        "options": ["for", "to", "at", "in"],
+        "correct": 1,
+        "explanation": "'It's important to...' là cấu trúc đúng."
+      },
+      {
+        "id": "speaking-ex15",
+        "type": "mcq",
+        "question": "What is 'freelance work'?",
+        "options": [
+          "Working for one company permanently",
+          "Working independently for various clients",
+          "Not working",
+          "Studying"
+        ],
+        "correct": 1,
+        "explanation": "Freelance work là làm việc tự do cho nhiều khách hàng."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide which are good ways to describe skills (True/False):",
+        "options": [
+          "I'm good at communication.",
+          "I'm terrible at everything.",
+          "I have experience in project management.",
+          "I can't do anything."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Cách tốt để mô tả kỹ năng. b) False - Quá tiêu cực. c) True - Mô tả kinh nghiệm tốt. d) False - Không nên nói như vậy."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if the expression is correct for giving advice:",
+        "options": [
+          "You should prepare your CV carefully.",
+          "You must to study hard.",
+          "I recommend that you research the company.",
+          "You should to apply online."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Đúng cấu trúc. b) False - Sai, phải là 'must study'. c) True - Đúng cấu trúc. d) False - Sai, phải là 'should apply'."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: I'm planning to _____ a teacher. (become/becoming)",
+        "correct": "become",
+        "explanation": "'To become' là động từ nguyên thể sau 'planning to'."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "Complete the phrase: full-_____ job (time/day)",
+        "correct": "time",
+        "explanation": "'Full-time job' - công việc toàn thời gian."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: I have experience _____ marketing. (in/at)",
+        "correct": "in",
+        "explanation": "'Experience in' là cụm từ đúng."
+      }
+    ]
+  }
+}

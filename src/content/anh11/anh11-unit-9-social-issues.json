@@ -1,0 +1,354 @@
+{
+  "subject": "Tiếng Anh 11",
+  "subject_id": 41,
+  "lessons": [
+    {
+      "id": "anh11-unit-9",
+      "name": "Unit 9: Social Issues",
+      "slug": "unit-9-social-issues",
+      "chapter": "Unit 9: Social Issues",
+      "chapter_id": "A11",
+      "lesson_id": 9,
+      "description": "Học về các vấn đề xã hội ảnh hưởng đến thanh thiếu niên và từ/cụm từ nối để viết mạch lạc.",
+      "duration_minutes": 300,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?q=80&w=2670&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh11-unit-9-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về các vấn đề xã hội ảnh hưởng đến thanh thiếu niên",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh11-unit-9-p1-getting-started.json"
+        },
+        {
+          "id": "anh11-unit-9-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về các vấn đề xã hội",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh11-unit-9-p2-vocabulary.json"
+        },
+        {
+          "id": "anh11-unit-9-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Từ và cụm từ nối (Linking Words and Phrases)",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh11-unit-9-p3-grammar.json"
+        },
+        {
+          "id": "anh11-unit-9-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về các thách thức xã hội",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh11-unit-9-p4-reading.json"
+        },
+        {
+          "id": "anh11-unit-9-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về giải pháp cho các vấn đề xã hội",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh11-unit-9-p5-speaking.json"
+        },
+        {
+          "id": "anh11-unit-9-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về các chương trình xã hội",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh11-unit-9-p6-listening.json"
+        },
+        {
+          "id": "anh11-unit-9-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết bài luận tranh luận về vấn đề xã hội",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh11-unit-9-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-9",
+          "name": "Social Issues Vocabulary",
+          "slug": "social-issues-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 9: Social Issues",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Poverty</td><td class='px-4 py-2'>(n) /ˈpɒvəti/</td><td class='px-4 py-2'>Sự nghèo đói</td><td class='px-4 py-2'>Poverty is a serious social issue.</td></tr><tr><td class='px-4 py-2 font-bold'>Bullying</td><td class='px-4 py-2'>(n) /ˈbʊliɪŋ/</td><td class='px-4 py-2'>Bắt nạt</td><td class='px-4 py-2'>Stop bullying at school.</td></tr><tr><td class='px-4 py-2 font-bold'>Peer pressure</td><td class='px-4 py-2'>(n) /pɪə(r) ˈpreʃə(r)/</td><td class='px-4 py-2'>Áp lực bạn bè</td><td class='px-4 py-2'>Teens face peer pressure daily.</td></tr><tr><td class='px-4 py-2 font-bold'>Discrimination</td><td class='px-4 py-2'>(n) /dɪˌskrɪmɪˈneɪʃn/</td><td class='px-4 py-2'>Phân biệt đối xử</td><td class='px-4 py-2'>Fight against discrimination.</td></tr><tr><td class='px-4 py-2 font-bold'>Inequality</td><td class='px-4 py-2'>(n) /ˌɪnɪˈkwɒləti/</td><td class='px-4 py-2'>Bất bình đẳng</td><td class='px-4 py-2'>Gender inequality still exists.</td></tr><tr><td class='px-4 py-2 font-bold'>Unemployment</td><td class='px-4 py-2'>(n) /ˌʌnɪmˈplɔɪmənt/</td><td class='px-4 py-2'>Thất nghiệp</td><td class='px-4 py-2'>Unemployment rate is rising.</td></tr><tr><td class='px-4 py-2 font-bold'>Homeless</td><td class='px-4 py-2'>(adj) /ˈhəʊmləs/</td><td class='px-4 py-2'>Vô gia cư</td><td class='px-4 py-2'>Help homeless people.</td></tr><tr><td class='px-4 py-2 font-bold'>Violence</td><td class='px-4 py-2'>(n) /ˈvaɪələns/</td><td class='px-4 py-2'>Bạo lực</td><td class='px-4 py-2'>Stop violence against children.</td></tr><tr><td class='px-4 py-2 font-bold'>Victim</td><td class='px-4 py-2'>(n) /ˈvɪktɪm/</td><td class='px-4 py-2'>Nạn nhân</td><td class='px-4 py-2'>Support victims of bullying.</td></tr><tr><td class='px-4 py-2 font-bold'>Awareness</td><td class='px-4 py-2'>(n) /əˈweənəs/</td><td class='px-4 py-2'>Nhận thức</td><td class='px-4 py-2'>Raise awareness about issues.</td></tr><tr><td class='px-4 py-2 font-bold'>Campaign</td><td class='px-4 py-2'>(n) /kæmˈpeɪn/</td><td class='px-4 py-2'>Chiến dịch</td><td class='px-4 py-2'>Launch an awareness campaign.</td></tr><tr><td class='px-4 py-2 font-bold'>Charity</td><td class='px-4 py-2'>(n) /ˈtʃærəti/</td><td class='px-4 py-2'>Từ thiện</td><td class='px-4 py-2'>Donate to charity.</td></tr><tr><td class='px-4 py-2 font-bold'>Support</td><td class='px-4 py-2'>(v, n) /səˈpɔːt/</td><td class='px-4 py-2'>Hỗ trợ</td><td class='px-4 py-2'>Provide support for victims.</td></tr><tr><td class='px-4 py-2 font-bold'>Tackle</td><td class='px-4 py-2'>(v) /ˈtækl/</td><td class='px-4 py-2'>Giải quyết</td><td class='px-4 py-2'>Tackle social problems.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Social issues (Vấn đề xã hội):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>poverty:</strong> nghèo đói</li><li><strong>bullying:</strong> bắt nạt</li><li><strong>peer pressure:</strong> áp lực bạn bè</li><li><strong>discrimination:</strong> phân biệt đối xử</li><li><strong>inequality:</strong> bất bình đẳng</li><li><strong>unemployment:</strong> thất nghiệp</li><li><strong>homelessness:</strong> vô gia cư</li><li><strong>violence:</strong> bạo lực</li></ul><p><strong>Actions to address issues (Hành động giải quyết vấn đề):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>raise awareness:</strong> nâng cao nhận thức</li><li><strong>launch a campaign:</strong> phát động chiến dịch</li><li><strong>provide support:</strong> cung cấp hỗ trợ</li><li><strong>tackle problems:</strong> giải quyết vấn đề</li><li><strong>fight against:</strong> đấu tranh chống lại</li><li><strong>donate to charity:</strong> quyên góp từ thiện</li></ul><p><strong>Collocations về vấn đề xã hội:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>social problem:</strong> vấn đề xã hội</li><li><strong>serious issue:</strong> vấn đề nghiêm trọng</li><li><strong>vulnerable groups:</strong> nhóm dễ bị tổn thương</li><li><strong>negative impact:</strong> tác động tiêu cực</li><li><strong>effective solution:</strong> giải pháp hiệu quả</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm: Ngữ điệu trong câu phức",
+              "content": "<h3>Intonation in complex sentences</h3><p><strong>Quy tắc ngữ điệu trong câu phức:</strong></p><p><strong>1. Mệnh đề phụ (Subordinate clause) - Rising intonation (↗)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khi mệnh đề phụ đứng trước, giọng lên nhẹ ở cuối mệnh đề phụ</li><li>Ex: Although poverty is a serious problem ↗, we can solve it. ↘</li><li>Ex: Because bullying affects many students ↗, schools must take action. ↘</li></ul><p><strong>2. Mệnh đề chính (Main clause) - Falling intonation (↘)</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mệnh đề chính luôn có giọng xuống ở cuối</li><li>Ex: We can solve it. ↘</li><li>Ex: Schools must take action. ↘</li></ul><p><strong>3. Khi mệnh đề chính đứng trước:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mệnh đề chính: giọng lên nhẹ ↗ (chưa kết thúc ý)</li><li>Mệnh đề phụ: giọng xuống ↘ (kết thúc câu)</li><li>Ex: We must tackle this problem ↗ because it affects many people. ↘</li></ul><p><strong>Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ngữ điệu giúp người nghe hiểu cấu trúc câu</li><li>Giọng lên ↗ = chưa kết thúc ý</li><li>Giọng xuống ↘ = kết thúc ý hoặc câu</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp: Từ và cụm từ nối (Linking words and phrases)",
+              "content": "<h3>A. Linking Words and Phrases</h3><p><strong>Định nghĩa:</strong> Từ và cụm từ nối được dùng để kết nối các ý tưởng, câu và đoạn văn, giúp bài viết mạch lạc và dễ hiểu.</p><h3>B. Các loại từ nối</h3><p><strong>1. Addition (Bổ sung thông tin)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>And, also, in addition, moreover, furthermore, besides</strong></li><li>Ex: Poverty is a serious problem. <strong>Moreover</strong>, it affects children's education.</li><li>Ex: Bullying causes stress. <strong>In addition</strong>, it leads to depression.</li></ul><p><strong>2. Contrast (Đối lập)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>But, however, although, though, even though, despite, in spite of, on the other hand, whereas, while</strong></li><li>Ex: <strong>Although</strong> poverty is common, we can reduce it.</li><li>Ex: Many people face problems. <strong>However</strong>, they remain hopeful.</li><li>Ex: <strong>Despite</strong> the difficulties, volunteers continue helping.</li></ul><p><strong>3. Cause and Effect (Nguyên nhân và kết quả)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Because, since, as, so, therefore, thus, as a result, consequently, for this reason</strong></li><li>Ex: <strong>Because</strong> of poverty, many children can't go to school.</li><li>Ex: Bullying is serious. <strong>Therefore</strong>, schools must take action.</li><li>Ex: He studied hard. <strong>As a result</strong>, he passed the exam.</li></ul><p><strong>4. Purpose (Mục đích)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>To, in order to, so that, so as to</strong></li><li>Ex: We raise awareness <strong>to</strong> help people understand the problem.</li><li>Ex: Schools organize campaigns <strong>so that</strong> students can learn about bullying.</li></ul><p><strong>5. Example (Ví dụ)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>For example, for instance, such as, like</strong></li><li>Ex: Many social issues affect teens, <strong>for example</strong>, peer pressure and bullying.</li><li>Ex: Some problems, <strong>such as</strong> poverty and unemployment, need urgent attention.</li></ul><p><strong>6. Conclusion (Kết luận)</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>In conclusion, to sum up, in summary, finally, overall</strong></li><li>Ex: <strong>In conclusion</strong>, we must work together to solve social problems.</li><li>Ex: <strong>To sum up</strong>, education is key to reducing poverty.</li></ul><h3>C. Vị trí của từ nối</h3><div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Vị trí</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Từ nối</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Ví dụ</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2'>Đầu câu</td><td class='px-4 py-2'>However, Therefore, Moreover, In addition</td><td class='px-4 py-2'>However, we can solve this problem.</td></tr><tr><td class='px-4 py-2'>Giữa câu</td><td class='px-4 py-2'>and, but, so, because, although</td><td class='px-4 py-2'>I want to help, but I don't know how.</td></tr><tr><td class='px-4 py-2'>Sau chủ ngữ</td><td class='px-4 py-2'>also, therefore, however</td><td class='px-4 py-2'>We, therefore, must take action.</td></tr></tbody></table></div><h3>D. Lưu ý quan trọng</h3><ul class='list-disc pl-5 space-y-2'><li>Sau từ nối đầu câu thường có dấu phẩy: However, ...</li><li>Although/Though + clause, main clause (không dùng 'but')</li><li>Despite/In spite of + noun/V-ing (không dùng 'but')</li><li>Because + clause / Because of + noun/V-ing</li><li>So that + clause (có chủ ngữ và động từ)</li><li>To/In order to + V(nguyên thể)</li></ul>"
+            },
+            {
+              "heading": "5. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Social issues affecting teenagers - Các vấn đề xã hội ảnh hưởng đến thanh thiếu niên</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về các vấn đề xã hội phổ biến</li><li>Thảo luận về tác động của vấn đề xã hội</li><li>Chia sẻ kinh nghiệm và quan sát</li><li>Đề xuất giải pháp cho vấn đề</li></ul><p><strong>Các vấn đề được đề cập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Bullying:</strong> Bắt nạt ở trường học</li><li><strong>Peer pressure:</strong> Áp lực từ bạn bè</li><li><strong>Poverty:</strong> Nghèo đói và bất bình đẳng</li><li><strong>Discrimination:</strong> Phân biệt đối xử</li></ul>"
+            },
+            {
+              "heading": "6. II. Language",
+              "content": "<p><strong>A. Pronunciation: Intonation in complex sentences</strong></p><p>Luyện phát âm ngữ điệu trong câu phức</p><p><strong>B. Vocabulary:</strong> Social issues</p><ul class='list-disc pl-5 space-y-2'><li>Words related to social problems</li><li>Poverty, bullying, discrimination</li><li>Actions to address issues</li><li>Support and awareness</li></ul><p><strong>C. Grammar:</strong> Linking words and phrases</p><ul class='list-disc pl-5 space-y-2'><li>Addition: moreover, in addition, furthermore</li><li>Contrast: however, although, despite</li><li>Cause and effect: because, therefore, as a result</li><li>Purpose: to, in order to, so that</li><li>Example and conclusion</li></ul>"
+            },
+            {
+              "heading": "7. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Social issues facing teenagers today</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu bài viết về vấn đề xã hội</li><li>Tìm thông tin về nguyên nhân và tác động</li><li>Hiểu các giải pháp được đề xuất</li><li>Phân tích mối liên hệ giữa các vấn đề</li></ul><p><strong>Nội dung:</strong> Bài đọc giới thiệu các vấn đề xã hội chính:</p><ul class='list-disc pl-5 space-y-2'><li><strong>Bullying:</strong> Nguyên nhân, tác động và cách phòng chống</li><li><strong>Peer pressure:</strong> Ảnh hưởng đến quyết định của thanh thiếu niên</li><li><strong>Poverty:</strong> Tác động đến giáo dục và cơ hội</li><li><strong>Solutions:</strong> Vai trò của gia đình, trường học và cộng đồng</li></ul>"
+            },
+            {
+              "heading": "8. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Discussing social issues and solutions</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về vấn đề xã hội trong cộng đồng</li><li>Thảo luận về nguyên nhân và tác động</li><li>Đề xuất giải pháp khả thi</li><li>Bày tỏ quan điểm và ý kiến</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I think/believe that...</li><li>In my opinion, ...</li><li>One of the main problems is...</li><li>This issue affects...</li><li>To solve this problem, we should...</li><li>Moreover/Furthermore/In addition, ...</li><li>However/On the other hand, ...</li><li>For example/For instance, ...</li></ul>"
+            },
+            {
+              "heading": "9. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> A talk about addressing social issues</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu về các chiến dịch xã hội</li><li>Điền thông tin về vấn đề và giải pháp</li><li>Trả lời câu hỏi về tác động</li><li>Ghi chú các ý quan trọng</li></ul><p><strong>Nội dung:</strong> Bài nghe về:</p><ul class='list-disc pl-5 space-y-2'><li>Các tổ chức giúp đỡ người gặp khó khăn</li><li>Chiến dịch nâng cao nhận thức</li><li>Cách mọi người có thể đóng góp</li><li>Kết quả của các chương trình hỗ trợ</li></ul>"
+            },
+            {
+              "heading": "10. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing an article about a social issue</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết bài báo về vấn đề xã hội</li><li>Sử dụng từ nối để tạo mạch lạc</li><li>Trình bày nguyên nhân, tác động và giải pháp</li><li>Viết câu đa dạng và logic</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Title:</strong> Tiêu đề thu hút</li><li><strong>Introduction:</strong> Giới thiệu vấn đề</li><li><strong>Body Paragraph 1:</strong> Nguyên nhân (Because, Since, Due to...)</li><li><strong>Body Paragraph 2:</strong> Tác động (Therefore, As a result, Consequently...)</li><li><strong>Body Paragraph 3:</strong> Giải pháp (To solve this, We should, In order to...)</li><li><strong>Conclusion:</strong> Kết luận (In conclusion, To sum up...)</li></ul><p><strong>Useful language:</strong></p><ul class='list-disc pl-5 space-y-2'><li>This article discusses...</li><li>One of the main causes is...</li><li>Moreover/Furthermore, ...</li><li>As a result/Consequently, ...</li><li>To address this issue, ...</li><li>In conclusion, ...</li></ul>"
+            },
+            {
+              "heading": "11. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Expressing concern and offering help</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Expressing concern:</strong></li><li>I'm worried about...</li><li>I'm concerned that...</li><li>It's worrying that...</li><li>This is a serious problem.</li></ul><ul class='list-disc pl-5 space-y-2'><li><strong>Offering help:</strong></li><li>Can I help you with...?</li><li>Would you like me to...?</li><li>Let me know if you need help.</li><li>I'm here if you need support.</li></ul><p><strong>Culture:</strong> Social issues around the world</p><ul class='list-disc pl-5 space-y-2'><li><strong>Different countries, different challenges:</strong></li><li>Developed countries: mental health, social isolation</li><li>Developing countries: poverty, access to education</li><li>Global issues: inequality, discrimination, climate change</li></ul><p><strong>CLIL (Citizenship):</strong> Being a responsible citizen</p><ul class='list-disc pl-5 space-y-2'><li>Understanding social issues in your community</li><li>Taking action to help others</li><li>Volunteering and charity work</li><li>Raising awareness about important issues</li></ul>"
+            },
+            {
+              "heading": "12. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Pronunciation:</strong> Intonation in complex sentences</li><li><strong>Vocabulary:</strong> Poverty, bullying, peer pressure, discrimination, inequality, unemployment, homeless, violence, victim, awareness, campaign, charity, support, tackle</li><li><strong>Grammar:</strong> Linking words and phrases (addition, contrast, cause-effect, purpose, example, conclusion)</li><li><strong>Skills:</strong> Reading about social issues, Speaking about problems and solutions, Listening to talks, Writing articles</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng:</p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng từ vựng về vấn đề xã hội</li><li>Phát âm ngữ điệu trong câu phức</li><li>Sử dụng từ nối để viết mạch lạc</li><li>Thảo luận về vấn đề xã hội và giải pháp</li></ul>"
+            },
+            {
+              "heading": "13. Project",
+              "content": "<p><strong>Đề tài:</strong> Awareness Campaign about a Social Issue</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một vấn đề xã hội trong cộng đồng</li><li>Nghiên cứu về nguyên nhân và tác động</li><li>Thiết kế chiến dịch nâng cao nhận thức</li><li>Tạo poster, video hoặc presentation</li><li>Trình bày chiến dịch trước lớp</li></ul><p><strong>Câu hỏi gợi ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What is the social issue?</li><li>Why is it important to address this issue?</li><li>Who does it affect?</li><li>What are the main causes?</li><li>What are the effects on individuals and society?</li><li>What solutions can you propose?</li><li>How can people get involved?</li></ul><p><strong>Ví dụ vấn đề có thể chọn:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Bullying in schools</li><li>Plastic pollution</li><li>Mental health awareness</li><li>Poverty in local community</li><li>Gender inequality</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Linking Words",
+            "method": "<p>Choose the correct linking words to complete sentences or connect ideas.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Social issues affect millions of people around the world, and teenagers are particularly vulnerable to many of these problems. Three major issues facing young people today are bullying, peer pressure, and poverty.\n\nBullying is a serious problem in schools worldwide. It can take many forms, including physical violence, verbal abuse, and cyberbullying. Because bullying causes significant emotional harm, victims often suffer from anxiety, depression, and low self-esteem. Moreover, bullying can negatively impact academic performance. To address this issue, schools must create safe environments and teach students about respect and kindness.\n\nPeer pressure is another challenge teenagers face. Although friends can have positive influences, peer pressure sometimes leads young people to make poor decisions. For example, teenagers may start smoking or drinking alcohol because they want to fit in with their peers. However, learning to resist negative peer pressure is an important life skill. Parents and teachers should help teenagers develop confidence and decision-making abilities.\n\nFinally, poverty affects many young people's opportunities and well-being. Despite living in the 21st century, millions of children worldwide lack access to quality education, healthcare, and nutrition. As a result, poverty creates a cycle that is difficult to break. In order to tackle this problem, governments and organizations must work together to provide support for vulnerable families. In conclusion, addressing these social issues requires effort from everyone in society.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Teenagers don't face any problems",
+                  "Three major social issues affect teenagers",
+                  "Only bullying is a problem",
+                  "Social issues only affect adults"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về ba vấn đề xã hội chính ảnh hưởng đến thanh thiếu niên."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, what are the effects of bullying?",
+                "options": [
+                  "It makes students happier",
+                  "It causes anxiety, depression, and affects academic performance",
+                  "It has no effects",
+                  "It only affects physical health"
+                ],
+                "correct": 1,
+                "explanation": "Bắt nạt gây ra lo âu, trầm cảm và ảnh hưởng đến kết quả học tập."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'vulnerable' in paragraph 1 is closest in meaning to ______.",
+                "options": [
+                  "strong",
+                  "easily harmed or affected",
+                  "happy",
+                  "wealthy"
+                ],
+                "correct": 1,
+                "explanation": "Vulnerable = easily harmed or affected (dễ bị tổn thương)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "Why might teenagers start smoking according to the passage?",
+                "options": [
+                  "Because they like it",
+                  "Because of peer pressure and wanting to fit in",
+                  "Because their parents tell them to",
+                  "Because it's healthy"
+                ],
+                "correct": 1,
+                "explanation": "Thanh thiếu niên có thể bắt đầu hút thuốc vì áp lực bạn bè và muốn hòa nhập."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, what is needed to tackle poverty?",
+                "options": [
+                  "Nothing can be done",
+                  "Only governments should work",
+                  "Governments and organizations must work together",
+                  "Only families should solve it"
+                ],
+                "correct": 2,
+                "explanation": "Chính phủ và các tổ chức phải làm việc cùng nhau để giải quyết nghèo đói."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "Poverty is a serious problem. ______, it affects children's education.",
+            "options": ["However", "Moreover", "Although", "Despite"],
+            "correct": 1,
+            "explanation": "Moreover: hơn nữa (dùng để bổ sung thông tin)."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "______ bullying is common, we can prevent it.",
+            "options": ["Because", "Although", "Therefore", "Moreover"],
+            "correct": 1,
+            "explanation": "Although: mặc dù (dùng để chỉ sự đối lập)."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "He studied hard. ______, he passed the exam.",
+            "options": ["However", "Although", "Therefore", "Despite"],
+            "correct": 2,
+            "explanation": "Therefore: do đó (dùng để chỉ kết quả)."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "We raise ______ about social issues through campaigns.",
+            "options": ["aware", "awareness", "awaring", "awared"],
+            "correct": 1,
+            "explanation": "Raise awareness: nâng cao nhận thức (cần danh từ)."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "______ the difficulties, volunteers continue helping.",
+            "options": ["Although", "Despite", "However", "Because"],
+            "correct": 1,
+            "explanation": "Despite + noun: mặc dù."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "Schools must take action ______ bullying affects many students.",
+            "options": ["although", "however", "because", "moreover"],
+            "correct": 2,
+            "explanation": "Because: bởi vì (chỉ nguyên nhân)."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "We organize campaigns ______ raise awareness.",
+            "options": ["to", "for", "so", "because"],
+            "correct": 0,
+            "explanation": "To + V: để làm gì (chỉ mục đích)."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "Many social issues affect teens, ______ peer pressure and bullying.",
+            "options": ["however", "for example", "therefore", "although"],
+            "correct": 1,
+            "explanation": "For example: ví dụ (dùng để đưa ra ví dụ)."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "______ is a serious problem affecting many teenagers.",
+            "options": ["Bully", "Bullying", "Bullied", "Bullies"],
+            "correct": 1,
+            "explanation": "Bullying (n): sự bắt nạt."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______, we must work together to solve social problems.",
+            "options": ["However", "In conclusion", "Moreover", "For example"],
+            "correct": 1,
+            "explanation": "In conclusion: kết luận (dùng để kết thúc bài viết)."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Linking words help make writing more coherent and easier to understand.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Từ nối giúp bài viết mạch lạc và dễ hiểu hơn."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "We can use 'although' and 'but' together in the same sentence.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Không dùng 'although' và 'but' cùng nhau trong một câu."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Bullying only affects physical health, not mental health.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Bắt nạt ảnh hưởng đến cả sức khỏe thể chất và tinh thần."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call the pressure from friends to do something? (two words)",
+            "correct": "peer pressure",
+            "explanation": "Peer pressure: áp lực bạn bè."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: Poverty is serious. ______, it affects education. (Moreover/However)",
+            "correct": "Moreover",
+            "explanation": "Moreover: hơn nữa (dùng để bổ sung thông tin)."
+          }
+        ]
+      }
+    }
+  ]
+}

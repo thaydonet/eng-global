@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-unit-12-robots",
+      "name": "Unit 12: Robots",
+      "slug": "unit-12-robots",
+      "chapter": "Unit 12: Robots",
+      "chapter_id": "A6",
+      "lesson_id": 12,
+      "description": "Learn about robots, superlatives, and could for past ability.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-12",
+          "name": "Robots Vocabulary",
+          "slug": "robots-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 12: Robots",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Robot</td><td class='px-4 py-2'>(n) /ˈrəʊbɒt/</td><td class='px-4 py-2'>Người máy</td><td class='px-4 py-2'>Robots can do many things.</td></tr><tr><td class='px-4 py-2 font-bold'>Machine</td><td class='px-4 py-2'>(n) /məˈʃiːn/</td><td class='px-4 py-2'>Máy móc</td><td class='px-4 py-2'>A robot is a machine.</td></tr><tr><td class='px-4 py-2 font-bold'>Housework</td><td class='px-4 py-2'>(n) /ˈhaʊswɜːk/</td><td class='px-4 py-2'>Việc nhà</td><td class='px-4 py-2'>Robots can do the housework.</td></tr><tr><td class='px-4 py-2 font-bold'>Guard</td><td class='px-4 py-2'>(v) /ɡɑːd/</td><td class='px-4 py-2'>Canh gác, bảo vệ</td><td class='px-4 py-2'>Robots can guard the house.</td></tr><tr><td class='px-4 py-2 font-bold'>Recognize</td><td class='px-4 py-2'>(v) /ˈrekəɡnaɪz/</td><td class='px-4 py-2'>Nhận ra</td><td class='px-4 py-2'>Robots can recognize faces.</td></tr><tr><td class='px-4 py-2 font-bold'>Understand</td><td class='px-4 py-2'>(v) /ˌʌndəˈstænd/</td><td class='px-4 py-2'>Hiểu</td><td class='px-4 py-2'>Can robots understand us?</td></tr><tr><td class='px-4 py-2 font-bold'>Lift</td><td class='px-4 py-2'>(v) /lɪft/</td><td class='px-4 py-2'>Nâng, nhấc</td><td class='px-4 py-2'>Robots can lift heavy things.</td></tr><tr><td class='px-4 py-2 font-bold'>Make</td><td class='px-4 py-2'>(v) /meɪk/</td><td class='px-4 py-2'>Làm, chế tạo</td><td class='px-4 py-2'>Robots can make coffee.</td></tr><tr><td class='px-4 py-2 font-bold'>Build</td><td class='px-4 py-2'>(v) /bɪld/</td><td class='px-4 py-2'>Xây dựng</td><td class='px-4 py-2'>Robots can build houses.</td></tr><tr><td class='px-4 py-2 font-bold'>Repair</td><td class='px-4 py-2'>(v) /rɪˈpeə(r)/</td><td class='px-4 py-2'>Sửa chữa</td><td class='px-4 py-2'>Robots can repair machines.</td></tr><tr><td class='px-4 py-2 font-bold'>Teach</td><td class='px-4 py-2'>(v) /tiːtʃ/</td><td class='px-4 py-2'>Dạy học</td><td class='px-4 py-2'>Can robots teach students?</td></tr><tr><td class='px-4 py-2 font-bold'>Space station</td><td class='px-4 py-2'>(n) /speɪs ˈsteɪʃn/</td><td class='px-4 py-2'>Trạm vũ trụ</td><td class='px-4 py-2'>Robots work in space stations.</td></tr><tr><td class='px-4 py-2 font-bold'>Factory</td><td class='px-4 py-2'>(n) /ˈfæktri/</td><td class='px-4 py-2'>Nhà máy</td><td class='px-4 py-2'>Robots work in factories.</td></tr><tr><td class='px-4 py-2 font-bold'>Useful</td><td class='px-4 py-2'>(adj) /ˈjuːsfl/</td><td class='px-4 py-2'>Hữu ích</td><td class='px-4 py-2'>Robots are very useful.</td></tr><tr><td class='px-4 py-2 font-bold'>Intelligent</td><td class='px-4 py-2'>(adj) /ɪnˈtelɪdʒənt/</td><td class='px-4 py-2'>Thông minh</td><td class='px-4 py-2'>Robots are intelligent.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Types of robots (Các loại robot):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>home robot:</strong> robot gia đình</li><li><strong>teaching robot:</strong> robot dạy học</li><li><strong>worker robot:</strong> robot công nhân</li><li><strong>doctor robot:</strong> robot bác sĩ</li><li><strong>space robot:</strong> robot vũ trụ</li><li><strong>guard robot:</strong> robot bảo vệ</li></ul><p><strong>What robots can do (Robot có thể làm gì):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>do the housework:</strong> làm việc nhà</li><li><strong>make coffee:</strong> pha cà phê</li><li><strong>guard the house:</strong> canh nhà</li><li><strong>recognize faces:</strong> nhận diện khuôn mặt</li><li><strong>lift heavy things:</strong> nâng vật nặng</li><li><strong>build houses:</strong> xây nhà</li><li><strong>repair machines:</strong> sửa máy móc</li><li><strong>teach students:</strong> dạy học sinh</li><li><strong>understand people:</strong> hiểu con người</li></ul><p><strong>Places where robots work (Nơi robot làm việc):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>factory:</strong> nhà máy</li><li><strong>space station:</strong> trạm vũ trụ</li><li><strong>hospital:</strong> bệnh viện</li><li><strong>school:</strong> trường học</li><li><strong>home:</strong> nhà</li></ul><p><strong>Adjectives to describe robots:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>useful:</strong> hữu ích</li><li><strong>intelligent:</strong> thông minh</li><li><strong>helpful:</strong> giúp ích</li><li><strong>strong:</strong> mạnh mẽ</li><li><strong>fast:</strong> nhanh</li><li><strong>expensive:</strong> đắt tiền</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /ɔɪ/ and /aʊ/</h3><p><strong>1. Sound /ɔɪ/ (âm đôi):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Từ /ɔ/ chuyển sang /ɪ/</li><li><strong>Examples:</strong></li><li>boy /bɔɪ/</li><li>toy /tɔɪ/</li><li>voice /vɔɪs/</li><li>noise /nɔɪz/</li></ul><p><strong>2. Sound /aʊ/ (âm đôi):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Từ /a/ chuyển sang /ʊ/</li><li><strong>Examples:</strong></li><li>house /haʊs/</li><li>down /daʊn/</li><li>town /taʊn/</li><li>how /haʊ/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Superlative adjectives (So sánh nhất)</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Tính từ ngắn:</strong> the + adj + -est</li><li>Ex: tall → <strong>the tallest</strong></li><li>Ex: This is <strong>the tallest</strong> robot.</li><li><strong>Tính từ dài:</strong> the most + adj</li><li>Ex: intelligent → <strong>the most intelligent</strong></li><li>Ex: This is <strong>the most intelligent</strong> robot.</li></ul><p><strong>2. Tính từ bất quy tắc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>good → <strong>the best</strong></li><li>bad → <strong>the worst</strong></li><li>far → <strong>the farthest/furthest</strong></li></ul><p><strong>3. Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tính từ ngắn: 1 âm tiết (tall, big, fast)</li><li>Tính từ dài: 2 âm tiết trở lên (intelligent, expensive)</li><li>Ngoại lệ: clever → the cleverest, simple → the simplest</li><li>Nhân đôi phụ âm cuối: big → the biggest, hot → the hottest</li><li>Đổi y → i: happy → the happiest</li></ul><h3>B. Could for past ability (Could cho khả năng trong quá khứ)</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + could + V (nguyên mẫu)</li><li>Ex: Robots <strong>could do</strong> simple things.</li><li><strong>Phủ định:</strong> S + couldn't + V</li><li>Ex: Robots <strong>couldn't understand</strong> people.</li><li><strong>Nghi vấn:</strong> Could + S + V?</li><li>Ex: <strong>Could</strong> robots <strong>talk</strong>?</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Diễn tả khả năng trong quá khứ</li><li>Ex: In the past, robots <strong>could</strong> only do simple things.</li><li>Ex: Ten years ago, robots <strong>couldn't</strong> recognize faces.</li></ul><p><strong>3. So sánh Can và Could:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Can:</strong> khả năng ở hiện tại</li><li>Ex: Robots <strong>can</strong> do many things now.</li><li><strong>Could:</strong> khả năng trong quá khứ</li><li>Ex: Robots <strong>could</strong> only do simple things before.</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> What can robots do? - Robot có thể làm gì?</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về robot</li><li>Giới thiệu các loại robot</li><li>Nói về khả năng của robot</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Types of robots and their abilities</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về các loại robot</li><li>Học từ vựng về khả năng của robot</li></ul><p><strong>B. Pronunciation: /ɔɪ/ and /aʊ/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /ɔɪ/ và /aʊ/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Superlative adjectives and Could</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách dùng so sánh nhất</li><li>Học cách dùng could cho khả năng trong quá khứ</li><li>Luyện tập so sánh và nói về quá khứ</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about robots</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What can robots do?</li><li>Robots can...</li><li>This is the most...</li><li>In the past, robots could...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Robots in the past and now</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về robot xưa và nay</li><li>So sánh khả năng của robot</li></ul><p><strong>Speaking: Discussing robots</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về các loại robot</li><li>So sánh robot</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: About a robot exhibition</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về triển lãm robot</li><li>Ghi chú thông tin quan trọng</li></ul><p><strong>Writing: About your dream robot</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết về robot mơ ước</li><li>Sử dụng so sánh nhất</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Types of robots, robot abilities</li><li><strong>Pronunciation:</strong> /ɔɪ/ and /aʊ/</li><li><strong>Grammar:</strong> Superlative adjectives, Could</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> Design your own robot</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Thiết kế một robot</li><li>Vẽ hoặc tìm hình ảnh</li><li>Viết mô tả khả năng (7-10 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: So sánh nhất với tính từ ngắn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Cấu trúc: the + adj + -est</li><li>Nhân đôi phụ âm cuối nếu cần: big → biggest</li><li>Đổi y → i: happy → happiest</li></ul>",
+            "examples": [
+              {
+                "question": "This is ______ (tall) robot in the world.",
+                "solution": "This is <strong>the tallest</strong> robot in the world.",
+                "explanation": "Tính từ ngắn 'tall' → thêm -est → the tallest."
+              },
+              {
+                "question": "This robot is ______ (big) in the factory.",
+                "solution": "This robot is <strong>the biggest</strong> in the factory.",
+                "explanation": "Big → nhân đôi g → the biggest."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: So sánh nhất với tính từ dài",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Cấu trúc: the most + adj</li><li>Dùng cho tính từ 2 âm tiết trở lên</li></ul>",
+            "examples": [
+              {
+                "question": "This is ______ (intelligent) robot.",
+                "solution": "This is <strong>the most intelligent</strong> robot.",
+                "explanation": "Tính từ dài 'intelligent' → the most intelligent."
+              },
+              {
+                "question": "This is ______ (expensive) robot in the shop.",
+                "solution": "This is <strong>the most expensive</strong> robot in the shop.",
+                "explanation": "Tính từ dài 'expensive' → the most expensive."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Sử dụng Could cho quá khứ",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khẳng định: S + could + V</li><li>Phủ định: S + couldn't + V</li><li>Nghi vấn: Could + S + V?</li></ul>",
+            "examples": [
+              {
+                "question": "In the past, robots ______ (do) simple things.",
+                "solution": "In the past, robots <strong>could do</strong> simple things.",
+                "explanation": "Khả năng trong quá khứ → could + V."
+              },
+              {
+                "question": "Ten years ago, robots ______ (not recognize) faces.",
+                "solution": "Ten years ago, robots <strong>couldn't recognize</strong> faces.",
+                "explanation": "Phủ định trong quá khứ → couldn't + V."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: So sánh nhất bất quy tắc",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>good → the best</li><li>bad → the worst</li><li>far → the farthest/furthest</li></ul>",
+            "examples": [
+              {
+                "question": "This is ______ (good) robot in the world.",
+                "solution": "This is <strong>the best</strong> robot in the world.",
+                "explanation": "Good → the best (bất quy tắc)."
+              },
+              {
+                "question": "That is ______ (bad) robot I've ever seen.",
+                "solution": "That is <strong>the worst</strong> robot I've ever seen.",
+                "explanation": "Bad → the worst (bất quy tắc)."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "This is ______ robot in the world.",
+            "options": ["the tallest", "the taller", "tallest", "taller"],
+            "correct": 0,
+            "explanation": "So sánh nhất → the tallest."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "This is ______ intelligent robot.",
+            "options": ["the most", "the more", "most", "more"],
+            "correct": 0,
+            "explanation": "Tính từ dài → the most intelligent."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "In the past, robots ______ do simple things.",
+            "options": ["can", "could", "will", "might"],
+            "correct": 1,
+            "explanation": "Khả năng trong quá khứ → could."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "Ten years ago, robots ______ recognize faces.",
+            "options": ["can't", "couldn't", "won't", "might not"],
+            "correct": 1,
+            "explanation": "Phủ định trong quá khứ → couldn't."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "This is ______ robot in the factory.",
+            "options": ["the biggest", "the bigger", "biggest", "bigger"],
+            "correct": 0,
+            "explanation": "So sánh nhất, nhân đôi g → the biggest."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "This is ______ robot in the world.",
+            "options": ["the best", "the better", "best", "better"],
+            "correct": 0,
+            "explanation": "Good → the best (bất quy tắc)."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ robots talk in the past?",
+            "options": ["Can", "Could", "Will", "Do"],
+            "correct": 1,
+            "explanation": "Câu hỏi về quá khứ → Could."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "This is ______ expensive robot in the shop.",
+            "options": ["the most", "the more", "most", "more"],
+            "correct": 0,
+            "explanation": "Tính từ dài → the most expensive."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "Robots ______ understand people now.",
+            "options": ["can", "could", "will", "might"],
+            "correct": 0,
+            "explanation": "Khả năng ở hiện tại → can."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "This is ______ useful robot.",
+            "options": ["the most", "the more", "most", "more"],
+            "correct": 0,
+            "explanation": "Tính từ dài → the most useful."
+          }
+        ]
+      }
+    }
+  ]
+}

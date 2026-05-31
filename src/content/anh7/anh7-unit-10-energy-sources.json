@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 7",
+  "subject_id": 44,
+  "lessons": [
+    {
+      "id": "anh7-unit-10-energy-sources",
+      "name": "Unit 10: Energy Sources",
+      "slug": "unit-10-energy-sources",
+      "chapter": "Unit 10: Energy Sources",
+      "chapter_id": "A7",
+      "lesson_id": 10,
+      "description": "Learn about energy sources with present continuous tense for future arrangements.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=2672&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-10",
+          "name": "Energy Sources Vocabulary",
+          "slug": "energy-sources-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 10: Energy Sources",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Energy</td><td class='px-4 py-2'>(n) /ˈenədʒi/</td><td class='px-4 py-2'>Năng lượng</td><td class='px-4 py-2'>We need energy.</td></tr><tr><td class='px-4 py-2 font-bold'>Source</td><td class='px-4 py-2'>(n) /sɔːs/</td><td class='px-4 py-2'>Nguồn</td><td class='px-4 py-2'>Solar is a clean source.</td></tr><tr><td class='px-4 py-2 font-bold'>Solar</td><td class='px-4 py-2'>(adj) /ˈsəʊlə(r)/</td><td class='px-4 py-2'>Thuộc mặt trời</td><td class='px-4 py-2'>Solar energy is renewable.</td></tr><tr><td class='px-4 py-2 font-bold'>Wind</td><td class='px-4 py-2'>(n) /wɪnd/</td><td class='px-4 py-2'>Gió</td><td class='px-4 py-2'>Wind power is clean.</td></tr><tr><td class='px-4 py-2 font-bold'>Coal</td><td class='px-4 py-2'>(n) /kəʊl/</td><td class='px-4 py-2'>Than đá</td><td class='px-4 py-2'>Coal is non-renewable.</td></tr><tr><td class='px-4 py-2 font-bold'>Oil</td><td class='px-4 py-2'>(n) /ɔɪl/</td><td class='px-4 py-2'>Dầu mỏ</td><td class='px-4 py-2'>Oil is expensive.</td></tr><tr><td class='px-4 py-2 font-bold'>Gas</td><td class='px-4 py-2'>(n) /ɡæs/</td><td class='px-4 py-2'>Khí đốt</td><td class='px-4 py-2'>Natural gas is useful.</td></tr><tr><td class='px-4 py-2 font-bold'>Renewable</td><td class='px-4 py-2'>(adj) /rɪˈnjuːəbl/</td><td class='px-4 py-2'>Có thể tái tạo</td><td class='px-4 py-2'>Solar is renewable.</td></tr><tr><td class='px-4 py-2 font-bold'>Non-renewable</td><td class='px-4 py-2'>(adj) /ˌnɒn rɪˈnjuːəbl/</td><td class='px-4 py-2'>Không thể tái tạo</td><td class='px-4 py-2'>Coal is non-renewable.</td></tr><tr><td class='px-4 py-2 font-bold'>Pollute</td><td class='px-4 py-2'>(v) /pəˈluːt/</td><td class='px-4 py-2'>Gây ô nhiễm</td><td class='px-4 py-2'>Coal pollutes the air.</td></tr><tr><td class='px-4 py-2 font-bold'>Pollution</td><td class='px-4 py-2'>(n) /pəˈluːʃn/</td><td class='px-4 py-2'>Sự ô nhiễm</td><td class='px-4 py-2'>Air pollution is bad.</td></tr><tr><td class='px-4 py-2 font-bold'>Save</td><td class='px-4 py-2'>(v) /seɪv/</td><td class='px-4 py-2'>Tiết kiệm</td><td class='px-4 py-2'>We should save energy.</td></tr><tr><td class='px-4 py-2 font-bold'>Waste</td><td class='px-4 py-2'>(v) /weɪst/</td><td class='px-4 py-2'>Lãng phí</td><td class='px-4 py-2'>Don't waste energy.</td></tr><tr><td class='px-4 py-2 font-bold'>Run out</td><td class='px-4 py-2'>(phr.v) /rʌn aʊt/</td><td class='px-4 py-2'>Cạn kiệt</td><td class='px-4 py-2'>Oil will run out.</td></tr><tr><td class='px-4 py-2 font-bold'>Replace</td><td class='px-4 py-2'>(v) /rɪˈpleɪs/</td><td class='px-4 py-2'>Thay thế</td><td class='px-4 py-2'>We must replace coal.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Types of energy sources (Các loại nguồn năng lượng):</strong></p><p><strong>Renewable energy (Năng lượng tái tạo):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>solar energy:</strong> năng lượng mặt trời</li><li><strong>wind energy:</strong> năng lượng gió</li><li><strong>hydro energy:</strong> năng lượng thủy điện</li><li><strong>biogas:</strong> khí sinh học</li></ul><p><strong>Non-renewable energy (Năng lượng không tái tạo):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>coal:</strong> than đá</li><li><strong>oil:</strong> dầu mỏ</li><li><strong>natural gas:</strong> khí đốt tự nhiên</li><li><strong>nuclear energy:</strong> năng lượng hạt nhân</li></ul><p><strong>Energy-related verbs:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>save energy:</strong> tiết kiệm năng lượng</li><li><strong>waste energy:</strong> lãng phí năng lượng</li><li><strong>produce energy:</strong> sản xuất năng lượng</li><li><strong>use energy:</strong> sử dụng năng lượng</li><li><strong>run out of energy:</strong> cạn kiệt năng lượng</li><li><strong>replace energy sources:</strong> thay thế nguồn năng lượng</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Stress in three-syllable words</h3><p><strong>1. Nhấn âm tiết thứ nhất:</strong></p><ul class='list-disc pl-5 space-y-2'><li>'energy /ˈenədʒi/</li><li>'solar /ˈsəʊlə(r)/</li></ul><p><strong>2. Nhấn âm tiết thứ hai:</strong></p><ul class='list-disc pl-5 space-y-2'><li>re'newable /rɪˈnjuːəbl/</li><li>pol'lution /pəˈluːʃn/</li></ul><p><strong>3. Nhấn âm tiết thứ ba:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ít gặp trong từ 3 âm tiết</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>Present Continuous for Future Arrangements</h3><p><strong>Thì hiện tại tiếp diễn diễn tả kế hoạch tương lai đã sắp xếp:</strong></p><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + am/is/are + V-ing...</li><li>Ex: I <strong>am meeting</strong> him tomorrow.</li><li><strong>Phủ định:</strong> S + am/is/are + not + V-ing...</li><li>Ex: She <strong>isn't coming</strong> to the party.</li><li><strong>Nghi vấn:</strong> Am/Is/Are + S + V-ing...?</li><li>Ex: <strong>Are</strong> you <strong>visiting</strong> your grandparents this weekend?</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Diễn tả kế hoạch, sắp xếp trong tương lai gần</li><li>Thường có trạng từ chỉ thời gian: tomorrow, tonight, next week, this weekend...</li><li>Ex: We <strong>are having</strong> a meeting <strong>tomorrow</strong>.</li><li>Ex: They <strong>are installing</strong> solar panels <strong>next month</strong>.</li></ul><p><strong>3. Phân biệt với 'be going to':</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Present Continuous:</strong> Kế hoạch đã sắp xếp cụ thể</li><li>Ex: I'm <strong>meeting</strong> the engineer at 3 p.m. (đã hẹn)</li><li><strong>Be going to:</strong> Dự định chung chung</li><li>Ex: I'm <strong>going to study</strong> renewable energy. (dự định)</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Energy sources - Nguồn năng lượng</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về năng lượng</li><li>Giới thiệu các nguồn năng lượng</li><li>Nói về việc tiết kiệm năng lượng</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Energy sources</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về năng lượng</li><li>Phân biệt renewable và non-renewable</li></ul><p><strong>B. Pronunciation: Stress in three-syllable words</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách nhấn trọng âm</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Present continuous for future arrangements</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách dùng thì hiện tại tiếp diễn cho tương lai</li><li>Phân biệt với 'be going to'</li><li>Luyện tập nói về kế hoạch</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about energy</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What type of energy is it?</li><li>Is it renewable?</li><li>How can we save energy?</li><li>We should use...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Energy sources</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về năng lượng</li><li>Tìm thông tin chi tiết</li></ul><p><strong>Speaking: Discussing energy</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về nguồn năng lượng</li><li>Đưa ra ý kiến về tiết kiệm năng lượng</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: About energy sources</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về năng lượng</li><li>Ghi chú thông tin quan trọng</li></ul><p><strong>Writing: About saving energy</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết về cách tiết kiệm năng lượng</li><li>Sử dụng present continuous</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Energy sources</li><li><strong>Pronunciation:</strong> Stress in three-syllable words</li><li><strong>Grammar:</strong> Present continuous for future</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> An energy source</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một nguồn năng lượng</li><li>Tìm thông tin và hình ảnh</li><li>Viết mô tả (7-10 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Present Continuous for Future",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + am/is/are + V-ing + time expression</li><li>Dùng cho kế hoạch đã sắp xếp</li><li>Thường có: tomorrow, tonight, next week, this weekend</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (meet) the engineer tomorrow.",
+                "solution": "I <strong>am meeting</strong> the engineer tomorrow.",
+                "explanation": "Kế hoạch đã sắp xếp → present continuous."
+              },
+              {
+                "question": "They ______ (install) solar panels next month.",
+                "solution": "They <strong>are installing</strong> solar panels next month.",
+                "explanation": "Kế hoạch tương lai → present continuous."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Renewable vs Non-renewable",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Renewable: solar, wind, hydro, biogas</li><li>Non-renewable: coal, oil, gas, nuclear</li><li>Xác định loại năng lượng</li></ul>",
+            "examples": [
+              {
+                "question": "Solar energy is ______.",
+                "solution": "Solar energy is <strong>renewable</strong>.",
+                "explanation": "Năng lượng mặt trời có thể tái tạo."
+              },
+              {
+                "question": "Coal is ______.",
+                "solution": "Coal is <strong>non-renewable</strong>.",
+                "explanation": "Than đá không thể tái tạo."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Energy Vocabulary",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về năng lượng</li><li>Sử dụng đúng động từ: save, waste, produce, use</li></ul>",
+            "examples": [
+              {
+                "question": "We should ______ energy.",
+                "solution": "We should <strong>save</strong> energy.",
+                "explanation": "Tiết kiệm năng lượng → save."
+              },
+              {
+                "question": "Don't ______ electricity.",
+                "solution": "Don't <strong>waste</strong> electricity.",
+                "explanation": "Lãng phí điện → waste."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Questions about Energy",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Is it renewable?</li><li>What type of energy is it?</li><li>How can we save energy?</li></ul>",
+            "examples": [
+              {
+                "question": "______ solar energy renewable?",
+                "solution": "<strong>Is</strong> solar energy renewable?",
+                "explanation": "Câu hỏi Yes/No với 'to be'."
+              },
+              {
+                "question": "______ can we save energy?",
+                "solution": "<strong>How</strong> can we save energy?",
+                "explanation": "Hỏi về cách thức → How."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I ______ the engineer tomorrow.",
+            "options": ["meet", "am meeting", "will meet", "met"],
+            "correct": 1,
+            "explanation": "Kế hoạch đã sắp xếp → present continuous."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "Solar energy is ______.",
+            "options": ["renewable", "non-renewable", "expensive", "dirty"],
+            "correct": 0,
+            "explanation": "Năng lượng mặt trời có thể tái tạo."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "We should ______ energy.",
+            "options": ["waste", "save", "pollute", "destroy"],
+            "correct": 1,
+            "explanation": "Tiết kiệm năng lượng → save."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "Coal is ______.",
+            "options": ["renewable", "clean", "non-renewable", "cheap"],
+            "correct": 2,
+            "explanation": "Than đá không thể tái tạo."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "They ______ solar panels next month.",
+            "options": ["install", "are installing", "installed", "will install"],
+            "correct": 1,
+            "explanation": "Kế hoạch tương lai → present continuous."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ solar energy renewable?",
+            "options": ["Is", "Are", "Do", "Does"],
+            "correct": 0,
+            "explanation": "Solar energy (số ít) + 'to be' → Is."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "Oil will ______ in the future.",
+            "options": ["run out", "run in", "run up", "run down"],
+            "correct": 0,
+            "explanation": "Cạn kiệt → run out."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "______ can we save energy?",
+            "options": ["What", "When", "Where", "How"],
+            "correct": 3,
+            "explanation": "Hỏi về cách thức → How."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "Wind energy is ______.",
+            "options": ["dirty", "expensive", "clean", "non-renewable"],
+            "correct": 2,
+            "explanation": "Năng lượng gió sạch."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "We ______ a meeting about energy tomorrow.",
+            "options": ["have", "are having", "had", "will have"],
+            "correct": 1,
+            "explanation": "Kế hoạch đã sắp xếp → present continuous."
+          }
+        ]
+      }
+    }
+  ]
+}

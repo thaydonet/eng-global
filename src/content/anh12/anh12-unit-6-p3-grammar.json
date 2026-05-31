@@ -1,0 +1,221 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-6-p3",
+  "name": "Part 3: Language - Grammar",
+  "slug": "p3-grammar",
+  "description": "Thể sai khiến chủ động và bị động",
+  "duration_minutes": 60,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Grammar: Active and Passive Causatives",
+      "sections": [
+        {
+          "heading": "A. Thể sai khiến (Causative Form)",
+          "content": "<p><strong>Định nghĩa:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Thể sai khiến được dùng khi chủ ngữ không tự làm việc mà nhờ/bảo người/vật khác làm giúp</li><li>Chủ ngữ là người sai khiến, không phải người thực hiện hành động</li></ul>"
+        },
+        {
+          "heading": "B. Thể sai khiến chủ động (Active Causative)",
+          "content": "<p><strong>1. Cấu trúc với HAVE:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>S + have + O (person) + V (bare infinitive)</strong></li><li>Nghĩa: nhờ/bảo ai đó làm gì</li><li>Ex: I <strong>have</strong> my assistant <strong>check</strong> the data.</li><li>(Tôi nhờ trợ lý kiểm tra dữ liệu)</li><li>Ex: She <strong>has</strong> the robot <strong>clean</strong> the house.</li><li>(Cô ấy bảo robot dọn nhà)</li><li>Ex: They <strong>had</strong> the technician <strong>install</strong> the software.</li><li>(Họ nhờ kỹ thuật viên cài phần mềm)</li></ul><p><strong>2. Cấu trúc với GET:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>S + get + O (person) + to V (infinitive)</strong></li><li>Nghĩa: thuyết phục/khiến ai đó làm gì (tốn công sức hơn)</li><li>Ex: I <strong>got</strong> my friend <strong>to help</strong> me.</li><li>(Tôi thuyết phục bạn giúp tôi)</li><li>Ex: She <strong>gets</strong> AI <strong>to translate</strong> documents.</li><li>(Cô ấy dùng AI để dịch tài liệu)</li><li>Ex: We <strong>got</strong> the engineer <strong>to fix</strong> the robot.</li><li>(Chúng tôi nhờ kỹ sư sửa robot)</li></ul><p><strong>3. Cấu trúc với MAKE:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>S + make + O (person) + V (bare infinitive)</strong></li><li>Nghĩa: bắt buộc ai đó làm gì</li><li>Ex: The boss <strong>made</strong> us <strong>work</strong> overtime.</li><li>(Sếp bắt chúng tôi làm thêm giờ)</li><li>Ex: AI <strong>makes</strong> tasks <strong>become</strong> easier.</li><li>(AI làm cho công việc trở nên dễ dàng hơn)</li></ul><p><strong>4. Cấu trúc với LET:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>S + let + O (person) + V (bare infinitive)</strong></li><li>Nghĩa: cho phép ai đó làm gì</li><li>Ex: My parents <strong>let</strong> me <strong>use</strong> AI tools.</li><li>(Bố mẹ cho phép tôi dùng công cụ AI)</li><li>Ex: The teacher <strong>lets</strong> students <strong>use</strong> chatbots.</li><li>(Giáo viên cho phép học sinh dùng chatbot)</li></ul>"
+        },
+        {
+          "heading": "C. Thể sai khiến bị động (Passive Causative)",
+          "content": "<p><strong>1. Cấu trúc với HAVE:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>S + have + O (thing) + V3/ed (past participle)</strong></li><li>Nghĩa: nhờ ai đó làm gì cho mình (không nói rõ người làm)</li><li>Ex: I <strong>have</strong> my computer <strong>repaired</strong>.</li><li>(Tôi nhờ sửa máy tính - không nói ai sửa)</li><li>Ex: She <strong>has</strong> her hair <strong>cut</strong> every month.</li><li>(Cô ấy cắt tóc mỗi tháng - nhờ thợ cắt)</li><li>Ex: They <strong>had</strong> the robot <strong>programmed</strong>.</li><li>(Họ nhờ lập trình robot)</li></ul><p><strong>2. Cấu trúc với GET:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>S + get + O (thing) + V3/ed (past participle)</strong></li><li>Nghĩa: làm cho cái gì được làm (thường tốn công sức hơn)</li><li>Ex: I <strong>got</strong> my phone <strong>fixed</strong>.</li><li>(Tôi đã sửa được điện thoại - tốn công)</li><li>Ex: We <strong>got</strong> the software <strong>updated</strong>.</li><li>(Chúng tôi đã cập nhật được phần mềm)</li><li>Ex: She <strong>gets</strong> her car <strong>serviced</strong> regularly.</li><li>(Cô ấy bảo dưỡng xe thường xuyên)</li></ul>"
+        },
+        {
+          "heading": "D. So sánh HAVE và GET",
+          "content": "<table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2'>HAVE</th><th class='px-4 py-2'>GET</th></tr></thead><tbody><tr><td class='px-4 py-2'>Trang trọng hơn</td><td class='px-4 py-2'>Thân mật hơn</td></tr><tr><td class='px-4 py-2'>Việc thường xuyên, dễ dàng</td><td class='px-4 py-2'>Việc tốn công sức, khó khăn</td></tr><tr><td class='px-4 py-2'>I have my car washed weekly.</td><td class='px-4 py-2'>I finally got my car fixed.</td></tr><tr><td class='px-4 py-2'>Active: have + person + V</td><td class='px-4 py-2'>Active: get + person + to V</td></tr><tr><td class='px-4 py-2'>Passive: have + thing + V3/ed</td><td class='px-4 py-2'>Passive: get + thing + V3/ed</td></tr></tbody></table>"
+        },
+        {
+          "heading": "E. Các thì với thể sai khiến",
+          "content": "<ul class='list-disc pl-5 space-y-2'><li><strong>Present Simple:</strong> I have/get my computer repaired.</li><li><strong>Present Continuous:</strong> I'm having/getting my computer repaired.</li><li><strong>Past Simple:</strong> I had/got my computer repaired.</li><li><strong>Present Perfect:</strong> I have had/have got my computer repaired.</li><li><strong>Future:</strong> I will have/get my computer repaired.</li><li><strong>Modal verbs:</strong> I should have/get my computer repaired.</li></ul>"
+        },
+        {
+          "heading": "F. Lưu ý quan trọng",
+          "content": "<ul class='list-disc pl-5 space-y-2'><li><strong>Active causative:</strong> Nhấn mạnh người làm việc</li><li>I have my assistant check the data. (trợ lý tôi kiểm tra)</li><li><strong>Passive causative:</strong> Nhấn mạnh việc được làm, không quan tâm ai làm</li><li>I have the data checked. (dữ liệu được kiểm tra)</li><li><strong>Have + O + V:</strong> bare infinitive (không 'to')</li><li><strong>Get + O + to V:</strong> infinitive (có 'to')</li><li><strong>Have/Get + O + V3/ed:</strong> past participle (bị động)</li><li><strong>Make/Let + O + V:</strong> bare infinitive (không 'to')</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "grammar-ex1",
+        "type": "mcq",
+        "question": "Choose the correct form: 'I _____ my computer repaired yesterday.'",
+        "options": ["have", "had", "has", "having"],
+        "correct": 1,
+        "explanation": "'Had' (Past Simple) - thể sai khiến bị động trong quá khứ."
+      },
+      {
+        "id": "grammar-ex2",
+        "type": "mcq",
+        "question": "Complete: 'She _____ AI translate the document.'",
+        "options": ["got to", "got", "get to", "getting"],
+        "correct": 1,
+        "explanation": "'Got' - thể sai khiến chủ động: get + O + to V (AI to translate)."
+      },
+      {
+        "id": "grammar-ex3",
+        "type": "mcq",
+        "question": "Choose the correct form: 'We _____ the robot _____ the house.'",
+        "options": ["have / clean", "have / to clean", "have / cleaned", "has / clean"],
+        "correct": 0,
+        "explanation": "Have...clean - thể sai khiến chủ động: have + O + V (bare infinitive)."
+      },
+      {
+        "id": "grammar-ex4",
+        "type": "mcq",
+        "question": "Complete: 'I need to _____ my phone _____.'",
+        "options": ["get / fix", "get / fixed", "got / fixed", "getting / fix"],
+        "correct": 1,
+        "explanation": "Get...fixed - thể sai khiến bị động: get + O + V3/ed."
+      },
+      {
+        "id": "grammar-ex5",
+        "type": "mcq",
+        "question": "Choose the correct form: 'The teacher _____ students _____ AI tools.'",
+        "options": ["lets / use", "lets / to use", "let / using", "letting / use"],
+        "correct": 0,
+        "explanation": "Lets...use - let + O + V (bare infinitive): cho phép."
+      },
+      {
+        "id": "grammar-ex6",
+        "type": "mcq",
+        "question": "Complete: 'AI _____ tasks _____ easier.'",
+        "options": ["makes / become", "makes / to become", "make / becomes", "making / become"],
+        "correct": 0,
+        "explanation": "Makes...become - make + O + V (bare infinitive)."
+      },
+      {
+        "id": "grammar-ex7",
+        "type": "mcq",
+        "question": "Choose the correct form: 'I _____ my assistant _____ the data.'",
+        "options": ["have / check", "have / to check", "has / check", "having / check"],
+        "correct": 0,
+        "explanation": "Have...check - thể sai khiến chủ động: have + O + V."
+      },
+      {
+        "id": "grammar-ex8",
+        "type": "mcq",
+        "question": "Complete: 'She _____ her hair _____ every month.'",
+        "options": ["has / cut", "has / to cut", "have / cut", "having / cut"],
+        "correct": 0,
+        "explanation": "Has...cut - thể sai khiến bị động: have + O + V3/ed."
+      },
+      {
+        "id": "grammar-ex9",
+        "type": "mcq",
+        "question": "Choose the correct form: 'We _____ the engineer _____ the robot.'",
+        "options": ["got / fix", "got / to fix", "get / fixed", "getting / fix"],
+        "correct": 1,
+        "explanation": "Got...to fix - thể sai khiến chủ động: get + O + to V."
+      },
+      {
+        "id": "grammar-ex10",
+        "type": "mcq",
+        "question": "Complete: 'My parents _____ me _____ chatbots.'",
+        "options": ["let / use", "let / to use", "lets / use", "letting / use"],
+        "correct": 0,
+        "explanation": "Let...use - let + O + V (bare infinitive)."
+      },
+      {
+        "id": "grammar-ex11",
+        "type": "mcq",
+        "question": "Which is correct?",
+        "options": [
+          "I have my computer repair.",
+          "I have my computer repaired.",
+          "I have my computer to repair.",
+          "I have my computer repairing."
+        ],
+        "correct": 1,
+        "explanation": "Thể sai khiến bị động: have + O + V3/ed."
+      },
+      {
+        "id": "grammar-ex12",
+        "type": "mcq",
+        "question": "Complete: 'The boss _____ us _____ overtime.'",
+        "options": ["made / work", "made / to work", "make / working", "making / work"],
+        "correct": 0,
+        "explanation": "Made...work - make + O + V (bare infinitive): bắt buộc."
+      },
+      {
+        "id": "grammar-ex13",
+        "type": "mcq",
+        "question": "Choose the correct form: 'I _____ my friend _____ me.'",
+        "options": ["got / help", "got / to help", "get / helped", "getting / help"],
+        "correct": 1,
+        "explanation": "Got...to help - get + O + to V (thuyết phục)."
+      },
+      {
+        "id": "grammar-ex14",
+        "type": "mcq",
+        "question": "Complete: 'She _____ the software _____.'",
+        "options": ["got / update", "got / updated", "get / updating", "getting / update"],
+        "correct": 1,
+        "explanation": "Got...updated - thể sai khiến bị động: get + O + V3/ed."
+      },
+      {
+        "id": "grammar-ex15",
+        "type": "mcq",
+        "question": "Which sentence is correct?",
+        "options": [
+          "I have AI to analyze data.",
+          "I have AI analyze data.",
+          "I have AI analyzing data.",
+          "I have AI analyzed data."
+        ],
+        "correct": 1,
+        "explanation": "Have + O + V (bare infinitive) - thể sai khiến chủ động."
+      },
+      {
+        "id": "grammar-ex16",
+        "type": "msq",
+        "question_text": "Decide if these sentences use causative correctly (True/False):",
+        "options": [
+          "I have my car washed weekly.",
+          "She gets AI to translate documents.",
+          "They have the robot to clean the house.",
+          "He got his phone fixed."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - have + O + V3/ed. b) True - get + O + to V. c) False - phải là 'have the robot clean'. d) True - get + O + V3/ed."
+      },
+      {
+        "id": "grammar-ex17",
+        "type": "msq",
+        "question_text": "Mark True if the causative form is correct:",
+        "options": [
+          "I let my son use AI tools.",
+          "She makes me to work hard.",
+          "We had the data analyzed.",
+          "He gets his assistant check emails."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - let + O + V. b) False - phải là 'makes me work'. c) True - have + O + V3/ed. d) False - phải là 'gets his assistant to check'."
+      },
+      {
+        "id": "grammar-ex18",
+        "type": "sa",
+        "question_text": "Complete: I _____ my computer repaired. (have/has)",
+        "correct": "have",
+        "explanation": "'Have' phù hợp với chủ ngữ 'I'."
+      },
+      {
+        "id": "grammar-ex19",
+        "type": "sa",
+        "question_text": "Complete: She gets AI _____ translate documents. (to/for)",
+        "correct": "to",
+        "explanation": "Get + O + to V - thể sai khiến chủ động."
+      },
+      {
+        "id": "grammar-ex20",
+        "type": "sa",
+        "question_text": "Complete: They _____ the robot clean the house. (have/has)",
+        "correct": "have",
+        "explanation": "'Have' phù hợp với chủ ngữ 'They'."
+      }
+    ]
+  }
+}

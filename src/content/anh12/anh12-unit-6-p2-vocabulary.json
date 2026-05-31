@@ -1,0 +1,199 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-6-p2",
+  "name": "Part 2: Language - Vocabulary",
+  "slug": "p2-vocabulary",
+  "description": "Từ vựng về trí tuệ nhân tạo",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Vocabulary: Artificial Intelligence",
+      "sections": [
+        {
+          "heading": "1. Từ vựng (Vocabulary)",
+          "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Artificial intelligence (AI)</td><td class='px-4 py-2'>(n) /ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/</td><td class='px-4 py-2'>Trí tuệ nhân tạo</td><td class='px-4 py-2'>AI is changing our lives.</td></tr><tr><td class='px-4 py-2 font-bold'>Algorithm</td><td class='px-4 py-2'>(n) /ˈælɡərɪðəm/</td><td class='px-4 py-2'>Thuật toán</td><td class='px-4 py-2'>The algorithm learns from data.</td></tr><tr><td class='px-4 py-2 font-bold'>Machine learning</td><td class='px-4 py-2'>(n) /məˈʃiːn ˈlɜːnɪŋ/</td><td class='px-4 py-2'>Học máy</td><td class='px-4 py-2'>Machine learning improves accuracy.</td></tr><tr><td class='px-4 py-2 font-bold'>Robot</td><td class='px-4 py-2'>(n) /ˈrəʊbɒt/</td><td class='px-4 py-2'>Người máy</td><td class='px-4 py-2'>Robots work in factories.</td></tr><tr><td class='px-4 py-2 font-bold'>Automation</td><td class='px-4 py-2'>(n) /ˌɔːtəˈmeɪʃn/</td><td class='px-4 py-2'>Tự động hóa</td><td class='px-4 py-2'>Automation increases efficiency.</td></tr><tr><td class='px-4 py-2 font-bold'>Data</td><td class='px-4 py-2'>(n) /ˈdeɪtə/</td><td class='px-4 py-2'>Dữ liệu</td><td class='px-4 py-2'>AI needs large amounts of data.</td></tr><tr><td class='px-4 py-2 font-bold'>Process</td><td class='px-4 py-2'>(v) /ˈprəʊses/</td><td class='px-4 py-2'>Xử lý</td><td class='px-4 py-2'>Computers process information quickly.</td></tr><tr><td class='px-4 py-2 font-bold'>Recognize</td><td class='px-4 py-2'>(v) /ˈrekəɡnaɪz/</td><td class='px-4 py-2'>Nhận dạng</td><td class='px-4 py-2'>AI can recognize faces.</td></tr><tr><td class='px-4 py-2 font-bold'>Predict</td><td class='px-4 py-2'>(v) /prɪˈdɪkt/</td><td class='px-4 py-2'>Dự đoán</td><td class='px-4 py-2'>AI predicts weather patterns.</td></tr><tr><td class='px-4 py-2 font-bold'>Analyze</td><td class='px-4 py-2'>(v) /ˈænəlaɪz/</td><td class='px-4 py-2'>Phân tích</td><td class='px-4 py-2'>AI analyzes large datasets.</td></tr><tr><td class='px-4 py-2 font-bold'>Virtual assistant</td><td class='px-4 py-2'>(n) /ˈvɜːtʃuəl əˈsɪstənt/</td><td class='px-4 py-2'>Trợ lý ảo</td><td class='px-4 py-2'>Siri is a virtual assistant.</td></tr><tr><td class='px-4 py-2 font-bold'>Autonomous</td><td class='px-4 py-2'>(adj) /ɔːˈtɒnəməs/</td><td class='px-4 py-2'>Tự động, tự trị</td><td class='px-4 py-2'>Autonomous vehicles drive themselves.</td></tr><tr><td class='px-4 py-2 font-bold'>Intelligent</td><td class='px-4 py-2'>(adj) /ɪnˈtelɪdʒənt/</td><td class='px-4 py-2'>Thông minh</td><td class='px-4 py-2'>Intelligent systems learn from experience.</td></tr><tr><td class='px-4 py-2 font-bold'>Efficient</td><td class='px-4 py-2'>(adj) /ɪˈfɪʃnt/</td><td class='px-4 py-2'>Hiệu quả</td><td class='px-4 py-2'>AI makes processes more efficient.</td></tr><tr><td class='px-4 py-2 font-bold'>Accurate</td><td class='px-4 py-2'>(adj) /ˈækjərət/</td><td class='px-4 py-2'>Chính xác</td><td class='px-4 py-2'>AI provides accurate results.</td></tr><tr><td class='px-4 py-2 font-bold'>Chatbot</td><td class='px-4 py-2'>(n) /ˈtʃætbɒt/</td><td class='px-4 py-2'>Trò chuyện tự động</td><td class='px-4 py-2'>Chatbots answer customer questions.</td></tr></tbody></table></div>"
+        },
+        {
+          "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+          "content": "<p><strong>AI Technology (Công nghệ AI):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>artificial intelligence (AI):</strong> trí tuệ nhân tạo</li><li><strong>machine learning:</strong> học máy</li><li><strong>deep learning:</strong> học sâu</li><li><strong>neural network:</strong> mạng nơ-ron</li><li><strong>algorithm:</strong> thuật toán</li><li><strong>data:</strong> dữ liệu</li><li><strong>big data:</strong> dữ liệu lớn</li></ul><p><strong>AI Applications (Ứng dụng AI):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>facial recognition:</strong> nhận dạng khuôn mặt</li><li><strong>voice recognition:</strong> nhận dạng giọng nói</li><li><strong>virtual assistant:</strong> trợ lý ảo (Siri, Alexa)</li><li><strong>chatbot:</strong> trò chuyện tự động</li><li><strong>autonomous vehicle:</strong> xe tự lái</li><li><strong>recommendation system:</strong> hệ thống gợi ý</li><li><strong>translation software:</strong> phần mềm dịch thuật</li></ul><p><strong>AI Actions (Hành động của AI):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>process information:</strong> xử lý thông tin</li><li><strong>analyze data:</strong> phân tích dữ liệu</li><li><strong>recognize patterns:</strong> nhận dạng mẫu</li><li><strong>predict outcomes:</strong> dự đoán kết quả</li><li><strong>make decisions:</strong> đưa ra quyết định</li><li><strong>learn from experience:</strong> học từ kinh nghiệm</li><li><strong>solve problems:</strong> giải quyết vấn đề</li></ul><p><strong>Benefits and Concerns (Lợi ích và lo ngại):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Benefits:</strong> efficient (hiệu quả), accurate (chính xác), fast (nhanh), convenient (tiện lợi), cost-effective (tiết kiệm chi phí)</li><li><strong>Concerns:</strong> job loss (mất việc làm), privacy issues (vấn đề riêng tư), ethical concerns (lo ngại đạo đức), dependence on technology (phụ thuộc vào công nghệ)</li></ul><p><strong>Collocations về AI:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>develop AI:</strong> phát triển AI</li><li><strong>train a model:</strong> huấn luyện mô hình</li><li><strong>collect data:</strong> thu thập dữ liệu</li><li><strong>improve accuracy:</strong> cải thiện độ chính xác</li><li><strong>replace human workers:</strong> thay thế lao động con người</li><li><strong>raise ethical concerns:</strong> nêu lên lo ngại đạo đức</li></ul>"
+        },
+        {
+          "heading": "3. Ngữ âm: Sentence stress in causative sentences",
+          "content": "<h3>Stress in causative sentences</h3><p><strong>Quy tắc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Active causative:</strong> Nhấn vào động từ chính và tân ngữ</li><li>Ex: I <strong>HAVE</strong> my computer <strong>REPAIRED</strong>.</li><li>Ex: She <strong>GETS</strong> AI to <strong>TRANSLATE</strong> documents.</li><li><strong>Passive causative:</strong> Nhấn vào have/get và động từ chính</li><li>Ex: I <strong>HAD</strong> the robot <strong>CLEAN</strong> the house.</li><li>Ex: They <strong>GOT</strong> the data <strong>ANALYZED</strong>.</li><li><strong>Content words (nhấn):</strong> have, get, main verbs, objects</li><li><strong>Function words (không nhấn):</strong> articles, prepositions, pronouns</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "vocab-ex1",
+        "type": "mcq",
+        "question": "Choose the correct word: 'AI uses _____ to learn and improve.'",
+        "options": ["data", "datas", "datum", "date"],
+        "correct": 0,
+        "explanation": "'Data' là danh từ không đếm được (hoặc số nhiều của datum)."
+      },
+      {
+        "id": "vocab-ex2",
+        "type": "mcq",
+        "question": "What does 'algorithm' mean?",
+        "options": ["A type of computer", "A set of rules to solve problems", "A programming language", "A website"],
+        "correct": 1,
+        "explanation": "Algorithm là tập hợp các quy tắc để giải quyết vấn đề."
+      },
+      {
+        "id": "vocab-ex3",
+        "type": "mcq",
+        "question": "Complete: 'AI can _____ faces using cameras.'",
+        "options": ["recognize", "recognition", "recognizing", "recognized"],
+        "correct": 0,
+        "explanation": "'Recognize' (v) là động từ đúng sau 'can'."
+      },
+      {
+        "id": "vocab-ex4",
+        "type": "mcq",
+        "question": "What is a 'virtual assistant'?",
+        "options": ["A real person", "An AI program like Siri or Alexa", "A robot", "A computer game"],
+        "correct": 1,
+        "explanation": "Virtual assistant là chương trình AI như Siri hoặc Alexa."
+      },
+      {
+        "id": "vocab-ex5",
+        "type": "mcq",
+        "question": "What does 'autonomous' mean?",
+        "options": ["Manual", "Self-operating", "Broken", "Slow"],
+        "correct": 1,
+        "explanation": "'Autonomous' nghĩa là tự động, tự trị, tự hoạt động."
+      },
+      {
+        "id": "vocab-ex6",
+        "type": "mcq",
+        "question": "Complete: 'Machine learning _____ accuracy over time.'",
+        "options": ["improve", "improves", "improving", "improved"],
+        "correct": 1,
+        "explanation": "'Improves' là động từ ngôi thứ 3 số ít phù hợp với 'Machine learning'."
+      },
+      {
+        "id": "vocab-ex7",
+        "type": "mcq",
+        "question": "What is 'automation'?",
+        "options": ["Manual work", "Using technology to perform tasks automatically", "Stopping work", "Slowing down"],
+        "correct": 1,
+        "explanation": "Automation là sử dụng công nghệ để thực hiện công việc tự động."
+      },
+      {
+        "id": "vocab-ex8",
+        "type": "mcq",
+        "question": "Choose the correct form: 'AI _____ large amounts of data quickly.'",
+        "options": ["process", "processes", "processing", "processed"],
+        "correct": 1,
+        "explanation": "'Processes' là động từ ngôi thứ 3 số ít."
+      },
+      {
+        "id": "vocab-ex9",
+        "type": "mcq",
+        "question": "What is a 'chatbot'?",
+        "options": ["A social media app", "An AI program that chats with users", "A video game", "A search engine"],
+        "correct": 1,
+        "explanation": "Chatbot là chương trình AI trò chuyện với người dùng."
+      },
+      {
+        "id": "vocab-ex10",
+        "type": "mcq",
+        "question": "Complete: 'AI can _____ weather patterns.'",
+        "options": ["predict", "prediction", "predictable", "predicting"],
+        "correct": 0,
+        "explanation": "'Predict' (v) là động từ đúng sau 'can'."
+      },
+      {
+        "id": "vocab-ex11",
+        "type": "mcq",
+        "question": "What does 'analyze' mean?",
+        "options": ["To ignore", "To examine in detail", "To delete", "To copy"],
+        "correct": 1,
+        "explanation": "'Analyze' nghĩa là phân tích, xem xét chi tiết."
+      },
+      {
+        "id": "vocab-ex12",
+        "type": "mcq",
+        "question": "Complete: 'Robots work _____ in factories.'",
+        "options": ["efficient", "efficiently", "efficiency", "efficiencies"],
+        "correct": 1,
+        "explanation": "'Efficiently' (adv) là trạng từ bổ nghĩa cho động từ 'work'."
+      },
+      {
+        "id": "vocab-ex13",
+        "type": "mcq",
+        "question": "What is 'facial recognition'?",
+        "options": ["Taking photos", "AI identifying people by their faces", "Editing pictures", "Deleting images"],
+        "correct": 1,
+        "explanation": "Facial recognition là AI nhận dạng người qua khuôn mặt."
+      },
+      {
+        "id": "vocab-ex14",
+        "type": "mcq",
+        "question": "Choose the correct collocation: '_____ data'",
+        "options": ["make", "do", "collect", "take"],
+        "correct": 2,
+        "explanation": "'Collect data' là cụm từ đúng nghĩa là thu thập dữ liệu."
+      },
+      {
+        "id": "vocab-ex15",
+        "type": "mcq",
+        "question": "What is a concern about AI?",
+        "options": ["It's too cheap", "Job loss and privacy issues", "It's too slow", "It's too simple"],
+        "correct": 1,
+        "explanation": "Các lo ngại về AI bao gồm mất việc làm và vấn đề riêng tư."
+      },
+      {
+        "id": "vocab-ex16",
+        "type": "msq",
+        "question_text": "Decide True or False:",
+        "options": [
+          "'Algorithm' is a set of rules to solve problems.",
+          "'Autonomous' means manual.",
+          "'Data' is information AI uses to learn.",
+          "'Chatbot' is a type of hardware."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Algorithm là tập hợp quy tắc. b) False - Autonomous là tự động. c) True - Data là thông tin AI dùng để học. d) False - Chatbot là phần mềm."
+      },
+      {
+        "id": "vocab-ex17",
+        "type": "msq",
+        "question_text": "Match the words with their meanings (True if correct):",
+        "options": [
+          "Process = to handle information",
+          "Recognize = to ignore",
+          "Predict = to forecast",
+          "Analyze = to delete"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Process là xử lý. b) False - Recognize là nhận dạng. c) True - Predict là dự đoán. d) False - Analyze là phân tích."
+      },
+      {
+        "id": "vocab-ex18",
+        "type": "sa",
+        "question_text": "Complete: Siri and Alexa are _____ assistants. (virtual/real)",
+        "correct": "virtual",
+        "explanation": "Virtual assistants - trợ lý ảo."
+      },
+      {
+        "id": "vocab-ex19",
+        "type": "sa",
+        "question_text": "Fill in: AI can _____ patterns in data. (recognize/ignore)",
+        "correct": "recognize",
+        "explanation": "'Recognize' nghĩa là nhận dạng các mẫu."
+      },
+      {
+        "id": "vocab-ex20",
+        "type": "sa",
+        "question_text": "Complete the collocation: machine _____ (related to AI learning)",
+        "correct": "learning",
+        "explanation": "'Machine learning' là học máy."
+      }
+    ]
+  }
+}

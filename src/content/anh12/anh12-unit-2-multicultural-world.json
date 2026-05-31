@@ -1,0 +1,92 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lessons": [
+    {
+      "id": "anh12-unit-2",
+      "name": "Unit 2: A Multicultural World",
+      "slug": "unit-2-a-multicultural-world",
+      "chapter": "Unit 2: A Multicultural World",
+      "chapter_id": "A12",
+      "lesson_id": 2,
+      "description": "Học về thế giới đa văn hóa, mạo từ (a, an, the) và từ vựng liên quan đến văn hóa.",
+      "duration_minutes": 300,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?q=80&w=2664&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh12-unit-2-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu chủ đề về thế giới đa văn hóa",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh12-unit-2-p1-getting-started.json"
+        },
+        {
+          "id": "anh12-unit-2-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về văn hóa và toàn cầu hóa",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh12-unit-2-p2-vocabulary.json"
+        },
+        {
+          "id": "anh12-unit-2-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Mạo từ (Articles: a, an, the)",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh12-unit-2-p3-grammar.json"
+        },
+        {
+          "id": "anh12-unit-2-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về thế giới đa văn hóa",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh12-unit-2-p4-reading.json"
+        },
+        {
+          "id": "anh12-unit-2-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về văn hóa và trải nghiệm đa văn hóa",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh12-unit-2-p5-speaking.json"
+        },
+        {
+          "id": "anh12-unit-2-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về giao tiếp đa văn hóa",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh12-unit-2-p6-listening.json"
+        },
+        {
+          "id": "anh12-unit-2-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về trải nghiệm văn hóa",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh12-unit-2-p7-writing.json"
+        }
+      ]
+    }
+  ]
+}

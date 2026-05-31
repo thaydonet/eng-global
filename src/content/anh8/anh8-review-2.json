@@ -1,0 +1,333 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-review-2",
+      "name": "Review 2 (Units 4 - 5 - 6)",
+      "slug": "review-2-units-4-5-6",
+      "chapter": "Review 2 (Units 4 - 5 - 6)",
+      "chapter_id": "A8",
+      "lesson_id": 20,
+      "description": "Review of Units 4, 5, and 6 covering ethnic groups, customs, and lifestyles.",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=2673&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-2",
+          "name": "Review 2 Comprehensive",
+          "slug": "review-2-comprehensive",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 2 (Units 4 - 5 - 6)",
+          "sections": [
+            {
+              "heading": "1. Language - Vocabulary",
+              "content": "<h3>Unit 4: Ethnic Groups</h3><p><strong>Key vocabulary:</strong> ethnic group, minority, costume, stilt house, terraced field, weave, bamboo, festival, gong, heritage, communal house, worship, ancestor, unique, diverse</p><h3>Unit 5: Customs and Traditions</h3><p><strong>Key vocabulary:</strong> custom, tradition, generation, respect, bow, offering, altar, cutlery, chopsticks, wrap, reunite, obliged, spot, reflect, preserve</p><h3>Unit 6: Lifestyles</h3><p><strong>Key vocabulary:</strong> lifestyle, balanced, maintain, adopt, improve, reduce, avoid, benefit, harmful, nutritious, sufficient, regular, routine, habit, well-being</p>"
+            },
+            {
+              "heading": "2. Language - Grammar",
+              "content": "<h3>Unit 4: Yes/No & Wh-questions</h3><p><strong>1. Yes/No:</strong> Is/Are + S...? Do/Does + S + V...?</p><p><strong>2. Wh-questions:</strong> What, When, Where, Who, Why, How</p><h3>Unit 5: Zero Article</h3><p><strong>Không dùng mạo từ với:</strong> danh từ số nhiều/không đếm được nói chung, bữa ăn, môn thể thao, môn học, ngôn ngữ, tên quốc gia thông thường, ngày lễ, by + phương tiện</p><h3>Unit 6: Simple Future & First Conditional</h3><p><strong>1. Simple Future:</strong> S + will + V</p><p><strong>2. First Conditional:</strong> If + S + V(s/es), S + will + V</p>"
+            },
+            {
+              "heading": "3. Skills - Reading Passage 1",
+              "content": "<p><strong>Ethnic Groups and Customs</strong></p><p>Vietnam has 54 ethnic groups. Each group has unique customs and traditions. The Kinh people are the majority, while others are minorities. Many ethnic minorities live in mountainous areas. They live in stilt houses and grow rice on terraced fields.</p><p>Each ethnic group has different customs. For example, the Tay people worship their ancestors at home altars. The Hmong people wear colorful traditional costumes. The Ede people live in communal houses where important meetings happen.</p><p>Vietnamese people respect their customs and traditions. We have a custom of taking off shoes when entering a house. We use chopsticks to eat. At Tet, families reunite and make offerings to ancestors. Children receive lucky money from elders. These customs reflect our culture and are passed down through generations.</p><p>If we preserve our customs, future generations will understand their heritage. Unless we teach young people, traditions will disappear. We should maintain our cultural identity while adopting modern lifestyles.</p>"
+            },
+            {
+              "heading": "4. Skills - Reading Passage 2",
+              "content": "<p><strong>Healthy Lifestyles</strong></p><p>Having a healthy lifestyle is important for well-being. If you want to be healthy, you should adopt good habits. First, eat a balanced diet with nutritious food. Avoid junk food and reduce sugar. Second, do regular exercise. If you exercise daily, you will feel energetic. Third, get sufficient sleep. Unless you sleep enough, you won't concentrate well.</p><p>Many teenagers have unhealthy lifestyles. They stay up late playing games. They skip breakfast and eat too much fast food. These habits are harmful. If teenagers don't change, they will have health problems.</p><p>What will happen if you adopt a healthy lifestyle? You will improve your physical and mental health. You will reduce stress and feel happier. Your body will be stronger, and you will avoid diseases. Remember: if you take care of your health now, you will benefit in the future.</p>"
+            },
+            {
+              "heading": "5. Skills - Practice Exercises",
+              "content": "<p><strong>Questions:</strong></p><ol class='list-decimal pl-5 space-y-2'><li>How many ethnic groups does Vietnam have?</li><li>What customs do Vietnamese people have?</li><li>What should you do to have a healthy lifestyle?</li><li>What will happen if teenagers don't change their habits?</li></ol>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Questions",
+            "method": "<p><strong>Phương pháp:</strong> Xác định loại câu hỏi và sử dụng cấu trúc đúng</p>",
+            "examples": [
+              {
+                "question": "______ they live? - In stilt houses.",
+                "solution": "<strong>Where</strong> do they live?",
+                "explanation": "Hỏi về địa điểm → Where"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Zero Article & Conditionals",
+            "method": "<p><strong>Phương pháp:</strong> Xác định khi nào dùng/không dùng mạo từ và cấu trúc điều kiện</p>",
+            "examples": [
+              {
+                "question": "If you exercise, you ______ healthy.",
+                "solution": "If you exercise, you <strong>will be</strong> healthy.",
+                "explanation": "First conditional → will be"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ they live?",
+            "options": ["What", "When", "Where", "Who"],
+            "correct": 2,
+            "explanation": "Hỏi về địa điểm → Where"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "I have ______ breakfast at 7.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 3,
+            "explanation": "Bữa ăn → không dùng mạo từ"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "If you exercise, you ______ healthy.",
+            "options": ["are", "will be", "were", "be"],
+            "correct": 1,
+            "explanation": "First conditional → will be"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "______ it a stilt house?",
+            "options": ["Is", "Are", "Do", "Does"],
+            "correct": 0,
+            "explanation": "It + 'to be' → Is"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "I speak ______ Vietnamese.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 3,
+            "explanation": "Ngôn ngữ → không dùng mạo từ"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "If she ______ well, she will feel better.",
+            "options": ["eat", "eats", "will eat", "ate"],
+            "correct": 1,
+            "explanation": "If + hiện tại đơn → eats"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ ethnic groups are there?",
+            "options": ["How much", "How many", "How long", "How far"],
+            "correct": 1,
+            "explanation": "Groups (đếm được) → How many"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "______ customs are important.",
+            "options": ["A", "An", "The", "No article"],
+            "correct": 3,
+            "explanation": "Customs (số nhiều, nói chung) → không dùng mạo từ"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I ______ exercise tomorrow.",
+            "options": ["exercise", "will exercise", "exercised", "am exercising"],
+            "correct": 1,
+            "explanation": "Tương lai → will + V"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______ do they celebrate?",
+            "options": ["What", "When", "Where", "Why"],
+            "correct": 0,
+            "explanation": "Hỏi về vật/sự việc → What"
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "I play ______ football.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 3,
+            "explanation": "Môn thể thao → không dùng mạo từ"
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "Unless you exercise, you ______ healthy.",
+            "options": ["will be", "won't be", "are", "aren't"],
+            "correct": 1,
+            "explanation": "Unless → won't be"
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "______ she wear traditional costume?",
+            "options": ["Is", "Are", "Do", "Does"],
+            "correct": 3,
+            "explanation": "She + động từ thường → Does"
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "We celebrate ______ Tet.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 3,
+            "explanation": "Ngày lễ → không dùng mạo từ"
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "______ you join me?",
+            "options": ["Do", "Does", "Will", "Are"],
+            "correct": 2,
+            "explanation": "Câu hỏi tương lai → Will"
+          },
+          {
+            "id": "mcq16",
+            "type": "mcq",
+            "question": "______ lives here?",
+            "options": ["Who", "Who do", "Who does", "Whom"],
+            "correct": 0,
+            "explanation": "Who là chủ ngữ → không dùng do/does"
+          },
+          {
+            "id": "mcq17",
+            "type": "mcq",
+            "question": "I go by ______ bus.",
+            "options": ["a", "an", "the", "no article"],
+            "correct": 3,
+            "explanation": "by + phương tiện → không dùng mạo từ"
+          },
+          {
+            "id": "mcq18",
+            "type": "mcq",
+            "question": "You will be healthy if you ______.",
+            "options": ["exercise", "will exercise", "exercised", "exercises"],
+            "correct": 0,
+            "explanation": "If + hiện tại đơn → exercise"
+          },
+          {
+            "id": "mcq19",
+            "type": "mcq",
+            "question": "______ they ethnic minorities?",
+            "options": ["Is", "Are", "Do", "Does"],
+            "correct": 1,
+            "explanation": "They + 'to be' → Are"
+          },
+          {
+            "id": "mcq20",
+            "type": "mcq",
+            "question": "______ water is essential.",
+            "options": ["A", "An", "The", "No article"],
+            "correct": 3,
+            "explanation": "Danh từ không đếm được nói chung → không dùng mạo từ"
+          },
+          {
+            "id": "tf1",
+            "type": "true-false",
+            "question": "Vietnam has 54 ethnic groups.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'Vietnam has 54 ethnic groups'."
+          },
+          {
+            "id": "tf2",
+            "type": "true-false",
+            "question": "All ethnic groups live in cities.",
+            "correct": false,
+            "explanation": "Sai. Many live in mountainous areas."
+          },
+          {
+            "id": "tf3",
+            "type": "true-false",
+            "question": "Vietnamese people use chopsticks to eat.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'We use chopsticks to eat'."
+          },
+          {
+            "id": "tf4",
+            "type": "true-false",
+            "question": "Staying up late is good for health.",
+            "correct": false,
+            "explanation": "Sai. It's an unhealthy habit."
+          },
+          {
+            "id": "tf5",
+            "type": "true-false",
+            "question": "Exercise helps you feel energetic.",
+            "correct": true,
+            "explanation": "Đúng. Bài đọc nói 'you will feel energetic'."
+          },
+          {
+            "id": "short1",
+            "type": "short-answer",
+            "question": "How many ethnic groups does Vietnam have?",
+            "answer": "54 ethnic groups",
+            "explanation": "Bài đọc nói 'Vietnam has 54 ethnic groups'."
+          },
+          {
+            "id": "short2",
+            "type": "short-answer",
+            "question": "What customs do Vietnamese people have?",
+            "answer": "Taking off shoes, using chopsticks, making offerings to ancestors",
+            "explanation": "Bài đọc đề cập các phong tục này."
+          },
+          {
+            "id": "short3",
+            "type": "short-answer",
+            "question": "What should you do to have a healthy lifestyle?",
+            "answer": "Eat balanced diet, do regular exercise, get sufficient sleep",
+            "explanation": "Bài đọc liệt kê các thói quen tốt."
+          },
+          {
+            "id": "short4",
+            "type": "short-answer",
+            "question": "What will happen if teenagers don't change their habits?",
+            "answer": "They will have health problems",
+            "explanation": "Bài đọc nói 'they will have health problems'."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write about an ethnic group in Vietnam (80-100 words). Use Yes/No and Wh-questions.",
+            "sample_answer": "The Hmong are an ethnic minority in Vietnam. Where do they live? They live in mountainous areas in the north. What do they wear? They wear colorful traditional costumes with beautiful patterns. Do they have unique customs? Yes, they do. They celebrate the Hmong New Year festival with traditional dances and music. What do they grow? They grow rice on terraced fields. Are their customs important? Yes, they are very important. The Hmong people preserve their traditions and pass them down through generations.",
+            "explanation": "Bài viết cần sử dụng Yes/No và Wh-questions."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Write about Vietnamese customs (80-100 words). Use zero article correctly.",
+            "sample_answer": "Vietnamese people have many unique customs. We respect elders and use both hands when giving or receiving things. We take off shoes before entering houses. At meals, we use chopsticks and wait for elders to eat first. During Tet, families reunite and make offerings to ancestors. Children receive lucky money from adults. We celebrate many festivals throughout the year. These customs reflect Vietnamese culture. We speak Vietnamese and study traditions at school. We go to temples by bus or motorbike. Customs are important because they connect generations.",
+            "explanation": "Bài viết cần sử dụng zero article đúng (không dùng mạo từ với danh từ chung, bữa ăn, ngôn ngữ, phương tiện)."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Write about healthy lifestyle (80-100 words). Use simple future and first conditional.",
+            "sample_answer": "I will adopt a healthy lifestyle. If I eat nutritious food, I will be stronger. I will avoid junk food and reduce sugar. If I exercise regularly, I will feel energetic. I will do sports every day. Unless I get sufficient sleep, I won't concentrate well, so I will sleep 8 hours. If I maintain these habits, I will improve my health. I won't stay up late or skip meals. If teenagers follow these tips, they will be healthy. Remember: if you take care of your health now, you will benefit in the future.",
+            "explanation": "Bài viết cần sử dụng will và first conditional (If + hiện tại đơn, will + V)."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Write about preserving traditions (80-100 words). Combine all grammar from Units 4-6.",
+            "sample_answer": "How can we preserve traditions? If we teach young people, they will understand their heritage. We should respect customs and pass them down through generations. What will happen if we don't preserve traditions? They will disappear. Vietnamese people celebrate many festivals. We worship ancestors and reunite with families during Tet. Unless we maintain our cultural identity, we will lose it. I will learn about ethnic groups and their customs. If everyone values traditions, our culture will survive. We speak Vietnamese and study history at school. Traditions are important for our identity.",
+            "explanation": "Bài viết kết hợp questions, zero article, và conditionals."
+          }
+        ]
+      }
+    }
+  ]
+}

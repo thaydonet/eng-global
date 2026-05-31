@@ -1,0 +1,204 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-10-p7",
+  "name": "Part 7: Writing",
+  "slug": "p7-writing",
+  "description": "Viết về kinh nghiệm học tập",
+  "duration_minutes": 60,
+  "difficulty_level": "hard",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Writing: About Learning Experiences",
+      "sections": [
+        {
+          "heading": "1. Cấu trúc bài viết",
+          "content": "<div class='bg-gradient-to-r from-orange-50 to-red-50 dark:from-orange-900/20 dark:to-red-900/20 p-6 rounded-xl'><h4 class='font-bold text-lg mb-3'>Essay Structure:</h4><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h5 class='font-bold mb-2'>Introduction:</h5><ul class='list-disc pl-5'><li>Introduce the importance of lifelong learning</li><li>State your learning experience</li></ul></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h5 class='font-bold mb-2'>Body Paragraph 1:</h5><ul class='list-disc pl-5'><li>Describe what you learned</li><li>Use reported speech to mention advice received</li></ul></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h5 class='font-bold mb-2'>Body Paragraph 2:</h5><ul class='list-disc pl-5'><li>Discuss challenges and how you overcame them</li><li>Mention support from others</li></ul></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h5 class='font-bold mb-2'>Conclusion:</h5><ul class='list-disc pl-5'><li>Summarize benefits</li><li>Give advice to others</li></ul></div></div></div>"
+        },
+        {
+          "heading": "2. Sample Essay",
+          "content": "<div class='bg-white dark:bg-gray-800 p-6 rounded-lg'><h4 class='font-bold mb-3 text-center'>My Online Learning Journey</h4><p class='mb-4'>Lifelong learning has become essential in today's fast-paced world. Last year, I decided to enhance my skills by taking an online course in digital marketing, and this experience transformed my approach to learning and career development.</p><p class='mb-4'>My career counselor told me to explore online learning platforms and advised me to choose courses that aligned with my career goals. She recommended that I should start with Coursera, as it offers courses from top universities. I enrolled in a three-month digital marketing specialization. The instructor told us to dedicate at least two hours daily to studying and suggested creating a study schedule. He also offered to answer questions during weekly live sessions and volunteered to review our projects personally.</p><p class='mb-4'>The journey wasn't without challenges. Initially, I struggled with time management. My mentor warned me not to take on too many commitments simultaneously and advised me to prioritize my learning goals. She suggested using time-blocking techniques and offered to help me create a realistic schedule. The course community was incredibly supportive. Fellow learners asked me to join study groups, and we encouraged each other not to give up when facing difficulties. The platform administrators requested that we participate actively in discussions, which enhanced my learning experience significantly.</p><p class='mb-4'>This experience taught me valuable lessons about self-discipline and continuous learning. I successfully completed the course and earned a professional certificate. My manager was impressed and offered to support my future learning endeavors. He told me to share my knowledge with the team and suggested organizing internal training sessions.</p><p class='mb-4'>In conclusion, online learning has opened new doors for my career and personal growth. I would advise anyone interested in lifelong learning to start today. Choose courses wisely, stay consistent, and don't hesitate to seek support from mentors and peers. Remember, learning is a journey, not a destination.</p></div>"
+        },
+        {
+          "heading": "3. Useful Language",
+          "content": "<div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg'><h4 class='font-bold mb-3'>Reporting Speech:</h4><ul class='list-disc pl-5 space-y-2'><li>My teacher told me to...</li><li>She advised me to...</li><li>He asked me to...</li><li>They recommended that I should...</li><li>My mentor offered to...</li><li>The instructor suggested...</li><li>She warned me not to...</li><li>He encouraged me to...</li></ul><h4 class='font-bold mb-3 mt-4'>Describing Experiences:</h4><ul class='list-disc pl-5 space-y-2'><li>I decided to...</li><li>I enrolled in...</li><li>I struggled with...</li><li>I successfully completed...</li><li>This experience taught me...</li></ul></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "writing-ex1",
+        "type": "mcq",
+        "question": "What should the introduction include?",
+        "options": ["Nothing", "Importance of learning and your experience", "Only your name", "Unrelated topics"],
+        "correct": 1,
+        "explanation": "Mở bài nên có tầm quan trọng của học tập và kinh nghiệm của bạn."
+      },
+      {
+        "id": "writing-ex2",
+        "type": "mcq",
+        "question": "Which structure is correct for reporting advice?",
+        "options": ["She said me to study", "She advised me to study", "She advised to study", "She advised studying me"],
+        "correct": 1,
+        "explanation": "Advised + O + to V."
+      },
+      {
+        "id": "writing-ex3",
+        "type": "mcq",
+        "question": "What should Body Paragraph 1 describe?",
+        "options": ["Nothing", "What you learned and advice received", "Unrelated topics", "Only problems"],
+        "correct": 1,
+        "explanation": "Thân bài 1 mô tả những gì bạn học và lời khuyên nhận được."
+      },
+      {
+        "id": "writing-ex4",
+        "type": "mcq",
+        "question": "How do you report an offer?",
+        "options": ["She offered helping", "She offered to help", "She offered help", "She offered helped"],
+        "correct": 1,
+        "explanation": "Offered + to V."
+      },
+      {
+        "id": "writing-ex5",
+        "type": "mcq",
+        "question": "What should Body Paragraph 2 discuss?",
+        "options": ["Introduction", "Challenges and support", "Nothing", "Conclusion"],
+        "correct": 1,
+        "explanation": "Thân bài 2 thảo luận về thách thức và sự hỗ trợ."
+      },
+      {
+        "id": "writing-ex6",
+        "type": "mcq",
+        "question": "How do you report a warning?",
+        "options": ["She warned me to do", "She warned me not to do", "She warned doing", "She warned done"],
+        "correct": 1,
+        "explanation": "Warned + O + not to V."
+      },
+      {
+        "id": "writing-ex7",
+        "type": "mcq",
+        "question": "What should the conclusion include?",
+        "options": ["New topics", "Summary and advice to others", "Nothing", "Problems only"],
+        "correct": 1,
+        "explanation": "Kết bài nên có tóm tắt và lời khuyên cho người khác."
+      },
+      {
+        "id": "writing-ex8",
+        "type": "mcq",
+        "question": "In the sample essay, what platform did the writer use?",
+        "options": ["Facebook", "Coursera", "Instagram", "Twitter"],
+        "correct": 1,
+        "explanation": "Người viết sử dụng Coursera."
+      },
+      {
+        "id": "writing-ex9",
+        "type": "mcq",
+        "question": "What did the instructor offer to do?",
+        "options": ["Nothing", "Answer questions and review projects", "Give extra work", "Fail students"],
+        "correct": 1,
+        "explanation": "Giảng viên đề nghị trả lời câu hỏi và xem xét dự án."
+      },
+      {
+        "id": "writing-ex10",
+        "type": "mcq",
+        "question": "What challenge did the writer face?",
+        "options": ["None", "Time management", "Too much money", "Too easy"],
+        "correct": 1,
+        "explanation": "Người viết gặp khó khăn về quản lý thời gian."
+      },
+      {
+        "id": "writing-ex11",
+        "type": "msq",
+        "question_text": "Mark True or False about essay structure:",
+        "options": [
+          "Introduction should state your experience.",
+          "Body paragraphs are not needed.",
+          "Conclusion should give advice.",
+          "You should not use reported speech."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True. b) False - Cần thân bài. c) True. d) False - Nên dùng câu tường thuật."
+      },
+      {
+        "id": "writing-ex12",
+        "type": "msq",
+        "question_text": "Decide True or False about reported speech:",
+        "options": [
+          "Use 'told + O + to V' for commands.",
+          "Use 'advised + O + to V' for advice.",
+          "Use 'offered + V-ing' for offers.",
+          "Use 'suggested + V-ing' for suggestions."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True. b) True. c) False - offered + to V. d) True."
+      },
+      {
+        "id": "writing-ex13",
+        "type": "msq",
+        "question_text": "Based on the sample essay, mark True or False:",
+        "options": [
+          "The writer completed the course successfully.",
+          "The writer gave up immediately.",
+          "Study groups were helpful.",
+          "The manager was not supportive."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True. b) False - Hoàn thành thành công. c) True. d) False - Quản lý hỗ trợ."
+      },
+      {
+        "id": "writing-ex14",
+        "type": "sa",
+        "question_text": "Complete: She _____ me to study. (told/said)",
+        "correct": "told",
+        "explanation": "Told + O + to V."
+      },
+      {
+        "id": "writing-ex15",
+        "type": "sa",
+        "question_text": "Complete: She _____ me to take the course. (advised/said)",
+        "correct": "advised",
+        "explanation": "Advised + O + to V."
+      },
+      {
+        "id": "writing-ex16",
+        "type": "sa",
+        "question_text": "Complete: She _____ to help me. (offered/asked)",
+        "correct": "offered",
+        "explanation": "Offered + to V."
+      },
+      {
+        "id": "writing-ex17",
+        "type": "mcq",
+        "question": "What did the mentor warn about?",
+        "options": ["Learning is bad", "Not to take on too many commitments", "Avoid all learning", "Give up"],
+        "correct": 1,
+        "explanation": "Người cố vấn cảnh báo không nên đảm nhận quá nhiều cam kết."
+      },
+      {
+        "id": "writing-ex18",
+        "type": "mcq",
+        "question": "What did the manager suggest?",
+        "options": ["Keep knowledge secret", "Organize internal training sessions", "Avoid sharing", "Stop learning"],
+        "correct": 1,
+        "explanation": "Quản lý gợi ý tổ chức các buổi đào tạo nội bộ."
+      },
+      {
+        "id": "writing-ex19",
+        "type": "mcq",
+        "question": "What is the final advice in the sample essay?",
+        "options": ["Never start", "Start today and stay consistent", "Give up", "Avoid learning"],
+        "correct": 1,
+        "explanation": "Lời khuyên cuối cùng là bắt đầu ngay hôm nay và duy trì nhất quán."
+      },
+      {
+        "id": "writing-ex20",
+        "type": "mcq",
+        "question": "What does the essay say about learning?",
+        "options": ["It's a destination", "It's a journey", "It's impossible", "It's boring"],
+        "correct": 1,
+        "explanation": "Bài viết nói học tập là một hành trình, không phải đích đến."
+      }
+    ]
+  }
+}

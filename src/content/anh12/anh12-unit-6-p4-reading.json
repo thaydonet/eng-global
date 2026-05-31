@@ -1,0 +1,255 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-6-p4",
+  "name": "Part 4: Reading",
+  "slug": "p4-reading",
+  "description": "Đọc hiểu về tác động của AI",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Reading: The Impact of AI on Society",
+      "sections": [
+        {
+          "heading": "Reading Skills",
+          "content": "<p><strong>Chủ đề:</strong> The impact of AI on society</p><p><strong>Kỹ năng đọc hiểu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Skimming:</strong> Đọc lướt để nắm ý chính</li><li><strong>Scanning:</strong> Tìm thông tin cụ thể</li><li><strong>Guessing meaning from context:</strong> Đoán nghĩa từ ngữ cảnh</li><li><strong>Identifying main ideas:</strong> Xác định ý chính của đoạn văn</li><li><strong>Understanding references:</strong> Hiểu các từ thay thế (it, they, this, that)</li></ul><p><strong>Nội dung bài đọc về:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>AI applications:</strong> Ứng dụng AI trong các lĩnh vực</li><li><strong>Benefits of AI:</strong> Lợi ích của AI (efficiency, accuracy, convenience)</li><li><strong>Challenges of AI:</strong> Thách thức (job loss, privacy, ethics)</li><li><strong>Future of AI:</strong> Tương lai của AI</li><li><strong>Responsible AI use:</strong> Sử dụng AI có trách nhiệm</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "reading-ex1",
+        "type": "reading",
+        "passage": "Artificial Intelligence: Transforming Our World\n\nArtificial Intelligence (AI) has become one of the most transformative technologies of the 21st century. From virtual assistants like Siri and Alexa to autonomous vehicles and medical diagnosis systems, AI is changing how we live and work.\n\nAI works by processing large amounts of data and recognizing patterns. Machine learning, a subset of AI, allows computers to learn from experience without being explicitly programmed. For example, when you use a streaming service, AI analyzes your viewing habits and recommends shows you might enjoy. Similarly, facial recognition systems learn to identify faces by studying thousands of images.\n\nThe benefits of AI are numerous. In healthcare, AI helps doctors diagnose diseases more accurately and develop new treatments faster. Hospitals have AI analyze medical images like X-rays and MRI scans, detecting patterns that humans might miss. In education, AI provides personalized learning experiences for students. Teachers get AI to create customized lesson plans based on each student's needs. In business, companies use AI to analyze customer data and improve their services. We can have AI predict market trends and make better decisions.\n\nHowever, AI also raises important concerns. Many people worry that AI will replace human workers, leading to widespread unemployment. Privacy is another major issue - AI systems collect vast amounts of personal data, which could be misused. There are also ethical questions about AI decision-making, especially in areas like criminal justice and healthcare. Some experts warn that we need to develop AI responsibly to ensure it benefits humanity.\n\nDespite these challenges, AI will continue to advance. The key is to balance innovation with careful regulation and ethical considerations. We must have governments create policies that protect workers and privacy while encouraging technological progress. By using AI responsibly, we can harness its power to solve global problems and improve quality of life for everyone.",
+        "questions": [
+          {
+            "id": "r1-q1",
+            "question": "What is the main idea of the passage?",
+            "options": [
+              "AI is perfect and has no problems",
+              "AI is transforming society with both benefits and concerns",
+              "AI should be banned",
+              "AI only works in healthcare"
+            ],
+            "correct": 1,
+            "explanation": "Đoạn văn nói về AI đang thay đổi xã hội với cả lợi ích và lo ngại."
+          },
+          {
+            "id": "r1-q2",
+            "question": "How does machine learning work?",
+            "options": [
+              "It needs explicit programming",
+              "It learns from experience and data",
+              "It doesn't work",
+              "It only recognizes faces"
+            ],
+            "correct": 1,
+            "explanation": "Machine learning học từ kinh nghiệm và dữ liệu mà không cần lập trình cụ thể."
+          },
+          {
+            "id": "r1-q3",
+            "question": "The word 'transformative' in paragraph 1 is closest in meaning to:",
+            "options": [
+              "unchanging",
+              "life-changing",
+              "useless",
+              "expensive"
+            ],
+            "correct": 1,
+            "explanation": "Transformative = life-changing (thay đổi cuộc sống)."
+          },
+          {
+            "id": "r1-q4",
+            "question": "What concern about AI is mentioned?",
+            "options": [
+              "It's too cheap",
+              "Job loss and privacy issues",
+              "It's too slow",
+              "It's too simple"
+            ],
+            "correct": 1,
+            "explanation": "Các lo ngại được đề cập là mất việc làm và vấn đề riêng tư."
+          },
+          {
+            "id": "r1-q5",
+            "question": "According to the passage, what is important for AI development?",
+            "options": [
+              "Developing as fast as possible without rules",
+              "Balancing innovation with regulation and ethics",
+              "Stopping all AI research",
+              "Only using AI in games"
+            ],
+            "correct": 1,
+            "explanation": "Quan trọng là cân bằng giữa đổi mới với quy định và đạo đức."
+          }
+        ]
+      },
+      {
+        "id": "reading-ex2",
+        "type": "reading",
+        "passage": "AI in Healthcare: A Revolution in Medicine\n\nThe healthcare industry is experiencing a revolution thanks to artificial intelligence. AI is transforming how doctors diagnose diseases, develop treatments, and care for patients.\n\nOne of the most significant applications of AI in healthcare is medical imaging. Doctors have AI analyze X-rays, CT scans, and MRI images to detect diseases like cancer, pneumonia, and heart conditions. AI systems can identify patterns and abnormalities that human eyes might miss, leading to earlier and more accurate diagnoses. For example, AI can detect breast cancer in mammograms with accuracy rates comparable to or even better than experienced radiologists.\n\nAI is also revolutionizing drug discovery. Traditionally, developing a new drug takes 10-15 years and costs billions of dollars. Now, pharmaceutical companies get AI to analyze millions of chemical compounds and predict which ones might be effective treatments. This process, which used to take years, can now be completed in months. During the COVID-19 pandemic, AI helped researchers identify potential treatments and develop vaccines faster than ever before.\n\nIn addition, AI-powered virtual health assistants are making healthcare more accessible. Patients can have chatbots answer basic health questions, schedule appointments, and provide medication reminders. This technology is especially valuable in rural areas where access to doctors is limited.\n\nHowever, the use of AI in healthcare raises important ethical questions. Who is responsible if an AI system makes a wrong diagnosis? How do we ensure patient data privacy? Should AI replace human doctors, or should it only assist them? These questions need careful consideration as AI becomes more prevalent in medicine.\n\nDespite these challenges, the future of AI in healthcare looks promising. By combining human expertise with AI's analytical power, we can provide better, faster, and more affordable healthcare to people around the world.",
+        "questions": [
+          {
+            "id": "r2-q1",
+            "question": "What is AI used for in medical imaging?",
+            "options": [
+              "Taking photos",
+              "Detecting diseases and abnormalities",
+              "Printing images",
+              "Deleting files"
+            ],
+            "correct": 1,
+            "explanation": "AI được dùng để phát hiện bệnh và bất thường trong hình ảnh y tế."
+          },
+          {
+            "id": "r2-q2",
+            "question": "How does AI help in drug discovery?",
+            "options": [
+              "It makes drugs more expensive",
+              "It analyzes compounds and speeds up the process",
+              "It stops drug development",
+              "It has no effect"
+            ],
+            "correct": 1,
+            "explanation": "AI phân tích hợp chất và đẩy nhanh quá trình phát triển thuốc."
+          },
+          {
+            "id": "r2-q3",
+            "question": "What are virtual health assistants?",
+            "options": [
+              "Real doctors",
+              "AI chatbots that answer health questions",
+              "Hospitals",
+              "Medical equipment"
+            ],
+            "correct": 1,
+            "explanation": "Virtual health assistants là chatbot AI trả lời câu hỏi sức khỏe."
+          },
+          {
+            "id": "r2-q4",
+            "question": "What ethical question is raised about AI in healthcare?",
+            "options": [
+              "Should AI be colorful?",
+              "Who is responsible if AI makes a wrong diagnosis?",
+              "Should AI be expensive?",
+              "Should AI be slow?"
+            ],
+            "correct": 1,
+            "explanation": "Câu hỏi đạo đức là ai chịu trách nhiệm nếu AI chẩn đoán sai."
+          },
+          {
+            "id": "r2-q5",
+            "question": "According to the passage, what is the future of AI in healthcare?",
+            "options": [
+              "It will disappear",
+              "It looks promising by combining human expertise with AI",
+              "It will replace all doctors",
+              "It will only be used for games"
+            ],
+            "correct": 1,
+            "explanation": "Tương lai AI trong y tế hứa hẹn bằng cách kết hợp chuyên môn con người với AI."
+          }
+        ]
+      },
+      {
+        "id": "mcq1",
+        "type": "mcq",
+        "question": "What does 'transformative' mean?",
+        "options": ["Unchanging", "Causing major change", "Boring", "Expensive"],
+        "correct": 1,
+        "explanation": "'Transformative' nghĩa là gây ra thay đổi lớn."
+      },
+      {
+        "id": "mcq2",
+        "type": "mcq",
+        "question": "The word 'prevalent' in the passage means:",
+        "options": ["Rare", "Common", "Expensive", "Slow"],
+        "correct": 1,
+        "explanation": "'Prevalent' nghĩa là phổ biến, thông dụng."
+      },
+      {
+        "id": "mcq3",
+        "type": "mcq",
+        "question": "What is 'machine learning'?",
+        "options": ["Teaching machines to walk", "AI learning from data", "Building machines", "Repairing computers"],
+        "correct": 1,
+        "explanation": "Machine learning là AI học từ dữ liệu."
+      },
+      {
+        "id": "mcq4",
+        "type": "mcq",
+        "question": "According to the passages, AI in healthcare can:",
+        "options": [
+          "Only take photos",
+          "Diagnose diseases and develop treatments",
+          "Replace all doctors immediately",
+          "Do nothing useful"
+        ],
+        "correct": 1,
+        "explanation": "AI trong y tế có thể chẩn đoán bệnh và phát triển phương pháp điều trị."
+      },
+      {
+        "id": "mcq5",
+        "type": "mcq",
+        "question": "What should we do with AI according to the first passage?",
+        "options": [
+          "Ban it completely",
+          "Use it responsibly with regulation",
+          "Use it without any rules",
+          "Ignore it"
+        ],
+        "correct": 1,
+        "explanation": "Chúng ta nên sử dụng AI có trách nhiệm với quy định."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Based on the passages, decide True or False:",
+        "options": [
+          "AI can help diagnose diseases.",
+          "AI has no concerns or challenges.",
+          "AI speeds up drug discovery.",
+          "AI should replace all human workers."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - AI giúp chẩn đoán bệnh. b) False - AI có nhiều lo ngại. c) True - AI đẩy nhanh phát triển thuốc. d) False - AI không nên thay thế tất cả con người."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True or False about AI:",
+        "options": [
+          "Machine learning learns from data.",
+          "AI raises no ethical questions.",
+          "AI can analyze medical images.",
+          "Privacy is not a concern with AI."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Machine learning học từ dữ liệu. b) False - AI nêu lên nhiều câu hỏi đạo đức. c) True - AI có thể phân tích hình ảnh y tế. d) False - Riêng tư là mối lo ngại lớn."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: AI helps doctors _____ diseases more accurately. (diagnose/ignore)",
+        "correct": "diagnose",
+        "explanation": "AI giúp bác sĩ chẩn đoán (diagnose) bệnh chính xác hơn."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "What is the Vietnamese meaning of 'ethical'?",
+        "correct": "đạo đức",
+        "explanation": "'Ethical' nghĩa là đạo đức, có liên quan đến đạo đức."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: We must use AI _____. (responsibly/carelessly)",
+        "correct": "responsibly",
+        "explanation": "Chúng ta phải sử dụng AI có trách nhiệm (responsibly)."
+      }
+    ]
+  }
+}

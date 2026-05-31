@@ -1,0 +1,224 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-unit-4-ethnic-groups-of-viet-nam",
+      "name": "Unit 4: Ethnic Groups of Viet Nam",
+      "slug": "unit-4-ethnic-groups-of-viet-nam",
+      "chapter": "Unit 4: Ethnic Groups of Viet Nam",
+      "chapter_id": "A8",
+      "lesson_id": 4,
+      "description": "Learn about ethnic groups with Yes/No and Wh-questions.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-4",
+          "name": "Ethnic Groups Vocabulary",
+          "slug": "ethnic-groups-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 4: Ethnic Groups of Viet Nam",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Ethnic group</td><td class='px-4 py-2'>(n) /ˈeθnɪk ɡruːp/</td><td class='px-4 py-2'>Dân tộc</td><td class='px-4 py-2'>Vietnam has 54 ethnic groups.</td></tr><tr><td class='px-4 py-2 font-bold'>Minority</td><td class='px-4 py-2'>(n) /maɪˈnɒrəti/</td><td class='px-4 py-2'>Thiểu số</td><td class='px-4 py-2'>They are a minority group.</td></tr><tr><td class='px-4 py-2 font-bold'>Costume</td><td class='px-4 py-2'>(n) /ˈkɒstjuːm/</td><td class='px-4 py-2'>Trang phục</td><td class='px-4 py-2'>Traditional costumes are beautiful.</td></tr><tr><td class='px-4 py-2 font-bold'>Stilt house</td><td class='px-4 py-2'>(n) /stɪlt haʊs/</td><td class='px-4 py-2'>Nhà sàn</td><td class='px-4 py-2'>They live in stilt houses.</td></tr><tr><td class='px-4 py-2 font-bold'>Terraced field</td><td class='px-4 py-2'>(n) /ˈterəst fiːld/</td><td class='px-4 py-2'>Ruộng bậc thang</td><td class='px-4 py-2'>Terraced fields are stunning.</td></tr><tr><td class='px-4 py-2 font-bold'>Weave</td><td class='px-4 py-2'>(v) /wiːv/</td><td class='px-4 py-2'>Dệt</td><td class='px-4 py-2'>They weave cloth.</td></tr><tr><td class='px-4 py-2 font-bold'>Bamboo</td><td class='px-4 py-2'>(n) /bæmˈbuː/</td><td class='px-4 py-2'>Tre</td><td class='px-4 py-2'>Houses are made of bamboo.</td></tr><tr><td class='px-4 py-2 font-bold'>Festival</td><td class='px-4 py-2'>(n) /ˈfestɪvl/</td><td class='px-4 py-2'>Lễ hội</td><td class='px-4 py-2'>They celebrate many festivals.</td></tr><tr><td class='px-4 py-2 font-bold'>Gong</td><td class='px-4 py-2'>(n) /ɡɒŋ/</td><td class='px-4 py-2'>Cồng chiêng</td><td class='px-4 py-2'>Gongs are traditional instruments.</td></tr><tr><td class='px-4 py-2 font-bold'>Heritage</td><td class='px-4 py-2'>(n) /ˈherɪtɪdʒ/</td><td class='px-4 py-2'>Di sản</td><td class='px-4 py-2'>Cultural heritage is important.</td></tr><tr><td class='px-4 py-2 font-bold'>Communal house</td><td class='px-4 py-2'>(n) /kəˈmjuːnl haʊs/</td><td class='px-4 py-2'>Nhà rông</td><td class='px-4 py-2'>The communal house is central.</td></tr><tr><td class='px-4 py-2 font-bold'>Worship</td><td class='px-4 py-2'>(v) /ˈwɜːʃɪp/</td><td class='px-4 py-2'>Thờ cúng</td><td class='px-4 py-2'>They worship ancestors.</td></tr><tr><td class='px-4 py-2 font-bold'>Ancestor</td><td class='px-4 py-2'>(n) /ˈænsestə(r)/</td><td class='px-4 py-2'>Tổ tiên</td><td class='px-4 py-2'>They respect their ancestors.</td></tr><tr><td class='px-4 py-2 font-bold'>Unique</td><td class='px-4 py-2'>(adj) /juˈniːk/</td><td class='px-4 py-2'>Độc đáo</td><td class='px-4 py-2'>Each group is unique.</td></tr><tr><td class='px-4 py-2 font-bold'>Diverse</td><td class='px-4 py-2'>(adj) /daɪˈvɜːs/</td><td class='px-4 py-2'>Đa dạng</td><td class='px-4 py-2'>Vietnam is diverse.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Major ethnic groups in Vietnam:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Kinh:</strong> majority (86%)</li><li><strong>Tay, Thai, Muong, Khmer, Hmong, Nung, Dao:</strong> large minorities</li></ul><p><strong>Traditional features:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>stilt house:</strong> nhà sàn</li><li><strong>terraced field:</strong> ruộng bậc thang</li><li><strong>communal house:</strong> nhà rông</li><li><strong>traditional costume:</strong> trang phục truyền thống</li><li><strong>gong:</strong> cồng chiêng</li></ul><p><strong>Activities:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>weave cloth:</strong> dệt vải</li><li><strong>make crafts:</strong> làm thủ công</li><li><strong>worship ancestors:</strong> thờ cúng tổ tiên</li><li><strong>celebrate festivals:</strong> tổ chức lễ hội</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Stress in words ending in -al and -ous</h3><p><strong>1. Words ending in -al (nhấn trước -al):</strong></p><ul class='list-disc pl-5 space-y-2'><li>tra'ditional /trəˈdɪʃənl/</li><li>cul'tural /ˈkʌltʃərəl/</li><li>com'munal /kəˈmjuːnl/</li></ul><p><strong>2. Words ending in -ous (nhấn trước -ous):</strong></p><ul class='list-disc pl-5 space-y-2'><li>'famous /ˈfeɪməs/</li><li>'various /ˈveəriəs/</li><li>re'ligious /rɪˈlɪdʒəs/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>Yes/No Questions and Wh-questions</h3><p><strong>A. Yes/No Questions:</strong></p><p><strong>1. With 'to be':</strong></p><ul class='list-disc pl-5 space-y-2'><li>Am/Is/Are + S...?</li><li>Ex: <strong>Is</strong> it a stilt house? - Yes, it is. / No, it isn't.</li><li>Ex: <strong>Are</strong> they ethnic minorities? - Yes, they are.</li></ul><p><strong>2. With ordinary verbs:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Do/Does + S + V...?</li><li>Ex: <strong>Do</strong> they live in stilt houses? - Yes, they do.</li><li>Ex: <strong>Does</strong> she wear traditional costume? - Yes, she does.</li></ul><p><strong>3. With modal verbs:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Can/Will/Should + S + V...?</li><li>Ex: <strong>Can</strong> you speak their language? - Yes, I can.</li></ul><p><strong>B. Wh-questions:</strong></p><p><strong>1. Question words:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>What:</strong> Cái gì - What is this?</li><li><strong>When:</strong> Khi nào - When is the festival?</li><li><strong>Where:</strong> Ở đâu - Where do they live?</li><li><strong>Who:</strong> Ai - Who are they?</li><li><strong>Why:</strong> Tại sao - Why do they wear costumes?</li><li><strong>How:</strong> Như thế nào - How do they make it?</li><li><strong>How many/much:</strong> Bao nhiêu - How many groups are there?</li><li><strong>Which:</strong> Cái nào - Which group is the largest?</li></ul><p><strong>2. Structure with 'to be':</strong></p><ul class='list-disc pl-5 space-y-2'><li>Wh-word + is/are + S?</li><li>Ex: <strong>What is</strong> their traditional costume?</li><li>Ex: <strong>Where are</strong> the terraced fields?</li></ul><p><strong>3. Structure with ordinary verbs:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Wh-word + do/does + S + V?</li><li>Ex: <strong>Where do</strong> they <strong>live</strong>?</li><li>Ex: <strong>What does</strong> she <strong>wear</strong>?</li></ul><p><strong>4. When 'who/what' is the subject:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Who/What + V(s/es)?</li><li>Ex: <strong>Who lives</strong> here? (không dùng 'do/does')</li><li>Ex: <strong>What happens</strong> at the festival?</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Ethnic groups of Viet Nam</p><p><strong>Nội dung:</strong> Hội thoại về các dân tộc, văn hóa, phong tục</p>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary:</strong> Ethnic groups and their culture</p><p><strong>B. Pronunciation:</strong> Stress in -al and -ous words</p>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar:</strong> Yes/No questions and Wh-questions</p>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What ethnic group is...?</li><li>Where do they live?</li><li>What do they wear?</li><li>How do they celebrate...?</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading:</strong> About ethnic groups</p><p><strong>Speaking:</strong> Discussing ethnic cultures</p>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening:</strong> About an ethnic group</p><p><strong>Writing:</strong> About an ethnic group using questions</p>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong> Vocabulary, Pronunciation, Grammar</p>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> An ethnic group in Vietnam</p><p><strong>Nhiệm vụ:</strong> Nghiên cứu, tạo poster, viết mô tả (100-120 từ)</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Yes/No Questions",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Is/Are + S...? (với 'to be')</li><li>Do/Does + S + V...? (với động từ thường)</li></ul>",
+            "examples": [
+              {
+                "question": "______ it a stilt house?",
+                "solution": "<strong>Is</strong> it a stilt house?",
+                "explanation": "It + 'to be' → Is"
+              },
+              {
+                "question": "______ they live in stilt houses?",
+                "solution": "<strong>Do</strong> they live in stilt houses?",
+                "explanation": "They + động từ thường → Do"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Wh-questions",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn từ để hỏi phù hợp: What, When, Where, Who, Why, How</li><li>Wh-word + do/does + S + V?</li></ul>",
+            "examples": [
+              {
+                "question": "______ do they live?",
+                "solution": "<strong>Where</strong> do they live?",
+                "explanation": "Hỏi về địa điểm → Where"
+              },
+              {
+                "question": "______ is the festival?",
+                "solution": "<strong>When</strong> is the festival?",
+                "explanation": "Hỏi về thời gian → When"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Who/What as subject",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Who/What + V(s/es)?</li><li>Không dùng do/does</li></ul>",
+            "examples": [
+              {
+                "question": "______ lives here?",
+                "solution": "<strong>Who</strong> lives here?",
+                "explanation": "Who là chủ ngữ → không dùng do/does"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: How many/much",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>How many + danh từ đếm được số nhiều</li><li>How much + danh từ không đếm được</li></ul>",
+            "examples": [
+              {
+                "question": "______ ethnic groups are there?",
+                "solution": "<strong>How many</strong> ethnic groups are there?",
+                "explanation": "Groups (đếm được) → How many"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "______ it a stilt house?",
+            "options": ["Is", "Are", "Do", "Does"],
+            "correct": 0,
+            "explanation": "It + 'to be' → Is"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "______ they live in stilt houses?",
+            "options": ["Is", "Are", "Do", "Does"],
+            "correct": 2,
+            "explanation": "They + động từ thường → Do"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "______ do they live?",
+            "options": ["What", "When", "Where", "Who"],
+            "correct": 2,
+            "explanation": "Hỏi về địa điểm → Where"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "______ is the festival?",
+            "options": ["What", "When", "Where", "Who"],
+            "correct": 1,
+            "explanation": "Hỏi về thời gian → When"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "______ ethnic groups are there?",
+            "options": ["How much", "How many", "How long", "How far"],
+            "correct": 1,
+            "explanation": "Groups (đếm được) → How many"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ she wear traditional costume?",
+            "options": ["Is", "Are", "Do", "Does"],
+            "correct": 3,
+            "explanation": "She + động từ thường → Does"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "______ do they celebrate?",
+            "options": ["What", "When", "Where", "Why"],
+            "correct": 0,
+            "explanation": "Hỏi về vật/sự việc → What"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "______ lives here?",
+            "options": ["Who", "Who do", "Who does", "Whom"],
+            "correct": 0,
+            "explanation": "Who là chủ ngữ → không dùng do/does"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "______ they ethnic minorities?",
+            "options": ["Is", "Are", "Do", "Does"],
+            "correct": 1,
+            "explanation": "They + 'to be' → Are"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "______ do they worship ancestors?",
+            "options": ["What", "When", "Where", "Why"],
+            "correct": 3,
+            "explanation": "Hỏi về lý do → Why"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "subject": "Tiếng Anh 10",
+  "subject_id": 40,
+  "lessons": [
+    {
+      "id": "anh10-unit-5-inventions",
+      "name": "Unit 5: Inventions",
+      "slug": "unit-5-inventions",
+      "chapter": "Unit 5: Inventions",
+      "chapter_id": "A10",
+      "lesson_id": 5,
+      "description": "Học về các phát minh vĩ đại, công nghệ hiện đại và thì hiện tại hoàn thành.",
+      "duration_minutes": 300,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop",
+      "has_sub_lessons": true,
+      "sub_lessons": [
+        {
+          "id": "anh10-unit-5-p1",
+          "name": "Part 1: Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Giới thiệu về các phát minh quan trọng và công nghệ hiện đại",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "file": "anh10-unit-5-p1-getting-started.json"
+        },
+        {
+          "id": "anh10-unit-5-p2",
+          "name": "Part 2: Language - Vocabulary",
+          "slug": "p2-vocabulary",
+          "description": "Từ vựng về phát minh và công nghệ",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 2,
+          "file": "anh10-unit-5-p2-vocabulary.json"
+        },
+        {
+          "id": "anh10-unit-5-p3",
+          "name": "Part 3: Language - Grammar",
+          "slug": "p3-grammar",
+          "description": "Thì hiện tại hoàn thành và động từ nguyên thể có 'to' và V-ing",
+          "duration_minutes": 60,
+          "difficulty_level": "medium",
+          "order": 3,
+          "file": "anh10-unit-5-p3-grammar.json"
+        },
+        {
+          "id": "anh10-unit-5-p4",
+          "name": "Part 4: Reading",
+          "slug": "p4-reading",
+          "description": "Đọc hiểu về các phát minh đã thay đổi cuộc sống",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "file": "anh10-unit-5-p4-reading.json"
+        },
+        {
+          "id": "anh10-unit-5-p5",
+          "name": "Part 5: Speaking",
+          "slug": "p5-speaking",
+          "description": "Nói về các phát minh và lợi ích của chúng",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 5,
+          "file": "anh10-unit-5-p5-speaking.json"
+        },
+        {
+          "id": "anh10-unit-5-p6",
+          "name": "Part 6: Listening",
+          "slug": "p6-listening",
+          "description": "Nghe về nhà phát minh nổi tiếng",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 6,
+          "file": "anh10-unit-5-p6-listening.json"
+        },
+        {
+          "id": "anh10-unit-5-p7",
+          "name": "Part 7: Writing",
+          "slug": "p7-writing",
+          "description": "Viết về một phát minh quan trọng",
+          "duration_minutes": 60,
+          "difficulty_level": "hard",
+          "order": 7,
+          "file": "anh10-unit-5-p7-writing.json"
+        }
+      ],
+      "question_types": [
+        {
+          "id": "vocab-5",
+          "name": "Technology Vocabulary",
+          "slug": "technology-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 5: Inventions",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Invention</td><td class='px-4 py-2'>(n) /ɪnˈvenʃn/</td><td class='px-4 py-2'>Phát minh</td><td class='px-4 py-2'>The smartphone is a great invention.</td></tr><tr><td class='px-4 py-2 font-bold'>Inventor</td><td class='px-4 py-2'>(n) /ɪnˈventə(r)/</td><td class='px-4 py-2'>Nhà phát minh</td><td class='px-4 py-2'>Thomas Edison was a famous inventor.</td></tr><tr><td class='px-4 py-2 font-bold'>Invent</td><td class='px-4 py-2'>(v) /ɪnˈvent/</td><td class='px-4 py-2'>Phát minh</td><td class='px-4 py-2'>Who invented the telephone?</td></tr><tr><td class='px-4 py-2 font-bold'>Smartphone</td><td class='px-4 py-2'>(n) /ˈsmɑːtfəʊn/</td><td class='px-4 py-2'>Điện thoại thông minh</td><td class='px-4 py-2'>I use my smartphone every day.</td></tr><tr><td class='px-4 py-2 font-bold'>Laptop</td><td class='px-4 py-2'>(n) /ˈlæptɒp/</td><td class='px-4 py-2'>Máy tính xách tay</td><td class='px-4 py-2'>She bought a new laptop.</td></tr><tr><td class='px-4 py-2 font-bold'>Tablet</td><td class='px-4 py-2'>(n) /ˈtæblət/</td><td class='px-4 py-2'>Máy tính bảng</td><td class='px-4 py-2'>Tablets are useful for reading.</td></tr><tr><td class='px-4 py-2 font-bold'>Electronic</td><td class='px-4 py-2'>(adj) /ɪˌlekˈtrɒnɪk/</td><td class='px-4 py-2'>Điện tử</td><td class='px-4 py-2'>Electronic devices are everywhere.</td></tr><tr><td class='px-4 py-2 font-bold'>Portable</td><td class='px-4 py-2'>(adj) /ˈpɔːtəbl/</td><td class='px-4 py-2'>Có thể mang theo</td><td class='px-4 py-2'>This speaker is very portable.</td></tr><tr><td class='px-4 py-2 font-bold'>Device</td><td class='px-4 py-2'>(n) /dɪˈvaɪs/</td><td class='px-4 py-2'>Thiết bị</td><td class='px-4 py-2'>This device helps save energy.</td></tr><tr><td class='px-4 py-2 font-bold'>Experiment</td><td class='px-4 py-2'>(n, v) /ɪkˈsperɪmənt/</td><td class='px-4 py-2'>Thí nghiệm</td><td class='px-4 py-2'>Scientists conduct experiments.</td></tr><tr><td class='px-4 py-2 font-bold'>Software</td><td class='px-4 py-2'>(n) /ˈsɒftweə(r)/</td><td class='px-4 py-2'>Phần mềm</td><td class='px-4 py-2'>Install the latest software.</td></tr><tr><td class='px-4 py-2 font-bold'>Hardware</td><td class='px-4 py-2'>(n) /ˈhɑːdweə(r)/</td><td class='px-4 py-2'>Phần cứng</td><td class='px-4 py-2'>Computer hardware is expensive.</td></tr><tr><td class='px-4 py-2 font-bold'>Artificial intelligence (AI)</td><td class='px-4 py-2'>(n) /ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/</td><td class='px-4 py-2'>Trí tuệ nhân tạo</td><td class='px-4 py-2'>AI is changing our lives.</td></tr><tr><td class='px-4 py-2 font-bold'>Technology</td><td class='px-4 py-2'>(n) /tekˈnɒlədʒi/</td><td class='px-4 py-2'>Công nghệ</td><td class='px-4 py-2'>Modern technology is amazing.</td></tr><tr><td class='px-4 py-2 font-bold'>Innovation</td><td class='px-4 py-2'>(n) /ˌɪnəˈveɪʃn/</td><td class='px-4 py-2'>Sự đổi mới</td><td class='px-4 py-2'>Innovation drives progress.</td></tr><tr><td class='px-4 py-2 font-bold'>Inspire</td><td class='px-4 py-2'>(v) /ɪnˈspaɪə(r)/</td><td class='px-4 py-2'>Truyền cảm hứng</td><td class='px-4 py-2'>His work inspires many people.</td></tr><tr><td class='px-4 py-2 font-bold'>Useful</td><td class='px-4 py-2'>(adj) /ˈjuːsfl/</td><td class='px-4 py-2'>Hữu ích</td><td class='px-4 py-2'>This app is very useful.</td></tr><tr><td class='px-4 py-2 font-bold'>Convenient</td><td class='px-4 py-2'>(adj) /kənˈviːniənt/</td><td class='px-4 py-2'>Tiện lợi</td><td class='px-4 py-2'>Online shopping is convenient.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Technology and Inventions (Công nghệ và Phát minh):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>invent something:</strong> phát minh ra cái gì</li><li><strong>make life easier:</strong> làm cuộc sống dễ dàng hơn</li><li><strong>change the way we live:</strong> thay đổi cách chúng ta sống</li><li><strong>connect people:</strong> kết nối mọi người</li><li><strong>save time:</strong> tiết kiệm thời gian</li><li><strong>improve communication:</strong> cải thiện giao tiếp</li><li><strong>access information:</strong> truy cập thông tin</li></ul><p><strong>Collocations về công nghệ:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>cutting-edge technology:</strong> công nghệ tiên tiến</li><li><strong>technological advancement:</strong> tiến bộ công nghệ</li><li><strong>digital age:</strong> kỷ nguyên số</li><li><strong>breakthrough invention:</strong> phát minh đột phá</li><li><strong>user-friendly device:</strong> thiết bị thân thiện với người dùng</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm: Trọng âm của danh từ có 3 âm tiết",
+              "content": "<h3>Quy tắc trọng âm danh từ 3 âm tiết:</h3><p><strong>1. Nhấn âm 1 (Phổ biến nhất):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>'Internet</strong> /ˈɪntənet/</li><li><strong>'Telephone</strong> /ˈtelɪfəʊn/</li><li><strong>'Computer</strong> /kəmˈpjuːtə(r)/ (ngoại lệ - nhấn âm 2)</li><li><strong>'Processor</strong> /ˈprəʊsesə(r)/</li><li><strong>'Memory</strong> /ˈmeməri/</li></ul><p><strong>2. Nhấn âm 2:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Com'puter</strong> /kəmˈpjuːtə(r)/</li><li><strong>In'vention</strong> /ɪnˈvenʃn/</li><li><strong>Tech'nology</strong> /tekˈnɒlədʒi/</li></ul><p><strong>3. Danh từ có đuôi đặc biệt:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>-tion, -sion:</strong> nhấn âm trước đuôi<br>in'vention, con'nection, tele'vision</li><li><strong>-ity:</strong> nhấn âm trước đuôi<br>e'lectricity, cre'ativity</li><li><strong>-logy:</strong> nhấn âm trước đuôi<br>tech'nology, bi'ology</li></ul><p><strong>Lưu ý:</strong> Một số từ có thể có nhiều cách phát âm tùy theo ngữ cảnh hoặc vùng miền.</p>"
+            },
+            {
+              "heading": "4. Ngữ pháp: Thì hiện tại hoàn thành & V-ing và to-V",
+              "content": "<h3>A. Present Perfect (Thì hiện tại hoàn thành)</h3><p><strong>Công thức:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Khẳng định: S + have/has + V3/ed</li><li>Phủ định: S + have/has + not + V3/ed</li><li>Nghi vấn: Have/Has + S + V3/ed?</li></ul><p><strong>Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>1.</strong> Hành động bắt đầu trong quá khứ và kéo dài đến hiện tại<br>Ex: I have lived here for 5 years.</li><li><strong>2.</strong> Hành động vừa mới xảy ra (just, recently, lately)<br>Ex: She has just finished her homework.</li><li><strong>3.</strong> Hành động xảy ra trong quá khứ nhưng không rõ thời gian<br>Ex: I have visited Paris. (không nói khi nào)</li><li><strong>4.</strong> Nói về trải nghiệm (ever, never)<br>Ex: Have you ever used a 3D printer?</li><li><strong>5.</strong> Hành động đã hoàn thành nhưng có kết quả ở hiện tại<br>Ex: I have lost my keys. (bây giờ không tìm thấy)</li></ul><p><strong>Dấu hiệu nhận biết:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Since</strong> + mốc thời gian (since 2020, since Monday)</li><li><strong>For</strong> + khoảng thời gian (for 3 years, for a long time)</li><li><strong>Already, yet, just, recently, lately, so far, up to now</strong></li><li><strong>Ever, never</strong> (trong câu hỏi và phủ định)</li><li><strong>This week/month/year, today</strong></li></ul><p><strong>Phân biệt Present Perfect và Past Simple:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Present Perfect:</strong> không có thời gian cụ thể, liên quan đến hiện tại<br>I have seen that movie. (không nói khi nào)</li><li><strong>Past Simple:</strong> có thời gian cụ thể, đã kết thúc hoàn toàn<br>I saw that movie yesterday.</li></ul><h3>B. V-ing and to-V (Động từ nguyên mẫu có 'to' và V-ing)</h3><p><strong>1. Động từ theo sau bởi to-V:</strong></p><ul class='list-disc pl-5 space-y-2'><li>want, decide, plan, hope, expect, agree, refuse, promise, offer, manage, fail, learn, afford, seem, appear, tend</li><li>Ex: I want <strong>to buy</strong> a new laptop.</li><li>Ex: She decided <strong>to study</strong> abroad.</li></ul><p><strong>2. Động từ theo sau bởi V-ing:</strong></p><ul class='list-disc pl-5 space-y-2'><li>enjoy, finish, mind, avoid, suggest, practice, consider, delay, deny, admit, miss, keep, imagine, risk</li><li>Ex: I enjoy <strong>playing</strong> video games.</li><li>Ex: She finished <strong>doing</strong> her homework.</li></ul><p><strong>3. Động từ theo sau bởi cả to-V và V-ing (khác nghĩa):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Remember + to-V:</strong> nhớ phải làm gì (chưa làm)<br>Remember to lock the door. (nhớ khóa cửa nhé)</li><li><strong>Remember + V-ing:</strong> nhớ đã làm gì (đã làm rồi)<br>I remember locking the door. (tôi nhớ là đã khóa cửa)</li><li><strong>Forget + to-V:</strong> quên làm gì (chưa làm)<br>I forgot to call her.</li><li><strong>Forget + V-ing:</strong> quên đã làm gì (đã làm rồi)<br>I'll never forget meeting you.</li><li><strong>Stop + to-V:</strong> dừng lại để làm gì<br>He stopped to rest. (dừng lại để nghỉ)</li><li><strong>Stop + V-ing:</strong> dừng việc đang làm<br>He stopped smoking. (ngừng hút thuốc)</li><li><strong>Try + to-V:</strong> cố gắng làm gì<br>Try to finish on time.</li><li><strong>Try + V-ing:</strong> thử làm gì<br>Try using this app.</li></ul><p><strong>4. Cấu trúc đặc biệt:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>It's + adj + to-V:</strong> It's important to study hard.</li><li><strong>S + be + adj + to-V:</strong> I'm happy to see you.</li><li><strong>S + V + O + to-V:</strong> She asked me to help her.</li><li><strong>Preposition + V-ing:</strong> I'm interested in learning English.</li></ul>"
+            },
+            {
+              "heading": "5. I. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Giới thiệu về các phát minh quan trọng và công nghệ hiện đại.</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về các thiết bị công nghệ</li><li>Thảo luận về phát minh yêu thích</li><li>Từ vựng về công nghệ và phát minh</li><li>Chia sẻ kinh nghiệm sử dụng công nghệ</li></ul>"
+            },
+            {
+              "heading": "6. II. Language",
+              "content": "<p><strong>A. Pronunciation: Stress in three-syllable nouns</strong></p><p>Luyện phát âm trọng âm của danh từ có 3 âm tiết</p><p><strong>B. Vocabulary:</strong> Inventions and technology</p><ul class='list-disc pl-5 space-y-2'><li>Words related to inventions</li><li>Modern technology and devices</li><li>Inventors and innovations</li><li>Impact of technology on life</li></ul><p><strong>C. Grammar:</strong> Present Perfect tense, V-ing and to-V</p>"
+            },
+            {
+              "heading": "7. III. Reading",
+              "content": "<p><strong>Chủ đề:</strong> Great Inventions - How technology has changed our lives</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu văn bản về các phát minh quan trọng</li><li>Tìm thông tin chi tiết về công nghệ</li><li>Hiểu tác động của phát minh đến cuộc sống</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li></ul><p><strong>Nội dung:</strong> Bài đọc giới thiệu về các phát minh vĩ đại như máy tính, internet, smartphone và cách chúng đã thay đổi cách chúng ta sống, làm việc và giao tiếp.</p>"
+            },
+            {
+              "heading": "8. IV. Speaking",
+              "content": "<p><strong>Chủ đề:</strong> Talking about inventions and their benefits</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả các phát minh và công dụng</li><li>Nói về lợi ích của công nghệ</li><li>Thảo luận về phát minh yêu thích</li><li>So sánh các thiết bị công nghệ</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>This invention has changed...</li><li>I think the most important invention is...</li><li>It helps us (to)...</li><li>Thanks to this device, we can...</li><li>I've been using... for...</li></ul>"
+            },
+            {
+              "heading": "9. V. Listening",
+              "content": "<p><strong>Chủ đề:</strong> An interview about a famous inventor</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu thông tin về nhà phát minh</li><li>Điền thông tin còn thiếu về phát minh</li><li>Trả lời câu hỏi chi tiết về công nghệ</li><li>Ghi chú các ý quan trọng</li></ul>"
+            },
+            {
+              "heading": "10. VI. Writing",
+              "content": "<p><strong>Chủ đề:</strong> Writing about an important invention</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đoạn văn về một phát minh quan trọng</li><li>Sử dụng Present Perfect để nói về tác động</li><li>Sử dụng to-V và V-ing phù hợp</li><li>Mô tả lợi ích và ứng dụng</li></ul><p><strong>Cấu trúc bài viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Introduction: Giới thiệu phát minh</li><li>Body: Mô tả công dụng và lợi ích, sử dụng Present Perfect</li><li>Conclusion: Đánh giá tầm quan trọng</li></ul>"
+            },
+            {
+              "heading": "11. VII. Communication and Culture / CLIL",
+              "content": "<p><strong>Communication:</strong> Discussing the impact of technology</p><p><strong>Culture:</strong> Inventions around the world</p><ul class='list-disc pl-5 space-y-2'><li>So sánh phát minh của các nước khác nhau</li><li>Tìm hiểu về các nhà phát minh nổi tiếng</li><li>Thảo luận về vai trò của công nghệ trong xã hội</li><li>Các phát minh của Việt Nam</li></ul><p><strong>CLIL (Science & Technology):</strong> How inventions work</p>"
+            },
+            {
+              "heading": "12. VIII. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Vocabulary: Inventions, technology, devices</li><li>Pronunciation: Stress in three-syllable nouns</li><li>Grammar: Present Perfect, V-ing and to-V</li><li>Skills: Reading, Speaking, Listening, Writing</li></ul><p><strong>Self-assessment:</strong> Đánh giá khả năng sử dụng từ vựng và ngữ pháp đã học</p>"
+            },
+            {
+              "heading": "13. IX. Project",
+              "content": "<p><strong>Đề tài:</strong> An Invention That Changed the World</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghiên cứu về một phát minh quan trọng</li><li>Tìm hiểu về nhà phát minh và quá trình phát minh</li><li>Phân tích tác động của phát minh đến cuộc sống</li><li>Tạo poster hoặc presentation về phát minh</li><li>Trình bày và giải thích tầm quan trọng của phát minh</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Type 1: Usage of Present Perfect",
+            "method": "<p>Complete sentences with the correct form of the verb in present perfect.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Technology has changed our lives dramatically over the past few decades. One of the most important inventions is the smartphone. Since its introduction, the smartphone has become an essential device for communication, entertainment, and work.\n\nSmartphones are portable computers that fit in your pocket. They have revolutionized the way we access information and connect with others. People have used smartphones to take photos, browse the internet, play games, and even control smart home devices. The invention of smartphones has made our lives more convenient and efficient.\n\nHowever, some experts worry about smartphone addiction. Many people spend too much time on their devices and have become dependent on them. Despite these concerns, smartphones continue to evolve with new features like artificial intelligence, better cameras, and faster processors. Technology companies have invested billions of dollars in research to make smartphones even more powerful and useful.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Smartphones are expensive devices",
+                  "Smartphones have changed our lives significantly",
+                  "Smartphones are only for entertainment",
+                  "Smartphones are bad for health"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về cách smartphone đã thay đổi cuộc sống của chúng ta một cách đáng kể."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, smartphones can be used for ______.",
+                "options": [
+                  "communication only",
+                  "entertainment only",
+                  "communication, entertainment, and work",
+                  "playing games only"
+                ],
+                "correct": 2,
+                "explanation": "Đoạn văn đề cập smartphone được dùng cho giao tiếp, giải trí và công việc."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'portable' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "heavy and large",
+                  "easy to carry",
+                  "difficult to use",
+                  "expensive"
+                ],
+                "correct": 1,
+                "explanation": "Portable = easy to carry (dễ mang theo)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What concern do experts have about smartphones?",
+                "options": [
+                  "They are too expensive",
+                  "They cause addiction",
+                  "They are too complicated",
+                  "They break easily"
+                ],
+                "correct": 1,
+                "explanation": "Các chuyên gia lo ngại về việc nghiện smartphone."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, technology companies have ______.",
+                "options": [
+                  "stopped making smartphones",
+                  "invested in smartphone research",
+                  "reduced smartphone prices",
+                  "given up on new features"
+                ],
+                "correct": 1,
+                "explanation": "Các công ty công nghệ đã đầu tư hàng tỷ đô la vào nghiên cứu smartphone."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "The ______ is one of the most important inventions in human history.",
+            "options": ["wheel", "pen", "paper", "computer"],
+            "correct": 3,
+            "explanation": "Máy tính (computer) là một trong những phát minh quan trọng nhất."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "I ______ this smartphone for two years.",
+            "options": ["had", "have had", "am having", "has had"],
+            "correct": 1,
+            "explanation": "Dấu hiệu 'for two years' -> dùng hiện tại hoàn thành."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "Laptops are ______; you can carry them everywhere.",
+            "options": ["heavy", "portable", "fixed", "broken"],
+            "correct": 1,
+            "explanation": "Portable: có thể mang đi được."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "She ______ to many foreign countries since she was young.",
+            "options": ["has been", "was", "is", "have been"],
+            "correct": 0,
+            "explanation": "Dấu hiệu 'since' -> dùng hiện tại hoàn thành (She đi với 'has')."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "This ______ helps us connect to the internet quickly.",
+            "options": ["device", "inventor", "experiment", "discovery"],
+            "correct": 0,
+            "explanation": "Device: thiết bị."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "We ______ any experiments today.",
+            "options": ["haven't done", "didn't do", "don't do", "hasn't done"],
+            "correct": 0,
+            "explanation": "Diễn tả hành động chưa xảy ra tính đến thời điểm hiện tại."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "Modern ______ has changed the way we live and work.",
+            "options": ["technology", "technological", "technician", "technique"],
+            "correct": 0,
+            "explanation": "Technology: công nghệ (danh từ làm chủ ngữ)."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "______ you ever ______ a robot?",
+            "options": ["Did - see", "Have - seen", "Has - seen", "Do - see"],
+            "correct": 1,
+            "explanation": "Hỏi về trải nghiệm (Have you ever + V3?)."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "Smartphones are used for ______ and entertainment.",
+            "options": ["communicate", "communication", "communicating", "communicative"],
+            "correct": 1,
+            "explanation": "Sau giới từ 'for' cần một danh từ (communication)."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "They ______ the new software yet.",
+            "options": ["haven't installed", "didn't install", "hasn't installed", "don't install"],
+            "correct": 0,
+            "explanation": "Dấu hiệu 'yet' dùng trong câu phủ định của hiện tại hoàn thành."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Present Perfect is used for actions that started in the past and continue to the present.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Hiện tại hoàn thành dùng cho hành động bắt đầu trong quá khứ và kéo dài đến hiện tại."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "We use 'since' with a period of time and 'for' with a point in time.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. 'Since' dùng với mốc thời gian (since 2020), 'for' dùng với khoảng thời gian (for 2 years)."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Smartphones are portable devices that can be carried easily.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Smartphone là thiết bị di động có thể mang theo dễ dàng."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call a new thing that someone has made or designed? (one word)",
+            "correct": "invention",
+            "explanation": "Invention: phát minh - một thứ mới mà ai đó đã tạo ra hoặc thiết kế."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: I ______ never ______ to Japan. (have been)",
+            "correct": "have been",
+            "explanation": "Present Perfect với 'never' để nói về trải nghiệm: have never been."
+          }
+        ]
+      }
+    }
+  ]
+}

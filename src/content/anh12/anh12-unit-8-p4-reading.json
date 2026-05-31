@@ -1,0 +1,168 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-8-p4",
+  "name": "Part 4: Reading",
+  "slug": "p4-reading",
+  "description": "Đọc hiểu về các loài có nguy cơ tuyệt chủng",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Reading: Endangered Species and Conservation",
+      "sections": [
+        {
+          "heading": "Reading Skills",
+          "content": "<p><strong>Chủ đề:</strong> Endangered species and conservation efforts</p><p><strong>Kỹ năng đọc hiểu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Skimming:</strong> Đọc lướt để nắm ý chính</li><li><strong>Scanning:</strong> Tìm thông tin cụ thể</li><li><strong>Guessing meaning from context:</strong> Đoán nghĩa từ ngữ cảnh</li><li><strong>Identifying main ideas:</strong> Xác định ý chính</li><li><strong>Understanding references:</strong> Hiểu từ thay thế</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "reading-ex1",
+        "type": "reading",
+        "passage": "Wildlife Conservation: A Global Challenge\n\nWildlife conservation has become more urgent than ever before. Many species are disappearing faster than scientists can study them. If we don't take immediate action, we will lose countless species forever.\n\nThe main threats to wildlife are habitat loss, poaching, and climate change. Deforestation destroys the homes of millions of animals. The more forests we cut down, the fewer places animals have to live. Tigers, for example, are more endangered now than they were 50 years ago because their forest habitats have shrunk dramatically. Unless we stop destroying habitats, many species will become extinct within our lifetime.\n\nPoaching is another serious problem. Illegal hunters kill elephants for ivory, rhinos for horns, and tigers for their skins. The demand for wildlife products is as high as it has ever been. If governments enforced stricter laws and punished poachers more severely, fewer animals would be killed.\n\nClimate change affects wildlife in ways that are not always obvious. As temperatures rise, animals must adapt or move to cooler areas. However, many species cannot move fast enough. The faster the climate changes, the harder it is for species to survive.\n\nDespite these challenges, there are success stories. Giant pandas, once critically endangered, have recovered thanks to intensive conservation efforts in China. This shows that if we invest in conservation and protect habitats, species can recover. As long as we work together, there is hope for wildlife.",
+        "questions": [
+          {
+            "id": "r1-q1",
+            "question": "What is the main idea of the passage?",
+            "options": [
+              "All animals are safe",
+              "Wildlife conservation is urgent and requires action",
+              "Climate change doesn't affect animals",
+              "Poaching has stopped"
+            ],
+            "correct": 1,
+            "explanation": "Đoạn văn nói về sự cấp thiết của bảo tồn động vật hoang dã."
+          },
+          {
+            "id": "r1-q2",
+            "question": "What is the main cause of habitat loss?",
+            "options": ["Climate change", "Deforestation", "Pollution", "Overfishing"],
+            "correct": 1,
+            "explanation": "Phá rừng là nguyên nhân chính gây mất môi trường sống."
+          },
+          {
+            "id": "r1-q3",
+            "question": "The word 'shrunk' means:",
+            "options": ["expanded", "decreased in size", "improved", "stayed the same"],
+            "correct": 1,
+            "explanation": "Shrunk = decreased in size (thu nhỏ)."
+          },
+          {
+            "id": "r1-q4",
+            "question": "What conservation success is mentioned?",
+            "options": ["Tigers", "Giant pandas", "Elephants", "Rhinos"],
+            "correct": 1,
+            "explanation": "Gấu trúc khổng lồ là ví dụ thành công."
+          },
+          {
+            "id": "r1-q5",
+            "question": "How can we help conservation?",
+            "options": [
+              "By doing nothing",
+              "By investing and protecting habitats",
+              "By buying wildlife products",
+              "By ignoring the problem"
+            ],
+            "correct": 1,
+            "explanation": "Chúng ta có thể giúp bằng cách đầu tư và bảo vệ môi trường sống."
+          }
+        ]
+      },
+      {
+        "id": "mcq1",
+        "type": "mcq",
+        "question": "What does 'endangered' mean?",
+        "options": ["Safe", "At risk of extinction", "Extinct", "Common"],
+        "correct": 1,
+        "explanation": "Endangered = at risk of extinction (có nguy cơ tuyệt chủng)."
+      },
+      {
+        "id": "mcq2",
+        "type": "mcq",
+        "question": "What is 'poaching'?",
+        "options": ["Legal hunting", "Illegal hunting", "Protecting animals", "Feeding animals"],
+        "correct": 1,
+        "explanation": "Poaching là săn bắt trái phép."
+      },
+      {
+        "id": "mcq3",
+        "type": "mcq",
+        "question": "What is a 'habitat'?",
+        "options": ["A zoo", "Natural living environment", "A pet shop", "A farm"],
+        "correct": 1,
+        "explanation": "Habitat là môi trường sống tự nhiên."
+      },
+      {
+        "id": "mcq4",
+        "type": "mcq",
+        "question": "According to the passage, wildlife conservation is:",
+        "options": ["Not important", "Urgent and necessary", "Impossible", "Easy"],
+        "correct": 1,
+        "explanation": "Bảo tồn động vật hoang dã là cấp thiết và cần thiết."
+      },
+      {
+        "id": "mcq5",
+        "type": "mcq",
+        "question": "What should we do to save species?",
+        "options": [
+          "Ignore them",
+          "Protect habitats and enforce laws",
+          "Hunt more",
+          "Do nothing"
+        ],
+        "correct": 1,
+        "explanation": "Chúng ta nên bảo vệ môi trường sống và thực thi luật."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Based on the passage, decide True or False:",
+        "options": [
+          "Habitat loss threatens wildlife.",
+          "All species are safe now.",
+          "Poaching is a serious problem.",
+          "Conservation never works."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Mất môi trường sống đe dọa động vật. b) False - Nhiều loài có nguy cơ. c) True - Săn bắt trái phép nghiêm trọng. d) False - Bảo tồn có thể thành công."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True or False:",
+        "options": [
+          "Tigers are more endangered than 50 years ago.",
+          "Climate change doesn't affect wildlife.",
+          "Giant pandas have recovered.",
+          "We should continue destroying habitats."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Hổ có nguy cơ hơn. b) False - Biến đổi khí hậu ảnh hưởng. c) True - Gấu trúc đã phục hồi. d) False - Không nên phá hủy."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: Animals at risk of extinction are _____. (one word)",
+        "correct": "endangered",
+        "explanation": "Endangered - có nguy cơ tuyệt chủng."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "What is the Vietnamese meaning of 'poaching'?",
+        "correct": "săn bắt trái phép",
+        "explanation": "Poaching nghĩa là săn bắt trái phép."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: The natural living environment is called _____. (one word)",
+        "correct": "habitat",
+        "explanation": "Habitat - môi trường sống tự nhiên."
+      }
+    ]
+  }
+}

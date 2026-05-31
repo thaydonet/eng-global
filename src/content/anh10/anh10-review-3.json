@@ -1,0 +1,405 @@
+{
+  "subject": "Tiếng Anh 10",
+  "subject_id": 40,
+  "lessons": [
+    {
+      "id": "anh10-review-3",
+      "name": "Review 3 (Units 6 - 8)",
+      "slug": "review-1-units-6-8",
+      "chapter": "Review 3",
+      "chapter_id": "A10",
+      "lesson_id": 11,
+      "description": "Ôn tập từ vựng và ngữ pháp từ Unit 6, 7 và 8 (Tiếng Anh 10 - Global Success).",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=2573&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-3-mixed",
+          "name": "Mixed Review",
+          "slug": "mixed-review",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 3: Units 6-8",
+          "sections": [
+            {
+              "heading": "Summary of Units 6-8",
+              "content": "<p><strong>Unit 6:</strong> Gender equality, passive voice with modals.</p><p><strong>Unit 7:</strong> International organisations, comparative adjectives.</p><p><strong>Unit 8:</strong> New ways to learn, relative clauses.</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Mixed Exercise",
+            "method": "<p>Review all grammar points and vocabulary from previous units.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Gender equality means that men and women have equal rights, responsibilities, and opportunities in all areas of life. Despite significant progress in recent decades, gender inequality still exists in many parts of the world. Women often face discrimination in education, employment, and leadership positions.\n\nMany international organizations work to promote gender equality. They support policies that ensure equal pay for equal work, protect women from violence, and provide equal access to education. When societies achieve gender equality, everyone benefits. Studies show that countries with greater gender equality have stronger economies and healthier populations.\n\nEducation plays a crucial role in achieving gender equality. When girls receive quality education, they can pursue better careers and contribute more to their communities. Changing traditional attitudes and stereotypes is also essential for creating a truly equal society.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Gender equality has been fully achieved",
+                  "Gender equality is important and requires continued effort",
+                  "Only women benefit from gender equality",
+                  "Gender equality is impossible"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về tầm quan trọng của bình đẳng giới và cần nỗ lực tiếp tục."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, what do international organizations support?",
+                "options": [
+                  "Gender discrimination",
+                  "Policies for equal pay and education access",
+                  "Traditional stereotypes",
+                  "Limiting women's rights"
+                ],
+                "correct": 1,
+                "explanation": "Các tổ chức quốc tế hỗ trợ chính sách về lương bình đẳng và tiếp cận giáo dục."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'discrimination' in paragraph 1 is closest in meaning to ______.",
+                "options": [
+                  "equal treatment",
+                  "unfair treatment",
+                  "respect",
+                  "opportunity"
+                ],
+                "correct": 1,
+                "explanation": "Discrimination = unfair treatment (phân biệt đối xử, đối xử không công bằng)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What happens when societies achieve gender equality?",
+                "options": [
+                  "Economies become weaker",
+                  "Everyone benefits",
+                  "Only men benefit",
+                  "Nothing changes"
+                ],
+                "correct": 1,
+                "explanation": "Khi đạt được bình đẳng giới, mọi người đều được lợi."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, what is essential for creating equality?",
+                "options": [
+                  "Maintaining traditional attitudes",
+                  "Limiting education",
+                  "Changing stereotypes and providing education",
+                  "Ignoring the problem"
+                ],
+                "correct": 2,
+                "explanation": "Thay đổi định kiến và cung cấp giáo dục là thiết yếu cho bình đẳng."
+              }
+            ]
+          },
+          {
+            "id": "reading2",
+            "type": "reading",
+            "passage": "Blended learning combines traditional classroom instruction with online education, creating a more flexible and effective learning experience. Students can access course materials, watch video lectures, and complete assignments online, while still attending face-to-face classes for discussions and hands-on activities.\n\nThis approach offers several advantages. Students who learn at different paces can review materials as many times as needed. Teachers can use class time more effectively for interactive activities rather than just lecturing. Digital tools also make learning more engaging through multimedia content and interactive exercises.\n\nHowever, blended learning requires reliable internet access and digital devices, which not all students have. Teachers also need training to use technology effectively. Despite these challenges, many educators believe that blended learning represents the future of education.",
+            "questions": [
+              {
+                "id": "reading2-q1",
+                "question": "What is blended learning?",
+                "options": [
+                  "Only online education",
+                  "Only traditional classroom teaching",
+                  "A combination of classroom and online learning",
+                  "Learning without teachers"
+                ],
+                "correct": 2,
+                "explanation": "Blended learning kết hợp giảng dạy truyền thống và trực tuyến."
+              },
+              {
+                "id": "reading2-q2",
+                "question": "According to the passage, what advantage does blended learning offer?",
+                "options": [
+                  "Students never need to attend class",
+                  "Students can review materials multiple times",
+                  "Teachers don't need to prepare lessons",
+                  "It requires no technology"
+                ],
+                "correct": 1,
+                "explanation": "Học sinh có thể xem lại tài liệu nhiều lần."
+              },
+              {
+                "id": "reading2-q3",
+                "question": "The word 'flexible' in paragraph 1 is closest in meaning to ______.",
+                "options": [
+                  "rigid",
+                  "adaptable",
+                  "difficult",
+                  "expensive"
+                ],
+                "correct": 1,
+                "explanation": "Flexible = adaptable (linh hoạt, có thể thích nghi)."
+              },
+              {
+                "id": "reading2-q4",
+                "question": "What challenge does blended learning face?",
+                "options": [
+                  "It's too easy",
+                  "Not all students have internet access and devices",
+                  "Teachers know too much about technology",
+                  "Students learn too quickly"
+                ],
+                "correct": 1,
+                "explanation": "Không phải tất cả học sinh đều có internet và thiết bị."
+              },
+              {
+                "id": "reading2-q5",
+                "question": "How can teachers use class time in blended learning?",
+                "options": [
+                  "Only for lecturing",
+                  "For interactive activities and discussions",
+                  "For sleeping",
+                  "For testing only"
+                ],
+                "correct": 1,
+                "explanation": "Giáo viên có thể dùng thời gian lớp cho hoạt động tương tác và thảo luận."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "Education ______ to all children, regardless of gender.",
+            "options": ["must provide", "must be provided", "should provide", "will provide"],
+            "correct": 1,
+            "explanation": "Bị động với động từ khuyết thiếu (must be provided)."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "This international ______ helps countries develop their economies.",
+            "options": ["organize", "organization", "organized", "organizer"],
+            "correct": 1,
+            "explanation": "International organization: tổ chức quốc tế."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "The city is ______ than the countryside.",
+            "options": ["noisier", "noisy", "noisiest", "more noisy"],
+            "correct": 0,
+            "explanation": "So sánh hơn của tính từ ngắn kết thúc bằng 'y' (noisier)."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "The students ______ are participating in the contest are very talented.",
+            "options": ["which", "who", "whose", "whom"],
+            "correct": 1,
+            "explanation": "Mệnh đề quan hệ chỉ người (who)."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "We should ______ gender discrimination in our society.",
+            "options": ["encourage", "eliminate", "support", "increase"],
+            "correct": 1,
+            "explanation": "Eliminate: loại bỏ."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "This is the most interesting book ______ I have ever read.",
+            "options": ["who", "that", "whose", "whom"],
+            "correct": 1,
+            "explanation": "Dùng 'that' trong mệnh đề quan hệ xác định sau so sánh nhất."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "Joining international organizations is ______ for developing countries.",
+            "options": ["benefit", "beneficial", "beneficially", "benefiting"],
+            "correct": 1,
+            "explanation": "Sau 'is' cần tính từ (beneficial)."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "The homework ______ the teacher gave us is quite difficult.",
+            "options": ["who", "which", "whose", "whom"],
+            "correct": 1,
+            "explanation": "Mệnh đề quan hệ chỉ vật (which)."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "Equality ______ between men and women in the workplace.",
+            "options": ["should achieve", "should be achieved", "must achieve", "will achieve"],
+            "correct": 1,
+            "explanation": "Bị động (nên được đạt được)."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Is blended learning ______ than traditional learning?",
+            "options": ["effective", "more effective", "most effective", "as effective"],
+            "correct": 1,
+            "explanation": "So sánh hơn của tính từ dài."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "The girl ______ father is a doctor studies very hard.",
+            "options": ["who", "which", "whose", "whom"],
+            "correct": 2,
+            "explanation": "Dùng 'whose' để chỉ sở hữu."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "Viet Nam is ______ than many other countries in the region.",
+            "options": ["develop", "more developed", "most developed", "developing"],
+            "correct": 1,
+            "explanation": "So sánh hơn của tính từ dài."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "New policies ______ to promote gender equality.",
+            "options": ["should introduce", "should be introduced", "must introduce", "will introduce"],
+            "correct": 1,
+            "explanation": "Bị động với modal verb."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "The device ______ you bought yesterday is very useful.",
+            "options": ["who", "that", "whose", "whom"],
+            "correct": 1,
+            "explanation": "Mệnh đề quan hệ chỉ vật (that/which)."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "Online learning is becoming ______ popular.",
+            "options": ["increase", "increasing", "increasingly", "increased"],
+            "correct": 2,
+            "explanation": "Cần trạng từ (increasingly) để bổ nghĩa cho tính từ 'popular'."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Passive voice with modals uses: modal + be + V3/ed.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Bị động với modal: modal + be + V3/ed."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "Comparative adjectives are formed by adding '-er' to all adjectives.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Tính từ dài dùng 'more + adjective', không thêm '-er'."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "'Who' is used for people and 'which' is used for things in relative clauses.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. 'Who' dùng cho người, 'which' dùng cho vật."
+          },
+          {
+            "id": "msq4",
+            "type": "msq",
+            "question_text": "Gender equality only benefits women.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Bình đẳng giới có lợi cho tất cả mọi người trong xã hội."
+          },
+          {
+            "id": "msq5",
+            "type": "msq",
+            "question_text": "Blended learning combines online and traditional classroom teaching.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Blended learning kết hợp học trực tuyến và truyền thống."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call unfair treatment based on gender, race, or age? (one word)",
+            "correct": "discrimination",
+            "explanation": "Discrimination: sự phân biệt đối xử."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: This book is ______ than that one. (more interesting)",
+            "correct": "more interesting",
+            "explanation": "So sánh hơn của tính từ dài: more + adjective."
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question_text": "What relative pronoun shows possession? (one word)",
+            "correct": "whose",
+            "explanation": "Whose: đại từ quan hệ chỉ sở hữu."
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question_text": "Complete: The report ______ ______ published tomorrow. (will be)",
+            "correct": "will be",
+            "explanation": "Passive voice in future: will be + V3/ed."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about why gender equality is important in modern society.",
+            "sample_answer": "Gender equality is essential for creating a fair and prosperous society. When men and women have equal rights and opportunities, everyone can contribute their talents and skills fully. Gender equality in education ensures that all children can develop their potential regardless of their gender. In the workplace, equal pay and opportunities lead to better economic growth and innovation. Moreover, gender equality reduces violence and discrimination, creating safer communities. Countries that promote gender equality tend to have stronger economies and healthier populations. Achieving true equality requires changing traditional attitudes, implementing fair policies, and ensuring equal access to education and employment. For these reasons, gender equality should be a priority for all societies.",
+            "explanation": "Bài viết cần giải thích tại sao bình đẳng giới quan trọng với ví dụ cụ thể."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about the benefits of Viet Nam joining international organizations.",
+            "sample_answer": "Viet Nam's membership in international organizations has brought significant benefits to the country. Since joining the WTO in 2007, Viet Nam has expanded its international trade and attracted more foreign investment. This has created jobs and improved living standards for many Vietnamese people. Membership in ASEAN has strengthened regional cooperation and opened up new markets for Vietnamese products. Through the United Nations, Viet Nam has contributed to global peacekeeping efforts and gained international respect. These organizations also provide opportunities for Vietnamese students and professionals to learn from other countries. Overall, participating in international organizations has helped Viet Nam integrate into the global community and accelerate its economic development.",
+            "explanation": "Bài viết cần nêu các lợi ích cụ thể của việc tham gia tổ chức quốc tế."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) comparing traditional learning and blended learning. Which do you prefer?",
+            "sample_answer": "Traditional learning and blended learning each have their advantages. Traditional classroom learning allows direct interaction with teachers and classmates, which helps build social skills and provides immediate feedback. However, blended learning is more flexible than traditional learning because students can access materials anytime and learn at their own pace. Blended learning also uses technology to make lessons more engaging through videos and interactive exercises. Personally, I prefer blended learning because it combines the best of both approaches. I can review difficult concepts online while still enjoying face-to-face discussions in class. This flexibility helps me manage my time better and understand lessons more deeply.",
+            "explanation": "Bài viết cần so sánh hai phương pháp học và nêu sở thích cá nhân."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about a person who has inspired you. Use relative clauses to describe them.",
+            "sample_answer": "The person who has inspired me most is my English teacher, Ms. Lan. She is a teacher who always encourages her students to pursue their dreams. Ms. Lan, whose teaching methods are very creative, makes every lesson interesting and engaging. She uses games and activities that help us learn English naturally. The advice that she gave me about studying abroad changed my perspective on education. She is someone whose dedication and passion for teaching motivate me to work harder. Ms. Lan, who has been teaching for 15 years, treats every student with respect and kindness. Thanks to her inspiration, I have decided to become a teacher in the future.",
+            "explanation": "Bài viết cần sử dụng mệnh đề quan hệ để mô tả người truyền cảm hứng."
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about what should be done to achieve gender equality in your country.",
+            "sample_answer": "Several actions should be taken to achieve gender equality in Viet Nam. First, equal opportunities must be provided in education and employment. Girls should be encouraged to study science and technology, fields that are traditionally male-dominated. Second, laws against discrimination and violence should be strengthened and enforced effectively. Women's rights must be protected in all situations. Third, awareness campaigns should be organized to change traditional stereotypes about gender roles. Both men and women should be taught that household chores and childcare are shared responsibilities. Finally, more women should be supported to take leadership positions in government and business. These measures will help create a truly equal society where everyone can thrive.",
+            "explanation": "Bài viết cần đề xuất các hành động cụ thể để đạt được bình đẳng giới."
+          }
+        ]
+      }
+    }
+  ]
+}

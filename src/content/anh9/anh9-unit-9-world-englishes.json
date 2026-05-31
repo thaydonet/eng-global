@@ -1,0 +1,309 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-unit-9-world-englishes",
+      "name": "Unit 9: World Englishes",
+      "slug": "unit-9-world-englishes",
+      "chapter": "Unit 9: World Englishes",
+      "chapter_id": "A9",
+      "lesson_id": 9,
+      "description": "Learn about World Englishes with defining relative clauses.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1526666923127-b2970f64b422?q=80&w=2672&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-9",
+          "name": "World Englishes Vocabulary",
+          "slug": "world-englishes-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 9: World Englishes",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>English varieties:</strong> British English, American English, Australian English, Indian English, Singapore English, accent, dialect, pronunciation, vocabulary, spelling</p><p><strong>Language learning:</strong> fluent, fluency, native speaker, non-native speaker, bilingual, multilingual, communicate, understand, practice, improve</p><p><strong>Language skills:</strong> speaking, listening, reading, writing, grammar, vocabulary, pronunciation, intonation, stress</p><p><strong>Global English:</strong> international, global, worldwide, universal, lingua franca, official language, second language, foreign language</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng",
+              "content": "<p>Practice using vocabulary in context about English varieties, language learning, and global communication.</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>Defining Relative Clauses (Mệnh đề quan hệ xác định)</h3><p><strong>A. Khái niệm:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Mệnh đề quan hệ xác định:</strong> cung cấp thông tin cần thiết để xác định danh từ</li><li>Không có dấu phẩy</li><li>Không thể bỏ mệnh đề này</li><li>Ex: The book <strong>that I bought</strong> is interesting. (xác định cuốn sách nào)</li></ul><p><strong>B. So sánh với mệnh đề không xác định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Xác định (Defining):</strong> không có dấu phẩy, cần thiết</li><li>Ex: The student <strong>who studies hard</strong> will pass. (học sinh nào?)</li><li><strong>Không xác định (Non-defining):</strong> có dấu phẩy, bổ sung thông tin</li><li>Ex: My brother, <strong>who lives in Hanoi</strong>, is a teacher. (đã biết anh trai nào)</li></ul><p><strong>C. Đại từ quan hệ trong mệnh đề xác định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>who/that:</strong> người (chủ ngữ)</li><li>Ex: The man <strong>who/that</strong> speaks English well is a teacher.</li><li><strong>whom/that:</strong> người (tân ngữ) - có thể bỏ</li><li>Ex: The woman (whom/that) I met speaks three languages.</li><li><strong>which/that:</strong> vật (chủ ngữ hoặc tân ngữ)</li><li>Ex: The book <strong>which/that</strong> teaches English is useful.</li><li>Ex: The book (which/that) I read was interesting.</li><li><strong>whose:</strong> sở hữu</li><li>Ex: The student <strong>whose</strong> English is good will win.</li><li><strong>where:</strong> nơi chốn</li><li>Ex: The country <strong>where</strong> English is spoken is the UK.</li><li><strong>when:</strong> thời gian</li><li>Ex: The time <strong>when</strong> we learn English is important.</li></ul><p><strong>D. Khi nào có thể bỏ đại từ quan hệ:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Có thể bỏ khi làm tân ngữ:</strong></li><li>Ex: The book (which/that) I read was good.</li><li>Ex: The woman (whom/that) I met was friendly.</li><li><strong>Không thể bỏ khi làm chủ ngữ:</strong></li><li>Ex: The man <strong>who/that</strong> speaks English is a teacher. (không thể bỏ)</li></ul><p><strong>E. Rút gọn mệnh đề quan hệ:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>1. Dùng V-ing (chủ động):</strong></li><li>Ex: The man <strong>who speaks</strong> English → The man <strong>speaking</strong> English</li><li><strong>2. Dùng V3/ed (bị động):</strong></li><li>Ex: The book <strong>which was written</strong> by him → The book <strong>written</strong> by him</li><li><strong>3. Dùng to-infinitive:</strong></li><li>Ex: The first person <strong>who came</strong> → The first person <strong>to come</strong></li></ul>"
+            },
+            {
+              "heading": "4-11. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Mệnh đề quan hệ xác định với Who/That",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>who/that cho người</li><li>Không có dấu phẩy</li><li>Cần thiết để xác định</li></ul>",
+            "examples": [
+              {
+                "question": "The man ______ speaks English well is a teacher.",
+                "solution": "The man <strong>who/that</strong> speaks English well is a teacher.",
+                "explanation": "who/that thay thế cho người (chủ ngữ), mệnh đề xác định"
+              },
+              {
+                "question": "The student ______ studies hard will pass.",
+                "solution": "The student <strong>who/that</strong> studies hard will pass.",
+                "explanation": "who/that (chủ ngữ), xác định học sinh nào"
+              },
+              {
+                "question": "The woman ______ I met speaks three languages.",
+                "solution": "The woman <strong>(whom/that)</strong> I met speaks three languages.",
+                "explanation": "whom/that (tân ngữ, có thể bỏ)"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Mệnh đề quan hệ xác định với Which/That",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>which/that cho vật</li><li>Không có dấu phẩy</li><li>Xác định vật nào</li></ul>",
+            "examples": [
+              {
+                "question": "The book ______ teaches English is useful.",
+                "solution": "The book <strong>which/that</strong> teaches English is useful.",
+                "explanation": "which/that (chủ ngữ), xác định cuốn sách nào"
+              },
+              {
+                "question": "The book ______ I read was interesting.",
+                "solution": "The book <strong>(which/that)</strong> I read was interesting.",
+                "explanation": "which/that (tân ngữ, có thể bỏ)"
+              },
+              {
+                "question": "The language ______ is spoken worldwide is English.",
+                "solution": "The language <strong>which/that</strong> is spoken worldwide is English.",
+                "explanation": "which/that (chủ ngữ), xác định ngôn ngữ nào"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Rút gọn mệnh đề quan hệ",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>V-ing: chủ động</li><li>V3/ed: bị động</li><li>to-infinitive: the first, the only, the last</li></ul>",
+            "examples": [
+              {
+                "question": "The man who speaks English → The man ______.",
+                "solution": "The man <strong>speaking</strong> English.",
+                "explanation": "Rút gọn: who speaks → speaking (chủ động)"
+              },
+              {
+                "question": "The book which was written by him → The book ______.",
+                "solution": "The book <strong>written</strong> by him.",
+                "explanation": "Rút gọn: which was written → written (bị động)"
+              },
+              {
+                "question": "The first person who came → The first person ______.",
+                "solution": "The first person <strong>to come</strong>.",
+                "explanation": "Rút gọn: who came → to come (sau the first)"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Phân biệt xác định và không xác định",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Xác định: không dấu phẩy, cần thiết</li><li>Không xác định: có dấu phẩy, bổ sung</li></ul>",
+            "examples": [
+              {
+                "question": "The student who studies hard will pass. (xác định hay không xác định?)",
+                "solution": "<strong>Xác định</strong> (Defining) - không có dấu phẩy, cần thiết để biết học sinh nào.",
+                "explanation": "Không có dấu phẩy → mệnh đề xác định"
+              },
+              {
+                "question": "My brother, who lives in Hanoi, is a teacher. (xác định hay không xác định?)",
+                "solution": "<strong>Không xác định</strong> (Non-defining) - có dấu phẩy, bổ sung thông tin.",
+                "explanation": "Có dấu phẩy → mệnh đề không xác định"
+              },
+              {
+                "question": "The book that I bought is interesting. (có thể bỏ 'that' không?)",
+                "solution": "<strong>Có thể bỏ</strong> - vì 'that' làm tân ngữ. → The book I bought is interesting.",
+                "explanation": "'that' làm tân ngữ → có thể bỏ"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "The man ______ speaks English well is a teacher.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 0,
+            "explanation": "who thay thế cho người (chủ ngữ)"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "The book ______ teaches English is useful.",
+            "options": ["who", "which", "whose", "when"],
+            "correct": 1,
+            "explanation": "which thay thế cho vật (chủ ngữ)"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "The student ______ studies hard will pass.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 0,
+            "explanation": "who thay thế cho người (chủ ngữ)"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "The book ______ I read was interesting.",
+            "options": ["who", "which", "whose", "when"],
+            "correct": 1,
+            "explanation": "which thay thế cho vật (tân ngữ)"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "The woman ______ I met speaks three languages.",
+            "options": ["who", "whom", "which", "where"],
+            "correct": 1,
+            "explanation": "whom thay thế cho người (tân ngữ)"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "The country ______ English is spoken is the UK.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 3,
+            "explanation": "where = nơi chốn"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "The student ______ English is good will win.",
+            "options": ["who", "which", "whose", "where"],
+            "correct": 2,
+            "explanation": "whose = sở hữu"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "The man who speaks English → The man ______ English.",
+            "options": ["speak", "speaks", "speaking", "spoken"],
+            "correct": 2,
+            "explanation": "Rút gọn: who speaks → speaking"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "The book which was written by him → The book ______ by him.",
+            "options": ["write", "writes", "writing", "written"],
+            "correct": 3,
+            "explanation": "Rút gọn: which was written → written"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "The first person who came → The first person ______.",
+            "options": ["come", "comes", "coming", "to come"],
+            "correct": 3,
+            "explanation": "Rút gọn: who came → to come (sau the first)"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which are defining relative clauses? (Select all that apply)",
+            "options": ["The man who speaks English is a teacher.", "My brother, who lives in Hanoi, is a teacher.", "The book that I read was good.", "London, which is in England, is big."],
+            "correct": [0, 2],
+            "explanation": "Đúng: không có dấu phẩy (xác định). Sai: có dấu phẩy (không xác định)"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which relative pronouns can be omitted? (Select all that apply)",
+            "options": ["The man who speaks English. (who)", "The book which I read. (which)", "The woman whom I met. (whom)", "The man who is a teacher. (who)"],
+            "correct": [1, 2],
+            "explanation": "Có thể bỏ khi làm tân ngữ: which I read, whom I met. Không thể bỏ khi làm chủ ngữ: who speaks, who is"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which are correct reduced relative clauses? (Select all that apply)",
+            "options": ["The man speaking English", "The book written by him", "The first person to come", "The man speak English"],
+            "correct": [0, 1, 2],
+            "explanation": "Đúng: speaking (V-ing), written (V3), to come (to-V). Sai: speak (thiếu -ing)"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: The man ______ speaks English well is a teacher.",
+            "correct": "who / that / who/that",
+            "explanation": "who/that thay thế cho người (chủ ngữ)"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: The book ______ I read was interesting.",
+            "correct": "which / that / which/that / (which) / (that)",
+            "explanation": "which/that thay thế cho vật (tân ngữ, có thể bỏ)"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Reduce: The man who speaks English → The man ______.",
+            "correct": "speaking English",
+            "explanation": "Rút gọn: who speaks → speaking"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Reduce: The book which was written by him → The book ______.",
+            "correct": "written by him",
+            "explanation": "Rút gọn: which was written → written"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: man / The / who / speaks / English / well / is / teacher / a / . / book / The / which / teaches / English / is / useful / .",
+            "sample_answer": "The man who speaks English well is a teacher. The book which teaches English is useful.",
+            "explanation": "Sắp xếp: mệnh đề quan hệ xác định với who (người) và which (vật)"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Combine: The man is a teacher. The man speaks English well. → The man ______.",
+            "sample_answer": "The man who/that speaks English well is a teacher.",
+            "explanation": "Kết hợp: dùng who/that thay thế cho 'the man'"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Reduce: The student who studies hard will pass. → The student ______.",
+            "sample_answer": "The student studying hard will pass.",
+            "explanation": "Rút gọn: who studies → studying (V-ing chủ động)"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange and reduce: man / The / who / speaks / English / → / man / The / ______ / English / . / book / The / which / was / written / by / him / → / book / The / ______ / by / him / .",
+            "sample_answer": "The man who speaks English → The man speaking English. The book which was written by him → The book written by him.",
+            "explanation": "Rút gọn: who speaks → speaking; which was written → written"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Combine and reduce: The woman speaks three languages. The woman teaches English. I met the woman. → The woman ______ and ______ is ______.",
+            "sample_answer": "The woman (whom/that) I met, who speaks three languages and teaches English, is... / The woman speaking three languages and teaching English, whom I met, is...",
+            "explanation": "Kết hợp nhiều mệnh đề: whom I met (tân ngữ), who speaks (chủ ngữ), who teaches (chủ ngữ). Có thể rút gọn: speaking, teaching"
+          }
+        ]
+      }
+    }
+  ]
+}

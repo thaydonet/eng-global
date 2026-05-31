@@ -1,0 +1,309 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-unit-11-electronic-devices",
+      "name": "Unit 11: Electronic Devices",
+      "slug": "unit-11-electronic-devices",
+      "chapter": "Unit 11: Electronic Devices",
+      "chapter_id": "A9",
+      "lesson_id": 11,
+      "description": "Learn about electronic devices with suggest/advise/recommend + V-ing or clause with should.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1498049794561-7780e7231661?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-11",
+          "name": "Electronic Devices Vocabulary",
+          "slug": "electronic-devices-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 11: Electronic Devices",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Electronic devices:</strong> smartphone, tablet, laptop, computer, desktop, smartwatch, e-reader, headphones, earphones, speaker, camera, drone</p><p><strong>Features:</strong> screen, battery, charger, keyboard, mouse, touchscreen, wireless, Bluetooth, Wi-Fi, USB, memory, storage</p><p><strong>Actions:</strong> charge, download, upload, install, delete, update, connect, disconnect, turn on, turn off, restart, reset</p><p><strong>Problems:</strong> broken, damaged, crashed, frozen, slow, virus, malware, bug, error, glitch</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng",
+              "content": "<p>Practice using vocabulary in context about electronic devices, features, and troubleshooting.</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>Suggest / Advise / Recommend + V-ing hoặc mệnh đề với Should</h3><p><strong>A. Suggest / Advise / Recommend + V-ing:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + suggest/advise/recommend + V-ing</li><li>Ex: I <strong>suggest buying</strong> a new phone.</li><li>Ex: She <strong>advises studying</strong> hard.</li><li>Ex: They <strong>recommend visiting</strong> the museum.</li></ul><p><strong>B. Suggest / Advise / Recommend + (that) + S + should + V:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + suggest/advise/recommend + (that) + S + should + V</li><li>Ex: I <strong>suggest (that) you should buy</strong> a new phone.</li><li>Ex: She <strong>advises (that) we should study</strong> hard.</li><li>Ex: They <strong>recommend (that) he should visit</strong> the museum.</li></ul><p><strong>C. Suggest / Advise / Recommend + (that) + S + V (subjunctive):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Cấu trúc:</strong> S + suggest/advise/recommend + (that) + S + V (nguyên mẫu không 'to')</li><li>Ex: I <strong>suggest (that) you buy</strong> a new phone. (không có 'should')</li><li>Ex: She <strong>advises (that) we study</strong> hard.</li><li>Ex: They <strong>recommend (that) he visit</strong> the museum.</li><li><strong>Lưu ý:</strong> Cấu trúc này formal hơn, ít dùng trong giao tiếp hàng ngày</li></ul><p><strong>D. So sánh Suggest vs Advise vs Recommend:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Suggest:</strong> đề xuất, gợi ý (không mạnh)</li><li>Ex: I <strong>suggest</strong> going to the cinema.</li><li><strong>Advise:</strong> khuyên, khuyên nhủ (mạnh hơn suggest)</li><li>Ex: The doctor <strong>advises</strong> taking medicine.</li><li><strong>Recommend:</strong> giới thiệu, khuyến nghị (chuyên nghiệp)</li><li>Ex: I <strong>recommend</strong> buying this laptop.</li></ul><p><strong>E. Các cấu trúc KHÔNG đúng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sai: I suggest <strong>to buy</strong> a new phone. ✗</li><li>Đúng: I suggest <strong>buying</strong> a new phone. ✓</li><li>Sai: I suggest you <strong>buy</strong> a new phone. ✗ (thiếu 'should' hoặc 'that')</li><li>Đúng: I suggest (that) you <strong>should buy</strong> a new phone. ✓</li><li>Đúng: I suggest <strong>buying</strong> a new phone. ✓</li></ul><p><strong>F. Ví dụ chi tiết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>I <strong>suggest buying</strong> a new smartphone.</li><li>I <strong>suggest (that) you should buy</strong> a new smartphone.</li><li>She <strong>advises updating</strong> the software.</li><li>She <strong>advises (that) we should update</strong> the software.</li><li>They <strong>recommend charging</strong> the battery.</li><li>They <strong>recommend (that) he should charge</strong> the battery.</li></ul>"
+            },
+            {
+              "heading": "4-11. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Suggest/Advise/Recommend + V-ing",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + suggest/advise/recommend + V-ing</li><li>Không dùng 'to V'</li></ul>",
+            "examples": [
+              {
+                "question": "I suggest ______ (buy) a new phone.",
+                "solution": "I suggest <strong>buying</strong> a new phone.",
+                "explanation": "suggest + V-ing"
+              },
+              {
+                "question": "She advises ______ (study) hard.",
+                "solution": "She advises <strong>studying</strong> hard.",
+                "explanation": "advise + V-ing"
+              },
+              {
+                "question": "They recommend ______ (visit) the museum.",
+                "solution": "They recommend <strong>visiting</strong> the museum.",
+                "explanation": "recommend + V-ing"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Suggest/Advise/Recommend + (that) + S + should + V",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + suggest/advise/recommend + (that) + S + should + V</li><li>'that' có thể bỏ</li></ul>",
+            "examples": [
+              {
+                "question": "I suggest (that) you ______ (should / buy) a new phone.",
+                "solution": "I suggest (that) you <strong>should buy</strong> a new phone.",
+                "explanation": "suggest + (that) + S + should + V"
+              },
+              {
+                "question": "She advises (that) we ______ (should / study) hard.",
+                "solution": "She advises (that) we <strong>should study</strong> hard.",
+                "explanation": "advise + (that) + S + should + V"
+              },
+              {
+                "question": "They recommend (that) he ______ (should / visit) the museum.",
+                "solution": "They recommend (that) he <strong>should visit</strong> the museum.",
+                "explanation": "recommend + (that) + S + should + V"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Chuyển đổi giữa 2 cấu trúc",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>V-ing ↔ (that) + S + should + V</li><li>Chú ý thay đổi chủ ngữ</li></ul>",
+            "examples": [
+              {
+                "question": "I suggest buying a new phone. → I suggest (that) ______.",
+                "solution": "I suggest (that) <strong>you should buy</strong> a new phone.",
+                "explanation": "Chuyển: buying → you should buy"
+              },
+              {
+                "question": "She advises (that) we should study hard. → She advises ______.",
+                "solution": "She advises <strong>studying</strong> hard.",
+                "explanation": "Chuyển: we should study → studying"
+              },
+              {
+                "question": "They recommend visiting the museum. → They recommend (that) ______.",
+                "solution": "They recommend (that) <strong>we should visit</strong> the museum.",
+                "explanation": "Chuyển: visiting → we should visit"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Sửa lỗi",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Không dùng 'to V' sau suggest/advise/recommend</li><li>Dùng V-ing hoặc (that) + S + should + V</li></ul>",
+            "examples": [
+              {
+                "question": "Sửa lỗi: I suggest to buy a new phone.",
+                "solution": "I suggest <strong>buying</strong> a new phone. / I suggest (that) you <strong>should buy</strong> a new phone.",
+                "explanation": "Sửa: to buy → buying hoặc (that) you should buy"
+              },
+              {
+                "question": "Sửa lỗi: She advises to study hard.",
+                "solution": "She advises <strong>studying</strong> hard. / She advises (that) we <strong>should study</strong> hard.",
+                "explanation": "Sửa: to study → studying hoặc (that) we should study"
+              },
+              {
+                "question": "Sửa lỗi: They recommend you visit the museum. (thiếu 'should')",
+                "solution": "They recommend <strong>visiting</strong> the museum. / They recommend (that) you <strong>should visit</strong> the museum.",
+                "explanation": "Sửa: thêm 'should' hoặc đổi thành V-ing"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I suggest ______ a new phone.",
+            "options": ["buy", "to buy", "buying", "bought"],
+            "correct": 2,
+            "explanation": "suggest + V-ing"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "She advises ______ hard.",
+            "options": ["study", "to study", "studying", "studied"],
+            "correct": 2,
+            "explanation": "advise + V-ing"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "They recommend ______ the museum.",
+            "options": ["visit", "to visit", "visiting", "visited"],
+            "correct": 2,
+            "explanation": "recommend + V-ing"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I suggest (that) you ______ buy a new phone.",
+            "options": ["can", "will", "should", "must"],
+            "correct": 2,
+            "explanation": "suggest + (that) + S + should + V"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She advises (that) we ______ study hard.",
+            "options": ["can", "will", "should", "must"],
+            "correct": 2,
+            "explanation": "advise + (that) + S + should + V"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "They recommend (that) he ______ visit the museum.",
+            "options": ["can", "will", "should", "must"],
+            "correct": 2,
+            "explanation": "recommend + (that) + S + should + V"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "I suggest ______ the software.",
+            "options": ["update", "to update", "updating", "updated"],
+            "correct": 2,
+            "explanation": "suggest + V-ing"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "The doctor advises ______ medicine.",
+            "options": ["take", "to take", "taking", "took"],
+            "correct": 2,
+            "explanation": "advise + V-ing"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I recommend ______ this laptop.",
+            "options": ["buy", "to buy", "buying", "bought"],
+            "correct": 2,
+            "explanation": "recommend + V-ing"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "She suggests (that) you ______ charge the battery.",
+            "options": ["can", "will", "should", "must"],
+            "correct": 2,
+            "explanation": "suggest + (that) + S + should + V"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which are correct structures? (Select all that apply)",
+            "options": ["I suggest buying a phone.", "I suggest to buy a phone.", "I suggest (that) you should buy a phone.", "I suggest you buy a phone."],
+            "correct": [0, 2],
+            "explanation": "Đúng: suggest + V-ing, suggest + (that) + S + should + V. Sai: suggest + to V, suggest + S + V (thiếu 'should')"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which verbs follow the same pattern? (Select all that apply)",
+            "options": ["suggest", "advise", "recommend", "want"],
+            "correct": [0, 1, 2],
+            "explanation": "Đúng: suggest, advise, recommend + V-ing hoặc (that) + S + should + V. Sai: want + to V"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which sentences are correct? (Select all that apply)",
+            "options": ["She advises studying hard.", "She advises (that) we should study hard.", "She advises to study hard.", "She advises us to study hard."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: advise + V-ing, advise + (that) + S + should + V, advise + O + to V. Sai: advise + to V (thiếu tân ngữ)"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: I suggest ______ (buy) a new phone.",
+            "correct": "buying",
+            "explanation": "suggest + V-ing"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: I suggest (that) you ______ (should / buy) a new phone.",
+            "correct": "should buy",
+            "explanation": "suggest + (that) + S + should + V"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Transform: I suggest buying a new phone. → I suggest (that) ______.",
+            "correct": "you should buy a new phone / (that) you should buy a new phone",
+            "explanation": "Chuyển: buying → you should buy"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Correct: I suggest to buy a new phone. → I suggest ______.",
+            "correct": "buying a new phone",
+            "explanation": "Sửa: to buy → buying"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: suggest / I / buying / phone / new / a / . / advises / She / studying / hard / .",
+            "sample_answer": "I suggest buying a new phone. She advises studying hard.",
+            "explanation": "Sắp xếp: suggest/advise + V-ing"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: I suggest buying a new phone. → I suggest (that) you ______.",
+            "sample_answer": "I suggest (that) you should buy a new phone.",
+            "explanation": "Biến đổi: buying → (that) you should buy"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Correct all errors: I suggest to buy a new phone. She advises to study hard. They recommend you visit the museum.",
+            "sample_answer": "I suggest buying a new phone. / I suggest (that) you should buy a new phone. She advises studying hard. / She advises (that) you should study hard. They recommend visiting the museum. / They recommend (that) you should visit the museum.",
+            "explanation": "Sửa: to buy → buying hoặc (that) you should buy; to study → studying hoặc (that) you should study; you visit → visiting hoặc (that) you should visit"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange: suggest / I / that / you / should / buy / phone / new / a / . / advises / She / that / we / should / study / hard / .",
+            "sample_answer": "I suggest (that) you should buy a new phone. She advises (that) we should study hard.",
+            "explanation": "Sắp xếp: suggest/advise + (that) + S + should + V"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Write two sentences with the same meaning using both structures: suggest + V-ing and suggest + (that) + S + should + V. Topic: updating software",
+            "sample_answer": "I suggest updating the software. I suggest (that) you should update the software.",
+            "explanation": "Viết 2 câu cùng nghĩa: suggest + V-ing và suggest + (that) + S + should + V"
+          }
+        ]
+      }
+    }
+  ]
+}

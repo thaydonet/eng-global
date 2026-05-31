@@ -1,0 +1,234 @@
+{
+  "subject": "Tiếng Anh 7",
+  "subject_id": 44,
+  "lessons": [
+    {
+      "id": "anh7-unit-4-music-and-arts",
+      "name": "Unit 4: Music and Arts",
+      "slug": "unit-4-music-and-arts",
+      "chapter": "Unit 4: Music and Arts",
+      "chapter_id": "A7",
+      "lesson_id": 4,
+      "description": "Learn about music and arts with comparisons using like, different from, and as...as.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=2680&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-4",
+          "name": "Music and Arts Vocabulary",
+          "slug": "music-and-arts-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 4: Music and Arts",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Music</td><td class='px-4 py-2'>(n) /ˈmjuːzɪk/</td><td class='px-4 py-2'>Âm nhạc</td><td class='px-4 py-2'>I love listening to music.</td></tr><tr><td class='px-4 py-2 font-bold'>Art</td><td class='px-4 py-2'>(n) /ɑːt/</td><td class='px-4 py-2'>Nghệ thuật</td><td class='px-4 py-2'>She studies art at school.</td></tr><tr><td class='px-4 py-2 font-bold'>Painting</td><td class='px-4 py-2'>(n) /ˈpeɪntɪŋ/</td><td class='px-4 py-2'>Bức tranh, hội họa</td><td class='px-4 py-2'>This painting is beautiful.</td></tr><tr><td class='px-4 py-2 font-bold'>Drawing</td><td class='px-4 py-2'>(n) /ˈdrɔːɪŋ/</td><td class='px-4 py-2'>Bức vẽ</td><td class='px-4 py-2'>I like his drawing.</td></tr><tr><td class='px-4 py-2 font-bold'>Sculpture</td><td class='px-4 py-2'>(n) /ˈskʌlptʃə(r)/</td><td class='px-4 py-2'>Tác phẩm điêu khắc</td><td class='px-4 py-2'>The sculpture is in the museum.</td></tr><tr><td class='px-4 py-2 font-bold'>Photography</td><td class='px-4 py-2'>(n) /fəˈtɒɡrəfi/</td><td class='px-4 py-2'>Nhiếp ảnh</td><td class='px-4 py-2'>He is interested in photography.</td></tr><tr><td class='px-4 py-2 font-bold'>Musician</td><td class='px-4 py-2'>(n) /mjuˈzɪʃn/</td><td class='px-4 py-2'>Nhạc sĩ</td><td class='px-4 py-2'>She is a famous musician.</td></tr><tr><td class='px-4 py-2 font-bold'>Artist</td><td class='px-4 py-2'>(n) /ˈɑːtɪst/</td><td class='px-4 py-2'>Nghệ sĩ</td><td class='px-4 py-2'>He is a talented artist.</td></tr><tr><td class='px-4 py-2 font-bold'>Composer</td><td class='px-4 py-2'>(n) /kəmˈpəʊzə(r)/</td><td class='px-4 py-2'>Nhà soạn nhạc</td><td class='px-4 py-2'>Mozart was a great composer.</td></tr><tr><td class='px-4 py-2 font-bold'>Instrument</td><td class='px-4 py-2'>(n) /ˈɪnstrəmənt/</td><td class='px-4 py-2'>Nhạc cụ</td><td class='px-4 py-2'>I play a musical instrument.</td></tr><tr><td class='px-4 py-2 font-bold'>Guitar</td><td class='px-4 py-2'>(n) /ɡɪˈtɑː(r)/</td><td class='px-4 py-2'>Đàn ghi-ta</td><td class='px-4 py-2'>He plays the guitar.</td></tr><tr><td class='px-4 py-2 font-bold'>Piano</td><td class='px-4 py-2'>(n) /piˈænəʊ/</td><td class='px-4 py-2'>Đàn piano</td><td class='px-4 py-2'>She plays the piano well.</td></tr><tr><td class='px-4 py-2 font-bold'>Perform</td><td class='px-4 py-2'>(v) /pəˈfɔːm/</td><td class='px-4 py-2'>Biểu diễn</td><td class='px-4 py-2'>They perform on stage.</td></tr><tr><td class='px-4 py-2 font-bold'>Exhibition</td><td class='px-4 py-2'>(n) /ˌeksɪˈbɪʃn/</td><td class='px-4 py-2'>Triển lãm</td><td class='px-4 py-2'>We visited an art exhibition.</td></tr><tr><td class='px-4 py-2 font-bold'>Gallery</td><td class='px-4 py-2'>(n) /ˈɡæləri/</td><td class='px-4 py-2'>Phòng trưng bày</td><td class='px-4 py-2'>The gallery has many paintings.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Types of music (Các thể loại âm nhạc):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>pop music:</strong> nhạc pop</li><li><strong>rock music:</strong> nhạc rock</li><li><strong>classical music:</strong> nhạc cổ điển</li><li><strong>jazz:</strong> nhạc jazz</li><li><strong>folk music:</strong> nhạc dân gian</li><li><strong>hip hop:</strong> nhạc hip hop</li></ul><p><strong>Musical instruments (Nhạc cụ):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>guitar:</strong> đàn ghi-ta</li><li><strong>piano:</strong> đàn piano</li><li><strong>violin:</strong> đàn vi-ô-lông</li><li><strong>drum:</strong> trống</li><li><strong>flute:</strong> sáo</li><li><strong>saxophone:</strong> kèn saxophone</li></ul><p><strong>Types of art (Các loại nghệ thuật):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>painting:</strong> hội họa</li><li><strong>drawing:</strong> vẽ</li><li><strong>sculpture:</strong> điêu khắc</li><li><strong>photography:</strong> nhiếp ảnh</li><li><strong>pottery:</strong> gốm sứ</li><li><strong>architecture:</strong> kiến trúc</li></ul><p><strong>People in music and arts:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>musician:</strong> nhạc sĩ</li><li><strong>composer:</strong> nhà soạn nhạc</li><li><strong>singer:</strong> ca sĩ</li><li><strong>artist:</strong> nghệ sĩ</li><li><strong>painter:</strong> họa sĩ</li><li><strong>sculptor:</strong> nhà điêu khắc</li><li><strong>photographer:</strong> nhiếp ảnh gia</li></ul><p><strong>Verbs related to music and arts:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>play (an instrument):</strong> chơi (nhạc cụ)</li><li><strong>sing:</strong> hát</li><li><strong>compose:</strong> sáng tác</li><li><strong>perform:</strong> biểu diễn</li><li><strong>paint:</strong> vẽ</li><li><strong>draw:</strong> vẽ</li><li><strong>exhibit:</strong> triển lãm</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /ʃ/ and /ʒ/</h3><p><strong>1. Sound /ʃ/ (âm vô thanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Môi tròn, lưỡi gần vòm miệng, không rung thanh quản</li><li><strong>Examples:</strong></li><li>musician /mjuˈzɪʃn/</li><li>exhibition /ˌeksɪˈbɪʃn/</li><li>show /ʃəʊ/</li><li>she /ʃiː/</li></ul><p><strong>2. Sound /ʒ/ (âm hữu thanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Môi tròn, lưỡi gần vòm miệng, rung thanh quản</li><li><strong>Examples:</strong></li><li>measure /ˈmeʒə(r)/</li><li>pleasure /ˈpleʒə(r)/</li><li>vision /ˈvɪʒn/</li><li>television /ˈtelɪvɪʒn/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Comparisons: like, different from, (not) as...as</h3><p><strong>1. Like (giống như):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Cấu trúc: S + V + like + N/pronoun</li><li>Ex: Pop music is <strong>like</strong> rock music.</li><li>Ex: She sings <strong>like</strong> a professional.</li></ul><p><strong>2. Different from (khác với):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Cấu trúc: S + be + different from + N/pronoun</li><li>Ex: Classical music is <strong>different from</strong> pop music.</li><li>Ex: My painting is <strong>different from</strong> yours.</li></ul><p><strong>3. (not) as...as (bằng/không bằng):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Cấu trúc: S + V + (not) as + adj/adv + as + N/pronoun</li><li><strong>Khẳng định:</strong> bằng nhau</li><li>Ex: This song is <strong>as good as</strong> that one.</li><li>Ex: She sings <strong>as well as</strong> a professional.</li><li><strong>Phủ định:</strong> không bằng</li><li>Ex: Pop music is <strong>not as popular as</strong> rock music.</li><li>Ex: He doesn't play <strong>as well as</strong> she does.</li></ul><p><strong>4. So sánh:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>the same as:</strong> giống như (hoàn toàn giống)</li><li>Ex: My guitar is <strong>the same as</strong> yours.</li><li><strong>similar to:</strong> tương tự như</li><li>Ex: This painting is <strong>similar to</strong> that one.</li></ul><h3>B. Too and Either</h3><p><strong>1. Too (cũng - câu khẳng định):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Cấu trúc: S + V + too</li><li>Ex: I like music. She likes music, <strong>too</strong>.</li><li>Ex: He can play the guitar, and I can, <strong>too</strong>.</li></ul><p><strong>2. Either (cũng - câu phủ định):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Cấu trúc: S + V + not...either</li><li>Ex: I don't like jazz. She doesn't like jazz, <strong>either</strong>.</li><li>Ex: He can't sing, and I can't, <strong>either</strong>.</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Music and arts around us - Âm nhạc và nghệ thuật xung quanh chúng ta</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về âm nhạc và nghệ thuật</li><li>Giới thiệu các loại nhạc cụ</li><li>Nói về sở thích nghệ thuật</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Music and arts</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về âm nhạc</li><li>Học từ vựng về nghệ thuật</li></ul><p><strong>B. Pronunciation: /ʃ/ and /ʒ/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /ʃ/ và /ʒ/</li><li>Luyện phát âm từ và câu</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Comparisons and Too/Either</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học cách so sánh với like, different from, as...as</li><li>Học cách dùng too và either</li><li>Luyện tập so sánh</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Talking about preferences in music and arts</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What kind of music do you like?</li><li>I prefer...</li><li>It's like...</li><li>It's different from...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: Famous artists and musicians</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về nghệ sĩ nổi tiếng</li><li>Tìm thông tin chi tiết</li></ul><p><strong>Speaking: Discussing music and art preferences</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nói về sở thích âm nhạc</li><li>So sánh các thể loại nghệ thuật</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: About a music performance</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe về buổi biểu diễn</li><li>Ghi chú thông tin quan trọng</li></ul><p><strong>Writing: About your favourite music/art</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết về âm nhạc/nghệ thuật yêu thích</li><li>Sử dụng cấu trúc so sánh</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Music and arts</li><li><strong>Pronunciation:</strong> /ʃ/ and /ʒ/</li><li><strong>Grammar:</strong> Comparisons, Too and Either</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> My favourite artist/musician</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Chọn một nghệ sĩ/nhạc sĩ yêu thích</li><li>Tìm thông tin và hình ảnh</li><li>Viết mô tả (7-10 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: So sánh với like và different from",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Like: giống như (S + V + like + N)</li><li>Different from: khác với (S + be + different from + N)</li></ul>",
+            "examples": [
+              {
+                "question": "Pop music is ______ rock music. (similar)",
+                "solution": "Pop music is <strong>like</strong> rock music.",
+                "explanation": "Giống nhau → dùng 'like'."
+              },
+              {
+                "question": "Classical music is ______ pop music. (not similar)",
+                "solution": "Classical music is <strong>different from</strong> pop music.",
+                "explanation": "Khác nhau → dùng 'different from'."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: So sánh với (not) as...as",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>as...as: bằng nhau</li><li>not as...as: không bằng</li><li>Cấu trúc: S + V + (not) as + adj/adv + as + N</li></ul>",
+            "examples": [
+              {
+                "question": "This song is ______ (good) that one. (equal)",
+                "solution": "This song is <strong>as good as</strong> that one.",
+                "explanation": "Bằng nhau → as + adj + as."
+              },
+              {
+                "question": "Pop music is ______ (popular) rock music. (less)",
+                "solution": "Pop music is <strong>not as popular as</strong> rock music.",
+                "explanation": "Không bằng → not as + adj + as."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Sử dụng too và either",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Too: cũng (câu khẳng định)</li><li>Either: cũng (câu phủ định)</li></ul>",
+            "examples": [
+              {
+                "question": "I like music. She likes music, ______.",
+                "solution": "She likes music, <strong>too</strong>.",
+                "explanation": "Câu khẳng định → too."
+              },
+              {
+                "question": "I don't like jazz. She doesn't like jazz, ______.",
+                "solution": "She doesn't like jazz, <strong>either</strong>.",
+                "explanation": "Câu phủ định → either."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: So sánh the same as",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The same as: giống như (hoàn toàn giống)</li><li>Cấu trúc: S + be + the same as + N</li></ul>",
+            "examples": [
+              {
+                "question": "My guitar is ______ yours. (identical)",
+                "solution": "My guitar is <strong>the same as</strong> yours.",
+                "explanation": "Hoàn toàn giống → the same as."
+              },
+              {
+                "question": "This painting is ______ that one. (identical)",
+                "solution": "This painting is <strong>the same as</strong> that one.",
+                "explanation": "Hoàn toàn giống → the same as."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "Pop music is ______ rock music.",
+            "options": ["like", "as", "from", "than"],
+            "correct": 0,
+            "explanation": "Giống nhau → like."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "Classical music is ______ pop music.",
+            "options": ["like from", "different from", "as from", "than from"],
+            "correct": 1,
+            "explanation": "Khác nhau → different from."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "This song is ______ good ______ that one.",
+            "options": ["as/as", "as/than", "like/as", "from/as"],
+            "correct": 0,
+            "explanation": "Bằng nhau → as...as."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "I like music. She likes music, ______.",
+            "options": ["too", "either", "neither", "so"],
+            "correct": 0,
+            "explanation": "Câu khẳng định → too."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "I don't like jazz. She doesn't like jazz, ______.",
+            "options": ["too", "either", "neither", "so"],
+            "correct": 1,
+            "explanation": "Câu phủ định → either."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "My guitar is ______ yours.",
+            "options": ["the same as", "the same from", "same as", "same from"],
+            "correct": 0,
+            "explanation": "Hoàn toàn giống → the same as."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "She sings ______ well ______ a professional.",
+            "options": ["as/as", "as/than", "like/as", "from/as"],
+            "correct": 0,
+            "explanation": "Bằng nhau → as...as."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "This painting is ______ that one.",
+            "options": ["similar to", "similar from", "similar as", "similar than"],
+            "correct": 0,
+            "explanation": "Tương tự → similar to."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "He can play the guitar, and I can, ______.",
+            "options": ["too", "either", "neither", "so"],
+            "correct": 0,
+            "explanation": "Câu khẳng định → too."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "Pop music is not ______ popular ______ rock music.",
+            "options": ["as/as", "as/than", "like/as", "from/as"],
+            "correct": 0,
+            "explanation": "Không bằng → not as...as."
+          }
+        ]
+      }
+    }
+  ]
+}

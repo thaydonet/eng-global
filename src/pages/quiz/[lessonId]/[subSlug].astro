@@ -1,0 +1,641 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import { getAllLessons } from '@/lib/lessons';
+import type { SubLesson } from '@/lib/lessons';
+
+export async function getStaticPaths() {
+  const lessons = getAllLessons();
+  const paths: any[] = [];
+
+  lessons.forEach((lesson) => {
+    if (lesson.has_sub_lessons && lesson.sub_lessons) {
+      lesson.sub_lessons.forEach((subLesson) => {
+        if (subLesson.content?.exercises && subLesson.content.exercises.length > 0) {
+          paths.push({
+            params: {
+              lessonId: lesson.id,
+              subSlug: subLesson.slug
+            },
+            props: {
+              lesson,
+              subLesson
+            }
+          });
+        }
+      });
+    }
+  });
+
+  return paths;
+}
+
+const { lesson, subLesson } = Astro.props as { lesson: any; subLesson: SubLesson };
+const exercises = subLesson.content?.exercises || [];
+---
+
+<Layout title={`Bài tập: ${subLesson.name}`}>
+  <div class="bg-gradient-to-r from-green-500 to-teal-600 text-white py-12">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center mb-4">
+        <a href={`/lessons/${lesson.subject_slug}-${lesson.conf_grade || '12'}/${lesson.id}/${subLesson.slug}`} class="text-white hover:underline flex items-center">
+          ← Quay lại bài học
+        </a>
+      </div>
+      <h1 class="text-4xl font-bold">{subLesson.name}</h1>
+      <p class="mt-2 text-xl">Bài tập thực hành · {exercises.length} câu hỏi</p>
+    </div>
+  </div>
+
+  <div class="max-w-4xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
+    <div id="quiz-container" class="space-y-6">
+      <!-- Quiz will be rendered here by JavaScript -->
+    </div>
+
+    <div id="quiz-controls" class="mt-8 flex justify-center gap-4 hidden">
+      <button
+        id="submit-btn"
+        class="bg-primary-600 hover:bg-primary-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-all transform hover:scale-105"
+      >
+        Nộp bài
+      </button>
+    </div>
+
+    <!-- Results -->
+    <div id="quiz-results" class="mt-8 hidden">
+      <div class="bg-white dark:bg-gray-800 rounded-lg shadow-xl p-8">
+        <div class="text-center">
+          <div id="result-icon" class="text-8xl mb-4"></div>
+          <h2 id="result-title" class="text-3xl font-bold mb-2 text-gray-900 dark:text-gray-100"></h2>
+          <p id="result-message" class="text-xl text-gray-600 dark:text-gray-400 mb-4"></p>
+          <div class="text-5xl font-bold mb-6">
+            <span id="result-score" class="text-primary-600"></span>
+            <span class="text-gray-400">/</span>
+            <span id="result-total" class="text-gray-600 dark:text-gray-400"></span>
+          </div>
+          <div class="mb-6">
+            <div class="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-4">
+              <div id="result-bar" class="bg-gradient-to-r from-green-400 to-green-600 h-4 rounded-full transition-all duration-1000"></div>
+            </div>
+          </div>
+          <div class="flex justify-center gap-4">
+            <button
+              id="retry-btn"
+              class="bg-primary-600 hover:bg-primary-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-all transform hover:scale-105"
+            >
+              🔄 Làm lại
+            </button>
+            <a
+              href={`/lessons/${lesson.subject_slug}-${lesson.conf_grade || '12'}/${lesson.id}/${subLesson.slug}`}
+              class="bg-gray-600 hover:bg-gray-700 text-white font-bold py-3 px-8 rounded-lg shadow-lg transition-all transform hover:scale-105 inline-block"
+            >
+              📚 Học lại
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script define:vars={{ exercises, subjectSlug: lesson.subject_slug || '' }}>
+    function initQuiz() {
+      if (!exercises || exercises.length === 0) return;
+
+      const quizContainer = document.getElementById('quiz-container');
+      const quizControls = document.getElementById('quiz-controls');
+      const submitBtn = document.getElementById('submit-btn');
+      const resultsDiv = document.getElementById('quiz-results');
+      const retryBtn = document.getElementById('retry-btn');
+
+      let userAnswers = {};
+      let currentExercises = [];
+
+      // Simple text renderer (KaTeX removed)
+      function renderLatex(text) {
+        return text || '';
+      }
+
+      function shuffleArray(array) {
+        const a = [...array];
+        for (let i = a.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a;
+      }
+
+      function prepareQuizData() {
+        const mcq  = exercises.filter(ex => ex.type === 'mcq' || !ex.type);
+        const msq  = exercises.filter(ex => ex.type === 'msq');
+        const sa   = exercises.filter(ex => ex.type === 'sa');
+        const essay = exercises.filter(ex => ex.type === 'essay');
+        const reading = exercises.filter(ex => ex.type === 'reading');
+        const tl   = exercises.filter(ex => ex.type === 'tl');
+
+        // Shuffle MCQ & remap correct index
+        const shuffledMCQ = shuffleArray(mcq).map(ex => {
+          if (!Array.isArray(ex.options)) return ex;
+          const withIdx = ex.options.map((opt, i) => ({ text: opt, originalIndex: i }));
+          const shuffled = shuffleArray(withIdx);
+          const newCorrect = shuffled.findIndex(o => o.originalIndex === ex.correct);
+          return { ...ex, options: shuffled.map(o => o.text), correct: newCorrect };
+        });
+
+        const preparedMSQ = shuffleArray(msq);
+        const shuffledSA  = shuffleArray(sa);
+        const shuffledReading = shuffleArray(reading);
+        const shuffledEssay = shuffleArray(essay);
+        const shuffledTL   = shuffleArray(tl);
+
+        // Order: MCQ → MSQ → SA → Reading → Essay → TL
+        currentExercises = [...shuffledMCQ, ...preparedMSQ, ...shuffledSA, ...shuffledReading, ...shuffledEssay, ...shuffledTL];
+      }
+
+      function renderQuiz() {
+        userAnswers = {};
+        quizContainer.innerHTML = '';
+        resultsDiv.classList.add('hidden');
+        quizControls.classList.remove('hidden');
+
+        currentExercises.forEach((exercise, index) => {
+          const questionDiv = document.createElement('div');
+          questionDiv.dataset.id = exercise.id;
+          questionDiv.dataset.type = exercise.type || 'mcq';
+
+          // ────────── READING ──────────
+          if (exercise.type === 'reading') {
+            questionDiv.className = 'bg-gradient-to-br from-indigo-50 to-violet-50 dark:from-indigo-900/20 dark:to-violet-900/20 rounded-2xl shadow-lg p-8 border-2 border-indigo-200 dark:border-indigo-700';
+
+            const questionsHTML = (exercise.questions || []).map((q, qi) => `
+              <div class="mb-6 p-5 bg-white dark:bg-gray-800 rounded-xl shadow-sm border border-indigo-100 dark:border-indigo-800">
+                <div class="flex items-start mb-4">
+                  <span class="flex-shrink-0 w-8 h-8 bg-indigo-600 text-white rounded-lg flex items-center justify-center font-bold mr-3 text-sm">${qi + 1}</span>
+                  <div class="flex-1">
+                    <div class="text-base font-semibold text-gray-900 dark:text-gray-100 mb-3">${renderLatex(q.question)}</div>
+                    <div class="space-y-2">
+                      ${(q.options || []).map((opt, oi) => `
+                        <label class="flex items-start p-3 border-2 border-indigo-100 dark:border-indigo-800 rounded-lg cursor-pointer transition-all hover:border-indigo-300 hover:bg-indigo-50 dark:hover:bg-indigo-900/30 option-label-reading group">
+                          <input type="radio" name="reading-${exercise.id}-q${qi}" value="${oi}" data-question-index="${qi}"
+                            class="mt-1 mr-3 w-4 h-4 text-indigo-600" />
+                          <span class="flex-1 option-text text-gray-700 dark:text-gray-300">${renderLatex(opt)}</span>
+                        </label>
+                      `).join('')}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            `).join('');
+
+            questionDiv.innerHTML = `
+              <div class="mb-6">
+                <div class="flex items-center mb-4">
+                  <span class="inline-block px-4 py-2 bg-gradient-to-r from-indigo-600 to-violet-600 text-white text-sm font-bold rounded-full shadow-md">📖 Đọc hiểu</span>
+                </div>
+                <div class="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-sm border-2 border-indigo-200 dark:border-indigo-700 mb-6">
+                  <div class="text-gray-800 dark:text-gray-200 leading-relaxed whitespace-pre-line">${renderLatex(exercise.passage)}</div>
+                </div>
+                <div class="space-y-4">
+                  <h3 class="text-lg font-bold text-indigo-900 dark:text-indigo-300 mb-3">Câu hỏi:</h3>
+                  ${questionsHTML}
+                </div>
+              </div>
+            `;
+
+            questionDiv.querySelectorAll('input[type="radio"]').forEach(radio => {
+              radio.addEventListener('change', (e) => {
+                const qi = parseInt(e.target.dataset.questionIndex);
+                if (!userAnswers[exercise.id]) userAnswers[exercise.id] = {};
+                userAnswers[exercise.id][qi] = parseInt(e.target.value);
+              });
+            });
+
+          // ────────── ESSAY / TL ──────────
+          } else if (exercise.type === 'essay' || exercise.type === 'tl') {
+            questionDiv.className = 'bg-gradient-to-br from-purple-50 to-pink-50 dark:from-purple-900/20 dark:to-pink-900/20 rounded-2xl shadow-lg p-8 border-2 border-purple-200 dark:border-purple-700';
+            questionDiv.innerHTML = `
+              <div class="flex items-start mb-6">
+                <span class="flex-shrink-0 w-10 h-10 bg-gradient-to-br from-purple-600 to-pink-600 text-white rounded-xl flex items-center justify-center font-bold mr-4 shadow-lg">${index + 1}</span>
+                <div class="flex-1">
+                  <div class="flex items-center mb-4">
+                    <span class="inline-block px-4 py-2 bg-gradient-to-r from-purple-600 to-pink-600 text-white text-sm font-bold rounded-full shadow-md">✍️ Câu hỏi tự luận</span>
+                  </div>
+                  <div class="text-lg font-bold text-gray-900 dark:text-gray-100 mb-6 leading-relaxed whitespace-pre-line">${renderLatex(exercise.question)}</div>
+                  <div class="mb-6">
+                    <label class="block text-sm font-semibold text-purple-800 dark:text-purple-300 mb-3">📝 Câu trả lời của bạn:</label>
+                    <textarea
+                      id="essay-answer-${exercise.id}"
+                      rows="8"
+                      class="w-full p-4 border-2 border-purple-300 dark:border-purple-600 rounded-xl focus:border-purple-500 focus:ring-2 focus:ring-purple-200 transition-all resize-y dark:bg-gray-800 dark:text-gray-100"
+                      placeholder="Nhập câu trả lời của bạn vào đây..."
+                    ></textarea>
+                    ${exercise.answer_guide ? `
+                    <div class="mt-3 p-3 bg-blue-50 dark:bg-blue-900/20 border-l-4 border-blue-400 rounded">
+                      <p class="text-xs font-semibold text-blue-800 dark:text-blue-300 mb-1">💡 Gợi ý:</p>
+                      <div class="text-xs text-gray-700 dark:text-gray-300 leading-relaxed whitespace-pre-line">${renderLatex(exercise.answer_guide)}</div>
+                    </div>` : ''}
+                  </div>
+                  <div id="essay-solution-${exercise.id}" class="hidden space-y-4">
+                    <div class="bg-purple-50 dark:bg-purple-900/20 border-l-4 border-purple-500 rounded-lg p-5">
+                      <span class="font-bold text-purple-900 dark:text-purple-300">📝 Câu trả lời của bạn</span>
+                      <div class="text-sm text-gray-800 dark:text-gray-300 leading-relaxed whitespace-pre-wrap student-essay-answer mt-2"></div>
+                    </div>
+                    <div class="bg-green-50 dark:bg-green-900/20 border-l-4 border-green-500 rounded-lg p-5">
+                      <span class="font-bold text-green-900 dark:text-green-300">✅ Đáp án chuẩn</span>
+                      <div class="text-sm text-gray-800 dark:text-gray-300 leading-relaxed mt-2 whitespace-pre-line">${renderLatex(exercise.explanation || exercise.answer_guide || '')}</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            `;
+
+          // ────────── SHORT ANSWER (sa) ──────────
+          } else if (exercise.type === 'sa') {
+            questionDiv.className = 'bg-gradient-to-br from-green-50 to-emerald-50 dark:from-green-900/20 dark:to-emerald-900/20 rounded-2xl shadow-lg p-8 border-2 border-green-200 dark:border-green-700';
+            questionDiv.innerHTML = `
+              <div class="flex items-start mb-6">
+                <span class="flex-shrink-0 w-10 h-10 bg-gradient-to-br from-green-600 to-emerald-600 text-white rounded-xl flex items-center justify-center font-bold mr-4 shadow-lg">${index + 1}</span>
+                <div class="flex-1">
+                  <div class="flex items-center mb-4">
+                    <span class="inline-block px-4 py-2 bg-gradient-to-r from-green-600 to-emerald-600 text-white text-sm font-bold rounded-full shadow-md">✏️ Trả lời ngắn</span>
+                  </div>
+                  <div class="text-lg font-bold text-gray-900 dark:text-gray-100 mb-6 leading-relaxed">${renderLatex(exercise.question_text || exercise.question)}</div>
+                  <div class="mb-6">
+                    <input
+                      type="text"
+                      id="sa-input-${exercise.id}"
+                      class="w-full max-w-xs p-3 border-2 border-green-300 dark:border-green-600 rounded-lg focus:border-green-500 focus:ring-2 focus:ring-green-200 transition-all font-medium text-lg dark:bg-gray-800 dark:text-gray-100"
+                      placeholder="Nhập câu trả lời..."
+                      autocomplete="off"
+                    />
+                  </div>
+                  <div id="sa-result-${exercise.id}" class="hidden mt-4"></div>
+                </div>
+              </div>
+            `;
+
+            const inp = questionDiv.querySelector(`#sa-input-${exercise.id}`);
+            inp.addEventListener('input', (e) => { userAnswers[exercise.id] = e.target.value; });
+            inp.addEventListener('change', (e) => { userAnswers[exercise.id] = e.target.value; });
+
+          // ────────── MSQ (Đúng/Sai) ──────────
+          } else if (exercise.type === 'msq') {
+            questionDiv.className = 'bg-gradient-to-br from-orange-50 to-amber-50 dark:from-orange-900/20 dark:to-amber-900/20 rounded-2xl shadow-lg p-8 border-2 border-orange-200 dark:border-orange-700';
+            const optLabels = ['a', 'b', 'c', 'd', 'e', 'f'];
+
+            questionDiv.innerHTML = `
+              <div class="flex items-start mb-6">
+                <span class="flex-shrink-0 w-10 h-10 bg-gradient-to-br from-orange-500 to-amber-600 text-white rounded-xl flex items-center justify-center font-bold mr-4 shadow-lg">${index + 1}</span>
+                <div class="flex-1">
+                  <div class="flex items-center mb-4">
+                    <span class="inline-block px-4 py-2 bg-gradient-to-r from-orange-500 to-amber-600 text-white text-sm font-bold rounded-full shadow-md">⚖️ Đúng / Sai</span>
+                  </div>
+                  <div class="text-base font-bold text-gray-900 dark:text-gray-100 mb-5 leading-relaxed">${renderLatex(exercise.question_text || exercise.question)}</div>
+                  <div class="space-y-3">
+                    ${(exercise.options || []).map((opt, oi) => `
+                      <div class="msq-row flex items-center gap-3 p-4 border-2 border-orange-200 dark:border-orange-700 rounded-xl bg-white dark:bg-gray-800 hover:border-orange-300 transition-all" data-opt-index="${oi}">
+                        <span class="flex-shrink-0 w-7 h-7 bg-orange-100 dark:bg-orange-900/40 text-orange-700 dark:text-orange-300 rounded-lg flex items-center justify-center font-bold text-sm">${optLabels[oi]})</span>
+                        <span class="flex-1 text-gray-800 dark:text-gray-200 text-sm leading-relaxed">${renderLatex(opt)}</span>
+                        <div class="flex items-center gap-2 flex-shrink-0">
+                          <label class="msq-choice flex items-center gap-1.5 px-3 py-1.5 border-2 border-gray-200 dark:border-gray-600 rounded-lg cursor-pointer hover:border-green-400 hover:bg-green-50 dark:hover:bg-green-900/30 transition-all text-sm font-medium text-gray-600 dark:text-gray-300">
+                            <input type="radio" name="msq-${exercise.id}-opt${oi}" value="true" class="w-3.5 h-3.5 text-green-600 accent-green-500" />
+                            Đúng
+                          </label>
+                          <label class="msq-choice flex items-center gap-1.5 px-3 py-1.5 border-2 border-gray-200 dark:border-gray-600 rounded-lg cursor-pointer hover:border-red-400 hover:bg-red-50 dark:hover:bg-red-900/30 transition-all text-sm font-medium text-gray-600 dark:text-gray-300">
+                            <input type="radio" name="msq-${exercise.id}-opt${oi}" value="false" class="w-3.5 h-3.5 text-red-600 accent-red-500" />
+                            Sai
+                          </label>
+                        </div>
+                      </div>
+                    `).join('')}
+                  </div>
+                </div>
+              </div>
+            `;
+
+            userAnswers[exercise.id] = {};
+            (exercise.options || []).forEach((_, oi) => {
+              questionDiv.querySelectorAll(`input[name="msq-${exercise.id}-opt${oi}"]`).forEach(radio => {
+                radio.addEventListener('change', (e) => {
+                  userAnswers[exercise.id][oi] = e.target.value === 'true';
+                  const row = questionDiv.querySelector(`.msq-row[data-opt-index="${oi}"]`);
+                  row.querySelectorAll('.msq-choice').forEach(lbl => {
+                    lbl.classList.remove('border-green-400', 'bg-green-100', 'border-red-400', 'bg-red-100');
+                  });
+                  const selLbl = e.target.closest('label');
+                  selLbl.classList.add(e.target.value === 'true' ? 'border-green-400' : 'border-red-400',
+                                       e.target.value === 'true' ? 'bg-green-100' : 'bg-red-100');
+                });
+              });
+            });
+
+          // ────────── MCQ (default) ──────────
+          } else {
+            questionDiv.className = 'bg-gradient-to-br from-blue-50 to-cyan-50 dark:from-blue-900/20 dark:to-cyan-900/20 rounded-2xl shadow-lg p-8 border-2 border-blue-200 dark:border-blue-700';
+            const mcqLabels = ['A', 'B', 'C', 'D', 'E', 'F'];
+            questionDiv.innerHTML = `
+              <div class="flex items-start mb-6">
+                <span class="flex-shrink-0 w-10 h-10 bg-gradient-to-br from-blue-600 to-cyan-600 text-white rounded-xl flex items-center justify-center font-bold mr-4 shadow-lg">${index + 1}</span>
+                <div class="flex-1">
+                  <div class="flex items-center mb-4">
+                    <span class="inline-block px-4 py-2 bg-gradient-to-r from-blue-600 to-cyan-600 text-white text-sm font-bold rounded-full shadow-md">☑️ Trắc nghiệm</span>
+                  </div>
+                  <div class="text-lg font-bold text-gray-900 dark:text-gray-100 mb-5 leading-relaxed">${renderLatex(exercise.question)}</div>
+                  <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                    ${(exercise.options || []).map((opt, oi) => `
+                      <label class="flex items-center gap-3 p-4 border-2 border-blue-200 dark:border-blue-700 rounded-xl cursor-pointer transition-all hover:border-blue-400 hover:bg-blue-100 dark:hover:bg-blue-900/30 hover:shadow-md option-label group">
+                        <input type="radio" name="question-${exercise.id}" value="${oi}" class="hidden" />
+                        <span class="flex-shrink-0 w-8 h-8 bg-blue-100 dark:bg-blue-900/40 group-hover:bg-blue-200 text-blue-700 dark:text-blue-300 rounded-lg flex items-center justify-center font-bold text-sm transition-all mcq-letter">${mcqLabels[oi]}.</span>
+                        <span class="flex-1 option-text text-gray-800 dark:text-gray-200 group-hover:text-blue-900 font-medium text-sm leading-snug">${renderLatex(opt)}</span>
+                      </label>
+                    `).join('')}
+                  </div>
+                </div>
+              </div>
+            `;
+
+            questionDiv.querySelectorAll('.option-label').forEach(lbl => {
+              lbl.addEventListener('click', () => {
+                questionDiv.querySelectorAll('.option-label').forEach(l => {
+                  l.classList.remove('border-blue-500', 'bg-blue-100');
+                  const lt = l.querySelector('.mcq-letter');
+                  if (lt) { lt.classList.remove('bg-blue-600', 'text-white'); lt.classList.add('bg-blue-100', 'text-blue-700'); }
+                });
+                lbl.classList.add('border-blue-500', 'bg-blue-100');
+                const letter = lbl.querySelector('.mcq-letter');
+                if (letter) { letter.classList.remove('bg-blue-100', 'text-blue-700'); letter.classList.add('bg-blue-600', 'text-white'); }
+              });
+            });
+            questionDiv.querySelectorAll('input[type="radio"]').forEach(radio => {
+              radio.addEventListener('change', (e) => { userAnswers[exercise.id] = parseInt(e.target.value); });
+            });
+          }
+
+          quizContainer.appendChild(questionDiv);
+        });
+      }
+
+      // ── Show Results ──
+      function showResults() {
+        quizControls.classList.add('hidden');
+
+        let totalScore = 0;
+        let maxScore = 0;
+
+        currentExercises.forEach((exercise, index) => {
+          const questionDiv = quizContainer.children[index];
+
+          // ── Reading ──
+          if (exercise.type === 'reading') {
+            const userRA = userAnswers[exercise.id] || {};
+            let correct = 0;
+            (exercise.questions || []).forEach((q, qi) => {
+              const ua = userRA[qi];
+              const ok = ua === q.correct;
+              if (ok) { correct++; totalScore += 0.25; }
+              maxScore += 0.25;
+
+              const containers = questionDiv.querySelectorAll('.mb-6.p-5');
+              const qCont = containers[qi];
+              if (!qCont) return;
+              qCont.querySelectorAll('.option-label-reading').forEach((lbl, oi) => {
+                const radio = lbl.querySelector('input');
+                if (radio) radio.disabled = true;
+                lbl.classList.remove('hover:border-indigo-300', 'hover:bg-indigo-50');
+                if (oi === q.correct) {
+                  lbl.classList.add('bg-green-100', 'border-green-500', 'text-green-900');
+                  const st = lbl.querySelector('.option-text');
+                  if (st) st.innerHTML += ' ✅';
+                } else if (oi === ua && !ok) {
+                  lbl.classList.add('bg-red-100', 'border-red-500', 'text-red-900');
+                  const st = lbl.querySelector('.option-text');
+                  if (st) st.innerHTML += ' ❌';
+                } else {
+                  lbl.classList.add('opacity-50');
+                }
+              });
+              const expDiv = document.createElement('div');
+              expDiv.className = 'mt-4 p-4 bg-amber-50 dark:bg-amber-900/20 border-l-4 border-amber-500 rounded-lg';
+              expDiv.innerHTML = `<div class="flex items-center mb-2"><span class="text-lg mr-2">💡</span><span class="font-bold text-amber-900 dark:text-amber-300">Giải thích</span></div><div class="text-sm text-gray-800 dark:text-gray-300">${renderLatex(q.explanation)}</div>`;
+              qCont.appendChild(expDiv);
+            });
+            const sumDiv = document.createElement('div');
+            sumDiv.className = 'mt-6 p-5 bg-indigo-100 dark:bg-indigo-900/30 border-2 border-indigo-300 dark:border-indigo-700 rounded-xl text-center';
+            sumDiv.innerHTML = `<span class="text-xl font-bold text-indigo-900 dark:text-indigo-300">Kết quả đọc hiểu: ${correct}/${(exercise.questions || []).length} câu đúng</span>`;
+            questionDiv.appendChild(sumDiv);
+            return;
+          }
+
+          // ── Essay / TL ──
+          if (exercise.type === 'essay' || exercise.type === 'tl') {
+            const solDiv = questionDiv.querySelector(`#essay-solution-${exercise.id}`);
+            if (solDiv) {
+              solDiv.classList.remove('hidden');
+              const ta = questionDiv.querySelector(`#essay-answer-${exercise.id}`);
+              if (ta) {
+                const ans = ta.value || 'Bạn chưa nhập câu trả lời.';
+                const disp = solDiv.querySelector('.student-essay-answer');
+                if (disp) disp.textContent = ans;
+                const taParent = ta.closest('.mb-6');
+                if (taParent) taParent.classList.add('hidden');
+              }
+              questionDiv.classList.add('ring-2', 'ring-purple-300');
+            }
+            return;
+          }
+
+          // ── SA ──
+          if (exercise.type === 'sa') {
+            const rawUser    = (userAnswers[exercise.id] || '').toString().trim();
+            const rawCorrect = (exercise.correct || '').toString().trim();
+            let saOk = false;
+            const norm = s => parseFloat(s.replace(',', '.'));
+            const nu = norm(rawUser), nc = norm(rawCorrect);
+            if (!isNaN(nu) && !isNaN(nc) && rawUser !== '' && rawCorrect !== '') {
+              saOk = Math.abs(nu - nc) < 1e-9;
+            } else {
+              saOk = rawUser.toLowerCase() === rawCorrect.toLowerCase();
+            }
+            maxScore += 0.5;
+            if (saOk) totalScore += 0.5;
+
+            const res = questionDiv.querySelector(`#sa-result-${exercise.id}`);
+            const inp = questionDiv.querySelector(`#sa-input-${exercise.id}`);
+            if (inp) inp.disabled = true;
+            if (res) {
+              res.classList.remove('hidden');
+              if (saOk) {
+                if (inp) inp.classList.add('border-green-500', 'bg-green-50', 'text-green-900');
+                res.innerHTML = `<div class="p-3 bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-300 rounded-lg flex items-center"><svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg><span class="font-bold">Chính xác! +0.5 điểm</span></div>`;
+              } else {
+                if (inp) inp.classList.add('border-red-500', 'bg-red-50', 'text-red-900');
+                res.innerHTML = `<div class="p-3 bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-300 rounded-lg mb-2 flex items-center"><svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg><span class="font-bold">Chưa chính xác</span></div><div class="p-3 bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-300 rounded-lg"><span class="font-bold">Đáp án đúng:</span> ${rawCorrect}</div>`;
+              }
+            }
+            if (exercise.explanation) {
+              const expDiv = document.createElement('div');
+              expDiv.className = 'mt-4 p-5 bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500 rounded-xl';
+              expDiv.innerHTML = `<div class="flex items-center mb-2"><span class="text-xl mr-2">💡</span><span class="font-bold text-amber-900 dark:text-amber-300">Giải thích</span><span class="ml-auto px-3 py-1 rounded-full text-sm font-bold ${saOk ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'}">${saOk ? '+0.5' : '0'} điểm</span></div><div class="text-gray-800 dark:text-gray-300 leading-relaxed">${renderLatex(exercise.explanation)}</div>`;
+              const ca = questionDiv.querySelector('.flex-1');
+              if (ca) ca.appendChild(expDiv);
+            }
+            return;
+          }
+
+          // ── MSQ ──
+          if (exercise.type === 'msq') {
+            const correctSet = Array.isArray(exercise.correct) ? exercise.correct : [];
+            const usub = userAnswers[exercise.id] || {};
+            let earned = 0;
+            const msqMax = (exercise.options || []).length * 0.25;
+            maxScore += msqMax;
+
+            (exercise.options || []).forEach((_, oi) => {
+              const expectedTrue = correctSet.includes(oi);
+              const userChose = usub[oi];
+              const ok = (userChose === expectedTrue) && (userChose !== undefined);
+              if (ok) { earned += 0.25; totalScore += 0.25; }
+
+              const row = questionDiv.querySelector(`.msq-row[data-opt-index="${oi}"]`);
+              if (!row) return;
+              row.querySelectorAll('input[type="radio"]').forEach(r => r.disabled = true);
+              row.classList.remove('hover:border-orange-300');
+
+              if (userChose === undefined) {
+                row.classList.add('border-gray-400', 'opacity-60');
+              } else if (ok) {
+                row.classList.remove('border-orange-200');
+                row.classList.add('border-green-500', 'bg-green-50', 'dark:bg-green-900/20');
+                const si = row.querySelector(`input[value="${userChose ? 'true' : 'false'}"]:checked`);
+                if (si) si.closest('label').innerHTML += ' ✅';
+              } else {
+                row.classList.remove('border-orange-200');
+                row.classList.add('border-red-400', 'bg-red-50', 'dark:bg-red-900/20');
+                const si = row.querySelector('input:checked');
+                if (si) si.closest('label').innerHTML += ' ❌';
+                const ci = row.querySelector(`input[value="${expectedTrue ? 'true' : 'false'}"]`);
+                if (ci) { ci.closest('label').classList.add('border-green-500', 'bg-green-100'); ci.closest('label').innerHTML += ' ✅'; }
+              }
+            });
+
+            if (exercise.explanation) {
+              const expDiv = document.createElement('div');
+              expDiv.className = 'mt-6 p-5 bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500 rounded-xl';
+              expDiv.innerHTML = `<div class="flex items-center mb-3"><span class="text-2xl mr-2">💡</span><span class="font-bold text-amber-900 dark:text-amber-300 text-lg">Giải thích</span><span class="ml-auto px-3 py-1 rounded-full text-sm font-bold ${earned === msqMax ? 'bg-green-100 text-green-800' : earned > 0 ? 'bg-yellow-100 text-yellow-800' : 'bg-red-100 text-red-800'}">${earned.toFixed(2).replace(/\.?0+$/, '')} / ${msqMax.toFixed(2).replace(/\.?0+$/, '')} điểm</span></div><div class="text-gray-800 dark:text-gray-300 leading-relaxed">${renderLatex(exercise.explanation)}</div>`;
+              const ca = questionDiv.querySelector('.flex-1');
+              if (ca) ca.appendChild(expDiv);
+            }
+            return;
+          }
+
+          // ── MCQ ──
+          const mcqLabels = ['A', 'B', 'C', 'D', 'E', 'F'];
+          const ua = userAnswers[exercise.id];
+          const ok = ua === exercise.correct;
+          maxScore += 0.25;
+          if (ok) totalScore += 0.25;
+
+          questionDiv.querySelectorAll('.option-label').forEach((lbl, oi) => {
+            const radio = lbl.querySelector('input');
+            if (radio) radio.disabled = true;
+            lbl.style.cursor = 'default';
+            lbl.style.pointerEvents = 'none';
+            const lb = mcqLabels[oi] ? mcqLabels[oi] + '.' : '';
+            const otEl = lbl.querySelector('.option-text');
+            if (oi === exercise.correct) {
+              lbl.className = 'flex items-center gap-3 p-4 border-2 border-green-500 bg-green-50 rounded-xl ring-2 ring-green-200 dark:bg-green-900/20';
+              lbl.innerHTML = `<span class="flex-shrink-0 w-8 h-8 bg-green-500 text-white rounded-lg flex items-center justify-center font-bold text-sm">${lb}</span><span class="flex-1 option-text text-green-900 font-bold text-sm">${otEl ? otEl.innerHTML : ''}</span><span class="text-xl ml-1">✅</span>`;
+            } else if (oi === ua && !ok) {
+              lbl.className = 'flex items-center gap-3 p-4 border-2 border-red-500 bg-red-50 rounded-xl ring-2 ring-red-200 dark:bg-red-900/20';
+              lbl.innerHTML = `<span class="flex-shrink-0 w-8 h-8 bg-red-400 text-white rounded-lg flex items-center justify-center font-bold text-sm">${lb}</span><span class="flex-1 option-text text-red-900 font-bold text-sm">${otEl ? otEl.innerHTML : ''}</span><span class="text-xl ml-1">❌</span>`;
+            } else {
+              lbl.classList.add('opacity-50');
+            }
+          });
+
+          if (exercise.explanation) {
+            const expDiv = document.createElement('div');
+            expDiv.className = 'mt-6 p-5 bg-gradient-to-r from-amber-50 to-orange-50 dark:from-amber-900/20 dark:to-orange-900/20 border-l-4 border-amber-500 rounded-xl';
+            expDiv.innerHTML = `<div class="flex items-center mb-3"><span class="text-2xl mr-2">💡</span><span class="font-bold text-amber-900 dark:text-amber-300 text-lg">Giải thích</span><span class="ml-auto px-3 py-1 rounded-full text-sm font-bold ${ok ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'}">${ok ? '+0.25' : '0'} điểm</span></div><div class="text-gray-800 dark:text-gray-300 leading-relaxed">${renderLatex(exercise.explanation)}</div>`;
+            const ca = questionDiv.querySelector('.flex-1');
+            if (ca) ca.appendChild(expDiv);
+          }
+        });
+
+        // ── Summary ──
+        if (maxScore > 0) {
+          const pct = (totalScore / maxScore) * 100;
+          const fmt = n => parseFloat(n.toFixed(2)).toString();
+          document.getElementById('result-score').textContent = fmt(totalScore);
+          document.getElementById('result-total').textContent = fmt(maxScore) + ' điểm';
+          document.getElementById('result-bar').style.width = `${pct}%`;
+
+          const ri = document.getElementById('result-icon');
+          const rt = document.getElementById('result-title');
+          const rm = document.getElementById('result-message');
+          const rb = document.getElementById('result-bar');
+
+          if (pct === 100)       { ri.textContent = '🎉'; rt.textContent = 'Xuất sắc!'; rt.className = 'text-3xl font-bold mb-2 text-green-600'; rm.textContent = 'Bạn đã trả lời đúng tất cả câu hỏi!'; rb.className = 'bg-gradient-to-r from-green-400 to-green-600 h-4 rounded-full transition-all duration-1000'; }
+          else if (pct >= 80)    { ri.textContent = '🌟'; rt.textContent = 'Tốt lắm!'; rt.className = 'text-3xl font-bold mb-2 text-blue-600'; rm.textContent = 'Bạn đã làm rất tốt! Hãy tiếp tục phát huy!'; rb.className = 'bg-gradient-to-r from-blue-400 to-blue-600 h-4 rounded-full transition-all duration-1000'; }
+          else if (pct >= 60)    { ri.textContent = '👍'; rt.textContent = 'Khá tốt!'; rt.className = 'text-3xl font-bold mb-2 text-yellow-600'; rm.textContent = 'Bạn đã hiểu phần lớn bài học!'; rb.className = 'bg-gradient-to-r from-yellow-400 to-yellow-600 h-4 rounded-full transition-all duration-1000'; }
+          else                   { ri.textContent = '📚'; rt.textContent = 'Cố gắng lên!'; rt.className = 'text-3xl font-bold mb-2 text-orange-600'; rm.textContent = 'Hãy học lại bài và thử lại nhé!'; rb.className = 'bg-gradient-to-r from-orange-400 to-orange-600 h-4 rounded-full transition-all duration-1000'; }
+        }
+
+        resultsDiv.classList.remove('hidden');
+        resultsDiv.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+
+      submitBtn.addEventListener('click', () => {
+        let totalScored = 0, answered = 0;
+        currentExercises.forEach(ex => {
+          if (ex.type === 'essay' || ex.type === 'tl') return;
+          if (ex.type === 'reading') {
+            totalScored += (ex.questions || []).length;
+            answered += Object.keys(userAnswers[ex.id] || {}).length;
+          } else if (ex.type === 'msq') {
+            totalScored++;
+            if (Object.keys(userAnswers[ex.id] || {}).length === (ex.options || []).length) answered++;
+          } else {
+            totalScored++;
+            if (userAnswers[ex.id] !== undefined && userAnswers[ex.id] !== '') answered++;
+          }
+        });
+
+        if (answered < totalScored) {
+          const ok = confirm(`Bạn chưa trả lời hết! Còn ${totalScored - answered} câu chưa làm. Bạn có chắc chắn muốn nộp bài không?`);
+          if (!ok) return;
+        }
+        showResults();
+      });
+
+      retryBtn.addEventListener('click', () => {
+        prepareQuizData();
+        renderQuiz();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+
+      // Init
+      prepareQuizData();
+      renderQuiz();
+    }
+
+    // Initialize quiz when DOM is ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initQuiz);
+    } else {
+      initQuiz();
+    }
+  </script>
+</Layout>
+
+<style>
+  .option-label:has(input:checked) {
+    border-color: #2563eb;
+    background-color: #dbeafe;
+  }
+  #quiz-results {
+    animation: slideUp 0.5s ease-out;
+  }
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+</style>

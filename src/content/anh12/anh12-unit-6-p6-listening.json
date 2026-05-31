@@ -1,0 +1,260 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-6-p6",
+  "name": "Part 6: Listening",
+  "slug": "p6-listening",
+  "description": "Nghe về phát triển AI",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Listening: A Talk About AI Development",
+      "sections": [
+        {
+          "heading": "Listening Skills",
+          "content": "<p><strong>Chủ đề:</strong> A talk about AI development</p><p><strong>Kỹ năng nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Listening for main ideas:</strong> Nghe để nắm ý chính</li><li><strong>Listening for specific information:</strong> Nghe để tìm thông tin cụ thể</li><li><strong>Note-taking:</strong> Ghi chú trong khi nghe</li><li><strong>Understanding technical terms:</strong> Hiểu thuật ngữ kỹ thuật</li><li><strong>Identifying speaker's attitude:</strong> Nhận biết thái độ người nói</li></ul><p><strong>Nội dung bài nghe về:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>History of AI:</strong> Lịch sử phát triển AI</li><li><strong>Current applications:</strong> Ứng dụng hiện tại</li><li><strong>Benefits and challenges:</strong> Lợi ích và thách thức</li><li><strong>Future predictions:</strong> Dự đoán tương lai</li><li><strong>Ethical considerations:</strong> Cân nhắc đạo đức</li></ul><p><strong>Từ vựng quan trọng khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Technical terms:</strong> algorithm, machine learning, neural network, data processing</li><li><strong>Applications:</strong> virtual assistant, facial recognition, autonomous vehicle</li><li><strong>Time expressions:</strong> in the 1950s, nowadays, in the future, by 2030</li><li><strong>Trends:</strong> develop, advance, improve, revolutionize</li></ul>"
+        },
+        {
+          "heading": "Tips for Listening",
+          "content": "<p><strong>Trước khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc câu hỏi để biết cần nghe thông tin gì</li><li>Dự đoán loại thông tin (số liệu, năm, tên ứng dụng)</li><li>Chú ý từ khóa về AI và công nghệ</li></ul><p><strong>Trong khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tập trung vào từ khóa và ý chính</li><li>Ghi chú các thông tin quan trọng</li><li>Chú ý các con số, năm tháng, tên ứng dụng</li><li>Lắng nghe các từ tín hiệu (first, however, therefore)</li></ul><p><strong>Sau khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Kiểm tra lại câu trả lời</li><li>Đảm bảo chính tả đúng</li><li>Kiểm tra logic của câu trả lời</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "listening-ex1",
+        "type": "mcq",
+        "question": "What is the main topic of a talk about AI?",
+        "options": [
+          "Cooking recipes",
+          "AI development and applications",
+          "Sports",
+          "Travel"
+        ],
+        "correct": 1,
+        "explanation": "Chủ đề chính là phát triển và ứng dụng AI."
+      },
+      {
+        "id": "listening-ex2",
+        "type": "mcq",
+        "question": "If you hear 'in the 1950s', what does it refer to?",
+        "options": [
+          "The future",
+          "The past (1950-1959)",
+          "Now",
+          "Next year"
+        ],
+        "correct": 1,
+        "explanation": "'In the 1950s' nghĩa là trong những năm 1950 (quá khứ)."
+      },
+      {
+        "id": "listening-ex3",
+        "type": "mcq",
+        "question": "What does 'algorithm' mean?",
+        "options": [
+          "A type of food",
+          "A set of rules for solving problems",
+          "A sport",
+          "A building"
+        ],
+        "correct": 1,
+        "explanation": "Algorithm là tập hợp các quy tắc để giải quyết vấn đề."
+      },
+      {
+        "id": "listening-ex4",
+        "type": "mcq",
+        "question": "Which word indicates development?",
+        "options": ["Decline", "Decrease", "Advance", "Fall"],
+        "correct": 2,
+        "explanation": "'Advance' nghĩa là tiến bộ, phát triển."
+      },
+      {
+        "id": "listening-ex5",
+        "type": "mcq",
+        "question": "What should you do before listening?",
+        "options": [
+          "Sleep",
+          "Read the questions",
+          "Close your eyes",
+          "Talk loudly"
+        ],
+        "correct": 1,
+        "explanation": "Nên đọc câu hỏi trước khi nghe."
+      },
+      {
+        "id": "listening-ex6",
+        "type": "mcq",
+        "question": "If someone says 'AI has revolutionized healthcare', what does it mean?",
+        "options": [
+          "AI has no effect",
+          "AI has completely changed healthcare",
+          "AI is bad for healthcare",
+          "AI is slow"
+        ],
+        "correct": 1,
+        "explanation": "'Revolutionized' nghĩa là đã thay đổi hoàn toàn."
+      },
+      {
+        "id": "listening-ex7",
+        "type": "mcq",
+        "question": "What is 'machine learning'?",
+        "options": [
+          "Teaching machines to walk",
+          "AI learning from data",
+          "Building machines",
+          "Repairing computers"
+        ],
+        "correct": 1,
+        "explanation": "Machine learning là AI học từ dữ liệu."
+      },
+      {
+        "id": "listening-ex8",
+        "type": "mcq",
+        "question": "Which is an AI application you might hear about?",
+        "options": [
+          "Pencil",
+          "Virtual assistant",
+          "Paper",
+          "Chair"
+        ],
+        "correct": 1,
+        "explanation": "Virtual assistant (trợ lý ảo) là ứng dụng AI."
+      },
+      {
+        "id": "listening-ex9",
+        "type": "mcq",
+        "question": "What does 'data processing' mean?",
+        "options": [
+          "Deleting data",
+          "Analyzing and handling information",
+          "Ignoring data",
+          "Losing data"
+        ],
+        "correct": 1,
+        "explanation": "Data processing là xử lý và phân tích thông tin."
+      },
+      {
+        "id": "listening-ex10",
+        "type": "mcq",
+        "question": "If you hear 'by 2030', what does it mean?",
+        "options": [
+          "In the past",
+          "Before or at the year 2030",
+          "Never",
+          "Yesterday"
+        ],
+        "correct": 1,
+        "explanation": "'By 2030' nghĩa là trước hoặc vào năm 2030."
+      },
+      {
+        "id": "listening-ex11",
+        "type": "mcq",
+        "question": "What should you focus on while listening?",
+        "options": [
+          "Background noise",
+          "Keywords and main ideas",
+          "Nothing",
+          "Your phone"
+        ],
+        "correct": 1,
+        "explanation": "Nên tập trung vào từ khóa và ý chính."
+      },
+      {
+        "id": "listening-ex12",
+        "type": "mcq",
+        "question": "Which phrase shows contrast?",
+        "options": ["In addition", "However", "Moreover", "Furthermore"],
+        "correct": 1,
+        "explanation": "'However' thể hiện sự tương phản."
+      },
+      {
+        "id": "listening-ex13",
+        "type": "mcq",
+        "question": "What is 'facial recognition'?",
+        "options": [
+          "Taking photos",
+          "AI identifying people by faces",
+          "Editing pictures",
+          "Deleting images"
+        ],
+        "correct": 1,
+        "explanation": "Facial recognition là AI nhận dạng người qua khuôn mặt."
+      },
+      {
+        "id": "listening-ex14",
+        "type": "mcq",
+        "question": "If you miss an answer while listening, you should:",
+        "options": [
+          "Stop and give up",
+          "Keep listening for the next answer",
+          "Leave the room",
+          "Cry"
+        ],
+        "correct": 1,
+        "explanation": "Nên tiếp tục nghe để trả lời câu tiếp theo."
+      },
+      {
+        "id": "listening-ex15",
+        "type": "mcq",
+        "question": "What does 'autonomous vehicle' mean?",
+        "options": [
+          "A broken car",
+          "A self-driving car",
+          "A bicycle",
+          "A train"
+        ],
+        "correct": 1,
+        "explanation": "Autonomous vehicle là xe tự lái."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide if these are good listening strategies (True/False):",
+        "options": [
+          "Read questions before listening",
+          "Try to understand every single word",
+          "Focus on keywords",
+          "Ignore numbers and dates"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Nên đọc câu hỏi trước. b) False - Không cần hiểu từng từ. c) True - Tập trung vào từ khóa. d) False - Số và ngày tháng quan trọng."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if the word indicates DEVELOPMENT:",
+        "options": [
+          "Advance",
+          "Decline",
+          "Improve",
+          "Decrease"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Advance là tiến bộ. b) False - Decline là suy giảm. c) True - Improve là cải thiện. d) False - Decrease là giảm."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: AI has _____ healthcare. (revolutionized/ignored)",
+        "correct": "revolutionized",
+        "explanation": "AI đã cách mạng hóa (revolutionized) y tế."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "What does 'by 2030' mean? (Write in Vietnamese)",
+        "correct": "vào năm 2030",
+        "explanation": "'By 2030' nghĩa là vào năm 2030."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: Machine _____ allows AI to learn from data. (one word)",
+        "correct": "learning",
+        "explanation": "Machine learning - học máy."
+      }
+    ]
+  }
+}

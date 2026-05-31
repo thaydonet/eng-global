@@ -1,0 +1,255 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-4-p6",
+  "name": "Part 6: Listening",
+  "slug": "p6-listening",
+  "description": "Nghe về phát triển đô thị",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Listening: A Talk About Urban Development",
+      "sections": [
+        {
+          "heading": "Listening Skills",
+          "content": "<p><strong>Chủ đề:</strong> A talk about urban development</p><p><strong>Kỹ năng nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Listening for main ideas:</strong> Nghe để nắm ý chính</li><li><strong>Listening for specific information:</strong> Nghe để tìm thông tin cụ thể</li><li><strong>Note-taking:</strong> Ghi chú trong khi nghe</li><li><strong>Understanding numbers and statistics:</strong> Hiểu số liệu thống kê</li><li><strong>Predicting content:</strong> Dự đoán nội dung trước khi nghe</li></ul><p><strong>Nội dung bài nghe về:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Urbanisation rate:</strong> Tốc độ đô thị hóa</li><li><strong>Population growth:</strong> Sự gia tăng dân số đô thị</li><li><strong>Infrastructure projects:</strong> Các dự án cơ sở hạ tầng</li><li><strong>Challenges and solutions:</strong> Thách thức và giải pháp</li><li><strong>Future predictions:</strong> Dự đoán tương lai</li></ul><p><strong>Từ vựng quan trọng khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Percentages:</strong> 30%, fifty per cent, about half</li><li><strong>Time expressions:</strong> by 2050, in the next decade, over the past 20 years</li><li><strong>Trends:</strong> increase, rise, grow, expand, decline, fall</li><li><strong>Comparisons:</strong> more than, less than, as many as, twice as much</li></ul>"
+        },
+        {
+          "heading": "Tips for Listening",
+          "content": "<p><strong>Trước khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc câu hỏi trước để biết cần nghe thông tin gì</li><li>Dự đoán loại thông tin cần điền (số, tên, địa điểm...)</li><li>Chú ý từ khóa trong câu hỏi</li></ul><p><strong>Trong khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tập trung vào từ khóa</li><li>Ghi chú nhanh các thông tin quan trọng</li><li>Chú ý các con số, phần trăm, năm tháng</li><li>Lắng nghe các từ tín hiệu (first, second, however, therefore...)</li></ul><p><strong>Sau khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Kiểm tra lại câu trả lời</li><li>Đảm bảo đúng chính tả và ngữ pháp</li><li>Kiểm tra số từ giới hạn (nếu có)</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "listening-ex1",
+        "type": "mcq",
+        "question": "What is the main topic of a talk about urbanisation?",
+        "options": [
+          "Farming techniques",
+          "City development and population growth",
+          "Ocean pollution",
+          "Space exploration"
+        ],
+        "correct": 1,
+        "explanation": "Chủ đề chính là phát triển thành phố và tăng trưởng dân số."
+      },
+      {
+        "id": "listening-ex2",
+        "type": "mcq",
+        "question": "If you hear 'by 2050', what does it mean?",
+        "options": [
+          "In the year 2050",
+          "Before 2050",
+          "After 2050",
+          "Around 2050"
+        ],
+        "correct": 0,
+        "explanation": "'By 2050' nghĩa là vào năm 2050."
+      },
+      {
+        "id": "listening-ex3",
+        "type": "mcq",
+        "question": "What does 'about 30%' mean?",
+        "options": [
+          "Exactly 30 percent",
+          "More than 50 percent",
+          "Approximately 30 percent",
+          "Less than 10 percent"
+        ],
+        "correct": 2,
+        "explanation": "'About' nghĩa là khoảng, xấp xỉ."
+      },
+      {
+        "id": "listening-ex4",
+        "type": "mcq",
+        "question": "Which word indicates an increase?",
+        "options": ["Decline", "Fall", "Rise", "Decrease"],
+        "correct": 2,
+        "explanation": "'Rise' nghĩa là tăng lên."
+      },
+      {
+        "id": "listening-ex5",
+        "type": "mcq",
+        "question": "What should you do before listening?",
+        "options": [
+          "Sleep",
+          "Read the questions",
+          "Close your eyes",
+          "Talk to friends"
+        ],
+        "correct": 1,
+        "explanation": "Nên đọc câu hỏi trước khi nghe."
+      },
+      {
+        "id": "listening-ex6",
+        "type": "mcq",
+        "question": "If the question asks for 'no more than THREE words', you should write:",
+        "options": [
+          "As many words as possible",
+          "Exactly three words",
+          "One, two, or three words",
+          "At least five words"
+        ],
+        "correct": 2,
+        "explanation": "'No more than three words' nghĩa là tối đa 3 từ (có thể 1, 2 hoặc 3)."
+      },
+      {
+        "id": "listening-ex7",
+        "type": "mcq",
+        "question": "What does 'urban population' mean?",
+        "options": [
+          "People living in rural areas",
+          "People living in cities",
+          "Animals in cities",
+          "Buildings"
+        ],
+        "correct": 1,
+        "explanation": "Urban population là dân số đô thị (người sống ở thành phố)."
+      },
+      {
+        "id": "listening-ex8",
+        "type": "mcq",
+        "question": "Which is a signal word for listing?",
+        "options": ["However", "First", "Therefore", "Although"],
+        "correct": 1,
+        "explanation": "'First' là từ tín hiệu để liệt kê."
+      },
+      {
+        "id": "listening-ex9",
+        "type": "mcq",
+        "question": "What does 'infrastructure projects' refer to?",
+        "options": [
+          "Art exhibitions",
+          "Building roads, bridges, public transport",
+          "Music concerts",
+          "Sports games"
+        ],
+        "correct": 1,
+        "explanation": "Infrastructure projects là các dự án cơ sở hạ tầng."
+      },
+      {
+        "id": "listening-ex10",
+        "type": "mcq",
+        "question": "If you hear 'over the past 20 years', it means:",
+        "options": [
+          "In the future",
+          "During the last 20 years",
+          "Next year",
+          "Yesterday"
+        ],
+        "correct": 1,
+        "explanation": "'Over the past 20 years' nghĩa là trong 20 năm qua."
+      },
+      {
+        "id": "listening-ex11",
+        "type": "mcq",
+        "question": "What should you focus on while listening?",
+        "options": [
+          "Every single word",
+          "Keywords and main ideas",
+          "Grammar only",
+          "Nothing"
+        ],
+        "correct": 1,
+        "explanation": "Nên tập trung vào từ khóa và ý chính."
+      },
+      {
+        "id": "listening-ex12",
+        "type": "mcq",
+        "question": "Which phrase shows a contrast?",
+        "options": ["In addition", "However", "Moreover", "Furthermore"],
+        "correct": 1,
+        "explanation": "'However' thể hiện sự tương phản."
+      },
+      {
+        "id": "listening-ex13",
+        "type": "mcq",
+        "question": "What does 'facilities' mean in 'better facilities'?",
+        "options": [
+          "Problems",
+          "Services and buildings for public use",
+          "Difficulties",
+          "Pollution"
+        ],
+        "correct": 1,
+        "explanation": "Facilities là các cơ sở vật chất, dịch vụ công cộng."
+      },
+      {
+        "id": "listening-ex14",
+        "type": "mcq",
+        "question": "If you miss an answer while listening, you should:",
+        "options": [
+          "Stop and give up",
+          "Keep listening for the next answer",
+          "Ask the teacher to repeat",
+          "Leave the exam"
+        ],
+        "correct": 1,
+        "explanation": "Nên tiếp tục nghe để trả lời câu tiếp theo."
+      },
+      {
+        "id": "listening-ex15",
+        "type": "mcq",
+        "question": "What does 'goods and services' mean?",
+        "options": [
+          "Only food",
+          "Products and services people need",
+          "Only transportation",
+          "Only entertainment"
+        ],
+        "correct": 1,
+        "explanation": "Goods and services là hàng hóa và dịch vụ."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide if these are good listening strategies (True/False):",
+        "options": [
+          "Read questions before listening",
+          "Try to understand every single word",
+          "Focus on keywords",
+          "Ignore numbers and dates"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Nên đọc câu hỏi trước. b) False - Không cần hiểu từng từ. c) True - Tập trung vào từ khóa. d) False - Số và ngày tháng quan trọng."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if the word indicates INCREASE:",
+        "options": [
+          "Rise",
+          "Decline",
+          "Grow",
+          "Fall"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Rise là tăng. b) False - Decline là giảm. c) True - Grow là tăng trưởng. d) False - Fall là giảm."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: Urban _____ has increased rapidly. (population/people)",
+        "correct": "population",
+        "explanation": "Urban population - dân số đô thị."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "What does 'by 2050' mean? (Write in Vietnamese)",
+        "correct": "vào năm 2050",
+        "explanation": "'By 2050' nghĩa là vào năm 2050."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: Better _____ attract people to cities. (one word starting with 'f')",
+        "correct": "facilities",
+        "explanation": "Facilities - cơ sở vật chất."
+      }
+    ]
+  }
+}

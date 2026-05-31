@@ -1,0 +1,405 @@
+{
+  "subject": "Tiếng Anh 10",
+  "subject_id": 40,
+  "lessons": [
+    {
+      "id": "anh10-review-4",
+      "name": "Review 4 (Units 9 - 10)",
+      "slug": "review-1-units-9-10",
+      "chapter": "Review 4",
+      "chapter_id": "A10",
+      "lesson_id": 14,
+      "description": "Ôn tập từ vựng và ngữ pháp từ Unit 9 và 10 (Tiếng Anh 10 - Global Success).",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-4-mixed",
+          "name": "Mixed Review",
+          "slug": "mixed-review",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 4: Units 9-10",
+          "sections": [
+            {
+              "heading": "Summary of Units 9-10",
+              "content": "<p><strong>Unit 9:</strong> Protecting the environment, reported speech.</p><p><strong>Unit 10:</strong> Ecotourism, conditional sentences type 1 and 2.</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Mixed Exercise",
+            "method": "<p>Review all grammar points and vocabulary from previous units.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "Environmental protection has become one of the most urgent issues facing humanity. Climate change, caused primarily by greenhouse gas emissions, threatens ecosystems worldwide. Rising temperatures are melting polar ice caps, causing sea levels to rise and extreme weather events to become more frequent.\n\nMany scientists have warned that we must take immediate action to reduce our environmental impact. They said that if we don't change our behavior soon, the consequences will be catastrophic. Governments and organizations around the world are working to develop sustainable solutions, from renewable energy to conservation programs.\n\nIndividual actions also matter. Simple changes like reducing plastic use, conserving water and energy, and supporting eco-friendly products can make a difference. Education plays a crucial role in raising awareness about environmental issues and inspiring people to take action.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Environmental problems are not serious",
+                  "Environmental protection requires urgent action from everyone",
+                  "Only governments can solve environmental problems",
+                  "Climate change is not real"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về sự cấp thiết của bảo vệ môi trường và cần hành động từ mọi người."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, what is causing climate change?",
+                "options": [
+                  "Natural disasters",
+                  "Greenhouse gas emissions",
+                  "Ocean currents",
+                  "Solar activity"
+                ],
+                "correct": 1,
+                "explanation": "Khí thải nhà kính là nguyên nhân chính gây biến đổi khí hậu."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'catastrophic' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "beneficial",
+                  "disastrous",
+                  "minor",
+                  "positive"
+                ],
+                "correct": 1,
+                "explanation": "Catastrophic = disastrous (thảm khốc, tai hại)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What did scientists warn about?",
+                "options": [
+                  "The weather will always be perfect",
+                  "We must take immediate action or face catastrophic consequences",
+                  "Nothing needs to be done",
+                  "Environmental problems will solve themselves"
+                ],
+                "correct": 1,
+                "explanation": "Các nhà khoa học cảnh báo phải hành động ngay hoặc đối mặt hậu quả thảm khốc."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, what role does education play?",
+                "options": [
+                  "No role at all",
+                  "Raising awareness and inspiring action",
+                  "Making problems worse",
+                  "Confusing people"
+                ],
+                "correct": 1,
+                "explanation": "Giáo dục đóng vai trò nâng cao nhận thức và truyền cảm hứng hành động."
+              }
+            ]
+          },
+          {
+            "id": "reading2",
+            "type": "reading",
+            "passage": "Ecotourism is a form of sustainable travel that focuses on protecting the environment and supporting local communities. Unlike mass tourism, which can damage natural areas and exploit local cultures, ecotourism aims to minimize negative impacts while providing economic benefits.\n\nIf more people chose ecotourism, many endangered ecosystems would be better protected. Ecotourists respect local customs and wildlife, follow designated trails, and avoid littering. The money they spend goes directly to conservation projects and local businesses, helping communities develop sustainably.\n\nHowever, ecotourism faces challenges. If destinations become too popular, they might suffer from overcrowding and environmental degradation. That's why responsible travel practices and proper management are essential. If we all traveled more responsibly, we could enjoy nature's beauty while preserving it for future generations.",
+            "questions": [
+              {
+                "id": "reading2-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "All tourism is harmful",
+                  "Ecotourism protects the environment while benefiting communities",
+                  "Tourism should be banned",
+                  "Mass tourism is better than ecotourism"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về cách du lịch sinh thái bảo vệ môi trường và có lợi cho cộng đồng."
+              },
+              {
+                "id": "reading2-q2",
+                "question": "How is ecotourism different from mass tourism?",
+                "options": [
+                  "It's more expensive",
+                  "It aims to minimize negative impacts",
+                  "It attracts fewer tourists",
+                  "It's only for rich people"
+                ],
+                "correct": 1,
+                "explanation": "Du lịch sinh thái nhằm giảm thiểu tác động tiêu cực."
+              },
+              {
+                "id": "reading2-q3",
+                "question": "The word 'exploit' in paragraph 1 is closest in meaning to ______.",
+                "options": [
+                  "respect",
+                  "take unfair advantage of",
+                  "protect",
+                  "support"
+                ],
+                "correct": 1,
+                "explanation": "Exploit = take unfair advantage of (bóc lột, lợi dụng không công bằng)."
+              },
+              {
+                "id": "reading2-q4",
+                "question": "What would happen if more people chose ecotourism?",
+                "options": [
+                  "Ecosystems would be destroyed",
+                  "Endangered ecosystems would be better protected",
+                  "Tourism would stop completely",
+                  "Nothing would change"
+                ],
+                "correct": 1,
+                "explanation": "Nếu nhiều người chọn du lịch sinh thái, hệ sinh thái sẽ được bảo vệ tốt hơn."
+              },
+              {
+                "id": "reading2-q5",
+                "question": "What challenge does ecotourism face?",
+                "options": [
+                  "Not enough tourists",
+                  "Too cheap prices",
+                  "Overcrowding at popular destinations",
+                  "Lack of natural areas"
+                ],
+                "correct": 2,
+                "explanation": "Du lịch sinh thái đối mặt với vấn đề quá đông tại các điểm đến phổ biến."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "He said that they ______ a volunteer campaign the next day.",
+            "options": ["start", "will start", "would start", "started"],
+            "correct": 2,
+            "explanation": "Câu gián tiếp lùi thì 'will' thành 'would' (the next day)."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "If people ______ awareness of the environment, the planet will be better.",
+            "options": ["have", "had", "will have", "having"],
+            "correct": 0,
+            "explanation": "Câu điều kiện loại 1."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "Ecotourism can provide ______ benefits to the local community.",
+            "options": ["economic", "economy", "economically", "economical"],
+            "correct": 0,
+            "explanation": "Economic benefits: lợi ích kinh tế."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "If I ______ more time, I would join the environmental club.",
+            "options": ["have", "had", "will have", "am having"],
+            "correct": 1,
+            "explanation": "Câu điều kiện loại 2."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "Many animals are losing their natural ______ due to deforestation.",
+            "options": ["habitat", "habit", "habitation", "habitant"],
+            "correct": 0,
+            "explanation": "Natural habitat: môi trường sống tự nhiên."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "She told me that she ______ to an ecotourism destination before.",
+            "options": ["goes", "went", "has gone", "had gone"],
+            "correct": 3,
+            "explanation": "Câu gián tiếp lùi thì quá khứ đơn/hiện tại hoàn thành thành quá khứ hoàn thành."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "The ______ of endangered species is a global priority.",
+            "options": ["preserve", "preservation", "preservative", "preserved"],
+            "correct": 1,
+            "explanation": "The preservation: sự bảo tồn."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "If you ______ a lot of plastic, it will take hundreds of years to decompose.",
+            "options": ["use", "used", "will use", "uses"],
+            "correct": 0,
+            "explanation": "Câu điều kiện loại 1."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "They asked me ______ I liked traveling to remote areas.",
+            "options": ["if", "that", "what", "which"],
+            "correct": 0,
+            "explanation": "Câu gián tiếp dạng câu hỏi Yes/No (dùng if/whether)."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "We should encourage ______ travel to protect the ecosystem.",
+            "options": ["sustainable", "harmful", "mass", "fast"],
+            "correct": 0,
+            "explanation": "Sustainable travel: du lịch bền vững."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "The scientist explained that global warming ______ a serious threat.",
+            "options": ["is", "was", "has been", "will be"],
+            "correct": 1,
+            "explanation": "Câu gián tiếp lùi thì hiện tại đơn thành quá khứ đơn."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "If we ______ more trees, we would have cleaner air.",
+            "options": ["plant", "planted", "will plant", "plants"],
+            "correct": 1,
+            "explanation": "Câu điều kiện loại 2 (trái với thực tế hiện tại)."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "She said that she ______ never ______ such beautiful scenery.",
+            "options": ["has - seen", "had - seen", "have - seen", "was - seeing"],
+            "correct": 1,
+            "explanation": "Câu gián tiếp lùi thì hiện tại hoàn thành thành quá khứ hoàn thành."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "If tourists ______ the rules, natural areas will be preserved.",
+            "options": ["follow", "followed", "will follow", "follows"],
+            "correct": 0,
+            "explanation": "Câu điều kiện loại 1."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "The guide told us that we ______ feed the wild animals.",
+            "options": ["must not", "mustn't", "shouldn't", "couldn't"],
+            "correct": 2,
+            "explanation": "Trong câu gián tiếp, 'must not' thường chuyển thành 'shouldn't' hoặc giữ nguyên."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "In reported speech, 'will' changes to 'would'.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Trong câu gián tiếp, 'will' lùi thành 'would'."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "Conditional type 1 uses 'would' in the main clause.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Câu điều kiện loại 1 dùng 'will' trong mệnh đề chính, không phải 'would'."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Conditional type 2 describes unreal or hypothetical situations in the present.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Câu điều kiện loại 2 mô tả tình huống không có thật ở hiện tại."
+          },
+          {
+            "id": "msq4",
+            "type": "msq",
+            "question_text": "Deforestation helps protect biodiversity.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Phá rừng làm giảm đa dạng sinh học, không bảo vệ nó."
+          },
+          {
+            "id": "msq5",
+            "type": "msq",
+            "question_text": "Ecotourism aims to minimize negative environmental impacts.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Du lịch sinh thái nhằm giảm thiểu tác động tiêu cực đến môi trường."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call the natural home of an animal or plant? (one word)",
+            "correct": "habitat",
+            "explanation": "Habitat: môi trường sống - nơi sinh sống tự nhiên."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: If it rains tomorrow, we ______ stay home. (will)",
+            "correct": "will",
+            "explanation": "Conditional type 1: If + present simple, S + will + V."
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question_text": "What type of tourism focuses on protecting the environment? (one word)",
+            "correct": "ecotourism",
+            "explanation": "Ecotourism: du lịch sinh thái - tập trung vào bảo vệ môi trường."
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question_text": "Complete: She said that she ______ tired. (was)",
+            "correct": "was",
+            "explanation": "Reported speech: 'am/is' lùi thành 'was'."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about what you would do if you were the Minister of Environment. Use conditional type 2.",
+            "sample_answer": "If I were the Minister of Environment, I would implement several important policies to protect our planet. First, I would ban single-use plastics and encourage people to use eco-friendly alternatives. Second, I would invest heavily in renewable energy sources like solar and wind power to reduce our dependence on fossil fuels. Third, I would create more national parks and protected areas to preserve biodiversity. I would also launch educational campaigns to raise public awareness about environmental issues. If everyone understood the importance of protecting nature, they would change their behavior. Additionally, I would impose strict penalties on companies that pollute the environment. These actions would help create a cleaner and healthier planet for future generations.",
+            "explanation": "Bài viết cần sử dụng câu điều kiện loại 2 để mô tả những gì sẽ làm trong tình huống giả định."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about the environmental problems in your area and what should be done to solve them.",
+            "sample_answer": "My neighborhood faces several environmental problems that need urgent attention. The most serious issue is air pollution caused by vehicle emissions and factory smoke. Many people have complained that the air quality has worsened in recent years. Another problem is plastic waste, which litters streets and clogs drainage systems. The local government said that they would implement a recycling program, but nothing has happened yet. To solve these problems, I believe we should promote public transportation to reduce vehicle emissions. If more people used buses instead of motorbikes, the air would be much cleaner. We also need stricter regulations on factories and better waste management systems. Community education programs would help people understand their role in protecting the environment.",
+            "explanation": "Bài viết cần mô tả vấn đề môi trường và đề xuất giải pháp cụ thể."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about an ecotourism destination you would like to visit. Explain why and what you would do there.",
+            "sample_answer": "If I had the opportunity, I would love to visit Phong Nha-Ke Bang National Park, a UNESCO World Heritage Site in Viet Nam. This ecotourism destination is famous for its spectacular caves and pristine forests. If I went there, I would explore the magnificent Son Doong Cave, the world's largest cave. I would also trek through the jungle to observe rare wildlife in their natural habitat. The park offers sustainable tourism activities that support local communities while protecting the environment. I would stay in eco-friendly accommodations and buy handicrafts from local artisans. Visiting this destination would allow me to experience nature's beauty while contributing to conservation efforts. It would be an unforgettable adventure that combines education, adventure, and environmental responsibility.",
+            "explanation": "Bài viết cần mô tả điểm đến du lịch sinh thái và hoạt động sẽ tham gia."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) reporting what your teacher said about climate change. Use reported speech.",
+            "sample_answer": "Last week, my teacher gave us an important lesson about climate change. She said that climate change was one of the biggest challenges facing humanity. She explained that human activities, especially burning fossil fuels, were causing global temperatures to rise. She told us that if we didn't take action immediately, the consequences would be catastrophic. She mentioned that many species were already losing their habitats due to environmental changes. She asked us what we could do to help protect the environment. She suggested that we should reduce our carbon footprint by using less energy and recycling more. She also said that young people had the power to make a difference. Her words inspired me to become more environmentally conscious and take action in my daily life.",
+            "explanation": "Bài viết cần sử dụng câu gián tiếp để tường thuật lại lời nói của giáo viên."
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about what would happen if everyone lived more sustainably. Use conditional type 2.",
+            "sample_answer": "If everyone lived more sustainably, the world would be a much better place. If people reduced their consumption and waste, we would have less pollution and cleaner air. If everyone chose renewable energy instead of fossil fuels, greenhouse gas emissions would decrease dramatically. If we all bought local and organic products, we would support sustainable agriculture and reduce transportation emissions. If people traveled more responsibly and chose ecotourism, natural habitats would be better protected. If everyone planted trees and created green spaces, cities would be cooler and more pleasant. If we all made these changes, future generations would inherit a healthier planet. Although this scenario seems idealistic, every small action counts, and if more people adopted sustainable lifestyles, we could make this vision a reality.",
+            "explanation": "Bài viết cần sử dụng câu điều kiện loại 2 để mô tả thế giới lý tưởng nếu mọi người sống bền vững."
+          }
+        ]
+      }
+    }
+  ]
+}

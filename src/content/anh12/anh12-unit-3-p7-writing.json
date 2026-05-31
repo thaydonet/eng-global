@@ -1,0 +1,27 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-3-p7",
+  "name": "Part 7: Writing",
+  "slug": "p7-writing",
+  "description": "Viết đề xuất về sống xanh",
+  "duration_minutes": 60,
+  "difficulty_level": "hard",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Writing: A Proposal About Green Living",
+      "sections": [
+        {
+          "heading": "Writing Skills",
+          "content": "<p><strong>Chủ đề:</strong> Writing a proposal about green living</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết đề xuất về sống xanh</li><li>Sử dụng phrasal verbs và relative clauses</li><li>Trình bày vấn đề và giải pháp</li><li>Thuyết phục người đọc</li></ul><p><strong>Cấu trúc đề xuất:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Title:</strong> Tiêu đề đề xuất</li><li><strong>Introduction:</strong> Giới thiệu vấn đề môi trường</li><li><strong>Body Paragraph 1:</strong> Đề xuất giải pháp 1</li><li><strong>Body Paragraph 2:</strong> Đề xuất giải pháp 2</li><li><strong>Body Paragraph 3:</strong> Lợi ích và kết quả mong đợi</li><li><strong>Conclusion:</strong> Kêu gọi hành động</li></ul><p><strong>Useful language:</strong></p><ul class='list-disc pl-5 space-y-2'><li>This proposal aims to...</li><li>I would like to propose...</li><li>One solution is to...</li><li>We should turn off/cut down on/give up...</li><li>This will help reduce/save...</li><li>By implementing this, we can...</li><li>I strongly recommend that...</li></ul>"
+        },
+        {
+          "heading": "Project: Green Living Campaign",
+          "content": "<p><strong>Đề tài:</strong> Create a green living campaign for your school</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Xác định vấn đề môi trường trong trường</li><li>Nghiên cứu các giải pháp xanh khả thi</li><li>Thiết kế chiến dịch với slogan và poster</li><li>Lập kế hoạch hành động cụ thể</li><li>Tạo presentation để trình bày</li><li>Thuyết trình trước lớp (5-7 phút)</li></ul><p><strong>Gợi ý chiến dịch:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Plastic-Free School Week</li><li>Energy Saving Challenge</li><li>School Recycling Program</li><li>Green Garden Project</li><li>Bike to School Campaign</li></ul>"
+        }
+      ]
+    },
+    "exercises": []
+  }
+}

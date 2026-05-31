@@ -1,0 +1,204 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-5-p2",
+  "name": "Part 2: Language - Vocabulary",
+  "slug": "p2-vocabulary",
+  "description": "Từ vựng về thế giới việc làm",
+  "duration_minutes": 45,
+  "difficulty_level": "easy",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Vocabulary: The World of Work",
+      "sections": [
+        {
+          "heading": "1. Từ vựng (Vocabulary)",
+          "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Career</td><td class='px-4 py-2'>(n) /kəˈrɪə(r)/</td><td class='px-4 py-2'>Sự nghiệp</td><td class='px-4 py-2'>Choose a suitable career.</td></tr><tr><td class='px-4 py-2 font-bold'>Qualification</td><td class='px-4 py-2'>(n) /ˌkwɒlɪfɪˈkeɪʃn/</td><td class='px-4 py-2'>Bằng cấp</td><td class='px-4 py-2'>He has good qualifications.</td></tr><tr><td class='px-4 py-2 font-bold'>Experience</td><td class='px-4 py-2'>(n) /ɪkˈspɪəriəns/</td><td class='px-4 py-2'>Kinh nghiệm</td><td class='px-4 py-2'>She has five years of experience.</td></tr><tr><td class='px-4 py-2 font-bold'>Apply</td><td class='px-4 py-2'>(v) /əˈplaɪ/</td><td class='px-4 py-2'>Nộp đơn</td><td class='px-4 py-2'>Apply for a job.</td></tr><tr><td class='px-4 py-2 font-bold'>Interview</td><td class='px-4 py-2'>(n,v) /ˈɪntəvjuː/</td><td class='px-4 py-2'>Phỏng vấn</td><td class='px-4 py-2'>Attend a job interview.</td></tr><tr><td class='px-4 py-2 font-bold'>CV (Curriculum Vitae)</td><td class='px-4 py-2'>(n) /ˌsiː ˈviː/</td><td class='px-4 py-2'>Sơ yếu lý lịch</td><td class='px-4 py-2'>Send your CV to employers.</td></tr><tr><td class='px-4 py-2 font-bold'>Salary</td><td class='px-4 py-2'>(n) /ˈsæləri/</td><td class='px-4 py-2'>Lương</td><td class='px-4 py-2'>Negotiate your salary.</td></tr><tr><td class='px-4 py-2 font-bold'>Employer</td><td class='px-4 py-2'>(n) /ɪmˈplɔɪə(r)/</td><td class='px-4 py-2'>Nhà tuyển dụng</td><td class='px-4 py-2'>Employers seek skilled workers.</td></tr><tr><td class='px-4 py-2 font-bold'>Employee</td><td class='px-4 py-2'>(n) /ɪmˈplɔɪiː/</td><td class='px-4 py-2'>Nhân viên</td><td class='px-4 py-2'>A hardworking employee.</td></tr><tr><td class='px-4 py-2 font-bold'>Recruit</td><td class='px-4 py-2'>(v) /rɪˈkruːt/</td><td class='px-4 py-2'>Tuyển dụng</td><td class='px-4 py-2'>Recruit new staff.</td></tr><tr><td class='px-4 py-2 font-bold'>Promotion</td><td class='px-4 py-2'>(n) /prəˈməʊʃn/</td><td class='px-4 py-2'>Thăng chức</td><td class='px-4 py-2'>Get a promotion.</td></tr><tr><td class='px-4 py-2 font-bold'>Resign</td><td class='px-4 py-2'>(v) /rɪˈzaɪn/</td><td class='px-4 py-2'>Từ chức</td><td class='px-4 py-2'>Resign from your position.</td></tr><tr><td class='px-4 py-2 font-bold'>Internship</td><td class='px-4 py-2'>(n) /ˈɪntɜːnʃɪp/</td><td class='px-4 py-2'>Thực tập</td><td class='px-4 py-2'>Do an internship.</td></tr><tr><td class='px-4 py-2 font-bold'>Skill</td><td class='px-4 py-2'>(n) /skɪl/</td><td class='px-4 py-2'>Kỹ năng</td><td class='px-4 py-2'>Develop new skills.</td></tr><tr><td class='px-4 py-2 font-bold'>Candidate</td><td class='px-4 py-2'>(n) /ˈkændɪdət/</td><td class='px-4 py-2'>Ứng viên</td><td class='px-4 py-2'>A qualified candidate.</td></tr><tr><td class='px-4 py-2 font-bold'>Reference</td><td class='px-4 py-2'>(n) /ˈrefrəns/</td><td class='px-4 py-2'>Thư giới thiệu</td><td class='px-4 py-2'>Provide references.</td></tr></tbody></table></div>"
+        },
+        {
+          "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+          "content": "<p><strong>Job application process (Quy trình xin việc):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>apply for a job:</strong> nộp đơn xin việc</li><li><strong>submit a CV:</strong> nộp sơ yếu lý lịch</li><li><strong>cover letter:</strong> thư xin việc</li><li><strong>job interview:</strong> phỏng vấn xin việc</li><li><strong>job offer:</strong> lời mời làm việc</li><li><strong>accept/decline an offer:</strong> chấp nhận/từ chối lời mời</li></ul><p><strong>Skills and qualifications (Kỹ năng và bằng cấp):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>hard skills:</strong> kỹ năng cứng (kỹ thuật)</li><li><strong>soft skills:</strong> kỹ năng mềm (giao tiếp, làm việc nhóm)</li><li><strong>work experience:</strong> kinh nghiệm làm việc</li><li><strong>educational background:</strong> nền tảng giáo dục</li><li><strong>professional qualification:</strong> bằng cấp chuyên môn</li><li><strong>certificate:</strong> chứng chỉ</li></ul><p><strong>Workplace vocabulary (Từ vựng nơi làm việc):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>colleague:</strong> đồng nghiệp</li><li><strong>supervisor/manager:</strong> người giám sát/quản lý</li><li><strong>teamwork:</strong> làm việc nhóm</li><li><strong>deadline:</strong> hạn chót</li><li><strong>overtime:</strong> làm thêm giờ</li><li><strong>work-life balance:</strong> cân bằng công việc và cuộc sống</li></ul><p><strong>Career development (Phát triển nghề nghiệp):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>career path:</strong> con đường sự nghiệp</li><li><strong>career goals:</strong> mục tiêu nghề nghiệp</li><li><strong>promotion:</strong> thăng chức</li><li><strong>professional development:</strong> phát triển chuyên môn</li><li><strong>job satisfaction:</strong> sự hài lòng với công việc</li></ul><p><strong>Collocations về công việc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>full-time job:</strong> công việc toàn thời gian</li><li><strong>part-time job:</strong> công việc bán thời gian</li><li><strong>competitive salary:</strong> mức lương cạnh tranh</li><li><strong>job security:</strong> sự ổn định công việc</li><li><strong>career opportunities:</strong> cơ hội nghề nghiệp</li></ul>"
+        },
+        {
+          "heading": "3. Ngữ âm: Sentence stress in statements and questions",
+          "content": "<h3>Sentence stress patterns</h3><p><strong>Quy tắc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Statements (Câu trần thuật):</strong> Nhấn vào từ quan trọng (content words)</li><li>Ex: I <strong>APPLIED</strong> for a <strong>JOB</strong> at a <strong>TECH COMPANY</strong>.</li><li><strong>Questions (Câu hỏi):</strong> Nhấn vào từ để hỏi và từ quan trọng</li><li>Ex: <strong>WHERE</strong> did you <strong>WORK</strong> before?</li><li>Ex: <strong>WHAT</strong> are your <strong>QUALIFICATIONS</strong>?</li><li><strong>Content words (nhấn):</strong> nouns, main verbs, adjectives, adverbs, question words</li><li><strong>Function words (không nhấn):</strong> articles, prepositions, pronouns, auxiliary verbs</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "vocab-ex1",
+        "type": "mcq",
+        "question": "Choose the correct word: 'I need to _____ for a job at that company.'",
+        "options": ["apply", "application", "applied", "applying"],
+        "correct": 0,
+        "explanation": "'Apply' (v) là động từ đúng sau 'need to'."
+      },
+      {
+        "id": "vocab-ex2",
+        "type": "mcq",
+        "question": "What does 'CV' stand for?",
+        "options": ["Career Vision", "Curriculum Vitae", "Company Value", "Career Volunteer"],
+        "correct": 1,
+        "explanation": "CV là viết tắt của Curriculum Vitae (sơ yếu lý lịch)."
+      },
+      {
+        "id": "vocab-ex3",
+        "type": "mcq",
+        "question": "Complete: 'She has five years of work _____.'",
+        "options": ["experience", "experienced", "experiencing", "experiences"],
+        "correct": 0,
+        "explanation": "'Experience' (n) là danh từ không đếm được."
+      },
+      {
+        "id": "vocab-ex4",
+        "type": "mcq",
+        "question": "What is an 'interview'?",
+        "options": ["A written test", "A meeting to assess a candidate", "A salary", "A certificate"],
+        "correct": 1,
+        "explanation": "Interview là cuộc phỏng vấn để đánh giá ứng viên."
+      },
+      {
+        "id": "vocab-ex5",
+        "type": "mcq",
+        "question": "What does 'promotion' mean?",
+        "options": ["Being fired", "Moving to a higher position", "Quitting", "Starting work"],
+        "correct": 1,
+        "explanation": "'Promotion' nghĩa là thăng chức lên vị trí cao hơn."
+      },
+      {
+        "id": "vocab-ex6",
+        "type": "mcq",
+        "question": "Complete: 'The company will _____ new employees next month.'",
+        "options": ["recruit", "recruitment", "recruited", "recruiting"],
+        "correct": 0,
+        "explanation": "'Recruit' (v) là động từ nguyên thể sau 'will'."
+      },
+      {
+        "id": "vocab-ex7",
+        "type": "mcq",
+        "question": "What are 'qualifications'?",
+        "options": ["Hobbies", "Certificates and degrees", "Friends", "Salaries"],
+        "correct": 1,
+        "explanation": "Qualifications là bằng cấp và chứng chỉ."
+      },
+      {
+        "id": "vocab-ex8",
+        "type": "mcq",
+        "question": "Choose the correct form: 'He decided to _____ from his position.'",
+        "options": ["resign", "resignation", "resigned", "resigning"],
+        "correct": 0,
+        "explanation": "'Resign' (v) là động từ nguyên thể sau 'to'."
+      },
+      {
+        "id": "vocab-ex9",
+        "type": "mcq",
+        "question": "What is an 'internship'?",
+        "options": ["A permanent job", "A temporary work experience", "A vacation", "A retirement"],
+        "correct": 1,
+        "explanation": "Internship là thực tập, kinh nghiệm làm việc tạm thời."
+      },
+      {
+        "id": "vocab-ex10",
+        "type": "mcq",
+        "question": "Complete: 'Employers look for candidates with good _____.'",
+        "options": ["skill", "skills", "skilled", "skilling"],
+        "correct": 1,
+        "explanation": "'Skills' (n) số nhiều phù hợp với ngữ cảnh."
+      },
+      {
+        "id": "vocab-ex11",
+        "type": "mcq",
+        "question": "What is the difference between 'employer' and 'employee'?",
+        "options": [
+          "No difference",
+          "Employer hires, employee works",
+          "Both mean the same",
+          "Employer is a place"
+        ],
+        "correct": 1,
+        "explanation": "Employer là nhà tuyển dụng, employee là nhân viên."
+      },
+      {
+        "id": "vocab-ex12",
+        "type": "mcq",
+        "question": "Complete: 'You need to negotiate your _____ before accepting the job.'",
+        "options": ["salary", "salaries", "salaried", "salarying"],
+        "correct": 0,
+        "explanation": "'Salary' (n) là danh từ đúng."
+      },
+      {
+        "id": "vocab-ex13",
+        "type": "mcq",
+        "question": "What does 'candidate' mean?",
+        "options": ["A job", "A person applying for a job", "A company", "A salary"],
+        "correct": 1,
+        "explanation": "'Candidate' nghĩa là ứng viên xin việc."
+      },
+      {
+        "id": "vocab-ex14",
+        "type": "mcq",
+        "question": "Choose the correct collocation: '_____ job'",
+        "options": ["big", "full-time", "heavy", "strong"],
+        "correct": 1,
+        "explanation": "'Full-time job' là cụm từ đúng nghĩa là công việc toàn thời gian."
+      },
+      {
+        "id": "vocab-ex15",
+        "type": "mcq",
+        "question": "What is a 'reference' in job applications?",
+        "options": ["A book", "A recommendation letter", "A salary", "A test"],
+        "correct": 1,
+        "explanation": "Reference là thư giới thiệu/thư tiến cử."
+      },
+      {
+        "id": "vocab-ex16",
+        "type": "msq",
+        "question_text": "Decide True or False:",
+        "options": [
+          "'Apply' means to submit an application.",
+          "'Resign' means to get promoted.",
+          "'Internship' provides work experience.",
+          "'Salary' is money paid for work."
+        ],
+        "correct": [0, 2, 3],
+        "explanation": "a) True - Apply là nộp đơn. b) False - Resign là từ chức, không phải thăng chức. c) True - Internship cung cấp kinh nghiệm. d) True - Salary là tiền lương."
+      },
+      {
+        "id": "vocab-ex17",
+        "type": "msq",
+        "question_text": "Match the words with their meanings (True if correct):",
+        "options": [
+          "Career = long-term professional path",
+          "Interview = written exam",
+          "Qualification = certificate or degree",
+          "Promotion = being fired"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Career là con đường nghề nghiệp. b) False - Interview là phỏng vấn, không phải thi viết. c) True - Qualification là bằng cấp. d) False - Promotion là thăng chức."
+      },
+      {
+        "id": "vocab-ex18",
+        "type": "sa",
+        "question_text": "Complete: I need to send my _____ when applying for a job. (CV/salary)",
+        "correct": "CV",
+        "explanation": "Cần gửi CV (sơ yếu lý lịch) khi xin việc."
+      },
+      {
+        "id": "vocab-ex19",
+        "type": "sa",
+        "question_text": "Fill in: The company will _____ new staff next month. (recruit/recruitment)",
+        "correct": "recruit",
+        "explanation": "'Recruit' (v) là động từ đúng."
+      },
+      {
+        "id": "vocab-ex20",
+        "type": "sa",
+        "question_text": "Complete the collocation: work _____ (related to skills gained from jobs)",
+        "correct": "experience",
+        "explanation": "'Work experience' là kinh nghiệm làm việc."
+      }
+    ]
+  }
+}

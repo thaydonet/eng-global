@@ -1,0 +1,309 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-unit-6-vietnamese-lifestyles-then-and-now",
+      "name": "Unit 6: Vietnamese Lifestyles: Then and Now",
+      "slug": "unit-6-vietnamese-lifestyles-then-and-now",
+      "chapter": "Unit 6: Vietnamese Lifestyles: Then and Now",
+      "chapter_id": "A9",
+      "lesson_id": 6,
+      "description": "Learn about Vietnamese lifestyles with verb + to-infinitive and verb + V-ing.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-6",
+          "name": "Vietnamese Lifestyles Vocabulary",
+          "slug": "vietnamese-lifestyles-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 6: Vietnamese Lifestyles: Then and Now",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Past lifestyle:</strong> traditional, simple, rural, agricultural, farming, manual, handmade, natural, peaceful, slow-paced</p><p><strong>Modern lifestyle:</strong> modern, urban, industrial, technological, automatic, machine-made, convenient, fast-paced, busy, stressful</p><p><strong>Changes:</strong> change, develop, improve, modernize, transform, evolve, progress, advance</p><p><strong>Activities then:</strong> farming, fishing, weaving, pottery, market, temple, festival, folk games</p><p><strong>Activities now:</strong> shopping mall, cinema, internet, smartphone, social media, online shopping, video games</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng",
+              "content": "<p>Practice using vocabulary in context about traditional and modern Vietnamese lifestyles.</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>Verb + to-infinitive & Verb + V-ing (Động từ + to V & Động từ + V-ing)</h3><p><strong>A. Verb + to-infinitive (Động từ + to V):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>want, need, would like, plan, decide, hope, expect, promise, agree, refuse, offer, manage, fail, learn, try</strong></li><li>Ex: I <strong>want to learn</strong> English.</li><li>Ex: She <strong>decided to go</strong> abroad.</li><li>Ex: They <strong>hope to visit</strong> Vietnam.</li></ul><p><strong>B. Verb + V-ing (Động từ + V-ing):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>enjoy, love, like, prefer, hate, dislike, mind, avoid, finish, stop, keep, practice, suggest, consider, miss</strong></li><li>Ex: I <strong>enjoy reading</strong> books.</li><li>Ex: She <strong>finished doing</strong> homework.</li><li>Ex: They <strong>avoid eating</strong> junk food.</li></ul><p><strong>C. Verb + to V hoặc V-ing (cùng nghĩa):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>like, love, hate, prefer, start, begin, continue</strong></li><li>Ex: I <strong>like to read</strong> / <strong>like reading</strong> books. (cùng nghĩa)</li><li>Ex: She <strong>started to work</strong> / <strong>started working</strong>.</li></ul><p><strong>D. Verb + to V hoặc V-ing (khác nghĩa):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>remember:</strong></li><li>remember + to V: nhớ phải làm gì (chưa làm)</li><li>Ex: Remember <strong>to lock</strong> the door. (nhớ khóa cửa nhé)</li><li>remember + V-ing: nhớ đã làm gì (đã làm rồi)</li><li>Ex: I remember <strong>locking</strong> the door. (tôi nhớ là đã khóa cửa)</li><li><strong>forget:</strong></li><li>forget + to V: quên làm gì (chưa làm)</li><li>Ex: I forgot <strong>to call</strong> him. (quên gọi)</li><li>forget + V-ing: quên đã làm gì (đã làm)</li><li>Ex: I'll never forget <strong>visiting</strong> Paris. (không quên chuyến thăm)</li><li><strong>stop:</strong></li><li>stop + to V: dừng lại để làm gì</li><li>Ex: I stopped <strong>to rest</strong>. (dừng lại để nghỉ)</li><li>stop + V-ing: dừng hẳn việc gì</li><li>Ex: I stopped <strong>smoking</strong>. (bỏ hút thuốc)</li><li><strong>try:</strong></li><li>try + to V: cố gắng làm gì</li><li>Ex: I tried <strong>to open</strong> the door. (cố mở cửa)</li><li>try + V-ing: thử làm gì</li><li>Ex: Try <strong>eating</strong> this. (thử ăn cái này)</li></ul>"
+            },
+            {
+              "heading": "4-11. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Verb + to-infinitive",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Động từ + to V</li><li>want, need, decide, hope, plan, promise, agree, refuse</li></ul>",
+            "examples": [
+              {
+                "question": "I want ______ (learn) English.",
+                "solution": "I want <strong>to learn</strong> English.",
+                "explanation": "want + to V"
+              },
+              {
+                "question": "She decided ______ (go) abroad.",
+                "solution": "She decided <strong>to go</strong> abroad.",
+                "explanation": "decide + to V"
+              },
+              {
+                "question": "They hope ______ (visit) Vietnam.",
+                "solution": "They hope <strong>to visit</strong> Vietnam.",
+                "explanation": "hope + to V"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Verb + V-ing",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Động từ + V-ing</li><li>enjoy, love, like, hate, finish, stop, avoid, mind, practice</li></ul>",
+            "examples": [
+              {
+                "question": "I enjoy ______ (read) books.",
+                "solution": "I enjoy <strong>reading</strong> books.",
+                "explanation": "enjoy + V-ing"
+              },
+              {
+                "question": "She finished ______ (do) homework.",
+                "solution": "She finished <strong>doing</strong> homework.",
+                "explanation": "finish + V-ing"
+              },
+              {
+                "question": "They avoid ______ (eat) junk food.",
+                "solution": "They avoid <strong>eating</strong> junk food.",
+                "explanation": "avoid + V-ing"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Verb + to V hoặc V-ing (khác nghĩa)",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>remember/forget/stop/try + to V hoặc V-ing</li><li>Chú ý nghĩa khác nhau</li></ul>",
+            "examples": [
+              {
+                "question": "Remember ______ (lock) the door. (nhớ phải khóa)",
+                "solution": "Remember <strong>to lock</strong> the door.",
+                "explanation": "remember + to V = nhớ phải làm (chưa làm)"
+              },
+              {
+                "question": "I remember ______ (lock) the door. (nhớ đã khóa)",
+                "solution": "I remember <strong>locking</strong> the door.",
+                "explanation": "remember + V-ing = nhớ đã làm (đã làm rồi)"
+              },
+              {
+                "question": "I stopped ______ (rest). (dừng lại để nghỉ)",
+                "solution": "I stopped <strong>to rest</strong>.",
+                "explanation": "stop + to V = dừng lại để làm gì"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Kết hợp các loại động từ",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Xác định động từ chính</li><li>Chọn to V hoặc V-ing phù hợp</li><li>Chú ý nghĩa của câu</li></ul>",
+            "examples": [
+              {
+                "question": "I want ______ (learn) and I enjoy ______ (practice) English.",
+                "solution": "I want <strong>to learn</strong> and I enjoy <strong>practicing</strong> English.",
+                "explanation": "want + to V; enjoy + V-ing"
+              },
+              {
+                "question": "She decided ______ (stop) ______ (smoke).",
+                "solution": "She decided <strong>to stop smoking</strong>.",
+                "explanation": "decide + to V; stop + V-ing (bỏ hút thuốc)"
+              },
+              {
+                "question": "Don't forget ______ (call) me. I'll never forget ______ (meet) you.",
+                "solution": "Don't forget <strong>to call</strong> me. I'll never forget <strong>meeting</strong> you.",
+                "explanation": "forget + to V (chưa làm); forget + V-ing (đã làm)"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I want ______ English.",
+            "options": ["learn", "to learn", "learning", "learned"],
+            "correct": 1,
+            "explanation": "want + to V"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "She decided ______ abroad.",
+            "options": ["go", "to go", "going", "went"],
+            "correct": 1,
+            "explanation": "decide + to V"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I enjoy ______ books.",
+            "options": ["read", "to read", "reading", "reads"],
+            "correct": 2,
+            "explanation": "enjoy + V-ing"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "She finished ______ homework.",
+            "options": ["do", "to do", "doing", "does"],
+            "correct": 2,
+            "explanation": "finish + V-ing"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "They avoid ______ junk food.",
+            "options": ["eat", "to eat", "eating", "eats"],
+            "correct": 2,
+            "explanation": "avoid + V-ing"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "Remember ______ the door. (nhớ phải khóa)",
+            "options": ["lock", "to lock", "locking", "locked"],
+            "correct": 1,
+            "explanation": "remember + to V = nhớ phải làm (chưa làm)"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "I remember ______ the door. (nhớ đã khóa)",
+            "options": ["lock", "to lock", "locking", "locked"],
+            "correct": 2,
+            "explanation": "remember + V-ing = nhớ đã làm (đã làm rồi)"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "I stopped ______ a rest. (dừng lại để nghỉ)",
+            "options": ["take", "to take", "taking", "took"],
+            "correct": 1,
+            "explanation": "stop + to V = dừng lại để làm gì"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I stopped ______ . (bỏ hút thuốc)",
+            "options": ["smoke", "to smoke", "smoking", "smoked"],
+            "correct": 2,
+            "explanation": "stop + V-ing = dừng hẳn việc gì"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "They hope ______ Vietnam.",
+            "options": ["visit", "to visit", "visiting", "visited"],
+            "correct": 1,
+            "explanation": "hope + to V"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which verbs are followed by to-infinitive? (Select all that apply)",
+            "options": ["want", "enjoy", "decide", "finish"],
+            "correct": [0, 2],
+            "explanation": "Đúng: want + to V, decide + to V. Sai: enjoy + V-ing, finish + V-ing"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which verbs are followed by V-ing? (Select all that apply)",
+            "options": ["enjoy", "want", "finish", "avoid"],
+            "correct": [0, 2, 3],
+            "explanation": "Đúng: enjoy + V-ing, finish + V-ing, avoid + V-ing. Sai: want + to V"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which sentences are correct? (Select all that apply)",
+            "options": ["I want to learn English.", "She enjoys reading books.", "Remember locking the door. (nhớ phải khóa)", "I stopped to rest. (dừng lại để nghỉ)"],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: want to learn, enjoys reading, stopped to rest. Sai: Remember locking (phải là 'to lock' khi nghĩa là 'nhớ phải khóa')"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: I want ______ (learn) English.",
+            "correct": "to learn",
+            "explanation": "want + to V"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: I enjoy ______ (read) books.",
+            "correct": "reading",
+            "explanation": "enjoy + V-ing"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Fill in: Remember ______ (lock) the door. (nhớ phải khóa)",
+            "correct": "to lock",
+            "explanation": "remember + to V = nhớ phải làm"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Fill in: I stopped ______ (smoke). (bỏ hút thuốc)",
+            "correct": "smoking",
+            "explanation": "stop + V-ing = dừng hẳn việc gì"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: want / I / to / learn / English / . / enjoy / I / reading / books / .",
+            "sample_answer": "I want to learn English. I enjoy reading books.",
+            "explanation": "Sắp xếp: want + to V; enjoy + V-ing"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: She plans to visit Vietnam. She enjoys traveling. → Combine with 'and'",
+            "sample_answer": "She plans to visit Vietnam and she enjoys traveling.",
+            "explanation": "Kết hợp: plan + to V; enjoy + V-ing"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Transform: Remember! You must lock the door. → Remember ______.",
+            "sample_answer": "Remember to lock the door.",
+            "explanation": "Biến đổi: must lock → remember + to lock (nhớ phải làm)"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange: decided / She / to / stop / smoking / . / forgot / I / to / call / him / .",
+            "sample_answer": "She decided to stop smoking. I forgot to call him.",
+            "explanation": "Sắp xếp: decide + to V; stop + V-ing; forget + to V"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Transform and explain the difference: I stopped to smoke. vs I stopped smoking. (Explain both meanings in Vietnamese)",
+            "sample_answer": "I stopped to smoke. = Tôi dừng lại để hút thuốc. (stop + to V = dừng lại để làm gì) I stopped smoking. = Tôi bỏ hút thuốc. (stop + V-ing = dừng hẳn việc gì)",
+            "explanation": "Biến đổi và giải thích: stop + to V (dừng lại để làm gì) khác với stop + V-ing (dừng hẳn việc gì)"
+          }
+        ]
+      }
+    }
+  ]
+}

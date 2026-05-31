@@ -1,0 +1,255 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-7-p4",
+  "name": "Part 4: Reading",
+  "slug": "p4-reading",
+  "description": "Đọc hiểu về vai trò của truyền thông",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Reading: The Role and Influence of Mass Media",
+      "sections": [
+        {
+          "heading": "Reading Skills",
+          "content": "<p><strong>Chủ đề:</strong> The role and influence of mass media</p><p><strong>Kỹ năng đọc hiểu:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Skimming:</strong> Đọc lướt để nắm ý chính</li><li><strong>Scanning:</strong> Tìm thông tin cụ thể</li><li><strong>Guessing meaning from context:</strong> Đoán nghĩa từ ngữ cảnh</li><li><strong>Identifying main ideas:</strong> Xác định ý chính của đoạn văn</li><li><strong>Understanding references:</strong> Hiểu các từ thay thế (it, they, this, that)</li></ul><p><strong>Nội dung bài đọc về:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Types of media:</strong> Các loại truyền thông (print, broadcast, digital)</li><li><strong>Media influence:</strong> Ảnh hưởng của truyền thông đến xã hội</li><li><strong>Fake news:</strong> Tin giả và cách nhận biết</li><li><strong>Media literacy:</strong> Hiểu biết về truyền thông</li><li><strong>Responsible media use:</strong> Sử dụng truyền thông có trách nhiệm</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "reading-ex1",
+        "type": "reading",
+        "passage": "The Power of Mass Media in Modern Society\n\nMass media has become so influential that it shapes how people think, behave, and interact with the world. From traditional newspapers and television to modern social media platforms, mass media reaches billions of people daily, making it one of the most powerful forces in society.\n\nThe media's influence is so strong that it can shape public opinion on important issues. When journalists report news, they act as if they are providing objective facts. However, media bias exists in both traditional and digital platforms. News organizations may present information in ways that support their political or commercial interests. This bias is so subtle that many people don't even notice it, accepting what they read or watch as complete truth.\n\nSocial media has created such a dramatic change that the way we consume information is completely different from the past. Platforms like Facebook, Twitter, and Instagram spread information so quickly that a story can reach millions within hours. Content creators and influencers have such large followings that they can shape trends and consumer behavior. A video or post can become so popular that it goes viral, reaching people across the globe.\n\nHowever, this rapid spread of information has created serious problems. Fake news has become such a significant issue that it threatens democracy and public trust. Some people share false information as if it were verified fact, without checking sources. Misinformation spreads so rapidly that millions can see it before fact-checkers identify it as false. The consequences are so serious that they can affect elections, public health, and social stability.\n\nTo address these challenges, media literacy has become essential. Schools are teaching students to critically evaluate information because the media's influence is so pervasive. We must learn to distinguish between reliable and unreliable sources, verify information from multiple sources, and think critically about what we consume. By developing these skills, we can use mass media responsibly and benefit from its positive aspects while avoiding its dangers.",
+        "questions": [
+          {
+            "id": "r1-q1",
+            "question": "What is the main idea of the passage?",
+            "options": [
+              "Mass media is perfect",
+              "Mass media is powerful and influential with both benefits and risks",
+              "Mass media should be banned",
+              "Mass media only exists online"
+            ],
+            "correct": 1,
+            "explanation": "Đoạn văn nói về sức mạnh và ảnh hưởng của truyền thông với cả lợi ích và rủi ro."
+          },
+          {
+            "id": "r1-q2",
+            "question": "According to the passage, what is media bias?",
+            "options": [
+              "Complete objectivity",
+              "Presenting information to support certain interests",
+              "Accurate reporting",
+              "Entertainment content"
+            ],
+            "correct": 1,
+            "explanation": "Media bias là trình bày thông tin để hỗ trợ lợi ích nhất định."
+          },
+          {
+            "id": "r1-q3",
+            "question": "The word 'pervasive' in the last paragraph is closest in meaning to:",
+            "options": [
+              "Rare",
+              "Widespread",
+              "Weak",
+              "Expensive"
+            ],
+            "correct": 1,
+            "explanation": "Pervasive = widespread (lan rộng, phổ biến)."
+          },
+          {
+            "id": "r1-q4",
+            "question": "What problem does fake news cause?",
+            "options": [
+              "It makes news more interesting",
+              "It threatens democracy and public trust",
+              "It has no effect",
+              "It improves society"
+            ],
+            "correct": 1,
+            "explanation": "Tin giả đe dọa dân chủ và niềm tin công chúng."
+          },
+          {
+            "id": "r1-q5",
+            "question": "According to the passage, what is the solution to media challenges?",
+            "options": [
+              "Stop using all media",
+              "Develop media literacy and critical thinking",
+              "Believe everything",
+              "Only use social media"
+            ],
+            "correct": 1,
+            "explanation": "Giải pháp là phát triển hiểu biết truyền thông và tư duy phản biện."
+          }
+        ]
+      },
+      {
+        "id": "reading-ex2",
+        "type": "reading",
+        "passage": "Social Media: A Double-Edged Sword\n\nSocial media has transformed communication in such profound ways that our lives today are unrecognizable compared to just two decades ago. Platforms like Facebook, Instagram, Twitter, and TikTok have billions of users who share news, opinions, photos, and videos every second. The impact is so significant that social media has become an integral part of modern life.\n\nThe benefits of social media are numerous. It connects people so effectively that families and friends can stay in touch across continents. Businesses use social media in such innovative ways that they can reach customers directly and build brand loyalty. Social movements spread so rapidly on these platforms that they can mobilize millions for important causes. During emergencies, information spreads so quickly that it can save lives.\n\nHowever, social media also presents serious challenges. The platforms are designed in such a way that they can be addictive, with algorithms that keep users scrolling for hours. Young people spend so much time on social media that it affects their mental health, sleep, and real-world relationships. Studies show that excessive social media use is linked to anxiety, depression, and low self-esteem.\n\nAnother major concern is the spread of misinformation. Social media algorithms work as if their only goal were engagement, not accuracy. They promote content that generates strong emotions, whether that content is true or false. Fake news spreads so fast on social media that it often reaches more people than accurate reporting. People share posts as though they had verified the information, when in reality they haven't checked the source.\n\nPrivacy is also a significant issue. Social media companies collect such vast amounts of personal data that they know more about users than users know about themselves. This data is so valuable that companies sell it to advertisers and other third parties. Many users share information as if the platforms were completely secure, not realizing the privacy risks.\n\nDespite these challenges, social media is here to stay. The key is to use it wisely. We should verify information before sharing, limit our screen time, protect our privacy, and remember that what we see online is often curated and doesn't represent reality. By using social media responsibly, we can enjoy its benefits while minimizing its harms.",
+        "questions": [
+          {
+            "id": "r2-q1",
+            "question": "What is social media's main benefit according to the passage?",
+            "options": [
+              "Making money",
+              "Connecting people and spreading information",
+              "Wasting time",
+              "Causing problems"
+            ],
+            "correct": 1,
+            "explanation": "Lợi ích chính là kết nối mọi người và lan truyền thông tin."
+          },
+          {
+            "id": "r2-q2",
+            "question": "How does social media affect young people's mental health?",
+            "options": [
+              "It has no effect",
+              "Excessive use is linked to anxiety and depression",
+              "It always improves mental health",
+              "It only affects physical health"
+            ],
+            "correct": 1,
+            "explanation": "Sử dụng quá mức liên quan đến lo âu và trầm cảm."
+          },
+          {
+            "id": "r2-q3",
+            "question": "What is the problem with social media algorithms?",
+            "options": [
+              "They are too slow",
+              "They prioritize engagement over accuracy",
+              "They are perfect",
+              "They don't work"
+            ],
+            "correct": 1,
+            "explanation": "Thuật toán ưu tiên tương tác hơn độ chính xác."
+          },
+          {
+            "id": "r2-q4",
+            "question": "What privacy concern is mentioned?",
+            "options": [
+              "There are no privacy concerns",
+              "Companies collect and sell vast amounts of personal data",
+              "Social media is completely secure",
+              "Nobody uses social media"
+            ],
+            "correct": 1,
+            "explanation": "Các công ty thu thập và bán lượng lớn dữ liệu cá nhân."
+          },
+          {
+            "id": "r2-q5",
+            "question": "What should we do to use social media responsibly?",
+            "options": [
+              "Share everything without checking",
+              "Verify information, limit screen time, and protect privacy",
+              "Never use social media",
+              "Believe everything we see"
+            ],
+            "correct": 1,
+            "explanation": "Nên xác minh thông tin, giới hạn thời gian và bảo vệ riêng tư."
+          }
+        ]
+      },
+      {
+        "id": "mcq1",
+        "type": "mcq",
+        "question": "What does 'pervasive' mean?",
+        "options": ["Rare", "Widespread", "Weak", "Expensive"],
+        "correct": 1,
+        "explanation": "'Pervasive' nghĩa là lan rộng, phổ biến."
+      },
+      {
+        "id": "mcq2",
+        "type": "mcq",
+        "question": "The word 'curated' in the passage means:",
+        "options": ["Random", "Carefully selected", "Deleted", "Ignored"],
+        "correct": 1,
+        "explanation": "'Curated' nghĩa là được chọn lọc cẩn thận."
+      },
+      {
+        "id": "mcq3",
+        "type": "mcq",
+        "question": "What is 'media literacy'?",
+        "options": ["Reading newspapers", "Ability to critically evaluate information", "Watching TV", "Using social media"],
+        "correct": 1,
+        "explanation": "Media literacy là khả năng đánh giá thông tin một cách phản biện."
+      },
+      {
+        "id": "mcq4",
+        "type": "mcq",
+        "question": "According to the passages, mass media can:",
+        "options": [
+          "Only entertain",
+          "Shape public opinion and influence behavior",
+          "Do nothing",
+          "Only cause problems"
+        ],
+        "correct": 1,
+        "explanation": "Truyền thông có thể định hình dư luận và ảnh hưởng hành vi."
+      },
+      {
+        "id": "mcq5",
+        "type": "mcq",
+        "question": "What should we do with information online?",
+        "options": [
+          "Believe everything",
+          "Verify from multiple reliable sources",
+          "Ignore it all",
+          "Share without checking"
+        ],
+        "correct": 1,
+        "explanation": "Nên xác minh từ nhiều nguồn đáng tin cậy."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Based on the passages, decide True or False:",
+        "options": [
+          "Mass media can shape public opinion.",
+          "All information on social media is true.",
+          "Fake news spreads quickly.",
+          "Media literacy is not important."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Truyền thông định hình dư luận. b) False - Không phải tất cả đều đúng. c) True - Tin giả lan nhanh. d) False - Media literacy rất quan trọng."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True or False about social media:",
+        "options": [
+          "Social media connects people globally.",
+          "Social media has no negative effects.",
+          "Excessive use can affect mental health.",
+          "Privacy is not a concern on social media."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Mạng xã hội kết nối toàn cầu. b) False - Có nhiều tác động tiêu cực. c) True - Sử dụng quá mức ảnh hưởng sức khỏe tinh thần. d) False - Riêng tư là mối lo ngại lớn."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: We should _____ information before sharing. (verify/ignore)",
+        "correct": "verify",
+        "explanation": "Chúng ta nên xác minh (verify) thông tin trước khi chia sẻ."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "What is the Vietnamese meaning of 'bias'?",
+        "correct": "thiên kiến",
+        "explanation": "'Bias' nghĩa là thiên kiến, thiên vị."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: _____ news is false information. (Fake/Real)",
+        "correct": "Fake",
+        "explanation": "Fake news là thông tin sai."
+      }
+    ]
+  }
+}

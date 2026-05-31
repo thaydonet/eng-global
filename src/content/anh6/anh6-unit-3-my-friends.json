@@ -1,0 +1,235 @@
+{
+  "subject": "Tiếng Anh 6",
+  "subject_id": 43,
+  "lessons": [
+    {
+      "id": "anh6-unit-3-my-friends",
+      "name": "Unit 3: My Friends",
+      "slug": "unit-3-my-friends",
+      "chapter": "Unit 3: My Friends",
+      "chapter_id": "A6",
+      "lesson_id": 3,
+      "description": "Learn about appearance, personality, and present continuous tense.",
+      "duration_minutes": 45,
+      "difficulty_level": "easy",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=2532&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-3",
+          "name": "Friends Vocabulary",
+          "slug": "friends-vocabulary",
+          "difficulty": "easy"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 3: My Friends",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Friend</td><td class='px-4 py-2'>(n) /frend/</td><td class='px-4 py-2'>Bạn bè</td><td class='px-4 py-2'>She is my best friend.</td></tr><tr><td class='px-4 py-2 font-bold'>Hair</td><td class='px-4 py-2'>(n) /heə(r)/</td><td class='px-4 py-2'>Tóc</td><td class='px-4 py-2'>She has long hair.</td></tr><tr><td class='px-4 py-2 font-bold'>Eye</td><td class='px-4 py-2'>(n) /aɪ/</td><td class='px-4 py-2'>Mắt</td><td class='px-4 py-2'>He has brown eyes.</td></tr><tr><td class='px-4 py-2 font-bold'>Face</td><td class='px-4 py-2'>(n) /feɪs/</td><td class='px-4 py-2'>Khuôn mặt</td><td class='px-4 py-2'>She has a round face.</td></tr><tr><td class='px-4 py-2 font-bold'>Nose</td><td class='px-4 py-2'>(n) /nəʊz/</td><td class='px-4 py-2'>Mũi</td><td class='px-4 py-2'>He has a big nose.</td></tr><tr><td class='px-4 py-2 font-bold'>Mouth</td><td class='px-4 py-2'>(n) /maʊθ/</td><td class='px-4 py-2'>Miệng</td><td class='px-4 py-2'>She has a small mouth.</td></tr><tr><td class='px-4 py-2 font-bold'>Tall</td><td class='px-4 py-2'>(adj) /tɔːl/</td><td class='px-4 py-2'>Cao</td><td class='px-4 py-2'>My brother is tall.</td></tr><tr><td class='px-4 py-2 font-bold'>Short</td><td class='px-4 py-2'>(adj) /ʃɔːt/</td><td class='px-4 py-2'>Thấp, ngắn</td><td class='px-4 py-2'>She has short hair.</td></tr><tr><td class='px-4 py-2 font-bold'>Long</td><td class='px-4 py-2'>(adj) /lɒŋ/</td><td class='px-4 py-2'>Dài</td><td class='px-4 py-2'>She has long hair.</td></tr><tr><td class='px-4 py-2 font-bold'>Kind</td><td class='px-4 py-2'>(adj) /kaɪnd/</td><td class='px-4 py-2'>Tốt bụng</td><td class='px-4 py-2'>My teacher is very kind.</td></tr><tr><td class='px-4 py-2 font-bold'>Friendly</td><td class='px-4 py-2'>(adj) /ˈfrendli/</td><td class='px-4 py-2'>Thân thiện</td><td class='px-4 py-2'>She is friendly to everyone.</td></tr><tr><td class='px-4 py-2 font-bold'>Funny</td><td class='px-4 py-2'>(adj) /ˈfʌni/</td><td class='px-4 py-2'>Vui tính</td><td class='px-4 py-2'>He is very funny.</td></tr><tr><td class='px-4 py-2 font-bold'>Clever</td><td class='px-4 py-2'>(adj) /ˈklevə(r)/</td><td class='px-4 py-2'>Thông minh</td><td class='px-4 py-2'>She is a clever student.</td></tr><tr><td class='px-4 py-2 font-bold'>Active</td><td class='px-4 py-2'>(adj) /ˈæktɪv/</td><td class='px-4 py-2'>Năng động</td><td class='px-4 py-2'>He is very active.</td></tr><tr><td class='px-4 py-2 font-bold'>Confident</td><td class='px-4 py-2'>(adj) /ˈkɒnfɪdənt/</td><td class='px-4 py-2'>Tự tin</td><td class='px-4 py-2'>She is confident.</td></tr></tbody></table></div>"
+            }
+,
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Appearance (Ngoại hình):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>tall:</strong> cao</li><li><strong>short:</strong> thấp</li><li><strong>slim:</strong> mảnh khảnh</li><li><strong>fat:</strong> béo</li><li><strong>long hair:</strong> tóc dài</li><li><strong>short hair:</strong> tóc ngắn</li><li><strong>black/brown/blonde hair:</strong> tóc đen/nâu/vàng</li><li><strong>blue/brown/green eyes:</strong> mắt xanh/nâu/xanh lá</li><li><strong>round/oval face:</strong> mặt tròn/trái xoan</li></ul><p><strong>Personality (Tính cách):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>kind:</strong> tốt bụng</li><li><strong>friendly:</strong> thân thiện</li><li><strong>funny:</strong> vui tính</li><li><strong>clever/smart:</strong> thông minh</li><li><strong>hard-working:</strong> chăm chỉ</li><li><strong>creative:</strong> sáng tạo</li><li><strong>confident:</strong> tự tin</li><li><strong>active:</strong> năng động</li><li><strong>shy:</strong> nhút nhát</li><li><strong>talkative:</strong> nói nhiều</li></ul><p><strong>Activities (Hoạt động):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>play:</strong> chơi</li><li><strong>study:</strong> học</li><li><strong>read:</strong> đọc</li><li><strong>listen to music:</strong> nghe nhạc</li><li><strong>watch TV:</strong> xem TV</li><li><strong>do homework:</strong> làm bài tập</li><li><strong>ride a bike:</strong> đi xe đạp</li><li><strong>play football:</strong> chơi bóng đá</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Sounds /b/ and /p/</h3><p><strong>1. Sound /b/ (âm hữu thanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Môi khép lại, rung thanh quản</li><li><strong>Examples:</strong></li><li>book /bʊk/</li><li>big /bɪɡ/</li><li>brown /braʊn/</li><li>brother /ˈbrʌðə(r)/</li></ul><p><strong>2. Sound /p/ (âm vô thanh):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phát âm: Môi khép lại, không rung thanh quản</li><li><strong>Examples:</strong></li><li>pen /pen/</li><li>play /pleɪ/</li><li>picture /ˈpɪktʃə(r)/</li><li>patient /ˈpeɪʃnt/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Present Continuous Tense (Thì hiện tại tiếp diễn)</h3><p><strong>1. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Diễn tả hành động đang xảy ra tại thời điểm nói</li><li>Diễn tả hành động xảy ra xung quanh thời điểm nói</li><li>Diễn tả kế hoạch trong tương lai gần</li></ul><p><strong>2. Cấu trúc:</strong></p><p><strong>a) Khẳng định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>S + am/is/are + V-ing</strong></li><li>I + am + V-ing</li><li>He/She/It + is + V-ing</li><li>You/We/They + are + V-ing</li><li>Ex: I <strong>am studying</strong> English now.</li><li>Ex: She <strong>is playing</strong> football.</li><li>Ex: They <strong>are watching</strong> TV.</li></ul><p><strong>b) Phủ định:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>S + am/is/are + not + V-ing</strong></li><li>Ex: I <strong>am not studying</strong> now.</li><li>Ex: He <strong>isn't playing</strong> football.</li><li>Ex: They <strong>aren't watching</strong> TV.</li></ul><p><strong>c) Nghi vấn:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Am/Is/Are + S + V-ing?</strong></li><li>Ex: <strong>Are</strong> you <strong>studying</strong> now?</li><li>Ex: <strong>Is</strong> she <strong>playing</strong> football?</li><li>Yes, she is. / No, she isn't.</li></ul><p><strong>3. Cách thêm -ing:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Thêm 'ing':</strong> hầu hết các động từ</li><li>play → playing, read → reading</li><li><strong>Bỏ 'e' + ing:</strong> động từ kết thúc bằng 'e'</li><li>write → writing, ride → riding</li><li><strong>Gấp đôi phụ âm + ing:</strong> động từ 1 âm tiết, kết thúc bằng 1 phụ âm, trước là 1 nguyên âm</li><li>run → running, swim → swimming, sit → sitting</li></ul><p><strong>4. Dấu hiệu nhận biết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>now (bây giờ)</li><li>at the moment (lúc này)</li><li>at present (hiện tại)</li><li>Look! (Nhìn kìa!)</li><li>Listen! (Nghe này!)</li><li>Be quiet! (Im lặng!)</li></ul><h3>B. So sánh Present Simple và Present Continuous</h3><div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Present Simple</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Present Continuous</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2'>Thói quen, sự thật</td><td class='px-4 py-2'>Hành động đang xảy ra</td></tr><tr><td class='px-4 py-2'>I go to school every day.</td><td class='px-4 py-2'>I am going to school now.</td></tr><tr><td class='px-4 py-2'>She plays tennis.</td><td class='px-4 py-2'>She is playing tennis.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Making friends - Kết bạn</p><p><strong>Nội dung chính:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Hội thoại về bạn bè</li><li>Mô tả ngoại hình và tính cách</li><li>Nói về hoạt động đang làm</li></ul>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary: Appearance and personality</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học từ vựng về ngoại hình</li><li>Học từ vựng về tính cách</li></ul><p><strong>B. Pronunciation: /b/ and /p/</strong></p><ul class='list-disc pl-5 space-y-2'><li>Phân biệt âm /b/ và /p/</li></ul>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar: Present Continuous</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học thì hiện tại tiếp diễn</li><li>So sánh với thì hiện tại đơn</li><li>Luyện tập mô tả hành động đang xảy ra</li></ul>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Chủ đề:</strong> Describing people</p><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>What does he/she look like?</li><li>He/She has...</li><li>He/She is...</li><li>What is he/she doing?</li><li>He/She is V-ing...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading: A description of friends</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc hiểu về bạn bè</li><li>Tìm thông tin về ngoại hình và tính cách</li></ul><p><strong>Speaking: Describing your friends</strong></p><ul class='list-disc pl-5 space-y-2'><li>Mô tả bạn thân</li><li>Nói về hoạt động cùng bạn</li></ul>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening: A description of a friend</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe mô tả về một người bạn</li><li>Điền thông tin còn thiếu</li></ul><p><strong>Writing: An email about your best friend</strong></p><ul class='list-disc pl-5 space-y-2'><li>Viết email giới thiệu về bạn thân</li><li>Sử dụng Present Simple và Present Continuous</li></ul>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Appearance, personality, activities</li><li><strong>Pronunciation:</strong> /b/ and /p/</li><li><strong>Grammar:</strong> Present Continuous, Present Simple vs Present Continuous</li></ul>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> My best friend</p><p><strong>Nhiệm vụ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tìm hoặc vẽ hình ảnh bạn thân</li><li>Viết mô tả (5-7 câu)</li><li>Trình bày trước lớp</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Chia động từ ở thì hiện tại tiếp diễn",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + am/is/are + V-ing</li><li>I + am, He/She/It + is, You/We/They + are</li><li>Lưu ý cách thêm -ing: play→playing, write→writing, run→running</li></ul>",
+            "examples": [
+              {
+                "question": "She ______ (read) a book now.",
+                "solution": "She <strong>is reading</strong> a book now.",
+                "explanation": "Chủ ngữ 'She' dùng 'is', động từ 'read' thêm 'ing' → is reading."
+              },
+              {
+                "question": "They ______ (play) football at the moment.",
+                "solution": "They <strong>are playing</strong> football at the moment.",
+                "explanation": "Chủ ngữ 'They' dùng 'are', động từ 'play' thêm 'ing' → are playing."
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Phân biệt Present Simple và Present Continuous",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Present Simple: thói quen (every day, always, usually)</li><li>Present Continuous: đang xảy ra (now, at the moment, Look!, Listen!)</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (go) to school every day.",
+                "solution": "I <strong>go</strong> to school every day.",
+                "explanation": "Có 'every day' → thói quen → Present Simple."
+              },
+              {
+                "question": "Look! She ______ (dance).",
+                "solution": "Look! She <strong>is dancing</strong>.",
+                "explanation": "Có 'Look!' → đang xảy ra → Present Continuous."
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Đặt câu hỏi và câu phủ định với Present Continuous",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Câu hỏi: Am/Is/Are + S + V-ing?</li><li>Phủ định: S + am/is/are + not + V-ing</li></ul>",
+            "examples": [
+              {
+                "question": "He is watching TV. (Đặt câu hỏi)",
+                "solution": "<strong>Is</strong> he <strong>watching</strong> TV?",
+                "explanation": "Đưa 'is' lên đầu câu, động từ giữ nguyên 'watching'."
+              },
+              {
+                "question": "They are playing games. (Chuyển sang phủ định)",
+                "solution": "They <strong>are not (aren't) playing</strong> games.",
+                "explanation": "Thêm 'not' sau 'are', động từ giữ nguyên 'playing'."
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Mô tả ngoại hình và tính cách",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ngoại hình: S + has/have + (adj) + N</li><li>Tính cách: S + is/are + adj</li></ul>",
+            "examples": [
+              {
+                "question": "Describe: (she / long hair)",
+                "solution": "She <strong>has long hair</strong>.",
+                "explanation": "Mô tả ngoại hình dùng 'has' + tính từ + danh từ."
+              },
+              {
+                "question": "Describe: (he / friendly)",
+                "solution": "He <strong>is friendly</strong>.",
+                "explanation": "Mô tả tính cách dùng 'is' + tính từ."
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "She ______ a book now.",
+            "options": ["read", "reads", "is reading", "are reading"],
+            "correct": 2,
+            "explanation": "Có 'now' → Present Continuous. Chủ ngữ 'She' dùng 'is reading'."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "They ______ football at the moment.",
+            "options": ["play", "plays", "is playing", "are playing"],
+            "correct": 3,
+            "explanation": "Có 'at the moment' → Present Continuous. Chủ ngữ 'They' dùng 'are playing'."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I ______ to school every day.",
+            "options": ["go", "goes", "am going", "is going"],
+            "correct": 0,
+            "explanation": "Có 'every day' → thói quen → Present Simple. Chủ ngữ 'I' dùng 'go'."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "Look! The dog ______ in the garden.",
+            "options": ["run", "runs", "is running", "are running"],
+            "correct": 2,
+            "explanation": "Có 'Look!' → Present Continuous. 'The dog' (số ít) dùng 'is running'."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "______ you ______ your homework now?",
+            "options": ["Do / do", "Are / doing", "Is / doing", "Do / doing"],
+            "correct": 1,
+            "explanation": "Có 'now' → Present Continuous. Câu hỏi với 'you' dùng 'Are you doing'."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "She ______ long hair.",
+            "options": ["have", "has", "is", "are"],
+            "correct": 1,
+            "explanation": "Mô tả ngoại hình dùng 'has'. Chủ ngữ 'She' dùng 'has'."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "My friend ______ very friendly.",
+            "options": ["am", "is", "are", "be"],
+            "correct": 1,
+            "explanation": "Mô tả tính cách dùng 'is'. 'My friend' (số ít) dùng 'is'."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "We ______ TV now.",
+            "options": ["don't watch", "aren't watching", "isn't watching", "doesn't watch"],
+            "correct": 1,
+            "explanation": "Có 'now' → Present Continuous phủ định. 'We' dùng 'aren't watching'."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "Listen! Someone ______ at the door.",
+            "options": ["knock", "knocks", "is knocking", "are knocking"],
+            "correct": 2,
+            "explanation": "Có 'Listen!' → Present Continuous. 'Someone' (số ít) dùng 'is knocking'."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "He usually ______ football on Sunday.",
+            "options": ["play", "plays", "is playing", "are playing"],
+            "correct": 1,
+            "explanation": "Có 'usually' → thói quen → Present Simple. 'He' dùng 'plays'."
+          }
+        ]
+      }
+    }
+  ]
+}

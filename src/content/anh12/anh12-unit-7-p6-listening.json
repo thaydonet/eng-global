@@ -1,0 +1,260 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-7-p6",
+  "name": "Part 6: Listening",
+  "slug": "p6-listening",
+  "description": "Nghe về tin tức và phát thanh",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Listening: News and Broadcasting",
+      "sections": [
+        {
+          "heading": "Listening Skills",
+          "content": "<p><strong>Chủ đề:</strong> A talk about news and broadcasting</p><p><strong>Kỹ năng nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Listening for main ideas:</strong> Nghe để nắm ý chính</li><li><strong>Listening for specific information:</strong> Nghe để tìm thông tin cụ thể</li><li><strong>Note-taking:</strong> Ghi chú trong khi nghe</li><li><strong>Understanding media terms:</strong> Hiểu thuật ngữ truyền thông</li><li><strong>Identifying speaker's attitude:</strong> Nhận biết thái độ người nói</li></ul><p><strong>Nội dung bài nghe về:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Types of news media:</strong> Các loại truyền thông tin tức</li><li><strong>How news is reported:</strong> Cách đưa tin</li><li><strong>Challenges in journalism:</strong> Thách thức trong báo chí</li><li><strong>Fake news problem:</strong> Vấn đề tin giả</li><li><strong>Media responsibility:</strong> Trách nhiệm của truyền thông</li></ul><p><strong>Từ vựng quan trọng khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Media terms:</strong> journalist, reporter, broadcast, headline, article, coverage</li><li><strong>News types:</strong> breaking news, live coverage, news report, press conference</li><li><strong>Time expressions:</strong> recently, nowadays, in the past, currently</li><li><strong>Trends:</strong> spread, influence, verify, report, publish</li></ul>"
+        },
+        {
+          "heading": "Tips for Listening",
+          "content": "<p><strong>Trước khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc câu hỏi để biết cần nghe thông tin gì</li><li>Dự đoán loại thông tin (tên, số liệu, ý kiến)</li><li>Chú ý từ khóa về truyền thông và tin tức</li></ul><p><strong>Trong khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tập trung vào từ khóa và ý chính</li><li>Ghi chú các thông tin quan trọng</li><li>Chú ý các từ tín hiệu (however, therefore, for example)</li><li>Lắng nghe thái độ của người nói (positive, negative, neutral)</li></ul><p><strong>Sau khi nghe:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Kiểm tra lại câu trả lời</li><li>Đảm bảo chính tả đúng</li><li>Kiểm tra logic của câu trả lời</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "listening-ex1",
+        "type": "mcq",
+        "question": "What is the main topic of a talk about news and broadcasting?",
+        "options": [
+          "Cooking recipes",
+          "How news is reported and media challenges",
+          "Sports",
+          "Travel"
+        ],
+        "correct": 1,
+        "explanation": "Chủ đề chính là cách đưa tin và thách thức truyền thông."
+      },
+      {
+        "id": "listening-ex2",
+        "type": "mcq",
+        "question": "What does 'breaking news' mean?",
+        "options": [
+          "Old news",
+          "News that is just happening now",
+          "Fake news",
+          "Entertainment"
+        ],
+        "correct": 1,
+        "explanation": "'Breaking news' là tin tức đang xảy ra ngay bây giờ."
+      },
+      {
+        "id": "listening-ex3",
+        "type": "mcq",
+        "question": "What does 'broadcast' mean?",
+        "options": [
+          "Write",
+          "Transmit by TV or radio",
+          "Read",
+          "Delete"
+        ],
+        "correct": 1,
+        "explanation": "'Broadcast' nghĩa là phát sóng qua TV hoặc radio."
+      },
+      {
+        "id": "listening-ex4",
+        "type": "mcq",
+        "question": "Which word indicates spreading information?",
+        "options": ["Hide", "Conceal", "Spread", "Stop"],
+        "correct": 2,
+        "explanation": "'Spread' nghĩa là lan truyền thông tin."
+      },
+      {
+        "id": "listening-ex5",
+        "type": "mcq",
+        "question": "What should you do before listening?",
+        "options": [
+          "Sleep",
+          "Read the questions",
+          "Close your eyes",
+          "Talk loudly"
+        ],
+        "correct": 1,
+        "explanation": "Nên đọc câu hỏi trước khi nghe."
+      },
+      {
+        "id": "listening-ex6",
+        "type": "mcq",
+        "question": "If someone says 'News spreads so quickly', what does it mean?",
+        "options": [
+          "News is slow",
+          "News reaches many people fast",
+          "News is boring",
+          "News doesn't spread"
+        ],
+        "correct": 1,
+        "explanation": "Tin tức tiếp cận nhiều người nhanh chóng."
+      },
+      {
+        "id": "listening-ex7",
+        "type": "mcq",
+        "question": "What is a 'journalist'?",
+        "options": [
+          "A doctor",
+          "A person who reports news",
+          "A teacher",
+          "A chef"
+        ],
+        "correct": 1,
+        "explanation": "Journalist là người đưa tin, nhà báo."
+      },
+      {
+        "id": "listening-ex8",
+        "type": "mcq",
+        "question": "Which is a news media type you might hear about?",
+        "options": [
+          "Pencil",
+          "Television news",
+          "Paper",
+          "Chair"
+        ],
+        "correct": 1,
+        "explanation": "Television news (tin tức TV) là loại truyền thông tin tức."
+      },
+      {
+        "id": "listening-ex9",
+        "type": "mcq",
+        "question": "What does 'verify' mean?",
+        "options": [
+          "Ignore",
+          "Check if something is true",
+          "Delete",
+          "Copy"
+        ],
+        "correct": 1,
+        "explanation": "'Verify' nghĩa là xác minh, kiểm tra tính đúng đắn."
+      },
+      {
+        "id": "listening-ex10",
+        "type": "mcq",
+        "question": "If you hear 'currently', what does it mean?",
+        "options": [
+          "In the past",
+          "At the present time",
+          "Never",
+          "In the future"
+        ],
+        "correct": 1,
+        "explanation": "'Currently' nghĩa là hiện tại, hiện nay."
+      },
+      {
+        "id": "listening-ex11",
+        "type": "mcq",
+        "question": "What should you focus on while listening?",
+        "options": [
+          "Background noise",
+          "Keywords and main ideas",
+          "Nothing",
+          "Your phone"
+        ],
+        "correct": 1,
+        "explanation": "Nên tập trung vào từ khóa và ý chính."
+      },
+      {
+        "id": "listening-ex12",
+        "type": "mcq",
+        "question": "Which phrase shows contrast?",
+        "options": ["Moreover", "However", "Furthermore", "Additionally"],
+        "correct": 1,
+        "explanation": "'However' thể hiện sự tương phản."
+      },
+      {
+        "id": "listening-ex13",
+        "type": "mcq",
+        "question": "What is 'fake news'?",
+        "options": [
+          "Real information",
+          "False information",
+          "Entertainment",
+          "Advertising"
+        ],
+        "correct": 1,
+        "explanation": "Fake news là thông tin sai, tin giả."
+      },
+      {
+        "id": "listening-ex14",
+        "type": "mcq",
+        "question": "If you miss an answer while listening, you should:",
+        "options": [
+          "Stop and give up",
+          "Keep listening for the next answer",
+          "Leave the room",
+          "Panic"
+        ],
+        "correct": 1,
+        "explanation": "Nên tiếp tục nghe để trả lời câu tiếp theo."
+      },
+      {
+        "id": "listening-ex15",
+        "type": "mcq",
+        "question": "What does 'coverage' mean in news context?",
+        "options": [
+          "A blanket",
+          "The reporting of news",
+          "A roof",
+          "A book"
+        ],
+        "correct": 1,
+        "explanation": "'Coverage' trong ngữ cảnh tin tức nghĩa là sự đưa tin."
+      },
+      {
+        "id": "msq1",
+        "type": "msq",
+        "question_text": "Decide if these are good listening strategies (True/False):",
+        "options": [
+          "Read questions before listening",
+          "Try to understand every single word",
+          "Focus on keywords",
+          "Ignore signal words like 'however'"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Nên đọc câu hỏi trước. b) False - Không cần hiểu từng từ. c) True - Tập trung vào từ khóa. d) False - Từ tín hiệu quan trọng."
+      },
+      {
+        "id": "msq2",
+        "type": "msq",
+        "question_text": "Mark True if the word relates to NEWS:",
+        "options": [
+          "Broadcast",
+          "Cooking",
+          "Journalist",
+          "Dancing"
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Broadcast là phát sóng tin. b) False - Cooking không liên quan. c) True - Journalist là nhà báo. d) False - Dancing không liên quan."
+      },
+      {
+        "id": "sa1",
+        "type": "sa",
+        "question_text": "Complete: News _____ so quickly on social media. (spreads/stops)",
+        "correct": "spreads",
+        "explanation": "Tin tức lan truyền (spreads) nhanh trên mạng xã hội."
+      },
+      {
+        "id": "sa2",
+        "type": "sa",
+        "question_text": "What does 'verify' mean? (Write in Vietnamese)",
+        "correct": "xác minh",
+        "explanation": "'Verify' nghĩa là xác minh."
+      },
+      {
+        "id": "sa3",
+        "type": "sa",
+        "question_text": "Complete: A _____ reports the news. (one word)",
+        "correct": "journalist",
+        "explanation": "Journalist (nhà báo) đưa tin."
+      }
+    ]
+  }
+}

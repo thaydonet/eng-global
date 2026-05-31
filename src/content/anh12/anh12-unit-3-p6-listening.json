@@ -1,0 +1,23 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-3-p6",
+  "name": "Part 6: Listening",
+  "slug": "p6-listening",
+  "description": "Nghe về các mẹo sống xanh",
+  "duration_minutes": 45,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Listening: A Talk About Green Living Tips",
+      "sections": [
+        {
+          "heading": "Listening Skills",
+          "content": "<p><strong>Chủ đề:</strong> A talk about green living tips</p><p><strong>Kỹ năng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe hiểu về các mẹo sống xanh</li><li>Điền thông tin về hành động bảo vệ môi trường</li><li>Trả lời câu hỏi về lợi ích</li><li>Ghi chú các giải pháp được đề xuất</li></ul><p><strong>Nội dung:</strong> Bài nghe về:</p><ul class='list-disc pl-5 space-y-2'><li>Cách tiết kiệm năng lượng tại nhà</li><li>Giảm thiểu rác thải nhựa</li><li>Sử dụng sản phẩm thân thiện môi trường</li><li>Lợi ích của tái chế</li></ul>"
+        }
+      ]
+    },
+    "exercises": []
+  }
+}

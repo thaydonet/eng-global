@@ -1,0 +1,225 @@
+{
+  "id": "anh12-unit-3-p1",
+  "name": "Part 1: Getting Started - Going Green",
+  "content": {
+    "theory": {
+      "title": "Getting Started: Going Green",
+      "sections": [
+        {
+          "heading": "1. Tóm tắt lý thuyết",
+          "content": "<div class='bg-gradient-to-r from-green-50 to-emerald-50 dark:from-green-900/20 dark:to-emerald-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-green-900 dark:text-green-300'>🌱 Sống xanh - Green Living</h3><div class='space-y-4'><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-green-700 dark:text-green-400 mb-3'>Khái niệm chính:</h4><ul class='list-disc pl-6 space-y-2'><li><strong>Green Living (Sống xanh):</strong> Lối sống thân thiện với môi trường, giảm thiểu tác động tiêu cực đến thiên nhiên</li><li><strong>The 3Rs:</strong> Reduce (Giảm thiểu), Reuse (Tái sử dụng), Recycle (Tái chế)</li><li><strong>Sustainable Development (Phát triển bền vững):</strong> Phát triển đáp ứng nhu cầu hiện tại mà không làm tổn hại đến thế hệ tương lai</li><li><strong>Carbon Footprint (Dấu chân carbon):</strong> Tổng lượng khí nhà kính do hoạt động của con người tạo ra</li><li><strong>Renewable Energy (Năng lượng tái tạo):</strong> Năng lượng từ nguồn tự nhiên có thể tái tạo như mặt trời, gió, nước</li></ul></div><div class='bg-white dark:bg-gray-800 p-5 rounded-lg'><h4 class='font-bold text-lg text-emerald-700 dark:text-emerald-400 mb-3'>Tại sao sống xanh quan trọng?</h4><p class='mb-2'>Trong bối cảnh biến đổi khí hậu và ô nhiễm môi trường ngày càng nghiêm trọng, sống xanh giúp:</p><ul class='list-disc pl-6 space-y-1'><li>Giảm thiểu ô nhiễm không khí và nước</li><li>Bảo vệ tài nguyên thiên nhiên cho thế hệ tương lai</li><li>Giảm lượng khí thải nhà kính gây biến đổi khí hậu</li><li>Tiết kiệm chi phí năng lượng và tài nguyên</li><li>Cải thiện sức khỏe cộng đồng</li></ul></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ về Green Living",
+          "content": "<div class='space-y-4'><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg border-l-4 border-green-500'><p class='font-bold text-green-800 dark:text-green-300 mb-3'>Example 1: The 3Rs in Daily Life</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> My family practices the 3Rs every day. We reduce waste by buying only what we need, reuse shopping bags and containers, and recycle paper, plastic, and glass. This helps us cut down on the amount of trash we send to landfills.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Gia đình tôi thực hành 3Rs mỗi ngày. Chúng tôi giảm thiểu rác thải bằng cách chỉ mua những gì cần thiết, tái sử dụng túi mua sắm và hộp đựng, và tái chế giấy, nhựa và thủy tinh. Điều này giúp chúng tôi cắt giảm lượng rác gửi đến bãi rác.</p><p class='mt-2 text-sm text-blue-600 dark:text-blue-400'><strong>Giải thích:</strong> Ví dụ về việc áp dụng nguyên tắc 3Rs trong cuộc sống hàng ngày</p></div></div><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg border-l-4 border-blue-500'><p class='font-bold text-blue-800 dark:text-blue-300 mb-3'>Example 2: Energy Conservation</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> To conserve energy, I always turn off lights and unplug electronic devices when not in use. My school has installed solar panels on the roof, which generate clean electricity and reduce our carbon footprint significantly.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Để tiết kiệm năng lượng, tôi luôn tắt đèn và rút phích cắm các thiết bị điện tử khi không sử dụng. Trường tôi đã lắp đặt tấm pin mặt trời trên mái nhà, tạo ra điện sạch và giảm đáng kể dấu chân carbon của chúng tôi.</p><p class='mt-2 text-sm text-blue-600 dark:text-blue-400'><strong>Giải thích:</strong> Các hành động cụ thể để tiết kiệm năng lượng</p></div></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg border-l-4 border-purple-500'><p class='font-bold text-purple-800 dark:text-purple-300 mb-3'>Example 3: Eco-friendly Transportation</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Instead of asking my parents to drive me to school, I ride my bicycle every day. This not only reduces carbon emissions but also keeps me healthy and fit. Many of my classmates have given up using motorbikes and joined the cycling movement.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Thay vì nhờ bố mẹ chở đến trường, tôi đạp xe mỗi ngày. Điều này không chỉ giảm khí thải carbon mà còn giúp tôi khỏe mạnh. Nhiều bạn cùng lớp đã từ bỏ việc sử dụng xe máy và tham gia phong trào đạp xe.</p><p class='mt-2 text-sm text-blue-600 dark:text-blue-400'><strong>Giải thích:</strong> Lựa chọn phương tiện di chuyển thân thiện môi trường</p></div></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg border-l-4 border-orange-500'><p class='font-bold text-orange-800 dark:text-orange-300 mb-3'>Example 4: Sustainable Shopping</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> When shopping, my mother always brings reusable bags and chooses products with biodegradable packaging. She prefers buying organic vegetables from local farmers, which supports sustainable agriculture and reduces the use of harmful pesticides.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Khi mua sắm, mẹ tôi luôn mang túi tái sử dụng và chọn sản phẩm có bao bì phân hủy sinh học. Bà thích mua rau hữu cơ từ nông dân địa phương, điều này hỗ trợ nông nghiệp bền vững và giảm sử dụng thuốc trừ sâu độc hại.</p><p class='mt-2 text-sm text-blue-600 dark:text-blue-400'><strong>Giải thích:</strong> Mua sắm có trách nhiệm với môi trường</p></div></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg border-l-4 border-pink-500'><p class='font-bold text-pink-800 dark:text-pink-300 mb-3'>Example 5: Waste Management</p><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><p class='mb-2'><strong>English:</strong> Our community has set up a composting program where we turn food waste into nutrient-rich compost for gardens. We also organize monthly clean-up events to pick up litter in parks and beaches, which helps protect wildlife and keep our environment clean.</p><p class='text-gray-600 dark:text-gray-400'><strong>Tiếng Việt:</strong> Cộng đồng chúng tôi đã thiết lập chương trình ủ phân hữu cơ, nơi chúng tôi biến rác thực phẩm thành phân bón giàu dinh dưỡng cho vườn. Chúng tôi cũng tổ chức các sự kiện dọn dẹp hàng tháng để nhặt rác ở công viên và bãi biển, giúp bảo vệ động vật hoang dã và giữ môi trường sạch sẽ.</p><p class='mt-2 text-sm text-blue-600 dark:text-blue-400'><strong>Giải thích:</strong> Quản lý rác thải hiệu quả và bảo vệ môi trường</p></div></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p1-ex1",
+        "type": "mcq",
+        "question": "What does 'green living' mean?",
+        "options": ["Living in a green house", "An environmentally-friendly lifestyle", "Growing plants", "Painting everything green"],
+        "correct": 1,
+        "explanation": "'Green living' nghĩa là lối sống thân thiện với môi trường."
+      },
+      {
+        "id": "p1-ex2",
+        "type": "mcq",
+        "question": "What are the 3Rs?",
+        "options": ["Read, Write, Remember", "Reduce, Reuse, Recycle", "Run, Rest, Relax", "Remove, Replace, Repair"],
+        "correct": 1,
+        "explanation": "Ba chữ R là: Reduce (giảm), Reuse (tái sử dụng), Recycle (tái chế)."
+      },
+      {
+        "id": "p1-ex3",
+        "type": "mcq",
+        "question": "Which action helps reduce carbon emissions?",
+        "options": ["Driving more cars", "Riding a bicycle", "Using more electricity", "Buying more plastic"],
+        "correct": 1,
+        "explanation": "Đạp xe giúp giảm khí thải carbon so với sử dụng xe máy hoặc ô tô."
+      },
+      {
+        "id": "p1-ex4",
+        "type": "mcq",
+        "question": "What is 'carbon footprint'?",
+        "options": ["A footprint made of carbon", "The total greenhouse gases produced by human activities", "A type of shoe", "A walking path"],
+        "correct": 1,
+        "explanation": "'Carbon footprint' là tổng lượng khí nhà kính do hoạt động của con người tạo ra."
+      },
+      {
+        "id": "p1-ex5",
+        "type": "mcq",
+        "question": "Which is an example of renewable energy?",
+        "options": ["Coal", "Oil", "Solar power", "Natural gas"],
+        "correct": 2,
+        "explanation": "Năng lượng mặt trời (solar power) là năng lượng tái tạo."
+      },
+      {
+        "id": "p1-ex6",
+        "type": "mcq",
+        "question": "What does 'biodegradable' mean?",
+        "options": ["Cannot be broken down", "Can be broken down naturally", "Made of plastic", "Very expensive"],
+        "correct": 1,
+        "explanation": "'Biodegradable' nghĩa là có thể phân hủy sinh học, tự nhiên."
+      },
+      {
+        "id": "p1-ex7",
+        "type": "mcq",
+        "question": "According to Example 2, what did the school install?",
+        "options": ["Wind turbines", "Solar panels", "Water filters", "Air conditioners"],
+        "correct": 1,
+        "explanation": "Trường học lắp đặt tấm pin mặt trời (solar panels)."
+      },
+      {
+        "id": "p1-ex8",
+        "type": "mcq",
+        "question": "What is 'compost'?",
+        "options": ["A type of plastic", "Nutrient-rich material from decomposed organic waste", "Chemical fertilizer", "A cleaning product"],
+        "correct": 1,
+        "explanation": "Compost là phân hữu cơ giàu dinh dưỡng từ rác thải hữu cơ phân hủy."
+      },
+      {
+        "id": "p1-ex9",
+        "type": "mcq",
+        "question": "Which product is eco-friendly?",
+        "options": ["Single-use plastic bags", "Reusable shopping bags", "Styrofoam containers", "Disposable cups"],
+        "correct": 1,
+        "explanation": "Túi mua sắm tái sử dụng là sản phẩm thân thiện môi trường."
+      },
+      {
+        "id": "p1-ex10",
+        "type": "mcq",
+        "question": "What does 'organic food' mean?",
+        "options": ["Food grown with chemicals", "Food grown without harmful pesticides", "Processed food", "Fast food"],
+        "correct": 1,
+        "explanation": "Thực phẩm hữu cơ được trồng không sử dụng thuốc trừ sâu độc hại."
+      },
+      {
+        "id": "p1-ex11",
+        "type": "msq",
+        "question_text": "Decide if these statements about green living are True or False:",
+        "options": [
+          "Green living helps reduce pollution.",
+          "The 3Rs stand for Read, Write, Remember.",
+          "Solar panels generate clean electricity.",
+          "Riding a bicycle increases carbon emissions."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Sống xanh giúp giảm ô nhiễm. b) False - 3Rs là Reduce, Reuse, Recycle. c) True - Tấm pin mặt trời tạo điện sạch. d) False - Đạp xe giảm khí thải carbon."
+      },
+      {
+        "id": "p1-ex12",
+        "type": "msq",
+        "question_text": "Mark True or False for these actions:",
+        "options": [
+          "Turning off lights saves energy.",
+          "Using single-use plastic is eco-friendly.",
+          "Composting reduces waste.",
+          "Buying more than you need is sustainable."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Tắt đèn tiết kiệm năng lượng. b) False - Nhựa dùng một lần không thân thiện môi trường. c) True - Ủ phân giảm rác thải. d) False - Mua quá nhiều không bền vững."
+      },
+      {
+        "id": "p1-ex13",
+        "type": "msq",
+        "question_text": "Based on the examples, decide True or False:",
+        "options": [
+          "Reusable bags are better than plastic bags.",
+          "Organic vegetables use harmful pesticides.",
+          "Clean-up events help protect wildlife.",
+          "Driving cars is better than cycling for the environment."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - Túi tái sử dụng tốt hơn túi nhựa. b) False - Rau hữu cơ không dùng thuốc độc hại. c) True - Dọn dẹp giúp bảo vệ động vật. d) False - Đạp xe tốt hơn lái xe cho môi trường."
+      },
+      {
+        "id": "p1-ex14",
+        "type": "reading",
+        "passage": "The Zero-Waste Movement\n\nThe zero-waste movement is gaining popularity worldwide as people become more aware of environmental issues. The goal is simple: send nothing to landfills or incinerators. Instead, everything should be reused, recycled, or composted.\n\nBea Johnson, a French-American author, is known as the pioneer of the zero-waste lifestyle. Her family of four produces only one jar of trash per year! She follows five principles: Refuse what you don't need, Reduce what you do need, Reuse what you consume, Recycle what you cannot refuse or reduce, and Rot (compost) the rest.\n\nMany families are now adopting this lifestyle. They shop at bulk stores with reusable containers, make their own cleaning products, and compost food scraps. Some cities have even set ambitious zero-waste goals. San Francisco aims to achieve zero waste by 2030.\n\nThe benefits are clear: less pollution, reduced greenhouse gas emissions, and conservation of natural resources. However, critics argue that zero-waste living requires significant time and effort, and may not be practical for everyone, especially those with limited income or living in areas without proper recycling facilities.\n\nDespite challenges, the movement continues to grow. Social media has helped spread zero-waste tips and inspire others to reduce their environmental impact. Even small changes, like carrying a reusable water bottle or refusing plastic straws, can make a difference when millions of people participate.",
+        "questions": [
+          {
+            "question": "What is the main goal of the zero-waste movement?",
+            "options": ["To recycle everything", "To send nothing to landfills or incinerators", "To buy more products", "To use more plastic"],
+            "correct": 1,
+            "explanation": "Mục tiêu chính là không gửi gì đến bãi rác hoặc lò đốt."
+          },
+          {
+            "question": "Who is Bea Johnson?",
+            "options": ["A politician", "A pioneer of zero-waste lifestyle", "A scientist", "A teacher"],
+            "correct": 1,
+            "explanation": "Bea Johnson là người tiên phong trong lối sống không rác thải."
+          },
+          {
+            "question": "How much trash does Bea Johnson's family produce per year?",
+            "options": ["One bag", "One jar", "One truck", "One ton"],
+            "correct": 1,
+            "explanation": "Gia đình cô chỉ tạo ra một lọ rác mỗi năm."
+          },
+          {
+            "question": "What is one criticism of zero-waste living?",
+            "options": ["It's too easy", "It requires significant time and effort", "It's too cheap", "Everyone can do it easily"],
+            "correct": 1,
+            "explanation": "Một lời chỉ trích là nó đòi hỏi nhiều thời gian và công sức."
+          },
+          {
+            "question": "What has helped spread zero-waste tips?",
+            "options": ["Television only", "Social media", "Newspapers only", "Radio"],
+            "correct": 1,
+            "explanation": "Mạng xã hội đã giúp lan truyền các mẹo không rác thải."
+          }
+        ]
+      },
+      {
+        "id": "p1-ex15",
+        "type": "sa",
+        "question_text": "Complete the sentence: 'The 3Rs stand for Reduce, Reuse, and _____.' (one word)",
+        "correct": "Recycle",
+        "explanation": "Ba chữ R là: Reduce, Reuse, và Recycle (Tái chế)."
+      },
+      {
+        "id": "p1-ex16",
+        "type": "sa",
+        "question_text": "What is the Vietnamese meaning of 'carbon footprint'? (Write in Vietnamese)",
+        "correct": "dấu chân carbon",
+        "explanation": "'Carbon footprint' nghĩa là dấu chân carbon - tổng lượng khí nhà kính do hoạt động của con người."
+      },
+      {
+        "id": "p1-ex17",
+        "type": "sa",
+        "question_text": "Fill in the blank: '_____ energy comes from sources that can be naturally replenished.' (renewable/non-renewable)",
+        "correct": "Renewable",
+        "explanation": "Renewable energy (năng lượng tái tạo) đến từ các nguồn có thể tái tạo tự nhiên."
+      },
+      {
+        "id": "p1-ex18",
+        "type": "sa",
+        "question_text": "What do we call packaging that can break down naturally? (one word starting with 'b')",
+        "correct": "biodegradable",
+        "explanation": "'Biodegradable' nghĩa là có thể phân hủy sinh học."
+      },
+      {
+        "id": "p1-ex19",
+        "type": "mcq",
+        "question": "Which sentence best describes sustainable development?",
+        "options": [
+          "Using all resources now",
+          "Development that meets present needs without harming future generations",
+          "Ignoring environmental problems",
+          "Only focusing on economic growth"
+        ],
+        "correct": 1,
+        "explanation": "Phát triển bền vững đáp ứng nhu cầu hiện tại mà không làm tổn hại thế hệ tương lai."
+      },
+      {
+        "id": "p1-ex20",
+        "type": "essay",
+        "question": "Writing Task: Write a short paragraph (80-100 words) about your green living habits. Include:\n\n• What green actions you take daily (at least 3 actions)\n• Why these actions are important for the environment\n• How you encourage others to live green\n• What changes you plan to make in the future\n\nUse vocabulary from this lesson (reduce, reuse, recycle, sustainable, eco-friendly, carbon footprint, renewable energy, etc.)",
+        "answer_guide": "Sample Answer:\n\nI try to live green every day by practicing the 3Rs. First, I reduce waste by bringing a reusable water bottle to school instead of buying plastic bottles. Second, I reuse shopping bags and containers whenever possible. Third, I recycle paper, plastic, and glass at home. These actions help reduce my carbon footprint and protect the environment. I also turn off lights and unplug devices to conserve energy. To encourage others, I share eco-friendly tips with my classmates and participate in school clean-up events. In the future, I plan to ride my bicycle more often and convince my family to install solar panels. I believe that if everyone makes small changes, we can create a sustainable future for our planet.\n\n(Word count: 120 words)\n\nKey features:\n✓ Clear description of green actions\n✓ Explanation of environmental importance\n✓ Ways to encourage others\n✓ Future plans mentioned\n✓ Use of vocabulary: reduce, reuse, recycle, carbon footprint, eco-friendly, conserve, sustainable, solar panels\n✓ Well-structured with good flow\n✓ Personal commitment shown",
+        "explanation": "Bài viết cần mô tả cụ thể các hành động sống xanh của bạn, giải thích tại sao chúng quan trọng, cách bạn khuyến khích người khác, và kế hoạch tương lai. Sử dụng từ vựng đã học và viết với cam kết chân thật."
+      }
+    ]
+  }
+}

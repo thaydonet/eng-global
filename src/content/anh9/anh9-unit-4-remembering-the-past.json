@@ -1,0 +1,309 @@
+{
+  "subject": "Tiếng Anh 9",
+  "subject_id": 46,
+  "lessons": [
+    {
+      "id": "anh9-unit-4-remembering-the-past",
+      "name": "Unit 4: Remembering the Past",
+      "slug": "unit-4-remembering-the-past",
+      "chapter": "Unit 4: Remembering the Past",
+      "chapter_id": "A9",
+      "lesson_id": 4,
+      "description": "Learn about the past with past continuous and wish + past simple.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-4",
+          "name": "Remembering the Past Vocabulary",
+          "slug": "remembering-past-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 4: Remembering the Past",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<p><strong>Past events:</strong> memory, remember, recall, forget, remind, nostalgia, childhood, youth, generation, ancestor, heritage, tradition</p><p><strong>Historical:</strong> history, historical, ancient, old, past, former, previous, war, peace, independence, revolution</p><p><strong>Feelings:</strong> miss, regret, wish, hope, dream, proud, grateful, sad, happy, excited</p><p><strong>Time expressions:</strong> in the past, long ago, years ago, at that time, in those days, back then, once upon a time</p>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng",
+              "content": "<p>Practice using vocabulary in context about memories, historical events, and past experiences.</p>"
+            },
+            {
+              "heading": "3. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Past Continuous (Quá khứ tiếp diễn)</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + was/were + V-ing</li><li>Ex: I <strong>was studying</strong> at 8 p.m. yesterday.</li><li><strong>Phủ định:</strong> S + was/were + not + V-ing</li><li>Ex: She <strong>wasn't watching</strong> TV.</li><li><strong>Nghi vấn:</strong> Was/Were + S + V-ing?</li><li>Ex: <strong>Were you sleeping</strong> at that time?</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Hành động đang xảy ra tại thời điểm cụ thể trong quá khứ</strong></li><li>Ex: At 9 p.m. last night, I <strong>was doing</strong> homework.</li><li><strong>Hai hành động đang xảy ra song song</strong></li><li>Ex: While I <strong>was cooking</strong>, she <strong>was cleaning</strong>.</li><li><strong>Hành động đang xảy ra thì bị hành động khác xen vào</strong></li><li>Ex: I <strong>was watching</strong> TV when he <strong>called</strong>.</li><li>Ex: When I <strong>arrived</strong>, they <strong>were having</strong> dinner.</li></ul><p><strong>3. Dấu hiệu nhận biết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>at + giờ + thời gian quá khứ (at 8 p.m. yesterday)</li><li>at this time last + thời gian (at this time last week)</li><li>when, while, as</li></ul><h3>B. Wish + Past Simple (Ước trong hiện tại)</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + wish(es) + S + V (past simple)</li><li>S + wish(es) + S + were/was (not) + ...</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Ước điều không có thật ở hiện tại</strong></li><li>Ex: I <strong>wish</strong> I <strong>had</strong> a car. (Thực tế: I don't have a car.)</li><li>Ex: She <strong>wishes</strong> she <strong>were</strong> taller. (Thực tế: She isn't tall.)</li><li>Ex: I <strong>wish</strong> I <strong>could</strong> fly. (Thực tế: I can't fly.)</li></ul><p><strong>3. Lưu ý:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Với động từ 'be': dùng <strong>were</strong> cho tất cả các ngôi (chuẩn)</li><li>Ex: I wish I <strong>were</strong> rich. (không phải 'was')</li><li>Với động từ khuyết thiếu: can → could; will → would</li><li>Ex: I wish I <strong>could</strong> speak English well.</li></ul>"
+            },
+            {
+              "heading": "4-11. Các phần còn lại",
+              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Past Continuous - Thời điểm cụ thể",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + was/were + V-ing</li><li>Dùng khi có thời điểm cụ thể trong quá khứ</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (study) at 8 p.m. yesterday.",
+                "solution": "I <strong>was studying</strong> at 8 p.m. yesterday.",
+                "explanation": "Thời điểm cụ thể → past continuous"
+              },
+              {
+                "question": "They ______ (play) football at this time last week.",
+                "solution": "They <strong>were playing</strong> football at this time last week.",
+                "explanation": "at this time last week → past continuous"
+              },
+              {
+                "question": "She ______ (cook) dinner at 6 p.m. yesterday.",
+                "solution": "She <strong>was cooking</strong> dinner at 6 p.m. yesterday.",
+                "explanation": "Thời điểm cụ thể → was cooking"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: Past Continuous với When/While",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>When + past simple, past continuous</li><li>Past continuous + when + past simple</li><li>While + past continuous, past continuous</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (watch) TV when he ______ (call).",
+                "solution": "I <strong>was watching</strong> TV when he <strong>called</strong>.",
+                "explanation": "Hành động đang xảy ra + when + hành động xen vào"
+              },
+              {
+                "question": "When I ______ (arrive), they ______ (have) dinner.",
+                "solution": "When I <strong>arrived</strong>, they <strong>were having</strong> dinner.",
+                "explanation": "When + past simple, past continuous"
+              },
+              {
+                "question": "While I ______ (cook), she ______ (clean).",
+                "solution": "While I <strong>was cooking</strong>, she <strong>was cleaning</strong>.",
+                "explanation": "While + past continuous, past continuous (song song)"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Wish + Past Simple",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + wish(es) + S + V (past simple)</li><li>Ước điều không có thật ở hiện tại</li><li>be → were (tất cả ngôi)</li></ul>",
+            "examples": [
+              {
+                "question": "I wish I ______ (have) a car.",
+                "solution": "I wish I <strong>had</strong> a car.",
+                "explanation": "Thực tế: I don't have → wish + had"
+              },
+              {
+                "question": "She wishes she ______ (be) taller.",
+                "solution": "She wishes she <strong>were</strong> taller.",
+                "explanation": "Thực tế: She isn't → wish + were"
+              },
+              {
+                "question": "I wish I ______ (can) fly.",
+                "solution": "I wish I <strong>could</strong> fly.",
+                "explanation": "Thực tế: I can't → wish + could"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Kết hợp Past Continuous và Wish",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng cả past continuous và wish trong ngữ cảnh</li><li>Chú ý thì và cấu trúc</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (study) when my friend called. I wish I ______ (have) more free time.",
+                "solution": "I <strong>was studying</strong> when my friend called. I wish I <strong>had</strong> more free time.",
+                "explanation": "Past continuous + when + past simple; wish + past simple"
+              },
+              {
+                "question": "While I ______ (work), I thought about the past. I wish I ______ (be) young again.",
+                "solution": "While I <strong>was working</strong>, I thought about the past. I wish I <strong>were</strong> young again.",
+                "explanation": "While + past continuous; wish + were"
+              },
+              {
+                "question": "They ______ (play) when it started raining. They wish it ______ (not rain).",
+                "solution": "They <strong>were playing</strong> when it started raining. They wish it <strong>didn't rain</strong>.",
+                "explanation": "Past continuous + when; wish + didn't + V"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I ______ at 8 p.m. yesterday.",
+            "options": ["study", "studied", "was studying", "am studying"],
+            "correct": 2,
+            "explanation": "Thời điểm cụ thể → past continuous"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "They ______ football at this time last week.",
+            "options": ["play", "played", "were playing", "are playing"],
+            "correct": 2,
+            "explanation": "at this time last week → past continuous"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "I ______ TV when he called.",
+            "options": ["watch", "watched", "was watching", "am watching"],
+            "correct": 2,
+            "explanation": "Past continuous + when + past simple"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "When I arrived, they ______ dinner.",
+            "options": ["have", "had", "were having", "are having"],
+            "correct": 2,
+            "explanation": "When + past simple, past continuous"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "While I ______, she was cleaning.",
+            "options": ["cook", "cooked", "was cooking", "am cooking"],
+            "correct": 2,
+            "explanation": "While + past continuous, past continuous"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "I wish I ______ a car.",
+            "options": ["have", "has", "had", "having"],
+            "correct": 2,
+            "explanation": "wish + past simple (had)"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "She wishes she ______ taller.",
+            "options": ["is", "was", "were", "be"],
+            "correct": 2,
+            "explanation": "wish + were (tất cả ngôi)"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "I wish I ______ fly.",
+            "options": ["can", "could", "will", "would"],
+            "correct": 1,
+            "explanation": "wish + could (can → could)"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "He wishes he ______ speak English well.",
+            "options": ["can", "could", "will", "would"],
+            "correct": 1,
+            "explanation": "wish + could"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "I wish I ______ more money.",
+            "options": ["have", "has", "had", "having"],
+            "correct": 2,
+            "explanation": "wish + had"
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question": "Which sentences use past continuous correctly? (Select all that apply)",
+            "options": ["I was studying at 8 p.m.", "They were playing when it rained.", "She was cook dinner.", "While I was working, he was reading."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: was studying, were playing when, was working/was reading. Sai: was cook (phải là 'was cooking')"
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question": "Which are correct wish sentences? (Select all that apply)",
+            "options": ["I wish I had a car.", "She wishes she were taller.", "I wish I can fly.", "He wishes he could speak English."],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: had, were, could. Sai: can (phải là 'could')"
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question": "Which time expressions indicate past continuous? (Select all that apply)",
+            "options": ["at 8 p.m. yesterday", "at this time last week", "every day", "when I arrived"],
+            "correct": [0, 1, 3],
+            "explanation": "Đúng: at 8 p.m. yesterday, at this time last week, when I arrived. Sai: every day (present simple)"
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question": "Fill in: I ______ (study) at 8 p.m. yesterday.",
+            "correct": "was studying",
+            "explanation": "Thời điểm cụ thể → past continuous"
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question": "Fill in: I ______ (watch) TV when he ______ (call).",
+            "correct": "was watching, called",
+            "explanation": "Past continuous + when + past simple"
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question": "Fill in: I wish I ______ (have) a car.",
+            "correct": "had",
+            "explanation": "wish + past simple"
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question": "Fill in: She wishes she ______ (be) taller.",
+            "correct": "were",
+            "explanation": "wish + were (tất cả ngôi)"
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Rearrange: studying / I / was / at / 8 p.m. / yesterday / . / watching / was / I / TV / when / called / he / .",
+            "sample_answer": "I was studying at 8 p.m. yesterday. I was watching TV when he called.",
+            "explanation": "Sắp xếp: past continuous với thời điểm cụ thể và when"
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Transform: I don't have a car. → I wish ______.",
+            "sample_answer": "I wish I had a car.",
+            "explanation": "Biến đổi: don't have → wish + had"
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Transform: She isn't tall. → She wishes ______.",
+            "sample_answer": "She wishes she were tall. / She wishes she were taller.",
+            "explanation": "Biến đổi: isn't → wishes + were"
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Rearrange: cooking / While / I / was / , / cleaning / she / was / . / wish / I / had / I / time / more / .",
+            "sample_answer": "While I was cooking, she was cleaning. I wish I had more time.",
+            "explanation": "Sắp xếp: While + past continuous, past continuous; wish + past simple"
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Transform and combine: I was studying. My friend called. + I don't have free time. (Use past continuous with 'when' and wish)",
+            "sample_answer": "I was studying when my friend called. I wish I had free time.",
+            "explanation": "Biến đổi: Câu 1 dùng past continuous + when + past simple; Câu 2 dùng wish + had"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "subject": "Tiếng Anh 12",
+  "subject_id": 42,
+  "lesson_id": "anh12-unit-8-p3",
+  "name": "Part 3: Language - Grammar",
+  "slug": "p3-grammar",
+  "description": "Mệnh đề trạng ngữ chỉ điều kiện và so sánh",
+  "duration_minutes": 60,
+  "difficulty_level": "medium",
+  "is_published": true,
+  "content": {
+    "theory": {
+      "title": "Grammar: Adverbial Clauses of Condition and Comparison",
+      "sections": [
+        {
+          "heading": "A. Mệnh đề trạng ngữ chỉ điều kiện (Conditional Clauses)",
+          "content": "<p><strong>1. IF (nếu):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Type 1:</strong> If + Present Simple, will + V</li><li>Ex: If we protect habitats, animals will survive.</li><li><strong>Type 2:</strong> If + Past Simple, would + V</li><li>Ex: If we had more sanctuaries, we would save more animals.</li></ul><p><strong>2. UNLESS (trừ khi):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Unless = If...not</li><li>Ex: Unless we act now, species will disappear.</li><li>Ex: Animals will die unless we protect them.</li></ul><p><strong>3. PROVIDED/AS LONG AS (miễn là):</strong></p><ul class='list-disc pl-5 space-y-2'><li>Ex: Animals will be safe as long as we protect them.</li><li>Ex: We can save species provided that we act quickly.</li></ul>"
+        },
+        {
+          "heading": "B. Mệnh đề trạng ngữ chỉ so sánh (Comparative Clauses)",
+          "content": "<p><strong>1. AS...AS (bằng):</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + V + as + adj/adv + as</li><li>Ex: Tigers are as endangered as rhinos.</li><li>Ex: We should protect wildlife as much as we can.</li></ul><p><strong>2. THAN (hơn):</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + V + comparative + than</li><li>Ex: Tigers are more endangered than lions.</li><li>Ex: Protecting habitats is more important than we think.</li></ul><p><strong>3. THE...THE (càng...càng):</strong></p><ul class='list-disc pl-5 space-y-2'><li>The + comparative..., the + comparative...</li><li>Ex: The more we protect, the more species survive.</li><li>Ex: The faster we act, the better the results.</li></ul>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "grammar-ex1",
+        "type": "mcq",
+        "question": "Choose: '_____ we protect habitats, animals will survive.'",
+        "options": ["If", "Unless", "Because", "Although"],
+        "correct": 0,
+        "explanation": "If - mệnh đề điều kiện loại 1."
+      },
+      {
+        "id": "grammar-ex2",
+        "type": "mcq",
+        "question": "Complete: '_____ we act now, species will become extinct.'",
+        "options": ["If", "Unless", "When", "Because"],
+        "correct": 1,
+        "explanation": "Unless = If not - trừ khi."
+      },
+      {
+        "id": "grammar-ex3",
+        "type": "mcq",
+        "question": "Choose: 'Tigers are _____ endangered _____ rhinos.'",
+        "options": ["as / as", "more / than", "as / than", "more / as"],
+        "correct": 0,
+        "explanation": "As...as - so sánh bằng."
+      },
+      {
+        "id": "grammar-ex4",
+        "type": "mcq",
+        "question": "Complete: '_____ more we protect, _____ better it is.'",
+        "options": ["The / the", "A / a", "The / a", "A / the"],
+        "correct": 0,
+        "explanation": "The...the - so sánh kép."
+      },
+      {
+        "id": "grammar-ex5",
+        "type": "mcq",
+        "question": "Choose: 'Animals will be safe _____ we protect them.'",
+        "options": ["if", "as long as", "unless", "because"],
+        "correct": 1,
+        "explanation": "As long as - miễn là."
+      },
+      {
+        "id": "grammar-ex6",
+        "type": "mcq",
+        "question": "Complete: 'Tigers are _____ endangered _____ lions.'",
+        "options": ["as / as", "more / than", "as / than", "more / as"],
+        "correct": 1,
+        "explanation": "More...than - so sánh hơn."
+      },
+      {
+        "id": "grammar-ex7",
+        "type": "mcq",
+        "question": "Choose: 'If we _____ more sanctuaries, we _____ save more animals.'",
+        "options": ["have / will", "had / would", "has / will", "have / would"],
+        "correct": 1,
+        "explanation": "Type 2 conditional: If + Past Simple, would + V."
+      },
+      {
+        "id": "grammar-ex8",
+        "type": "mcq",
+        "question": "Complete: 'We can save species _____ we act quickly.'",
+        "options": ["if", "provided that", "unless", "because"],
+        "correct": 1,
+        "explanation": "Provided that - với điều kiện."
+      },
+      {
+        "id": "grammar-ex9",
+        "type": "mcq",
+        "question": "Choose: '_____ faster we act, _____ better the results.'",
+        "options": ["The / the", "A / a", "The / a", "A / the"],
+        "correct": 0,
+        "explanation": "The...the - so sánh kép."
+      },
+      {
+        "id": "grammar-ex10",
+        "type": "mcq",
+        "question": "Complete: 'Animals will die _____ we protect them.'",
+        "options": ["if", "unless", "when", "because"],
+        "correct": 1,
+        "explanation": "Unless - trừ khi, nếu không."
+      },
+      {
+        "id": "grammar-ex11",
+        "type": "mcq",
+        "question": "Which is correct?",
+        "options": [
+          "If we protect habitats, animals will survive.",
+          "If we protects habitats, animals will survive.",
+          "If we protect habitats, animals survives.",
+          "If we protecting habitats, animals will survive."
+        ],
+        "correct": 0,
+        "explanation": "If + Present Simple, will + V - điều kiện loại 1."
+      },
+      {
+        "id": "grammar-ex12",
+        "type": "mcq",
+        "question": "Complete: 'Conservation is _____ important _____ development.'",
+        "options": ["as / as", "more / than", "as / than", "more / as"],
+        "correct": 0,
+        "explanation": "As...as - so sánh bằng."
+      },
+      {
+        "id": "grammar-ex13",
+        "type": "mcq",
+        "question": "Choose: '_____ we stop poaching, species will recover.'",
+        "options": ["If", "Unless", "Because", "Although"],
+        "correct": 0,
+        "explanation": "If - mệnh đề điều kiện."
+      },
+      {
+        "id": "grammar-ex14",
+        "type": "mcq",
+        "question": "Complete: 'Protecting habitats is _____ important _____ we think.'",
+        "options": ["as / as", "more / than", "as / than", "more / as"],
+        "correct": 1,
+        "explanation": "More...than - so sánh hơn."
+      },
+      {
+        "id": "grammar-ex15",
+        "type": "mcq",
+        "question": "Which sentence is correct?",
+        "options": [
+          "Unless we act, species will disappear.",
+          "Unless we don't act, species will disappear.",
+          "Unless we acts, species will disappear.",
+          "Unless we acting, species will disappear."
+        ],
+        "correct": 0,
+        "explanation": "Unless + khẳng định (không dùng 'not')."
+      },
+      {
+        "id": "grammar-ex16",
+        "type": "msq",
+        "question_text": "Decide if these sentences are correct (True/False):",
+        "options": [
+          "If we protect habitats, animals will survive.",
+          "Unless we act now, species will disappear.",
+          "Tigers are as endangered as rhinos.",
+          "The more we protect, the more species survive."
+        ],
+        "correct": [0, 1, 2, 3],
+        "explanation": "Tất cả đều đúng: a) If + Present, will + V. b) Unless + khẳng định. c) As...as. d) The...the."
+      },
+      {
+        "id": "grammar-ex17",
+        "type": "msq",
+        "question_text": "Mark True if the grammar is correct:",
+        "options": [
+          "Animals will be safe as long as we protect them.",
+          "We can save species provided that we act quickly.",
+          "Unless we don't act, species will disappear.",
+          "The faster we act, the better the results."
+        ],
+        "correct": [0, 1, 3],
+        "explanation": "a) True - as long as. b) True - provided that. c) False - Unless không dùng với 'not'. d) True - The...the."
+      },
+      {
+        "id": "grammar-ex18",
+        "type": "sa",
+        "question_text": "Complete: _____ we protect habitats, animals will survive. (If/Unless)",
+        "correct": "If",
+        "explanation": "If - mệnh đề điều kiện."
+      },
+      {
+        "id": "grammar-ex19",
+        "type": "sa",
+        "question_text": "Complete: Tigers are _____ endangered _____ rhinos. (as...as/more...than)",
+        "correct": "as...as",
+        "explanation": "As...as - so sánh bằng."
+      },
+      {
+        "id": "grammar-ex20",
+        "type": "sa",
+        "question_text": "Complete: _____ we act now, species will disappear. (If/Unless)",
+        "correct": "Unless",
+        "explanation": "Unless = If not - trừ khi."
+      }
+    ]
+  }
+}

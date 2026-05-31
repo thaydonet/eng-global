@@ -1,0 +1,214 @@
+{
+  "subject": "Tiếng Anh 8",
+  "subject_id": 45,
+  "lessons": [
+    {
+      "id": "anh8-unit-6-lifestyles",
+      "name": "Unit 6: Lifestyles",
+      "slug": "unit-6-lifestyles",
+      "chapter": "Unit 6: Lifestyles",
+      "chapter_id": "A8",
+      "lesson_id": 6,
+      "description": "Learn about lifestyles with simple future and first conditional.",
+      "duration_minutes": 45,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=2599&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "vocab-6",
+          "name": "Lifestyles Vocabulary",
+          "slug": "lifestyles-vocabulary",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Unit 6: Lifestyles",
+          "sections": [
+            {
+              "heading": "1. Từ vựng (Vocabulary)",
+              "content": "<div class='overflow-x-auto'><table class='min-w-full divide-y divide-gray-200'><thead><tr><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Word</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Type & IPA</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Meaning</th><th class='px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase'>Example</th></tr></thead><tbody class='divide-y divide-gray-200'><tr><td class='px-4 py-2 font-bold'>Lifestyle</td><td class='px-4 py-2'>(n) /ˈlaɪfstaɪl/</td><td class='px-4 py-2'>Lối sống</td><td class='px-4 py-2'>Healthy lifestyle is important.</td></tr><tr><td class='px-4 py-2 font-bold'>Balanced</td><td class='px-4 py-2'>(adj) /ˈbælənst/</td><td class='px-4 py-2'>Cân bằng</td><td class='px-4 py-2'>Have a balanced diet.</td></tr><tr><td class='px-4 py-2 font-bold'>Maintain</td><td class='px-4 py-2'>(v) /meɪnˈteɪn/</td><td class='px-4 py-2'>Duy trì</td><td class='px-4 py-2'>Maintain good health.</td></tr><tr><td class='px-4 py-2 font-bold'>Adopt</td><td class='px-4 py-2'>(v) /əˈdɒpt/</td><td class='px-4 py-2'>Áp dụng</td><td class='px-4 py-2'>Adopt a healthy lifestyle.</td></tr><tr><td class='px-4 py-2 font-bold'>Improve</td><td class='px-4 py-2'>(v) /ɪmˈpruːv/</td><td class='px-4 py-2'>Cải thiện</td><td class='px-4 py-2'>Improve your health.</td></tr><tr><td class='px-4 py-2 font-bold'>Reduce</td><td class='px-4 py-2'>(v) /rɪˈdjuːs/</td><td class='px-4 py-2'>Giảm</td><td class='px-4 py-2'>Reduce stress.</td></tr><tr><td class='px-4 py-2 font-bold'>Avoid</td><td class='px-4 py-2'>(v) /əˈvɔɪd/</td><td class='px-4 py-2'>Tránh</td><td class='px-4 py-2'>Avoid junk food.</td></tr><tr><td class='px-4 py-2 font-bold'>Benefit</td><td class='px-4 py-2'>(n,v) /ˈbenɪfɪt/</td><td class='px-4 py-2'>Lợi ích</td><td class='px-4 py-2'>Exercise has many benefits.</td></tr><tr><td class='px-4 py-2 font-bold'>Harmful</td><td class='px-4 py-2'>(adj) /ˈhɑːmfl/</td><td class='px-4 py-2'>Có hại</td><td class='px-4 py-2'>Smoking is harmful.</td></tr><tr><td class='px-4 py-2 font-bold'>Nutritious</td><td class='px-4 py-2'>(adj) /njuˈtrɪʃəs/</td><td class='px-4 py-2'>Bổ dưỡng</td><td class='px-4 py-2'>Eat nutritious food.</td></tr><tr><td class='px-4 py-2 font-bold'>Sufficient</td><td class='px-4 py-2'>(adj) /səˈfɪʃnt/</td><td class='px-4 py-2'>Đủ</td><td class='px-4 py-2'>Get sufficient sleep.</td></tr><tr><td class='px-4 py-2 font-bold'>Regular</td><td class='px-4 py-2'>(adj) /ˈreɡjələ(r)/</td><td class='px-4 py-2'>Đều đặn</td><td class='px-4 py-2'>Do regular exercise.</td></tr><tr><td class='px-4 py-2 font-bold'>Routine</td><td class='px-4 py-2'>(n) /ruːˈtiːn/</td><td class='px-4 py-2'>Thói quen</td><td class='px-4 py-2'>Daily routine is important.</td></tr><tr><td class='px-4 py-2 font-bold'>Habit</td><td class='px-4 py-2'>(n) /ˈhæbɪt/</td><td class='px-4 py-2'>Thói quen</td><td class='px-4 py-2'>Good habits help health.</td></tr><tr><td class='px-4 py-2 font-bold'>Well-being</td><td class='px-4 py-2'>(n) /ˌwel ˈbiːɪŋ/</td><td class='px-4 py-2'>Sức khỏe</td><td class='px-4 py-2'>Physical and mental well-being.</td></tr></tbody></table></div>"
+            },
+            {
+              "heading": "2. Luyện tập từ vựng (Vocabulary Practice)",
+              "content": "<p><strong>Healthy lifestyle habits:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>eat balanced diet:</strong> ăn cân bằng</li><li><strong>do regular exercise:</strong> tập thể dục đều đặn</li><li><strong>get sufficient sleep:</strong> ngủ đủ giấc</li><li><strong>drink enough water:</strong> uống đủ nước</li><li><strong>reduce stress:</strong> giảm căng thẳng</li><li><strong>avoid junk food:</strong> tránh đồ ăn vặt</li></ul><p><strong>Unhealthy habits:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>skip meals:</strong> bỏ bữa</li><li><strong>stay up late:</strong> thức khuya</li><li><strong>eat too much sugar:</strong> ăn nhiều đường</li><li><strong>lack exercise:</strong> thiếu vận động</li></ul>"
+            },
+            {
+              "heading": "3. Ngữ âm (Pronunciation)",
+              "content": "<h3>Stress in words ending in -ity and -ive</h3><p><strong>1. Words ending in -ity (nhấn trước -ity):</strong></p><ul class='list-disc pl-5 space-y-2'><li>ac'tivity /ækˈtɪvəti/</li><li>u'niversity /ˌjuːnɪˈvɜːsəti/</li></ul><p><strong>2. Words ending in -ive (nhấn trước -ive):</strong></p><ul class='list-disc pl-5 space-y-2'><li>'active /ˈæktɪv/</li><li>'positive /ˈpɒzətɪv/</li></ul>"
+            },
+            {
+              "heading": "4. Ngữ pháp (Grammar)",
+              "content": "<h3>A. Simple Future Tense (Thì tương lai đơn)</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Khẳng định:</strong> S + will + V</li><li>Ex: I <strong>will exercise</strong> tomorrow.</li><li><strong>Phủ định:</strong> S + won't + V</li><li>Ex: She <strong>won't eat</strong> junk food.</li><li><strong>Nghi vấn:</strong> Will + S + V?</li><li>Ex: <strong>Will</strong> you <strong>join</strong> me?</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Dự đoán tương lai</li><li>Quyết định tức thời</li><li>Lời hứa, đề nghị</li></ul><h3>B. First Conditional (Câu điều kiện loại 1)</h3><p><strong>1. Cấu trúc:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>If + S + V(s/es), S + will + V</strong></li><li>Ex: <strong>If</strong> you <strong>exercise</strong>, you <strong>will be</strong> healthy.</li><li>Ex: <strong>If</strong> she <strong>eats</strong> well, she <strong>will feel</strong> better.</li></ul><p><strong>2. Cách dùng:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Điều kiện có thể xảy ra ở hiện tại/tương lai</li><li>Mệnh đề if: hiện tại đơn</li><li>Mệnh đề chính: will + V</li></ul><p><strong>3. Đảo ngược vị trí:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + will + V + if + S + V(s/es)</li><li>Ex: You <strong>will be</strong> healthy <strong>if</strong> you <strong>exercise</strong>.</li><li>(Không dùng dấu phẩy khi đảo)</li></ul><p><strong>4. Unless = If... not:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Unless</strong> + S + V, S + will + V</li><li>Ex: <strong>Unless</strong> you exercise, you won't be healthy.</li><li>= If you don't exercise, you won't be healthy.</li></ul>"
+            },
+            {
+              "heading": "5. Getting Started",
+              "content": "<p><strong>Chủ đề:</strong> Lifestyles</p><p><strong>Nội dung:</strong> Hội thoại về lối sống, thói quen</p>"
+            },
+            {
+              "heading": "6. A Closer Look 1",
+              "content": "<p><strong>A. Vocabulary:</strong> Lifestyles and health</p><p><strong>B. Pronunciation:</strong> Stress in -ity and -ive</p>"
+            },
+            {
+              "heading": "7. A Closer Look 2",
+              "content": "<p><strong>Grammar:</strong> Simple future and first conditional</p>"
+            },
+            {
+              "heading": "8. Communication",
+              "content": "<p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>If you..., you will...</li><li>I will... if...</li><li>You should...</li></ul>"
+            },
+            {
+              "heading": "9. Skills 1 (Reading & Speaking)",
+              "content": "<p><strong>Reading:</strong> About lifestyles</p><p><strong>Speaking:</strong> Discussing healthy habits</p>"
+            },
+            {
+              "heading": "10. Skills 2 (Listening & Writing)",
+              "content": "<p><strong>Listening:</strong> About lifestyle changes</p><p><strong>Writing:</strong> About healthy lifestyle using conditionals</p>"
+            },
+            {
+              "heading": "11. Looking Back",
+              "content": "<p><strong>Ôn tập:</strong> Vocabulary, Pronunciation, Grammar</p>"
+            },
+            {
+              "heading": "12. Project",
+              "content": "<p><strong>Đề tài:</strong> Healthy lifestyle plan</p><p><strong>Nhiệm vụ:</strong> Tạo kế hoạch, viết mô tả (100-120 từ)</p>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Dạng 1: Simple Future",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + will + V</li><li>S + won't + V</li></ul>",
+            "examples": [
+              {
+                "question": "I ______ (exercise) tomorrow.",
+                "solution": "I <strong>will exercise</strong> tomorrow.",
+                "explanation": "Tương lai → will + V"
+              }
+            ]
+          },
+          {
+            "id": "dang2",
+            "name": "Dạng 2: First Conditional",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>If + S + V(s/es), S + will + V</li><li>Mệnh đề if: hiện tại đơn</li></ul>",
+            "examples": [
+              {
+                "question": "If you ______ (exercise), you ______ (be) healthy.",
+                "solution": "If you <strong>exercise</strong>, you <strong>will be</strong> healthy.",
+                "explanation": "If + hiện tại đơn, will + V"
+              }
+            ]
+          },
+          {
+            "id": "dang3",
+            "name": "Dạng 3: Unless = If... not",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Unless + S + V = If + S + don't/doesn't + V</li></ul>",
+            "examples": [
+              {
+                "question": "Unless you exercise, you ______ (not be) healthy.",
+                "solution": "Unless you exercise, you <strong>won't be</strong> healthy.",
+                "explanation": "Unless → won't"
+              }
+            ]
+          },
+          {
+            "id": "dang4",
+            "name": "Dạng 4: Đảo ngược vị trí",
+            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>S + will + V + if + S + V(s/es)</li><li>Không dùng dấu phẩy</li></ul>",
+            "examples": [
+              {
+                "question": "You will be healthy if you ______.",
+                "solution": "You will be healthy if you <strong>exercise</strong>.",
+                "explanation": "Đảo vị trí, if + hiện tại đơn"
+              }
+            ]
+          }
+        ],
+        "exercises": [
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "I ______ exercise tomorrow.",
+            "options": ["exercise", "will exercise", "exercised", "am exercising"],
+            "correct": 1,
+            "explanation": "Tương lai → will + V"
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "If you exercise, you ______ healthy.",
+            "options": ["are", "will be", "were", "be"],
+            "correct": 1,
+            "explanation": "First conditional → will be"
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "If she ______ well, she will feel better.",
+            "options": ["eat", "eats", "will eat", "ate"],
+            "correct": 1,
+            "explanation": "If + hiện tại đơn → eats"
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "Unless you exercise, you ______ healthy.",
+            "options": ["will be", "won't be", "are", "aren't"],
+            "correct": 1,
+            "explanation": "Unless → won't be"
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "She ______ eat junk food.",
+            "options": ["will", "won't", "don't", "doesn't"],
+            "correct": 1,
+            "explanation": "Phủ định tương lai → won't"
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "______ you join me?",
+            "options": ["Do", "Does", "Will", "Are"],
+            "correct": 2,
+            "explanation": "Câu hỏi tương lai → Will"
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "You will be healthy if you ______.",
+            "options": ["exercise", "will exercise", "exercised", "exercises"],
+            "correct": 0,
+            "explanation": "If + hiện tại đơn → exercise"
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "If it ______, we will stay home.",
+            "options": ["rain", "rains", "will rain", "rained"],
+            "correct": 1,
+            "explanation": "If + hiện tại đơn → rains"
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "I ______ help you tomorrow.",
+            "options": ["help", "will help", "helped", "am helping"],
+            "correct": 1,
+            "explanation": "Tương lai → will help"
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "If you ______ hard, you will pass.",
+            "options": ["study", "studies", "will study", "studied"],
+            "correct": 0,
+            "explanation": "If + hiện tại đơn → study"
+          }
+        ]
+      }
+    }
+  ]
+}

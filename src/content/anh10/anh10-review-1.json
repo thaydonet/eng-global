@@ -1,0 +1,417 @@
+{
+  "subject": "Tiếng Anh 10",
+  "subject_id": 40,
+  "lessons": [
+    {
+      "id": "anh10-review-1",
+      "name": "Review 1 (Units 1 - 3)",
+      "slug": "review-1-units-1-3",
+      "chapter": "Review 1",
+      "chapter_id": "A10",
+      "lesson_id": 4,
+      "description": "Ôn tập từ vựng và ngữ pháp từ Unit 1, 2 và 3 (Tiếng Anh 10 - Global Success).",
+      "duration_minutes": 90,
+      "difficulty_level": "medium",
+      "is_published": true,
+      "thumbnail_url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=2670&auto=format&fit=crop",
+      "question_types": [
+        {
+          "id": "review-1-mixed",
+          "name": "Mixed Review",
+          "slug": "mixed-review",
+          "difficulty": "medium"
+        }
+      ],
+      "content": {
+        "theory": {
+          "title": "Review 1: Units 1-3",
+          "sections": [
+            {
+              "heading": "1. Language - Ôn tập ngôn ngữ",
+              "content": "<h3>A. Pronunciation (Phát âm)</h3><p><strong>Unit 1:</strong> Consonant blends /br/, /kr/, /tr/</p><ul class='list-disc pl-5 space-y-2'><li>/br/: breadwinner, breakfast, brown, brother</li><li>/kr/: crash, crane, cream, crisp</li><li>/tr/: track, tree, train, trash</li></ul><p><strong>Unit 2:</strong> Sentence stress (Trọng âm câu)</p><ul class='list-disc pl-5 space-y-2'><li>Nhấn mạnh content words: nouns, verbs, adjectives, adverbs</li><li>Không nhấn: articles, prepositions, pronouns, auxiliary verbs</li></ul><p><strong>Unit 3:</strong> Stress in two-syllable words (Trọng âm từ 2 âm tiết)</p><ul class='list-disc pl-5 space-y-2'><li>Danh từ/tính từ: nhấn âm 1 ('music, 'singer, 'famous)</li><li>Động từ: nhấn âm 2 (per'form, re'lax, en'joy)</li></ul>"
+            },
+            {
+              "heading": "B. Vocabulary (Từ vựng)",
+              "content": "<p><strong>Unit 1: Family Life</strong></p><ul class='list-disc pl-5 space-y-2'><li>Household chores: do the laundry, do the washing-up, take out the rubbish</li><li>Family roles: breadwinner, homemaker</li><li>Family values: responsibility, gratitude, bonds</li></ul><p><strong>Unit 2: Humans and the Environment</strong></p><ul class='list-disc pl-5 space-y-2'><li>Environmental issues: pollution, global warming, climate change</li><li>The 3Rs: Reduce, Reuse, Recycle</li><li>Green living: eco-friendly, sustainable, renewable energy</li></ul><p><strong>Unit 3: Music</strong></p><ul class='list-disc pl-5 space-y-2'><li>Music: audience, performance, composer, talent, award</li><li>Music genres: pop, rock, classical, jazz, folk</li><li>Musical instruments: guitar, piano, violin, drums</li></ul>"
+            },
+            {
+              "heading": "C. Grammar (Ngữ pháp)",
+              "content": "<p><strong>Unit 1: Present Simple vs. Present Continuous</strong></p><ul class='list-disc pl-5 space-y-2'><li>Present Simple: thói quen, sự thật (always, usually, often, every day)</li><li>Present Continuous: hành động đang xảy ra (now, at the moment, Look!, Listen!)</li><li>Stative verbs: không dùng continuous (like, love, know, understand...)</li></ul><p><strong>Unit 2: Will vs. Be going to & Passive Voice</strong></p><ul class='list-disc pl-5 space-y-2'><li>Will: quyết định tức thì, dự đoán chủ quan, lời hứa</li><li>Be going to: kế hoạch có sẵn, dự đoán có căn cứ</li><li>Passive Voice: S + be + V3/ed (+ by O)</li></ul><p><strong>Unit 3: Compound Sentences & Infinitives</strong></p><ul class='list-disc pl-5 space-y-2'><li>Compound sentences: and, but, or, so, for, yet</li><li>To-infinitives: sau want, decide, hope, plan, agree...</li><li>Bare infinitives: sau modal verbs, make, let, help</li></ul>"
+            },
+            {
+              "heading": "2. Skills - Ôn tập kỹ năng",
+              "content": "<h3>A. Reading (Đọc hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Đọc lướt để nắm ý chính (skimming)</li><li>Đọc kỹ để tìm thông tin chi tiết (scanning)</li><li>Đoán nghĩa từ vựng qua ngữ cảnh</li><li>Hiểu ý chính và ý phụ của đoạn văn</li><li>Xác định thông tin đúng/sai</li></ul><h3>B. Speaking (Nói)</h3><p><strong>Chủ đề đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Talking about household chores and family routines</li><li>Discussing environmental problems and solutions</li><li>Talking about music preferences and favorite musicians</li></ul><p><strong>Useful expressions:</strong></p><ul class='list-disc pl-5 space-y-2'><li>In my family, we...</li><li>I think we should...</li><li>My favorite type of music is...</li><li>I prefer... because...</li></ul><h3>C. Listening (Nghe hiểu)</h3><p><strong>Kỹ năng cần ôn tập:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Nghe để nắm ý chính</li><li>Nghe để tìm thông tin cụ thể</li><li>Điền thông tin còn thiếu</li><li>Trả lời câu hỏi chi tiết</li><li>Ghi chú các ý quan trọng</li></ul><h3>D. Writing (Viết)</h3><p><strong>Dạng bài đã học:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Writing about family routines</li><li>Writing about ways to reduce carbon footprint</li><li>Writing about a famous musician</li></ul><p><strong>Kỹ năng viết:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Tổ chức bài viết: Introduction - Body - Conclusion</li><li>Sử dụng từ nối: First, Second, Moreover, In addition, Finally</li><li>Sử dụng các thì phù hợp</li><li>Viết câu đa dạng (simple, compound)</li></ul>"
+            }
+          ]
+        },
+        "problemTypes": [
+          {
+            "id": "dang1",
+            "name": "Mixed Exercise",
+            "method": "<p>Review all grammar points and vocabulary from previous units.</p>",
+            "examples": []
+          }
+        ],
+        "exercises": [
+          {
+            "id": "reading1",
+            "type": "reading",
+            "passage": "In modern families, sharing household chores has become increasingly important. When both parents work, children should help with tasks like doing the dishes, taking out the rubbish, and cleaning their rooms. This not only reduces the burden on parents but also teaches children valuable life skills and responsibility.\n\nMany studies show that children who do household chores develop better time management skills and become more independent. They learn to appreciate the hard work their parents do every day. Moreover, sharing chores strengthens family bonds as family members work together toward a common goal.\n\nHowever, some parents still believe that children should focus only on their studies. They think housework is the parents' responsibility. While education is important, learning practical skills through household chores is equally valuable for children's overall development.",
+            "questions": [
+              {
+                "id": "reading1-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Children should not do housework",
+                  "Sharing household chores benefits the whole family",
+                  "Only mothers should do housework",
+                  "Housework is not important"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về lợi ích của việc chia sẻ công việc nhà cho cả gia đình."
+              },
+              {
+                "id": "reading1-q2",
+                "question": "According to the passage, what do children learn from doing chores?",
+                "options": [
+                  "How to avoid work",
+                  "Time management and independence",
+                  "How to complain",
+                  "Nothing useful"
+                ],
+                "correct": 1,
+                "explanation": "Trẻ em học được kỹ năng quản lý thời gian và trở nên độc lập hơn."
+              },
+              {
+                "id": "reading1-q3",
+                "question": "The word 'burden' in paragraph 1 is closest in meaning to ______.",
+                "options": [
+                  "happiness",
+                  "heavy load or responsibility",
+                  "entertainment",
+                  "freedom"
+                ],
+                "correct": 1,
+                "explanation": "Burden = heavy load or responsibility (gánh nặng, trách nhiệm nặng nề)."
+              },
+              {
+                "id": "reading1-q4",
+                "question": "What do some parents believe about housework?",
+                "options": [
+                  "Children should do all housework",
+                  "Housework is only the parents' responsibility",
+                  "Housework is more important than studies",
+                  "Everyone should share housework"
+                ],
+                "correct": 1,
+                "explanation": "Một số phụ huynh tin rằng việc nhà chỉ là trách nhiệm của cha mẹ."
+              },
+              {
+                "id": "reading1-q5",
+                "question": "According to the passage, sharing chores helps to ______.",
+                "options": [
+                  "weaken family relationships",
+                  "strengthen family bonds",
+                  "create more conflicts",
+                  "waste time"
+                ],
+                "correct": 1,
+                "explanation": "Chia sẻ công việc nhà giúp củng cố mối quan hệ gia đình."
+              }
+            ]
+          },
+          {
+            "id": "reading2",
+            "type": "reading",
+            "passage": "Music plays an important role in our lives. It can express emotions, tell stories, and bring people together. Different types of music appeal to different people. Some prefer classical music for its complexity and beauty, while others enjoy pop music for its catchy melodies and relatable lyrics.\n\nMany musicians dedicate their lives to creating and performing music. They practice for hours every day to perfect their skills. Some become famous and win prestigious awards, but most musicians simply love what they do and want to share their passion with audiences.\n\nMusic education is also valuable for young people. Learning to play an instrument improves concentration, memory, and creativity. It teaches discipline and patience. Whether someone becomes a professional musician or not, the skills learned through music can benefit them throughout their lives.",
+            "questions": [
+              {
+                "id": "reading2-q1",
+                "question": "What is the main idea of the passage?",
+                "options": [
+                  "Only classical music is valuable",
+                  "Music is important and beneficial in many ways",
+                  "Everyone should become a musician",
+                  "Music is just entertainment"
+                ],
+                "correct": 1,
+                "explanation": "Đoạn văn nói về tầm quan trọng và lợi ích của âm nhạc."
+              },
+              {
+                "id": "reading2-q2",
+                "question": "According to the passage, why do most musicians create music?",
+                "options": [
+                  "To become famous",
+                  "To win awards",
+                  "Because they love it and want to share their passion",
+                  "To make money"
+                ],
+                "correct": 2,
+                "explanation": "Hầu hết nhạc sĩ tạo ra âm nhạc vì họ yêu thích và muốn chia sẻ đam mê."
+              },
+              {
+                "id": "reading2-q3",
+                "question": "The word 'dedicate' in paragraph 2 is closest in meaning to ______.",
+                "options": [
+                  "waste",
+                  "devote",
+                  "ignore",
+                  "forget"
+                ],
+                "correct": 1,
+                "explanation": "Dedicate = devote (cống hiến, dành hết cho)."
+              },
+              {
+                "id": "reading2-q4",
+                "question": "What does learning music teach young people?",
+                "options": [
+                  "How to be lazy",
+                  "Discipline and patience",
+                  "How to avoid work",
+                  "Nothing important"
+                ],
+                "correct": 1,
+                "explanation": "Học nhạc dạy cho người trẻ kỷ luật và sự kiên nhẫn."
+              },
+              {
+                "id": "reading2-q5",
+                "question": "According to the passage, music education improves ______.",
+                "options": [
+                  "only musical skills",
+                  "concentration, memory, and creativity",
+                  "physical strength",
+                  "nothing"
+                ],
+                "correct": 1,
+                "explanation": "Giáo dục âm nhạc cải thiện sự tập trung, trí nhớ và sáng tạo."
+              }
+            ]
+          },
+          {
+            "id": "mcq1",
+            "type": "mcq",
+            "question": "Choose the word with different pronunciation: **br**own, **tr**ain, **br**ead, **br**other",
+            "options": ["brown", "train", "bread", "brother"],
+            "correct": 1,
+            "explanation": "Train phát âm /tr/, các từ còn lại phát âm /br/."
+          },
+          {
+            "id": "mcq2",
+            "type": "mcq",
+            "question": "Choose the word with different stress: 'music, per'form, 'talent, 'singer",
+            "options": ["music", "perform", "talent", "singer"],
+            "correct": 1,
+            "explanation": "Perform là động từ 2 âm tiết nên nhấn âm 2, các từ còn lại nhấn âm 1."
+          },
+          {
+            "id": "mcq3",
+            "type": "mcq",
+            "question": "In my family, my mother usually ______ the cooking.",
+            "options": ["does", "is doing", "do", "did"],
+            "correct": 0,
+            "explanation": "Thói quen ở hiện tại (usually) -> dùng hiện tại đơn."
+          },
+          {
+            "id": "mcq4",
+            "type": "mcq",
+            "question": "Be quiet! The baby ______ in the next room.",
+            "options": ["sleeps", "is sleeping", "slept", "sleep"],
+            "correct": 1,
+            "explanation": "Dấu hiệu 'Be quiet!' -> hiện tại tiếp diễn."
+          },
+          {
+            "id": "mcq5",
+            "type": "mcq",
+            "question": "We should ______ our carbon footprint to protect the environment.",
+            "options": ["increase", "reduce", "expand", "raise"],
+            "correct": 1,
+            "explanation": "Reduce carbon footprint: giảm dấu chân carbon."
+          },
+          {
+            "id": "mcq6",
+            "type": "mcq",
+            "question": "The ______ cheered loudly after the performance.",
+            "options": ["audience", "composer", "judge", "participant"],
+            "correct": 0,
+            "explanation": "Audience: khán giả."
+          },
+          {
+            "id": "mcq7",
+            "type": "mcq",
+            "question": "A: The phone is ringing. - B: I ______ it.",
+            "options": ["will answer", "am going to answer", "answer", "answered"],
+            "correct": 0,
+            "explanation": "Quyết định tức thì -> dùng 'will'."
+          },
+          {
+            "id": "mcq8",
+            "type": "mcq",
+            "question": "Look at those dark clouds! It ______ soon.",
+            "options": ["will rain", "is going to rain", "rains", "rained"],
+            "correct": 1,
+            "explanation": "Dự đoán có căn cứ (dark clouds) -> dùng 'be going to'."
+          },
+          {
+            "id": "mcq9",
+            "type": "mcq",
+            "question": "She decided ______ for the singing contest.",
+            "options": ["apply", "to apply", "applying", "applied"],
+            "correct": 1,
+            "explanation": "Decide + to-V: quyết định làm gì."
+          },
+          {
+            "id": "mcq10",
+            "type": "mcq",
+            "question": "My parents let me ______ to the concert.",
+            "options": ["go", "to go", "going", "went"],
+            "correct": 0,
+            "explanation": "Let + O + V(bare): để cho ai làm gì."
+          },
+          {
+            "id": "mcq11",
+            "type": "mcq",
+            "question": "Sharing housework strengthens the ______ between family members.",
+            "options": ["bonds", "views", "chores", "routines"],
+            "correct": 0,
+            "explanation": "Strengthen bonds: củng cố sự gắn kết."
+          },
+          {
+            "id": "mcq12",
+            "type": "mcq",
+            "question": "The environment ______ by human activities.",
+            "options": ["pollutes", "is polluted", "polluted", "polluting"],
+            "correct": 1,
+            "explanation": "Câu bị động ở hiện tại đơn: S + is/are + V3/ed."
+          },
+          {
+            "id": "mcq13",
+            "type": "mcq",
+            "question": "I love rock music, ______ my sister prefers classical music.",
+            "options": ["and", "or", "but", "so"],
+            "correct": 2,
+            "explanation": "Dùng 'but' để chỉ sự đối lập."
+          },
+          {
+            "id": "mcq14",
+            "type": "mcq",
+            "question": "We need to buy some ______ for this week.",
+            "options": ["groceries", "rubbish", "laundry", "furniture"],
+            "correct": 0,
+            "explanation": "Groceries: thực phẩm và tạp hóa."
+          },
+          {
+            "id": "mcq15",
+            "type": "mcq",
+            "question": "More trees ______ in the park next month.",
+            "options": ["will plant", "will be planted", "are planted", "plant"],
+            "correct": 1,
+            "explanation": "Câu bị động ở tương lai: S + will be + V3/ed."
+          },
+          {
+            "id": "msq1",
+            "type": "msq",
+            "question_text": "Present Simple is used for habits and routines.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Hiện tại đơn dùng để diễn tả thói quen và hoạt động thường xuyên."
+          },
+          {
+            "id": "msq2",
+            "type": "msq",
+            "question_text": "We use 'will' for decisions made at the moment of speaking.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. 'Will' dùng cho quyết định tức thì tại thời điểm nói."
+          },
+          {
+            "id": "msq3",
+            "type": "msq",
+            "question_text": "Passive voice structure is: S + be + V-ing.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Cấu trúc bị động là: S + be + V3/ed, không phải V-ing."
+          },
+          {
+            "id": "msq4",
+            "type": "msq",
+            "question_text": "Compound sentences use conjunctions like 'and', 'but', 'or', 'so'.",
+            "options": ["True", "False"],
+            "correct": 0,
+            "explanation": "Đúng. Câu ghép sử dụng các liên từ như 'and', 'but', 'or', 'so'."
+          },
+          {
+            "id": "msq5",
+            "type": "msq",
+            "question_text": "After 'let' and 'make', we use to-infinitive.",
+            "options": ["True", "False"],
+            "correct": 1,
+            "explanation": "Sai. Sau 'let' và 'make' dùng bare infinitive (không có 'to')."
+          },
+          {
+            "id": "sa1",
+            "type": "sa",
+            "question_text": "What do we call the person who earns money to support the family? (one word)",
+            "correct": "breadwinner",
+            "explanation": "Breadwinner: trụ cột gia đình - người kiếm tiền nuôi gia đình."
+          },
+          {
+            "id": "sa2",
+            "type": "sa",
+            "question_text": "Complete: Reduce, Reuse, and ______. (one word)",
+            "correct": "Recycle",
+            "explanation": "The 3Rs: Reduce (giảm), Reuse (tái sử dụng), Recycle (tái chế)."
+          },
+          {
+            "id": "sa3",
+            "type": "sa",
+            "question_text": "What tense do we use with 'since' and 'for' to show duration? (two words)",
+            "correct": "Present Perfect",
+            "explanation": "Present Perfect dùng với 'since' và 'for' để chỉ khoảng thời gian."
+          },
+          {
+            "id": "sa4",
+            "type": "sa",
+            "question_text": "Complete: She wants ______ a famous singer. (to become)",
+            "correct": "to become",
+            "explanation": "Want + to-infinitive: muốn trở thành."
+          },
+          {
+            "id": "essay1",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about how your family shares household chores. Include: who does what, how often, and why sharing chores is important.",
+            "sample_answer": "In my family, we share household chores equally. My father usually does the heavy lifting and repairs things around the house. My mother cooks delicious meals and does the laundry. My sister and I take turns doing the dishes and taking out the rubbish every day. We also clean our own rooms on weekends. Sharing housework helps us understand each other better and strengthens our family bonds. It also teaches me responsibility and prepares me for independent living in the future. I believe that when everyone contributes, our home becomes a happier place.",
+            "explanation": "Bài viết cần bao gồm: phân công công việc cụ thể, tần suất, và lý do tại sao chia sẻ việc nhà quan trọng."
+          },
+          {
+            "id": "essay2",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about what you can do to protect the environment. Mention at least three actions.",
+            "sample_answer": "There are many things I can do to protect the environment. First, I always try to reduce my use of plastic bags by bringing reusable bags when shopping. Second, I save energy by turning off lights and electronic devices when not in use. Third, I participate in recycling programs at school and separate waste properly. Additionally, I plant trees in my neighborhood and encourage my friends to do the same. These small actions may seem simple, but if everyone does them, we can make a big difference in protecting our planet for future generations.",
+            "explanation": "Bài viết cần đề cập ít nhất 3 hành động bảo vệ môi trường với ví dụ cụ thể."
+          },
+          {
+            "id": "essay3",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about your favorite type of music and why you like it.",
+            "sample_answer": "My favorite type of music is pop music. I love pop because it has catchy melodies and meaningful lyrics that I can easily relate to. Pop songs often talk about everyday experiences like friendship, love, and dreams, which makes them very appealing to young people like me. I enjoy listening to pop music when I'm studying or relaxing because it helps me feel energized and positive. My favorite pop artist is Taylor Swift because her songs tell great stories and her voice is amazing. Music is an important part of my life, and pop music always brightens my day.",
+            "explanation": "Bài viết cần nêu rõ thể loại nhạc yêu thích, lý do thích, và ví dụ cụ thể."
+          },
+          {
+            "id": "essay4",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) comparing life in the city and life in the countryside. Which do you prefer and why?",
+            "sample_answer": "Life in the city and countryside are very different. The city is more crowded and noisier than the countryside, but it offers better job opportunities and modern facilities. In contrast, the countryside is quieter and more peaceful, with fresh air and beautiful natural scenery. However, it has fewer entertainment options and educational facilities. Personally, I prefer living in the city because it's more convenient and exciting. There are many shopping centers, cinemas, and restaurants. Although the countryside is relaxing, I enjoy the fast-paced lifestyle and opportunities that city life provides.",
+            "explanation": "Bài viết cần so sánh hai môi trường sống và nêu rõ sở thích cá nhân với lý do."
+          },
+          {
+            "id": "essay5",
+            "type": "essay",
+            "question": "Write a paragraph (80-100 words) about a volunteer activity you would like to participate in and explain why.",
+            "sample_answer": "I would love to participate in teaching English to disadvantaged children in remote areas. Many children in these areas don't have access to quality education, especially English lessons. By volunteering as an English teacher, I can help them improve their language skills and open up more opportunities for their future. This activity would also allow me to develop my teaching skills and learn about different cultures. Moreover, seeing the children's progress and smiling faces would be very rewarding. I believe that education is the key to breaking the cycle of poverty, and I want to contribute to making a positive change in these children's lives.",
+            "explanation": "Bài viết cần mô tả hoạt động tình nguyện cụ thể và giải thích lý do muốn tham gia."
+          }
+        ]
+      }
+    }
+  ]
+}

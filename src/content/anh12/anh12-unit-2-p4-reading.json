@@ -1,0 +1,237 @@
+{
+  "id": "anh12-unit-2-p4",
+  "name": "Part 4: Reading - Understanding Multicultural Texts",
+  "content": {
+    "theory": {
+      "title": "Reading Skills: A Multicultural World",
+      "sections": [
+        {
+          "heading": "1. Kỹ năng đọc hiểu",
+          "content": "<div class='bg-gradient-to-r from-indigo-50 to-blue-50 dark:from-indigo-900/20 dark:to-blue-900/20 p-6 rounded-xl'><h3 class='text-2xl font-bold mb-4 text-indigo-900 dark:text-indigo-300'>📖 Reading Strategies</h3><div class='space-y-3'><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold text-blue-700 mb-2'>Skimming</h4><p>Đọc lướt để nắm ý chính của bài</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold text-blue-700 mb-2'>Scanning</h4><p>Đọc quét để tìm thông tin cụ thể</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold text-blue-700 mb-2'>Guessing from context</h4><p>Đoán nghĩa từ qua ngữ cảnh</p></div><div class='bg-white dark:bg-gray-800 p-4 rounded-lg'><h4 class='font-bold text-blue-700 mb-2'>Identifying main ideas</h4><p>Xác định ý chính của đoạn văn</p></div></div></div>"
+        },
+        {
+          "heading": "2. Năm ví dụ Reading",
+          "content": "<div class='space-y-4'><div class='bg-blue-50 dark:bg-blue-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 1: Festival Reading</p><p>The Mid-Autumn Festival is celebrated on the 15th day of the 8th lunar month. Children carry colorful lanterns and families gather to admire the full moon.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-2'>Tết Trung Thu được tổ chức vào ngày 15 tháng 8 âm lịch. Trẻ em mang đèn lồng đầy màu sắc và gia đình quây quần ngắm trăng tròn.</p></div><div class='bg-green-50 dark:bg-green-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 2: Globalization</p><p>Globalization has made it easier for people to experience different cultures. We can now enjoy foods, music, and traditions from around the world.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-2'>Toàn cầu hóa đã giúp mọi người dễ dàng trải nghiệm các nền văn hóa khác nhau.</p></div><div class='bg-purple-50 dark:bg-purple-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 3: Culture Shock</p><p>Culture shock is common when people move to a new country. Language barriers and unfamiliar customs can cause confusion and anxiety.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-2'>Sốc văn hóa là phổ biến khi mọi người chuyển đến quốc gia mới.</p></div><div class='bg-orange-50 dark:bg-orange-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 4: Cultural Identity</p><p>Language is considered the most important feature of a nation's identity. It reflects the history, values, and traditions of a community.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-2'>Ngôn ngữ được coi là đặc điểm quan trọng nhất của bản sắc quốc gia.</p></div><div class='bg-pink-50 dark:bg-pink-900/20 p-5 rounded-lg'><p class='font-bold mb-2'>Example 5: Vietnamese Cuisine</p><p>Vietnamese cuisine is famous worldwide for its fresh ingredients and unique flavors. Dishes like pho and banh mi have gained international popularity.</p><p class='text-sm text-gray-600 dark:text-gray-400 mt-2'>Ẩm thực Việt Nam nổi tiếng toàn cầu với nguyên liệu tươi ngon.</p></div></div>"
+        }
+      ]
+    },
+    "exercises": [
+      {
+        "id": "p4-ex1",
+        "type": "mcq",
+        "question": "What is 'skimming'?",
+        "options": ["Reading every word carefully", "Reading quickly to get the main idea", "Reading backwards", "Not reading at all"],
+        "correct": 1,
+        "explanation": "Skimming là đọc lướt nhanh để nắm ý chính của bài."
+      },
+      {
+        "id": "p4-ex2",
+        "type": "mcq",
+        "question": "What is 'scanning' used for?",
+        "options": ["Finding specific information", "Understanding grammar", "Learning vocabulary", "Writing essays"],
+        "correct": 0,
+        "explanation": "Scanning là đọc quét để tìm thông tin cụ thể."
+      },
+      {
+        "id": "p4-ex3",
+        "type": "mcq",
+        "question": "When should you guess meaning from context?",
+        ]
+      }
+    ]
+  }
+}
+,
+      {
+        "id": "p4-ex2",
+        "type": "mcq",
+        "question": "What does 'melting pot' mean in the context?",
+        "options": ["A cooking pot", "A place where cultures mix", "A hot place", "A factory"],
+        "correct": 1,
+        "explanation": "'Melting pot' là ẩn dụ chỉ nơi các nền văn hóa hòa trộn với nhau."
+      },
+      {
+        "id": "p4-ex3",
+        "type": "mcq",
+        "question": "According to the passage, what enriches communities?",
+        "options": ["Money", "Cultural diversity", "Technology", "Buildings"],
+        "correct": 1,
+        "explanation": "Sự đa dạng văn hóa làm phong phú cộng đồng."
+      },
+      {
+        "id": "p4-ex4",
+        "type": "mcq",
+        "question": "What is mentioned as a benefit of multicultural societies?",
+        "options": ["Lower prices", "Learning from others", "Less work", "More holidays"],
+        "correct": 1,
+        "explanation": "Lợi ích là cơ hội học hỏi từ người khác."
+      },
+      {
+        "id": "p4-ex5",
+        "type": "mcq",
+        "question": "What qualities are needed to overcome cultural challenges?",
+        "options": ["Wealth and power", "Open-mindedness and empathy", "Strength and speed", "Fame and success"],
+        "correct": 1,
+        "explanation": "Cần có tâm trí cởi mở và sự đồng cảm."
+      },
+      {
+        "id": "p4-ex6",
+        "type": "mcq",
+        "question": "Which cities are mentioned as multicultural examples?",
+        "options": ["Paris, Rome, Madrid", "New York, London, Sydney", "Tokyo, Beijing, Seoul", "Moscow, Berlin, Vienna"],
+        "correct": 1,
+        "explanation": "Ba thành phố được đề cập là New York, London và Sydney."
+      },
+      {
+        "id": "p4-ex7",
+        "type": "mcq",
+        "question": "What can people explore in multicultural societies?",
+        "options": ["Only their own culture", "New cuisines, languages, and festivals", "Nothing new", "Only technology"],
+        "correct": 1,
+        "explanation": "Mọi người có thể khám phá ẩm thực, ngôn ngữ và lễ hội mới."
+      },
+      {
+        "id": "p4-ex8",
+        "type": "mcq",
+        "question": "The word 'coexist' in the passage means:",
+        "options": ["Fight with each other", "Live together peacefully", "Avoid each other", "Compete"],
+        "correct": 1,
+        "explanation": "'Coexist' nghĩa là cùng tồn tại hòa bình."
+      },
+      {
+        "id": "p4-ex9",
+        "type": "mcq",
+        "question": "What is the tone of the passage?",
+        "options": ["Negative and critical", "Balanced and informative", "Angry and upset", "Humorous and funny"],
+        "correct": 1,
+        "explanation": "Giọng điệu của bài viết cân bằng và mang tính thông tin."
+      },
+      {
+        "id": "p4-ex10",
+        "type": "mcq",
+        "question": "What can be inferred from the passage?",
+        "options": ["Multicultural societies have no problems", "Cultural diversity requires effort to manage", "All cultures are the same", "People should avoid other cultures"],
+        "correct": 1,
+        "explanation": "Có thể suy ra rằng sự đa dạng văn hóa cần nỗ lực để quản lý."
+      },
+      {
+        "id": "p4-ex11",
+        "type": "msq",
+        "question_text": "Read the passage about Singapore and decide True (T) or False (F):\n\n'Singapore is a multicultural nation with Chinese, Malay, Indian, and Western communities. The government promotes equality among all ethnic groups. Visitors can experience this diversity through different neighborhoods like Little India, Chinatown, and Arab Street. The country celebrates festivals from all cultures, and its food scene reflects this diversity.'",
+        "options": [
+          "Singapore has only one ethnic group.",
+          "The government promotes equality among ethnic groups.",
+          "Visitors cannot experience cultural diversity in Singapore.",
+          "Singapore celebrates festivals from various cultures."
+        ],
+        "correct": [1, 3],
+        "explanation": "a) False - có nhiều nhóm dân tộc. b) True - chính phủ thúc đẩy bình đẳng. c) False - du khách có thể trải nghiệm. d) True - tổ chức lễ hội từ nhiều văn hóa."
+      },
+      {
+        "id": "p4-ex12",
+        "type": "msq",
+        "question_text": "Based on the reading about culture shock, mark True (T) or False (F):",
+        "options": [
+          "Culture shock is caused by language barriers and unfamiliar customs.",
+          "Culture shock is a sign of weakness.",
+          "Learning about a new culture before moving can help reduce culture shock.",
+          "Everyone experiences culture shock in the same way."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - rào cản ngôn ngữ và phong tục xa lạ gây sốc văn hóa. b) False - đó là phản ứng bình thường. c) True - học trước giúp giảm sốc văn hóa. d) False - mỗi người trải nghiệm khác nhau."
+      },
+      {
+        "id": "p4-ex13",
+        "type": "msq",
+        "question_text": "Read about Vietnamese cuisine and decide True (T), False (F), or Not Given (NG):",
+        "options": [
+          "Vietnamese cuisine has gained worldwide popularity.",
+          "Pho is the only Vietnamese dish known internationally.",
+          "Vietnamese food emphasizes fresh ingredients.",
+          "Vietnamese restaurants only exist in Vietnam."
+        ],
+        "correct": [0, 2],
+        "explanation": "a) True - đã trở nên phổ biến toàn cầu. b) False - có nhiều món khác như bánh mì. c) True - nhấn mạnh nguyên liệu tươi. d) False - có nhà hàng Việt trên toàn thế giới."
+      },
+      {
+        "id": "p4-ex14",
+        "type": "reading",
+        "passage": "The Mid-Autumn Festival: A Vietnamese Tradition\n\nThe Mid-Autumn Festival, known as Tết Trung Thu in Vietnam, is one of the most beloved celebrations in Vietnamese culture. Celebrated on the 15th day of the 8th lunar month (usually in September or October), this festival has deep historical roots dating back over a thousand years.\n\nThe origin of the Mid-Autumn Festival is tied to agricultural traditions. In ancient times, farmers would celebrate the harvest season and give thanks for a bountiful crop. The full moon, which is at its brightest during this time, symbolizes prosperity, happiness, and family reunion. Over the centuries, the festival has evolved to become especially meaningful for children.\n\nTraditional activities during Tết Trung Thu include carrying colorful lanterns, performing lion dances, and sharing mooncakes. Children parade through streets with lanterns shaped like stars, fish, and butterflies, creating a magical atmosphere. The lion dance, performed by skilled dancers in elaborate costumes, is believed to bring good luck and chase away evil spirits.\n\nMooncakes are the festival's signature treat. These round pastries, filled with lotus seed paste, mung bean, or mixed nuts, represent the full moon and family unity. Families gather to admire the moon, eat mooncakes, and tell traditional stories like the legend of Cuội and the banyan tree or the story of Chú Cuội.\n\nIn modern Vietnam, the Mid-Autumn Festival has adapted to contemporary life while maintaining its cultural identity. Shopping malls host lantern-making workshops, and companies organize community events. However, the core values of family togetherness, gratitude, and cultural heritage remain central to the celebration.\n\nThe festival's popularity has spread beyond Vietnam. Vietnamese communities worldwide celebrate Tết Trung Thu, helping preserve their cultural traditions and share them with others. This demonstrates how cultural festivities can bridge generations and connect people across borders, contributing to our multicultural world.",
+        "questions": [
+          {
+            "question": "When is the Mid-Autumn Festival celebrated?",
+            "options": ["January 1st", "15th day of 8th lunar month", "December 25th", "First day of spring"],
+            "correct": 1,
+            "explanation": "Tết Trung Thu được tổ chức vào ngày 15 tháng 8 âm lịch."
+          },
+          {
+            "question": "What is the origin of the Mid-Autumn Festival?",
+            "options": ["Religious ceremonies", "Agricultural traditions", "Military victories", "Royal celebrations"],
+            "correct": 1,
+            "explanation": "Nguồn gốc từ truyền thống nông nghiệp, tổ chức mùa gặt."
+          },
+          {
+            "question": "What do mooncakes represent?",
+            "options": ["Wealth and power", "The full moon and family unity", "Good luck only", "Ancient gods"],
+            "correct": 1,
+            "explanation": "Bánh trung thu tượng trưng cho trăng tròn và sự đoàn tụ gia đình."
+          },
+          {
+            "question": "What is the purpose of lion dances?",
+            "options": ["Entertainment only", "To bring good luck and chase away evil spirits", "To scare children", "To sell products"],
+            "correct": 1,
+            "explanation": "Múa lân mang lại may mắn và xua đuổi tà ma."
+          },
+          {
+            "question": "How has the festival adapted to modern life?",
+            "options": ["It has disappeared", "It maintains traditions while adding contemporary activities", "It has completely changed", "It is no longer celebrated"],
+            "correct": 1,
+            "explanation": "Lễ hội duy trì truyền thống nhưng thêm các hoạt động hiện đại."
+          }
+        ]
+      },
+      {
+        "id": "p4-ex15",
+        "type": "sa",
+        "question_text": "Complete the summary with words from the passage:\n\nThe Mid-Autumn Festival is celebrated on the 15th day of the 8th (1)_____ month. Its origin is tied to (2)_____ traditions. Children carry colorful (3)_____, and families share (4)_____. The festival represents family (5)_____ and cultural heritage.",
+        "correct": "1. lunar\n2. agricultural\n3. lanterns\n4. mooncakes\n5. unity/togetherness",
+        "explanation": "Tóm tắt các thông tin chính về Tết Trung Thu từ bài đọc."
+      },
+      {
+        "id": "p4-ex16",
+        "type": "sa",
+        "question_text": "Answer in NO MORE THAN THREE WORDS:\n\n1. What does the full moon symbolize? _____\n2. What shapes are lanterns made in? _____\n3. What are mooncakes filled with? _____",
+        "correct": "1. Prosperity and happiness\n2. Stars, fish, butterflies\n3. Lotus seed paste",
+        "explanation": "Trả lời ngắn gọn dựa trên thông tin trong bài."
+      },
+      {
+        "id": "p4-ex17",
+        "type": "sa",
+        "question_text": "Fill in the blanks:\n\n1. The festival has _____ roots dating back over a thousand years.\n2. Mooncakes are _____ pastries that represent the full moon.\n3. The festival's _____ has spread beyond Vietnam.",
+        "correct": "1. historical\n2. round\n3. popularity",
+        "explanation": "Điền từ dựa trên ngữ cảnh của bài đọc."
+      },
+      {
+        "id": "p4-ex18",
+        "type": "mcq",
+        "question": "What is the main purpose of this passage?",
+        "options": ["To sell mooncakes", "To describe the Mid-Autumn Festival and its significance", "To criticize modern celebrations", "To teach how to make lanterns"],
+        "correct": 1,
+        "explanation": "Mục đích chính là mô tả Tết Trung Thu và ý nghĩa của nó."
+      },
+      {
+        "id": "p4-ex19",
+        "type": "mcq",
+        "question": "According to the passage, what has remained central to the celebration?",
+        "options": ["Shopping and buying", "Family togetherness and cultural heritage", "Making money", "Modern technology"],
+        "correct": 1,
+        "explanation": "Giá trị cốt lõi là sự đoàn tụ gia đình và di sản văn hóa."
+      },
+      {
+        "id": "p4-ex20",
+        "type": "essay",
+        "question": "Writing Task: Write a summary (100-120 words) of a cultural festival from your country or another country you know about. Include:\n\n• Name and time of the festival\n• Origin and history\n• Traditional activities\n• Significance and meaning\n• How it is celebrated today\n\nUse information from the reading passage as a model for structure.",
+        "answer_guide": "Sample Answer:\n\nTet Nguyen Dan: Vietnamese Lunar New Year\n\nTet Nguyen Dan, commonly known as Tet, is the most important festival in Vietnamese culture. Celebrated on the first day of the lunar calendar (usually in late January or early February), Tet marks the arrival of spring and the beginning of a new year. The festival has ancient origins rooted in agricultural traditions and ancestor worship.\n\nTraditional activities include cleaning and decorating homes, preparing special foods like banh chung (square sticky rice cake), and visiting relatives. Families gather for reunion dinners, children receive lucky money in red envelopes, and people visit pagodas to pray for good fortune. The festival symbolizes renewal, family unity, and respect for ancestors.\n\nIn modern Vietnam, Tet has adapted to contemporary life with fireworks displays, cultural performances, and flower markets. However, the core values of family togetherness, gratitude, and cultural heritage remain unchanged. Vietnamese communities worldwide celebrate Tet, preserving their cultural identity and sharing their traditions with the global community.\n\n(Word count: 150 words)\n\nKey features:\n✓ Clear introduction with name and time\n✓ Historical background explained\n✓ Traditional activities described\n✓ Significance and meaning included\n✓ Modern adaptations mentioned\n✓ Well-structured paragraphs\n✓ Use of relevant vocabulary\n✓ Cultural insights provided",
+        "explanation": "Bài viết cần mô tả đầy đủ về một lễ hội văn hóa, bao gồm nguồn gốc, hoạt động truyền thống, ý nghĩa và cách tổ chức hiện đại. Sử dụng cấu trúc tương tự bài đọc mẫu."
+      }
+    ]
