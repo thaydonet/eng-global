@@ -1,4 +1,5 @@
 ---
+import '../styles/global.css';
 import DarkModeToggle from '@/components/DarkModeToggle.astro';
 import BackToTop from '@/components/BackToTop.astro';
 
@@ -348,6 +349,7 @@ const { title, description = 'Học Tiếng Anh - Global Success - Nền tảng 
     </script>
 
     <style>
+      @reference "tailwindcss";
       .nav-grade-link {
         @apply px-3 py-2 text-sm font-semibold text-white/95 hover:text-white hover:bg-white/20 rounded-lg transition-all duration-200 relative;
       }

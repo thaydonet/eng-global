@@ -9,301 +9,639 @@
       "chapter": "Unit 1: Local Community",
       "chapter_id": "A9",
       "lesson_id": 1,
-      "description": "Learn about local community with question words + to-infinitive and phrasal verbs.",
+      "description": "Learn about local community: community helpers, traditional handicrafts, question words + to-infinitive, and phrasal verbs.",
       "duration_minutes": 45,
       "difficulty_level": "medium",
       "is_published": true,
       "thumbnail_url": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=2670&auto=format&fit=crop",
-      "question_types": [
+      "has_sub_lessons": true,
+      "sub_lessons": [
         {
-          "id": "vocab-1",
-          "name": "Local Community Vocabulary",
-          "slug": "local-community-vocabulary",
-          "difficulty": "medium"
-        }
-      ],
-      "content": {
-        "theory": {
-          "title": "Unit 1: Local Community",
-          "sections": [
-            {
-              "heading": "1. Từ vựng (Vocabulary)",
-              "content": "<p><strong>Community places:</strong> community center, library, park, market, temple, pagoda, workshop, craft village, pottery, weaving, embroidery</p><p><strong>Community activities:</strong> volunteer, donate, help, support, organize, participate, contribute, preserve, maintain, develop</p><p><strong>Adjectives:</strong> local, traditional, cultural, historical, modern, crowded, peaceful, busy, friendly, helpful</p>"
+          "id": "p1-getting-started",
+          "name": "Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Khởi động - Làm quen với chủ đề Local Community qua hội thoại và từ vựng.",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "content": {
+            "theory": {
+              "title": "Getting Started - Local Community",
+              "sections": [
+                {
+                  "heading": "1. Listen and Read",
+                  "content": "<p><strong>Dialogue:</strong></p><p><em>Ann: Hi, Mi. Long time no see. How're you doing?</em></p><p><em>Mi: I'm fine, thanks. By the way, we moved to a new house in a suburb last month.</em></p><p><em>Ann: Oh, that's why I haven't seen you in the Reading Club very often.</em></p><p><em>Mi: Yes. We're still busy moving in, you know.</em></p><p><em>Ann: How's your new neighbourhood?</em></p><p><em>Mi: It's much bigger than our old one. The streets are wider, and there are fewer people.</em></p><p><em>Ann: What about the facilities?</em></p><p><em>Mi: It has all the things we need: shopping malls, parks, and hospitals. And there's a craft village near our house.</em></p><p><em>Ann: Great! How're your new neighbours?</em></p><p><em>Mi: They're nice. Last Sunday when I was looking for the way to the bus station, a lady came and showed me the way. I think we will get on with them.</em></p><p><em>Ann: That reminds me of the time our family moved to Viet Nam. We didn't know where to buy stuff for our house, and the new neighbours in the community gave us useful advice. I guess you like your new place.</em></p><p><em>Mi: Sure. I really love where I live now.</em></p>"
+                },
+                {
+                  "heading": "2. Vocabulary from the dialogue",
+                  "content": "<table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Word / Phrase</th><th class='border p-2'>Meaning</th></tr><tr><td class='border p-2'>suburb</td><td class='border p-2'>vùng ngoại ô</td></tr><tr><td class='border p-2'>facilities</td><td class='border p-2'>cơ sở vật chất, tiện ích</td></tr><tr><td class='border p-2'>craft village</td><td class='border p-2'>làng nghề thủ công</td></tr><tr><td class='border p-2'>get on with</td><td class='border p-2'>hòa thuận với ai</td></tr><tr><td class='border p-2'>remind sb of</td><td class='border p-2'>gợi cho ai nhớ về</td></tr></table>"
+                },
+                {
+                  "heading": "3. Matching",
+                  "content": "<p>Match the words with their definitions:</p><table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Word</th><th class='border p-2'>Definition</th></tr><tr><td class='border p-2'>1. suburb</td><td class='border p-2'>a. the people living in a particular area</td></tr><tr><td class='border p-2'>2. facilities</td><td class='border p-2'>b. to make sb remember sth</td></tr><tr><td class='border p-2'>3. community</td><td class='border p-2'>c. to have a good relationship with sb</td></tr><tr><td class='border p-2'>4. get on with</td><td class='border p-2'>d. an area outside the centre of the city</td></tr><tr><td class='border p-2'>5. remind sb of</td><td class='border p-2'>e. buildings and services provided for a purpose</td></tr></table><p><strong>Answers:</strong> 1-d, 2-e, 3-a, 4-c, 5-b</p>"
+                },
+                {
+                  "heading": "4. Complete the sentences",
+                  "content": "<p>Fill in each blank with a word or phrase from the matching exercise:</p><ol class='list-decimal pl-5 space-y-2'><li>They don't live in the city centre but in a _____ of Ha Noi. → <strong>suburb</strong></li><li>I love our new neighbourhood because we _____ the people here. → <strong>get on with</strong></li><li>There are enough sports _____ for people of all ages in our local park. → <strong>facilities</strong></li><li>Souvenirs _____ people _____ a place, an occasion, or a holiday. → <strong>remind of</strong></li><li>The local _____ encourages us to protect the environment and keep our neighbourhood clean. → <strong>community</strong></li></ol>"
+                },
+                {
+                  "heading": "5. THIS UNIT INCLUDES",
+                  "content": "<ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> Community helpers, Traditional handicrafts</li><li><strong>Grammar:</strong> Question words before to-infinitives, Phrasal verbs</li><li><strong>Skills:</strong> Reading about special products in some areas, Giving a short presentation about a speciality, Listening about a community helper, Writing a paragraph about a community helper</li></ul>"
+                }
+              ]
             },
-            {
-              "heading": "2. Luyện tập từ vựng",
-              "content": "<p>Practice using vocabulary in context about local community, traditional crafts, and community activities.</p>"
-            },
-            {
-              "heading": "3. Ngữ pháp (Grammar)",
-              "content": "<h3>A. Question Words + to-infinitive (Từ để hỏi + to V)</h3><p><strong>Cấu trúc:</strong> Wh-word + to-infinitive</p><p><strong>Các từ để hỏi:</strong> what, where, when, how, who, which (không dùng why)</p><ul class='list-disc pl-5 space-y-2'><li><strong>what to do:</strong> làm gì</li><li>Ex: I don't know <strong>what to do</strong>.</li><li><strong>where to go:</strong> đi đâu</li><li>Ex: She asked me <strong>where to go</strong>.</li><li><strong>when to start:</strong> khi nào bắt đầu</li><li>Ex: Tell me <strong>when to start</strong>.</li><li><strong>how to use:</strong> cách sử dụng</li><li>Ex: He showed me <strong>how to use</strong> it.</li><li><strong>who to ask:</strong> hỏi ai</li><li>Ex: I wonder <strong>who to ask</strong>.</li><li><strong>which to choose:</strong> chọn cái nào</li><li>Ex: I can't decide <strong>which to choose</strong>.</li></ul><p><strong>Vị trí:</strong> Sau động từ: know, understand, decide, wonder, ask, tell, show, learn, remember, forget</p><h3>B. Phrasal Verbs (Cụm động từ)</h3><p><strong>Common phrasal verbs:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>look after:</strong> chăm sóc</li><li><strong>look for:</strong> tìm kiếm</li><li><strong>look forward to:</strong> mong đợi</li><li><strong>turn up:</strong> xuất hiện, đến</li><li><strong>turn down:</strong> từ chối, giảm âm lượng</li><li><strong>get on with:</strong> hòa thuận với</li><li><strong>get over:</strong> vượt qua</li><li><strong>carry out:</strong> thực hiện</li><li><strong>find out:</strong> tìm ra, khám phá</li><li><strong>set up:</strong> thành lập</li></ul>"
-            },
-            {
-              "heading": "4-11. Các phần còn lại",
-              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
-            }
-          ]
+            "exercises": [
+              {
+                "id": "gs-mcq1",
+                "type": "mcq",
+                "question": "Mi's family moved to a new house in a ____ last month.",
+                "options": ["city centre", "suburb", "village", "town"],
+                "correct": 1,
+                "explanation": "Mi said: 'we moved to a new house in a suburb last month.'"
+              },
+              {
+                "id": "gs-mcq2",
+                "type": "mcq",
+                "question": "What does Mi say about her new neighbourhood?",
+                "options": ["It's smaller than the old one.", "The streets are wider.", "There are more people.", "It has fewer facilities."],
+                "correct": 1,
+                "explanation": "Mi said: 'The streets are wider, and there are fewer people.'"
+              },
+              {
+                "id": "gs-mcq3",
+                "type": "mcq",
+                "question": "What is near Mi's new house?",
+                "options": ["A shopping mall", "A park", "A craft village", "A hospital"],
+                "correct": 2,
+                "explanation": "Mi said: 'And there's a craft village near our house.'"
+              },
+              {
+                "id": "gs-mcq4",
+                "type": "mcq",
+                "question": "A _____ is an area outside the centre of a city.",
+                "options": ["suburb", "community", "facility", "craft village"],
+                "correct": 0,
+                "explanation": "suburb = vùng ngoại ô"
+              },
+              {
+                "id": "gs-mcq5",
+                "type": "mcq",
+                "question": "The phrase 'get on with' means _____.",
+                "options": ["to continue doing something", "to have a good relationship with someone", "to leave a place", "to start something"],
+                "correct": 1,
+                "explanation": "get on with = hòa thuận với ai"
+              }
+            ]
+          }
         },
-        "problemTypes": [
-          {
-            "id": "dang1",
-            "name": "Dạng 1: Question Words + to-infinitive",
-            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Xác định từ để hỏi phù hợp</li><li>Thêm to + V (nguyên mẫu)</li><li>Không dùng why</li></ul>",
-            "examples": [
+        {
+          "id": "p2-vocabulary",
+          "name": "A Closer Look 1",
+          "slug": "p2-vocabulary",
+          "description": "Nhìn sâu 1 - Từ vựng về community helpers, traditional handicrafts và phát âm trọng âm.",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 2,
+          "content": {
+            "theory": {
+              "title": "A Closer Look 1 - Vocabulary & Pronunciation",
+              "sections": [
+                {
+                  "heading": "1. Vocabulary: Community Helpers",
+                  "content": "<table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Word</th><th class='border p-2'>Meaning</th><th class='border p-2'>Job</th></tr><tr><td class='border p-2'>garbage collector</td><td class='border p-2'>người thu gom rác</td><td class='border p-2'>collects rubbish</td></tr><tr><td class='border p-2'>firefighter</td><td class='border p-2'>lính cứu hỏa</td><td class='border p-2'>puts out fires</td></tr><tr><td class='border p-2'>police officer</td><td class='border p-2'>cảnh sát</td><td class='border p-2'>keeps law and order</td></tr><tr><td class='border p-2'>nurse</td><td class='border p-2'>y tá</td><td class='border p-2'>takes care of patients</td></tr><tr><td class='border p-2'>postman</td><td class='border p-2'>người đưa thư</td><td class='border p-2'>delivers letters</td></tr><tr><td class='border p-2'>tradesperson</td><td class='border p-2'>thợ thủ công</td><td class='border p-2'>makes or sells goods</td></tr><tr><td class='border p-2'>artisan</td><td class='border p-2'>nghệ nhân</td><td class='border p-2'>makes traditional products</td></tr></table>"
+                },
+                {
+                  "heading": "2. Traditional Handicrafts",
+                  "content": "<table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Craft</th><th class='border p-2'>Vietnamese</th><th class='border p-2'>Description</th></tr><tr><td class='border p-2'>pottery</td><td class='border p-2'>đồ gốm</td><td class='border p-2'>objects made out of clay</td></tr><tr><td class='border p-2'>weaving</td><td class='border p-2'>dệt vải</td><td class='border p-2'>making fabric by crossing threads</td></tr><tr><td class='border p-2'>embroidery</td><td class='border p-2'>thêu</td><td class='border p-2'>decorating fabric with needle and thread</td></tr><tr><td class='border p-2'>wood carving</td><td class='border p-2'>chạm khắc gỗ</td><td class='border p-2'>carving designs on wood</td></tr><tr><td class='border p-2'>silk-making</td><td class='border p-2'>làm lụa</td><td class='border p-2'>producing silk fabric</td></tr><tr><td class='border p-2'>conical hat making</td><td class='border p-2'>làm nón lá</td><td class='border p-2'>making traditional Vietnamese hats</td></tr><tr><td class='border p-2'>incense making</td><td class='border p-2'>làm hương</td><td class='border p-2'>producing incense sticks</td></tr></table>"
+                },
+                {
+                  "heading": "3. Pronunciation: Word Stress",
+                  "content": "<p><strong>Quy tắc:</strong> Các từ kết thúc bằng <strong>-tion, -ic, -ity, -ial, -ian</strong> thường có trọng âm rơi vào âm tiết liền trước hậu tố.</p><table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Word</th><th class='border p-2'>Stress</th></tr><tr><td class='border p-2'>community</td><td class='border p-2'>com<strong>MU</strong>ni<strong>ty</strong></td></tr><tr><td class='border p-2'>tradition</td><td class='border p-2'>tra<strong>DI</strong>tion</td></tr><tr><td class='border p-2'>facility</td><td class='border p-2'>fa<strong>CIL</strong>ity</td></tr><tr><td class='border p-2'>artisan</td><td class='border p-2'><strong>AR</strong>tisan</td></tr><tr><td class='border p-2'>handicraft</td><td class='border p-2'><strong>HAN</strong>dicraft</td></tr></table>"
+                }
+              ]
+            },
+            "exercises": [
               {
-                "question": "I don't know ______ (what / do).",
-                "solution": "I don't know <strong>what to do</strong>.",
-                "explanation": "what + to + do = làm gì"
+                "id": "acl1-mcq1",
+                "type": "mcq",
+                "question": "A _____ puts out fires and helps people in emergencies.",
+                "options": ["police officer", "firefighter", "garbage collector", "postman"],
+                "correct": 1,
+                "explanation": "firefighter = lính cứu hỏa, dập lửa và giúp đỡ người trong trường hợp khẩn cấp."
               },
               {
-                "question": "She asked me ______ (where / go).",
-                "solution": "She asked me <strong>where to go</strong>.",
-                "explanation": "where + to + go = đi đâu"
+                "id": "acl1-mcq2",
+                "type": "mcq",
+                "question": "A _____ keeps law and order in the community.",
+                "options": ["nurse", "tradesperson", "police officer", "postman"],
+                "correct": 2,
+                "explanation": "police officer = cảnh sát, giữ gìn trật tự pháp luật."
               },
               {
-                "question": "Tell me ______ (when / start).",
-                "solution": "Tell me <strong>when to start</strong>.",
-                "explanation": "when + to + start = khi nào bắt đầu"
+                "id": "acl1-mcq3",
+                "type": "mcq",
+                "question": "_____ are objects made out of clay.",
+                "options": ["Embroidery", "Pottery", "Weaving", "Wood carving"],
+                "correct": 1,
+                "explanation": "Pottery = đồ gốm, được làm từ đất sét."
+              },
+              {
+                "id": "acl1-mcq4",
+                "type": "mcq",
+                "question": "The word 'community' has stress on which syllable?",
+                "options": ["First", "Second", "Third", "Fourth"],
+                "correct": 1,
+                "explanation": "community → com<strong>MU</strong>nity, trọng âm rơi vào âm tiết thứ hai."
+              },
+              {
+                "id": "acl1-mcq5",
+                "type": "mcq",
+                "question": "Making fabric by crossing threads is called _____.",
+                "options": ["embroidery", "pottery", "weaving", "silk-making"],
+                "correct": 2,
+                "explanation": "Weaving = dệt vải, làm vải bằng cách đan chéo các sợi chỉ."
+              },
+              {
+                "id": "acl1-mcq6",
+                "type": "mcq",
+                "question": "The word 'tradition' has stress on which syllable?",
+                "options": ["First", "Second", "Third"],
+                "correct": 1,
+                "explanation": "tradition → tra<strong>DI</strong>tion, trọng âm rơi vào âm tiết thứ hai."
               }
             ]
-          },
-          {
-            "id": "dang2",
-            "name": "Dạng 2: How to + V",
-            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>how to + V = cách làm gì</li><li>Dùng sau: show, tell, learn, know, understand</li></ul>",
-            "examples": [
+          }
+        },
+        {
+          "id": "p3-grammar",
+          "name": "A Closer Look 2",
+          "slug": "p3-grammar",
+          "description": "Nhìn sâu 2 - Ngữ pháp: Question words + to-infinitive và Phrasal verbs.",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 3,
+          "content": {
+            "theory": {
+              "title": "A Closer Look 2 - Grammar",
+              "sections": [
+                {
+                  "heading": "1. Question Words + to-infinitive",
+                  "content": "<p><strong>Cấu trúc:</strong> Wh-word + to-infinitive</p><p><strong>Các từ để hỏi sử dụng được:</strong> what, where, when, how, who, which <em>(không dùng why)</em></p><table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Structure</th><th class='border p-2'>Meaning</th><th class='border p-2'>Example</th></tr><tr><td class='border p-2'>what to do</td><td class='border p-2'>làm gì</td><td class='border p-2'>I don't know <strong>what to do</strong>.</td></tr><tr><td class='border p-2'>where to go</td><td class='border p-2'>đi đâu</td><td class='border p-2'>She asked me <strong>where to go</strong>.</td></tr><tr><td class='border p-2'>when to start</td><td class='border p-2'>khi nào bắt đầu</td><td class='border p-2'>Tell me <strong>when to start</strong>.</td></tr><tr><td class='border p-2'>how to use</td><td class='border p-2'>cách sử dụng</td><td class='border p-2'>He showed me <strong>how to use</strong> it.</td></tr><tr><td class='border p-2'>who to ask</td><td class='border p-2'>hỏi ai</td><td class='border p-2'>I wonder <strong>who to ask</strong>.</td></tr><tr><td class='border p-2'>which to choose</td><td class='border p-2'>chọn cái nào</td><td class='border p-2'>I can't decide <strong>which to choose</strong>.</td></tr></table><p class='mt-3'><strong>Vị trí:</strong> Sau các động từ: know, understand, decide, wonder, ask, tell, show, learn, remember, forget, explain, find out</p>"
+                },
+                {
+                  "heading": "2. Phrasal Verbs (Cụm động từ)",
+                  "content": "<table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Phrasal Verb</th><th class='border p-2'>Meaning</th><th class='border p-2'>Example</th></tr><tr><td class='border p-2'>look after</td><td class='border p-2'>chăm sóc</td><td class='border p-2'>She looks after her elderly parents.</td></tr><tr><td class='border p-2'>look for</td><td class='border p-2'>tìm kiếm</td><td class='border p-2'>I'm looking for my keys.</td></tr><tr><td class='border p-2'>look forward to</td><td class='border p-2'>mong đợi</td><td class='border p-2'>I look forward to hearing from you.</td></tr><tr><td class='border p-2'>turn up</td><td class='border p-2'>xuất hiện; đến</td><td class='border p-2'>She turned up late.</td></tr><tr><td class='border p-2'>turn down</td><td class='border p-2'>từ chối; giảm âm lượng</td><td class='border p-2'>He turned down the offer.</td></tr><tr><td class='border p-2'>get on with</td><td class='border p-2'>hòa thuận với</td><td class='border p-2'>I get on with my neighbours.</td></tr><tr><td class='border p-2'>get over</td><td class='border p-2'>vượt qua</td><td class='border p-2'>She got over her illness.</td></tr><tr><td class='border p-2'>carry out</td><td class='border p-2'>thực hiện</td><td class='border p-2'>They carried out a survey.</td></tr><tr><td class='border p-2'>find out</td><td class='border p-2'>tìm ra, khám phá</td><td class='border p-2'>I need to find out the truth.</td></tr><tr><td class='border p-2'>set up</td><td class='border p-2'>thành lập</td><td class='border p-2'>They set up a new business.</td></tr><tr><td class='border p-2'>hand down</td><td class='border p-2'>truyền lại</td><td class='border p-2'>Skills are handed down.</td></tr><tr><td class='border p-2'>cut down on</td><td class='border p-2'>cắt giảm</td><td class='border p-2'>Cut down on sugar.</td></tr></table>"
+                }
+              ]
+            },
+            "problemTypes": [
               {
-                "question": "He showed me ______ (how / use) it.",
-                "solution": "He showed me <strong>how to use</strong> it.",
-                "explanation": "how + to + use = cách sử dụng"
+                "id": "qwh-to-v",
+                "name": "Question Words + to-infinitive",
+                "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Xác định từ để hỏi phù hợp (what, where, when, how, who, which)</li><li>Thêm to + V (nguyên mẫu)</li><li>Không dùng why</li><li>Đặt sau các động từ như: know, tell, show, learn, decide...</li></ul>",
+                "examples": [
+                  { "question": "I don't know ______ (what / do).", "answer": "I don't know <strong>what to do</strong>.", "explanation": "what + to + do = làm gì" },
+                  { "question": "She asked me ______ (where / go).", "answer": "She asked me <strong>where to go</strong>.", "explanation": "where + to + go = đi đâu" },
+                  { "question": "Tell me ______ (when / start).", "answer": "Tell me <strong>when to start</strong>.", "explanation": "when + to + start = khi nào bắt đầu" }
+                ]
               },
               {
-                "question": "I learned ______ (how / make) pottery.",
-                "solution": "I learned <strong>how to make</strong> pottery.",
-                "explanation": "how + to + make = cách làm"
-              },
-              {
-                "question": "Can you tell me ______ (how / get) there?",
-                "solution": "Can you tell me <strong>how to get</strong> there?",
-                "explanation": "how + to + get = cách đến"
+                "id": "phrasal-verbs",
+                "name": "Phrasal Verbs",
+                "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học thuộc nghĩa của phrasal verbs</li><li>Chọn phrasal verb phù hợp với ngữ cảnh</li><li>Chú ý dạng chia động từ</li></ul>",
+                "examples": [
+                  { "question": "She ______ her younger brother. (chăm sóc)", "answer": "She <strong>looks after</strong> her younger brother.", "explanation": "look after = chăm sóc" },
+                  { "question": "I'm ______ my keys. (tìm kiếm)", "answer": "I'm <strong>looking for</strong> my keys.", "explanation": "look for = tìm kiếm" },
+                  { "question": "They ______ a new business. (thành lập)", "answer": "They <strong>set up</strong> a new business.", "explanation": "set up = thành lập" }
+                ]
               }
-            ]
-          },
-          {
-            "id": "dang3",
-            "name": "Dạng 3: Phrasal Verbs - Meaning",
-            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học thuộc nghĩa của phrasal verbs</li><li>Chọn phrasal verb phù hợp với ngữ cảnh</li></ul>",
-            "examples": [
+            ],
+            "exercises": [
               {
+                "id": "acl2-mcq1",
+                "type": "mcq",
+                "question": "I don't know ______ to do.",
+                "options": ["what", "why", "which", "whose"],
+                "correct": 0,
+                "explanation": "what to do = làm gì"
+              },
+              {
+                "id": "acl2-mcq2",
+                "type": "mcq",
+                "question": "She asked me ______ to go.",
+                "options": ["what", "where", "why", "whose"],
+                "correct": 1,
+                "explanation": "where to go = đi đâu"
+              },
+              {
+                "id": "acl2-mcq3",
+                "type": "mcq",
+                "question": "Tell me ______ to start.",
+                "options": ["what", "where", "when", "why"],
+                "correct": 2,
+                "explanation": "when to start = khi nào bắt đầu"
+              },
+              {
+                "id": "acl2-mcq4",
+                "type": "mcq",
+                "question": "He showed me ______ to use it.",
+                "options": ["what", "how", "why", "whose"],
+                "correct": 1,
+                "explanation": "how to use = cách sử dụng"
+              },
+              {
+                "id": "acl2-mcq5",
+                "type": "mcq",
+                "question": "I wonder ______ to ask.",
+                "options": ["what", "who", "why", "whose"],
+                "correct": 1,
+                "explanation": "who to ask = hỏi ai"
+              },
+              {
+                "id": "acl2-mcq6",
+                "type": "mcq",
+                "question": "Can you help me ______ the truth? (tìm ra)",
+                "options": ["find out", "look after", "set up", "turn down"],
+                "correct": 0,
+                "explanation": "find out = tìm ra"
+              },
+              {
+                "id": "acl2-mcq7",
+                "type": "mcq",
                 "question": "She ______ her younger brother. (chăm sóc)",
-                "solution": "She <strong>looks after</strong> her younger brother.",
+                "options": ["looks after", "looks for", "looks at", "looks up"],
+                "correct": 0,
                 "explanation": "look after = chăm sóc"
               },
               {
+                "id": "acl2-mcq8",
+                "type": "mcq",
+                "question": "They ______ a new business. (thành lập)",
+                "options": ["set up", "set off", "set out", "set down"],
+                "correct": 0,
+                "explanation": "set up = thành lập"
+              },
+              {
+                "id": "acl2-mcq9",
+                "type": "mcq",
                 "question": "I'm ______ my keys. (tìm kiếm)",
-                "solution": "I'm <strong>looking for</strong> my keys.",
+                "options": ["looking after", "looking for", "looking at", "looking up"],
+                "correct": 1,
                 "explanation": "look for = tìm kiếm"
               },
               {
-                "question": "They ______ a new business. (thành lập)",
-                "solution": "They <strong>set up</strong> a new business.",
-                "explanation": "set up = thành lập"
-              }
-            ]
-          },
-          {
-            "id": "dang4",
-            "name": "Dạng 4: Kết hợp Grammar và Phrasal Verbs",
-            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng cả question words + to V và phrasal verbs</li><li>Chú ý ngữ cảnh câu</li></ul>",
-            "examples": [
-              {
-                "question": "I don't know ______ (how / look after) plants.",
-                "solution": "I don't know <strong>how to look after</strong> plants.",
-                "explanation": "how to + phrasal verb"
-              },
-              {
-                "question": "She asked me ______ (where / find out) information.",
-                "solution": "She asked me <strong>where to find out</strong> information.",
-                "explanation": "where to + phrasal verb"
-              },
-              {
-                "question": "Tell me ______ (when / carry out) the plan.",
-                "solution": "Tell me <strong>when to carry out</strong> the plan.",
-                "explanation": "when to + phrasal verb"
+                "id": "acl2-mcq10",
+                "type": "mcq",
+                "question": "You should decide ______ to move to the new house.",
+                "options": ["while", "when", "where", "who"],
+                "correct": 1,
+                "explanation": "when to move = khi nào chuyển đi"
               }
             ]
           }
-        ],
-        "exercises": [
-          {
-            "id": "mcq1",
-            "type": "mcq",
-            "question": "I don't know ______ to do.",
-            "options": ["what", "why", "which", "whose"],
-            "correct": 0,
-            "explanation": "what to do = làm gì"
-          },
-          {
-            "id": "mcq2",
-            "type": "mcq",
-            "question": "She asked me ______ to go.",
-            "options": ["what", "where", "why", "whose"],
-            "correct": 1,
-            "explanation": "where to go = đi đâu"
-          },
-          {
-            "id": "mcq3",
-            "type": "mcq",
-            "question": "Tell me ______ to start.",
-            "options": ["what", "where", "when", "why"],
-            "correct": 2,
-            "explanation": "when to start = khi nào bắt đầu"
-          },
-          {
-            "id": "mcq4",
-            "type": "mcq",
-            "question": "He showed me ______ to use it.",
-            "options": ["what", "how", "why", "whose"],
-            "correct": 1,
-            "explanation": "how to use = cách sử dụng"
-          },
-          {
-            "id": "mcq5",
-            "type": "mcq",
-            "question": "I wonder ______ to ask.",
-            "options": ["what", "who", "why", "whose"],
-            "correct": 1,
-            "explanation": "who to ask = hỏi ai"
-          },
-          {
-            "id": "mcq6",
-            "type": "mcq",
-            "question": "She ______ her younger brother.",
-            "options": ["looks after", "looks for", "looks at", "looks up"],
-            "correct": 0,
-            "explanation": "look after = chăm sóc"
-          },
-          {
-            "id": "mcq7",
-            "type": "mcq",
-            "question": "I'm ______ my keys.",
-            "options": ["looking after", "looking for", "looking at", "looking up"],
-            "correct": 1,
-            "explanation": "look for = tìm kiếm"
-          },
-          {
-            "id": "mcq8",
-            "type": "mcq",
-            "question": "They ______ a new business.",
-            "options": ["set up", "set off", "set out", "set down"],
-            "correct": 0,
-            "explanation": "set up = thành lập"
-          },
-          {
-            "id": "mcq9",
-            "type": "mcq",
-            "question": "I can't decide ______ to choose.",
-            "options": ["what", "which", "why", "whose"],
-            "correct": 1,
-            "explanation": "which to choose = chọn cái nào"
-          },
-          {
-            "id": "mcq10",
-            "type": "mcq",
-            "question": "We need to ______ the truth.",
-            "options": ["find out", "find in", "find at", "find on"],
-            "correct": 0,
-            "explanation": "find out = tìm ra, khám phá"
-          },
-          {
-            "id": "msq1",
-            "type": "msq",
-            "question": "Which are correct question words + to-infinitive? (Select all that apply)",
-            "options": ["what to do", "where to go", "why to come", "how to use"],
-            "correct": [0, 1, 3],
-            "explanation": "Đúng: what to do, where to go, how to use. Sai: why to come (không dùng why + to V)"
-          },
-          {
-            "id": "msq2",
-            "type": "msq",
-            "question": "Which phrasal verbs mean 'tìm kiếm' or 'tìm ra'? (Select all that apply)",
-            "options": ["look for", "find out", "look after", "carry out"],
-            "correct": [0, 1],
-            "explanation": "look for = tìm kiếm; find out = tìm ra. look after = chăm sóc; carry out = thực hiện"
-          },
-          {
-            "id": "msq3",
-            "type": "msq",
-            "question": "Which sentences are correct? (Select all that apply)",
-            "options": ["I know how to swim.", "She asked where to go.", "Tell me why to do it.", "He showed me what to buy."],
-            "correct": [0, 1, 3],
-            "explanation": "Đúng: how to swim, where to go, what to buy. Sai: why to do (không dùng why + to V)"
-          },
-          {
-            "id": "sa1",
-            "type": "sa",
-            "question": "Fill in: I don't know ______ (what / do).",
-            "correct": "what to do",
-            "explanation": "what + to + do = làm gì"
-          },
-          {
-            "id": "sa2",
-            "type": "sa",
-            "question": "Fill in: He showed me ______ (how / make) pottery.",
-            "correct": "how to make",
-            "explanation": "how + to + make = cách làm"
-          },
-          {
-            "id": "sa3",
-            "type": "sa",
-            "question": "Fill in phrasal verb: She ______ (chăm sóc) her younger brother.",
-            "correct": "looks after",
-            "explanation": "look after = chăm sóc"
-          },
-          {
-            "id": "sa4",
-            "type": "sa",
-            "question": "Fill in phrasal verb: They ______ (thành lập) a new business.",
-            "correct": "set up / set up",
-            "explanation": "set up = thành lập"
-          },
-          {
-            "id": "essay1",
-            "type": "essay",
-            "question": "Rearrange: know / I / don't / what / do / to / . / asked / She / me / where / go / to / .",
-            "sample_answer": "I don't know what to do. She asked me where to go.",
-            "explanation": "Sắp xếp: S + V + Wh-word + to V"
-          },
-          {
-            "id": "essay2",
-            "type": "essay",
-            "question": "Transform: I don't know. What should I do? → I don't know ______.",
-            "sample_answer": "I don't know what to do.",
-            "explanation": "Biến đổi: What should I do? → what to do"
-          },
-          {
-            "id": "essay3",
-            "type": "essay",
-            "question": "Transform: She asked me. Where should I go? → She asked me ______.",
-            "sample_answer": "She asked me where to go.",
-            "explanation": "Biến đổi: Where should I go? → where to go"
-          },
-          {
-            "id": "essay4",
-            "type": "essay",
-            "question": "Rearrange with phrasal verb: after / She / looks / her / brother / younger / . / for / I'm / looking / keys / my / .",
-            "sample_answer": "She looks after her younger brother. I'm looking for my keys.",
-            "explanation": "Sắp xếp: look after (chăm sóc), look for (tìm kiếm)"
-          },
-          {
-            "id": "essay5",
-            "type": "essay",
-            "question": "Transform and combine: He showed me. How can I use it? + They set up a business. (Use question word + to V and keep the second sentence)",
-            "sample_answer": "He showed me how to use it. They set up a business.",
-            "explanation": "Biến đổi câu 1: How can I use it? → how to use it. Giữ nguyên câu 2 với phrasal verb 'set up'"
+        },
+        {
+          "id": "p4-communication",
+          "name": "Communication",
+          "slug": "p4-communication",
+          "description": "Giao tiếp - Everyday English: Seeking help and responding. Luyện nghe và nói về địa điểm yêu thích.",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "content": {
+            "theory": {
+              "title": "Communication - Everyday English",
+              "sections": [
+                {
+                  "heading": "1. Everyday English: Seeking help and responding",
+                  "content": "<p><strong>Seeking help (Nhờ giúp đỡ):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Do you mind + V-ing?</strong> — Bạn có phiền...? (Ex: Do you mind carrying this suitcase for me?)</li><li><strong>Could you + V...?</strong> — Bạn có thể...? (Ex: Could you show me how to open this gate, please?)</li><li><strong>Can you + V...?</strong> — Bạn có thể...?</li><li><strong>Would you mind + V-ing?</strong> — Bạn có phiền...?</li></ul><p><strong>Responding (Đáp lại):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Not at all.</strong> — Không có gì.</li><li><strong>Sure.</strong> — Chắc chắn rồi.</li><li><strong>Of course.</strong> — Tất nhiên.</li><li><strong>No problem.</strong> — Không vấn đề gì.</li><li><strong>I'm afraid I can't.</strong> — Tôi e là tôi không thể. (từ chối lịch sự)</li></ul>"
+                },
+                {
+                  "heading": "2. Practice: Pair work",
+                  "content": "<p><strong>Situation 1:</strong> You want your friend to lend you her pen.</p><p><em>You: Do you mind lending me your pen?</em></p><p><em>Friend: Not at all. Here you are.</em></p><p class='mt-2'><strong>Situation 2:</strong> You want your neighbour to tell you the name of the new garbage collector.</p><p><em>You: Could you tell me the name of the new garbage collector, please?</em></p><p><em>Neighbour: Sure. His name is Mr. Nam.</em></p><p class='mt-2'><strong>Situation 3:</strong> You want to ask your neighbour where to buy the best fruits and vegetables.</p><p><em>You: Do you know where to buy the best fruits and vegetables?</em></p><p><em>Neighbour: The local market has the freshest ones.</em></p>"
+                },
+                {
+                  "heading": "3. Listening: A place of interest",
+                  "content": "<p>Listen to Binh and Mira talking about a place of interest in their community. Fill in each blank with no more than TWO words and/or a number.</p><table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Place</th><th class='border p-2'>Place of Interest</th><th class='border p-2'>Distance</th><th class='border p-2'>Frequency</th><th class='border p-2'>Activities</th></tr><tr><td class='border p-2'>Binh (HCMC)</td><td class='border p-2'>Nguyen Hue Pedestrian Street</td><td class='border p-2'>(1) _____ km</td><td class='border p-2'>Every (2) _____</td><td class='border p-2'>Children: enjoying music, looking for (3) _____<br>Parents: looking around</td></tr><tr><td class='border p-2'>Mira (Sydney)</td><td class='border p-2'>Sydney Opera House</td><td class='border p-2'>(4) _____ km</td><td class='border p-2'>Twice a month</td><td class='border p-2'>Children: running up and down the stairs, (5) _____ seagulls<br>Parents: having (6) _____, talking</td></tr></table><p><strong>Answers:</strong> (1) 2, (2) Sunday, (3) souvenirs, (4) 5, (5) feeding, (6) coffee</p>"
+                },
+                {
+                  "heading": "4. Speaking: My favourite place of interest",
+                  "content": "<p>Work in pairs. Ask and answer about your favourite places of interest.</p><ul class='list-disc pl-5 space-y-2'><li>What is your favourite place of interest?</li><li>How far is it from your house?</li><li>How often do you go to that place?</li><li>What do you do there?</li></ul><p><strong>Example:</strong></p><p><em>Lan's favourite place of interest is Tao Dan Park. It's only one kilometre from her house. She goes there every weekend. She enjoys jogging and reading books under the trees.</em></p>"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "id": "comm-mcq1",
+                "type": "mcq",
+                "question": "Which is the correct way to ask for help politely?",
+                "options": ["Do you mind carrying this suitcase for me?", "Carry this suitcase for me!", "You must carry this suitcase.", "I want you to carry this suitcase."],
+                "correct": 0,
+                "explanation": "Do you mind + V-ing? là cách nhờ giúp đỡ lịch sự."
+              },
+              {
+                "id": "comm-mcq2",
+                "type": "mcq",
+                "question": "Which is a polite response when agreeing to help?",
+                "options": ["No!", "Not at all.", "I can't.", "Go away."],
+                "correct": 1,
+                "explanation": "Not at all. là cách đáp lại lịch sự khi đồng ý giúp đỡ."
+              },
+              {
+                "id": "comm-mcq3",
+                "type": "mcq",
+                "question": "How far is Nguyen Hue Pedestrian Street from Binh's house?",
+                "options": ["1 km", "2 km", "5 km", "10 km"],
+                "correct": 1,
+                "explanation": "Binh's place of interest is 2 km from his house."
+              },
+              {
+                "id": "comm-mcq4",
+                "type": "mcq",
+                "question": "How often does Mira go to Sydney Opera House?",
+                "options": ["Every Sunday", "Once a month", "Twice a month", "Every day"],
+                "correct": 2,
+                "explanation": "Mira goes to Sydney Opera House twice a month."
+              }
+            ]
           }
-        ]
-      }
+        },
+        {
+          "id": "p5-skill1",
+          "name": "Skills 1",
+          "slug": "p5-skill1",
+          "description": "Kỹ năng 1 - Đọc hiểu về sản phẩm đặc sản ở các vùng miền và nói về đặc sản địa phương.",
+          "duration_minutes": 45,
+          "difficulty_level": "hard",
+          "order": 5,
+          "content": {
+            "theory": {
+              "title": "Skills 1 - Reading & Speaking",
+              "sections": [
+                {
+                  "heading": "1. Reading: Special products in some areas",
+                  "content": "<p><strong>Pre-reading questions:</strong> What can you see in each picture?</p><p>Read the passage about traditional products from different regions of Viet Nam.</p><div class='bg-gray-50 dark:bg-gray-800 p-4 rounded-xl border border-gray-200 dark:border-gray-700 my-3'><p><strong>SPECIAL PRODUCTS IN SOME AREAS</strong></p><p>Viet Nam has many traditional craft villages. Each village produces special products. For example, Bat Trang village in Ha Noi is famous for pottery. Artisans there make beautiful vases, bowls, and teacups from clay. The skills are handed down from generation to generation.</p><p>In the south, Ben Tre is known for coconut candy and handicrafts made from coconut leaves. Visitors can watch how to make coconut candy and enjoy its sweet flavour.</p><p>Ha Tay (now part of Ha Noi) is famous for silk weaving. Van Phuc silk village produces high-quality silk products. Many tourists come here to buy scarves, dresses, and ties.</p><p>In the central region, Hoi An is well-known for its tailor shops and lanterns. The lanterns are made with colourful silk and bamboo frames. They light up the ancient town every night.</p></div>"
+                },
+                {
+                  "heading": "2. Comprehension Questions",
+                  "content": "<ol class='list-decimal pl-5 space-y-2'><li>What is Bat Trang village famous for? → <strong>Pottery</strong></li><li>What is Ben Tre known for? → <strong>Coconut candy and handicrafts made from coconut leaves</strong></li><li>Which village is famous for silk weaving? → <strong>Van Phuc silk village</strong></li><li>What are Hoi An lanterns made with? → <strong>Colourful silk and bamboo frames</strong></li><li>How are the skills in Bat Trang passed on? → <strong>They are handed down from generation to generation</strong></li></ol>"
+                },
+                {
+                  "heading": "3. Speaking: Give a short presentation",
+                  "content": "<p>Work in groups. Prepare a short presentation about a speciality from your region or a region you know.</p><p><strong>Structure:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Introduction:</strong> Name of the speciality and where it's from</li><li><strong>Description:</strong> What it looks like, how it's made</li><li><strong>Significance:</strong> Why it's special, its cultural value</li><li><strong>Conclusion:</strong> Why visitors should try/buy it</li></ul><p><strong>Sample presentation:</strong></p><p><em>Today I'd like to talk about <strong>Phở</strong>, a famous Vietnamese speciality from Ha Noi. It's a noodle soup made with beef or chicken broth, rice noodles, and fresh herbs. The broth is simmered for hours with bones and spices like cinnamon and star anise. Phở is special because it represents Vietnamese cuisine and culture. If you visit Ha Noi, you should try a bowl of Phở at a local shop.</em></p>"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "id": "sk1-mcq1",
+                "type": "mcq",
+                "question": "What is Bat Trang village famous for?",
+                "options": ["Silk weaving", "Pottery", "Coconut candy", "Lanterns"],
+                "correct": 1,
+                "explanation": "Bat Trang village is famous for pottery."
+              },
+              {
+                "id": "sk1-mcq2",
+                "type": "mcq",
+                "question": "Ben Tre is known for _____.",
+                "options": ["silk products", "pottery", "coconut candy and handicrafts", "lanterns"],
+                "correct": 2,
+                "explanation": "Ben Tre is known for coconut candy and handicrafts made from coconut leaves."
+              },
+              {
+                "id": "sk1-mcq3",
+                "type": "mcq",
+                "question": "Van Phuc silk village is in _____.",
+                "options": ["Ben Tre", "Hoi An", "Ha Noi (formerly Ha Tay)", "Da Nang"],
+                "correct": 2,
+                "explanation": "Van Phuc silk village is in Ha Tay, now part of Ha Noi."
+              },
+              {
+                "id": "sk1-mcq4",
+                "type": "mcq",
+                "question": "Hoi An lanterns are made with colourful silk and _____.",
+                "options": ["paper", "bamboo frames", "plastic", "metal"],
+                "correct": 1,
+                "explanation": "Hoi An lanterns are made with colourful silk and bamboo frames."
+              },
+              {
+                "id": "sk1-mcq5",
+                "type": "mcq",
+                "question": "The phrase 'handed down' means _____.",
+                "combined": true,
+                "options": ["passed from generation to generation", "given away for free", "sold in shops", "displayed in museums"],
+                "correct": 0,
+                "explanation": "hand down = truyền lại từ thế hệ này sang thế hệ khác."
+              }
+            ]
+          }
+        },
+        {
+          "id": "p6-skill2",
+          "name": "Skills 2",
+          "slug": "p6-skill2",
+          "description": "Kỹ năng 2 - Nghe về người giúp đỡ cộng đồng và viết đoạn văn về một người giúp đỡ cộng đồng.",
+          "duration_minutes": 45,
+          "difficulty_level": "hard",
+          "order": 6,
+          "content": {
+            "theory": {
+              "title": "Skills 2 - Listening & Writing",
+              "sections": [
+                {
+                  "heading": "1. Listening: A community helper",
+                  "content": "<p><strong>Pre-listening:</strong> Who can you see in the pictures? What do they do?</p><p>Listen to a passage about a community helper and answer the questions.</p><div class='bg-gray-50 dark:bg-gray-800 p-4 rounded-xl border border-gray-200 dark:border-gray-700 my-3'><p><strong>Listening passage:</strong></p><p>Mr. Nam is a garbage collector in our community. He has worked for the local environment service for 15 years. Every morning at 5 o'clock, he starts his work. He collects rubbish from different streets and takes it to the recycling centre. He always does his job carefully and happily.</p><p>People in the neighbourhood love Mr. Nam because he is very friendly and helpful. Sometimes, he helps elderly people carry heavy bins to the street. He also reminds children to sort rubbish correctly.</p><p>Mr. Nam says he is proud of his job because he helps keep the community clean and beautiful.</p></div><p><strong>Comprehension questions:</strong></p><ol class='list-decimal pl-5 space-y-2'><li>What does Mr. Nam do? → <strong>He is a garbage collector.</strong></li><li>How long has he worked for the local environment service? → <strong>For 15 years.</strong></li><li>What time does he start his work? → <strong>At 5 o'clock every morning.</strong></li><li>Why do people love Mr. Nam? → <strong>Because he is very friendly and helpful.</strong></li><li>Why is Mr. Nam proud of his job? → <strong>Because he helps keep the community clean and beautiful.</strong></li></ol>"
+                },
+                {
+                  "heading": "2. Writing: A paragraph about a community helper",
+                  "content": "<p><strong>Structure for writing:</strong></p><table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Part</th><th class='border p-2'>Content</th></tr><tr><td class='border p-2'><strong>Topic sentence</strong></td><td class='border p-2'>Introduce the community helper (who, job)</td></tr><tr><td class='border p-2'><strong>Body</strong></td><td class='border p-2'>Describe what he/she does, where, when, how</td></tr><tr><td class='border p-2'><strong>Body</strong></td><td class='border p-2'>Say why he/she is important to the community</td></tr><tr><td class='border p-2'><strong>Concluding sentence</strong></td><td class='border p-2'>Your feeling or opinion about this helper</td></tr></table><p class='mt-3'><strong>Sample paragraph:</strong></p><div class='bg-gray-50 dark:bg-gray-800 p-4 rounded-xl border border-gray-200 dark:border-gray-700'><p><em>My aunt Lan is a nurse at the local health centre. She has worked there for ten years. Every day, she takes care of patients, checks their temperature, and gives them medicine. She is very kind and patient with everyone. My aunt Lan is important to our community because she helps sick people get better and stay healthy. I am very proud of her.</em></p></div><p class='mt-3'><strong>Useful language:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Jobs:</strong> police officer, firefighter, garbage collector, postman, nurse, artisan, tradesperson</li><li><strong>Verbs:</strong> help, protect, serve, take care of, collect, deliver, make, keep, maintain</li><li><strong>Phrasal verbs:</strong> look after, look for, carry out, set up, find out, hand down</li><li><strong>Linking words:</strong> First, Then, Next, Also, Moreover, In addition, Finally</li></ul>"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "id": "sk2-mcq1",
+                "type": "mcq",
+                "question": "What is Mr. Nam's job?",
+                "options": ["Police officer", "Garbage collector", "Firefighter", "Postman"],
+                "correct": 1,
+                "explanation": "Mr. Nam is a garbage collector."
+              },
+              {
+                "id": "sk2-mcq2",
+                "type": "mcq",
+                "question": "How long has Mr. Nam worked for the environment service?",
+                "options": ["5 years", "10 years", "15 years", "20 years"],
+                "correct": 2,
+                "explanation": "He has worked for the local environment service for 15 years."
+              },
+              {
+                "id": "sk2-mcq3",
+                "type": "mcq",
+                "question": "What time does Mr. Nam start his work?",
+                "options": ["4:00", "5:00", "6:00", "7:00"],
+                "correct": 1,
+                "explanation": "Every morning at 5 o'clock, he starts his work."
+              },
+              {
+                "id": "sk2-mcq4",
+                "type": "mcq",
+                "question": "Why is Mr. Nam proud of his job?",
+                "options": ["Because he earns a lot of money.", "Because he helps keep the community clean and beautiful.", "Because he works alone.", "Because he has a fancy uniform."],
+                "correct": 1,
+                "explanation": "Mr. Nam is proud because he helps keep the community clean and beautiful."
+              },
+              {
+                "id": "sk2-essay1",
+                "type": "essay",
+                "question": "Write a paragraph (60-80 words) about a community helper you know. Use the structure: introduce the person, describe their work, explain why they are important, and state your feeling.",
+                "sample_answer": "My neighbour Mr. Tuan is a police officer. He has worked for the local police station for 12 years. Every day, he patrols the streets and helps keep law and order in our community. He is very dedicated and always ready to help people. Mr. Tuan is important because he protects our safety. I really admire him.",
+                "explanation": "Học sinh viết đoạn văn giới thiệu về người giúp đỡ cộng đồng, mô tả công việc, tầm quan trọng và cảm nghĩ."
+              }
+            ]
+          }
+        },
+        {
+          "id": "p7-looking-back",
+          "name": "Looking Back",
+          "slug": "p7-looking-back",
+          "description": "Ôn tập từ vựng và ngữ pháp toàn bộ Unit 1: Local Community.",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 7,
+          "content": {
+            "theory": {
+              "title": "Looking Back - Review",
+              "sections": [
+                {
+                  "heading": "1. Vocabulary Review",
+                  "content": "<p><strong>Community helpers:</strong> garbage collector, firefighter, police officer, nurse, postman, tradesperson, artisan</p><p><strong>Traditional handicrafts:</strong> pottery, weaving, embroidery, wood carving, silk-making, conical hat making, incense making</p><p><strong>Phrasal verbs:</strong> look after, look for, look forward to, turn up, turn down, get on with, get over, carry out, find out, set up, hand down, cut down on</p>"
+                },
+                {
+                  "heading": "2. Grammar Review",
+                  "content": "<p><strong>Question Words + to-infinitive:</strong></p><ul class='list-disc pl-5 space-y-2'><li>what to do, where to go, when to start, how to use, who to ask, which to choose</li><li><em>Không dùng:</em> why to V</li><li>Dùng sau: know, tell, show, learn, decide, wonder, ask, remember, forget, find out</li></ul>"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "id": "lb-mcq1",
+                "type": "mcq",
+                "question": "Do you know _____ to sort rubbish?",
+                "options": ["who", "which", "how", "what"],
+                "correct": 2,
+                "explanation": "how to sort = cách phân loại"
+              },
+              {
+                "id": "lb-mcq2",
+                "type": "mcq",
+                "question": "She didn't tell me _____ to meet, in the library or in the lab.",
+                "options": ["how", "when", "what", "where"],
+                "correct": 3,
+                "explanation": "where to meet = gặp ở đâu"
+              },
+              {
+                "id": "lb-mcq3",
+                "type": "mcq",
+                "question": "Could you tell me _____ to do in this situation?",
+                "options": ["what", "when", "where", "who"],
+                "correct": 0,
+                "explanation": "what to do = làm gì"
+              },
+              {
+                "id": "lb-mcq4",
+                "type": "mcq",
+                "question": "I wonder _____ to ask for advice: my teacher or my parents.",
+                "options": ["where", "when", "who", "what"],
+                "correct": 2,
+                "explanation": "who to ask = hỏi ai"
+              },
+              {
+                "id": "lb-mcq5",
+                "type": "mcq",
+                "question": "The villagers _____ their traditional weaving techniques. (Preserve / Shorten)",
+                "options": ["preserve", "shorten"],
+                "correct": 0,
+                "explanation": "preserve = bảo tồn, duy trì"
+              },
+              {
+                "id": "lb-mcq6",
+                "type": "mcq",
+                "question": "Bun cha is the _____ I like best. (speciality / fast food)",
+                "options": ["speciality", "fast food"],
+                "correct": 0,
+                "explanation": "speciality = đặc sản"
+              },
+              {
+                "id": "lb-mcq7",
+                "type": "mcq",
+                "question": "My grandparents gave the skills to my parents. (hand down)",
+                "options": ["My grandparents hand down the skills to my parents.", "My grandparents handed down the skills to my parents.", "My grandparents handing down the skills to my parents.", "My grandparents will hand down the skills to my parents."],
+                "correct": 1,
+                "explanation": "handed down (quá khứ) = đã truyền lại"
+              },
+              {
+                "id": "lb-mcq8",
+                "type": "mcq",
+                "question": "People make these objects out of clay. What are they?",
+                "options": ["Pottery", "Weaving", "Embroidery", "Wood carving"],
+                "correct": 0,
+                "explanation": "Pottery = đồ gốm, làm từ đất sét."
+              },
+              {
+                "id": "lb-mcq9",
+                "type": "mcq",
+                "question": "This person stops fires from burning. Who is this?",
+                "options": ["Police officer", "Firefighter", "Garbage collector", "Postman"],
+                "correct": 1,
+                "explanation": "Firefighter = lính cứu hỏa"
+              },
+              {
+                "id": "lb-mcq10",
+                "type": "mcq",
+                "question": "You should decide _____ to move to the new house.",
+                "options": ["while", "when", "where", "who"],
+                "correct": 1,
+                "explanation": "when to move = khi nào chuyển đi"
+              }
+            ]
+          }
+        },
+        {
+          "id": "p8-project",
+          "name": "Project",
+          "slug": "p8-project",
+          "description": "Dự án: Tìm hiểu và giới thiệu về cộng đồng của bạn - What is good about your community?",
+          "duration_minutes": 45,
+          "difficulty_level": "hard",
+          "order": 8,
+          "content": {
+            "theory": {
+              "title": "Project: What is good about your community?",
+              "sections": [
+                {
+                  "heading": "Project Instructions",
+                  "content": "<p><strong>Work in groups. Interview some people about your community and present your findings.</strong></p><p><strong>Step 1: Prepare interview questions</strong></p><ul class='list-disc pl-5 space-y-2'><li>What do you like about our community?</li><li>What facilities are there in our community?</li><li>Who are the community helpers? What do they do?</li><li>What traditional products or specialities does our area have?</li><li>What can we do to improve our community?</li></ul><p><strong>Step 2: Interview</strong></p><ul class='list-disc pl-5 space-y-2'><li>Interview 2-3 people (neighbours, family members, local shopkeepers)</li><li>Take notes of their answers</li></ul><p><strong>Step 3: Prepare your presentation</strong></p><table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Part</th><th class='border p-2'>Content</th></tr><tr><td class='border p-2'>Introduction</td><td class='border p-2'>Name of your community, where it is</td></tr><tr><td class='border p-2'>Facilities</td><td class='border p-2'>Parks, schools, markets, hospitals, etc.</td></tr><tr><td class='border p-2'>People</td><td class='border p-2'>Community helpers, neighbours, their roles</td></tr><tr><td class='border p-2'>Specialities</td><td class='border p-2'>Local food, handicrafts, traditional products</td></tr><tr><td class='border p-2'>Conclusion</td><td class='border p-2'>Why your community is a great place to live</td></tr></table>"
+                },
+                {
+                  "heading": "Sample Project: My Community",
+                  "content": "<div class='bg-gray-50 dark:bg-gray-800 p-4 rounded-xl border border-gray-200 dark:border-gray-700 my-3'><p><strong>What is good about my community?</strong></p><p>I live in a small town in Ha Noi's suburb. Our community has many good things. First, there are good facilities including a park, a swimming pool, and a library. Children can play sports and read books there.</p><p>Second, the people in my community are very friendly. The police officer keeps our streets safe, and the garbage collectors keep the town clean. Our neighbours help each other and get on well with each other.</p><p>Third, my town is famous for traditional pottery. Many tourists visit our craft village to buy beautiful vases and bowls. The skills have been handed down for many generations.</p><p>I love my community because it is peaceful, clean, and friendly. Everyone knows each other and is willing to help. I am proud to live here.</p></div>"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "id": "proj-essay1",
+                "type": "essay",
+                "question": "Write a paragraph (80-100 words) about what is good about your community. Include: facilities, people (community helpers), traditional products/specialities, and your feelings.",
+                "sample_answer": "I live in a suburb of Ha Noi. Our community has a big park and a modern sports centre. The police officer keeps our neighbourhood safe. The garbage collectors come every morning to keep the streets clean. My town is famous for making beautiful wooden furniture. The artisans are very skilled. They have handed down their craft for many years. I love my community because it is peaceful and the people are friendly and helpful.",
+                "explanation": "Học sinh viết đoạn văn giới thiệu về cộng đồng của mình, bao gồm cơ sở vật chất, con người và đặc sản địa phương."
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

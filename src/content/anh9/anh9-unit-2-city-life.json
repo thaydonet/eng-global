@@ -9,301 +9,644 @@
       "chapter": "Unit 2: City Life",
       "chapter_id": "A9",
       "lesson_id": 2,
-      "description": "Learn about city life with double comparatives and phrasal verbs.",
+      "description": "Learn about city life: urban features, city problems, double comparatives, and phrasal verbs.",
       "duration_minutes": 45,
       "difficulty_level": "medium",
       "is_published": true,
       "thumbnail_url": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?q=80&w=2670&auto=format&fit=crop",
-      "question_types": [
+      "has_sub_lessons": true,
+      "sub_lessons": [
         {
-          "id": "vocab-2",
-          "name": "City Life Vocabulary",
-          "slug": "city-life-vocabulary",
-          "difficulty": "medium"
-        }
-      ],
-      "content": {
-        "theory": {
-          "title": "Unit 2: City Life",
-          "sections": [
-            {
-              "heading": "1. Từ vựng (Vocabulary)",
-              "content": "<p><strong>City features:</strong> skyscraper, building, traffic, public transport, metro, subway, bus, taxi, shopping mall, entertainment, facilities, infrastructure</p><p><strong>City problems:</strong> pollution, noise, traffic jam, crowded, expensive, stressful, crime, poverty</p><p><strong>City advantages:</strong> convenient, modern, developed, opportunity, job, education, healthcare, entertainment</p><p><strong>Adjectives:</strong> busy, crowded, noisy, polluted, expensive, modern, convenient, exciting, stressful, fast-paced</p>"
+          "id": "p1-getting-started",
+          "name": "Getting Started",
+          "slug": "p1-getting-started",
+          "description": "Khởi động - Làm quen với chủ đề City Life qua hội thoại và từ vựng.",
+          "duration_minutes": 45,
+          "difficulty_level": "easy",
+          "order": 1,
+          "content": {
+            "theory": {
+              "title": "Getting Started - City Life",
+              "sections": [
+                {
+                  "heading": "1. Listen and Read",
+                  "content": "<p><strong>Dialogue:</strong></p><p><em>Tom: Hi, Phong. You look happy today.</em></p><p><em>Phong: Yes, my family moved to a new flat in the city centre last week.</em></p><p><em>Tom: Oh, really? How do you like city life?</em></p><p><em>Phong: I love it! It's much more exciting than living in the suburb. Everything is convenient. There are shopping malls, cinemas, and restaurants nearby.</em></p><p><em>Tom: What about the transport?</em></p><p><em>Phong: It's easy to get around. There are many buses and the metro is fast. The more the city develops, the better the public transport becomes.</em></p><p><em>Tom: Sounds great! But isn't it noisy and crowded?</em></p><p><em>Phong: Well, the bigger the city is, the more crowded it gets. But I don't mind. I enjoy the busy atmosphere.</em></p><p><em>Tom: I think I should visit your new place sometime.</em></p><p><em>Phong: Sure! I can show you around.</em></p>"
+                },
+                {
+                  "heading": "2. Vocabulary from the dialogue",
+                  "content": "<table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Word / Phrase</th><th class='border p-2'>Meaning</th></tr><tr><td class='border p-2'>city centre</td><td class='border p-2'>trung tâm thành phố</td></tr><tr><td class='border p-2'>convenient</td><td class='border p-2'>thuận tiện</td></tr><tr><td class='border p-2'>get around</td><td class='border p-2'>đi lại, di chuyển</td></tr><tr><td class='border p-2'>metro</td><td class='border p-2'>tàu điện ngầm</td></tr><tr><td class='border p-2'>public transport</td><td class='border p-2'>phương tiện công cộng</td></tr><tr><td class='border p-2'>atmosphere</td><td class='border p-2'>bầu không khí</td></tr><tr><td class='border p-2'>show around</td><td class='border p-2'>dẫn đi tham quan</td></tr></table>"
+                },
+                {
+                  "heading": "3. THIS UNIT INCLUDES",
+                  "content": "<ul class='list-disc pl-5 space-y-2'><li><strong>Vocabulary:</strong> City features, city problems, city advantages</li><li><strong>Grammar:</strong> Double comparatives (So sánh kép), Phrasal verbs</li><li><strong>Skills:</strong> Reading for specific information about city problems, Talking about city problems and their solutions, Listening about city life, Writing a paragraph about city life</li></ul>"
+                }
+              ]
             },
-            {
-              "heading": "2. Luyện tập từ vựng",
-              "content": "<p>Practice using vocabulary in context about city life, urban problems, and city advantages.</p>"
-            },
-            {
-              "heading": "3. Ngữ pháp (Grammar)",
-              "content": "<h3>A. Double Comparatives (So sánh kép)</h3><p><strong>Cấu trúc:</strong> The + comparative + S + V, the + comparative + S + V</p><p><strong>Nghĩa:</strong> Càng... càng...</p><p><strong>1. Với tính từ/trạng từ ngắn:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The + adj/adv-er + S + V, the + adj/adv-er + S + V</li><li>Ex: The <strong>bigger</strong> the city is, the <strong>more crowded</strong> it is.</li><li>Ex: The <strong>faster</strong> you drive, the <strong>more dangerous</strong> it is.</li></ul><p><strong>2. Với tính từ/trạng từ dài:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The more + adj/adv + S + V, the more + adj/adv + S + V</li><li>Ex: The <strong>more expensive</strong> the city is, the <strong>more difficult</strong> life is.</li></ul><p><strong>3. Kết hợp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The + adj-er + S + V, the more + adj + S + V</li><li>Ex: The <strong>older</strong> I get, the <strong>more experienced</strong> I become.</li></ul><p><strong>4. Với danh từ:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The more + N + S + V, the more + N + S + V</li><li>Ex: The <strong>more money</strong> you have, the <strong>more problems</strong> you face.</li></ul><h3>B. Phrasal Verbs (Cụm động từ)</h3><p><strong>Common phrasal verbs:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>get around:</strong> đi lại, di chuyển</li><li><strong>grow up:</strong> lớn lên</li><li><strong>come back:</strong> quay lại</li><li><strong>go on:</strong> tiếp tục</li><li><strong>take off:</strong> cất cánh (máy bay)</li><li><strong>put on:</strong> mặc vào</li><li><strong>take over:</strong> tiếp quản</li><li><strong>deal with:</strong> giải quyết</li><li><strong>run out of:</strong> hết, cạn kiệt</li><li><strong>keep up with:</strong> theo kịp</li></ul>"
-            },
-            {
-              "heading": "4-11. Các phần còn lại",
-              "content": "<p>Getting Started, A Closer Look 1-2, Communication, Skills 1-2, Looking Back, Project</p>"
-            }
-          ]
-        },
-        "problemTypes": [
-          {
-            "id": "dang1",
-            "name": "Dạng 1: Double Comparatives - Tính từ ngắn",
-            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The + adj-er + S + V, the + adj-er + S + V</li><li>Tính từ ngắn: 1-2 âm tiết</li></ul>",
-            "examples": [
+            "exercises": [
               {
-                "question": "The city is big. It is crowded. → The ______ the city is, the ______ it is.",
-                "solution": "The <strong>bigger</strong> the city is, the <strong>more crowded</strong> it is.",
-                "explanation": "big → bigger; crowded (dài) → more crowded"
+                "id": "gs-mcq1",
+                "type": "mcq",
+                "question": "Where did Phong's family move to?",
+                "options": ["A suburb", "The city centre", "A village", "Another country"],
+                "correct": 1,
+                "explanation": "Phong said: 'my family moved to a new flat in the city centre last week.'"
               },
               {
-                "question": "You drive fast. It is dangerous. → The ______ you drive, the ______ it is.",
-                "solution": "The <strong>faster</strong> you drive, the <strong>more dangerous</strong> it is.",
-                "explanation": "fast → faster; dangerous (dài) → more dangerous"
+                "id": "gs-mcq2",
+                "type": "mcq",
+                "question": "How does Phong feel about city life?",
+                "options": ["Bored", "Excited", "Worried", "Disappointed"],
+                "correct": 1,
+                "explanation": "Phong said: 'I love it! It's much more exciting than living in the suburb.'"
               },
               {
-                "question": "The weather is hot. I feel tired. → The ______ the weather is, the ______ I feel.",
-                "solution": "The <strong>hotter</strong> the weather is, the <strong>more tired</strong> I feel.",
-                "explanation": "hot → hotter (nhân đôi phụ âm); tired (dài) → more tired"
-              }
-            ]
-          },
-          {
-            "id": "dang2",
-            "name": "Dạng 2: Double Comparatives - Tính từ dài",
-            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The more + adj + S + V, the more + adj + S + V</li><li>Tính từ dài: 3+ âm tiết</li></ul>",
-            "examples": [
-              {
-                "question": "The city is expensive. Life is difficult. → The ______ the city is, the ______ life is.",
-                "solution": "The <strong>more expensive</strong> the city is, the <strong>more difficult</strong> life is.",
-                "explanation": "expensive → more expensive; difficult → more difficult"
+                "id": "gs-mcq3",
+                "type": "mcq",
+                "question": "What does Phong say about public transport?",
+                "options": ["It's expensive.", "It's easy to get around.", "There are no buses.", "The metro is slow."],
+                "correct": 1,
+                "explanation": "Phong said: 'It's easy to get around. There are many buses and the metro is fast.'"
               },
               {
-                "question": "You are careful. You make fewer mistakes. → The ______ you are, the ______ mistakes you make.",
-                "solution": "The <strong>more careful</strong> you are, the <strong>fewer</strong> mistakes you make.",
-                "explanation": "careful → more careful; few → fewer"
-              },
-              {
-                "question": "It is polluted. It is unhealthy. → The ______ it is, the ______ it is.",
-                "solution": "The <strong>more polluted</strong> it is, the <strong>more unhealthy</strong> it is.",
-                "explanation": "polluted → more polluted; unhealthy → more unhealthy"
-              }
-            ]
-          },
-          {
-            "id": "dang3",
-            "name": "Dạng 3: Phrasal Verbs - Meaning",
-            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Học thuộc nghĩa của phrasal verbs</li><li>Chọn phrasal verb phù hợp với ngữ cảnh</li></ul>",
-            "examples": [
-              {
-                "question": "I ______ in Hanoi. (lớn lên)",
-                "solution": "I <strong>grew up</strong> in Hanoi.",
-                "explanation": "grow up = lớn lên"
-              },
-              {
-                "question": "It's easy to ______ in this city. (đi lại)",
-                "solution": "It's easy to <strong>get around</strong> in this city.",
+                "id": "gs-mcq4",
+                "type": "mcq",
+                "question": "The phrase 'get around' means _____.",
+                "options": ["move from place to place", "leave a place", "return somewhere", "enter a place"],
+                "correct": 0,
                 "explanation": "get around = đi lại, di chuyển"
               },
               {
+                "id": "gs-mcq5",
+                "type": "mcq",
+                "question": "What does Phong NOT mind about city life?",
+                "options": ["The expensive cost", "The noise and crowd", "The traffic", "The pollution"],
+                "correct": 1,
+                "explanation": "Phong said: 'the bigger the city is, the more crowded it gets. But I don't mind. I enjoy the busy atmosphere.'"
+              }
+            ]
+          }
+        },
+        {
+          "id": "p2-vocabulary",
+          "name": "A Closer Look 1",
+          "slug": "p2-vocabulary",
+          "description": "Nhìn sâu 1 - Từ vựng về city features, city problems, city advantages và phát âm.",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 2,
+          "content": {
+            "theory": {
+              "title": "A Closer Look 1 - Vocabulary & Pronunciation",
+              "sections": [
+                {
+                  "heading": "1. Vocabulary: City features",
+                  "content": "<table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Word</th><th class='border p-2'>Meaning</th></tr><tr><td class='border p-2'>skyscraper</td><td class='border p-2'>nhà chọc trời</td></tr><tr><td class='border p-2'>shopping mall</td><td class='border p-2'>trung tâm thương mại</td></tr><tr><td class='border p-2'>public transport</td><td class='border p-2'>phương tiện công cộng</td></tr><tr><td class='border p-2'>metro / subway</td><td class='border p-2'>tàu điện ngầm</td></tr><tr><td class='border p-2'>entertainment</td><td class='border p-2'>giải trí</td></tr><tr><td class='border p-2'>infrastructure</td><td class='border p-2'>cơ sở hạ tầng</td></tr></table>"
+                },
+                {
+                  "heading": "2. City Problems (Vấn đề đô thị)",
+                  "content": "<table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Problem</th><th class='border p-2'>Meaning</th><th class='border p-2'>Example</th></tr><tr><td class='border p-2'>traffic jam</td><td class='border p-2'>kẹt xe</td><td class='border p-2'>There are traffic jams every rush hour.</td></tr><tr><td class='border p-2'>air pollution</td><td class='border p-2'>ô nhiễm không khí</td><td class='border p-2'>Air pollution affects our health.</td></tr><tr><td class='border p-2'>noise pollution</td><td class='border p-2'>ô nhiễm tiếng ồn</td><td class='border p-2'>Noise pollution from traffic is terrible.</td></tr><tr><td class='border p-2'>overcrowding</td><td class='border p-2'>quá đông đúc</td><td class='border p-2'>Overcrowding is a serious problem.</td></tr><tr><td class='border p-2'>high cost of living</td><td class='border p-2'>chi phí sinh hoạt cao</td><td class='border p-2'>The cost of living in the city is high.</td></tr><tr><td class='border p-2'>crime</td><td class='border p-2'>tội phạm</td><td class='border p-2'>Crime rates are higher in big cities.</td></tr></table>"
+                },
+                {
+                  "heading": "3. City Advantages (Lợi ích thành phố)",
+                  "content": "<table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Advantage</th><th class='border p-2'>Meaning</th><th class='border p-2'>Example</th></tr><tr><td class='border p-2'>convenient</td><td class='border p-2'>thuận tiện</td><td class='border p-2'>Everything is convenient in the city.</td></tr><tr><td class='border p-2'>modern</td><td class='border p-2'>hiện đại</td><td class='border p-2'>The city has modern facilities.</td></tr><tr><td class='border p-2'>job opportunities</td><td class='border p-2'>cơ hội việc làm</td><td class='border p-2'>There are many job opportunities.</td></tr><tr><td class='border p-2'>education</td><td class='border p-2'>giáo dục</td><td class='border p-2'>The city has good schools.</td></tr><tr><td class='border p-2'>healthcare</td><td class='border p-2'>chăm sóc sức khỏe</td><td class='border p-2'>Healthcare services are excellent.</td></tr><tr><td class='border p-2'>entertainment</td><td class='border p-2'>giải trí</td><td class='border p-2'>There are cinemas and parks.</td></tr></table>"
+                },
+                {
+                  "heading": "4. Pronunciation: Word stress",
+                  "content": "<p><strong>Quy tắc:</strong> Các từ kết thúc bằng <strong>-ity, -ion, -ic, -ial, -ian</strong> thường có trọng âm rơi vào âm tiết liền trước hậu tố.</p><table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Word</th><th class='border p-2'>Stress</th></tr><tr><td class='border p-2'>facility</td><td class='border p-2'>fa<strong>CIL</strong>ity</td></tr><tr><td class='border p-2'>opportunity</td><td class='border p-2'>op<strong>por</strong>TUNity</td></tr><tr><td class='border p-2'>entertainment</td><td class='border p-2'>en<strong>ter</strong>TAINment</td></tr><tr><td class='border p-2'>infrastructure</td><td class='border p-2'><strong>IN</strong>frastructure</td></tr><tr><td class='border p-2'>pollution</td><td class='border p-2'>pol<strong>LU</strong>tion</td></tr></table>"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "id": "acl1-mcq1",
+                "type": "mcq",
+                "question": "A _____ is a very tall building in a city.",
+                "options": ["skyscraper", "shopping mall", "metro", "suburb"],
+                "correct": 0,
+                "explanation": "skyscraper = nhà chọc trời"
+              },
+              {
+                "id": "acl1-mcq2",
+                "type": "mcq",
+                "question": "_____ is the system of buses, trains, etc. that people use to travel.",
+                "options": ["Traffic jam", "Public transport", "Overcrowding", "Infrastructure"],
+                "correct": 1,
+                "explanation": "public transport = phương tiện công cộng"
+              },
+              {
+                "id": "acl1-mcq3",
+                "type": "mcq",
+                "question": "What is a major problem in big cities?",
+                "options": ["Clean air", "Traffic jams", "Good schools", "Parks"],
+                "correct": 1,
+                "explanation": "Traffic jam (kẹt xe) is a major problem in big cities."
+              },
+              {
+                "id": "acl1-mcq4",
+                "type": "mcq",
+                "question": "The word 'pollution' has stress on which syllable?",
+                "options": ["First", "Second", "Third"],
+                "correct": 1,
+                "explanation": "pollution → pol<strong>LU</strong>tion, trọng âm rơi vào âm tiết thứ hai."
+              },
+              {
+                "id": "acl1-mcq5",
+                "type": "mcq",
+                "question": "Which is an ADVANTAGE of living in a city?",
+                "options": ["Traffic jams", "High cost of living", "Job opportunities", "Noise pollution"],
+                "correct": 2,
+                "explanation": "Job opportunities (cơ hội việc làm) is an advantage of city life."
+              },
+              {
+                "id": "acl1-mcq6",
+                "type": "mcq",
+                "question": "The word 'opportunity' has stress on which syllable?",
+                "options": ["First", "Second", "Third", "Fourth"],
+                "correct": 2,
+                "explanation": "opportunity → op<strong>por</strong>TUNity, trọng âm rơi vào âm tiết thứ ba."
+              }
+            ]
+          }
+        },
+        {
+          "id": "p3-grammar",
+          "name": "A Closer Look 2",
+          "slug": "p3-grammar",
+          "description": "Nhìn sâu 2 - Ngữ pháp: Double Comparatives (so sánh kép) và Phrasal verbs.",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 3,
+          "content": {
+            "theory": {
+              "title": "A Closer Look 2 - Grammar",
+              "sections": [
+                {
+                  "heading": "1. Double Comparatives (So sánh kép)",
+                  "content": "<p><strong>Cấu trúc chung:</strong> The + comparative + S + V, the + comparative + S + V</p><p><strong>Nghĩa:</strong> Càng... càng...</p><p><strong>Các dạng:</strong></p><table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Loại</th><th class='border p-2'>Cấu trúc</th><th class='border p-2'>Ví dụ</th></tr><tr><td class='border p-2'>Tính từ ngắn</td><td class='border p-2'>The + adj-er + S + V, the + adj-er + S + V</td><td class='border p-2'>The <strong>bigger</strong> the city is, the <strong>more crowded</strong> it is.</td></tr><tr><td class='border p-2'>Tính từ dài</td><td class='border p-2'>The more + adj + S + V, the more + adj + S + V</td><td class='border p-2'>The <strong>more expensive</strong> the city is, the <strong>more difficult</strong> life is.</td></tr><tr><td class='border p-2'>Kết hợp</td><td class='border p-2'>The + adj-er + S + V, the more + adj + S + V</td><td class='border p-2'>The <strong>older</strong> I get, the <strong>more experienced</strong> I become.</td></tr><tr><td class='border p-2'>Với danh từ</td><td class='border p-2'>The more + N + S + V, the more + N + S + V</td><td class='border p-2'>The <strong>more money</strong> you have, the <strong>more problems</strong> you face.</td></tr></table>"
+                },
+                {
+                  "heading": "2. Phrasal Verbs (Cụm động từ)",
+                  "content": "<table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Phrasal Verb</th><th class='border p-2'>Meaning</th><th class='border p-2'>Example</th></tr><tr><td class='border p-2'>get around</td><td class='border p-2'>đi lại, di chuyển</td><td class='border p-2'>It's easy to get around by metro.</td></tr><tr><td class='border p-2'>grow up</td><td class='border p-2'>lớn lên</td><td class='border p-2'>I grew up in Ha Noi.</td></tr><tr><td class='border p-2'>come back</td><td class='border p-2'>quay lại</td><td class='border p-2'>She will come back tomorrow.</td></tr><tr><td class='border p-2'>go on</td><td class='border p-2'>tiếp tục</td><td class='border p-2'>Please go on with your work.</td></tr><tr><td class='border p-2'>take off</td><td class='border p-2'>cất cánh (máy bay)</td><td class='border p-2'>The plane took off on time.</td></tr><tr><td class='border p-2'>deal with</td><td class='border p-2'>giải quyết</td><td class='border p-2'>We must deal with traffic jams.</td></tr><tr><td class='border p-2'>run out of</td><td class='border p-2'>hết, cạn kiệt</td><td class='border p-2'>We ran out of time.</td></tr><tr><td class='border p-2'>keep up with</td><td class='border p-2'>theo kịp</td><td class='border p-2'>I can't keep up with changes.</td></tr><tr><td class='border p-2'>put on</td><td class='border p-2'>mặc vào</td><td class='border p-2'>Put on your coat.</td></tr><tr><td class='border p-2'>take over</td><td class='border p-2'>tiếp quản</td><td class='border p-2'>He took over the business.</td></tr></table>"
+                }
+              ]
+            },
+            "problemTypes": [
+              {
+                "id": "double-comp-short",
+                "name": "Double Comparatives - Tính từ ngắn",
+                "method": "<p><strong>Cấu trúc:</strong> The + adj-er + S + V, the + adj-er + S + V</p><p><strong>Chú ý:</strong> Tính từ ngắn (1-2 âm tiết) thêm -er. Nhân đôi phụ âm cuối nếu cần (hot → hotter).</p>",
+                "examples": [
+                  { "question": "The city is big. It is crowded. → The ______ the city is, the ______ it is.", "answer": "The <strong>bigger</strong> the city is, the <strong>more crowded</strong> it is.", "explanation": "big → bigger; crowded (dài) → more crowded" },
+                  { "question": "You drive fast. It is dangerous. → The ______ you drive, the ______ it is.", "answer": "The <strong>faster</strong> you drive, the <strong>more dangerous</strong> it is.", "explanation": "fast → faster; dangerous (dài) → more dangerous" },
+                  { "question": "The weather is hot. I feel tired. → The ______ the weather is, the ______ I feel.", "answer": "The <strong>hotter</strong> the weather is, the <strong>more tired</strong> I feel.", "explanation": "hot → hotter; tired → more tired" }
+                ]
+              },
+              {
+                "id": "double-comp-long",
+                "name": "Double Comparatives - Tính từ dài",
+                "method": "<p><strong>Cấu trúc:</strong> The more + adj + S + V, the more + adj + S + V</p><p><strong>Chú ý:</strong> Tính từ dài (3+ âm tiết) dùng more + adj.</p>",
+                "examples": [
+                  { "question": "The city is expensive. Life is difficult. → The ______ the city is, the ______ life is.", "answer": "The <strong>more expensive</strong> the city is, the <strong>more difficult</strong> life is.", "explanation": "expensive → more expensive; difficult → more difficult" },
+                  { "question": "It is polluted. It is unhealthy. → The ______ it is, the ______ it is.", "answer": "The <strong>more polluted</strong> it is, the <strong>more unhealthy</strong> it is.", "explanation": "polluted → more polluted; unhealthy → more unhealthy" },
+                  { "question": "You are careful. You make fewer mistakes. → The ______ you are, the ______ mistakes you make.", "answer": "The <strong>more careful</strong> you are, the <strong>fewer</strong> mistakes you make.", "explanation": "careful → more careful; few → fewer" }
+                ]
+              },
+              {
+                "id": "phrasal-verbs",
+                "name": "Phrasal Verbs - City Life",
+                "method": "<p><strong>Phương pháp:</strong> Học thuộc nghĩa phrasal verbs và chọn phù hợp ngữ cảnh.</p>",
+                "examples": [
+                  { "question": "I ______ in Hanoi. (lớn lên)", "answer": "I <strong>grew up</strong> in Hanoi.", "explanation": "grow up = lớn lên" },
+                  { "question": "It's easy to ______ in this city. (đi lại)", "answer": "It's easy to <strong>get around</strong> in this city.", "explanation": "get around = đi lại" },
+                  { "question": "We need to ______ this problem. (giải quyết)", "answer": "We need to <strong>deal with</strong> this problem.", "explanation": "deal with = giải quyết" }
+                ]
+              }
+            ],
+            "exercises": [
+              {
+                "id": "acl2-mcq1",
+                "type": "mcq",
+                "question": "The bigger the city is, the ______ it is.",
+                "options": ["crowded", "more crowded", "most crowded", "crowdeder"],
+                "correct": 1,
+                "explanation": "crowded (dài) → more crowded"
+              },
+              {
+                "id": "acl2-mcq2",
+                "type": "mcq",
+                "question": "The ______ you drive, the more dangerous it is.",
+                "options": ["fast", "faster", "fastest", "more fast"],
+                "correct": 1,
+                "explanation": "fast → faster"
+              },
+              {
+                "id": "acl2-mcq3",
+                "type": "mcq",
+                "question": "The more expensive the city is, the ______ life is.",
+                "options": ["difficult", "more difficult", "most difficult", "difficulter"],
+                "correct": 1,
+                "explanation": "difficult (dài) → more difficult"
+              },
+              {
+                "id": "acl2-mcq4",
+                "type": "mcq",
+                "question": "The ______ the weather is, the more tired I feel.",
+                "options": ["hot", "hotter", "hottest", "more hot"],
+                "correct": 1,
+                "explanation": "hot → hotter (nhân đôi phụ âm)"
+              },
+              {
+                "id": "acl2-mcq5",
+                "type": "mcq",
+                "question": "I ______ in Hanoi. (lớn lên)",
+                "options": ["grew up", "grew down", "grow up", "growing up"],
+                "correct": 0,
+                "explanation": "grow up = lớn lên (quá khứ: grew up)"
+              },
+              {
+                "id": "acl2-mcq6",
+                "type": "mcq",
+                "question": "It's easy to ______ in this city. (đi lại)",
+                "options": ["get around", "get up", "get on", "get off"],
+                "correct": 0,
+                "explanation": "get around = đi lại, di chuyển"
+              },
+              {
+                "id": "acl2-mcq7",
+                "type": "mcq",
                 "question": "We need to ______ this problem. (giải quyết)",
-                "solution": "We need to <strong>deal with</strong> this problem.",
+                "options": ["deal with", "deal in", "deal on", "deal at"],
+                "correct": 0,
                 "explanation": "deal with = giải quyết"
-              }
-            ]
-          },
-          {
-            "id": "dang4",
-            "name": "Dạng 4: Kết hợp Double Comparatives và Phrasal Verbs",
-            "method": "<p><strong>Phương pháp:</strong></p><ul class='list-disc pl-5 space-y-2'><li>Sử dụng cả so sánh kép và phrasal verbs</li><li>Chú ý ngữ cảnh câu</li></ul>",
-            "examples": [
-              {
-                "question": "The city grows. It is harder to ______. (get around)",
-                "solution": "The <strong>more</strong> the city <strong>grows</strong>, the <strong>harder</strong> it is to <strong>get around</strong>.",
-                "explanation": "So sánh kép + phrasal verb 'get around'"
               },
               {
-                "question": "You ______ problems. You become stronger. (deal with)",
-                "solution": "The <strong>more</strong> problems you <strong>deal with</strong>, the <strong>stronger</strong> you become.",
-                "explanation": "So sánh kép + phrasal verb 'deal with'"
+                "id": "acl2-mcq8",
+                "type": "mcq",
+                "question": "The older I get, the ______ I become.",
+                "options": ["experience", "experienced", "more experienced", "most experienced"],
+                "correct": 2,
+                "explanation": "experienced (dài) → more experienced"
               },
               {
-                "question": "The city is big. It's difficult to ______ changes. (keep up with)",
-                "solution": "The <strong>bigger</strong> the city is, the <strong>more difficult</strong> it is to <strong>keep up with</strong> changes.",
-                "explanation": "So sánh kép + phrasal verb 'keep up with'"
+                "id": "acl2-mcq9",
+                "type": "mcq",
+                "question": "We are ______ time. (hết thời gian)",
+                "options": ["running out of", "running in", "running on", "running at"],
+                "correct": 0,
+                "explanation": "run out of = hết, cạn kiệt"
+              },
+              {
+                "id": "acl2-mcq10",
+                "type": "mcq",
+                "question": "It's hard to ______ the changes. (theo kịp)",
+                "options": ["keep up with", "keep on", "keep in", "keep at"],
+                "correct": 0,
+                "explanation": "keep up with = theo kịp"
               }
             ]
           }
-        ],
-        "exercises": [
-          {
-            "id": "mcq1",
-            "type": "mcq",
-            "question": "The bigger the city is, the ______ it is.",
-            "options": ["crowded", "more crowded", "most crowded", "crowdeder"],
-            "correct": 1,
-            "explanation": "crowded (dài) → more crowded"
-          },
-          {
-            "id": "mcq2",
-            "type": "mcq",
-            "question": "The ______ you drive, the more dangerous it is.",
-            "options": ["fast", "faster", "fastest", "more fast"],
-            "correct": 1,
-            "explanation": "fast → faster"
-          },
-          {
-            "id": "mcq3",
-            "type": "mcq",
-            "question": "The more expensive the city is, the ______ life is.",
-            "options": ["difficult", "more difficult", "most difficult", "difficulter"],
-            "correct": 1,
-            "explanation": "difficult (dài) → more difficult"
-          },
-          {
-            "id": "mcq4",
-            "type": "mcq",
-            "question": "The ______ the weather is, the more tired I feel.",
-            "options": ["hot", "hotter", "hottest", "more hot"],
-            "correct": 1,
-            "explanation": "hot → hotter (nhân đôi phụ âm)"
-          },
-          {
-            "id": "mcq5",
-            "type": "mcq",
-            "question": "I ______ in Hanoi.",
-            "options": ["grew up", "grew down", "grow up", "growing up"],
-            "correct": 0,
-            "explanation": "grow up = lớn lên (quá khứ: grew up)"
-          },
-          {
-            "id": "mcq6",
-            "type": "mcq",
-            "question": "It's easy to ______ in this city.",
-            "options": ["get around", "get up", "get on", "get off"],
-            "correct": 0,
-            "explanation": "get around = đi lại, di chuyển"
-          },
-          {
-            "id": "mcq7",
-            "type": "mcq",
-            "question": "We need to ______ this problem.",
-            "options": ["deal with", "deal in", "deal on", "deal at"],
-            "correct": 0,
-            "explanation": "deal with = giải quyết"
-          },
-          {
-            "id": "mcq8",
-            "type": "mcq",
-            "question": "The older I get, the ______ I become.",
-            "options": ["experience", "experienced", "more experienced", "most experienced"],
-            "correct": 2,
-            "explanation": "experienced (dài) → more experienced"
-          },
-          {
-            "id": "mcq9",
-            "type": "mcq",
-            "question": "We are ______ time.",
-            "options": ["running out of", "running in", "running on", "running at"],
-            "correct": 0,
-            "explanation": "run out of = hết, cạn kiệt"
-          },
-          {
-            "id": "mcq10",
-            "type": "mcq",
-            "question": "It's hard to ______ the changes.",
-            "options": ["keep up with", "keep on", "keep in", "keep at"],
-            "correct": 0,
-            "explanation": "keep up with = theo kịp"
-          },
-          {
-            "id": "msq1",
-            "type": "msq",
-            "question": "Which are correct double comparatives? (Select all that apply)",
-            "options": ["The bigger, the better.", "The more expensive, the more difficult.", "The faster, the dangerouser.", "The hotter, the more tired."],
-            "correct": [0, 1, 3],
-            "explanation": "Đúng: bigger/better, more expensive/more difficult, hotter/more tired. Sai: dangerouser (phải là 'more dangerous')"
-          },
-          {
-            "id": "msq2",
-            "type": "msq",
-            "question": "Which phrasal verbs mean 'đi lại' or 'di chuyển'? (Select all that apply)",
-            "options": ["get around", "grow up", "come back", "go on"],
-            "correct": [0],
-            "explanation": "get around = đi lại. grow up = lớn lên; come back = quay lại; go on = tiếp tục"
-          },
-          {
-            "id": "msq3",
-            "type": "msq",
-            "question": "Which sentences are correct? (Select all that apply)",
-            "options": ["The bigger the city, the more crowded it is.", "The more fast you drive, the dangerous it is.", "The older I get, the wiser I become.", "The more money, the more problems."],
-            "correct": [0, 2, 3],
-            "explanation": "Đúng: bigger/more crowded, older/wiser, more money/more problems. Sai: more fast (phải là 'faster'), the dangerous (thiếu 'more')"
-          },
-          {
-            "id": "sa1",
-            "type": "sa",
-            "question": "Fill in: The ______ (big) the city is, the ______ (crowded) it is.",
-            "correct": "bigger, more crowded",
-            "explanation": "big → bigger; crowded → more crowded"
-          },
-          {
-            "id": "sa2",
-            "type": "sa",
-            "question": "Fill in: The ______ (expensive) the city is, the ______ (difficult) life is.",
-            "correct": "more expensive, more difficult",
-            "explanation": "expensive → more expensive; difficult → more difficult"
-          },
-          {
-            "id": "sa3",
-            "type": "sa",
-            "question": "Fill in phrasal verb: I ______ (lớn lên) in Hanoi.",
-            "correct": "grew up",
-            "explanation": "grow up = lớn lên (quá khứ: grew up)"
-          },
-          {
-            "id": "sa4",
-            "type": "sa",
-            "question": "Fill in phrasal verb: We need to ______ (giải quyết) this problem.",
-            "correct": "deal with",
-            "explanation": "deal with = giải quyết"
-          },
-          {
-            "id": "essay1",
-            "type": "essay",
-            "question": "Rearrange: bigger / The / city / the / is / , / more / the / crowded / is / it / .",
-            "sample_answer": "The bigger the city is, the more crowded it is.",
-            "explanation": "Sắp xếp: The + comparative + S + V, the + comparative + S + V"
-          },
-          {
-            "id": "essay2",
-            "type": "essay",
-            "question": "Transform: The city is big. It is crowded. → The ______, the ______.",
-            "sample_answer": "The bigger the city is, the more crowded it is.",
-            "explanation": "Biến đổi: big → bigger; crowded → more crowded"
-          },
-          {
-            "id": "essay3",
-            "type": "essay",
-            "question": "Transform: You drive fast. It is dangerous. → The ______, the ______.",
-            "sample_answer": "The faster you drive, the more dangerous it is.",
-            "explanation": "Biến đổi: fast → faster; dangerous → more dangerous"
-          },
-          {
-            "id": "essay4",
-            "type": "essay",
-            "question": "Rearrange with phrasal verb: up / I / grew / in / Hanoi / . / around / easy / It's / get / to / in / city / this / .",
-            "sample_answer": "I grew up in Hanoi. It's easy to get around in this city.",
-            "explanation": "Sắp xếp: grew up (lớn lên), get around (đi lại)"
-          },
-          {
-            "id": "essay5",
-            "type": "essay",
-            "question": "Transform and combine: The city grows. It is harder to get around. (Use double comparative)",
-            "sample_answer": "The more the city grows, the harder it is to get around.",
-            "explanation": "Biến đổi: grows → more...grows; harder → harder. Kết hợp với phrasal verb 'get around'"
+        },
+        {
+          "id": "p4-communication",
+          "name": "Communication",
+          "slug": "p4-communication",
+          "description": "Giao tiếp - Everyday English: Asking for and giving directions. Listening và nói về cuộc sống thành phố.",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 4,
+          "content": {
+            "theory": {
+              "title": "Communication - Everyday English",
+              "sections": [
+                {
+                  "heading": "1. Everyday English: Asking for and giving directions",
+                  "content": "<p><strong>Asking for directions (Hỏi đường):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Excuse me, could you tell me how to get to...?</strong> — Xin lỗi, bạn có thể chỉ tôi đường đến...?</li><li><strong>Excuse me, where is the...?</strong> — Xin lỗi, ... ở đâu?</li><li><strong>Is there a... near here?</strong> — Có ... gần đây không?</li><li><strong>How far is it from here?</strong> — Cách đây bao xa?</li></ul><p><strong>Giving directions (Chỉ đường):</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Go straight ahead.</strong> — Đi thẳng.</li><li><strong>Turn left / right.</strong> — Rẽ trái / phải.</li><li><strong>Take the first / second street on the left / right.</strong> — Rẽ ở đường thứ nhất / hai bên trái / phải.</li><li><strong>It's opposite / next to / between...</strong> — Nó đối diện / bên cạnh / giữa...</li><li><strong>You can take bus number...</strong> — Bạn có thể đi xe buýt số...</li></ul>"
+                },
+                {
+                  "heading": "2. Practice: Pair work",
+                  "content": "<p><strong>Situation 1:</strong> You want to find a supermarket.</p><p><em>You: Excuse me, could you tell me how to get to the nearest supermarket?</em></p><p><em>Passerby: Sure. Go straight ahead, then turn left. It's opposite the park.</em></p><p class='mt-2'><strong>Situation 2:</strong> You want to know how far the bus station is.</p><p><em>You: How far is it from here to the bus station?</em></p><p><em>Passerby: It's about one kilometre. You can walk there in ten minutes.</em></p><p class='mt-2'><strong>Situation 3:</strong> You want to ask about the metro.</p><p><em>You: Is there a metro station near here?</em></p><p><em>Passerby: Yes, the nearest one is on Nguyen Hue Street, about 500 metres from here.</em></p>"
+                },
+                {
+                  "heading": "3. Listening: City life",
+                  "content": "<p>Listen to a conversation about city life and complete the notes.</p><div class='bg-gray-50 dark:bg-gray-800 p-4 rounded-xl border border-gray-200 dark:border-gray-700 my-3'><p><strong>Listening passage:</strong></p><p>Mai moved to Ha Noi two years ago. At first, she found city life very different from her hometown. The streets were always busy and crowded. However, she soon discovered the advantages of city life. The public transport system is excellent. She can easily get around by bus or metro. There are also many parks where she can relax. Mai says the more she lives in Ha Noi, the more she loves it.</p></div><p><strong>Comprehension questions:</strong></p><ol class='list-decimal pl-5 space-y-2'><li>How long has Mai lived in Ha Noi? → <strong>Two years.</strong></li><li>What did she find about the streets? → <strong>They were always busy and crowded.</strong></li><li>What is excellent in Ha Noi? → <strong>The public transport system.</strong></li><li>How can Mai get around? → <strong>By bus or metro.</strong></li><li>What does Mai say about living in Ha Noi? → <strong>The more she lives in Ha Noi, the more she loves it.</strong></li></ol>"
+                },
+                {
+                  "heading": "4. Speaking: City problems and solutions",
+                  "content": "<p>Work in pairs. Talk about city problems and suggest solutions.</p><table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Problem</th><th class='border p-2'>Solution</th></tr><tr><td class='border p-2'>Traffic jams</td><td class='border p-2'>Use public transport, ride bicycles</td></tr><tr><td class='border p-2'>Air pollution</td><td class='border p-2'>Plant more trees, reduce factory emissions</td></tr><tr><td class='border p-2'>Noise pollution</td><td class='border p-2'>Limit construction at night, use soundproof glass</td></tr><tr><td class='border p-2'>Overcrowding</td><td class='border p-2'>Develop suburbs, improve infrastructure</td></tr><tr><td class='border p-2'>High cost of living</td><td class='border p-2'>Control prices, provide affordable housing</td></tr></table><p><strong>Sample:</strong></p><p><em>A: What do you think is the biggest problem in our city?</em></p><p><em>B: I think traffic jams are the biggest problem. The more vehicles there are, the worse the traffic becomes.</em></p><p><em>A: What should we do?</em></p><p><em>B: We should use public transport more. The more people use buses and metros, the fewer traffic jams there will be.</em></p>"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "id": "comm-mcq1",
+                "type": "mcq",
+                "question": "Which is the correct way to ask for directions politely?",
+                "options": ["Tell me where the station is!", "Excuse me, could you tell me how to get to the station?", "Where station?", "Go find the station yourself."],
+                "correct": 1,
+                "explanation": "Excuse me, could you tell me how to get to...? là cách hỏi đường lịch sự."
+              },
+              {
+                "id": "comm-mcq2",
+                "type": "mcq",
+                "question": "How long has Mai lived in Ha Noi?",
+                "options": ["One year", "Two years", "Three years", "Five years"],
+                "correct": 1,
+                "explanation": "Mai moved to Ha Noi two years ago."
+              },
+              {
+                "id": "comm-mcq3",
+                "type": "mcq",
+                "question": "What does Mai say about living in Ha Noi?",
+                "options": ["She wants to move back.", "The more she lives there, the more she loves it.", "She finds it too expensive.", "She doesn't like the food."],
+                "correct": 1,
+                "explanation": "Mai says 'The more she lives in Ha Noi, the more she loves it.'"
+              },
+              {
+                "id": "comm-mcq4",
+                "type": "mcq",
+                "question": "Which is a good solution for traffic jams?",
+                "options": ["Drive more cars", "Use public transport", "Build fewer roads", "Move to the suburbs"],
+                "correct": 1,
+                "explanation": "Using public transport helps reduce traffic jams."
+              }
+            ]
           }
-        ]
-      }
+        },
+        {
+          "id": "p5-skill1",
+          "name": "Skills 1",
+          "slug": "p5-skill1",
+          "description": "Kỹ năng 1 - Đọc hiểu về các vấn đề đô thị và giải pháp. Nói về vấn đề và giải pháp cho thành phố.",
+          "duration_minutes": 45,
+          "difficulty_level": "hard",
+          "order": 5,
+          "content": {
+            "theory": {
+              "title": "Skills 1 - Reading & Speaking",
+              "sections": [
+                {
+                  "heading": "1. Reading: City problems and solutions",
+                  "content": "<p><strong>Pre-reading:</strong> Look at the pictures. What city problems can you see?</p><p>Read the passage about city problems and their solutions.</p><div class='bg-gray-50 dark:bg-gray-800 p-4 rounded-xl border border-gray-200 dark:border-gray-700 my-3'><p><strong>CITY PROBLEMS AND SOLUTIONS</strong></p><p>Big cities around the world face many problems. One of the most serious is traffic congestion. Every day, millions of people travel to work, causing long traffic jams. This wastes time and increases air pollution.</p><p>To solve this, many cities have improved their public transport systems. London has a famous underground train system called the Tube. Tokyo has one of the most efficient train networks in the world. People are encouraged to leave their cars at home and use public transport. The more people use public transport, the less pollution there is.</p><p>Another problem is waste management. Big cities produce thousands of tons of rubbish every day. If waste is not handled properly, it causes pollution and health problems. Many cities have started recycling programmes. In San Francisco, residents sort their rubbish into different bins for recycling, composting, and landfill. The city has successfully reduced waste by 80%.</p><p>Noise pollution is also a concern. Construction, traffic, and industrial activities create constant noise. Cities like Vienna have built noise barriers along highways and planted trees to absorb sound.</p></div>"
+                },
+                {
+                  "heading": "2. Comprehension Questions",
+                  "content": "<ol class='list-decimal pl-5 space-y-2'><li>What is one of the most serious problems in big cities? → <strong>Traffic congestion / traffic jams.</strong></li><li>What public transport system does London have? → <strong>The Tube (underground train system).</strong></li><li>What has San Francisco done to reduce waste? → <strong>Started recycling programmes where residents sort rubbish into different bins.</strong></li><li>How much waste has San Francisco reduced? → <strong>80%.</strong></li><li>How have cities like Vienna reduced noise pollution? → <strong>Built noise barriers along highways and planted trees to absorb sound.</strong></li><li>What is the benefit of using public transport? → <strong>The more people use public transport, the less pollution there is.</strong></li></ol>"
+                },
+                {
+                  "heading": "3. Speaking: Discuss city problems and solutions",
+                  "content": "<p>Work in groups. Choose a city problem and discuss solutions.</p><p><strong>Structure:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Problem:</strong> Identify the problem and explain why it's serious</li><li><strong>Cause:</strong> What causes this problem</li><li><strong>Solution:</strong> Suggest 2-3 solutions</li><li><strong>Result:</strong> What will happen if we apply these solutions</li></ul><p><strong>Useful language:</strong></p><ul class='list-disc pl-5 space-y-2'><li>The more... the more...</li><li>One solution is to...</li><li>We should / could / need to...</li><li>This will help to...</li><li>If we..., then...</li></ul><p><strong>Sample:</strong></p><p><em>Our group chose traffic congestion. The more people own cars, the worse traffic becomes. One solution is to improve public transport. We should build more metro lines and bus routes. The more convenient public transport is, the fewer people will drive cars. Another solution is to encourage cycling by building more bike lanes. If we do these things, our city will have less pollution and fewer traffic jams.</em></p>"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "id": "sk1-mcq1",
+                "type": "mcq",
+                "question": "What is one of the most serious problems in big cities according to the passage?",
+                "options": ["Lack of schools", "Traffic congestion", "Too many parks", "Not enough food"],
+                "correct": 1,
+                "explanation": "One of the most serious problems in big cities is traffic congestion."
+              },
+              {
+                "id": "sk1-mcq2",
+                "type": "mcq",
+                "question": "What is London's underground train system called?",
+                "options": ["The Metro", "The Tube", "The Subway", "The Rail"],
+                "correct": 1,
+                "explanation": "London has a famous underground train system called the Tube."
+              },
+              {
+                "id": "sk1-mcq3",
+                "type": "mcq",
+                "question": "How much waste has San Francisco reduced through recycling?",
+                "options": ["50%", "60%", "80%", "90%"],
+                "correct": 2,
+                "explanation": "San Francisco has successfully reduced waste by 80%."
+              },
+              {
+                "id": "sk1-mcq4",
+                "type": "mcq",
+                "question": "What has Vienna done to reduce noise pollution?",
+                "options": ["Closed all factories", "Built noise barriers and planted trees", "Banned all cars", "Moved people to suburbs"],
+                "correct": 1,
+                "explanation": "Vienna built noise barriers along highways and planted trees to absorb sound."
+              },
+              {
+                "id": "sk1-mcq5",
+                "type": "mcq",
+                "question": "According to the passage, what happens if more people use public transport?",
+                "options": ["Traffic gets worse", "There is less pollution", "Cities become noisier", "More cars are sold"],
+                "correct": 1,
+                "explanation": "The more people use public transport, the less pollution there is."
+              }
+            ]
+          }
+        },
+        {
+          "id": "p6-skill2",
+          "name": "Skills 2",
+          "slug": "p6-skill2",
+          "description": "Kỹ năng 2 - Nghe về cuộc sống thành phố và viết đoạn văn về city life.",
+          "duration_minutes": 45,
+          "difficulty_level": "hard",
+          "order": 6,
+          "content": {
+            "theory": {
+              "title": "Skills 2 - Listening & Writing",
+              "sections": [
+                {
+                  "heading": "1. Listening: City life",
+                  "content": "<p><strong>Pre-listening:</strong> What do you know about life in a big city? What are the good and bad things?</p><p>Listen to a passage about a person's experience living in a big city.</p><div class='bg-gray-50 dark:bg-gray-800 p-4 rounded-xl border border-gray-200 dark:border-gray-700 my-3'><p><strong>Listening passage:</strong></p><p>My name is Lan. I moved to Ho Chi Minh City three years ago for university. At first, I was overwhelmed by the fast pace of life. The streets were always crowded and noisy. However, I quickly adapted. Now I really enjoy living here. The city has excellent facilities: modern shopping malls, beautiful parks, and great restaurants. The public transport is convenient, so it's easy to get around. I have made many friends and I love the energy of the city. The more time I spend here, the more I appreciate city life. Living in a big city has taught me to be independent and confident. I believe that the bigger the city is, the more opportunities it offers.</p></div><p><strong>Comprehension questions:</strong></p><ol class='list-decimal pl-5 space-y-2'><li>How long has Lan lived in Ho Chi Minh City? → <strong>Three years.</strong></li><li>Why was Lan overwhelmed at first? → <strong>By the fast pace of life.</strong></li><li>What does Lan enjoy about the city now? → <strong>Excellent facilities, modern shopping malls, parks, restaurants, convenient public transport.</strong></li><li>What has city life taught Lan? → <strong>To be independent and confident.</strong></li><li>What does Lan believe about big cities? → <strong>The bigger the city is, the more opportunities it offers.</strong></li></ol>"
+                },
+                {
+                  "heading": "2. Writing: A paragraph about city life",
+                  "content": "<p><strong>Structure:</strong></p><table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Part</th><th class='border p-2'>Content</th></tr><tr><td class='border p-2'><strong>Topic sentence</strong></td><td class='border p-2'>Introduce city life in general or a specific city</td></tr><tr><td class='border p-2'><strong>Body</strong></td><td class='border p-2'>Describe advantages (facilities, transport, opportunities)</td></tr><tr><td class='border p-2'><strong>Body</strong></td><td class='border p-2'>Describe disadvantages (crowded, noisy, expensive)</td></tr><tr><td class='border p-2'><strong>Concluding sentence</strong></td><td class='border p-2'>Your opinion about city life</td></tr></table><p class='mt-3'><strong>Useful language:</strong></p><ul class='list-disc pl-5 space-y-2'><li><strong>Advantages:</strong> convenient, modern, exciting, many opportunities, good facilities, excellent public transport</li><li><strong>Disadvantages:</strong> crowded, noisy, polluted, expensive, stressful, traffic jams</li><li><strong>Comparatives:</strong> The more... the more...; bigger than, more expensive than, better than</li></ul><p class='mt-3'><strong>Sample paragraph:</strong></p><div class='bg-gray-50 dark:bg-gray-800 p-4 rounded-xl border border-gray-200 dark:border-gray-700'><p><em>Life in a big city has both advantages and disadvantages. On the one hand, the city offers many opportunities for education and employment. There are modern facilities such as shopping malls, hospitals, and sports centres. The public transport system makes it easy to get around. On the other hand, the city is often crowded and noisy. The more people move to the city, the more crowded it becomes. Traffic jams are a daily problem. In my opinion, despite the challenges, city life is exciting and worth experiencing.</em></p></div>"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "id": "sk2-mcq1",
+                "type": "mcq",
+                "question": "How long has Lan lived in Ho Chi Minh City?",
+                "options": ["Two years", "Three years", "Four years", "Five years"],
+                "correct": 1,
+                "explanation": "Lan moved to Ho Chi Minh City three years ago."
+              },
+              {
+                "id": "sk2-mcq2",
+                "type": "mcq",
+                "question": "What was Lan overwhelmed by at first?",
+                "options": ["The expensive cost", "The fast pace of life", "The unfriendly people", "The bad weather"],
+                "correct": 1,
+                "explanation": "Lan was overwhelmed by the fast pace of life."
+              },
+              {
+                "id": "sk2-mcq3",
+                "type": "mcq",
+                "question": "What has city life taught Lan?",
+                "options": ["To be careful with money", "To be independent and confident", "To drive a car", "To cook"],
+                "correct": 1,
+                "explanation": "Living in a big city has taught Lan to be independent and confident."
+              },
+              {
+                "id": "sk2-mcq4",
+                "type": "mcq",
+                "question": "What does Lan believe about big cities?",
+                "options": ["The bigger the city, the more dangerous it is.", "The bigger the city, the more opportunities it offers.", "The bigger the city, the more polluted it is.", "The bigger the city, the more lonely people feel."],
+                "correct": 1,
+                "explanation": "Lan believes the bigger the city is, the more opportunities it offers."
+              },
+              {
+                "id": "sk2-essay1",
+                "type": "essay",
+                "question": "Write a paragraph (80-100 words) about city life. Include both advantages and disadvantages. Use at least one double comparative (the more... the more...).",
+                "sample_answer": "City life has both good and bad sides. The city offers many job opportunities and modern facilities like shopping malls, parks, and hospitals. Public transport is convenient, so it is easy to get around. However, the city is also crowded and noisy. The more people move to the city, the more traffic jams there are. Air pollution is also a serious problem. Despite these disadvantages, I enjoy city life because it is exciting and full of opportunities.",
+                "explanation": "Học sinh viết đoạn văn về city life, nêu ưu và nhược điểm, sử dụng so sánh kép."
+              }
+            ]
+          }
+        },
+        {
+          "id": "p7-looking-back",
+          "name": "Looking Back",
+          "slug": "p7-looking-back",
+          "description": "Ôn tập từ vựng và ngữ pháp toàn bộ Unit 2: City Life.",
+          "duration_minutes": 45,
+          "difficulty_level": "medium",
+          "order": 7,
+          "content": {
+            "theory": {
+              "title": "Looking Back - Review",
+              "sections": [
+                {
+                  "heading": "1. Vocabulary Review",
+                  "content": "<p><strong>City features:</strong> skyscraper, shopping mall, public transport, metro, infrastructure, entertainment</p><p><strong>City problems:</strong> traffic jam, air pollution, noise pollution, overcrowding, high cost of living, crime</p><p><strong>City advantages:</strong> convenient, modern, job opportunities, good education, healthcare, entertainment</p>"
+                },
+                {
+                  "heading": "2. Grammar Review",
+                  "content": "<p><strong>Double Comparatives (So sánh kép):</strong></p><ul class='list-disc pl-5 space-y-2'><li>The + adj-er + S + V, the + adj-er + S + V (tính từ ngắn)</li><li>The more + adj + S + V, the more + adj + S + V (tính từ dài)</li><li>The more + N + S + V, the more + N + S + V (danh từ)</li></ul><p><strong>Phrasal verbs:</strong> get around, grow up, come back, go on, take off, deal with, run out of, keep up with, put on, take over</p>"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "id": "lb-mcq1",
+                "type": "mcq",
+                "question": "The more carefully you drive, the ______ accidents you will cause.",
+                "options": ["fewer", "more", "less", "many"],
+                "correct": 0,
+                "explanation": "The more carefully + the fewer accidents (cẩn thận hơn → ít tai nạn hơn)."
+              },
+              {
+                "id": "lb-mcq2",
+                "type": "mcq",
+                "question": "The older I get, the ______ I become.",
+                "options": ["more wiser", "wiser", "wisest", "most wise"],
+                "correct": 1,
+                "explanation": "old → older; wise → wiser (tính từ ngắn: 1 âm tiết)"
+              },
+              {
+                "id": "lb-mcq3",
+                "type": "mcq",
+                "question": "She had to ______ many difficulties when she moved to the city.",
+                "options": ["deal with", "deal in", "deal at", "deal on"],
+                "correct": 0,
+                "explanation": "deal with = giải quyết, đối phó"
+              },
+              {
+                "id": "lb-mcq4",
+                "type": "mcq",
+                "question": "The train ______ at 6 a.m. from Ha Noi station.",
+                "options": ["takes off", "sets up", "gets around", "goes on"],
+                "correct": 0,
+                "explanation": "take off = cất cánh, khởi hành (tàu/xe)"
+              },
+              {
+                "id": "lb-mcq5",
+                "type": "mcq",
+                "question": "They decided to ______ a new business in the city centre.",
+                "options": ["set up", "grow up", "get around", "come back"],
+                "correct": 0,
+                "explanation": "set up = thành lập"
+              },
+              {
+                "id": "lb-mcq6",
+                "type": "mcq",
+                "question": "A ______ is a very tall building in a city.",
+                "options": ["skyscraper", "metro", "suburb", "facility"],
+                "correct": 0,
+                "explanation": "skyscraper = nhà chọc trời"
+              },
+              {
+                "id": "lb-mcq7",
+                "type": "mcq",
+                "question": "______ means the system of buses, trains, etc. for people to travel.",
+                "options": ["Traffic jam", "Public transport", "Overcrowding", "Infrastructure"],
+                "correct": 1,
+                "explanation": "Public transport = phương tiện giao thông công cộng"
+              },
+              {
+                "id": "lb-mcq8",
+                "type": "mcq",
+                "question": "The ______ I learn English, the more I enjoy it.",
+                "options": ["more", "much", "many", "most"],
+                "correct": 0,
+                "explanation": "The more I learn English = càng học tiếng Anh nhiều"
+              },
+              {
+                "id": "lb-mcq9",
+                "type": "mcq",
+                "question": "We must ______ this problem before it gets worse.",
+                "options": ["deal with", "run out of", "keep up with", "take over"],
+                "correct": 0,
+                "explanation": "deal with = giải quyết"
+              },
+              {
+                "id": "lb-mcq10",
+                "type": "mcq",
+                "question": "It's not easy to ______ the rapid changes in technology.",
+                "options": ["get around", "grow up", "keep up with", "come back"],
+                "correct": 2,
+                "explanation": "keep up with = theo kịp"
+              }
+            ]
+          }
+        },
+        {
+          "id": "p8-project",
+          "name": "Project",
+          "slug": "p8-project",
+          "description": "Dự án: Tìm hiểu và thuyết trình về các vấn đề của thành phố và đề xuất giải pháp.",
+          "duration_minutes": 45,
+          "difficulty_level": "hard",
+          "order": 8,
+          "content": {
+            "theory": {
+              "title": "Project: City problems and solutions",
+              "sections": [
+                {
+                  "heading": "Project Instructions",
+                  "content": "<p><strong>Work in groups. Choose a city problem, research it, and present your findings and solutions.</strong></p><p><strong>Step 1: Choose a problem</strong></p><ul class='list-disc pl-5 space-y-2'><li>Traffic congestion (kẹt xe)</li><li>Air pollution (ô nhiễm không khí)</li><li>Noise pollution (ô nhiễm tiếng ồn)</li><li>Overcrowding (quá đông đúc)</li><li>Waste management (quản lý rác thải)</li><li>High cost of living (chi phí sinh hoạt cao)</li></ul><p><strong>Step 2: Prepare your presentation</strong></p><table class='w-full border-collapse border border-gray-300'><tr class='bg-gray-100'><th class='border p-2'>Part</th><th class='border p-2'>Content</th></tr><tr><td class='border p-2'>Introduction</td><td class='border p-2'>Introduce the problem and which city you're talking about</td></tr><tr><td class='border p-2'>Description</td><td class='border p-2'>Describe the problem: how serious it is, examples</td></tr><tr><td class='border p-2'>Causes</td><td class='border p-2'>What causes this problem</td></tr><tr><td class='border p-2'>Solutions</td><td class='border p-2'>Suggest 2-3 practical solutions</td></tr><tr><td class='border p-2'>Conclusion</td><td class='border p-2'>Summarise and call for action</td></tr></table>"
+                },
+                {
+                  "heading": "Sample Project: Traffic congestion in Ha Noi",
+                  "content": "<div class='bg-gray-50 dark:bg-gray-800 p-4 rounded-xl border border-gray-200 dark:border-gray-700 my-3'><p><strong>Traffic Congestion in Ha Noi</strong></p><p>Today our group will talk about traffic congestion in Ha Noi. This is a serious problem that affects millions of people every day.</p><p>During rush hours, many streets are blocked with vehicles. People waste hours sitting in traffic. The more vehicles there are, the worse the congestion becomes. This also causes air pollution because cars and motorbikes release harmful gases.</p><p>The main cause is the rapid increase in the number of private vehicles. More people buy motorbikes and cars, but the roads haven't expanded enough.</p><p>There are several solutions. First, the government should improve public transport by building more metro lines and bus routes. Second, people should be encouraged to use bicycles for short distances. Third, we need better traffic management with smart traffic lights.</p><p>In conclusion, traffic congestion is a big challenge for Ha Noi. But if we work together, we can make our city a better place to live. The more we act now, the better our future will be. Thank you for listening.</p></div>"
+                }
+              ]
+            },
+            "exercises": [
+              {
+                "id": "proj-essay1",
+                "type": "essay",
+                "question": "Write a short proposal (80-100 words) about a city problem and suggest solutions. Use at least one double comparative (the more... the more...).",
+                "sample_answer": "Our group chose air pollution in Ho Chi Minh City. The more factories and vehicles there are, the more polluted the air becomes. This causes health problems for residents. To solve this, we should plant more trees in the city. Trees absorb CO2 and release oxygen. The government should also encourage people to use electric vehicles instead of petrol cars. Factories must install air filters. If we do these things, the air quality will improve. Everyone should take action to protect our environment.",
+                "explanation": "Học sinh viết đề xuất về vấn đề thành phố và giải pháp, sử dụng so sánh kép."
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }
